@@ -1,1 +1,38 @@
-IyEvc3lzdGVtL2Jpbi9zaAojIOahpeaOpeaJmOeuoei/m+eoi++8mm5vZGUg6YCA5Ye65ZCOIDMg56eS6Ieq5Yqo6YeN5ZCv77yM5bm26K6w5b2V6YCA5Ye656CB77yI55So5LqO6K+K5pat5bSp5rqD5Y6f5Zug77yJCiMg5YGc5q2i5pa55rOVOiB0b3VjaCBzdGF0ZS9icmlkZ2Uuc3RvcCDlkI7mnYDmjonmnKzov5vnqIsKCgojIOKUgOKUgCDlj6/np7vmpI3ot6/lvoTmjqLmtYvvvIhkc2gtcXEtYnJpZGdlIOaPkuS7tueUn+aIkO+8jOWLv+WIoO+8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIOeUteiEkSAvIOacjeWKoeWZqCAvIOWuieWNk+mAmueUqO+8muahpeaOpeebruW9leaMieiEmuacrOiHqui6q+S9jee9ruaOqOWvvO+8jG5vZGUg6LWwIFBBVEjvvIwKIyBEU0hfSE9NRSDkvJjlhYjlj5bnjq/looPlj5jph4/vvIzlhbbmrKHmoYzpnaIgRFNIIOe6puWumuebruW9leOAggppZiBbIC16ICIkUE9SVEFCTEVfUEFUSFNfTE9BREVEIiBdOyB0aGVuCiAgUE9SVEFCTEVfUEFUSFNfTE9BREVEPTEKICBTQ1JJUFRfRElSPSIkKGNkICIkKGRpcm5hbWUgIiQwIikiIDI+L2Rldi9udWxsICYmIHB3ZCkiCiAgQlJJREdFX0RJUj0iJHtCUklER0VfRElSOi0kU0NSSVBUX0RJUn0iCiAgTk9ERV9CSU49IiR7Tk9ERV9CSU46LSQoY29tbWFuZCAtdiBub2RlIDI+L2Rldi9udWxsIHx8IGVjaG8gbm9kZSl9IgogIERTSF9IT01FPSIke0RTSF9IT01FOi0kSE9NRS8uZHNofSIKICBleHBvcnQgQlJJREdFX0RJUiBOT0RFX0JJTiBEU0hfSE9NRQpmaQojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApESVI9IiIkRFNIX0hPTUUiL3FxLWJyaWRnZSIKY2QgIiRESVIiIHx8IGV4aXQgMQoKTE9HPSIkRElSL2JyaWRnZS1ydW4ubG9nIgpTVE9QPSIkRElSL3N0YXRlL2JyaWRnZS5zdG9wIgoKcm0gLWYgIiRTVE9QIiAyPi9kZXYvbnVsbAoKdHMoKSB7IGRhdGUgJyslWS0lbS0lZCAlSDolTTolUyc7IH0KCndoaWxlIFsgISAtZiAiJFNUT1AiIF07IGRvCiAgZWNobyAiJCh0cykgW3N1cGVydmlzb3JdIOWQr+WKqOahpeaOpSIgPj4gIiRMT0ciCiAgbm9kZSBzcmMvYnJpZGdlLmpzID4+ICIkTE9HIiAyPiYxCiAgQ09ERT0kPwogIGVjaG8gIiQodHMpIFtzdXBlcnZpc29yXSDmoaXmjqXpgIDlh7rvvIzpgIDlh7rnoIE9JENPREUiID4+ICIkTE9HIgogIFsgLWYgIiRTVE9QIiBdICYmIGJyZWFrCiAgc2xlZXAgMwpkb25lCgplY2hvICIkKHRzKSBbc3VwZXJ2aXNvcl0g5omY566h5bey5YGc5q2iIiA+PiAiJExPRyIKcm0gLWYgIiRTVE9QIiAyPi9kZXYvbnVsbAo=
+#!/system/bin/sh
+# 桥接托管进程：node 退出后 3 秒自动重启，并记录退出码（用于诊断崩溃原因）
+# 停止方法: touch state/bridge.stop 后杀掉本进程
+
+
+# ── 可移植路径探测（dsh-qq-bridge 插件生成，勿删）──────────────────
+# 电脑 / 服务器 / 安卓通用：桥接目录按脚本自身位置推导，node 走 PATH，
+# DSH_HOME 优先取环境变量，其次桌面 DSH 约定目录。
+if [ -z "$PORTABLE_PATHS_LOADED" ]; then
+  PORTABLE_PATHS_LOADED=1
+  SCRIPT_DIR="$(cd "$(dirname "$0")" 2>/dev/null && pwd)"
+  BRIDGE_DIR="${BRIDGE_DIR:-$SCRIPT_DIR}"
+  NODE_BIN="${NODE_BIN:-$(command -v node 2>/dev/null || echo node)}"
+  DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+  export BRIDGE_DIR NODE_BIN DSH_HOME
+fi
+# ────────────────────────────────────────────────────────────────────
+DIR=""$DSH_HOME"/qq-bridge"
+cd "$DIR" || exit 1
+
+LOG="$DIR/bridge-run.log"
+STOP="$DIR/state/bridge.stop"
+
+rm -f "$STOP" 2>/dev/null
+
+ts() { date '+%Y-%m-%d %H:%M:%S'; }
+
+while [ ! -f "$STOP" ]; do
+  echo "$(ts) [supervisor] 启动桥接" >> "$LOG"
+  node src/bridge.js >> "$LOG" 2>&1
+  CODE=$?
+  echo "$(ts) [supervisor] 桥接退出，退出码=$CODE" >> "$LOG"
+  [ -f "$STOP" ] && break
+  sleep 3
+done
+
+echo "$(ts) [supervisor] 托管已停止" >> "$LOG"
+rm -f "$STOP" 2>/dev/null

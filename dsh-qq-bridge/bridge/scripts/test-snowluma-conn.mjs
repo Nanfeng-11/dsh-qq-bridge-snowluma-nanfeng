@@ -1,1 +1,121 @@
-Ly8gU25vd0x1bWEg6LSm5Y+3L3Rva2VuIOiHquWPkeeOsOiHquajgOOAggovLwovLyDog4zmma/vvIjlrp7mtYvnoa7orqTnmoTmoLnlm6DvvInvvJpTbm93THVtYSDnmoQgT25lQm90IOmFjee9ruaMiei0puWPt+WIhuaWh+S7tgovLyDvvIg8U25vd0x1bWE+L2NvbmZpZy9vbmVib3RfPFFR5Y+3Pi5qc29u77yJ77yM5q+P5Liq6LSm5Y+35LiA5LiqIHRva2Vu77yMSFRUUCDkuI4gV1Mg6L+Y5ZCE5LiN55u45ZCM44CCCi8vIOaNoiBRUSDotKblj7fnmbvlvZXlkI7vvIzku7vkvZXmioogdG9rZW4g5YaZ5q275ZyoIGNvbmZpZy5qc29uIOmHjOeahOW3peWFt+mDveS8miA0MDEg4oCU4oCUCi8vIOi/meato+aYryLmjaLkuKrotKblj7fnmbvlvZXvvIzlj5Hor63pn7Plt6XlhbflsLHkuI3ooYzkuoYi55qE5Y6f5Zug44CCCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgewogIGRpc2NvdmVyU25vd0x1bWFDb25uZWN0aW9uLCBwZXJzaXN0VG9rZW4sIHJlYWRPbmVCb3RIdHRwVG9rZW5zLCByZWFkT25lQm90VG9rZW5zLCBzbm93THVtYUhvbWVDYW5kaWRhdGVzCn0gZnJvbSAnLi4vc3JjL3Nub3dsdW1hLWNvbm4uanMnOwovLyDni6znq4vlj5Hor63pn7Plt6XlhbflnKjku5PlupPkuIrkuIDnuqfvvIjkuI3lnKjmnKzku5PlupPph4zvvInvvJrkvY3nva7op6PmnpDkuI4i5LiN5Zyo5pe25oCO5LmI6Lez6L+HIui1sOWFseS6q+WPo+W+hOOAggppbXBvcnQgeyBoYXNWb2ljZVRvb2wsIHNraXBWb2ljZVRvb2wsIHZvaWNlVG9vbFBhdGggfSBmcm9tICcuL3ZvaWNlLXRvb2wtbG9jYXRvci5tanMnOwoKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmxldCBwYXNzID0gMDsKbGV0IGZhaWwgPSAwOwpjb25zdCBvayA9IChjb25kLCBuYW1lLCBleHRyYSA9ICcnKSA9PiB7CiAgaWYgKGNvbmQpIHsgcGFzcyArPSAxOyBjb25zb2xlLmxvZyhgICDinIUgJHtuYW1lfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsgfQogIGVsc2UgeyBmYWlsICs9IDE7IGNvbnNvbGUuZXJyb3IoYCAg4p2MICR7bmFtZX0ke2V4dHJhID8gJyDigJQgJyArIGV4dHJhIDogJyd9YCk7IH0KfTsKLy8g5bel5YW35LiN5Zyo5pys5LuT5bqT6YeM5pe26L+U5ZueIG51bGzvvIzorqnkuIvpnaLlh6DmnaHmoaXmjqXkvqfmlq3oqIDku43og73nhafot5HvvIjor7vmupDnoIHkuI3or6Xlm6DkuLoKLy8g5LiA5Liq5LiN5Zyo5LuT5bqT6YeM55qE55uu5b2V6ICM5pW05Liq5oqb5o6J77yJ44CCCmNvbnN0IHJlYWRUb29sID0gKHJlbCkgPT4gKGhhc1ZvaWNlVG9vbCgpID8gZnMucmVhZEZpbGVTeW5jKHZvaWNlVG9vbFBhdGgocmVsKSwgJ3V0ZjgnKSA6IG51bGwpOwoKY29uc29sZS5sb2coJyMjIGhvbWUg55uu5b2V5o6o5patJyk7CnsKICBjb25zdCBob21lcyA9IHNub3dMdW1hSG9tZUNhbmRpZGF0ZXMoeyBjZmc6IHsgc25vd2x1bWE6IHsgaG9tZURpcjogJ1g6L3NsJywgbGF1bmNoZXJQYXRoOiAnWDovc2wyL2xhdW5jaGVyLmJhdCcgfSB9IH0pOwogIG9rKGhvbWVzLmluY2x1ZGVzKCdYOi9zbCcpLCAn5LyY5YWI55SoIGhvbWVEaXInKTsKICBvayhob21lcy5zb21lKChoKSA9PiBoLnJlcGxhY2UoL1xcL2csICcvJykgPT09ICdYOi9zbDInKSwgJ+WFtuasoeeUqCBsYXVuY2hlclBhdGgg5omA5Zyo55uu5b2VJyk7CiAgb2soc25vd0x1bWFIb21lQ2FuZGlkYXRlcyh7IGNmZzoge30gfSkubGVuZ3RoID49IDAsICfml6DphY3nva7ml7bov5Tlm57nqbrmiJbnjq/looPlj5jph4/lgLzvvIjkuI3mipvplJnvvIknKTsKfQoKY29uc29sZS5sb2coJyMjIHBlci1hY2NvdW50IHRva2VuIOino+aekO+8iOeUqOS4tOaXtuebruW9lemAoOWkmui0puWPt+WcuuaZr++8iScpOwp7CiAgY29uc3QgaG9tZSA9IGZzLm1rZHRlbXBTeW5jKHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3NsLWhvbWUtJykpOwogIGZzLm1rZGlyU3luYyhwYXRoLmpvaW4oaG9tZSwgJ2NvbmZpZycpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBjb25zdCB3cml0ZSA9ICh1aW4sIGh0dHBUb2tlbiwgcG9ydCA9IDMwMDAsIHdzVG9rZW4gPSAnd3MtJyArIHVpbikgPT4gZnMud3JpdGVGaWxlU3luYygKICAgIHBhdGguam9pbihob21lLCAnY29uZmlnJywgYG9uZWJvdF8ke3Vpbn0uanNvbmApLAogICAgSlNPTi5zdHJpbmdpZnkoeyBuZXR3b3JrczogeyBodHRwU2VydmVyczogW3sgbmFtZTogJ2h0dHAtZGVmYXVsdCcsIGFjY2Vzc1Rva2VuOiBodHRwVG9rZW4sIGhvc3Q6ICcxMjcuMC4wLjEnLCBwb3J0IH1dLCB3c1NlcnZlcnM6IFt7IGFjY2Vzc1Rva2VuOiB3c1Rva2VuLCBwb3J0OiAzMDAxIH1dIH0gfSksCiAgICAndXRmOCcKICApOwogIHdyaXRlKCcxMTEnLCAndG9rZW4tYWFhJyk7CiAgd3JpdGUoJzIyMicsICd0b2tlbi1iYmInKTsKICBmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbihob21lLCAnY29uZmlnJywgJ29uZWJvdF9icm9rZW4uanNvbicpLCAneyBub3QganNvbicsICd1dGY4Jyk7CiAgZnMud3JpdGVGaWxlU3luYyhwYXRoLmpvaW4oaG9tZSwgJ2NvbmZpZycsICdydW50aW1lLmpzb24nKSwgJ3t9JywgJ3V0ZjgnKTsKCiAgY29uc3QgdG9rcyA9IHJlYWRPbmVCb3RUb2tlbnMoaG9tZSk7CiAgb2sodG9rcy5sZW5ndGggPT09IDIsICflj6rop6PmnpDlh7ogb25lYm90XzzmlbDlrZc+Lmpzb24nLCBg5b6X5YiwICR7dG9rcy5sZW5ndGh9IOS4qmApOwogIG9rKHRva3NbMF0udWluID09PSAnMTExJyAmJiB0b2tzWzFdLnVpbiA9PT0gJzIyMicsICfmjIkgdWluIOeos+WumuaOkuW6jycpOwogIG9rKHRva3MuZXZlcnkoKHQpID0+IHQuaHR0cD8udG9rZW4/LnN0YXJ0c1dpdGgoJ3Rva2VuLScpKSwgJ0hUVFAgdG9rZW4g5Y+W6IeqIGh0dHBTZXJ2ZXJzJyk7CiAgb2sodG9rcy5ldmVyeSgodCkgPT4gdC53cz8udG9rZW4/LnN0YXJ0c1dpdGgoJ3dzLScpKSwgJ1dTIHRva2VuIOWPluiHqiB3c1NlcnZlcnPvvIjkuI4gSFRUUCDkuI3lkIzvvIHvvIknKTsKICBvayh0b2tzLmV2ZXJ5KCh0KSA9PiB0Lmh0dHAudG9rZW4gIT09IHQud3MudG9rZW4pLCAn5Lik5LiqIHRva2VuIOehruWunuS4jeWQjO+8iOS4jeiDvea3t+eUqOeahOivgeaNru+8iScpOwogIG9rKHRva3MuZXZlcnkoKHQpID0+IHQuaHR0cC5wb3J0ID09PSAzMDAwICYmIHQud3MucG9ydCA9PT0gMzAwMSksICfnq6/lj6PliIbliKvmmK8gMzAwMCAvIDMwMDEnKTsKCiAgY29uc3QgZmxhdCA9IHJlYWRPbmVCb3RIdHRwVG9rZW5zKGhvbWUpOwogIG9rKGZsYXQubGVuZ3RoID09PSAyICYmIGZsYXRbMF0udG9rZW4gPT09ICd0b2tlbi1hYWEnLCAncmVhZE9uZUJvdEh0dHBUb2tlbnMg5YW85a655omB5bmz5b2i5oCBJyk7CgogIGNvbnNvbGUubG9nKCcjIyDoh6rliqjlj5HnjrDvvJrmjIki6LCB6IO955SoIumAieaLqe+8jOiAjOS4jeaYr+eMnCcpOwogIC8vIOeUqOS4gOS4quWBhyBmZXRjaCDmqKHmi5/vvJrlj6rmnIkgdG9rZW4tYmJiIOacieaViAogIGNvbnN0IHJlYWxGZXRjaCA9IGdsb2JhbFRoaXMuZmV0Y2g7CiAgZ2xvYmFsVGhpcy5mZXRjaCA9IGFzeW5jICh1cmwsIGluaXQpID0+IHsKICAgIGNvbnN0IHRrID0gU3RyaW5nKGluaXQ/LmhlYWRlcnM/LmF1dGhvcml6YXRpb24gPz8gJycpLnJlcGxhY2UoJ0JlYXJlciAnLCAnJyk7CiAgICBpZiAodGsgPT09ICd0b2tlbi1iYmInKSB7CiAgICAgIHJldHVybiB7IG9rOiB0cnVlLCBzdGF0dXM6IDIwMCwganNvbjogYXN5bmMgKCkgPT4gKHsgc3RhdHVzOiAnb2snLCByZXRjb2RlOiAwLCBkYXRhOiB7IHVzZXJfaWQ6IDIyMiwgbmlja25hbWU6ICfnrKzkuozotKblj7cnIH0gfSkgfTsKICAgIH0KICAgIHJldHVybiB7IG9rOiBmYWxzZSwgc3RhdHVzOiA0MDEsIGpzb246IGFzeW5jICgpID0+ICh7IHN0YXR1czogJ2ZhaWxlZCcsIHJldGNvZGU6IDE0MDEsIHdvcmRpbmc6ICd1bmF1dGhvcml6ZWQnIH0pIH07CiAgfTsKICB0cnkgewogICAgY29uc3QgciA9IGF3YWl0IGRpc2NvdmVyU25vd0x1bWFDb25uZWN0aW9uKHsgY2ZnOiB7fSwgYmFzZVVybDogJ2h0dHA6Ly8xMjcuMC4wLjE6MzAwMCcsIGhvbWVEaXJzOiBbaG9tZV0sIHRpbWVvdXRNczogNTAwIH0pOwogICAgb2soci5vayA9PT0gdHJ1ZSwgJ+WPkeeOsOaIkOWKnycpOwogICAgb2soci50b2tlbiA9PT0gJ3Rva2VuLWJiYicsICfpgInkuK3kuobmnInmlYjnmoTpgqPkuKogdG9rZW4nLCByLnRva2VuKTsKICAgIG9rKHIuc2VsZj8udXNlcl9pZCA9PT0gMjIyLCAn5Zue5oql5b2T5YmN6LSm5Y+3JywgU3RyaW5nKHIuc2VsZj8udXNlcl9pZCkpOwogICAgb2soci5zb3VyY2UgPT09ICdvbmVib3RfMjIyLmpzb24nLCAn5qCH5piOIHRva2VuIOadpea6kCcsIHIuc291cmNlKTsKICAgIG9rKHIudHJpZWQubGVuZ3RoID09PSAyLCAn6K6w5b2V5LqG5bCd6K+V6L+H55qE5YCZ6YCJJywgYCR7ci50cmllZC5sZW5ndGh9IOS4qmApOwoKICAgIC8vIOWFqOmDqOaXoOaViOaXtuimgee7meWHuuWPr+aTjeS9nOmUmeivrwogICAgZ2xvYmFsVGhpcy5mZXRjaCA9IGFzeW5jICgpID0+ICh7IG9rOiBmYWxzZSwgc3RhdHVzOiA0MDEsIGpzb246IGFzeW5jICgpID0+ICh7IHN0YXR1czogJ2ZhaWxlZCcsIHJldGNvZGU6IDE0MDEgfSkgfSk7CiAgICBjb25zdCBiYWQgPSBhd2FpdCBkaXNjb3ZlclNub3dMdW1hQ29ubmVjdGlvbih7IGNmZzoge30sIGJhc2VVcmw6ICdodHRwOi8vMTI3LjAuMC4xOjMwMDAnLCBob21lRGlyczogW2hvbWVdLCB0aW1lb3V0TXM6IDMwMCB9KTsKICAgIG9rKGJhZC5vayA9PT0gZmFsc2UsICflhajpg6jlpLHmlYjml7blpLHotKUnKTsKICAgIG9rKC80MDF8dG9rZW4vLnRlc3QoYmFkLmVycm9yKSwgJ+mUmeivr+S/oeaBr+aMh+WHuiB0b2tlbiDpl67popgnLCBiYWQuZXJyb3Iuc2xpY2UoMCwgNDApKTsKICB9IGZpbmFsbHkgewogICAgZ2xvYmFsVGhpcy5mZXRjaCA9IHJlYWxGZXRjaDsKICAgIGZzLnJtU3luYyhob21lLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7CiAgfQp9Cgpjb25zb2xlLmxvZygnIyMgdG9rZW4g5YaZ5ZueIGNvbmZpZy5qc29uJyk7CnsKICBjb25zdCBkaXIgPSBmcy5ta2R0ZW1wU3luYyhwYXRoLmpvaW4ob3MudG1wZGlyKCksICdzbC1jZmctJykpOwogIGNvbnN0IGNmZ1BhdGggPSBwYXRoLmpvaW4oZGlyLCAnY29uZmlnLmpzb24nKTsKICBmcy53cml0ZUZpbGVTeW5jKGNmZ1BhdGgsIEpTT04uc3RyaW5naWZ5KHsgc25vd2x1bWE6IHsgaHR0cFVybDogJ2h0dHA6Ly8xMjcuMC4wLjE6MzAwMCcsIGFjY2Vzc1Rva2VuOiAnb2xkLXRva2VuJyB9LCBhbGxvdzogeyBncm91cHM6IFsxXSB9IH0sIG51bGwsIDIpLCAndXRmOCcpOwogIGNvbnN0IHIxID0gcGVyc2lzdFRva2VuKGNmZ1BhdGgsICduZXctdG9rZW4nKTsKICBvayhyMS51cGRhdGVkID09PSB0cnVlICYmIHIxLmZyb20gPT09ICdvbGQtdG9rZW4nLCAn5o2iIHRva2VuIOaXtuWGmeWFpScpOwogIGNvbnN0IGFmdGVyID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoY2ZnUGF0aCwgJ3V0ZjgnKSk7CiAgb2soYWZ0ZXIuc25vd2x1bWEuYWNjZXNzVG9rZW4gPT09ICduZXctdG9rZW4nLCAnY29uZmlnLmpzb24g5bey5pu05pawJyk7CiAgb2soYWZ0ZXIuYWxsb3cuZ3JvdXBzWzBdID09PSAxLCAn5YW25a6D6YWN572u5a2X5q615pyq6KKr56C05Z2PJyk7CiAgY29uc3QgcjIgPSBwZXJzaXN0VG9rZW4oY2ZnUGF0aCwgJ25ldy10b2tlbicpOwogIG9rKHIyLnVwZGF0ZWQgPT09IGZhbHNlLCAndG9rZW4g5pyq5Y+Y5pe25LiN6YeN5aSN5YaZ77yI5bmC562J77yJJyk7CiAgZnMucm1TeW5jKGRpciwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOwp9Cgpjb25zb2xlLmxvZygnIyMg54us56uL5bel5YW356Gu5a6e55So5a6D77yI5rqQ56CB57qn77yJJyk7CnsKICAvLyDni6znq4vlt6XlhbfnmoTlhaXlj6Pmlofku7blnKjku5PlupPkuIrkuIDnuqfnmoQgdm9pY2UtdG9vbC/vvJvlhbHkuqvlhoXmoLjku43mmK/mnKzku5PlupMgc3JjL3Nub3dsdW1hLWNvbm4uanMKICBmb3IgKGNvbnN0IHJlbCBvZiBbJ3ZvaWNlLWNsaS5tanMnLCAndm9pY2UtZ3VpLm1qcyddKSB7CiAgICBjb25zdCBzcmMgPSByZWFkVG9vbChyZWwpOwogICAgaWYgKHNyYyA9PT0gbnVsbCkgeyBza2lwVm9pY2VUb29sKGAke3JlbH0g5piv5ZCm5byV5YWl6Ieq5Y+R546w5qih5Z2X77yIc25vd2x1bWEtY29ubi5qcyAvIGRpc2NvdmVyU25vd0x1bWFDb25uZWN0aW9u77yJYCk7IGNvbnRpbnVlOyB9CiAgICBvaygvc25vd2x1bWEtY29ublwuanMvLnRlc3Qoc3JjKSwgYCR7cmVsfSDlvJXlhaXoh6rlj5HnjrDmqKHlnZdgKTsKICAgIG9rKC9kaXNjb3ZlclNub3dMdW1hQ29ubmVjdGlvbi8udGVzdChzcmMpLCBgJHtyZWx9IOiwg+eUqOiHquWKqOWPkeeOsGApOwogIH0KICAvLyDihpMg5LiL6Z2i5Lik5p2h5p+l55qE5piv5pys5LuT5bqT55qEIGJyaWRnZS5qc++8jOS4juW3peWFt+WcqOS4jeWcqOaXoOWFs++8jOeFp+i3keOAggogIGNvbnN0IGJyaWRnZSA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgJ3NyYycsICdicmlkZ2UuanMnKSwgJ3V0ZjgnKTsKICBvaygvaGVhbFRva2VuSWZTdGFsZS8udGVzdChicmlkZ2UpLCAnYnJpZGdlIOaciSB0b2tlbiDoh6rmhIgnKTsKICBvaygvcGVyc2lzdFRva2VuLy50ZXN0KGJyaWRnZSksICdicmlkZ2Ug5Lya5oqK5pyJ5pWIIHRva2VuIOWGmeWbniBjb25maWcuanNvbicpOwp9Cgpjb25zb2xlLmxvZyhgXG7nu5PmnpzvvJoke3Bhc3N9IOmAmui/h++8jCR7ZmFpbH0g5aSx6LSlYCk7CmlmIChmYWlsID4gMCkgcHJvY2Vzcy5leGl0KDEpOwo=
+// SnowLuma 账号/token 自发现自检。
+//
+// 背景（实测确认的根因）：SnowLuma 的 OneBot 配置按账号分文件
+// （<SnowLuma>/config/onebot_<QQ号>.json），每个账号一个 token，HTTP 与 WS 还各不相同。
+// 换 QQ 账号登录后，任何把 token 写死在 config.json 里的工具都会 401 ——
+// 这正是"换个账号登录，发语音工具就不行了"的原因。
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import {
+  discoverSnowLumaConnection, persistToken, readOneBotHttpTokens, readOneBotTokens, snowLumaHomeCandidates
+} from '../src/snowluma-conn.js';
+// 独立发语音工具在仓库上一级（不在本仓库里）：位置解析与"不在时怎么跳过"走共享口径。
+import { hasVoiceTool, skipVoiceTool, voiceToolPath } from './voice-tool-locator.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+let pass = 0;
+let fail = 0;
+const ok = (cond, name, extra = '') => {
+  if (cond) { pass += 1; console.log(`  ✅ ${name}${extra ? ' — ' + extra : ''}`); }
+  else { fail += 1; console.error(`  ❌ ${name}${extra ? ' — ' + extra : ''}`); }
+};
+// 工具不在本仓库里时返回 null，让下面几条桥接侧断言仍能照跑（读源码不该因为
+// 一个不在仓库里的目录而整个抛掉）。
+const readTool = (rel) => (hasVoiceTool() ? fs.readFileSync(voiceToolPath(rel), 'utf8') : null);
+
+console.log('## home 目录推断');
+{
+  const homes = snowLumaHomeCandidates({ cfg: { snowluma: { homeDir: 'X:/sl', launcherPath: 'X:/sl2/launcher.bat' } } });
+  ok(homes.includes('X:/sl'), '优先用 homeDir');
+  ok(homes.some((h) => h.replace(/\\/g, '/') === 'X:/sl2'), '其次用 launcherPath 所在目录');
+  ok(snowLumaHomeCandidates({ cfg: {} }).length >= 0, '无配置时返回空或环境变量值（不抛错）');
+}
+
+console.log('## per-account token 解析（用临时目录造多账号场景）');
+{
+  const home = fs.mkdtempSync(path.join(os.tmpdir(), 'sl-home-'));
+  fs.mkdirSync(path.join(home, 'config'), { recursive: true });
+  const write = (uin, httpToken, port = 3000, wsToken = 'ws-' + uin) => fs.writeFileSync(
+    path.join(home, 'config', `onebot_${uin}.json`),
+    JSON.stringify({ networks: { httpServers: [{ name: 'http-default', accessToken: httpToken, host: '127.0.0.1', port }], wsServers: [{ accessToken: wsToken, port: 3001 }] } }),
+    'utf8'
+  );
+  write('111', 'token-aaa');
+  write('222', 'token-bbb');
+  fs.writeFileSync(path.join(home, 'config', 'onebot_broken.json'), '{ not json', 'utf8');
+  fs.writeFileSync(path.join(home, 'config', 'runtime.json'), '{}', 'utf8');
+
+  const toks = readOneBotTokens(home);
+  ok(toks.length === 2, '只解析出 onebot_<数字>.json', `得到 ${toks.length} 个`);
+  ok(toks[0].uin === '111' && toks[1].uin === '222', '按 uin 稳定排序');
+  ok(toks.every((t) => t.http?.token?.startsWith('token-')), 'HTTP token 取自 httpServers');
+  ok(toks.every((t) => t.ws?.token?.startsWith('ws-')), 'WS token 取自 wsServers（与 HTTP 不同！）');
+  ok(toks.every((t) => t.http.token !== t.ws.token), '两个 token 确实不同（不能混用的证据）');
+  ok(toks.every((t) => t.http.port === 3000 && t.ws.port === 3001), '端口分别是 3000 / 3001');
+
+  const flat = readOneBotHttpTokens(home);
+  ok(flat.length === 2 && flat[0].token === 'token-aaa', 'readOneBotHttpTokens 兼容扁平形态');
+
+  console.log('## 自动发现：按"谁能用"选择，而不是猜');
+  // 用一个假 fetch 模拟：只有 token-bbb 有效
+  const realFetch = globalThis.fetch;
+  globalThis.fetch = async (url, init) => {
+    const tk = String(init?.headers?.authorization ?? '').replace('Bearer ', '');
+    if (tk === 'token-bbb') {
+      return { ok: true, status: 200, json: async () => ({ status: 'ok', retcode: 0, data: { user_id: 222, nickname: '第二账号' } }) };
+    }
+    return { ok: false, status: 401, json: async () => ({ status: 'failed', retcode: 1401, wording: 'unauthorized' }) };
+  };
+  try {
+    const r = await discoverSnowLumaConnection({ cfg: {}, baseUrl: 'http://127.0.0.1:3000', homeDirs: [home], timeoutMs: 500 });
+    ok(r.ok === true, '发现成功');
+    ok(r.token === 'token-bbb', '选中了有效的那个 token', r.token);
+    ok(r.self?.user_id === 222, '回报当前账号', String(r.self?.user_id));
+    ok(r.source === 'onebot_222.json', '标明 token 来源', r.source);
+    ok(r.tried.length === 2, '记录了尝试过的候选', `${r.tried.length} 个`);
+
+    // 全部无效时要给出可操作错误
+    globalThis.fetch = async () => ({ ok: false, status: 401, json: async () => ({ status: 'failed', retcode: 1401 }) });
+    const bad = await discoverSnowLumaConnection({ cfg: {}, baseUrl: 'http://127.0.0.1:3000', homeDirs: [home], timeoutMs: 300 });
+    ok(bad.ok === false, '全部失效时失败');
+    ok(/401|token/.test(bad.error), '错误信息指出 token 问题', bad.error.slice(0, 40));
+  } finally {
+    globalThis.fetch = realFetch;
+    fs.rmSync(home, { recursive: true, force: true });
+  }
+}
+
+console.log('## token 写回 config.json');
+{
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'sl-cfg-'));
+  const cfgPath = path.join(dir, 'config.json');
+  fs.writeFileSync(cfgPath, JSON.stringify({ snowluma: { httpUrl: 'http://127.0.0.1:3000', accessToken: 'old-token' }, allow: { groups: [1] } }, null, 2), 'utf8');
+  const r1 = persistToken(cfgPath, 'new-token');
+  ok(r1.updated === true && r1.from === 'old-token', '换 token 时写入');
+  const after = JSON.parse(fs.readFileSync(cfgPath, 'utf8'));
+  ok(after.snowluma.accessToken === 'new-token', 'config.json 已更新');
+  ok(after.allow.groups[0] === 1, '其它配置字段未被破坏');
+  const r2 = persistToken(cfgPath, 'new-token');
+  ok(r2.updated === false, 'token 未变时不重复写（幂等）');
+  fs.rmSync(dir, { recursive: true, force: true });
+}
+
+console.log('## 独立工具确实用它（源码级）');
+{
+  // 独立工具的入口文件在仓库上一级的 voice-tool/；共享内核仍是本仓库 src/snowluma-conn.js
+  for (const rel of ['voice-cli.mjs', 'voice-gui.mjs']) {
+    const src = readTool(rel);
+    if (src === null) { skipVoiceTool(`${rel} 是否引入自发现模块（snowluma-conn.js / discoverSnowLumaConnection）`); continue; }
+    ok(/snowluma-conn\.js/.test(src), `${rel} 引入自发现模块`);
+    ok(/discoverSnowLumaConnection/.test(src), `${rel} 调用自动发现`);
+  }
+  // ↓ 下面两条查的是本仓库的 bridge.js，与工具在不在无关，照跑。
+  const bridge = fs.readFileSync(path.join(ROOT, 'src', 'bridge.js'), 'utf8');
+  ok(/healTokenIfStale/.test(bridge), 'bridge 有 token 自愈');
+  ok(/persistToken/.test(bridge), 'bridge 会把有效 token 写回 config.json');
+}
+
+console.log(`\n结果：${pass} 通过，${fail} 失败`);
+if (fail > 0) process.exit(1);

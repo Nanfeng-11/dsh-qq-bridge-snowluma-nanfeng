@@ -1,1 +1,31 @@
-Ly8g5Y+v56e75qSN6buY6K6k6Lev5b6E77yIZHNoLXFxLWJyaWRnZe+8ie+8mkJSSURHRV9ESVIgLyBEU0hfSE9NRSDnjq/looPlj5jph4/kvJjlhYgKY29uc3QgQlJJREdFX0RJUiA9IHByb2Nlc3MuZW52LkJSSURHRV9ESVIgfHwgX19kaXJuYW1lOwpjb25zdCBEU0hfSE9NRSA9IHByb2Nlc3MuZW52LkRTSF9IT01FIHx8IChwcm9jZXNzLmVudi5IT01FID8gcHJvY2Vzcy5lbnYuSE9NRSArICIvLmRzaCIgOiAiLiIpOwovLyDor7vlj5blvZPliY3mnIDlpKcgUVEg5Lya6K+d5LiK5LiL5paH77yIdG9rZW4g5pWw77yJ4oCU4oCU57uZIGF1dG8tY2xlYW4g5YGa5Yqo5oCB5riF55CG5Yik5pat55SoCi8vIOi+k+WHuu+8muS4gOS4quaVtOaVsO+8iOacgOWQjuS4gOasoea4heeQhuS5i+WQjueahCB0dXJuIOmHjO+8jOacgOWkp+eahCBjYWNoZUhpdCtjYWNoZU1pc3Mg5ZCI6K6h77yJCi8vIOWPque7n+iuoSBwcml2YXRlOi9ncm91cDog5Lya6K+d77yb6buR6K+d5a2m5LmgIGludGVybmFsOiDkuI7muIXnkIbml6DlhbPvvIzkuI3nrpfjgIIKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBmaWxlID0gcHJvY2Vzcy5hcmd2WzJdIHx8IChCUklER0VfRElSICsgJy90b2tlbi11c2FnZS5qc29ubCcpOwpjb25zdCBsYXN0Q2xlYW5GaWxlID0gcHJvY2Vzcy5hcmd2WzNdIHx8IChCUklER0VfRElSICsgJy8ubGFzdC1jbGVhbicpOwpsZXQgbWF4ID0gMDsKdHJ5IHsKICAvLyDku6XjgIzmnIDlkI7kuIDmrKHmuIXnkIbml7bpl7TjgI3kuLrnlYzvvIjlkozlgaXlurfmo4Dmn6XkuIDoh7TvvIzpgb/lhY3nu5/orqHliLDmuIXnkIbliY3nmoTljoblj7Lls7DlgLzvvIkKICBsZXQgY3V0b2ZmID0gRGF0ZS5ub3coKSAtIDMwICogNjAgKiAxMDAwOyAgIC8vIOm7mOiupOWPqueci+acgOi/kSAzMCDliIbpkp8KICB0cnkgewogICAgY29uc3QgdHMgPSBOdW1iZXIoZnMucmVhZEZpbGVTeW5jKGxhc3RDbGVhbkZpbGUsICd1dGY4JykudHJpbSgpKTsKICAgIGlmIChOdW1iZXIuaXNGaW5pdGUodHMpICYmIHRzID4gMCkgY3V0b2ZmID0gTWF0aC5tYXgoY3V0b2ZmLCB0cyAqIDEwMDApOwogIH0gY2F0Y2gge30KICBjb25zdCBsaW5lcyA9IGZzLnJlYWRGaWxlU3luYyhmaWxlLCAndXRmOCcpLnRyaW0oKS5zcGxpdCgnXG4nKS5zbGljZSgtMzAwKTsKICBmb3IgKGNvbnN0IGwgb2YgbGluZXMpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKGwpOwogICAgICBpZiAoai5rICE9PSAndHVybicpIGNvbnRpbnVlOwogICAgICBpZiAoIS9eKHByaXZhdGV8Z3JvdXApOi8udGVzdChTdHJpbmcoai5rZXkgfHwgJycpKSkgY29udGludWU7CiAgICAgIGlmIChOdW1iZXIoai50KSA8IGN1dG9mZikgY29udGludWU7CiAgICAgIGNvbnN0IGIgPSBqLmIgfHwge307CiAgICAgIGNvbnN0IHRvdGFsID0gKE51bWJlcihiLmNhY2hlTWlzcykgfHwgMCkgKyAoTnVtYmVyKGIuY2FjaGVIaXQpIHx8IDApOwogICAgICBpZiAodG90YWwgPiBtYXgpIG1heCA9IHRvdGFsOwogICAgfSBjYXRjaCB7fQogIH0KfSBjYXRjaCB7fQpjb25zb2xlLmxvZyhtYXgpOwo=
+// 可移植默认路径（dsh-qq-bridge）：BRIDGE_DIR / DSH_HOME 环境变量优先
+const BRIDGE_DIR = process.env.BRIDGE_DIR || __dirname;
+const DSH_HOME = process.env.DSH_HOME || (process.env.HOME ? process.env.HOME + "/.dsh" : ".");
+// 读取当前最大 QQ 会话上下文（token 数）——给 auto-clean 做动态清理判断用
+// 输出：一个整数（最后一次清理之后的 turn 里，最大的 cacheHit+cacheMiss 合计）
+// 只统计 private:/group: 会话；黑话学习 internal: 与清理无关，不算。
+const fs = require('fs');
+const file = process.argv[2] || (BRIDGE_DIR + '/token-usage.jsonl');
+const lastCleanFile = process.argv[3] || (BRIDGE_DIR + '/.last-clean');
+let max = 0;
+try {
+  // 以「最后一次清理时间」为界（和健康检查一致，避免统计到清理前的历史峰值）
+  let cutoff = Date.now() - 30 * 60 * 1000;   // 默认只看最近 30 分钟
+  try {
+    const ts = Number(fs.readFileSync(lastCleanFile, 'utf8').trim());
+    if (Number.isFinite(ts) && ts > 0) cutoff = Math.max(cutoff, ts * 1000);
+  } catch {}
+  const lines = fs.readFileSync(file, 'utf8').trim().split('\n').slice(-300);
+  for (const l of lines) {
+    try {
+      const j = JSON.parse(l);
+      if (j.k !== 'turn') continue;
+      if (!/^(private|group):/.test(String(j.key || ''))) continue;
+      if (Number(j.t) < cutoff) continue;
+      const b = j.b || {};
+      const total = (Number(b.cacheMiss) || 0) + (Number(b.cacheHit) || 0);
+      if (total > max) max = total;
+    } catch {}
+  }
+} catch {}
+console.log(max);

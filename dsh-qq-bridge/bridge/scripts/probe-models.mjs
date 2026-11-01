@@ -1,1 +1,40 @@
-Ly8g6K+75Y+WIERTSCDnmoQgc2V0dGluZ3MvZGVzY3JpYmXvvIzliJflh7rmiYDmnIkgbmFtZXNwYWNlIOS4juWPr+mAieaooeWei++8iOWPquivu++8ieOAggovLwovLyDovpPlh7rokL3lnKgqKuezu+e7n+S4tOaXtuebruW9lSoq77yI5LiN5piv5LuT5bqT6YeM55qEIHN0YXRlL++8ie+8mmBzdGF0ZS9gIOiiqwovLyBzY3JpcHRzL2hhcmRlbi1zdGF0ZS1hY2wubWpzIOaUtue0p+S6hiBBQ0zvvIjljrvmjonnu6fmib8g4oeSIOaymeeusei/m+eoi+eahOiDveWKmyBTSUQg5LiN5ZyoCi8vIEFDTCDph4zvvInvvIzlnKggRFNIIOaymeeusemHjOW+gCBzdGF0ZS8g5YaZ5paH5Lu25LyaIEVQRVJN44CCCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBQUk9CRV9CQVNFIGFzIEJBU0UsIHByb2JlQ29va2llLCBwcm9iZVJwYyB9IGZyb20gJy4vcHJvYmUtYXV0aC5tanMnOwoKLy8g6Ym05p2D5LiOIFJQQyDlvJXlr7znu5/kuIDotbAgcHJvYmUtYXV0aC5tanPvvIjml6fnmoTjgIzor7sgZ3VhcmQg5pel5b+X5oqTIGxhdW5jaCB0b2tlbuOAjeWcqAovLyBEU0ggMC4xLjcg6LW35bey5aSx5pWI77yM5Lya6K6p5o6i6ZKI5LiA5b6LIDQwMSDigJTigJQg6KeB6K+l5paH5Lu25aS06YOo6K+05piO77yJ44CCCmNvbnN0IHJwYyA9IHByb2JlUnBjKHByb2JlQ29va2llKCkpOwpjb25zdCBvdXREaXIgPSBwYXRoLmpvaW4ob3MudG1wZGlyKCksICdxcS1icmlkZ2UtcHJvYmUtbW9kZWxzJyk7CmZzLm1rZGlyU3luYyhvdXREaXIsIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwoKY29uc3Qgb3V0ID0gYXdhaXQgcnBjKCdzZXR0aW5ncy9kZXNjcmliZScsIHt9KTsKaWYgKCFvdXQ/Lm9rKSB7CiAgY29uc29sZS5lcnJvcihgc2V0dGluZ3MvZGVzY3JpYmUg5aSx6LSl77yaJHtvdXQ/LmVycm9yPy5jb2RlfTogJHtvdXQ/LmVycm9yPy5tZXNzYWdlfWApOwogIHByb2Nlc3MuZXhpdCgxKTsKfQpjb25zdCBuYW1lc3BhY2VzID0gb3V0LnZhbHVlLm5hbWVzcGFjZXM7CmNvbnNvbGUubG9nKCc9PT0gc2V0dGluZ3MgbmFtZXNwYWNlcyA9PT0nKTsKZm9yIChjb25zdCBucyBvZiBuYW1lc3BhY2VzKSBjb25zb2xlLmxvZygnIC0nLCBucy5ucywgJ3wgdmFsdWU6JywgSlNPTi5zdHJpbmdpZnkobnMudmFsdWUpPy5zbGljZSgwLCAyMDApKTsKCmNvbnN0IG1vZGVsTnMgPSBuYW1lc3BhY2VzLmZpbmQoKG4pID0+IG4ubnMgPT09ICdhZ2VudC1kZWZhdWx0LW1vZGVsJyk7CmlmIChtb2RlbE5zKSB7CiAgY29uc29sZS5sb2coJ1xuPT09IGFnZW50LWRlZmF1bHQtbW9kZWwgc2NoZW1hIChKU09OKSA9PT0nKTsKICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShtb2RlbE5zLnNjaGVtYSwgbnVsbCwgMikuc2xpY2UoMCwgNDAwMCkpOwp9Cgpjb25zdCBkZXNjcmliZUZpbGUgPSBwYXRoLmpvaW4ob3V0RGlyLCAnZHNoLXNldHRpbmdzLWRlc2NyaWJlLmpzb24nKTsKZnMud3JpdGVGaWxlU3luYyhkZXNjcmliZUZpbGUsIEpTT04uc3RyaW5naWZ5KG91dCwgbnVsbCwgMikpOwpjb25zb2xlLmxvZyhgXG5bc2F2ZWRdICR7ZGVzY3JpYmVGaWxlfWApOwoKY29uc3QgcHJlc2V0cyA9IGF3YWl0IHJwYygnYWdlbnRQcmVzZXRzL2xpc3QnLCB7fSk7CmNvbnN0IHByZXNldHNGaWxlID0gcGF0aC5qb2luKG91dERpciwgJ2RzaC1hZ2VudC1wcmVzZXRzLmpzb24nKTsKZnMud3JpdGVGaWxlU3luYyhwcmVzZXRzRmlsZSwgSlNPTi5zdHJpbmdpZnkocHJlc2V0cywgbnVsbCwgMikpOwpjb25zb2xlLmxvZyhgW3NhdmVkXSAke3ByZXNldHNGaWxlfWApOwpjb25zb2xlLmxvZygncHJlc2V0czonLCBwcmVzZXRzLnZhbHVlPy5wcmVzZXRzPy5tYXAoKHApID0+IHAuaWQpLmpvaW4oJywgJykpOwo=
+// 读取 DSH 的 settings/describe，列出所有 namespace 与可选模型（只读）。
+//
+// 输出落在**系统临时目录**（不是仓库里的 state/）：`state/` 被
+// scripts/harden-state-acl.mjs 收紧了 ACL（去掉继承 ⇒ 沙箱进程的能力 SID 不在
+// ACL 里），在 DSH 沙箱里往 state/ 写文件会 EPERM。
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { PROBE_BASE as BASE, probeCookie, probeRpc } from './probe-auth.mjs';
+
+// 鉴权与 RPC 引导统一走 probe-auth.mjs（旧的「读 guard 日志抓 launch token」在
+// DSH 0.1.7 起已失效，会让探针一律 401 —— 见该文件头部说明）。
+const rpc = probeRpc(probeCookie());
+const outDir = path.join(os.tmpdir(), 'qq-bridge-probe-models');
+fs.mkdirSync(outDir, { recursive: true });
+
+const out = await rpc('settings/describe', {});
+if (!out?.ok) {
+  console.error(`settings/describe 失败：${out?.error?.code}: ${out?.error?.message}`);
+  process.exit(1);
+}
+const namespaces = out.value.namespaces;
+console.log('=== settings namespaces ===');
+for (const ns of namespaces) console.log(' -', ns.ns, '| value:', JSON.stringify(ns.value)?.slice(0, 200));
+
+const modelNs = namespaces.find((n) => n.ns === 'agent-default-model');
+if (modelNs) {
+  console.log('\n=== agent-default-model schema (JSON) ===');
+  console.log(JSON.stringify(modelNs.schema, null, 2).slice(0, 4000));
+}
+
+const describeFile = path.join(outDir, 'dsh-settings-describe.json');
+fs.writeFileSync(describeFile, JSON.stringify(out, null, 2));
+console.log(`\n[saved] ${describeFile}`);
+
+const presets = await rpc('agentPresets/list', {});
+const presetsFile = path.join(outDir, 'dsh-agent-presets.json');
+fs.writeFileSync(presetsFile, JSON.stringify(presets, null, 2));
+console.log(`[saved] ${presetsFile}`);
+console.log('presets:', presets.value?.presets?.map((p) => p.id).join(', '));

@@ -1,1 +1,134 @@
-Ly8gT25seSB0aGUgbW9kZWwtZmFjaW5nIHZpZXcgaXMgY29tcGFjdGVkLiBTdG9yZWQgbWVzc2FnZXMgYW5kIGNvbnNvbGUvQVBJIGRhdGEKLy8gcmV0YWluIHRoZSBvcmlnaW5hbCBmaWVsZHMgZm9yIGRpc3BsYXksIG1lZGlhIHJldHJpZXZhbCBhbmQgdHJvdWJsZXNob290aW5nLgpjb25zdCBERUZBVUxUX0ZBTFNFX0ZJRUxEUyA9IG5ldyBTZXQoWwogICdxdW90ZVRhcmdldElzU2VsZicsICdpc093bmVyJywgJ2lzU2VsZicsICdoYXNNZWRpYScsICdoYXNGb3J3YXJkJwpdKTsKY29uc3QgT1BUSU9OQUxfRklFTERTID0gbmV3IFNldChbCiAgJ3NlcScsICdtZXNzYWdlSWQnLCAnc2VuZGVyJywgJ3VzZXJJZCcsICd0ZXh0JywgJ3BsYWluJywgJ3RhaWwnLCAna2luZCcsCiAgJ293bmVyTGFiZWwnLCAnbWVkaWEnLCAnZm9yd2FyZElkcycsICduZXN0ZWRGb3J3YXJkSWRzJwpdKTsKCi8vIOKUgOKUgCDml7bpl7Top4blm77vvJroo7ggZXBvY2gg5o2i5oiQ44CM5pys5Zyw5pe26Ze0ICsg6Led546w5Zyo5aSa5LmF44CNIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLwovLyDkuLrku4DkuYjlv4XpobvmjaLvvJrmqKHlnovnnIvliLDnmoTljp/mnaXmmK8gYCJ0aW1lIjoxNzkyMjk0NTI5NDcxYO+8jOWug+aXoueul+S4jeWHuiLov5nmmK8gMzgg5YiG6ZKf5YmNIu+8jAovLyDkuZ/msqHms5Xot5/mj5DnpLror43ph4znmoTjgJDlvZPliY3ml7bpl7TjgJHlr7npvZDjgILkuo7mmK8qKuayieedoeWHoOWNgeWIhumSn+WQjuiiq+WUpOmGku+8jOS7jeeEtuaKiuaXp+a2iOaBr+W9k+aIkOWImuWPkeeahCoqCi8vIOWunuaXtuWvueivneadpeWbnuWkje+8iOWunua1i++8muWUpOmGkuWOn+WboCBhdE1lbnRpb25Ac2VxMTk0IOWFtuWunuaYryA0MCDliIbpkp/liY3nmoTor53vvIzlroPnhafmoLfnlKgi5Yia55yL5YiwIueahAovLyDor63msJTmjqXvvIznlJroh7PmiqLov5vkuIDkuKrml6nlt7LmlaPlnLrnmoTor53popjvvInjgIIKLy8KLy8g5o2i5oiQIGAiYXQiOiIxMTozMSIsImFnbyI6IjM4bSJgIOS5i+WQju+8muaooeWei+S4jemcgOimgeWBmuS7u+S9leaNoueul++8jOebtOaOpeiDveWIpOaWrSLov5nmnaHmmK/ml6fotKYi44CCCi8vIGBhdGAg5L+d55WZ57ud5a+55pe26Ze077yI6Leo5aSp5pe25bim5pel5pyf77yJ77yMYGFnb2Ag55So5pyA55yBIHRva2VuIOeahOWGmeazle+8iDNzIC8gNW0gLyAyaCAvIDNk77yJ44CCCi8vCi8vIOWFvOWuue+8mnRpbWUg57y65aSxL+S4uiAwL+mdnuazleaXtioq5Y6f5qC35L+d55WZKirvvIjml6fooYzkuLrvvInvvIzpgb/lhY3miooi5rKh5pyJ5pe26Ze0IuS8quijheaIkCLliJrliJoi44CCCmNvbnN0IHBhZDIgPSAobikgPT4gKG4gPCAxMCA/IGAwJHtufWAgOiBTdHJpbmcobikpOwoKLyoqIOacrOWcsOaXtumXtOaIs++8muW9k+WkqeWPque7mSBISDpNTe+8jOi3qOWkqeihpSBNTS1EROOAgiAqLwpmdW5jdGlvbiBsb2NhbFN0YW1wKG1zLCBub3cpIHsKICBjb25zdCBkID0gbmV3IERhdGUobXMpOwogIGlmICghTnVtYmVyLmlzRmluaXRlKGQuZ2V0VGltZSgpKSkgcmV0dXJuICcnOwogIGNvbnN0IGNsb2NrID0gYCR7cGFkMihkLmdldEhvdXJzKCkpfToke3BhZDIoZC5nZXRNaW51dGVzKCkpfWA7CiAgY29uc3Qgc2FtZURheSA9ICgoKSA9PiB7CiAgICBjb25zdCBhID0gbmV3IERhdGUobm93KTsKICAgIHJldHVybiBhLmdldEZ1bGxZZWFyKCkgPT09IGQuZ2V0RnVsbFllYXIoKSAmJiBhLmdldE1vbnRoKCkgPT09IGQuZ2V0TW9udGgoKSAmJiBhLmdldERhdGUoKSA9PT0gZC5nZXREYXRlKCk7CiAgfSkoKTsKICByZXR1cm4gc2FtZURheSA/IGNsb2NrIDogYCR7cGFkMihkLmdldE1vbnRoKCkgKyAxKX0tJHtwYWQyKGQuZ2V0RGF0ZSgpKX0gJHtjbG9ja31gOwp9CgovKiog6Led546w5Zyo5aSa5LmF77yaM3MgLyAxOG0gLyAyaCAvIDNk44CC5pyq5p2l5pe26Ze077yI5pe26ZKf5YGP5beu77yJ5aS55YiwIDBz44CCICovCmZ1bmN0aW9uIGFnZVRleHQobXMsIG5vdykgewogIGNvbnN0IHNlYyA9IE1hdGgubWF4KDAsIE1hdGguZmxvb3IoKG5vdyAtIG1zKSAvIDEwMDApKTsKICBpZiAoc2VjIDwgNjApIHJldHVybiBgJHtzZWN9c2A7CiAgY29uc3QgbWluID0gTWF0aC5mbG9vcihzZWMgLyA2MCk7CiAgaWYgKG1pbiA8IDYwKSByZXR1cm4gYCR7bWlufW1gOwogIGNvbnN0IGhvdXIgPSBNYXRoLmZsb29yKG1pbiAvIDYwKTsKICBpZiAoaG91ciA8IDI0KSByZXR1cm4gYCR7aG91cn1oYDsKICByZXR1cm4gYCR7TWF0aC5mbG9vcihob3VyIC8gMjQpfWRgOwp9CgovKiog5oqKIGVwb2NoIOavq+enkui9rOaIkOaooeWei+WPr+ivu+eahCBhZ2Ug5paH5pys77yI5L6b5o+Q56S66K+NL+aXpeW/l+WkjeeUqOWQjOS4gOWll+WPo+W+hO+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gZGVzY3JpYmVBZ2UobXMsIG5vdyA9IERhdGUubm93KCkpIHsKICBjb25zdCB0ID0gTnVtYmVyKG1zKTsKICBpZiAoIU51bWJlci5pc0Zpbml0ZSh0KSB8fCB0IDw9IDApIHJldHVybiAnJzsKICByZXR1cm4gYWdlVGV4dCh0LCBub3cpOwp9CgpmdW5jdGlvbiBpc1JlY29yZCh2YWx1ZSkgewogIGlmICh2YWx1ZSA9PT0gbnVsbCB8fCB0eXBlb2YgdmFsdWUgIT09ICdvYmplY3QnIHx8IEFycmF5LmlzQXJyYXkodmFsdWUpKSByZXR1cm4gZmFsc2U7CiAgY29uc3QgcHJvdG90eXBlID0gT2JqZWN0LmdldFByb3RvdHlwZU9mKHZhbHVlKTsKICByZXR1cm4gcHJvdG90eXBlID09PSBPYmplY3QucHJvdG90eXBlIHx8IHByb3RvdHlwZSA9PT0gbnVsbDsKfQoKZnVuY3Rpb24gaXNFbXB0eSh2YWx1ZSkgewogIHJldHVybiB2YWx1ZSA9PSBudWxsIHx8IHZhbHVlID09PSAnJyB8fCAoQXJyYXkuaXNBcnJheSh2YWx1ZSkgJiYgdmFsdWUubGVuZ3RoID09PSAwKTsKfQoKZnVuY3Rpb24gY29tcGFjdE1lZGlhKG1lZGlhLCBjYW5SZXNvbHZlQnlNZXNzYWdlKSB7CiAgcmV0dXJuIG1lZGlhLm1hcCgoaXRlbSwgaW5kZXgpID0+IHsKICAgIGlmICghaXNSZWNvcmQoaXRlbSkpIHJldHVybiBpdGVtOwogICAgY29uc3QgcmVzdWx0ID0geyAuLi5pdGVtIH07CiAgICAvLyBBIGxvY2FsIHNlcSBpcyBhIGJyaWRnZSBtZXNzYWdlIGhhbmRsZSBhY2NlcHRlZCBieSBxcV9nZXRfbWVzc2FnZV9pbWFnZXMuCiAgICAvLyBGb3J3YXJkZWQgbm9kZXMgb25seSBoYXZlIG1lc3NhZ2VTZXEsIGFuZCBtYXkgbm90IGJlIGxvY2FsbHkgcmVzb2x2YWJsZToKICAgIC8vIGtlZXAgdGhlaXIgdHJhbnNwb3J0IHJlZmVyZW5jZXMsIGV2ZW4gd2hlbiB0aGV5IGhhcHBlbiB0byBoYXZlIG1lc3NhZ2VJZC4KICAgIGlmIChjYW5SZXNvbHZlQnlNZXNzYWdlKSB7CiAgICAgIGRlbGV0ZSByZXN1bHQuZmlsZTsKICAgICAgZGVsZXRlIHJlc3VsdC51cmw7CiAgICAgIC8vIE1hdGNoIHRoZSBpbWFnZSB0b29sJ3Mgb25lLWJhc2VkIG9yZGVyaW5nOyBuZXZlciBmaWx0ZXIvcmVvcmRlciBpdGVtcy4KICAgICAgaWYgKHJlc3VsdC5pbmRleCA9PSBudWxsKSByZXN1bHQuaW5kZXggPSBpbmRleCArIDE7CiAgICB9IGVsc2UgaWYgKHJlc3VsdC5maWxlID09PSByZXN1bHQudXJsKSB7CiAgICAgIGRlbGV0ZSByZXN1bHQuZmlsZTsKICAgIH0KICAgIGZvciAoY29uc3Qga2V5IG9mIFsnZmlsZScsICd1cmwnLCAnZmFjZUlkJ10pIHsKICAgICAgaWYgKGlzRW1wdHkocmVzdWx0W2tleV0pKSBkZWxldGUgcmVzdWx0W2tleV07CiAgICB9CiAgICByZXR1cm4gcmVzdWx0OwogIH0pOwp9CgpleHBvcnQgZnVuY3Rpb24gY29tcGFjdE1vZGVsTWVzc2FnZShtZXNzYWdlLCBvcHRzID0ge30pIHsKICBpZiAoIWlzUmVjb3JkKG1lc3NhZ2UpKSByZXR1cm4gbWVzc2FnZTsKICBjb25zdCByZXN1bHQgPSB7IC4uLm1lc3NhZ2UgfTsKICAvLyBObyB0cmltbWluZyBvciB0cnVuY2F0aW9uOiBkaWZmZXJpbmcgcGxhaW4gdGV4dCBjYW4gY29udGFpbiByZXNvbHZlZCBxdW90ZQogIC8vIGNvbnRleHQsIGFuZCB0YWlsIGNhbiBjYXJyeSB0aGUgZW5kIG9mIGEgbG9uZyBtZXNzYWdlIGFic2VudCBmcm9tIHRleHQuCiAgY29uc3Qgc2VlblRleHQgPSBuZXcgU2V0KCk7CiAgZm9yIChjb25zdCBrZXkgb2YgWyd0ZXh0JywgJ3BsYWluJywgJ3RhaWwnXSkgewogICAgaWYgKHR5cGVvZiByZXN1bHRba2V5XSAhPT0gJ3N0cmluZycpIGNvbnRpbnVlOwogICAgaWYgKHNlZW5UZXh0LmhhcyhyZXN1bHRba2V5XSkpIGRlbGV0ZSByZXN1bHRba2V5XTsKICAgIGVsc2Ugc2VlblRleHQuYWRkKHJlc3VsdFtrZXldKTsKICB9CiAgZm9yIChjb25zdCBrZXkgb2YgT1BUSU9OQUxfRklFTERTKSB7CiAgICBpZiAoaXNFbXB0eShyZXN1bHRba2V5XSkpIGRlbGV0ZSByZXN1bHRba2V5XTsKICB9CiAgZm9yIChjb25zdCBrZXkgb2YgREVGQVVMVF9GQUxTRV9GSUVMRFMpIHsKICAgIGlmIChyZXN1bHRba2V5XSA9PT0gZmFsc2UpIGRlbGV0ZSByZXN1bHRba2V5XTsKICB9CiAgLy8g5pe26Ze06KeG5Zu+77ya5pyJ5pWI55qEIGVwb2NoIOaNouaIkCBhdC9hZ2/vvJvnvLrlpLHmiJYgMO+8iOWOhuWPsuWFvOWuuS/mnKrnn6XvvInkv53mjIHljp/moLfjgIIKICBjb25zdCBzdGFtcCA9IE51bWJlcihyZXN1bHQudGltZSk7CiAgaWYgKE51bWJlci5pc0Zpbml0ZShzdGFtcCkgJiYgc3RhbXAgPiAwKSB7CiAgICBjb25zdCBub3cgPSBOdW1iZXIuaXNGaW5pdGUoTnVtYmVyKG9wdHMubm93KSkgPyBOdW1iZXIob3B0cy5ub3cpIDogRGF0ZS5ub3coKTsKICAgIGRlbGV0ZSByZXN1bHQudGltZTsKICAgIHJlc3VsdC5hdCA9IGxvY2FsU3RhbXAoc3RhbXAsIG5vdyk7CiAgICByZXN1bHQuYWdvID0gYWdlVGV4dChzdGFtcCwgbm93KTsKICB9CiAgaWYgKEFycmF5LmlzQXJyYXkocmVzdWx0Lm1lZGlhKSkgewogICAgY29uc3QgY2FuUmVzb2x2ZUJ5TWVzc2FnZSA9IE51bWJlci5pc1NhZmVJbnRlZ2VyKG1lc3NhZ2Uuc2VxKSAmJiBtZXNzYWdlLnNlcSA+IDA7CiAgICByZXN1bHQubWVkaWEgPSBjb21wYWN0TWVkaWEocmVzdWx0Lm1lZGlhLCBjYW5SZXNvbHZlQnlNZXNzYWdlKTsKICB9CiAgcmV0dXJuIHJlc3VsdDsKfQoKZXhwb3J0IGZ1bmN0aW9uIGNvbXBhY3RNb2RlbERhdGEoZGF0YSwgb3B0cyA9IHt9KSB7CiAgaWYgKEFycmF5LmlzQXJyYXkoZGF0YSkpIHJldHVybiBkYXRhLm1hcCgoaXRlbSkgPT4gY29tcGFjdE1vZGVsRGF0YShpdGVtLCBvcHRzKSk7CiAgaWYgKCFpc1JlY29yZChkYXRhKSkgcmV0dXJuIGRhdGE7CiAgLy8g5LiA5qyh5bqP5YiX5YyW5Y+q5Y+W5LiA5qyhIG5vd++8muWQjOS4gOaJuea2iOaBr+eahCBhZ28g5b+F6aG75b285q2k5Y+v5q+U77yI5ZCm5YiZ6Leo5YiG6ZKf6L6555WM5Lya6Ieq55u455+b55u+77yJ44CCCiAgY29uc3Qgbm93ID0gTnVtYmVyLmlzRmluaXRlKE51bWJlcihvcHRzLm5vdykpID8gTnVtYmVyKG9wdHMubm93KSA6IERhdGUubm93KCk7CiAgY29uc3QgaW5uZXIgPSB7IG5vdyB9OwogIHJldHVybiBPYmplY3QuZnJvbUVudHJpZXMoT2JqZWN0LmVudHJpZXMoZGF0YSkubWFwKChba2V5LCB2YWx1ZV0pID0+IFsKICAgIGtleSwKICAgIChrZXkgPT09ICdtZXNzYWdlcycgfHwga2V5ID09PSAnbmV3TWVzc2FnZXMnKSAmJiBBcnJheS5pc0FycmF5KHZhbHVlKQogICAgICA/IHZhbHVlLm1hcCgoaXRlbSkgPT4gY29tcGFjdE1vZGVsTWVzc2FnZShpdGVtLCBpbm5lcikpCiAgICAgIDogY29tcGFjdE1vZGVsRGF0YSh2YWx1ZSwgaW5uZXIpCiAgXSkpOwp9CgpleHBvcnQgZnVuY3Rpb24gc2VyaWFsaXplTW9kZWxEYXRhKGRhdGEsIG9wdHMgPSB7fSkgewogIHJldHVybiBKU09OLnN0cmluZ2lmeShjb21wYWN0TW9kZWxEYXRhKGRhdGEsIG9wdHMpKTsKfQo=
+// Only the model-facing view is compacted. Stored messages and console/API data
+// retain the original fields for display, media retrieval and troubleshooting.
+const DEFAULT_FALSE_FIELDS = new Set([
+  'quoteTargetIsSelf', 'isOwner', 'isSelf', 'hasMedia', 'hasForward'
+]);
+const OPTIONAL_FIELDS = new Set([
+  'seq', 'messageId', 'sender', 'userId', 'text', 'plain', 'tail', 'kind',
+  'ownerLabel', 'media', 'forwardIds', 'nestedForwardIds'
+]);
+
+// ── 时间视图：裸 epoch 换成「本地时间 + 距现在多久」 ──────────────────────────
+//
+// 为什么必须换：模型看到的原来是 `"time":1792294529471`，它既算不出"这是 38 分钟前"，
+// 也没法跟提示词里的【当前时间】对齐。于是**沉睡几十分钟后被唤醒，仍然把旧消息当成刚发的**
+// 实时对话来回复（实测：唤醒原因 atMention@seq194 其实是 40 分钟前的话，它照样用"刚看到"的
+// 语气接，甚至抢进一个早已散场的话题）。
+//
+// 换成 `"at":"11:31","ago":"38m"` 之后：模型不需要做任何换算，直接能判断"这条是旧账"。
+// `at` 保留绝对时间（跨天时带日期），`ago` 用最省 token 的写法（3s / 5m / 2h / 3d）。
+//
+// 兼容：time 缺失/为 0/非法时**原样保留**（旧行为），避免把"没有时间"伪装成"刚刚"。
+const pad2 = (n) => (n < 10 ? `0${n}` : String(n));
+
+/** 本地时间戳：当天只给 HH:MM，跨天补 MM-DD。 */
+function localStamp(ms, now) {
+  const d = new Date(ms);
+  if (!Number.isFinite(d.getTime())) return '';
+  const clock = `${pad2(d.getHours())}:${pad2(d.getMinutes())}`;
+  const sameDay = (() => {
+    const a = new Date(now);
+    return a.getFullYear() === d.getFullYear() && a.getMonth() === d.getMonth() && a.getDate() === d.getDate();
+  })();
+  return sameDay ? clock : `${pad2(d.getMonth() + 1)}-${pad2(d.getDate())} ${clock}`;
+}
+
+/** 距现在多久：3s / 18m / 2h / 3d。未来时间（时钟偏差）夹到 0s。 */
+function ageText(ms, now) {
+  const sec = Math.max(0, Math.floor((now - ms) / 1000));
+  if (sec < 60) return `${sec}s`;
+  const min = Math.floor(sec / 60);
+  if (min < 60) return `${min}m`;
+  const hour = Math.floor(min / 60);
+  if (hour < 24) return `${hour}h`;
+  return `${Math.floor(hour / 24)}d`;
+}
+
+/** 把 epoch 毫秒转成模型可读的 age 文本（供提示词/日志复用同一套口径）。 */
+export function describeAge(ms, now = Date.now()) {
+  const t = Number(ms);
+  if (!Number.isFinite(t) || t <= 0) return '';
+  return ageText(t, now);
+}
+
+function isRecord(value) {
+  if (value === null || typeof value !== 'object' || Array.isArray(value)) return false;
+  const prototype = Object.getPrototypeOf(value);
+  return prototype === Object.prototype || prototype === null;
+}
+
+function isEmpty(value) {
+  return value == null || value === '' || (Array.isArray(value) && value.length === 0);
+}
+
+function compactMedia(media, canResolveByMessage) {
+  return media.map((item, index) => {
+    if (!isRecord(item)) return item;
+    const result = { ...item };
+    // A local seq is a bridge message handle accepted by qq_get_message_images.
+    // Forwarded nodes only have messageSeq, and may not be locally resolvable:
+    // keep their transport references, even when they happen to have messageId.
+    if (canResolveByMessage) {
+      delete result.file;
+      delete result.url;
+      // Match the image tool's one-based ordering; never filter/reorder items.
+      if (result.index == null) result.index = index + 1;
+    } else if (result.file === result.url) {
+      delete result.file;
+    }
+    for (const key of ['file', 'url', 'faceId']) {
+      if (isEmpty(result[key])) delete result[key];
+    }
+    return result;
+  });
+}
+
+export function compactModelMessage(message, opts = {}) {
+  if (!isRecord(message)) return message;
+  const result = { ...message };
+  // No trimming or truncation: differing plain text can contain resolved quote
+  // context, and tail can carry the end of a long message absent from text.
+  const seenText = new Set();
+  for (const key of ['text', 'plain', 'tail']) {
+    if (typeof result[key] !== 'string') continue;
+    if (seenText.has(result[key])) delete result[key];
+    else seenText.add(result[key]);
+  }
+  for (const key of OPTIONAL_FIELDS) {
+    if (isEmpty(result[key])) delete result[key];
+  }
+  for (const key of DEFAULT_FALSE_FIELDS) {
+    if (result[key] === false) delete result[key];
+  }
+  // 时间视图：有效的 epoch 换成 at/ago；缺失或 0（历史兼容/未知）保持原样。
+  const stamp = Number(result.time);
+  if (Number.isFinite(stamp) && stamp > 0) {
+    const now = Number.isFinite(Number(opts.now)) ? Number(opts.now) : Date.now();
+    delete result.time;
+    result.at = localStamp(stamp, now);
+    result.ago = ageText(stamp, now);
+  }
+  if (Array.isArray(result.media)) {
+    const canResolveByMessage = Number.isSafeInteger(message.seq) && message.seq > 0;
+    result.media = compactMedia(result.media, canResolveByMessage);
+  }
+  return result;
+}
+
+export function compactModelData(data, opts = {}) {
+  if (Array.isArray(data)) return data.map((item) => compactModelData(item, opts));
+  if (!isRecord(data)) return data;
+  // 一次序列化只取一次 now：同一批消息的 ago 必须彼此可比（否则跨分钟边界会自相矛盾）。
+  const now = Number.isFinite(Number(opts.now)) ? Number(opts.now) : Date.now();
+  const inner = { now };
+  return Object.fromEntries(Object.entries(data).map(([key, value]) => [
+    key,
+    (key === 'messages' || key === 'newMessages') && Array.isArray(value)
+      ? value.map((item) => compactModelMessage(item, inner))
+      : compactModelData(value, inner)
+  ]));
+}
+
+export function serializeModelData(data, opts = {}) {
+  return JSON.stringify(compactModelData(data, opts));
+}

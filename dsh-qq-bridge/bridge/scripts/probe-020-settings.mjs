@@ -1,1 +1,48 @@
-Ly8g5o6i5rWLIERTSCBzZXR0aW5ncyDlkb3lkI3nqbrpl7TmnLrliLbvvJrliJflh7rlhajpg6jlkb3lkI3nqbrpl7TvvIjph43ngrkgYHFxLW1vZGVg77yJ5bm2KirluYLnrYnlhpnlm57ljp/lgLwqKgovLyDpqozor4HlhpnlhaXot6/lvoTvvIzlkIzml7bmiZPljbDmoaXmjqXlhbPlv4PnmoTlh6DkuKrlkb3lkI3nqbrpl7TjgIIKLy8KLy8g55So6YCU77ya5o6n5Yi25Y+w44CM5pS55qih5byP5LiN55Sf5pWIIC8g6KKr5Zue5rua44CN5pe255qE56ys5LiA5omL6K+K5patIOKAlOKAlCDlroPog73ljLrliIbjgIzlkb3lkI3nqbrpl7TkuI3lj6/op4HjgI0KLy8g44CMc2NoZW1hIOagoemqjOaLkuS6huOAjeOAjOWGmeepv+Wksei0peOAjeS4ieenjeaDheWGteOAgumJtOadg+i1sCBwcm9iZS1hdXRoLm1qc++8iOemu+e6v+mTuOmAoCBDb29raWXvvInjgIIKLy8KLy8g5bmC562J5oCn77ya5Y+q5oqKKiror7vliLDnmoTlgLzljp/moLflhpnlm54qKu+8jOS4jeS8muaUueWKqOeUqOaIt+mFjee9ruOAggppbXBvcnQgeyBQUk9CRV9CQVNFIGFzIEJBU0UsIHByb2JlQ29va2llLCBwcm9iZVJwYyB9IGZyb20gJy4vcHJvYmUtYXV0aC5tanMnOwoKY29uc3QgcnBjID0gcHJvYmVScGMocHJvYmVDb29raWUoeyBiYXNlOiBCQVNFIH0pKTsKCmNvbnN0IHN0ID0gYXdhaXQgcnBjKCdzZXR0aW5ncy9kZXNjcmliZScsIHt9KTsKY29uc29sZS5sb2coJ3NldHRpbmdzL2Rlc2NyaWJlIG9rID0nLCBzdD8ub2sgPT09IHRydWUpOwpjb25zdCBuYW1lc3BhY2VzID0gc3Q/LnZhbHVlPy5uYW1lc3BhY2VzID8/IFtdOwpjb25zb2xlLmxvZygn5ZG95ZCN56m66Ze05oC75pWwOicsIG5hbWVzcGFjZXMubGVuZ3RoKTsKY29uc29sZS5sb2coJ+WFqOmDqOWRveWQjeepuumXtDonLCBuYW1lc3BhY2VzLm1hcCgobikgPT4gbi5ucykuam9pbignLCAnKSk7Cgpjb25zdCBxcSA9IG5hbWVzcGFjZXMuZmluZCgobikgPT4gbi5ucyA9PT0gJ3FxLW1vZGUnKTsKY29uc29sZS5sb2coJ1xuPT09IHFxLW1vZGUg5ZG95ZCN56m66Ze0ID09PScpOwppZiAoIXFxKSBjb25zb2xlLmxvZygn4p2MIOacquWHuueOsOWcqCBkZXNjcmliZSDph4wnKTsKZWxzZSB7CiAgY29uc29sZS5sb2coJ25zICAgICAgID0nLCBxcS5ucyk7CiAgY29uc29sZS5sb2coJ2tleXMgICAgID0nLCBPYmplY3Qua2V5cyhxcSkuam9pbignLCcpKTsKICBjb25zb2xlLmxvZygndmFsdWUgICAgPScsIEpTT04uc3RyaW5naWZ5KHFxLnZhbHVlKSk7CiAgY29uc29sZS5sb2coJ3JldmlzaW9uID0nLCBxcS5yZXZpc2lvbik7Cn0KCi8vIOW5guetieWGmeWbnu+8muaKiuW9k+WJjSBtb2RlIOWOn+agt+WGmeWbnuS4gOasoe+8jOmqjOivgeWGmeWFpei3r+W+hOmAmuS4jemAmuOAggovLyDms6jmhI8gMC4yLjAg55qEIHNldHRpbmdzL3VwZGF0ZSDmmK8qKuWkmuWPguaVsCoqIFJQQ++8mmFyZ3Mg5pivIHsgbnMsIHBhdGNoLCBleHBlY3RlZFJldmlzaW9uIH0KLy8g5bmz6ZO677yM5LiN5pivIHsgcmVxdWVzdDogey4uLn0gfe+8iOaOoua1i+aXtuS8oCByZXF1ZXN0IOS8muiiq+e9keWFs+aLkuS4ugovLyBgZ2F0ZXdheS9hcmd1bWVudHMtaW52YWxpZDogbWlzc2luZyAibnMiLCAicGF0Y2giOyB1bmV4cGVjdGVkICJyZXF1ZXN0ImDvvInjgIIKaWYgKHFxKSB7CiAgY29uc3QgY3VycmVudCA9IHFxLnZhbHVlPy5tb2RlOwogIGNvbnN0IHVwID0gYXdhaXQgcnBjKCdzZXR0aW5ncy91cGRhdGUnLCB7IG5zOiAncXEtbW9kZScsIHBhdGNoOiB7IG1vZGU6IGN1cnJlbnQgfSwgZXhwZWN0ZWRSZXZpc2lvbjogcXEucmV2aXNpb24gfSk7CiAgY29uc29sZS5sb2coJ1xuPT09IHNldHRpbmdzL3VwZGF0Ze+8iOWGmeWbnuWOn+WAvO+8iSA9PT0nKTsKICBjb25zb2xlLmxvZyh1cD8ub2sgPT09IHRydWUgPyBg4pyFIOWGmeWFpeaIkOWKnyBhY2NlcHRlZD0ke0pTT04uc3RyaW5naWZ5KHVwLnZhbHVlKX1gIDogYOKdjCAke3VwPy5lcnJvcj8uY29kZX06ICR7dXA/LmVycm9yPy5tZXNzYWdlfWApOwogIGNvbnN0IGFnYWluID0gYXdhaXQgcnBjKCdzZXR0aW5ncy9kZXNjcmliZScsIHt9KTsKICBjb25zdCBxcTIgPSAoYWdhaW4/LnZhbHVlPy5uYW1lc3BhY2VzID8/IFtdKS5maW5kKChuKSA9PiBuLm5zID09PSBxcS5ucyk7CiAgY29uc29sZS5sb2coJ+WGmeWbnuWQjiB2YWx1ZSA9JywgSlNPTi5zdHJpbmdpZnkocXEyPy52YWx1ZSksICdyZXZpc2lvbiA9JywgcXEyPy5yZXZpc2lvbik7Cn0KCi8vIOWFtuS7luahpeaOpeWFs+W/g+eahOWRveWQjeepuumXtApjb25zb2xlLmxvZygnXG49PT0g5qGl5o6l5YWz5b+D55qE5ZG95ZCN56m66Ze0ID09PScpOwpmb3IgKGNvbnN0IHdhbnQgb2YgWydhZ2VudC1wcmVzZXQtcmVnaXN0cnknLCAnYWdlbnQtZGVmYXVsdC1tb2RlbCcsICdsbG0tZGVlcHNlZWsnLCAncGVybWlzc2lvbi1wcmVzZXRzJ10pIHsKICBjb25zdCBoaXQgPSBuYW1lc3BhY2VzLmZpbmQoKG4pID0+IG4ubnMgPT09IHdhbnQpOwogIGNvbnNvbGUubG9nKGAgICR7aGl0ID8gJ+KchScgOiAn4p2MJ30gJHt3YW50fSR7aGl0ID8gYCA9ICR7SlNPTi5zdHJpbmdpZnkoaGl0LnZhbHVlKT8uc2xpY2UoMCwgMTIwKX1gIDogJyd9YCk7Cn0KcHJvY2Vzcy5leGl0KDApOwo=
+// 探测 DSH settings 命名空间机制：列出全部命名空间（重点 `qq-mode`）并**幂等写回原值**
+// 验证写入路径，同时打印桥接关心的几个命名空间。
+//
+// 用途：控制台「改模式不生效 / 被回滚」时的第一手诊断 —— 它能区分「命名空间不可见」
+// 「schema 校验拒了」「写穿失败」三种情况。鉴权走 probe-auth.mjs（离线铸造 Cookie）。
+//
+// 幂等性：只把**读到的值原样写回**，不会改动用户配置。
+import { PROBE_BASE as BASE, probeCookie, probeRpc } from './probe-auth.mjs';
+
+const rpc = probeRpc(probeCookie({ base: BASE }));
+
+const st = await rpc('settings/describe', {});
+console.log('settings/describe ok =', st?.ok === true);
+const namespaces = st?.value?.namespaces ?? [];
+console.log('命名空间总数:', namespaces.length);
+console.log('全部命名空间:', namespaces.map((n) => n.ns).join(', '));
+
+const qq = namespaces.find((n) => n.ns === 'qq-mode');
+console.log('\n=== qq-mode 命名空间 ===');
+if (!qq) console.log('❌ 未出现在 describe 里');
+else {
+  console.log('ns       =', qq.ns);
+  console.log('keys     =', Object.keys(qq).join(','));
+  console.log('value    =', JSON.stringify(qq.value));
+  console.log('revision =', qq.revision);
+}
+
+// 幂等写回：把当前 mode 原样写回一次，验证写入路径通不通。
+// 注意 0.2.0 的 settings/update 是**多参数** RPC：args 是 { ns, patch, expectedRevision }
+// 平铺，不是 { request: {...} }（探测时传 request 会被网关拒为
+// `gateway/arguments-invalid: missing "ns", "patch"; unexpected "request"`）。
+if (qq) {
+  const current = qq.value?.mode;
+  const up = await rpc('settings/update', { ns: 'qq-mode', patch: { mode: current }, expectedRevision: qq.revision });
+  console.log('\n=== settings/update（写回原值） ===');
+  console.log(up?.ok === true ? `✅ 写入成功 accepted=${JSON.stringify(up.value)}` : `❌ ${up?.error?.code}: ${up?.error?.message}`);
+  const again = await rpc('settings/describe', {});
+  const qq2 = (again?.value?.namespaces ?? []).find((n) => n.ns === qq.ns);
+  console.log('写回后 value =', JSON.stringify(qq2?.value), 'revision =', qq2?.revision);
+}
+
+// 其他桥接关心的命名空间
+console.log('\n=== 桥接关心的命名空间 ===');
+for (const want of ['agent-preset-registry', 'agent-default-model', 'llm-deepseek', 'permission-presets']) {
+  const hit = namespaces.find((n) => n.ns === want);
+  console.log(`  ${hit ? '✅' : '❌'} ${want}${hit ? ` = ${JSON.stringify(hit.value)?.slice(0, 120)}` : ''}`);
+}
+process.exit(0);

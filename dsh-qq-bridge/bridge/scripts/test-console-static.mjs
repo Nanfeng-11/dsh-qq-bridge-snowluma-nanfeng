@@ -1,1 +1,77 @@
-Ly8g5o6n5Yi25Y+w6Z2Z5oCB5qCh6aqM77ya5Zyo5peg5rOV6LeRIFBsYXl3cmlnaHQg55qE546v5aKD6YeM77yM5pu/5Luj5oCn5Zyw5qOA5p+lIEhUTUwvSlMg57uT5p6E5aWR57qm44CCCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKLy8g54us56uL5Y+R6K+t6Z+z5bel5YW35Zyo5LuT5bqT5LiK5LiA57qn77yI5LiN5Zyo5pys5LuT5bqT6YeM77yJ77ya5L2N572u6Kej5p6Q5LiOIuS4jeWcqOaXtuaAjuS5iOi3s+i/hyLotbDlhbHkuqvlj6PlvoTjgIIKaW1wb3J0IHsgaGFzVm9pY2VUb29sLCBza2lwVm9pY2VUb29sLCB2b2ljZVRvb2xQYXRoIH0gZnJvbSAnLi92b2ljZS10b29sLWxvY2F0b3IubWpzJzsKCmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUocGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwpjb25zdCBodG1sID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAncHVibGljJywgJ2NvbnNvbGUuaHRtbCcpLCAndXRmOCcpOwoKbGV0IGJhZCA9IDA7CmNvbnN0IG9rID0gKGNvbmQsIG5hbWUsIGV4dHJhID0gJycpID0+IHsKICBpZiAoY29uZCkgY29uc29sZS5sb2coYCAgT0sgICAke25hbWV9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOwogIGVsc2UgeyBiYWQrKzsgY29uc29sZS5sb2coYCAgRkFJTCAke25hbWV9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOyB9Cn07Cgpjb25zb2xlLmxvZygnIyMg5YWD57SgIElEJyk7CmNvbnN0IGlkcyA9IFsuLi5odG1sLm1hdGNoQWxsKC9cc2lkPSIoW0EtWmEtejAtOV8tXSspIi9nKV0ubWFwKChtKSA9PiBtWzFdKTsKY29uc3QgZHVwcyA9IFsuLi5uZXcgU2V0KGlkcy5maWx0ZXIoKHYsIGkpID0+IGlkcy5pbmRleE9mKHYpICE9PSBpKSldOwpvayhkdXBzLmxlbmd0aCA9PT0gMCwgJ0lEIOWUr+S4gCcsIGR1cHMubGVuZ3RoID8gYOmHjeWkje+8miR7ZHVwcy5qb2luKCcsICcpfWAgOiBg5YWxICR7aWRzLmxlbmd0aH0g5LiqYCk7CmZvciAoY29uc3QgaWQgb2YgWyd2b2ljZUxpc3QnLCAndm9pY2VSZWZyZXNoQnRuJywgJ3ZvaWNlU2VuZEJ0bicsICd2b2ljZVNlbmRUYXJnZXQnLCAndm9pY2VTZW5kRHJ5UnVuJywgJ3ZvaWNlTXNnJ10pIHsKICBjb25zdCBuID0gKGh0bWwubWF0Y2gobmV3IFJlZ0V4cChgaWQ9IiR7aWR9ImAsICdnJykpID8/IFtdKS5sZW5ndGg7CiAgb2sobiA9PT0gMSwgYOivremfs+mdouadv+WFg+e0oCAke2lkfWAsIGAke259IOWkhGApOwp9Cgpjb25zb2xlLmxvZygnIyMg6KeG5Zu+IC8g6aG16Z2i5aWR57qmJyk7CmNvbnN0IHZpZXdzID0gWy4uLm5ldyBTZXQoWy4uLmh0bWwubWF0Y2hBbGwoL2RhdGEtdmlldz0iKFthLXowLTktXSspIi9nKV0ubWFwKChtKSA9PiBtWzFdKSldLnNvcnQoKTsKY29uc3QgcGFnZXMgPSBbLi4ubmV3IFNldChbLi4uaHRtbC5tYXRjaEFsbCgvZGF0YS1wYWdlPSIoW2EtejAtOS1dKykiL2cpXS5tYXAoKG0pID0+IG1bMV0pKV0uc29ydCgpOwpvayhKU09OLnN0cmluZ2lmeSh2aWV3cykgPT09IEpTT04uc3RyaW5naWZ5KHBhZ2VzKSwgJ2RhdGEtdmlldyDkuI4gZGF0YS1wYWdlIOS4gOS4gOWvueW6lCcsIGAke3ZpZXdzLmxlbmd0aH0g5Liq77yaJHt2aWV3cy5qb2luKCcsICcpfWApOwoKY29uc29sZS5sb2coJyMjIOW3peWFt+W8gOWFsycpOwpjb25zdCB0b29scyA9IFsuLi5odG1sLm1hdGNoQWxsKC9kYXRhLXYyLXRvb2w9IihbQS1aYS16XSspIi9nKV0ubWFwKChtKSA9PiBtWzFdKTsKb2sodG9vbHMuaW5jbHVkZXMoJ3NlbmRWb2ljZScpLCAnc2VuZFZvaWNlIOW8gOWFs+WtmOWcqCcsIGDlhbEgJHt0b29scy5sZW5ndGh9IOS4quW8gOWFs2ApOwpvayhuZXcgU2V0KHRvb2xzKS5zaXplID09PSB0b29scy5sZW5ndGgsICflt6XlhbflvIDlhbPml6Dph43lpI0nKTsKCmNvbnNvbGUubG9nKCcjIyDor63pn7PpnaLmnb/mjqXnur8nKTsKb2soL2lkPSJ2b2ljZVJlZnJlc2hCdG4iLy50ZXN0KGh0bWwpICYmIC9nZXRFbGVtZW50QnlJZFwoJ3ZvaWNlUmVmcmVzaEJ0bidcKVwuYWRkRXZlbnRMaXN0ZW5lci8udGVzdChodG1sKSwgJ+WIt+aWsOaMiemSruW3sue7keWumuS6i+S7ticpOwpvaygvZ2V0RWxlbWVudEJ5SWRcKCd2b2ljZVNlbmRCdG4nXClcLmFkZEV2ZW50TGlzdGVuZXIvLnRlc3QoaHRtbCksICfor5Xlj5HmjInpkq7lt7Lnu5Hlrprkuovku7YnKTsKb2soL2FwaVwoJ1wvYXBpXC92b2ljZVwvbGlzdC8udGVzdChodG1sKSwgJ+mdouadv+iwg+eUqCAvYXBpL3ZvaWNlL2xpc3TvvIjmk43kvZzogIXpgJrpgZPvvIzml6DpnIAga2V577yJJyk7Cm9rKC9hcGlcKCdcL2FwaVwvdm9pY2VcL3NlbmQnLy50ZXN0KGh0bWwpLCAn6Z2i5p2/6LCD55SoIC9hcGkvdm9pY2Uvc2VuZCcpOwpvaygvdHlwZW9mIGxvYWRWb2ljZUxpYnJhcnkgPT09ICdmdW5jdGlvbid8YXN5bmMgZnVuY3Rpb24gbG9hZFZvaWNlTGlicmFyeS8udGVzdChodG1sKSwgJ2xvYWRWb2ljZUxpYnJhcnkg5bey5a6a5LmJJyk7Cgpjb25zb2xlLmxvZygnIyMgSlMg6K+t5rOVJyk7CmNvbnN0IHNjcmlwdHMgPSBbLi4uaHRtbC5tYXRjaEFsbCgvPHNjcmlwdD4oW1xzXFNdKj8pPFwvc2NyaXB0Pi9nKV0ubWFwKChtKSA9PiBtWzFdKTsKY29uc3QgYmlnID0gc2NyaXB0cy5zb3J0KChhLCBiKSA9PiBiLmxlbmd0aCAtIGEubGVuZ3RoKVswXTsKdHJ5IHsgbmV3IEZ1bmN0aW9uKGJpZyk7IG9rKHRydWUsICfkuLsgc2NyaXB0IOivreazleWPr+ino+aekCcsIGAke2JpZy5sZW5ndGh9IOWtl+espmApOyB9CmNhdGNoIChlKSB7IG9rKGZhbHNlLCAn5Li7IHNjcmlwdCDor63ms5UnLCBlLm1lc3NhZ2UpOyB9Cgpjb25zb2xlLmxvZygnIyMg6K+t6Z+z5Zu+5b2i55WM6Z2i55qE6Z+z6YeP5o6n5Lu2Jyk7CmlmICghaGFzVm9pY2VUb29sKCkpIHsKICAvLyDov5nkuIDmlbTmrrXmn6XnmoTmmK/ni6znq4vlt6Xlhbfoh6rlt7HnmoTpobXpnaLvvIh2b2ljZS5odG1s77yJ77yM5LuT5bqT6YeM5rKh5pyJ5a6D44CCCiAgc2tpcFZvaWNlVG9vbCgndm9pY2UuaHRtbCDnmoTpn7Pph4/mjqfku7bmlq3oqIDvvIh2b2xSYW5nZS92b2xMYWJlbC92b2xSZXNldC9ub3JtQm94L2xvdWRuZXNzU2VsL3ByZXZpZXdCdG7jgIHmu5HlnZfojIPlm7TjgIHkuovku7bnu5HlrprjgIHliY3nq68gSlMg5Y+v6Kej5p6Q77yJJyk7Cn0gZWxzZSB7CiAgY29uc3Qgdm9pY2UgPSBmcy5yZWFkRmlsZVN5bmModm9pY2VUb29sUGF0aCgncHVibGljJywgJ3ZvaWNlLmh0bWwnKSwgJ3V0ZjgnKTsKICBjb25zdCBpZHMgPSBbLi4udm9pY2UubWF0Y2hBbGwoL1xzaWQ9IihbQS1aYS16MC05Xy1dKykiL2cpXS5tYXAoKG0pID0+IG1bMV0pOwogIGNvbnN0IGR1cHMgPSBbLi4ubmV3IFNldChpZHMuZmlsdGVyKCh2LCBpKSA9PiBpZHMuaW5kZXhPZih2KSAhPT0gaSkpXTsKICBvayhkdXBzLmxlbmd0aCA9PT0gMCwgJ3ZvaWNlLmh0bWwgSUQg5ZSv5LiAJywgZHVwcy5sZW5ndGggPyBg6YeN5aSN77yaJHtkdXBzLmpvaW4oJywgJyl9YCA6IGDlhbEgJHtpZHMubGVuZ3RofSDkuKpgKTsKICBmb3IgKGNvbnN0IGlkIG9mIFsndm9sUmFuZ2UnLCAndm9sTGFiZWwnLCAndm9sUmVzZXQnLCAnbm9ybUJveCcsICdsb3VkbmVzc1NlbCcsICdwcmV2aWV3QnRuJ10pIHsKICAgIG9rKGlkcy5pbmNsdWRlcyhpZCksIGDpn7Pph4/mjqfku7YgJHtpZH1gKTsKICB9CiAgb2soL2lkPSJ2b2xSYW5nZSJbXj5dKm1pbj0iMTAiW14+XSptYXg9IjQwMCIvLnRlc3Qodm9pY2UpLCAn5ruR5Z2X6IyD5Zu0IDEwJX40MDAlJyk7CiAgb2soL3ZvbFJhbmdlJ1wpXC5hZGRFdmVudExpc3RlbmVyXCgnaW5wdXQnLy50ZXN0KHZvaWNlKSwgJ+a7keWdlyBpbnB1dCDkuovku7blt7Lnu5HlrponKTsKICBvaygvcHJldmlld0J0bidcKVwuYWRkRXZlbnRMaXN0ZW5lci8udGVzdCh2b2ljZSksICfor5XlkKzmjInpkq7lt7Lnu5HlrponKTsKICBvaygvYXBpXC9wcmV2aWV3Ly50ZXN0KHZvaWNlKSwgJ+ivleWQrOiwgyAvYXBpL3ByZXZpZXfvvIjlkKzlpITnkIblkI7nmoTmlYjmnpzvvIknKTsKICBvaygvYm9keVwubm9ybWFsaXplID0gdHJ1ZS8udGVzdCh2b2ljZSkgJiYgL2JvZHlcLnZvbHVtZSA9IHZvbFZhbHVlXChcKS8udGVzdCh2b2ljZSksICflj5HpgIHml7bluKbkuIrpn7Pph4/orr7nva4nKTsKICBjb25zdCBzY3JpcHRzID0gWy4uLnZvaWNlLm1hdGNoQWxsKC88c2NyaXB0PihbXHNcU10qPyk8XC9zY3JpcHQ+L2cpXS5tYXAoKG0pID0+IG1bMV0pOwogIHRyeSB7IG5ldyBGdW5jdGlvbihzY3JpcHRzWzBdKTsgb2sodHJ1ZSwgJ3ZvaWNlLmh0bWwg5YmN56uvIEpTIOWPr+ino+aekCcpOyB9CiAgY2F0Y2ggKGUpIHsgb2soZmFsc2UsICd2b2ljZS5odG1sIOWJjeerryBKUyDlj6/op6PmnpAnLCBlLm1lc3NhZ2UpOyB9Cn0KCmNvbnNvbGUubG9nKCcjIyBmaXh0dXJlIG1vY2sg6KaG55uWJyk7CmNvbnN0IGZpeHR1cmUgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdzY3JpcHRzJywgJ2NvbnNvbGUtdWktZml4dHVyZS5tanMnKSwgJ3V0ZjgnKTsKb2soZml4dHVyZS5pbmNsdWRlcygiY2FzZSAnL2FwaS9zb2NpYWxWMi92b2ljZXMnIiksICdmaXh0dXJlIG1vY2sg5LqGIC9hcGkvc29jaWFsVjIvdm9pY2VzJyk7Cm9rKGZpeHR1cmUuaW5jbHVkZXMoImNhc2UgJy9hcGkvdm9pY2Uvc2VuZCciKSwgJ2ZpeHR1cmUgbW9jayDkuoYgL2FwaS92b2ljZS9zZW5kJyk7Cgpjb25zb2xlLmxvZyhiYWQgPT09IDAgPyAnXG7lhajpg6jpgJrov4cnIDogYFxuJHtiYWR9IOmhueWksei0pWApOwppZiAoYmFkID4gMCkgcHJvY2Vzcy5leGl0KDEpOwo=
+// 控制台静态校验：在无法跑 Playwright 的环境里，替代性地检查 HTML/JS 结构契约。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+// 独立发语音工具在仓库上一级（不在本仓库里）：位置解析与"不在时怎么跳过"走共享口径。
+import { hasVoiceTool, skipVoiceTool, voiceToolPath } from './voice-tool-locator.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const html = fs.readFileSync(path.join(ROOT, 'public', 'console.html'), 'utf8');
+
+let bad = 0;
+const ok = (cond, name, extra = '') => {
+  if (cond) console.log(`  OK   ${name}${extra ? ' — ' + extra : ''}`);
+  else { bad++; console.log(`  FAIL ${name}${extra ? ' — ' + extra : ''}`); }
+};
+
+console.log('## 元素 ID');
+const ids = [...html.matchAll(/\sid="([A-Za-z0-9_-]+)"/g)].map((m) => m[1]);
+const dups = [...new Set(ids.filter((v, i) => ids.indexOf(v) !== i))];
+ok(dups.length === 0, 'ID 唯一', dups.length ? `重复：${dups.join(', ')}` : `共 ${ids.length} 个`);
+for (const id of ['voiceList', 'voiceRefreshBtn', 'voiceSendBtn', 'voiceSendTarget', 'voiceSendDryRun', 'voiceMsg']) {
+  const n = (html.match(new RegExp(`id="${id}"`, 'g')) ?? []).length;
+  ok(n === 1, `语音面板元素 ${id}`, `${n} 处`);
+}
+
+console.log('## 视图 / 页面契约');
+const views = [...new Set([...html.matchAll(/data-view="([a-z0-9-]+)"/g)].map((m) => m[1]))].sort();
+const pages = [...new Set([...html.matchAll(/data-page="([a-z0-9-]+)"/g)].map((m) => m[1]))].sort();
+ok(JSON.stringify(views) === JSON.stringify(pages), 'data-view 与 data-page 一一对应', `${views.length} 个：${views.join(', ')}`);
+
+console.log('## 工具开关');
+const tools = [...html.matchAll(/data-v2-tool="([A-Za-z]+)"/g)].map((m) => m[1]);
+ok(tools.includes('sendVoice'), 'sendVoice 开关存在', `共 ${tools.length} 个开关`);
+ok(new Set(tools).size === tools.length, '工具开关无重复');
+
+console.log('## 语音面板接线');
+ok(/id="voiceRefreshBtn"/.test(html) && /getElementById\('voiceRefreshBtn'\)\.addEventListener/.test(html), '刷新按钮已绑定事件');
+ok(/getElementById\('voiceSendBtn'\)\.addEventListener/.test(html), '试发按钮已绑定事件');
+ok(/api\('\/api\/voice\/list/.test(html), '面板调用 /api/voice/list（操作者通道，无需 key）');
+ok(/api\('\/api\/voice\/send'/.test(html), '面板调用 /api/voice/send');
+ok(/typeof loadVoiceLibrary === 'function'|async function loadVoiceLibrary/.test(html), 'loadVoiceLibrary 已定义');
+
+console.log('## JS 语法');
+const scripts = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map((m) => m[1]);
+const big = scripts.sort((a, b) => b.length - a.length)[0];
+try { new Function(big); ok(true, '主 script 语法可解析', `${big.length} 字符`); }
+catch (e) { ok(false, '主 script 语法', e.message); }
+
+console.log('## 语音图形界面的音量控件');
+if (!hasVoiceTool()) {
+  // 这一整段查的是独立工具自己的页面（voice.html），仓库里没有它。
+  skipVoiceTool('voice.html 的音量控件断言（volRange/volLabel/volReset/normBox/loudnessSel/previewBtn、滑块范围、事件绑定、前端 JS 可解析）');
+} else {
+  const voice = fs.readFileSync(voiceToolPath('public', 'voice.html'), 'utf8');
+  const ids = [...voice.matchAll(/\sid="([A-Za-z0-9_-]+)"/g)].map((m) => m[1]);
+  const dups = [...new Set(ids.filter((v, i) => ids.indexOf(v) !== i))];
+  ok(dups.length === 0, 'voice.html ID 唯一', dups.length ? `重复：${dups.join(', ')}` : `共 ${ids.length} 个`);
+  for (const id of ['volRange', 'volLabel', 'volReset', 'normBox', 'loudnessSel', 'previewBtn']) {
+    ok(ids.includes(id), `音量控件 ${id}`);
+  }
+  ok(/id="volRange"[^>]*min="10"[^>]*max="400"/.test(voice), '滑块范围 10%~400%');
+  ok(/volRange'\)\.addEventListener\('input'/.test(voice), '滑块 input 事件已绑定');
+  ok(/previewBtn'\)\.addEventListener/.test(voice), '试听按钮已绑定');
+  ok(/api\/preview/.test(voice), '试听调 /api/preview（听处理后的效果）');
+  ok(/body\.normalize = true/.test(voice) && /body\.volume = volValue\(\)/.test(voice), '发送时带上音量设置');
+  const scripts = [...voice.matchAll(/<script>([\s\S]*?)<\/script>/g)].map((m) => m[1]);
+  try { new Function(scripts[0]); ok(true, 'voice.html 前端 JS 可解析'); }
+  catch (e) { ok(false, 'voice.html 前端 JS 可解析', e.message); }
+}
+
+console.log('## fixture mock 覆盖');
+const fixture = fs.readFileSync(path.join(ROOT, 'scripts', 'console-ui-fixture.mjs'), 'utf8');
+ok(fixture.includes("case '/api/socialV2/voices'"), 'fixture mock 了 /api/socialV2/voices');
+ok(fixture.includes("case '/api/voice/send'"), 'fixture mock 了 /api/voice/send');
+
+console.log(bad === 0 ? '\n全部通过' : `\n${bad} 项失败`);
+if (bad > 0) process.exit(1);

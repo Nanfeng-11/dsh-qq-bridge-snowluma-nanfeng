@@ -1,1 +1,340 @@
-Ly8gT2ZmbGluZSByZWdyZXNzaW9uIHRlc3RzLiBObyByZWFsIERTSC9RUSBlbmRwb2ludHMgb3IgbG9jYWwgY3JlZGVudGlhbHMgYXJlIHJlYWQuCmltcG9ydCBhc3NlcnQgZnJvbSAnbm9kZTphc3NlcnQvc3RyaWN0JzsKaW1wb3J0IHsgTm9kZUFwaUNsaWVudCB9IGZyb20gJy4uL3NyYy9kc2gtY2xpZW50LmpzJzsKCmNvbnN0IG9yaWdpbmFsRmV0Y2ggPSBnbG9iYWxUaGlzLmZldGNoOwpjb25zdCBvcmlnaW5hbFdlYlNvY2tldCA9IGdsb2JhbFRoaXMuV2ViU29ja2V0Owpjb25zdCBvcmlnaW5hbEhvbWUgPSBwcm9jZXNzLmVudi5EU0hfSE9NRTsKcHJvY2Vzcy5lbnYuRFNIX0hPTUUgPSBuZXcgVVJMKCcuLy5uby1yZWFsLWRzaC1ob21lJywgaW1wb3J0Lm1ldGEudXJsKS5wYXRobmFtZTsKY29uc3QgdGljayA9ICgpID0+IG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXRJbW1lZGlhdGUocmVzb2x2ZSkpOwpjb25zdCB1bmhhbmRsZWQgPSBbXTsKY29uc3Qgb25VbmhhbmRsZWQgPSAoZXJyb3IpID0+IHVuaGFuZGxlZC5wdXNoKGVycm9yKTsKcHJvY2Vzcy5vbigndW5oYW5kbGVkUmVqZWN0aW9uJywgb25VbmhhbmRsZWQpOwpjb25zdCB0ZXN0cyA9IFtdOwpjb25zdCB0ZXN0ID0gKG5hbWUsIGZuKSA9PiB0ZXN0cy5wdXNoKHsgbmFtZSwgZm4gfSk7Ci8vIOeUqOWbnueOr+WcsOWdgO+8mmxhdW5jaCB0b2tlbiDkuqTmjaLpu5jorqQqKuaLkue7nemdnuWbnueOryBiYXNlVXJsKirvvIjlh63mja7lj6rlupTkuqTnu5kgMTI3LjAuMC4x77yJ77yMCi8vIOaJgOS7peWkueWFt+S4jeiDveeUqCBkc2guaW52YWxpZCDov5nnsbvln5/lkI3vvIzlkKbliJnmtYvnmoTmmK/mlrDliqDnmoTpgqPpgZPpl7jpl6jogIzkuI3mmK/ljY/orq7ooYzkuLrjgIIKY29uc3QgY2xpZW50ID0gKHRpbWVvdXRNcyA9IDEwMDApID0+IG5ldyBOb2RlQXBpQ2xpZW50KCdodHRwOi8vMTI3LjAuMC4xOjknLCB0aW1lb3V0TXMsIHsgdG9rZW46ICdmaXh0dXJlLXRva2VuJyB9KTsKCnRlc3QoJ3Nlc3Npb24vY2FuY2VsIHVzZXMgdGhlIERTSCByZXF1ZXN0IHdyYXBwZXIgYW5kIHVud3JhcHMgdGhlIGVudmVsb3BlJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGFwaSA9IGNsaWVudCgpOwogIGFwaS5jb29raWUgPSAnZml4dHVyZT1vayc7CiAgZ2xvYmFsVGhpcy5mZXRjaCA9IGFzeW5jIChpbnB1dCwgaW5pdCkgPT4gewogICAgYXNzZXJ0LmVxdWFsKG5ldyBVUkwoaW5wdXQpLnBhdGhuYW1lLCAnL2FwaS9zZXNzaW9uL2NhbmNlbCcpOwogICAgY29uc3QgZW52ZWxvcGUgPSBKU09OLnBhcnNlKGluaXQuYm9keSk7CiAgICBhc3NlcnQuZXF1YWwoZW52ZWxvcGUubWV0aG9kLCAnc2Vzc2lvbi9jYW5jZWwnKTsKICAgIGFzc2VydC5kZWVwRXF1YWwoZW52ZWxvcGUucGF5bG9hZCwgeyBhcmdzOiB7IHJlcXVlc3Q6IHsgc2Vzc2lvbklkOiAnc2Vzc2lvbi1hJyB9IH0gfSk7CiAgICByZXR1cm4gUmVzcG9uc2UuanNvbih7IHR5cGU6ICdzZXJ2ZXItcmVzcG9uc2UnLCBycGNJZDogZW52ZWxvcGUucnBjSWQsIHJlc3VsdDogeyBvazogdHJ1ZSwgdmFsdWU6IHsgYWNjZXB0ZWQ6IHRydWUgfSB9IH0pOwogIH07CiAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBhcGkuY2FsbFVuYXJ5KCdzZXNzaW9uL2NhbmNlbCcsIHsgc2Vzc2lvbklkOiAnc2Vzc2lvbi1hJyB9KTsKICBhc3NlcnQuZXF1YWwocmVzcG9uc2UucmVzdWx0LnZhbHVlLmFjY2VwdGVkLCB0cnVlKTsKfSk7Cgp0ZXN0KCdhIGhhbmRsZWQgYXV0aCBleGNoYW5nZSBmYWlsdXJlIGhhcyBubyBvcnBoYW4gcmVqZWN0aW9uJywgYXN5bmMgKCkgPT4gewogIGdsb2JhbFRoaXMuZmV0Y2ggPSBhc3luYyAoKSA9PiBuZXcgUmVzcG9uc2UoJycsIHsgc3RhdHVzOiA0MDEgfSk7CiAgY29uc3QgYXBpID0gY2xpZW50KCk7CiAgY29uc3QgYmVmb3JlID0gdW5oYW5kbGVkLmxlbmd0aDsKICBhd2FpdCBhc3NlcnQucmVqZWN0cyhhcGkuZW5zdXJlQXV0aCgpLCAvdG9rZW4gZXhjaGFuZ2UgZmFpbGVkLyk7CiAgYXdhaXQgdGljaygpOwogIGFzc2VydC5lcXVhbChhcGkuY29va2llUHJvbWlzZSwgbnVsbCk7CiAgYXNzZXJ0LmVxdWFsKHVuaGFuZGxlZC5sZW5ndGgsIGJlZm9yZSk7Cn0pOwoKdGVzdCgnY29uY3VycmVudCBzdGFsZSA0MDEgcmVzcG9uc2VzIHNoYXJlIG9uZSBmcmVzaCBhdXRoIGV4Y2hhbmdlJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGFwaSA9IGNsaWVudCgpOwogIGFwaS5jb29raWUgPSAnZml4dHVyZT1vbGQnOwogIGxldCBleGNoYW5nZXMgPSAwOwogIGxldCByZXNvbHZlRXhjaGFuZ2U7CiAgbGV0IHJlc29sdmVTZWNvbmQ7CiAgZ2xvYmFsVGhpcy5mZXRjaCA9IGFzeW5jIChpbnB1dCwgaW5pdCkgPT4gewogICAgY29uc3QgdXJsID0gbmV3IFVSTChpbnB1dCk7CiAgICBpZiAodXJsLnBhdGhuYW1lID09PSAnLycpIHsKICAgICAgZXhjaGFuZ2VzICs9IDE7CiAgICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4geyByZXNvbHZlRXhjaGFuZ2UgPSByZXNvbHZlOyB9KTsKICAgIH0KICAgIGlmIChuZXcgSGVhZGVycyhpbml0Py5oZWFkZXJzKS5nZXQoJ2Nvb2tpZScpID09PSAnZml4dHVyZT1vbGQnKSB7CiAgICAgIGlmICh1cmwucGF0aG5hbWUgPT09ICcvYScpIHJldHVybiBuZXcgUmVzcG9uc2UoJycsIHsgc3RhdHVzOiA0MDEgfSk7CiAgICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4geyByZXNvbHZlU2Vjb25kID0gcmVzb2x2ZTsgfSk7CiAgICB9CiAgICByZXR1cm4gbmV3IFJlc3BvbnNlKCdvaycpOwogIH07CiAgY29uc3QgZmlyc3QgPSBhcGkuZG9GZXRjaCgnaHR0cDovL2RzaC5pbnZhbGlkL2EnKTsKICBjb25zdCBzZWNvbmQgPSBhcGkuZG9GZXRjaCgnaHR0cDovL2RzaC5pbnZhbGlkL2InKTsKICBjb25zdCBvdXRjb21lcyA9IFByb21pc2UuYWxsU2V0dGxlZChbZmlyc3QsIHNlY29uZF0pOwogIGF3YWl0IHRpY2soKTsKICBhc3NlcnQuZXF1YWwoZXhjaGFuZ2VzLCAxKTsKICBjb25zdCBmaW5pc2hGaXJzdEV4Y2hhbmdlID0gcmVzb2x2ZUV4Y2hhbmdlOwogIHJlc29sdmVTZWNvbmQobmV3IFJlc3BvbnNlKCcnLCB7IHN0YXR1czogNDAxIH0pKTsKICBhd2FpdCB0aWNrKCk7CiAgLy8gUmVzb2x2ZSBldmVyeSBleGNoYW5nZSBldmVuIGluIHRoZSBkZWZlY3RpdmUgaW1wbGVtZW50YXRpb24sIHNvIHRoZSB0ZXN0IGNhbm5vdCBoYW5nLgogIGZpbmlzaEZpcnN0RXhjaGFuZ2UobmV3IFJlc3BvbnNlKCcnLCB7IGhlYWRlcnM6IHsgJ3NldC1jb29raWUnOiAnZml4dHVyZT1uZXc7IEh0dHBPbmx5JyB9IH0pKTsKICBpZiAocmVzb2x2ZUV4Y2hhbmdlICE9PSBmaW5pc2hGaXJzdEV4Y2hhbmdlKSByZXNvbHZlRXhjaGFuZ2UobmV3IFJlc3BvbnNlKCcnLCB7IGhlYWRlcnM6IHsgJ3NldC1jb29raWUnOiAnZml4dHVyZT1uZXc7IEh0dHBPbmx5JyB9IH0pKTsKICBjb25zdCByZXN1bHRzID0gYXdhaXQgb3V0Y29tZXM7CiAgYXdhaXQgdGljaygpOwogIGFzc2VydC5lcXVhbChleGNoYW5nZXMsIDEsICdvbGQgNDAxIG11c3Qgbm90IGludmFsaWRhdGUgYW4gaW4tZmxpZ2h0IHJlZnJlc2gnKTsKICBhc3NlcnQub2socmVzdWx0cy5ldmVyeSgocmVzdWx0KSA9PiByZXN1bHQuc3RhdHVzID09PSAnZnVsZmlsbGVkJykpOwp9KTsKCnRlc3QoJ1JQQyBjYW5jZWxsYXRpb24gaW50ZXJydXB0cyB3YWl0aW5nIGZvciBzaGFyZWQgYXV0aCB3aXRob3V0IGNhbmNlbGxpbmcgb3RoZXIgY2FsbGVycycsIGFzeW5jICgpID0+IHsKICBjb25zdCBhcGkgPSBjbGllbnQoKTsKICBsZXQgcmVzb2x2ZUV4Y2hhbmdlOwogIGxldCBycGNDYWxscyA9IDA7CiAgZ2xvYmFsVGhpcy5mZXRjaCA9IGFzeW5jIChpbnB1dCkgPT4gewogICAgaWYgKG5ldyBVUkwoaW5wdXQpLnBhdGhuYW1lID09PSAnLycpIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4geyByZXNvbHZlRXhjaGFuZ2UgPSByZXNvbHZlOyB9KTsKICAgIHJwY0NhbGxzICs9IDE7CiAgICByZXR1cm4gbmV3IFJlc3BvbnNlKCdvaycpOwogIH07CiAgY29uc3QgYWJvcnQgPSBuZXcgQWJvcnRDb250cm9sbGVyKCk7CiAgY29uc3QgcGVuZGluZyA9IGFwaS5kb0ZldGNoKCdodHRwOi8vZHNoLmludmFsaWQvYScsIHsgc2lnbmFsOiBhYm9ydC5zaWduYWwgfSk7CiAgY29uc3QgcGVuZGluZ091dGNvbWUgPSBwZW5kaW5nLnRoZW4oKCkgPT4gJ2Z1bGZpbGxlZCcsIChlcnJvcikgPT4gZXJyb3IpOwogIGNvbnN0IHNoYXJlZCA9IGFwaS5lbnN1cmVBdXRoKCk7CiAgY29uc3QgcmVhc29uID0gbmV3IEVycm9yKCdmaXh0dXJlIGNhbmNlbGxhdGlvbicpOwogIGFib3J0LmFib3J0KHJlYXNvbik7CiAgYXdhaXQgdGljaygpOwogIGNvbnN0IG1hcmtlciA9IHt9OwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IFByb21pc2UucmFjZShbcGVuZGluZ091dGNvbWUsIFByb21pc2UucmVzb2x2ZShtYXJrZXIpXSk7CiAgcmVzb2x2ZUV4Y2hhbmdlKG5ldyBSZXNwb25zZSgnJywgeyBoZWFkZXJzOiB7ICdzZXQtY29va2llJzogJ2ZpeHR1cmU9bmV3JyB9IH0pKTsKICBhd2FpdCBzaGFyZWQ7CiAgYXdhaXQgcGVuZGluZ091dGNvbWU7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdCwgcmVhc29uLCAnY2FuY2VsbGVkIFJQQyBtdXN0IHNldHRsZSBiZWZvcmUgdGhlIGV4Y2hhbmdlIGZpbmlzaGVzJyk7CiAgYXNzZXJ0LmVxdWFsKHJwY0NhbGxzLCAwLCAnY2FuY2VsbGVkIFJQQyBtdXN0IG5ldmVyIGJlIHNlbnQnKTsKfSk7Cgp0ZXN0KCdhdXRoIGV4Y2hhbmdlIGhhcyBhbiBpbmRlcGVuZGVudCBib3VuZGVkIHRpbWVvdXQnLCBhc3luYyAoKSA9PiB7CiAgbGV0IHN1cHBsaWVkU2lnbmFsOwogIGdsb2JhbFRoaXMuZmV0Y2ggPSBhc3luYyAoX2lucHV0LCBpbml0KSA9PiB7CiAgICBzdXBwbGllZFNpZ25hbCA9IGluaXQ/LnNpZ25hbDsKICAgIGFzc2VydC5vayhzdXBwbGllZFNpZ25hbCBpbnN0YW5jZW9mIEFib3J0U2lnbmFsKTsKICAgIHJldHVybiBuZXcgUHJvbWlzZSgoX3Jlc29sdmUsIHJlamVjdCkgPT4gc3VwcGxpZWRTaWduYWwuYWRkRXZlbnRMaXN0ZW5lcignYWJvcnQnLCAoKSA9PiByZWplY3Qoc3VwcGxpZWRTaWduYWwucmVhc29uKSwgeyBvbmNlOiB0cnVlIH0pKTsKICB9OwogIGNvbnN0IGtlZXBBbGl2ZSA9IHNldFRpbWVvdXQoKCkgPT4ge30sIDI1MCk7CiAgdHJ5IHsgYXdhaXQgYXNzZXJ0LnJlamVjdHMoY2xpZW50KDMwKS5lbnN1cmVBdXRoKCksIChlcnJvcikgPT4gZXJyb3IubmFtZSA9PT0gJ1RpbWVvdXRFcnJvcicpOyB9CiAgZmluYWxseSB7IGNsZWFyVGltZW91dChrZWVwQWxpdmUpOyB9CiAgYXNzZXJ0LmVxdWFsKG5ldyBOb2RlQXBpQ2xpZW50KCdodHRwOi8vMTI3LjAuMC4xOjknLCB1bmRlZmluZWQsIHt9KS50aW1lb3V0TXMsIDMwMDAwKTsKfSk7CgovLyDmlrDlop7pl7jpl6jvvJpsYXVuY2ggdG9rZW4g5piv6L+b56iL5ZCv5Yqo5Yet5o2u77yM5Lqk5o2i5pe25b+F6aG75pS+6L+bIFVSTO+8jOWboOatpOm7mOiupOWPquWFgeiuuOWbnueOr+WcsOWdgOOAggp0ZXN0KCdub24tbG9vcGJhY2sgYmFzZVVybCBpcyByZWZ1c2VkIHVubGVzcyBhbGxvd1JlbW90ZSBpcyBzZXQgZXhwbGljaXRseScsIGFzeW5jICgpID0+IHsKICBsZXQgZmV0Y2hlZCA9IGZhbHNlOwogIGdsb2JhbFRoaXMuZmV0Y2ggPSBhc3luYyAoKSA9PiB7IGZldGNoZWQgPSB0cnVlOyByZXR1cm4gbmV3IFJlc3BvbnNlKCcnLCB7IHN0YXR1czogMzAzIH0pOyB9OwogIGF3YWl0IGFzc2VydC5yZWplY3RzKAogICAgbmV3IE5vZGVBcGlDbGllbnQoJ2h0dHA6Ly9kc2guZXhhbXBsZS5jb20nLCAxMDAwLCB7IHRva2VuOiAnZml4dHVyZS10b2tlbicgfSkuZW5zdXJlQXV0aCgpLAogICAgL+mdnuacrOacuuWcsOWdgC8sCiAgKTsKICBhc3NlcnQuZXF1YWwoZmV0Y2hlZCwgZmFsc2UsICfmi5Lnu53ml7bkuI3lupTor6Xlj5Hlh7rku7vkvZXor7fmsYInKTsKICAvLyAxMjcuMC4wLjAvOOOAgWxvY2FsaG9zdCDpg73nrpflm57njq/vvJvmmL7lvI8gb3B0LWluIOWQjuaUvuihjO+8iOi/memHjOWPqumqjOivgeS4jeWGjeiiq+mXuOmXqOaLpuS4i++8iQogIGF3YWl0IGFzc2VydC5yZWplY3RzKAogICAgbmV3IE5vZGVBcGlDbGllbnQoJ2h0dHA6Ly8xMjcuMS4yLjM6MzA4MCcsIDEwMDAsIHsgdG9rZW46ICdmaXh0dXJlLXRva2VuJyB9KS5lbnN1cmVBdXRoKCksCiAgICAvdG9rZW4gZXhjaGFuZ2UgZmFpbGVkLywKICApOwogIGF3YWl0IGFzc2VydC5yZWplY3RzKAogICAgbmV3IE5vZGVBcGlDbGllbnQoJ2h0dHA6Ly9kc2guZXhhbXBsZS5jb20nLCAxMDAwLCB7IHRva2VuOiAnZml4dHVyZS10b2tlbicsIGFsbG93UmVtb3RlOiB0cnVlIH0pLmVuc3VyZUF1dGgoKSwKICAgIC90b2tlbiBleGNoYW5nZSBmYWlsZWQvLAogICk7Cn0pOwoKY2xhc3MgRmFrZVdlYlNvY2tldCB7CiAgc3RhdGljIENPTk5FQ1RJTkcgPSAwOyBzdGF0aWMgT1BFTiA9IDE7IHN0YXRpYyBDTE9TRUQgPSAzOwogIHN0YXRpYyBzb2NrZXRzID0gW107CiAgY29uc3RydWN0b3IoKSB7IHRoaXMucmVhZHlTdGF0ZSA9IDA7IHRoaXMubGlzdGVuZXJzID0gbmV3IE1hcCgpOyB0aGlzLmZyYW1lcyA9IFtdOyBGYWtlV2ViU29ja2V0LnNvY2tldHMucHVzaCh0aGlzKTsgfQogIGFkZEV2ZW50TGlzdGVuZXIodHlwZSwgZm4pIHsgaWYgKCF0aGlzLmxpc3RlbmVycy5oYXModHlwZSkpIHRoaXMubGlzdGVuZXJzLnNldCh0eXBlLCBuZXcgU2V0KCkpOyB0aGlzLmxpc3RlbmVycy5nZXQodHlwZSkuYWRkKGZuKTsgfQogIHJlbW92ZUV2ZW50TGlzdGVuZXIodHlwZSwgZm4pIHsgdGhpcy5saXN0ZW5lcnMuZ2V0KHR5cGUpPy5kZWxldGUoZm4pOyB9CiAgZW1pdCh0eXBlLCBkYXRhID0ge30pIHsgZm9yIChjb25zdCBmbiBvZiBbLi4uKHRoaXMubGlzdGVuZXJzLmdldCh0eXBlKSB8fCBbXSldKSBmbihkYXRhKTsgfQogIG9wZW4oKSB7IHRoaXMucmVhZHlTdGF0ZSA9IDE7IHRoaXMuZW1pdCgnb3BlbicpOyB9CiAgc2VuZChkYXRhKSB7IGlmICh0aGlzLmZhaWxTZW5kKSB0aHJvdyBuZXcgRXJyb3IoJ2ZpeHR1cmUgdHJhbnNwb3J0IGZhaWx1cmUnKTsgdGhpcy5mcmFtZXMucHVzaChKU09OLnBhcnNlKGRhdGEpKTsgfQogIGNsb3NlKCkgeyB0aGlzLnJlYWR5U3RhdGUgPSAzOyB0aGlzLmVtaXQoJ2Nsb3NlJyk7IH0KICBmcmFtZShmcmFtZSkgeyB0aGlzLmVtaXQoJ21lc3NhZ2UnLCB7IGRhdGE6IEpTT04uc3RyaW5naWZ5KGZyYW1lKSB9KTsgfQp9CgovLyDpgIDlvbnkvJror53opoHmuIXmjokgRFNIIOS+p+acqui3keeahOmYn+WIl+OAguivu+mYn+WIl+acieS4pOadoei3r++8iOingSBzcmMvZHNoLWNsaWVudC5qc++8ie+8mgovLyAgIOS4u+i3r+W+hCBzZXNzaW9uL3Byb2plY3Rpb25z77yIMC4yLjAg55qE5LiA5YWDIFJQQ++8jOS4jeW8gCBXZWJTb2NrZXTvvIkKLy8gICDlm57pgIAgICBzZXNzaW9uL2NvbnRyb2wg5byA5Zy6IGJhc2VsaW5l77yIZW5kcG9pbnQg5LiN5a2Y5Zyo5pe277yJCi8vIOS4i+mdouWbm+adoeaKiuS4pOadoei3r+mDvemSieS9j++8jOW5tumSieS9jyAwLjIuMCDnmoQgYmFzZWxpbmUg5b2i54q2Ci8vIO+8iHZhbHVlLnByb2plY3Rpb25zWzxpZD5dLnZhbHVlcy5pbmJveO+8mzAuMS43IOeahCB2YWx1ZS5xdWV1ZXMg5bey5LiN5a2Y5Zyo77yJ44CCCmNvbnN0IHByb2plY3Rpb25WYWx1ZXMgPSAoaW5ib3gpID0+ICh7IHRpdGxlOiBudWxsLCAuLi4oaW5ib3ggPT09IHVuZGVmaW5lZCA/IHt9IDogeyBpbmJveCB9KSB9KTsKLyoqIOiuqSBzZXNzaW9uL3Byb2plY3Rpb25zIOi/meadoeS4gOWFgyBSUEMg5LiN5Y+v55So77yM6YC85Ye65Zue6YCA6Lev5b6E44CCICovCmNvbnN0IHVuYXZhaWxhYmxlUHJvamVjdGlvbnMgPSBhc3luYyAobWV0aG9kLCBwYXlsb2FkKSA9PiAoCiAgbWV0aG9kID09PSAnc2Vzc2lvbi9wcm9qZWN0aW9ucycKICAgID8geyByZXN1bHQ6IHsgb2s6IGZhbHNlLCBlcnJvcjogeyBjb2RlOiAnZ2F0ZXdheS9ub3QtZm91bmQnLCBtZXNzYWdlOiAndW5rbm93biBlbmRwb2ludCcgfSB9IH0KICAgIDogeyByZXN1bHQ6IHsgb2s6IHRydWUsIHZhbHVlOiB7IGFjY2VwdGVkOiB0cnVlIH0gfSB9Cik7Cgp0ZXN0KCdzZXNzaW9uIHJldGlyZW1lbnQgcmVhZHMgdGhlIGluYm94IHByb2plY3Rpb24gdGhyb3VnaCBzZXNzaW9uL3Byb2plY3Rpb25zIChubyBzb2NrZXQpJywgYXN5bmMgKCkgPT4gewogIGdsb2JhbFRoaXMuV2ViU29ja2V0ID0gRmFrZVdlYlNvY2tldDsKICBjb25zdCBiZWZvcmUgPSBGYWtlV2ViU29ja2V0LnNvY2tldHMubGVuZ3RoOwogIGNvbnN0IGFwaSA9IGNsaWVudCgpOwogIGFwaS5jb29raWUgPSAnZml4dHVyZT1vayc7CiAgY29uc3QgY2FsbHMgPSBbXTsKICBhcGkuY2FsbFVuYXJ5ID0gYXN5bmMgKG1ldGhvZCwgcGF5bG9hZCkgPT4gewogICAgY2FsbHMucHVzaCh7IG1ldGhvZCwgcGF5bG9hZCB9KTsKICAgIGlmIChtZXRob2QgPT09ICdzZXNzaW9uL3Byb2plY3Rpb25zJykgewogICAgICByZXR1cm4geyByZXN1bHQ6IHsgb2s6IHRydWUsIHZhbHVlOiB7IGFzT2ZTZXE6IDUsIHZhbHVlczogcHJvamVjdGlvblZhbHVlcyh7CiAgICAgICAgJ25leHQtdHVybic6IFt7IGlkOiAnb3duLTEnIH0sIHsgaWQ6ICdvd24tMicgfV0sICduZXh0LXN0ZXAnOiBbXQogICAgICB9KSB9IH0gfTsKICAgIH0KICAgIHJldHVybiB7IHJlc3VsdDogeyBvazogdHJ1ZSwgdmFsdWU6IHsgYWNjZXB0ZWQ6IHRydWUgfSB9IH07CiAgfTsKICBhc3NlcnQuZGVlcEVxdWFsKGF3YWl0IGFwaS5zdG9wU2Vzc2lvbldvcmsoJ3Nlc3Npb24tYScpLCB7IHJlbW92ZWQ6IDIgfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChjYWxscywgWwogICAgeyBtZXRob2Q6ICdzZXNzaW9uL3Byb2plY3Rpb25zJywgcGF5bG9hZDogeyBzZXNzaW9uSWQ6ICdzZXNzaW9uLWEnIH0gfSwKICAgIHsgbWV0aG9kOiAnc2Vzc2lvbi91cGRhdGVRdWV1ZScsIHBheWxvYWQ6IHsgc2Vzc2lvbklkOiAnc2Vzc2lvbi1hJywgaXRlbUlkOiAnb3duLTEnLCBhY3Rpb246IHsga2luZDogJ3JlbW92ZScgfSB9IH0sCiAgICB7IG1ldGhvZDogJ3Nlc3Npb24vdXBkYXRlUXVldWUnLCBwYXlsb2FkOiB7IHNlc3Npb25JZDogJ3Nlc3Npb24tYScsIGl0ZW1JZDogJ293bi0yJywgYWN0aW9uOiB7IGtpbmQ6ICdyZW1vdmUnIH0gfSB9LAogICAgeyBtZXRob2Q6ICdzZXNzaW9uL2NhbmNlbCcsIHBheWxvYWQ6IHsgc2Vzc2lvbklkOiAnc2Vzc2lvbi1hJyB9IH0KICBdKTsKICAvLyDkuLvot6/lvoTkuI3or6XlvIDku7vkvZUgV2ViU29ja2V044CCCiAgYXNzZXJ0LmVxdWFsKEZha2VXZWJTb2NrZXQuc29ja2V0cy5sZW5ndGgsIGJlZm9yZSk7Cn0pOwoKdGVzdCgnc2Vzc2lvbiByZXRpcmVtZW50IGZhbGxzIGJhY2sgdG8gdGhlIDAuMi4wIGNvbnRyb2wgYmFzZWxpbmUgc2hhcGUgYW5kIHJlbW92ZXMgb25seSBpdHMgb3duIGl0ZW1zJywgYXN5bmMgKCkgPT4gewogIGdsb2JhbFRoaXMuV2ViU29ja2V0ID0gRmFrZVdlYlNvY2tldDsKICBjb25zdCBhcGkgPSBjbGllbnQoKTsKICBhcGkuY29va2llID0gJ2ZpeHR1cmU9b2snOwogIGNvbnN0IGNhbGxzID0gW107CiAgYXBpLmNhbGxVbmFyeSA9IGFzeW5jIChtZXRob2QsIHBheWxvYWQpID0+IHsgY2FsbHMucHVzaCh7IG1ldGhvZCwgcGF5bG9hZCB9KTsgcmV0dXJuIHVuYXZhaWxhYmxlUHJvamVjdGlvbnMobWV0aG9kLCBwYXlsb2FkKTsgfTsKICBjb25zdCBzdG9wcGVkID0gYXBpLnN0b3BTZXNzaW9uV29yaygnc2Vzc2lvbi1hJyk7CiAgYXdhaXQgdGljaygpOwogIGNvbnN0IHNvY2tldCA9IEZha2VXZWJTb2NrZXQuc29ja2V0cy5hdCgtMSk7CiAgc29ja2V0Lm9wZW4oKTsKICBjb25zdCBvcGVuaW5nID0gc29ja2V0LmZyYW1lcy5hdCgtMSk7CiAgYXNzZXJ0LmVxdWFsKG9wZW5pbmcuZW5kcG9pbnQsICdzZXNzaW9uL2NvbnRyb2wnKTsKICBhc3NlcnQuZGVlcEVxdWFsKG9wZW5pbmcucGF5bG9hZCwgeyBhcmdzOiB7fSB9KTsKICBzb2NrZXQuZnJhbWUoeyB0eXBlOiAnaXRlbScsIHN0cmVhbUlkOiBvcGVuaW5nLnN0cmVhbUlkLCB2YWx1ZTogeyB0eXBlOiAnYmFzZWxpbmUnLCB2YWx1ZTogewogICAgcHJvamVjdGlvbnM6IHsKICAgICAgJ3Nlc3Npb24tYSc6IHsgYXNPZlNlcTogOSwgdmFsdWVzOiBwcm9qZWN0aW9uVmFsdWVzKHsgJ25leHQtdHVybic6IFt7IGlkOiAnb3duLTEnIH1dLCAnbmV4dC1zdGVwJzogW3sgaWQ6ICdvd24tMicgfV0gfSkgfSwKICAgICAgJ3Nlc3Npb24tYic6IHsgYXNPZlNlcTogNCwgdmFsdWVzOiBwcm9qZWN0aW9uVmFsdWVzKHsgJ25leHQtdHVybic6IFt7IGlkOiAnb3RoZXInIH1dLCAnbmV4dC1zdGVwJzogW10gfSkgfQogICAgfQogIH0gfSB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGF3YWl0IHN0b3BwZWQsIHsgcmVtb3ZlZDogMiB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGNhbGxzLmZpbHRlcigoYykgPT4gYy5tZXRob2QgPT09ICdzZXNzaW9uL3VwZGF0ZVF1ZXVlJykubWFwKChjKSA9PiBjLnBheWxvYWQuaXRlbUlkKSwgWydvd24tMScsICdvd24tMiddKTsKICBhc3NlcnQuZGVlcEVxdWFsKGNhbGxzLmF0KC0xKSwgeyBtZXRob2Q6ICdzZXNzaW9uL2NhbmNlbCcsIHBheWxvYWQ6IHsgc2Vzc2lvbklkOiAnc2Vzc2lvbi1hJyB9IH0pOwogIGFzc2VydC5lcXVhbChzb2NrZXQucmVhZHlTdGF0ZSwgRmFrZVdlYlNvY2tldC5DTE9TRUQpOwp9KTsKCnRlc3QoJ3Nlc3Npb24gcmV0aXJlbWVudCBjbG9zZXMgaXRzIGNvbnRyb2wgc29ja2V0IG9uIHRpbWVvdXQnLCBhc3luYyAoKSA9PiB7CiAgZ2xvYmFsVGhpcy5XZWJTb2NrZXQgPSBGYWtlV2ViU29ja2V0OwogIGNvbnN0IGFwaSA9IGNsaWVudCgpOwogIGFwaS5jb29raWUgPSAnZml4dHVyZT1vayc7CiAgLy8g5Li76Lev5b6E5LiN5Y+v55SoIOKHkiDotbAgY29udHJvbCDmtYHvvJtjb250cm9sIOa1geWni+e7iOS4jeWPkSBiYXNlbGluZSDih5Ig5Y+q6IO96KKr6LaF5pe25Lit5q2i44CCCiAgYXBpLmNhbGxVbmFyeSA9IGFzeW5jIChtZXRob2QsIHBheWxvYWQsIHNpZ25hbCkgPT4geyBzaWduYWw/LnRocm93SWZBYm9ydGVkKCk7IHJldHVybiB1bmF2YWlsYWJsZVByb2plY3Rpb25zKG1ldGhvZCwgcGF5bG9hZCk7IH07CiAgY29uc3Qga2VlcEFsaXZlID0gc2V0VGltZW91dCgoKSA9PiB7fSwgMjUwKTsKICB0cnkgewogICAgY29uc3Qgc3RvcHBlZCA9IGFwaS5zdG9wU2Vzc2lvbldvcmsoJ3Nlc3Npb24tYScsIHsgdGltZW91dE1zOiAzMCB9KTsKICAgIGF3YWl0IGFzc2VydC5yZWplY3RzKHN0b3BwZWQsIChlcnJvcikgPT4gZXJyb3IubmFtZSA9PT0gJ1RpbWVvdXRFcnJvcicpOwogICAgYXNzZXJ0LmVxdWFsKEZha2VXZWJTb2NrZXQuc29ja2V0cy5hdCgtMSkucmVhZHlTdGF0ZSwgRmFrZVdlYlNvY2tldC5DTE9TRUQpOwogIH0gZmluYWxseSB7IGNsZWFyVGltZW91dChrZWVwQWxpdmUpOyB9Cn0pOwoKdGVzdCgnc2Vzc2lvbiByZXRpcmVtZW50IHJlcG9ydHMgY29udHJvbCBmYWlsdXJlIHdoaWxlIHN0aWxsIGNhbmNlbGxpbmcgYWN0aXZlIHdvcmsnLCBhc3luYyAoKSA9PiB7CiAgZ2xvYmFsVGhpcy5XZWJTb2NrZXQgPSBGYWtlV2ViU29ja2V0OwogIGNvbnN0IGFwaSA9IGNsaWVudCgpOwogIGFwaS5jb29raWUgPSAnZml4dHVyZT1vayc7CiAgY29uc3QgY2FsbHMgPSBbXTsKICBhcGkuY2FsbFVuYXJ5ID0gYXN5bmMgKG1ldGhvZCwgcGF5bG9hZCkgPT4geyBjYWxscy5wdXNoKG1ldGhvZCk7IHJldHVybiB1bmF2YWlsYWJsZVByb2plY3Rpb25zKG1ldGhvZCwgcGF5bG9hZCk7IH07CiAgY29uc3Qgc3RvcHBlZCA9IGFwaS5zdG9wU2Vzc2lvbldvcmsoJ3Nlc3Npb24tYScpOwogIGNvbnN0IGZhaWx1cmUgPSBhc3NlcnQucmVqZWN0cyhzdG9wcGVkLCAvc2Vzc2lvblwvY29udHJvbCBlbmRlZC8pOwogIGF3YWl0IHRpY2soKTsKICBjb25zdCBzb2NrZXQgPSBGYWtlV2ViU29ja2V0LnNvY2tldHMuYXQoLTEpOwogIHNvY2tldC5vcGVuKCk7CiAgc29ja2V0LmZyYW1lKHsgdHlwZTogJ2Vycm9yJywgc3RyZWFtSWQ6IHNvY2tldC5mcmFtZXMuYXQoLTEpLnN0cmVhbUlkLCBlcnJvcjogeyBjb2RlOiAnZ2F0ZXdheS9pbnRlcm5hbCcgfSB9KTsKICBhd2FpdCBmYWlsdXJlOwogIC8vIOivu+mYn+WIl+Wksei0peS4jeiDvemYu+atouWPlua2iOW9k+WJjSB0dXJuIOKAlOKAlCDlkKbliJnml6fku7vliqHkvJrkuIDnm7Tot5HkuIvljrvjgIIKICBhc3NlcnQuZGVlcEVxdWFsKGNhbGxzLmZpbHRlcigobSkgPT4gbSAhPT0gJ3Nlc3Npb24vcHJvamVjdGlvbnMnKSwgWydzZXNzaW9uL2NhbmNlbCddKTsKICBhc3NlcnQuZXF1YWwoc29ja2V0LnJlYWR5U3RhdGUsIEZha2VXZWJTb2NrZXQuQ0xPU0VEKTsKfSk7Cgp0ZXN0KCdwcmUtYWJvcnRlZCBldmVudCBzdHJlYW0gbmV2ZXIgb3BlbnMgYSBXZWJTb2NrZXQnLCBhc3luYyAoKSA9PiB7CiAgZ2xvYmFsVGhpcy5XZWJTb2NrZXQgPSBGYWtlV2ViU29ja2V0OwogIGdsb2JhbFRoaXMuZmV0Y2ggPSBhc3luYyAoKSA9PiBuZXcgUmVzcG9uc2UoJycsIHsgaGVhZGVyczogeyAnc2V0LWNvb2tpZSc6ICdmaXh0dXJlPW9rJyB9IH0pOwogIGNvbnN0IGFwaSA9IGNsaWVudCgpOwogIGNvbnN0IGFib3J0ID0gbmV3IEFib3J0Q29udHJvbGxlcigpOwogIGFib3J0LmFib3J0KCk7CiAgY29uc3QgYmVmb3JlID0gRmFrZVdlYlNvY2tldC5zb2NrZXRzLmxlbmd0aDsKICBhd2FpdCBhcGkuZXZlbnRzLm11eCh7fSwgYWJvcnQuc2lnbmFsKVtTeW1ib2wuYXN5bmNJdGVyYXRvcl0oKS5uZXh0KCkuY2F0Y2goKCkgPT4ge30pOwogIGFzc2VydC5lcXVhbChGYWtlV2ViU29ja2V0LnNvY2tldHMubGVuZ3RoLCBiZWZvcmUpOwp9KTsKCnRlc3QoJ2ZhaWxlZCBmb2xsb3cgc2VuZCBjYW4gYmUgcmV0cmllZCBhbmQgbmV2ZXIgc3RheXMgbWFya2VkIGZvbGxvd2VkJywgYXN5bmMgKCkgPT4gewogIGdsb2JhbFRoaXMuV2ViU29ja2V0ID0gRmFrZVdlYlNvY2tldDsKICBjb25zdCBhcGkgPSBjbGllbnQoKTsKICBhcGkuY29va2llID0gJ2ZpeHR1cmU9b2snOwogIGNvbnN0IGFib3J0ID0gbmV3IEFib3J0Q29udHJvbGxlcigpOwogIGNvbnN0IGl0ZXJhdG9yID0gYXBpLmV2ZW50cy5tdXgoe30sIGFib3J0LnNpZ25hbClbU3ltYm9sLmFzeW5jSXRlcmF0b3JdKCk7CiAgY29uc3QgbmV4dCA9IGl0ZXJhdG9yLm5leHQoKTsKICBhd2FpdCB0aWNrKCk7CiAgY29uc3Qgc29ja2V0ID0gRmFrZVdlYlNvY2tldC5zb2NrZXRzLmF0KC0xKTsKICBzb2NrZXQub3BlbigpOwogIHNvY2tldC5mYWlsU2VuZCA9IHRydWU7CiAgYXBpLmV2ZW50cy5mb2xsb3coJ3Nlc3Npb24tYScpOwogIHNvY2tldC5mYWlsU2VuZCA9IGZhbHNlOwogIGFwaS5ldmVudHMuZm9sbG93KCdzZXNzaW9uLWEnKTsKICBjb25zdCByZXRyaWVkID0gc29ja2V0LmZyYW1lcy5zb21lKChmcmFtZSkgPT4gZnJhbWUuZW5kcG9pbnQgPT09ICdzZXNzaW9uL2ZvbGxvdycpOwogIGF3YWl0IHRpY2soKTsKICBjb25zdCBlbmRlZCA9IHNvY2tldC5yZWFkeVN0YXRlID09PSBGYWtlV2ViU29ja2V0LkNMT1NFRDsKICBhYm9ydC5hYm9ydCgpOwogIGF3YWl0IG5leHQ7CiAgYXNzZXJ0Lm9rKHJldHJpZWQgfHwgZW5kZWQsICdmYWlsdXJlIG11c3QgcGVybWl0IHJldHJ5IG9yIGVuZCB0cmFuc3BvcnQnKTsKfSk7Cgpmb3IgKGNvbnN0IHR5cGUgb2YgWydlbmQnLCAnZXJyb3InXSkgewogIHRlc3QoYGxvZ2ljYWwgJGV2ZW50cyAke3R5cGV9IGVuZHMgdGhlIHRyYW5zcG9ydCBzbyB0aGUgYnJpZGdlIGNhbiByZWNvbm5lY3RgLCBhc3luYyAoKSA9PiB7CiAgICBnbG9iYWxUaGlzLldlYlNvY2tldCA9IEZha2VXZWJTb2NrZXQ7CiAgICBjb25zdCBhcGkgPSBjbGllbnQoKTsKICAgIGFwaS5jb29raWUgPSAnZml4dHVyZT1vayc7CiAgICBhcGkuZXZlbnRzLmZvbGxvdygnc2Vzc2lvbi1hJyk7CiAgICBjb25zdCBhYm9ydCA9IG5ldyBBYm9ydENvbnRyb2xsZXIoKTsKICAgIGNvbnN0IGl0ZXJhdG9yID0gYXBpLmV2ZW50cy5tdXgoe30sIGFib3J0LnNpZ25hbClbU3ltYm9sLmFzeW5jSXRlcmF0b3JdKCk7CiAgICBjb25zdCBuZXh0ID0gaXRlcmF0b3IubmV4dCgpOwogICAgYXdhaXQgdGljaygpOwogICAgY29uc3Qgc29ja2V0ID0gRmFrZVdlYlNvY2tldC5zb2NrZXRzLmF0KC0xKTsKICAgIHNvY2tldC5vcGVuKCk7CiAgICBjb25zdCBldmVudHMgPSBzb2NrZXQuZnJhbWVzLmZpbmQoKGZyYW1lKSA9PiBmcmFtZS5lbmRwb2ludCA9PT0gJyRldmVudHMnKTsKICAgIHNvY2tldC5mcmFtZSh7IHR5cGUsIHN0cmVhbUlkOiBldmVudHMuc3RyZWFtSWQsIGVycm9yOiB0eXBlID09PSAnZXJyb3InID8geyBjb2RlOiAnZ2F0ZXdheS9pbnRlcm5hbCcgfSA6IHVuZGVmaW5lZCB9KTsKICAgIGF3YWl0IHRpY2soKTsKICAgIGNvbnN0IG1hcmtlciA9IHt9OwogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgUHJvbWlzZS5yYWNlKFtuZXh0LCBQcm9taXNlLnJlc29sdmUobWFya2VyKV0pOwogICAgY29uc3QgY2xvc2VkID0gc29ja2V0LnJlYWR5U3RhdGUgPT09IEZha2VXZWJTb2NrZXQuQ0xPU0VEOwogICAgYWJvcnQuYWJvcnQoKTsKICAgIGF3YWl0IG5leHQ7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRvbmUsIHRydWUsICdsb2dpY2FsIHN0cmVhbSBmYWlsdXJlIG11c3Qgd2FrZSB0aGUgZ2VuZXJhdG9yJyk7CiAgICBhc3NlcnQub2soY2xvc2VkKTsKICAgIGFzc2VydC5vayhhcGkuX2Rlc2lyZWRGb2xsb3dzLmhhcygnc2Vzc2lvbi1hJykpOwogIH0pOwp9Cgp0ZXN0KCd0cmFuc2llbnQgZm9sbG93IGVycm9ycyBwcmVzZXJ2ZSBzdWJzY3JpcHRpb25zIGFuZCBjbG9zZSB0cmFuc3BvcnQgZm9yIHJldHJ5JywgYXN5bmMgKCkgPT4gewogIGdsb2JhbFRoaXMuV2ViU29ja2V0ID0gRmFrZVdlYlNvY2tldDsKICBjb25zdCBhcGkgPSBjbGllbnQoKTsKICBhcGkuY29va2llID0gJ2ZpeHR1cmU9b2snOwogIGFwaS5ldmVudHMuZm9sbG93KCdzZXNzaW9uLWEnKTsKICBjb25zdCBhYm9ydCA9IG5ldyBBYm9ydENvbnRyb2xsZXIoKTsKICBjb25zdCBpdGVyYXRvciA9IGFwaS5ldmVudHMubXV4KHt9LCBhYm9ydC5zaWduYWwpW1N5bWJvbC5hc3luY0l0ZXJhdG9yXSgpOwogIGNvbnN0IG5leHQgPSBpdGVyYXRvci5uZXh0KCk7CiAgYXdhaXQgdGljaygpOwogIGNvbnN0IHNvY2tldCA9IEZha2VXZWJTb2NrZXQuc29ja2V0cy5hdCgtMSk7CiAgc29ja2V0Lm9wZW4oKTsKICBjb25zdCBmb2xsb3cgPSBzb2NrZXQuZnJhbWVzLmZpbmQoKGZyYW1lKSA9PiBmcmFtZS5lbmRwb2ludCA9PT0gJ3Nlc3Npb24vZm9sbG93Jyk7CiAgc29ja2V0LmZyYW1lKHsgdHlwZTogJ2Vycm9yJywgc3RyZWFtSWQ6IGZvbGxvdy5zdHJlYW1JZCwgZXJyb3I6IHsgY29kZTogJ2dhdGV3YXkvaW50ZXJuYWwnIH0gfSk7CiAgYXdhaXQgbmV4dDsKICBjb25zdCBlbmRpbmcgPSBpdGVyYXRvci5uZXh0KCk7CiAgYXdhaXQgdGljaygpOwogIGNvbnN0IGVuZGVkID0gYXdhaXQgUHJvbWlzZS5yYWNlKFtlbmRpbmcsIFByb21pc2UucmVzb2x2ZSh7IGRvbmU6IGZhbHNlIH0pXSk7CiAgYWJvcnQuYWJvcnQoKTsgYXdhaXQgZW5kaW5nOwogIGFzc2VydC5vayhhcGkuX2Rlc2lyZWRGb2xsb3dzLmhhcygnc2Vzc2lvbi1hJykpOwogIGFzc2VydC5lcXVhbChlbmRlZC5kb25lLCB0cnVlKTsKICBhc3NlcnQuZXF1YWwoc29ja2V0LnJlYWR5U3RhdGUsIEZha2VXZWJTb2NrZXQuQ0xPU0VEKTsKfSk7CgpsZXQgZmFpbGVkID0gMDsKdHJ5IHsKICBmb3IgKGNvbnN0IHsgbmFtZSwgZm4gfSBvZiB0ZXN0cykgewogICAgdHJ5IHsgYXdhaXQgZm4oKTsgY29uc29sZS5sb2coYFBBU1MgJHtuYW1lfWApOyB9CiAgICBjYXRjaCAoZXJyb3IpIHsgZmFpbGVkICs9IDE7IGNvbnNvbGUuZXJyb3IoYEZBSUwgJHtuYW1lfTogJHtlcnJvci5tZXNzYWdlfWApOyB9CiAgfQp9IGZpbmFsbHkgewogIGdsb2JhbFRoaXMuZmV0Y2ggPSBvcmlnaW5hbEZldGNoOwogIGdsb2JhbFRoaXMuV2ViU29ja2V0ID0gb3JpZ2luYWxXZWJTb2NrZXQ7CiAgaWYgKG9yaWdpbmFsSG9tZSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuRFNIX0hPTUU7IGVsc2UgcHJvY2Vzcy5lbnYuRFNIX0hPTUUgPSBvcmlnaW5hbEhvbWU7CiAgcHJvY2Vzcy5yZW1vdmVMaXN0ZW5lcigndW5oYW5kbGVkUmVqZWN0aW9uJywgb25VbmhhbmRsZWQpOwp9CmNvbnNvbGUubG9nKGAke3Rlc3RzLmxlbmd0aCAtIGZhaWxlZH0vJHt0ZXN0cy5sZW5ndGh9IG9mZmxpbmUgcHJvdG9jb2wgcmVncmVzc2lvbnMgcGFzc2VkYCk7CnByb2Nlc3MuZXhpdENvZGUgPSBmYWlsZWQgPyAxIDogMDsK
+// Offline regression tests. No real DSH/QQ endpoints or local credentials are read.
+import assert from 'node:assert/strict';
+import { NodeApiClient } from '../src/dsh-client.js';
+
+const originalFetch = globalThis.fetch;
+const originalWebSocket = globalThis.WebSocket;
+const originalHome = process.env.DSH_HOME;
+process.env.DSH_HOME = new URL('./.no-real-dsh-home', import.meta.url).pathname;
+const tick = () => new Promise((resolve) => setImmediate(resolve));
+const unhandled = [];
+const onUnhandled = (error) => unhandled.push(error);
+process.on('unhandledRejection', onUnhandled);
+const tests = [];
+const test = (name, fn) => tests.push({ name, fn });
+// 用回环地址：launch token 交换默认**拒绝非回环 baseUrl**（凭据只应交给 127.0.0.1），
+// 所以夹具不能用 dsh.invalid 这类域名，否则测的是新加的那道闸门而不是协议行为。
+const client = (timeoutMs = 1000) => new NodeApiClient('http://127.0.0.1:9', timeoutMs, { token: 'fixture-token' });
+
+test('session/cancel uses the DSH request wrapper and unwraps the envelope', async () => {
+  const api = client();
+  api.cookie = 'fixture=ok';
+  globalThis.fetch = async (input, init) => {
+    assert.equal(new URL(input).pathname, '/api/session/cancel');
+    const envelope = JSON.parse(init.body);
+    assert.equal(envelope.method, 'session/cancel');
+    assert.deepEqual(envelope.payload, { args: { request: { sessionId: 'session-a' } } });
+    return Response.json({ type: 'server-response', rpcId: envelope.rpcId, result: { ok: true, value: { accepted: true } } });
+  };
+  const response = await api.callUnary('session/cancel', { sessionId: 'session-a' });
+  assert.equal(response.result.value.accepted, true);
+});
+
+test('a handled auth exchange failure has no orphan rejection', async () => {
+  globalThis.fetch = async () => new Response('', { status: 401 });
+  const api = client();
+  const before = unhandled.length;
+  await assert.rejects(api.ensureAuth(), /token exchange failed/);
+  await tick();
+  assert.equal(api.cookiePromise, null);
+  assert.equal(unhandled.length, before);
+});
+
+test('concurrent stale 401 responses share one fresh auth exchange', async () => {
+  const api = client();
+  api.cookie = 'fixture=old';
+  let exchanges = 0;
+  let resolveExchange;
+  let resolveSecond;
+  globalThis.fetch = async (input, init) => {
+    const url = new URL(input);
+    if (url.pathname === '/') {
+      exchanges += 1;
+      return new Promise((resolve) => { resolveExchange = resolve; });
+    }
+    if (new Headers(init?.headers).get('cookie') === 'fixture=old') {
+      if (url.pathname === '/a') return new Response('', { status: 401 });
+      return new Promise((resolve) => { resolveSecond = resolve; });
+    }
+    return new Response('ok');
+  };
+  const first = api.doFetch('http://dsh.invalid/a');
+  const second = api.doFetch('http://dsh.invalid/b');
+  const outcomes = Promise.allSettled([first, second]);
+  await tick();
+  assert.equal(exchanges, 1);
+  const finishFirstExchange = resolveExchange;
+  resolveSecond(new Response('', { status: 401 }));
+  await tick();
+  // Resolve every exchange even in the defective implementation, so the test cannot hang.
+  finishFirstExchange(new Response('', { headers: { 'set-cookie': 'fixture=new; HttpOnly' } }));
+  if (resolveExchange !== finishFirstExchange) resolveExchange(new Response('', { headers: { 'set-cookie': 'fixture=new; HttpOnly' } }));
+  const results = await outcomes;
+  await tick();
+  assert.equal(exchanges, 1, 'old 401 must not invalidate an in-flight refresh');
+  assert.ok(results.every((result) => result.status === 'fulfilled'));
+});
+
+test('RPC cancellation interrupts waiting for shared auth without cancelling other callers', async () => {
+  const api = client();
+  let resolveExchange;
+  let rpcCalls = 0;
+  globalThis.fetch = async (input) => {
+    if (new URL(input).pathname === '/') return new Promise((resolve) => { resolveExchange = resolve; });
+    rpcCalls += 1;
+    return new Response('ok');
+  };
+  const abort = new AbortController();
+  const pending = api.doFetch('http://dsh.invalid/a', { signal: abort.signal });
+  const pendingOutcome = pending.then(() => 'fulfilled', (error) => error);
+  const shared = api.ensureAuth();
+  const reason = new Error('fixture cancellation');
+  abort.abort(reason);
+  await tick();
+  const marker = {};
+  const result = await Promise.race([pendingOutcome, Promise.resolve(marker)]);
+  resolveExchange(new Response('', { headers: { 'set-cookie': 'fixture=new' } }));
+  await shared;
+  await pendingOutcome;
+  assert.equal(result, reason, 'cancelled RPC must settle before the exchange finishes');
+  assert.equal(rpcCalls, 0, 'cancelled RPC must never be sent');
+});
+
+test('auth exchange has an independent bounded timeout', async () => {
+  let suppliedSignal;
+  globalThis.fetch = async (_input, init) => {
+    suppliedSignal = init?.signal;
+    assert.ok(suppliedSignal instanceof AbortSignal);
+    return new Promise((_resolve, reject) => suppliedSignal.addEventListener('abort', () => reject(suppliedSignal.reason), { once: true }));
+  };
+  const keepAlive = setTimeout(() => {}, 250);
+  try { await assert.rejects(client(30).ensureAuth(), (error) => error.name === 'TimeoutError'); }
+  finally { clearTimeout(keepAlive); }
+  assert.equal(new NodeApiClient('http://127.0.0.1:9', undefined, {}).timeoutMs, 30000);
+});
+
+// 新增闸门：launch token 是进程启动凭据，交换时必须放进 URL，因此默认只允许回环地址。
+test('non-loopback baseUrl is refused unless allowRemote is set explicitly', async () => {
+  let fetched = false;
+  globalThis.fetch = async () => { fetched = true; return new Response('', { status: 303 }); };
+  await assert.rejects(
+    new NodeApiClient('http://dsh.example.com', 1000, { token: 'fixture-token' }).ensureAuth(),
+    /非本机地址/,
+  );
+  assert.equal(fetched, false, '拒绝时不应该发出任何请求');
+  // 127.0.0.0/8、localhost 都算回环；显式 opt-in 后放行（这里只验证不再被闸门拦下）
+  await assert.rejects(
+    new NodeApiClient('http://127.1.2.3:3080', 1000, { token: 'fixture-token' }).ensureAuth(),
+    /token exchange failed/,
+  );
+  await assert.rejects(
+    new NodeApiClient('http://dsh.example.com', 1000, { token: 'fixture-token', allowRemote: true }).ensureAuth(),
+    /token exchange failed/,
+  );
+});
+
+class FakeWebSocket {
+  static CONNECTING = 0; static OPEN = 1; static CLOSED = 3;
+  static sockets = [];
+  constructor() { this.readyState = 0; this.listeners = new Map(); this.frames = []; FakeWebSocket.sockets.push(this); }
+  addEventListener(type, fn) { if (!this.listeners.has(type)) this.listeners.set(type, new Set()); this.listeners.get(type).add(fn); }
+  removeEventListener(type, fn) { this.listeners.get(type)?.delete(fn); }
+  emit(type, data = {}) { for (const fn of [...(this.listeners.get(type) || [])]) fn(data); }
+  open() { this.readyState = 1; this.emit('open'); }
+  send(data) { if (this.failSend) throw new Error('fixture transport failure'); this.frames.push(JSON.parse(data)); }
+  close() { this.readyState = 3; this.emit('close'); }
+  frame(frame) { this.emit('message', { data: JSON.stringify(frame) }); }
+}
+
+// 退役会话要清掉 DSH 侧未跑的队列。读队列有两条路（见 src/dsh-client.js）：
+//   主路径 session/projections（0.2.0 的一元 RPC，不开 WebSocket）
+//   回退   session/control 开场 baseline（endpoint 不存在时）
+// 下面四条把两条路都钉住，并钉住 0.2.0 的 baseline 形状
+// （value.projections[<id>].values.inbox；0.1.7 的 value.queues 已不存在）。
+const projectionValues = (inbox) => ({ title: null, ...(inbox === undefined ? {} : { inbox }) });
+/** 让 session/projections 这条一元 RPC 不可用，逼出回退路径。 */
+const unavailableProjections = async (method, payload) => (
+  method === 'session/projections'
+    ? { result: { ok: false, error: { code: 'gateway/not-found', message: 'unknown endpoint' } } }
+    : { result: { ok: true, value: { accepted: true } } }
+);
+
+test('session retirement reads the inbox projection through session/projections (no socket)', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  const before = FakeWebSocket.sockets.length;
+  const api = client();
+  api.cookie = 'fixture=ok';
+  const calls = [];
+  api.callUnary = async (method, payload) => {
+    calls.push({ method, payload });
+    if (method === 'session/projections') {
+      return { result: { ok: true, value: { asOfSeq: 5, values: projectionValues({
+        'next-turn': [{ id: 'own-1' }, { id: 'own-2' }], 'next-step': []
+      }) } } };
+    }
+    return { result: { ok: true, value: { accepted: true } } };
+  };
+  assert.deepEqual(await api.stopSessionWork('session-a'), { removed: 2 });
+  assert.deepEqual(calls, [
+    { method: 'session/projections', payload: { sessionId: 'session-a' } },
+    { method: 'session/updateQueue', payload: { sessionId: 'session-a', itemId: 'own-1', action: { kind: 'remove' } } },
+    { method: 'session/updateQueue', payload: { sessionId: 'session-a', itemId: 'own-2', action: { kind: 'remove' } } },
+    { method: 'session/cancel', payload: { sessionId: 'session-a' } }
+  ]);
+  // 主路径不该开任何 WebSocket。
+  assert.equal(FakeWebSocket.sockets.length, before);
+});
+
+test('session retirement falls back to the 0.2.0 control baseline shape and removes only its own items', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  const api = client();
+  api.cookie = 'fixture=ok';
+  const calls = [];
+  api.callUnary = async (method, payload) => { calls.push({ method, payload }); return unavailableProjections(method, payload); };
+  const stopped = api.stopSessionWork('session-a');
+  await tick();
+  const socket = FakeWebSocket.sockets.at(-1);
+  socket.open();
+  const opening = socket.frames.at(-1);
+  assert.equal(opening.endpoint, 'session/control');
+  assert.deepEqual(opening.payload, { args: {} });
+  socket.frame({ type: 'item', streamId: opening.streamId, value: { type: 'baseline', value: {
+    projections: {
+      'session-a': { asOfSeq: 9, values: projectionValues({ 'next-turn': [{ id: 'own-1' }], 'next-step': [{ id: 'own-2' }] }) },
+      'session-b': { asOfSeq: 4, values: projectionValues({ 'next-turn': [{ id: 'other' }], 'next-step': [] }) }
+    }
+  } } });
+  assert.deepEqual(await stopped, { removed: 2 });
+  assert.deepEqual(calls.filter((c) => c.method === 'session/updateQueue').map((c) => c.payload.itemId), ['own-1', 'own-2']);
+  assert.deepEqual(calls.at(-1), { method: 'session/cancel', payload: { sessionId: 'session-a' } });
+  assert.equal(socket.readyState, FakeWebSocket.CLOSED);
+});
+
+test('session retirement closes its control socket on timeout', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  const api = client();
+  api.cookie = 'fixture=ok';
+  // 主路径不可用 ⇒ 走 control 流；control 流始终不发 baseline ⇒ 只能被超时中止。
+  api.callUnary = async (method, payload, signal) => { signal?.throwIfAborted(); return unavailableProjections(method, payload); };
+  const keepAlive = setTimeout(() => {}, 250);
+  try {
+    const stopped = api.stopSessionWork('session-a', { timeoutMs: 30 });
+    await assert.rejects(stopped, (error) => error.name === 'TimeoutError');
+    assert.equal(FakeWebSocket.sockets.at(-1).readyState, FakeWebSocket.CLOSED);
+  } finally { clearTimeout(keepAlive); }
+});
+
+test('session retirement reports control failure while still cancelling active work', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  const api = client();
+  api.cookie = 'fixture=ok';
+  const calls = [];
+  api.callUnary = async (method, payload) => { calls.push(method); return unavailableProjections(method, payload); };
+  const stopped = api.stopSessionWork('session-a');
+  const failure = assert.rejects(stopped, /session\/control ended/);
+  await tick();
+  const socket = FakeWebSocket.sockets.at(-1);
+  socket.open();
+  socket.frame({ type: 'error', streamId: socket.frames.at(-1).streamId, error: { code: 'gateway/internal' } });
+  await failure;
+  // 读队列失败不能阻止取消当前 turn —— 否则旧任务会一直跑下去。
+  assert.deepEqual(calls.filter((m) => m !== 'session/projections'), ['session/cancel']);
+  assert.equal(socket.readyState, FakeWebSocket.CLOSED);
+});
+
+test('pre-aborted event stream never opens a WebSocket', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  globalThis.fetch = async () => new Response('', { headers: { 'set-cookie': 'fixture=ok' } });
+  const api = client();
+  const abort = new AbortController();
+  abort.abort();
+  const before = FakeWebSocket.sockets.length;
+  await api.events.mux({}, abort.signal)[Symbol.asyncIterator]().next().catch(() => {});
+  assert.equal(FakeWebSocket.sockets.length, before);
+});
+
+test('failed follow send can be retried and never stays marked followed', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  const api = client();
+  api.cookie = 'fixture=ok';
+  const abort = new AbortController();
+  const iterator = api.events.mux({}, abort.signal)[Symbol.asyncIterator]();
+  const next = iterator.next();
+  await tick();
+  const socket = FakeWebSocket.sockets.at(-1);
+  socket.open();
+  socket.failSend = true;
+  api.events.follow('session-a');
+  socket.failSend = false;
+  api.events.follow('session-a');
+  const retried = socket.frames.some((frame) => frame.endpoint === 'session/follow');
+  await tick();
+  const ended = socket.readyState === FakeWebSocket.CLOSED;
+  abort.abort();
+  await next;
+  assert.ok(retried || ended, 'failure must permit retry or end transport');
+});
+
+for (const type of ['end', 'error']) {
+  test(`logical $events ${type} ends the transport so the bridge can reconnect`, async () => {
+    globalThis.WebSocket = FakeWebSocket;
+    const api = client();
+    api.cookie = 'fixture=ok';
+    api.events.follow('session-a');
+    const abort = new AbortController();
+    const iterator = api.events.mux({}, abort.signal)[Symbol.asyncIterator]();
+    const next = iterator.next();
+    await tick();
+    const socket = FakeWebSocket.sockets.at(-1);
+    socket.open();
+    const events = socket.frames.find((frame) => frame.endpoint === '$events');
+    socket.frame({ type, streamId: events.streamId, error: type === 'error' ? { code: 'gateway/internal' } : undefined });
+    await tick();
+    const marker = {};
+    const result = await Promise.race([next, Promise.resolve(marker)]);
+    const closed = socket.readyState === FakeWebSocket.CLOSED;
+    abort.abort();
+    await next;
+    assert.equal(result.done, true, 'logical stream failure must wake the generator');
+    assert.ok(closed);
+    assert.ok(api._desiredFollows.has('session-a'));
+  });
+}
+
+test('transient follow errors preserve subscriptions and close transport for retry', async () => {
+  globalThis.WebSocket = FakeWebSocket;
+  const api = client();
+  api.cookie = 'fixture=ok';
+  api.events.follow('session-a');
+  const abort = new AbortController();
+  const iterator = api.events.mux({}, abort.signal)[Symbol.asyncIterator]();
+  const next = iterator.next();
+  await tick();
+  const socket = FakeWebSocket.sockets.at(-1);
+  socket.open();
+  const follow = socket.frames.find((frame) => frame.endpoint === 'session/follow');
+  socket.frame({ type: 'error', streamId: follow.streamId, error: { code: 'gateway/internal' } });
+  await next;
+  const ending = iterator.next();
+  await tick();
+  const ended = await Promise.race([ending, Promise.resolve({ done: false })]);
+  abort.abort(); await ending;
+  assert.ok(api._desiredFollows.has('session-a'));
+  assert.equal(ended.done, true);
+  assert.equal(socket.readyState, FakeWebSocket.CLOSED);
+});
+
+let failed = 0;
+try {
+  for (const { name, fn } of tests) {
+    try { await fn(); console.log(`PASS ${name}`); }
+    catch (error) { failed += 1; console.error(`FAIL ${name}: ${error.message}`); }
+  }
+} finally {
+  globalThis.fetch = originalFetch;
+  globalThis.WebSocket = originalWebSocket;
+  if (originalHome === undefined) delete process.env.DSH_HOME; else process.env.DSH_HOME = originalHome;
+  process.removeListener('unhandledRejection', onUnhandled);
+}
+console.log(`${tests.length - failed}/${tests.length} offline protocol regressions passed`);
+process.exitCode = failed ? 1 : 0;

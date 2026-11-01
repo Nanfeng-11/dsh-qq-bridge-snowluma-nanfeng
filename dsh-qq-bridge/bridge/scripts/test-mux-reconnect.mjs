@@ -1,1 +1,81 @@
-Ly8g5LqL5Lu25rWB6YeN6L+e5Zue5b2S5rWL6K+V77yaRFNIIOmHjeWQryAvIFdTIOaWreW8gOWQju+8jCoq5bey5pyJ5Lya6K+d5b+F6aG76KKr6YeN5pawIGZvbGxvdyoq44CCCi8vCi8vIOiDjOaZr++8iOecn+Wunue8uumZt++8jOW3suS/ru+8ie+8muaXp+WunueOsOaKiuOAjOW+hSBmb2xsb3cg6Zif5YiX44CN5pS+5Zyo5q+P5qyh6L+e5o6l6YeM77yM5Y+q5ZyoIGhhbmRsZU9wZW4KLy8g5o6S56m65LiA5qyh44CCRFNIIOmHjeWQr+aIluS7u+S9lSBXUyDkuK3mlq3kvJrph43lu7ogZ2VuZXJhdG9y77yM6Zif5YiX5bey56m6IOKGkiDkuIDkuKrkvJror53pg73kuI0gZm9sbG9377yMCi8vIOiAjCBzZXNzaW9uIOS6i+S7tuWPqueUsSBzZXNzaW9uL2ZvbGxvdyDpgLvovpHmtYHmjqjpgIHvvIgkZXZlbnRzIOeahCBhbGxvd2xpc3Qg5LiN5ZCrCi8vIHNlc3Npb24vZXZlbnTvvInjgILlkI7mnpzvvJpwcm9tcHQg6KKr5o6l5Y+X44CBYWNrTWVzc2FnZSDkuZ/lj5HkuobvvIznhLblkI4qKuawuOi/nOayoeacieWbnuWkjSoq77yMCi8vIOS4lOayoeacieS7u+S9leaKpemUmeKAlOKAlFFRIOS4iuihqOeOsOS4uuOAjOaWsOS6uuiDveiBiuOAgeiAgeS8muivnembhuS9k+WkseiBlOOAjeOAggovLwovLyDmnKzmtYvor5XnlKjlgYcgV2ViU29ja2V0IOeyvuehruaOp+WItiBvcGVuL2Nsb3Nl77yM5LiN6ZyA6KaB55yf5a6eIERTSOOAgeS4jeWPkeS7u+S9lee9kee7nOivt+axguOAggppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoLCBwYXRoVG9GaWxlVVJMIH0gZnJvbSAnbm9kZTp1cmwnOwoKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmNvbnN0IGZyYW1lcyA9IFtdOwpjb25zdCBzb2NrZXRzID0gW107CgpjbGFzcyBGYWtlV2ViU29ja2V0IHsKICBzdGF0aWMgQ09OTkVDVElORyA9IDA7IHN0YXRpYyBPUEVOID0gMTsgc3RhdGljIENMT1NJTkcgPSAyOyBzdGF0aWMgQ0xPU0VEID0gMzsKICBjb25zdHJ1Y3Rvcih1cmwsIG9wdHMpIHsKICAgIHRoaXMudXJsID0gU3RyaW5nKHVybCk7CiAgICB0aGlzLm9wdHMgPSBvcHRzOwogICAgdGhpcy5yZWFkeVN0YXRlID0gRmFrZVdlYlNvY2tldC5DT05ORUNUSU5HOwogICAgdGhpcy5fbGlzdGVuZXJzID0gbmV3IE1hcCgpOwogICAgc29ja2V0cy5wdXNoKHRoaXMpOwogIH0KICBhZGRFdmVudExpc3RlbmVyKHR5cGUsIGZuKSB7CiAgICBpZiAoIXRoaXMuX2xpc3RlbmVycy5oYXModHlwZSkpIHRoaXMuX2xpc3RlbmVycy5zZXQodHlwZSwgW10pOwogICAgdGhpcy5fbGlzdGVuZXJzLmdldCh0eXBlKS5wdXNoKGZuKTsKICB9CiAgc2VuZChkYXRhKSB7IGZyYW1lcy5wdXNoKHsgc29ja2V0OiB0aGlzLCBmcmFtZTogSlNPTi5wYXJzZShkYXRhKSB9KTsgfQogIGNsb3NlKCkgeyB0aGlzLnJlYWR5U3RhdGUgPSBGYWtlV2ViU29ja2V0LkNMT1NFRDsgdGhpcy5fZW1pdCgnY2xvc2UnLCB7fSk7IH0KICBfZW1pdCh0eXBlLCBldikgeyBmb3IgKGNvbnN0IGZuIG9mIHRoaXMuX2xpc3RlbmVycy5nZXQodHlwZSkgPz8gW10pIGZuKGV2KTsgfQogIHNpbXVsYXRlT3BlbigpIHsgdGhpcy5yZWFkeVN0YXRlID0gRmFrZVdlYlNvY2tldC5PUEVOOyB0aGlzLl9lbWl0KCdvcGVuJywge30pOyB9Cn0KZ2xvYmFsVGhpcy5XZWJTb2NrZXQgPSBGYWtlV2ViU29ja2V0OwoKY29uc3QgeyBOb2RlQXBpQ2xpZW50IH0gPSBhd2FpdCBpbXBvcnQocGF0aFRvRmlsZVVSTChwYXRoLmpvaW4oUk9PVCwgJ3NyYy9kc2gtY2xpZW50LmpzJykpLmhyZWYpOwpjb25zdCBjbGllbnQgPSBuZXcgTm9kZUFwaUNsaWVudCgnaHR0cDovLzEyNy4wLjAuMTozMDgwJywgdW5kZWZpbmVkLCB7fSk7Ci8vIOS4jei1sOecn+WunumJtOadg++8muacrOa1i+ivleWPquWFs+W/gyBmb2xsb3cg55qE6YeN5pS+6KGM5Li644CCCmNsaWVudC5lbnN1cmVBdXRoID0gYXN5bmMgKCkgPT4geyBjbGllbnQuY29va2llID0gJ3Rlc3QtY29va2llJzsgfTsKCmNvbnN0IHRpY2sgPSAobXMgPSAzMCkgPT4gbmV3IFByb21pc2UoKHIpID0+IHNldFRpbWVvdXQociwgbXMpKTsKY29uc3Qgc3RhcnRTdHJlYW0gPSAoKSA9PiB7CiAgY29uc3Qgc3RyZWFtID0gY2xpZW50LmV2ZW50cy5tdXgoe30sIHVuZGVmaW5lZCwgKCkgPT4ge30pOwogIGNvbnN0IGl0ID0gc3RyZWFtW1N5bWJvbC5hc3luY0l0ZXJhdG9yXSgpOwogIChhc3luYyAoKSA9PiB7IHRyeSB7IGZvciBhd2FpdCAoY29uc3QgXyBvZiBpdCkgeyAvKiBkcmFpbiAqLyB9IH0gY2F0Y2ggeyAvKiBpZ25vcmUgKi8gfSB9KSgpOwogIHJldHVybiBzdHJlYW07Cn07CmNvbnN0IGZvbGxvd3NPbiA9IChzb2NrZXQpID0+IGZyYW1lcwogIC5maWx0ZXIoKGYpID0+IGYuc29ja2V0ID09PSBzb2NrZXQgJiYgZi5mcmFtZS5lbmRwb2ludCA9PT0gJ3Nlc3Npb24vZm9sbG93JykKICAubWFwKChmKSA9PiBmLmZyYW1lLnBheWxvYWQuYXJncy5yZXF1ZXN0LmFkZHJlc3Muc2Vzc2lvbklkKTsKCmxldCBmYWlsZWQgPSAwOwpjb25zdCBjaGVjayA9IChsYWJlbCwgY29uZCwgZXh0cmEgPSAnJykgPT4gewogIGNvbnNvbGUubG9nKGAke2NvbmQgPyAn4pyFJyA6ICfinYwnfSAke2xhYmVsfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsKICBpZiAoIWNvbmQpIGZhaWxlZCArPSAxOwp9OwoKLy8g6L+e5o6lIDHvvJpmb2xsb3cg5LiA5Liq5bey5pyJ5Lya6K+dCmNvbnN0IHMxID0gc3RhcnRTdHJlYW0oKTsKYXdhaXQgdGljaygpOwpzb2NrZXRzWzBdLnNpbXVsYXRlT3BlbigpOwphd2FpdCB0aWNrKCk7CnMxLmZvbGxvdygnc2Vzc2lvbi1BQUEnKTsKYXdhaXQgdGljaygpOwpjaGVjaygn6aaW6L+e5Y2zIGZvbGxvdyDnm67moIfkvJror50nLCBmb2xsb3dzT24oc29ja2V0c1swXSkuaW5jbHVkZXMoJ3Nlc3Npb24tQUFBJyksIGBbJHtmb2xsb3dzT24oc29ja2V0c1swXSkuam9pbignLCAnKX1dYCk7CmNoZWNrKCckZXZlbnRzIOmZhOWKoOa1geW3suaJk+W8gCcsIGZyYW1lcy5zb21lKChmKSA9PiBmLnNvY2tldCA9PT0gc29ja2V0c1swXSAmJiBmLmZyYW1lLmVuZHBvaW50ID09PSAnJGV2ZW50cycpKTsKCi8vIOaooeaLnyBEU0gg6YeN5ZCvIC8gV1Mg5pat5byACnNvY2tldHNbMF0uY2xvc2UoKTsKYXdhaXQgdGljayg2MCk7CgovLyDov57mjqUgMu+8mumHjei/nu+8iGJyaWRnZS5qcyDnmoQgZm9yKDs7KSDkvJrph43lu7ogZ2VuZXJhdG9y77yJCnN0YXJ0U3RyZWFtKCk7CmF3YWl0IHRpY2soKTsKc29ja2V0c1sxXS5zaW11bGF0ZU9wZW4oKTsKYXdhaXQgdGljayg2MCk7CmNoZWNrKCfph43ov57lkI7ph43mlL7kuoblt7LmnInkvJror53nmoQgZm9sbG93JywgZm9sbG93c09uKHNvY2tldHNbMV0pLmluY2x1ZGVzKCdzZXNzaW9uLUFBQScpLCBgWyR7Zm9sbG93c09uKHNvY2tldHNbMV0pLmpvaW4oJywgJyl9XWApOwoKY29uc29sZS5sb2coZmFpbGVkID09PSAwID8gJ1xu4pyFIOS6i+S7tua1gemHjei/nuWbnuW9kua1i+ivlemAmui/hycgOiBgXG7inYwgJHtmYWlsZWR9IOmhueWksei0pWApOwpwcm9jZXNzLmV4aXQoZmFpbGVkID09PSAwID8gMCA6IDEpOwo=
+// 事件流重连回归测试：DSH 重启 / WS 断开后，**已有会话必须被重新 follow**。
+//
+// 背景（真实缺陷，已修）：旧实现把「待 follow 队列」放在每次连接里，只在 handleOpen
+// 排空一次。DSH 重启或任何 WS 中断会重建 generator，队列已空 → 一个会话都不 follow，
+// 而 session 事件只由 session/follow 逻辑流推送（$events 的 allowlist 不含
+// session/event）。后果：prompt 被接受、ackMessage 也发了，然后**永远没有回复**，
+// 且没有任何报错——QQ 上表现为「新人能聊、老会话集体失联」。
+//
+// 本测试用假 WebSocket 精确控制 open/close，不需要真实 DSH、不发任何网络请求。
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const frames = [];
+const sockets = [];
+
+class FakeWebSocket {
+  static CONNECTING = 0; static OPEN = 1; static CLOSING = 2; static CLOSED = 3;
+  constructor(url, opts) {
+    this.url = String(url);
+    this.opts = opts;
+    this.readyState = FakeWebSocket.CONNECTING;
+    this._listeners = new Map();
+    sockets.push(this);
+  }
+  addEventListener(type, fn) {
+    if (!this._listeners.has(type)) this._listeners.set(type, []);
+    this._listeners.get(type).push(fn);
+  }
+  send(data) { frames.push({ socket: this, frame: JSON.parse(data) }); }
+  close() { this.readyState = FakeWebSocket.CLOSED; this._emit('close', {}); }
+  _emit(type, ev) { for (const fn of this._listeners.get(type) ?? []) fn(ev); }
+  simulateOpen() { this.readyState = FakeWebSocket.OPEN; this._emit('open', {}); }
+}
+globalThis.WebSocket = FakeWebSocket;
+
+const { NodeApiClient } = await import(pathToFileURL(path.join(ROOT, 'src/dsh-client.js')).href);
+const client = new NodeApiClient('http://127.0.0.1:3080', undefined, {});
+// 不走真实鉴权：本测试只关心 follow 的重放行为。
+client.ensureAuth = async () => { client.cookie = 'test-cookie'; };
+
+const tick = (ms = 30) => new Promise((r) => setTimeout(r, ms));
+const startStream = () => {
+  const stream = client.events.mux({}, undefined, () => {});
+  const it = stream[Symbol.asyncIterator]();
+  (async () => { try { for await (const _ of it) { /* drain */ } } catch { /* ignore */ } })();
+  return stream;
+};
+const followsOn = (socket) => frames
+  .filter((f) => f.socket === socket && f.frame.endpoint === 'session/follow')
+  .map((f) => f.frame.payload.args.request.address.sessionId);
+
+let failed = 0;
+const check = (label, cond, extra = '') => {
+  console.log(`${cond ? '✅' : '❌'} ${label}${extra ? ' — ' + extra : ''}`);
+  if (!cond) failed += 1;
+};
+
+// 连接 1：follow 一个已有会话
+const s1 = startStream();
+await tick();
+sockets[0].simulateOpen();
+await tick();
+s1.follow('session-AAA');
+await tick();
+check('首连即 follow 目标会话', followsOn(sockets[0]).includes('session-AAA'), `[${followsOn(sockets[0]).join(', ')}]`);
+check('$events 附加流已打开', frames.some((f) => f.socket === sockets[0] && f.frame.endpoint === '$events'));
+
+// 模拟 DSH 重启 / WS 断开
+sockets[0].close();
+await tick(60);
+
+// 连接 2：重连（bridge.js 的 for(;;) 会重建 generator）
+startStream();
+await tick();
+sockets[1].simulateOpen();
+await tick(60);
+check('重连后重放了已有会话的 follow', followsOn(sockets[1]).includes('session-AAA'), `[${followsOn(sockets[1]).join(', ')}]`);
+
+console.log(failed === 0 ? '\n✅ 事件流重连回归测试通过' : `\n❌ ${failed} 项失败`);
+process.exit(failed === 0 ? 0 : 1);

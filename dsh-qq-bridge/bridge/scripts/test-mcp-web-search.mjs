@@ -1,1 +1,37 @@
-Ly8g5rWL6K+V5a6J5YWoIFdlYiBTZWFyY2ggLyBGZXRjaCBNQ1Agc2VydmVy77yaCi8vIC0gd2ViX3NlYXJjaO+8muafpeS4gOS4que9kee7nOeUqOivrS/mopcKLy8gLSB3ZWJfZmV0Y2jvvJrmipPlj5bkuIDkuKrlhazlvIAgVVJMIOW5tuajgOafpeaYr+WQpui/lOWbnuato+aWhwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBDbGllbnQgfSBmcm9tICdAbW9kZWxjb250ZXh0cHJvdG9jb2wvc2RrL2NsaWVudC9pbmRleC5qcyc7CmltcG9ydCB7IFN0ZGlvQ2xpZW50VHJhbnNwb3J0IH0gZnJvbSAnQG1vZGVsY29udGV4dHByb3RvY29sL3Nkay9jbGllbnQvc3RkaW8uanMnOwoKY29uc3QgZW50cnkgPSBmaWxlVVJMVG9QYXRoKG5ldyBVUkwoJy4uL3NyYy9tY3Atd2ViLXNlYXJjaC1zYWZlLmpzJywgaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IHRyYW5zcG9ydCA9IG5ldyBTdGRpb0NsaWVudFRyYW5zcG9ydCh7IGNvbW1hbmQ6IHByb2Nlc3MuZXhlY1BhdGgsIGFyZ3M6IFtlbnRyeV0gfSk7CmNvbnN0IGNsaWVudCA9IG5ldyBDbGllbnQoeyBuYW1lOiAnYnJpZGdlLXRlc3QnLCB2ZXJzaW9uOiAnMC4xLjAnIH0pOwoKdHJ5IHsKICBhd2FpdCBjbGllbnQuY29ubmVjdCh0cmFuc3BvcnQpOwogIGNvbnNvbGUubG9nKCfinIUgV2ViIFNlYXJjaCBNQ1Ag6L+e5o6l5oiQ5YqfJyk7CiAgY29uc3QgdG9vbHMgPSBhd2FpdCBjbGllbnQubGlzdFRvb2xzKCk7CiAgY29uc29sZS5sb2coJ+W3peWFtzonLCB0b29scy50b29scy5tYXAoKHQpID0+IHQubmFtZSkuam9pbignLCAnKSk7CgogIGNvbnN0IHNlYXJjaCA9IGF3YWl0IGNsaWVudC5jYWxsVG9vbCh7IG5hbWU6ICd3ZWJfc2VhcmNoJywgYXJndW1lbnRzOiB7IHF1ZXJ5OiAnRGVlcFNlZWvlqJgg6JCM5aiY55m+56eRJyB9IH0pOwogIGNvbnNvbGUubG9nKCfinIUgd2ViX3NlYXJjaDonLCBzZWFyY2guY29udGVudD8uWzBdPy50ZXh0Py5zbGljZSgwLCAzMDApKTsKCiAgY29uc3QgZmV0Y2ggPSBhd2FpdCBjbGllbnQuY2FsbFRvb2woewogICAgbmFtZTogJ3dlYl9mZXRjaCcsCiAgICBhcmd1bWVudHM6IHsgdXJsOiAnaHR0cHM6Ly9tb2JpbGUubW9lZ2lybC5vcmcuY24vRGVlcFNlZWslRTUlQTglOTgnIH0KICB9KTsKICBjb25zdCB0ZXh0ID0gZmV0Y2guY29udGVudD8uWzBdPy50ZXh0ID8/ICcnOwogIGNvbnNvbGUubG9nKCfinIUgd2ViX2ZldGNoOicsIHRleHQuc2xpY2UoMCwgNTAwKSk7CiAgY29uc29sZS5sb2coJ2lzRXJyb3I6JywgZmV0Y2guaXNFcnJvciA/ICfmmK8nIDogJ+WQpicpOwoKICAvLyDlhoXnvZHlnLDlnYDlupTooqvmi5Lnu50KICBjb25zdCBiYWQgPSBhd2FpdCBjbGllbnQuY2FsbFRvb2woeyBuYW1lOiAnd2ViX2ZldGNoJywgYXJndW1lbnRzOiB7IHVybDogJ2h0dHA6Ly8xMjcuMC4wLjEvJyB9IH0pOwogIGNvbnNvbGUubG9nKCfwn5qrIOWGhee9keaLpuaIqjonLCBiYWQuaXNFcnJvciA/ICfooqvmi5Lnu50g4pyTJyA6ICfimqDvuI8g5pyq6KKr5ouS57ud77yI5byC5bi477yB77yJJywgYmFkLmNvbnRlbnQ/LlswXT8udGV4dD8uc2xpY2UoMCwgMTIwKSk7CgogIHByb2Nlc3MuZXhpdCgwKTsKfSBjYXRjaCAoZXJyb3IpIHsKICBjb25zb2xlLmVycm9yKCfinYwg5rWL6K+V5aSx6LSlOicsIGVycm9yPy5tZXNzYWdlID8/IGVycm9yKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0K
+// 测试安全 Web Search / Fetch MCP server：
+// - web_search：查一个网络用语/梗
+// - web_fetch：抓取一个公开 URL 并检查是否返回正文
+import { fileURLToPath } from 'node:url';
+import { Client } from '@modelcontextprotocol/sdk/client/index.js';
+import { StdioClientTransport } from '@modelcontextprotocol/sdk/client/stdio.js';
+
+const entry = fileURLToPath(new URL('../src/mcp-web-search-safe.js', import.meta.url));
+const transport = new StdioClientTransport({ command: process.execPath, args: [entry] });
+const client = new Client({ name: 'bridge-test', version: '0.1.0' });
+
+try {
+  await client.connect(transport);
+  console.log('✅ Web Search MCP 连接成功');
+  const tools = await client.listTools();
+  console.log('工具:', tools.tools.map((t) => t.name).join(', '));
+
+  const search = await client.callTool({ name: 'web_search', arguments: { query: 'DeepSeek娘 萌娘百科' } });
+  console.log('✅ web_search:', search.content?.[0]?.text?.slice(0, 300));
+
+  const fetch = await client.callTool({
+    name: 'web_fetch',
+    arguments: { url: 'https://mobile.moegirl.org.cn/DeepSeek%E5%A8%98' }
+  });
+  const text = fetch.content?.[0]?.text ?? '';
+  console.log('✅ web_fetch:', text.slice(0, 500));
+  console.log('isError:', fetch.isError ? '是' : '否');
+
+  // 内网地址应被拒绝
+  const bad = await client.callTool({ name: 'web_fetch', arguments: { url: 'http://127.0.0.1/' } });
+  console.log('🚫 内网拦截:', bad.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', bad.content?.[0]?.text?.slice(0, 120));
+
+  process.exit(0);
+} catch (error) {
+  console.error('❌ 测试失败:', error?.message ?? error);
+  process.exit(1);
+}

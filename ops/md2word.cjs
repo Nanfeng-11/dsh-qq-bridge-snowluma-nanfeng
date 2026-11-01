@@ -1,1 +1,113 @@
-Ly8gTWFya2Rvd24g4oaSIFdvcmTvvIguZG9j77yMSFRNTCDmoLzlvI/vvIxXUFMvV29yZCDmiYvmnLrnq6/lj6/nm7TmjqXmiZPlvIDvvIkKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOwoKY29uc3QgU1JDID0gJ2JyaWRnZS9yb2xlcy/kvaDnmoTop5LoibIubWQnOwpjb25zdCBPVVQgPSAnLi9vdXQv5L2g55qE6KeS6ImyLeS6uuagvOWNoS5kb2MnOwoKY29uc3QgbWQgPSBmcy5yZWFkRmlsZVN5bmMoU1JDLCAndXRmOCcpOwpjb25zdCBsaW5lcyA9IG1kLnNwbGl0KCdcbicpOwoKY29uc3QgZXNjID0gKHMpID0+IHMucmVwbGFjZSgvJi9nLCAnJmFtcDsnKS5yZXBsYWNlKC88L2csICcmbHQ7JykucmVwbGFjZSgvPi9nLCAnJmd0OycpOwpjb25zdCBpbmxpbmUgPSAocykgPT4gewogIGxldCB0ID0gZXNjKHMpOwogIHQgPSB0LnJlcGxhY2UoL1wqXCooLis/KVwqXCovZywgJzxzdHJvbmc+JDE8L3N0cm9uZz4nKTsKICB0ID0gdC5yZXBsYWNlKC9gKFteYF0rKWAvZywgJzxjb2RlPiQxPC9jb2RlPicpOwogIHQgPSB0LnJlcGxhY2UoL+OAlOaMiemcgOOAlS9nLCAnPHNwYW4gc3R5bGU9ImNvbG9yOiM4ODgiPuOAlOaMiemcgOOAlTwvc3Bhbj4nKTsKICByZXR1cm4gdDsKfTsKCmNvbnN0IG91dCA9IFtdOwpsZXQgaW5MaXN0ID0gZmFsc2UsIGluUXVvdGUgPSBmYWxzZSwgaW5UYWJsZSA9IGZhbHNlLCB0YWJsZVJvd3MgPSBbXTsKY29uc3QgY2xvc2VMaXN0ID0gKCkgPT4geyBpZiAoaW5MaXN0KSB7IG91dC5wdXNoKCc8L3VsPicpOyBpbkxpc3QgPSBmYWxzZTsgfSB9Owpjb25zdCBjbG9zZVF1b3RlID0gKCkgPT4geyBpZiAoaW5RdW90ZSkgeyBvdXQucHVzaCgnPC9ibG9ja3F1b3RlPicpOyBpblF1b3RlID0gZmFsc2U7IH0gfTsKY29uc3QgZmx1c2hUYWJsZSA9ICgpID0+IHsKICBpZiAoIWluVGFibGUpIHJldHVybjsKICBpblRhYmxlID0gZmFsc2U7CiAgY29uc3Qgcm93cyA9IHRhYmxlUm93cy5maWx0ZXIoKHIpID0+ICEvXlx8W1xzXC06fF0rXHwkLy50ZXN0KHIpKTsKICBpZiAoIXJvd3MubGVuZ3RoKSB7IHRhYmxlUm93cyA9IFtdOyByZXR1cm47IH0KICBjb25zdCBjZWxscyA9IHJvd3MubWFwKChyKSA9PiByLnNwbGl0KCd8Jykuc2xpY2UoMSwgLTEpLm1hcCgoYykgPT4gYy50cmltKCkpKTsKICBjb25zdCBoZWFkID0gY2VsbHNbMF07CiAgY29uc3QgYm9keSA9IGNlbGxzLnNsaWNlKDEpOwogIG91dC5wdXNoKCc8dGFibGUgYm9yZGVyPSIxIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjYiIHN0eWxlPSJib3JkZXItY29sbGFwc2U6Y29sbGFwc2U7d2lkdGg6MTAwJSI+Jyk7CiAgb3V0LnB1c2goJzx0cj4nICsgaGVhZC5tYXAoKGMpID0+IGA8dGggc3R5bGU9ImJhY2tncm91bmQ6I2YyZjJmMjt0ZXh0LWFsaWduOmxlZnQiPiR7aW5saW5lKGMpfTwvdGg+YCkuam9pbignJykgKyAnPC90cj4nKTsKICBmb3IgKGNvbnN0IHJvdyBvZiBib2R5KSB7CiAgICBvdXQucHVzaCgnPHRyPicgKyByb3cubWFwKChjKSA9PiBgPHRkPiR7aW5saW5lKGMpfTwvdGQ+YCkuam9pbignJykgKyAnPC90cj4nKTsKICB9CiAgb3V0LnB1c2goJzwvdGFibGU+Jyk7CiAgdGFibGVSb3dzID0gW107Cn07Cgpmb3IgKGNvbnN0IHJhdyBvZiBsaW5lcykgewogIGNvbnN0IGxpbmUgPSByYXcucmVwbGFjZSgvXHIkLywgJycpOwogIGNvbnN0IGlzVGFibGVSb3cgPSAvXlx8LipcfCQvLnRlc3QobGluZS50cmltKCkpOwogIGlmIChpc1RhYmxlUm93KSB7IGNsb3NlTGlzdCgpOyBjbG9zZVF1b3RlKCk7IGluVGFibGUgPSB0cnVlOyB0YWJsZVJvd3MucHVzaChsaW5lLnRyaW0oKSk7IGNvbnRpbnVlOyB9CiAgZmx1c2hUYWJsZSgpOwoKICBpZiAoIWxpbmUudHJpbSgpKSB7IGNsb3NlTGlzdCgpOyBjbG9zZVF1b3RlKCk7IGNvbnRpbnVlOyB9CgogIGNvbnN0IGggPSBsaW5lLm1hdGNoKC9eKCN7MSw0fSlccysoLiopJC8pOwogIGlmIChoKSB7CiAgICBjbG9zZUxpc3QoKTsgY2xvc2VRdW90ZSgpOwogICAgY29uc3QgbHZsID0gaFsxXS5sZW5ndGg7CiAgICBvdXQucHVzaChgPGgke2x2bH0+JHtpbmxpbmUoaFsyXSl9PC9oJHtsdmx9PmApOwogICAgY29udGludWU7CiAgfQogIGlmICgvXi0tLStccyokLy50ZXN0KGxpbmUpKSB7IGNsb3NlTGlzdCgpOyBjbG9zZVF1b3RlKCk7IG91dC5wdXNoKCc8aHIvPicpOyBjb250aW51ZTsgfQoKICBjb25zdCBxID0gbGluZS5tYXRjaCgvXj5ccz8oLiopJC8pOwogIGlmIChxKSB7CiAgICBjbG9zZUxpc3QoKTsKICAgIGlmICghaW5RdW90ZSkgeyBvdXQucHVzaCgnPGJsb2NrcXVvdGUgc3R5bGU9ImJvcmRlci1sZWZ0OjNweCBzb2xpZCAjY2NjO21hcmdpbjo4cHggMDtwYWRkaW5nOjRweCAxMHB4O2NvbG9yOiM1NTUiPicpOyBpblF1b3RlID0gdHJ1ZTsgfQogICAgb3V0LnB1c2goYDxwIHN0eWxlPSJtYXJnaW46NHB4IDAiPiR7aW5saW5lKHFbMV0pfTwvcD5gKTsKICAgIGNvbnRpbnVlOwogIH0KICBjbG9zZVF1b3RlKCk7CgogIGNvbnN0IGxpID0gbGluZS5tYXRjaCgvXihccyopWy0qXVxzKyguKikkLyk7CiAgaWYgKGxpKSB7CiAgICBpZiAoIWluTGlzdCkgeyBvdXQucHVzaCgnPHVsPicpOyBpbkxpc3QgPSB0cnVlOyB9CiAgICBvdXQucHVzaChgPGxpPiR7aW5saW5lKGxpWzJdKX08L2xpPmApOwogICAgY29udGludWU7CiAgfQogIGNsb3NlTGlzdCgpOwoKICBjb25zdCBudW0gPSBsaW5lLm1hdGNoKC9eKFxkKylcLlxzKyguKikkLyk7CiAgaWYgKG51bSkgewogICAgb3V0LnB1c2goYDxwIHN0eWxlPSJtYXJnaW46NHB4IDAiPjxzdHJvbmc+JHtudW1bMV19Ljwvc3Ryb25nPiAke2lubGluZShudW1bMl0pfTwvcD5gKTsKICAgIGNvbnRpbnVlOwogIH0KICBvdXQucHVzaChgPHAgc3R5bGU9Im1hcmdpbjo2cHggMDtsaW5lLWhlaWdodDoxLjYiPiR7aW5saW5lKGxpbmUpfTwvcD5gKTsKfQpjbG9zZUxpc3QoKTsgY2xvc2VRdW90ZSgpOyBmbHVzaFRhYmxlKCk7Cgpjb25zdCBodG1sID0gYDwhRE9DVFlQRSBodG1sPgo8aHRtbCB4bWxuczpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiCiAgICAgIHhtbG5zOnc9InVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOndvcmQiCiAgICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy9UUi9SRUMtaHRtbDQwIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KPHRpdGxlPuS9oOeahOinkuiJsiDCtyDkurrmoLzljaE8L3RpdGxlPgo8c3R5bGU+CiAgYm9keSB7IGZvbnQtZmFtaWx5OiAiTWljcm9zb2Z0IFlhSGVpIiwgIlBpbmdGYW5nIFNDIiwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMXB0OyBsaW5lLWhlaWdodDogMS43OyBjb2xvcjogIzIyMjsgbWFyZ2luOiAyY207IH0KICBoMSB7IGZvbnQtc2l6ZTogMjBwdDsgYm9yZGVyLWJvdHRvbTogMnB4IHNvbGlkICMzMzM7IHBhZGRpbmctYm90dG9tOiA2cHg7IH0KICBoMiB7IGZvbnQtc2l6ZTogMTVwdDsgbWFyZ2luLXRvcDogMjJweDsgYm9yZGVyLWxlZnQ6IDRweCBzb2xpZCAjMmY2ZmVkOyBwYWRkaW5nLWxlZnQ6IDhweDsgfQogIGgzIHsgZm9udC1zaXplOiAxMi41cHQ7IG1hcmdpbi10b3A6IDE2cHg7IGNvbG9yOiAjMzMzOyB9CiAgYmxvY2txdW90ZSB7IGJhY2tncm91bmQ6ICNmN2Y5ZmM7IH0KICBjb2RlIHsgYmFja2dyb3VuZDogI2YwZjBmMDsgcGFkZGluZzogMXB4IDRweDsgYm9yZGVyLXJhZGl1czogM3B4OyBmb250LWZhbWlseTogQ29uc29sYXMsIG1vbm9zcGFjZTsgZm9udC1zaXplOiA5LjVwdDsgfQogIGxpIHsgbWFyZ2luOiAzcHggMDsgfQogIHRhYmxlIHsgbWFyZ2luOiAxMHB4IDA7IGZvbnQtc2l6ZTogMTBwdDsgfQogIHRoIHsgZm9udC13ZWlnaHQ6IGJvbGQ7IH0KICBociB7IGJvcmRlcjogbm9uZTsgYm9yZGVyLXRvcDogMXB4IHNvbGlkICNkZGQ7IG1hcmdpbjogMTZweCAwOyB9Cjwvc3R5bGU+CjwvaGVhZD4KPGJvZHk+CiR7b3V0LmpvaW4oJ1xuJyl9CjwvYm9keT4KPC9odG1sPmA7Cgpmcy5ta2RpclN5bmMocGF0aC5kaXJuYW1lKE9VVCksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwpmcy53cml0ZUZpbGVTeW5jKE9VVCwgaHRtbCwgJ3V0ZjgnKTsKY29uc29sZS5sb2coJ+W3sueUn+aIkDonLCBPVVQpOwpjb25zb2xlLmxvZygn5aSn5bCPOicsIChmcy5zdGF0U3luYyhPVVQpLnNpemUgLyAxMDI0KS50b0ZpeGVkKDEpICsgJ0tCJyk7CmNvbnNvbGUubG9nKCfljp/mloc6JywgbWQubGVuZ3RoLCAn5a2XIOKGkiBIVE1MOicsIG91dC5sZW5ndGgsICflnZcnKTsK
+// Markdown → Word（.doc，HTML 格式，WPS/Word 手机端可直接打开）
+const fs = require('fs');
+const path = require('path');
+
+const SRC = 'bridge/roles/你的角色.md';
+const OUT = './out/你的角色-人格卡.doc';
+
+const md = fs.readFileSync(SRC, 'utf8');
+const lines = md.split('\n');
+
+const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const inline = (s) => {
+  let t = esc(s);
+  t = t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  t = t.replace(/`([^`]+)`/g, '<code>$1</code>');
+  t = t.replace(/〔按需〕/g, '<span style="color:#888">〔按需〕</span>');
+  return t;
+};
+
+const out = [];
+let inList = false, inQuote = false, inTable = false, tableRows = [];
+const closeList = () => { if (inList) { out.push('</ul>'); inList = false; } };
+const closeQuote = () => { if (inQuote) { out.push('</blockquote>'); inQuote = false; } };
+const flushTable = () => {
+  if (!inTable) return;
+  inTable = false;
+  const rows = tableRows.filter((r) => !/^\|[\s\-:|]+\|$/.test(r));
+  if (!rows.length) { tableRows = []; return; }
+  const cells = rows.map((r) => r.split('|').slice(1, -1).map((c) => c.trim()));
+  const head = cells[0];
+  const body = cells.slice(1);
+  out.push('<table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse;width:100%">');
+  out.push('<tr>' + head.map((c) => `<th style="background:#f2f2f2;text-align:left">${inline(c)}</th>`).join('') + '</tr>');
+  for (const row of body) {
+    out.push('<tr>' + row.map((c) => `<td>${inline(c)}</td>`).join('') + '</tr>');
+  }
+  out.push('</table>');
+  tableRows = [];
+};
+
+for (const raw of lines) {
+  const line = raw.replace(/\r$/, '');
+  const isTableRow = /^\|.*\|$/.test(line.trim());
+  if (isTableRow) { closeList(); closeQuote(); inTable = true; tableRows.push(line.trim()); continue; }
+  flushTable();
+
+  if (!line.trim()) { closeList(); closeQuote(); continue; }
+
+  const h = line.match(/^(#{1,4})\s+(.*)$/);
+  if (h) {
+    closeList(); closeQuote();
+    const lvl = h[1].length;
+    out.push(`<h${lvl}>${inline(h[2])}</h${lvl}>`);
+    continue;
+  }
+  if (/^---+\s*$/.test(line)) { closeList(); closeQuote(); out.push('<hr/>'); continue; }
+
+  const q = line.match(/^>\s?(.*)$/);
+  if (q) {
+    closeList();
+    if (!inQuote) { out.push('<blockquote style="border-left:3px solid #ccc;margin:8px 0;padding:4px 10px;color:#555">'); inQuote = true; }
+    out.push(`<p style="margin:4px 0">${inline(q[1])}</p>`);
+    continue;
+  }
+  closeQuote();
+
+  const li = line.match(/^(\s*)[-*]\s+(.*)$/);
+  if (li) {
+    if (!inList) { out.push('<ul>'); inList = true; }
+    out.push(`<li>${inline(li[2])}</li>`);
+    continue;
+  }
+  closeList();
+
+  const num = line.match(/^(\d+)\.\s+(.*)$/);
+  if (num) {
+    out.push(`<p style="margin:4px 0"><strong>${num[1]}.</strong> ${inline(num[2])}</p>`);
+    continue;
+  }
+  out.push(`<p style="margin:6px 0;line-height:1.6">${inline(line)}</p>`);
+}
+closeList(); closeQuote(); flushTable();
+
+const html = `<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>你的角色 · 人格卡</title>
+<style>
+  body { font-family: "Microsoft YaHei", "PingFang SC", sans-serif; font-size: 11pt; line-height: 1.7; color: #222; margin: 2cm; }
+  h1 { font-size: 20pt; border-bottom: 2px solid #333; padding-bottom: 6px; }
+  h2 { font-size: 15pt; margin-top: 22px; border-left: 4px solid #2f6fed; padding-left: 8px; }
+  h3 { font-size: 12.5pt; margin-top: 16px; color: #333; }
+  blockquote { background: #f7f9fc; }
+  code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; font-family: Consolas, monospace; font-size: 9.5pt; }
+  li { margin: 3px 0; }
+  table { margin: 10px 0; font-size: 10pt; }
+  th { font-weight: bold; }
+  hr { border: none; border-top: 1px solid #ddd; margin: 16px 0; }
+</style>
+</head>
+<body>
+${out.join('\n')}
+</body>
+</html>`;
+
+fs.mkdirSync(path.dirname(OUT), { recursive: true });
+fs.writeFileSync(OUT, html, 'utf8');
+console.log('已生成:', OUT);
+console.log('大小:', (fs.statSync(OUT).size / 1024).toFixed(1) + 'KB');
+console.log('原文:', md.length, '字 → HTML:', out.length, '块');

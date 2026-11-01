@@ -1,1 +1,120 @@
-Ly8gcXEtdG9vbC1yZXN0cmljdCDlrojljavnmoTlm57lvZLvvIgyMDI2LTEwLTE4IOaWsOWinu+8ieOAggovLwovLyDog4zmma/vvJrkuIDku73ph43lkK/lkI4qKuaWsOW7uioq55qEIFFRIOS8muivne+8jOivt+axguWktOmHjCBgZGV2XypgIOS7jeeEtuaYryAxOCDkuKoKLy8g77yIZG9jcy9hdWRpdHMvQVVESVRfMjAyNi0xMC0xOF9NRURJQV9BTkRfV0FURVJNQVJLLm1kIMKnMyBQM++8ieOAggovLyDlkI3ljZXmnKzouqvmmK/lr7nnmoTjgIHliqDovb3nmoTlia/mnKzkuZ/lkKvov5nkupvlkI3lrZfvvIzmiYDku6XlpLHotKXlnKggYGN0eC50b29scy5yZXN0cmljdCgpYCDosIPnlKjmnJ/vvIwKLy8g6KKrIHBlci1uYW1lIHRyeS9jYXRjaCDpnZnpu5jlkJ7mjokg4oCU4oCUIOeOsOe9keWujOWFqOS4jeWPr+ingua1i++8iERTSCDnmoQgc3RkZXJyIOS4jeiQveaWh+S7tu+8ieOAggovLwovLyDmnKzmlofku7bnlKjmoakgY3R4IOmqjOivgeWuiOWNq+eOsOWcqOeahOihjOS4uu+8mgovLyAgIDEuIHJlc3RyaWN0IOaKm+mUmeaXtioq5LiN6Z2Z6buYKirvvJrlhpnor4rmlq3mlofku7bjgIHlubYgMyDnp5LlkI7lr7nlpLHotKXpobnph43or5XkuIDmrKHvvJsKLy8gICAyLiDml7bluo/pl67popjvvIjlkI7ms6jlhoznmoTlt6XlhbfvvInog73ooqvph43or5XooaXkuIrvvJsKLy8gICAzLiDmiafooYzmnJ8gZ3VhcmQg55m95ZCN5Y2V54Wn5pen77yabWNwX18qIOaUvuihjOOAgWRldl8qIOaLkue7neOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoLCBwYXRoVG9GaWxlVVJMIH0gZnJvbSAnbm9kZTp1cmwnOwoKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmNvbnN0IFBMVUdJTiA9IHBhdGguam9pbihST09ULCAncGx1Z2lucycsICdxcS1hZ2VudC1wcmVzZXRzJywgJ3FxLXRvb2wtcmVzdHJpY3QubWpzJyk7CgpsZXQgZmFpbHVyZXMgPSAwOwpsZXQgdGVzdHMgPSAwOwphc3luYyBmdW5jdGlvbiB0ZXN0KG5hbWUsIHJ1bikgewogIHRlc3RzKys7CiAgdHJ5IHsgYXdhaXQgcnVuKCk7IGNvbnNvbGUubG9nKCdQQVNTJywgbmFtZSk7IH0KICBjYXRjaCAoZXJyb3IpIHsgZmFpbHVyZXMrKzsgY29uc29sZS5lcnJvcignRkFJTCcsIG5hbWUsICfigJQnLCBlcnJvcj8uc3RhY2sgPz8gZXJyb3IpOyB9Cn0KCi8vIOavj+asoemDvemHjeaWsCBpbXBvcnQg5LiA5Lu95bmy5YeA5qih5Z2X77yI6K+K5pat5paH5Lu26Lev5b6E5p2l6IeqIGVudu+8jOW/hemhu+WcqCBpbXBvcnQg5YmN6K6+5aW977yJCmFzeW5jIGZ1bmN0aW9uIGxvYWRQbHVnaW4oZGlhZ0ZpbGUpIHsKICBwcm9jZXNzLmVudi5RUV9UT09MX1JFU1RSSUNUX0xPRyA9IGRpYWdGaWxlOwogIGNvbnN0IHVybCA9IHBhdGhUb0ZpbGVVUkwoUExVR0lOKS5ocmVmICsgYD90PSR7TWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc2xpY2UoMil9YDsKICBjb25zdCBtb2QgPSBhd2FpdCBpbXBvcnQodXJsKTsKICBkZWxldGUgcHJvY2Vzcy5lbnYuUVFfVE9PTF9SRVNUUklDVF9MT0c7CiAgcmV0dXJuIG1vZDsKfQoKZnVuY3Rpb24gbWFrZUN0eCh7IHJlc3RyaWN0SW1wbCwga25vd25BZnRlciA9IEluZmluaXR5IH0pIHsKICBjb25zdCBjYWxscyA9IHsgcmVzdHJpY3Q6IFtdLCBndWFyZDogbnVsbCwgaGlkZGVuOiBuZXcgU2V0KCkgfTsKICBsZXQgcm91bmQgPSAwOwogIGNvbnN0IGN0eCA9IHsKICAgIHRvb2xzOiB7CiAgICAgIHJlc3RyaWN0KGZpbHRlcikgewogICAgICAgIGNvbnN0IG5hbWUgPSBmaWx0ZXI/LmRlbnk/LlswXTsKICAgICAgICBjYWxscy5yZXN0cmljdC5wdXNoKG5hbWUpOwogICAgICAgIHJvdW5kICs9IDE7CiAgICAgICAgY29uc3QgcmVzdWx0ID0gcmVzdHJpY3RJbXBsKHsgbmFtZSwgcm91bmQgfSk7CiAgICAgICAgaWYgKHJlc3VsdCBpbnN0YW5jZW9mIEVycm9yKSB0aHJvdyByZXN1bHQ7CiAgICAgICAgY2FsbHMuaGlkZGVuLmFkZChuYW1lKTsKICAgICAgICByZXR1cm4gKCkgPT4ge307CiAgICAgIH0sCiAgICAgIGd1YXJkKGZuKSB7IGNhbGxzLmd1YXJkID0gZm47IH0KICAgIH0KICB9OwogIHJldHVybiB7IGN0eCwgY2FsbHMsIGtub3duQWZ0ZXIgfTsKfQoKY29uc3QgdG1wRGlyID0gZnMubWtkdGVtcFN5bmMocGF0aC5qb2luKG9zLnRtcGRpcigpLCAncXEtdG9vbC1yZXN0cmljdC0nKSk7Cgphd2FpdCB0ZXN0KCdyZXN0cmljdCDlhajlpLHotKXml7bkuI3pnZnpu5jvvJrlhpnor4rmlq3mlofku7YgKyAzIOenkuWQjumHjeivlScsIGFzeW5jICgpID0+IHsKICBjb25zdCBkaWFnID0gcGF0aC5qb2luKHRtcERpciwgJ2RpYWctYWx3YXlzLWZhaWwubG9nJyk7CiAgY29uc3QgbW9kID0gYXdhaXQgbG9hZFBsdWdpbihkaWFnKTsKICAvLyDliY0gTiDmrKHvvIjnrKzkuIDmrKEgYXBwbHkg55qE5omA5pyJ5ZCN5a2X77yJ6YO95oql44CMdW5rbm93biBnbG9iYWwgdG9vbOOAje+8jOmHjeivlemYtuauteS5n+Wksei0pQogIGNvbnN0IHsgY3R4LCBjYWxscyB9ID0gbWFrZUN0eCh7IHJlc3RyaWN0SW1wbDogKCkgPT4gbmV3IEVycm9yKCd0b29scy5yZXN0cmljdCgpIG5hbWVzIHVua25vd24gZ2xvYmFsIHRvb2wgIngiJykgfSk7CiAgbW9kLmFwcGx5KGN0eCk7CiAgYXNzZXJ0Lm9rKGNhbGxzLnJlc3RyaWN0Lmxlbmd0aCA+IDAsICflv4XpobvnnJ/nmoTosIPnlKggcmVzdHJpY3QnKTsKICBjb25zdCBmaXJzdCA9IGZzLnJlYWRGaWxlU3luYyhkaWFnLCAndXRmOCcpOwogIGFzc2VydC5tYXRjaChmaXJzdCwgL3Jlc3RyaWN0IG9rPTAgZmFpbGVkPVxkKy8sIGDor4rmlq3mlofku7blupTorrDlvZXlpLHotKXorqHmlbDvvJoke2ZpcnN0fWApOwogIGFzc2VydC5tYXRjaChmaXJzdCwgL3Vua25vd24gZ2xvYmFsIHRvb2wvLCAn6K+K5pat5paH5Lu25b+F6aG75bimIERTSCDnmoTljp/lp4vmiqXplJknKTsKICAvLyDnrYnlu7bov5/ph43or5XokL3lnLAKICBhd2FpdCBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dChyZXNvbHZlLCAzNDAwKSk7CiAgY29uc3QgYWZ0ZXIgPSBmcy5yZWFkRmlsZVN5bmMoZGlhZywgJ3V0ZjgnKTsKICBhc3NlcnQubWF0Y2goYWZ0ZXIsIC/lu7bov5/ph43or5Ugb2s9MC8sIGDph43or5Xnu5PmnpzkuZ/opoHokL3nm5jvvJoke2FmdGVyfWApOwp9KTsKCmF3YWl0IHRlc3QoJ+aXtuW6j+mXrumimOiDveiiqyAzIOenkuWQjueahOmHjeivleihpeiXj++8iOW3peWFt+aZmuazqOWGjO+8iScsIGFzeW5jICgpID0+IHsKICBjb25zdCBkaWFnID0gcGF0aC5qb2luKHRtcERpciwgJ2RpYWctbGF0ZS5sb2cnKTsKICBjb25zdCBtb2QgPSBhd2FpdCBsb2FkUGx1Z2luKGRpYWcpOwogIGNvbnN0IHRvdGFsID0gbW9kLlJFU1RSSUNURURfVE9PTF9OQU1FUy5sZW5ndGg7CiAgLy8g56ys5LiA6L2u5YWo6YOo5aSx6LSl77yI5qih5ouf5YWo5bGA5bel5YW36L+Y5rKh5rOo5YaM77yJ77yM56ys5LqM6L2u5YWo6YOo5oiQ5Yqf77yI5qih5oufIDMg56eS5ZCO5rOo5YWl5Zmo5bey5rOo5YaM77yJCiAgY29uc3QgeyBjdHgsIGNhbGxzIH0gPSBtYWtlQ3R4KHsKICAgIHJlc3RyaWN0SW1wbDogKHsgcm91bmQgfSkgPT4gKHJvdW5kIDw9IHRvdGFsID8gbmV3IEVycm9yKCd1bmtub3duIGdsb2JhbCB0b29sJykgOiB1bmRlZmluZWQpCiAgfSk7CiAgbW9kLmFwcGx5KGN0eCk7CiAgYXNzZXJ0LmVxdWFsKGNhbGxzLmhpZGRlbi5zaXplLCAwLCAn56ys5LiA6L2u5bqU5b2T5LiA5Liq6YO95rKh6JeP5o6JJyk7CiAgYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMzQwMCkpOwogIGFzc2VydC5lcXVhbChjYWxscy5oaWRkZW4uc2l6ZSwgdG90YWwsIGDph43or5XlkI7lupTlhajpg6jol4/mjonvvIzlrp7pmYUgJHtjYWxscy5oaWRkZW4uc2l6ZX0vJHt0b3RhbH1gKTsKICBjb25zdCBsb2cgPSBmcy5yZWFkRmlsZVN5bmMoZGlhZywgJ3V0ZjgnKTsKICBhc3NlcnQubWF0Y2gobG9nLCBuZXcgUmVnRXhwKGDlu7bov5/ph43or5Ugb2s9JHt0b3RhbH1gKSwgYOmHjeivlee7k+aenOW6lOWGmeWFpeiviuaWre+8miR7bG9nfWApOwp9KTsKCmF3YWl0IHRlc3QoJ3Jlc3RyaWN0IOS4gOasoeaIkOWKn+aXtuS4jeWGmeiviuaWreaWh+S7tu+8iOS4jeWItumAoOWZquWjsO+8iScsIGFzeW5jICgpID0+IHsKICBjb25zdCBkaWFnID0gcGF0aC5qb2luKHRtcERpciwgJ2RpYWctb2subG9nJyk7CiAgY29uc3QgbW9kID0gYXdhaXQgbG9hZFBsdWdpbihkaWFnKTsKICBjb25zdCB7IGN0eCwgY2FsbHMgfSA9IG1ha2VDdHgoeyByZXN0cmljdEltcGw6ICgpID0+IHVuZGVmaW5lZCB9KTsKICBtb2QuYXBwbHkoY3R4KTsKICBhc3NlcnQuZXF1YWwoY2FsbHMuaGlkZGVuLnNpemUsIG1vZC5SRVNUUklDVEVEX1RPT0xfTkFNRVMubGVuZ3RoKTsKICBhc3NlcnQuZXF1YWwoZnMuZXhpc3RzU3luYyhkaWFnKSwgZmFsc2UsICflhajpg6jmiJDlip/ml7bkuI3or6XkuqfnlJ/or4rmlq3mlofku7YnKTsKfSk7Cgphd2FpdCB0ZXN0KCfmiafooYzmnJ8gZ3VhcmQg54Wn5pen77yaUVEgTUNQIOaUvuihjOOAgWRldl8qIOS4juacrOWcsOW3peWFt+aLkue7nScsIGFzeW5jICgpID0+IHsKICBjb25zdCBkaWFnID0gcGF0aC5qb2luKHRtcERpciwgJ2RpYWctZ3VhcmQubG9nJyk7CiAgY29uc3QgbW9kID0gYXdhaXQgbG9hZFBsdWdpbihkaWFnKTsKICBjb25zdCB7IGN0eCwgY2FsbHMgfSA9IG1ha2VDdHgoeyByZXN0cmljdEltcGw6ICgpID0+IHVuZGVmaW5lZCB9KTsKICBtb2QuYXBwbHkoY3R4KTsKICBhc3NlcnQuZXF1YWwodHlwZW9mIGNhbGxzLmd1YXJkLCAnZnVuY3Rpb24nLCAn5b+F6aG75rOo5YaM5omn6KGM5pyfIGd1YXJkJyk7CiAgY29uc3QgZ3VhcmQgPSBjYWxscy5ndWFyZDsKICBmb3IgKGNvbnN0IG5hbWUgb2YgWydtY3BfX3Nub3dsdW1hX19xcV9zZW5kX21lc3NhZ2UnLCAnbWNwX19zbm93bHVtYS1ob3N0X19zbm93bHVtYV9zdGF0dXMnLCAnbWNwX193ZWItc2VhcmNoLXNhZmVfX3dlYl9zZWFyY2gnLCAnYXNrX3VzZXJfcXVlc3Rpb24nLCAndG9kb193cml0ZSddKSB7CiAgICBhc3NlcnQuZXF1YWwoZ3VhcmQoeyBuYW1lIH0pLCB1bmRlZmluZWQsIGAke25hbWV9IOW6lOaUvuihjGApOwogIH0KICBmb3IgKGNvbnN0IG5hbWUgb2YgWydkZXZfaW5qZWN0X3BsdWdpbicsICdkZXZfcGx1Z2luX3N0YXR1cycsICdwd3NoJywgJ3JlYWQnLCAnd3JpdGUnLCAnZHNoX3NuYXBzaG90JywgJ3NraWxsJ10pIHsKICAgIGFzc2VydC5tYXRjaChTdHJpbmcoZ3VhcmQoeyBuYW1lIH0pKSwgL+S4jeWcqCBRUSDmoaXmjqXnmb3lkI3ljZXlhoUvLCBgJHtuYW1lfSDlv4Xpobvmi5Lnu51gKTsKICB9CiAgYXNzZXJ0Lm1hdGNoKFN0cmluZyhndWFyZCh7IG5hbWU6ICcnIH0pKSwgL+W3peWFt+WQjeaXoOaViC8pOwogIGFzc2VydC5tYXRjaChTdHJpbmcoZ3VhcmQoe30pKSwgL+W3peWFt+WQjeaXoOaViC8pOwp9KTsKCmZzLnJtU3luYyh0bXBEaXIsIHsgcmVjdXJzaXZlOiB0cnVlLCBmb3JjZTogdHJ1ZSB9KTsKY29uc29sZS5sb2coYFxuJHtmYWlsdXJlcyA/ICdGQUlMRUQnIDogJ0FMTCBQQVNTJ30gIHRlc3RzPSR7dGVzdHN9IGZhaWx1cmVzPSR7ZmFpbHVyZXN9YCk7CmlmIChmYWlsdXJlcykgcHJvY2Vzcy5leGl0KDEpOwo=
+// qq-tool-restrict 守卫的回归（2026-10-18 新增）。
+//
+// 背景：一份重启后**新建**的 QQ 会话，请求头里 `dev_*` 仍然是 18 个
+// （docs/audits/AUDIT_2026-10-18_MEDIA_AND_WATERMARK.md §3 P3）。
+// 名单本身是对的、加载的副本也含这些名字，所以失败在 `ctx.tools.restrict()` 调用期，
+// 被 per-name try/catch 静默吞掉 —— 现网完全不可观测（DSH 的 stderr 不落文件）。
+//
+// 本文件用桩 ctx 验证守卫现在的行为：
+//   1. restrict 抛错时**不静默**：写诊断文件、并 3 秒后对失败项重试一次；
+//   2. 时序问题（后注册的工具）能被重试补上；
+//   3. 执行期 guard 白名单照旧：mcp__* 放行、dev_* 拒绝。
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const PLUGIN = path.join(ROOT, 'plugins', 'qq-agent-presets', 'qq-tool-restrict.mjs');
+
+let failures = 0;
+let tests = 0;
+async function test(name, run) {
+  tests++;
+  try { await run(); console.log('PASS', name); }
+  catch (error) { failures++; console.error('FAIL', name, '—', error?.stack ?? error); }
+}
+
+// 每次都重新 import 一份干净模块（诊断文件路径来自 env，必须在 import 前设好）
+async function loadPlugin(diagFile) {
+  process.env.QQ_TOOL_RESTRICT_LOG = diagFile;
+  const url = pathToFileURL(PLUGIN).href + `?t=${Math.random().toString(36).slice(2)}`;
+  const mod = await import(url);
+  delete process.env.QQ_TOOL_RESTRICT_LOG;
+  return mod;
+}
+
+function makeCtx({ restrictImpl, knownAfter = Infinity }) {
+  const calls = { restrict: [], guard: null, hidden: new Set() };
+  let round = 0;
+  const ctx = {
+    tools: {
+      restrict(filter) {
+        const name = filter?.deny?.[0];
+        calls.restrict.push(name);
+        round += 1;
+        const result = restrictImpl({ name, round });
+        if (result instanceof Error) throw result;
+        calls.hidden.add(name);
+        return () => {};
+      },
+      guard(fn) { calls.guard = fn; }
+    }
+  };
+  return { ctx, calls, knownAfter };
+}
+
+const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-tool-restrict-'));
+
+await test('restrict 全失败时不静默：写诊断文件 + 3 秒后重试', async () => {
+  const diag = path.join(tmpDir, 'diag-always-fail.log');
+  const mod = await loadPlugin(diag);
+  // 前 N 次（第一次 apply 的所有名字）都报「unknown global tool」，重试阶段也失败
+  const { ctx, calls } = makeCtx({ restrictImpl: () => new Error('tools.restrict() names unknown global tool "x"') });
+  mod.apply(ctx);
+  assert.ok(calls.restrict.length > 0, '必须真的调用 restrict');
+  const first = fs.readFileSync(diag, 'utf8');
+  assert.match(first, /restrict ok=0 failed=\d+/, `诊断文件应记录失败计数：${first}`);
+  assert.match(first, /unknown global tool/, '诊断文件必须带 DSH 的原始报错');
+  // 等延迟重试落地
+  await new Promise((resolve) => setTimeout(resolve, 3400));
+  const after = fs.readFileSync(diag, 'utf8');
+  assert.match(after, /延迟重试 ok=0/, `重试结果也要落盘：${after}`);
+});
+
+await test('时序问题能被 3 秒后的重试补藏（工具晚注册）', async () => {
+  const diag = path.join(tmpDir, 'diag-late.log');
+  const mod = await loadPlugin(diag);
+  const total = mod.RESTRICTED_TOOL_NAMES.length;
+  // 第一轮全部失败（模拟全局工具还没注册），第二轮全部成功（模拟 3 秒后注入器已注册）
+  const { ctx, calls } = makeCtx({
+    restrictImpl: ({ round }) => (round <= total ? new Error('unknown global tool') : undefined)
+  });
+  mod.apply(ctx);
+  assert.equal(calls.hidden.size, 0, '第一轮应当一个都没藏掉');
+  await new Promise((resolve) => setTimeout(resolve, 3400));
+  assert.equal(calls.hidden.size, total, `重试后应全部藏掉，实际 ${calls.hidden.size}/${total}`);
+  const log = fs.readFileSync(diag, 'utf8');
+  assert.match(log, new RegExp(`延迟重试 ok=${total}`), `重试结果应写入诊断：${log}`);
+});
+
+await test('restrict 一次成功时不写诊断文件（不制造噪声）', async () => {
+  const diag = path.join(tmpDir, 'diag-ok.log');
+  const mod = await loadPlugin(diag);
+  const { ctx, calls } = makeCtx({ restrictImpl: () => undefined });
+  mod.apply(ctx);
+  assert.equal(calls.hidden.size, mod.RESTRICTED_TOOL_NAMES.length);
+  assert.equal(fs.existsSync(diag), false, '全部成功时不该产生诊断文件');
+});
+
+await test('执行期 guard 照旧：QQ MCP 放行、dev_* 与本地工具拒绝', async () => {
+  const diag = path.join(tmpDir, 'diag-guard.log');
+  const mod = await loadPlugin(diag);
+  const { ctx, calls } = makeCtx({ restrictImpl: () => undefined });
+  mod.apply(ctx);
+  assert.equal(typeof calls.guard, 'function', '必须注册执行期 guard');
+  const guard = calls.guard;
+  for (const name of ['mcp__snowluma__qq_send_message', 'mcp__snowluma-host__snowluma_status', 'mcp__web-search-safe__web_search', 'ask_user_question', 'todo_write']) {
+    assert.equal(guard({ name }), undefined, `${name} 应放行`);
+  }
+  for (const name of ['dev_inject_plugin', 'dev_plugin_status', 'pwsh', 'read', 'write', 'dsh_snapshot', 'skill']) {
+    assert.match(String(guard({ name })), /不在 QQ 桥接白名单内/, `${name} 必须拒绝`);
+  }
+  assert.match(String(guard({ name: '' })), /工具名无效/);
+  assert.match(String(guard({})), /工具名无效/);
+});
+
+fs.rmSync(tmpDir, { recursive: true, force: true });
+console.log(`\n${failures ? 'FAILED' : 'ALL PASS'}  tests=${tests} failures=${failures}`);
+if (failures) process.exit(1);

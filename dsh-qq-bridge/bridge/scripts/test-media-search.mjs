@@ -1,1 +1,403 @@
-Ly8g5Zu+54mHL+ihqOaDhemTvui3ryArIOiBlOe9keaQnOe0oueahOemu+e6v+WbnuW9kuOAggovLwovLyDog4zmma/vvIjnnJ/lrp7mlYXpmpzvvIzop4EgMjAyNi0xMC0xNyDnmoTkvJror53ml6Xlv5fvvInvvJoKLy8gICAxLiBRUSDooajmg4XljIXnmoQgQ0RO77yIZ3hoLnZpcC5xcS5jb20gLyBwLnFwaWMuY24gLyBtdWx0aW1lZGlhLm50LnFxLmNvbS5jbu+8ieWQjOaXtuaciQovLyAgICAgIEFBQUEvQSDorrDlvZXvvIzogIzmnKzmnLrlj6rmnIkgSVB2NCDlh7rlj6Mg4oCU4oCUIOaKouWIsCBBQUFBIOeahOmCo+asoeivt+axguS8muS4gOebtOetieWIsCAyMHMg6LaF5pe277yMCi8vICAgICAg5LqO5piv44CM6YOo5YiG6KGo5oOF5YyF5Y+R5LiN5Ye65Y67IC8g5Zu+54mH5pe25aW95pe25Z2P44CN44CC5L+u5aSN5ZyoIHNhZmUtZmV0Y2gg55qE5Zyw5Z2A5pWF6Zqc5YiH5o2i44CCCi8vICAgMi4g6KGo5oOF5YyF5a2X5q6177yIZW1vamlfaWQvdXJsL3N1bW1hcnnvvInku6XliY3ooqvkuKLlvIPvvIxnZXRfaW1hZ2Ug5a+55biC5Zy66KGo5oOF5b+F54S25aSx6LSl5ZCOCi8vICAgICAg5bCx5rKh5pyJ5Lu75L2V5YWc5bqV77yb546w5Zyo5L+d55WZ5a2X5q6144CB6KGo5oOF5LyY5YWI6LWwIENETuOAgeW5tuaUr+aMgeeUqCBlbW9qaV9pZCDmjqggQ0ROIOWcsOWdgOOAggovLyAgIDMuIOaQnOe0ouS7peWJjeaYr+aKkyBCaW5nIEhUTUzvvIjnu5Pmnpznqbov5Zmq5aOw5aSn44CB6YOo5YiGIHF1ZXJ5IOebtOaOpemAgOWMlu+8ie+8m+eOsOWcqOS8mOWFiOWkjeeUqAovLyAgICAgIERTSCDlkIzkuIDot68gRGVlcFNlZWsg6IGU572R5pCc57Si77yMQmluZyBSU1Mg5LuF5L2c5YWc5bqV44CCCi8vCi8vIOacrOaWh+S7tuS4jeiuv+mXrue9kee7nO+8mkNETiDkuIvovb3nlKjms6jlhaXnmoQgc2FmZUZldGNoQnVmZmVyIOahqe+8jOaQnOe0ouWPqua1i+e6r+WHveaVsOS4juWPguaVsOagoemqjOOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBicmlkZ2VIYXJuZXNzIH0gZnJvbSAnLi9hdWRpdC1icmlkZ2UtaGFybmVzcy5tanMnOwppbXBvcnQgewogIGJpbmdTZWFyY2gsCiAgY2xlYXJTZWFyY2hDYWNoZSwKICBkZWVwc2Vla1NlYXJjaCwKICBsb2FkU2VhcmNoQ29uZmlnLAogIG1hcERlZXBTZWVrUmVzcG9uc2UsCiAgcGFyc2VCaW5nSHRtbCwKICBwYXJzZUJpbmdSc3MsCiAgcmVhZERzaENyZWRlbnRpYWwsCiAgcmVzb2x2ZVNlYXJjaEFwaUtleSwKICB3ZWJTZWFyY2gKfSBmcm9tICcuLi9zcmMvd2ViLXNlYXJjaC5qcyc7Cgpjb25zdCBST09UID0gcGF0aC5yZXNvbHZlKHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpLCAnLi4nKTsKbGV0IGZhaWx1cmVzID0gMDsKYXN5bmMgZnVuY3Rpb24gdGVzdChuYW1lLCBydW4pIHsKICB0cnkgeyBhd2FpdCBydW4oKTsgY29uc29sZS5sb2coJ1BBU1MnLCBuYW1lKTsgfQogIGNhdGNoIChlcnJvcikgeyBmYWlsdXJlcysrOyBjb25zb2xlLmVycm9yKCdGQUlMJywgbmFtZSwgJ+KAlCcsIGVycm9yPy5zdGFjayA/PyBlcnJvcik7IH0KfQoKLy8gMcOXMSBHSUYgLyBQTkcgLyBXZWJQ77yI6Laz5aSf6YCa6L+H562+5ZCN5LiO5bC65a+46Kej5p6Q77yJCmNvbnN0IEdJRiA9IEJ1ZmZlci5mcm9tKCc0NzQ5NDYzODM5NjEwMTAwMDEwMDgwMDAwMGZmZmZmZjAwMDAwMDIxZjkwNDAxMDAwMDAwMDAyYzAwMDAwMDAwMDEwMDAxMDAwMDAyMDI0NDAxMDAzYicsICdoZXgnKTsKY29uc3QgUE5HID0gQnVmZmVyLmZyb20oJzg5NTA0ZTQ3MGQwYTFhMGEwMDAwMDAwZDQ5NDg0NDUyMDAwMDAwMDEwMDAwMDAwMTA4MDYwMDAwMDAxZjE1YzQ4OTAwMDAwMDBhNDk0NDQxNTQ3ODljNjMwMDAxMDAwMDA1MDAwMScsICdoZXgnKTsKY29uc3QgV0VCUF9WUDhYID0gKCgpID0+IHsKICBjb25zdCBidWYgPSBCdWZmZXIuYWxsb2MoNDApOwogIGJ1Zi53cml0ZSgnUklGRicsIDAsICdhc2NpaScpOwogIGJ1Zi53cml0ZVVJbnQzMkxFKDMyLCA0KTsKICBidWYud3JpdGUoJ1dFQlAnLCA4LCAnYXNjaWknKTsKICBidWYud3JpdGUoJ1ZQOFgnLCAxMiwgJ2FzY2lpJyk7CiAgYnVmLndyaXRlVUludDMyTEUoMTAsIDE2KTsKICAvLyB3aWR0aC0xID0gMTkxOSAoMHg3N2YpLCBoZWlnaHQtMSA9IDEwNzkgKDB4NDM3Ke+8jDI0IOS9jeWwj+errwogIGJ1ZlsyNF0gPSAweDdmOyBidWZbMjVdID0gMHgwNzsgYnVmWzI2XSA9IDB4MDA7CiAgYnVmWzI3XSA9IDB4Mzc7IGJ1ZlsyOF0gPSAweDA0OyBidWZbMjldID0gMHgwMDsKICByZXR1cm4gYnVmOwp9KSgpOwoKLy8g4pSA4pSAIOa2iOaBr+autSDihpIg5aqS5L2T5YWD5pWw5o2uIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphd2FpdCB0ZXN0KCdleHRyYWN0TWVkaWFGcm9tU2VnbWVudHMg5L+d55WZ6KGo5oOF5YyF5a2X5q6177yIaW1hZ2UgLyBtZmFjZSAvIGZhY2XvvIknLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgaCA9IGF3YWl0IGJyaWRnZUhhcm5lc3MoKTsKICB0cnkgewogICAgY29uc3QgbWVkaWEgPSBoLmV4dHJhY3RNZWRpYUZyb21TZWdtZW50cyhbCiAgICAgIHsKICAgICAgICB0eXBlOiAnaW1hZ2UnLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgIGZpbGU6ICdmOS1mOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS5naWYnLAogICAgICAgICAgdXJsOiAnaHR0cHM6Ly9neGgudmlwLnFxLmNvbS9jbHViL2l0ZW0vcGFyY2VsL2l0ZW0vZjkvZjk2YmYyZDJkOTNjMzUzMGQ1ZWIxNDhmNTUyMDZmYjEvcmF3MzAwLmdpZicsCiAgICAgICAgICBzdW1tYXJ5OiAnW+e7meS9oOezluWQg10nLAogICAgICAgICAgc3ViX3R5cGU6IDAsCiAgICAgICAgICBlbW9qaV9pZDogJ2Y5NmJmMmQyZDkzYzM1MzBkNWViMTQ4ZjU1MjA2ZmIxJywKICAgICAgICAgIGVtb2ppX3BhY2thZ2VfaWQ6IDI0MjEzOSwKICAgICAgICAgIGtleTogJ2EzOWJiYjA5YzdkODVkNDEnCiAgICAgICAgfQogICAgICB9LAogICAgICB7CiAgICAgICAgdHlwZTogJ21mYWNlJywKICAgICAgICBkYXRhOiB7IGVtb2ppX2lkOiAnYWJjZGVmMDEyMzQ1Njc4OWFiY2RlZjAxMjM0NTY3ODknLCB1cmw6ICdodHRwczovL2d4aC52aXAucXEuY29tL3guZ2lmJywgc3VtbWFyeTogJ1vliqjnlLvooajmg4VdJyB9CiAgICAgIH0sCiAgICAgIHsgdHlwZTogJ2ZhY2UnLCBkYXRhOiB7IGlkOiAnMTc4JywgdXJsOiAnaHR0cHM6Ly9leGFtcGxlLmludmFsaWQvZi5wbmcnLCBzdW1tYXJ5OiAnZG9nZScgfSB9LAogICAgICB7IHR5cGU6ICd0ZXh0JywgZGF0YTogeyB0ZXh0OiAn5pmu6YCa5paH5a2XJyB9IH0KICAgIF0pOwogICAgYXNzZXJ0LmVxdWFsKG1lZGlhLmxlbmd0aCwgMyk7CiAgICBhc3NlcnQuZXF1YWwobWVkaWFbMF0ua2luZCwgJ2ltYWdlJyk7CiAgICBhc3NlcnQuZXF1YWwobWVkaWFbMF0uZW1vamlJZCwgJ2Y5NmJmMmQyZDkzYzM1MzBkNWViMTQ4ZjU1MjA2ZmIxJywgJ2Vtb2ppX2lkIOW/hemhu+S/neeVme+8iOWQpuWImeWkseWOuyBDRE4g5YWc5bqV77yJJyk7CiAgICBhc3NlcnQuZXF1YWwobWVkaWFbMF0uZW1vamlQYWNrYWdlSWQsICcyNDIxMzknKTsKICAgIGFzc2VydC5lcXVhbChtZWRpYVswXS5lbW9qaUtleSwgJ2EzOWJiYjA5YzdkODVkNDEnKTsKICAgIGFzc2VydC5lcXVhbChtZWRpYVswXS5zdWJUeXBlLCAnMCcpOwogICAgYXNzZXJ0LmVxdWFsKG1lZGlhWzBdLnN1bW1hcnksICdb57uZ5L2g57OW5ZCDXScpOwogICAgYXNzZXJ0LmVxdWFsKG1lZGlhWzFdLmtpbmQsICdzdGlja2VyJywgJ21mYWNlIOW/hemhu+iiq+ivhuWIq+S4uuihqOaDheWMhScpOwogICAgYXNzZXJ0LmVxdWFsKG1lZGlhWzFdLmVtb2ppSWQsICdhYmNkZWYwMTIzNDU2Nzg5YWJjZGVmMDEyMzQ1Njc4OScpOwogICAgYXNzZXJ0LmVxdWFsKG1lZGlhWzFdLnN1YlR5cGUsICcxJyk7CiAgICBhc3NlcnQuZXF1YWwobWVkaWFbMl0ua2luZCwgJ2ZhY2UnKTsKICAgIGFzc2VydC5lcXVhbChtZWRpYVsyXS5mYWNlSWQsICcxNzgnKTsKICAgIGFzc2VydC5lcXVhbChtZWRpYVsyXS51cmwsICdodHRwczovL2V4YW1wbGUuaW52YWxpZC9mLnBuZycpOwoKICAgIGFzc2VydC5lcXVhbChhd2FpdCBoLnNlZ21lbnRzVG9UZXh0KFt7IHR5cGU6ICdtZmFjZScsIGRhdGE6IHsgc3VtbWFyeTogJ+e7meS9oOezluWQgycgfSB9XSksICdb6KGo5oOFOue7meS9oOezluWQg10nKTsKICB9IGZpbmFsbHkgeyBhd2FpdCBoLmNsb3NlKCk7IH0KfSk7CgovLyDilIDilIAg6KGo5oOF5YyF5LiL6L2977yaQ0ROIOS8mOWFiOOAgWVtb2ppX2lkIOWFnOW6leOAgeaZrumAmuWbvueJh+S7jei1sCBnZXRfaW1hZ2Ug4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmF3YWl0IHRlc3QoJ2ZldGNoT25lQm90SW1hZ2Ug6KGo5oOF5LyY5YWIIENETu+8jOaZrumAmuWbvueJh+S8mOWFiCBnZXRfaW1hZ2UnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgZmV0Y2hlZCA9IFtdOwogIGNvbnN0IGggPSBhd2FpdCBicmlkZ2VIYXJuZXNzKHsKICAgIGdsb2JhbHM6IHsKICAgICAgc2FmZUZldGNoQnVmZmVyOiBhc3luYyAodXJsKSA9PiB7IGZldGNoZWQucHVzaChTdHJpbmcodXJsKSk7IHJldHVybiB7IGJ1ZmZlcjogR0lGLCBtaW1lVHlwZTogJ2ltYWdlL2dpZicgfTsgfQogICAgfQogIH0pOwogIHRyeSB7CiAgICAvLyDikaAg6KGo5oOF77yI5pyJIHVybO+8ie+8muS4jeiwg+eUqCBnZXRfaW1hZ2XvvIznm7TmjqXmipMgQ0ROCiAgICBjb25zdCBzdGlja2VyID0gYXdhaXQgaC5mZXRjaE9uZUJvdEltYWdlKHsKICAgICAga2luZDogJ3N0aWNrZXInLAogICAgICB1cmw6ICdodHRwczovL2d4aC52aXAucXEuY29tL2NsdWIvaXRlbS9wYXJjZWwvaXRlbS9mOS9mOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS9yYXczMDAuZ2lmJwogICAgfSk7CiAgICBhc3NlcnQub2soc3RpY2tlcj8uYnVmZmVyPy5sZW5ndGgsICfooajmg4Xlv4Xpobvlj5bliLDlrZfoioInKTsKICAgIGFzc2VydC5lcXVhbChzdGlja2VyLm1pbWVUeXBlLCAnaW1hZ2UvZ2lmJyk7CiAgICBhc3NlcnQuZXF1YWwoZmV0Y2hlZC5hdCgtMSksICdodHRwczovL2d4aC52aXAucXEuY29tL2NsdWIvaXRlbS9wYXJjZWwvaXRlbS9mOS9mOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS9yYXczMDAuZ2lmJyk7CiAgICBhc3NlcnQuZXF1YWwoaC5jYWxscy5pbWFnZXMubGVuZ3RoLCAwLCAn6KGo5oOF5pyJIFVSTCDml7bkuI3lupTlhYjpl67nvZHlhbMgZ2V0X2ltYWdl77yI5biC5Zy66KGo5oOF5b+F54S2IG5vdCBmb3VuZO+8iScpOwoKICAgIC8vIOKRoSDooajmg4XvvIjmsqHmnIkgdXJs77yM5Y+q5pyJIGVtb2ppX2lk77yJ77ya5oyJIGVtb2ppX2lkIOaOqCBDRE4g5Zyw5Z2A5YWc5bqVCiAgICBjb25zdCBieUlkID0gYXdhaXQgaC5mZXRjaE9uZUJvdEltYWdlKHsKICAgICAga2luZDogJ2ltYWdlJywKICAgICAgc3ViVHlwZTogJzAnLAogICAgICBlbW9qaUlkOiAnZjk2YmYyZDJkOTNjMzUzMGQ1ZWIxNDhmNTUyMDZmYjEnLAogICAgICBmaWxlOiAnZjktZjk2YmYyZDJkOTNjMzUzMGQ1ZWIxNDhmNTUyMDZmYjEuZ2lmJwogICAgfSk7CiAgICBhc3NlcnQub2soYnlJZD8uYnVmZmVyPy5sZW5ndGgsICflj6rmnIkgZW1vamlfaWQg5pe25Lmf6KaB6IO95Y+W5YiwJyk7CiAgICBhc3NlcnQuZXF1YWwoCiAgICAgIGZldGNoZWQuYXQoLTEpLAogICAgICAnaHR0cHM6Ly9neGgudmlwLnFxLmNvbS9jbHViL2l0ZW0vcGFyY2VsL2l0ZW0vZjkvZjk2YmYyZDJkOTNjMzUzMGQ1ZWIxNDhmNTUyMDZmYjEvcmF3MzAwLmdpZicsCiAgICAgICflv4XpobvmjIkgZW1vamlfaWQg5o6o5Ye6IENETiDlnLDlnYAnCiAgICApOwoKICAgIC8vIOKRoWIg6L+eIGVtb2ppX2lkIOmDveayoeacieOAgeWPquacieaWh+S7tuWQje+8muS7jiBgPOWJjeS4pOS9jT4tPDMyIOS9jSBoZXg+LmdpZmAg6L+Y5Y6fCiAgICBjb25zdCBieUZpbGUgPSBhd2FpdCBoLmZldGNoT25lQm90SW1hZ2UoewogICAgICBraW5kOiAnaW1hZ2UnLAogICAgICBzdWJUeXBlOiAnMCcsCiAgICAgIGZpbGU6ICdmOS1mOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS5naWYnCiAgICB9KTsKICAgIGFzc2VydC5vayhieUZpbGU/LmJ1ZmZlcj8ubGVuZ3RoLCAn5Y+q5pyJ5paH5Lu25ZCN5pe25Lmf6KaB6IO95o6o5Ye6IENETiDlnLDlnYAnKTsKICAgIGFzc2VydC5lcXVhbCgKICAgICAgZmV0Y2hlZC5hdCgtMSksCiAgICAgICdodHRwczovL2d4aC52aXAucXEuY29tL2NsdWIvaXRlbS9wYXJjZWwvaXRlbS9mOS9mOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS9yYXczMDAuZ2lmJywKICAgICAgJ+W/hemhu+iDveS7juaWh+S7tuWQjei/mOWOnyBlbW9qaV9pZCcKICAgICk7CgogICAgLy8g4pGiIOaZrumAmuWbvueJh++8iOaciSBmaWxl77yJ77yaZ2V0X2ltYWdlIOS8mOWFiO+8jOS4jei1sCBDRE4KICAgIGNvbnN0IGJlZm9yZSA9IGZldGNoZWQubGVuZ3RoOwogICAgY29uc3QgaW1hZ2UgPSBhd2FpdCBoLmZldGNoT25lQm90SW1hZ2UoeyBraW5kOiAnaW1hZ2UnLCBmaWxlOiAnYWJjLmpwZycgfSk7CiAgICBhc3NlcnQub2soaW1hZ2U/LmJ1ZmZlcj8ubGVuZ3RoKTsKICAgIGFzc2VydC5kZWVwRXF1YWwoaC5jYWxscy5pbWFnZXMsIFsnYWJjLmpwZyddKTsKICAgIGFzc2VydC5lcXVhbChmZXRjaGVkLmxlbmd0aCwgYmVmb3JlLCAn5pmu6YCa5Zu+54mH5LiN5bqU6aKd5aSW5oqTIFVSTCcpOwogIH0gZmluYWxseSB7IGF3YWl0IGguY2xvc2UoKTsgfQp9KTsKCmF3YWl0IHRlc3QoJ2Vtb2ppQ2RuQ2FuZGlkYXRlcyDlj6rmjqXlj5fljYHlha3ov5vliLYgaWTvvIjpmLLku7vmhI8gVVJMIOaLvOaOpe+8iScsIGFzeW5jICgpID0+IHsKICBjb25zdCBoID0gYXdhaXQgYnJpZGdlSGFybmVzcygpOwogIHRyeSB7CiAgICBjb25zdCB2YWxpZCA9IGguZW1vamlDZG5DYW5kaWRhdGVzKCdmOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMScpOwogICAgYXNzZXJ0LmVxdWFsKHZhbGlkLmxlbmd0aCwgMSk7CiAgICBhc3NlcnQuZXF1YWwodmFsaWRbMF0sICdodHRwczovL2d4aC52aXAucXEuY29tL2NsdWIvaXRlbS9wYXJjZWwvaXRlbS9mOS9mOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS9yYXczMDAuZ2lmJyk7CiAgICBmb3IgKGNvbnN0IGJhZCBvZiBbJycsICdhYmMnLCAnLi4vLi4vZXRjL3Bhc3N3ZCcsICdmOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMS8uLi8uLi94JywgJ+S4reaWhycsIG51bGxdKSB7CiAgICAgIGFzc2VydC5lcXVhbChoLmVtb2ppQ2RuQ2FuZGlkYXRlcyhiYWQpLmxlbmd0aCwgMCwgYOmdnuazlSBlbW9qaV9pZCDkuI3lvpfmi7wgVVJM77yaJHtiYWR9YCk7CiAgICB9CiAgfSBmaW5hbGx5IHsgYXdhaXQgaC5jbG9zZSgpOyB9Cn0pOwoKYXdhaXQgdGVzdCgnZmV0Y2hNZWRpYURhdGEg5qCH5rOo6KGo5oOFL+WbvueJh++8jOW5tuS/neeVmSBzdW1tYXJ5IOS4jiBlbW9qaUlkJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGggPSBhd2FpdCBicmlkZ2VIYXJuZXNzKHsKICAgIGdsb2JhbHM6IHsKICAgICAgc2FmZUZldGNoQnVmZmVyOiBhc3luYyAodXJsKSA9PiB7CiAgICAgICAgaWYgKFN0cmluZyh1cmwpLmluY2x1ZGVzKCdneGgudmlwLnFxLmNvbScpKSByZXR1cm4geyBidWZmZXI6IEdJRiwgbWltZVR5cGU6ICdpbWFnZS9naWYnIH07CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKCfnvZHnu5zkuI3lj6/nlKgnKTsKICAgICAgfQogICAgfQogIH0pOwogIHRyeSB7CiAgICBjb25zdCBvdXQgPSBhd2FpdCBoLmZldGNoTWVkaWFEYXRhKFsKICAgICAgeyBraW5kOiAnc3RpY2tlcicsIGVtb2ppSWQ6ICdmOTZiZjJkMmQ5M2MzNTMwZDVlYjE0OGY1NTIwNmZiMScsIHN1bW1hcnk6ICdb57uZ5L2g57OW5ZCDXScgfQogICAgXSk7CiAgICBhc3NlcnQuZXF1YWwob3V0Lmxlbmd0aCwgMSk7CiAgICBhc3NlcnQuZXF1YWwob3V0WzBdLmtpbmQsICdzdGlja2VyJyk7CiAgICBhc3NlcnQuZXF1YWwob3V0WzBdLnN1bW1hcnksICdb57uZ5L2g57OW5ZCDXScpOwogICAgYXNzZXJ0LmVxdWFsKG91dFswXS5lbW9qaUlkLCAnZjk2YmYyZDJkOTNjMzUzMGQ1ZWIxNDhmNTUyMDZmYjEnKTsKICAgIGFzc2VydC5vayhvdXRbMF0uZGF0YT8ubGVuZ3RoLCAn5bqU5bimIGJhc2U2NCDlm77niYfmlbDmja4nKTsKICAgIGFzc2VydC5lcXVhbChvdXRbMF0udGV4dCwgJycpOwoKICAgIGguYm90LmdldEltYWdlID0gYXN5bmMgKCkgPT4geyB0aHJvdyBuZXcgRXJyb3IoJ2ltYWdlIG5vdCBmb3VuZCBpbiBjYWNoZScpOyB9OwogICAgY29uc3QgZmFpbGVkID0gYXdhaXQgaC5mZXRjaE1lZGlhRGF0YShbeyBraW5kOiAnaW1hZ2UnLCBmaWxlOiAnYWJjLmpwZycsIHVybDogJ2h0dHBzOi8vbXVsdGltZWRpYS5udC5xcS5jb20uY24veCcgfV0pOwogICAgYXNzZXJ0LmVxdWFsKGZhaWxlZFswXS5raW5kLCAnaW1hZ2UnKTsKICAgIGFzc2VydC5tYXRjaChTdHJpbmcoZmFpbGVkWzBdLnRleHQpLCAv5Zu+54mH6I635Y+W5aSx6LSlLywgJ+Wksei0peW/hemhu+aYjuehruagh+azqOS4uuWbvueJhycpOwogIH0gZmluYWxseSB7IGF3YWl0IGguY2xvc2UoKTsgfQp9KTsKCmF3YWl0IHRlc3QoJ2dldEltYWdlRGltZW5zaW9ucyAvIGFjY2VwdEltYWdlQnVmZmVyIOimhuebliBHSUYg5LiOIFdlYlDvvIzlubbmi6bmiKrpnZ7lm77niYcnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgaCA9IGF3YWl0IGJyaWRnZUhhcm5lc3MoKTsKICB0cnkgewogICAgY29uc3QgZ2lmID0gaC5nZXRJbWFnZURpbWVuc2lvbnMoR0lGKTsKICAgIGFzc2VydC5lcXVhbChnaWY/LndpZHRoLCAxKTsKICAgIGFzc2VydC5lcXVhbChnaWY/LmhlaWdodCwgMSk7CiAgICBjb25zdCB3ZWJwID0gaC5nZXRJbWFnZURpbWVuc2lvbnMoV0VCUF9WUDhYKTsKICAgIGFzc2VydC5lcXVhbCh3ZWJwPy53aWR0aCwgMTkyMCk7CiAgICBhc3NlcnQuZXF1YWwod2VicD8uaGVpZ2h0LCAxMDgwKTsKICAgIGFzc2VydC5vayhoLmFjY2VwdEltYWdlQnVmZmVyKEdJRiwgJ2dpZicpLCAnR0lGIOW/hemhu+mAmui/hycpOwogICAgYXNzZXJ0Lm9rKGguYWNjZXB0SW1hZ2VCdWZmZXIoV0VCUF9WUDhYLCAnd2VicCcpLCAnV2ViUCDlv4XpobvpgJrov4cnKTsKICAgIGFzc2VydC5lcXVhbChoLmFjY2VwdEltYWdlQnVmZmVyKEJ1ZmZlci5mcm9tKCdub3QgYW4gaW1hZ2UgYXQgYWxsJykpLCBudWxsLCAn6Z2e5Zu+54mH5b+F6aG75ouS57udJyk7CiAgfSBmaW5hbGx5IHsgYXdhaXQgaC5jbG9zZSgpOyB9Cn0pOwoKLy8g4pSA4pSAIOaQnOe0ou+8mumFjee9riAvIOWHreaNriAvIOe7k+aenOaYoOWwhCAvIOino+aekCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKYXdhaXQgdGVzdCgnbG9hZFNlYXJjaENvbmZpZyDpu5jorqTlgLzkuI7otornlYzmlLbmlZsnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgZGlyID0gZnMubWtkdGVtcFN5bmMocGF0aC5qb2luKG9zLnRtcGRpcigpLCAncXEtc2VhcmNoLWNmZy0nKSk7CiAgdHJ5IHsKICAgIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKGRpciwgJ2NvbmZpZy5qc29uJyksIEpTT04uc3RyaW5naWZ5KHsKICAgICAgd2ViU2VhcmNoOiB7IHByb3ZpZGVyOiAnYmluZycsIG1heFJlc3VsdHM6IDk5LCBtYXhVc2VzOiA5LCB0aW1lb3V0TXM6IDEsIGFwaUtleUVudjogJyBNWV9LRVkgJyB9CiAgICB9KSk7CiAgICBjb25zdCBjZmcgPSBsb2FkU2VhcmNoQ29uZmlnKGRpcik7CiAgICBhc3NlcnQuZXF1YWwoY2ZnLnByb3ZpZGVyLCAnYmluZycpOwogICAgYXNzZXJ0LmVxdWFsKGNmZy5tYXhSZXN1bHRzLCAyMCwgJ21heFJlc3VsdHMg5LiK6ZmQIDIwJyk7CiAgICBhc3NlcnQuZXF1YWwoY2ZnLm1heFVzZXMsIDUsICdtYXhVc2VzIOS4iumZkCA1Jyk7CiAgICBhc3NlcnQuZXF1YWwoY2ZnLnRpbWVvdXRNcywgNTAwMCwgJ3RpbWVvdXRNcyDkuIvpmZAgNXMnKTsKICAgIGFzc2VydC5lcXVhbChjZmcuYXBpS2V5RW52LCAnTVlfS0VZJyk7CiAgICBhc3NlcnQuZXF1YWwoY2ZnLm1vZGVsLCAnZGVlcHNlZWstdjQtZmxhc2gnKTsKCiAgICBmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbihkaXIsICdjb25maWcuanNvbicpLCBKU09OLnN0cmluZ2lmeSh7IHdlYlNlYXJjaDogeyBwcm92aWRlcjogJ25vbnNlbnNlJyB9IH0pKTsKICAgIGFzc2VydC5lcXVhbChsb2FkU2VhcmNoQ29uZmlnKGRpcikucHJvdmlkZXIsICdhdXRvJywgJ+acquefpSBwcm92aWRlciDlm57pgIAgYXV0bycpOwogICAgZnMud3JpdGVGaWxlU3luYyhwYXRoLmpvaW4oZGlyLCAnY29uZmlnLmpzb24nKSwgJ3ticm9rZW4ganNvbicpOwogICAgYXNzZXJ0LmVxdWFsKGxvYWRTZWFyY2hDb25maWcoZGlyKS5wcm92aWRlciwgJ2F1dG8nLCAn5Z2P6YWN572u5LiN5b6X6K6p5pCc57Si5bSp5rqDJyk7CiAgfSBmaW5hbGx5IHsgZnMucm1TeW5jKGRpciwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOyB9Cn0pOwoKYXdhaXQgdGVzdCgncmVzb2x2ZVNlYXJjaEFwaUtleSDnmoTkvJjlhYjnuqfvvJpjb25maWcgPiBlbnYgPiBEU0gg5Yet5o2uJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGhvbWUgPSBmcy5ta2R0ZW1wU3luYyhwYXRoLmpvaW4ob3MudG1wZGlyKCksICdxcS1kc2gtaG9tZS0nKSk7CiAgY29uc3Qgb2xkSG9tZSA9IHByb2Nlc3MuZW52LkRTSF9IT01FOwogIGNvbnN0IG9sZEtleSA9IHByb2Nlc3MuZW52LlFRX1RFU1RfU0VBUkNIX0tFWTsKICB0cnkgewogICAgZnMud3JpdGVGaWxlU3luYyhwYXRoLmpvaW4oaG9tZSwgJy5jcmVkZW50aWFscy55YW1sJyksIFsKICAgICAgJ3ZlcnNpb246IDEnLAogICAgICAncmVmczonLAogICAgICAnICBRUV9URVNUX1NFQVJDSF9LRVk6IHNrLWZyb20tZHNoLWNyZWRlbnRpYWxzJywKICAgICAgJ3JlY29yZHM6IHt9JywKICAgICAgJycKICAgIF0uam9pbignXG4nKSk7CiAgICBwcm9jZXNzLmVudi5EU0hfSE9NRSA9IGhvbWU7CiAgICBkZWxldGUgcHJvY2Vzcy5lbnYuUVFfVEVTVF9TRUFSQ0hfS0VZOwoKICAgIGFzc2VydC5lcXVhbChyZXNvbHZlU2VhcmNoQXBpS2V5KHsgYXBpS2V5RW52OiAnUVFfVEVTVF9TRUFSQ0hfS0VZJyB9KS5zb3VyY2UsICdkc2gtY3JlZGVudGlhbHMnKTsKICAgIGFzc2VydC5lcXVhbChyZWFkRHNoQ3JlZGVudGlhbCgnUVFfVEVTVF9TRUFSQ0hfS0VZJyksICdzay1mcm9tLWRzaC1jcmVkZW50aWFscycpOwoKICAgIHByb2Nlc3MuZW52LlFRX1RFU1RfU0VBUkNIX0tFWSA9ICdzay1mcm9tLWVudic7CiAgICBhc3NlcnQuZGVlcEVxdWFsKHJlc29sdmVTZWFyY2hBcGlLZXkoeyBhcGlLZXlFbnY6ICdRUV9URVNUX1NFQVJDSF9LRVknIH0pLCB7IGtleTogJ3NrLWZyb20tZW52Jywgc291cmNlOiAnZW52JyB9KTsKCiAgICBhc3NlcnQuZGVlcEVxdWFsKAogICAgICByZXNvbHZlU2VhcmNoQXBpS2V5KHsgYXBpS2V5OiAnc2stZnJvbS1jb25maWcnLCBhcGlLZXlFbnY6ICdRUV9URVNUX1NFQVJDSF9LRVknIH0pLAogICAgICB7IGtleTogJ3NrLWZyb20tY29uZmlnJywgc291cmNlOiAnY29uZmlnJyB9CiAgICApOwoKICAgIGRlbGV0ZSBwcm9jZXNzLmVudi5RUV9URVNUX1NFQVJDSF9LRVk7CiAgICBmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbihob21lLCAnLmNyZWRlbnRpYWxzLnlhbWwnKSwgJ3ZlcnNpb246IDFcbnJlZnM6IHt9XG5yZWNvcmRzOiB7fVxuJyk7CiAgICBhc3NlcnQuZXF1YWwocmVzb2x2ZVNlYXJjaEFwaUtleSh7IGFwaUtleUVudjogJ1FRX1RFU1RfU0VBUkNIX0tFWScgfSkuc291cmNlLCAnbm9uZScpOwogIH0gZmluYWxseSB7CiAgICBpZiAob2xkSG9tZSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuRFNIX0hPTUU7IGVsc2UgcHJvY2Vzcy5lbnYuRFNIX0hPTUUgPSBvbGRIb21lOwogICAgaWYgKG9sZEtleSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuUVFfVEVTVF9TRUFSQ0hfS0VZOyBlbHNlIHByb2Nlc3MuZW52LlFRX1RFU1RfU0VBUkNIX0tFWSA9IG9sZEtleTsKICAgIGZzLnJtU3luYyhob21lLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7CiAgfQp9KTsKCmF3YWl0IHRlc3QoJ21hcERlZXBTZWVrUmVzcG9uc2XvvJrljrvph43jgIHljrsgI04g6ZSa54K544CB5byV55So5pGY6KaBJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IHJlc3BvbnNlID0gewogICAgY29udGVudDogWwogICAgICB7IHR5cGU6ICd0aGlua2luZycsIHRoaW5raW5nOiAnLi4uJyB9LAogICAgICB7CiAgICAgICAgdHlwZTogJ3dlYl9zZWFyY2hfdG9vbF9yZXN1bHQnLAogICAgICAgIGNvbnRlbnQ6IFsKICAgICAgICAgIHsgdHlwZTogJ3dlYl9zZWFyY2hfcmVzdWx0JywgdGl0bGU6ICfkvaDnmoTop5LoibLlvaLosaEnLCB1cmw6ICdodHRwczovL2V4YW1wbGUuY29tL2EjMScsIHBhZ2VfYWdlOiAnMjAyNi0xMC0wMScgfSwKICAgICAgICAgIHsgdHlwZTogJ3dlYl9zZWFyY2hfcmVzdWx0JywgdGl0bGU6ICfph43lpI0nLCB1cmw6ICdodHRwczovL2V4YW1wbGUuY29tL2EjMicgfSwKICAgICAgICAgIHsgdHlwZTogJ3dlYl9zZWFyY2hfcmVzdWx0JywgdGl0bGU6ICfkvaDnmoTop5LoibLlvaLosaHvvIjkuozvvIknLCB1cmw6ICdodHRwczovL2V4YW1wbGUuY29tL2InIH0KICAgICAgICBdCiAgICAgIH0sCiAgICAgIHsgdHlwZTogJ3RleHQnLCB0ZXh0OiAn562U5qGIJywgY2l0YXRpb25zOiBbeyB1cmw6ICdodHRwczovL2V4YW1wbGUuY29tL2InLCBjaXRlZF90ZXh0OiAn6L+Z5piv5byV55So54mH5q61JyB9XSB9CiAgICBdCiAgfTsKICBjb25zdCByZXN1bHRzID0gbWFwRGVlcFNlZWtSZXNwb25zZShyZXNwb25zZSwgOCk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdHMubGVuZ3RoLCAyLCAn5ZCM5LiAIFVSTCDlv4Xpobvljrvph40nKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0c1swXS51cmwsICdodHRwczovL2V4YW1wbGUuY29tL2EnLCAn5b+F6aG75Y675o6JICMxIOmUmueCuScpOwogIGFzc2VydC5lcXVhbChyZXN1bHRzWzBdLnB1Ymxpc2hlZEF0LCAnMjAyNi0xMC0wMScpOwogIGFzc2VydC5lcXVhbChyZXN1bHRzWzFdLnNuaXBwZXQsICfov5nmmK/lvJXnlKjniYfmrrUnKTsKICBhc3NlcnQudGhyb3dzKCgpID0+IG1hcERlZXBTZWVrUmVzcG9uc2UoeyBjb250ZW50OiBbeyB0eXBlOiAndGV4dCcsIHRleHQ6ICfmsqHmnInnu5PmnpzlnZcnIH1dIH0pLCAvd2ViX3NlYXJjaF90b29sX3Jlc3VsdC8pOwp9KTsKCmF3YWl0IHRlc3QoJ0JpbmcgUlNTIC8gSFRNTCDop6PmnpDvvJpDREFUQeOAgeWunuS9k+OAgeWOu+mHjeOAgeS4iumZkCcsIGFzeW5jICgpID0+IHsKICBjb25zdCByc3MgPSBgPD94bWwgdmVyc2lvbj0iMS4wIj8+PHJzcz48Y2hhbm5lbD4KICAgIDxpdGVtPjx0aXRsZT48IVtDREFUQVvnrKzkuIDmnaEgJiDmkZjopoFdXT48L3RpdGxlPjxsaW5rPmh0dHBzOi8vZXhhbXBsZS5jb20vMTwvbGluaz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFbPGI+5Yqg57KXPC9iPiDlhoXlrrkgJiN4NGUyZDtdXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT4KICAgIDxpdGVtPjx0aXRsZT7nrKzkuozmnaE8L3RpdGxlPjxsaW5rPmh0dHBzOi8vZXhhbXBsZS5jb20vMjwvbGluaz48ZGVzY3JpcHRpb24+JmFtcDsg6L2s5LmJPC9kZXNjcmlwdGlvbj48L2l0ZW0+CiAgICA8aXRlbT48dGl0bGU+6YeN5aSNPC90aXRsZT48bGluaz5odHRwczovL2V4YW1wbGUuY29tLzE8L2xpbms+PC9pdGVtPgogIDwvY2hhbm5lbD48L3Jzcz5gOwogIGNvbnN0IGZyb21Sc3MgPSBwYXJzZUJpbmdSc3MocnNzLCA4KTsKICBhc3NlcnQuZXF1YWwoZnJvbVJzcy5sZW5ndGgsIDIpOwogIGFzc2VydC5lcXVhbChmcm9tUnNzWzBdLnRpdGxlLCAn56ys5LiA5p2hICYg5pGY6KaBJyk7CiAgYXNzZXJ0LmVxdWFsKGZyb21Sc3NbMF0uc25pcHBldCwgJ+WKoOeylyDlhoXlrrkg5LitJyk7CiAgYXNzZXJ0LmVxdWFsKGZyb21Sc3NbMV0uc25pcHBldCwgJyYg6L2s5LmJJyk7CgogIGNvbnN0IGh0bWwgPSBgPGxpIGNsYXNzPSJiX2FsZ28iPjxoMj48YSBocmVmPSJodHRwczovL2V4YW1wbGUuY29tL3giPlgg5qCH6aKYPC9hPjwvaDI+PHA+WCDmkZjopoE8L3A+PC9saT4KICAgIDxsaSBjbGFzcz0iYl9hbGdvIj48aDI+PGEgaHJlZj0iaHR0cHM6Ly9leGFtcGxlLmNvbS94Ij7ph43lpI08L2E+PC9oMj48cD5kdXA8L3A+PC9saT4KICAgIDxsaSBjbGFzcz0iYl9hbGdvIj48aDI+PGEgaHJlZj0iaHR0cHM6Ly9leGFtcGxlLmNvbS95Ij5ZPC9hPjwvaDI+PHA+WSDmkZjopoE8L3A+PC9saT5gOwogIGNvbnN0IGZyb21IdG1sID0gcGFyc2VCaW5nSHRtbChodG1sLCA4KTsKICBhc3NlcnQuZXF1YWwoZnJvbUh0bWwubGVuZ3RoLCAyKTsKICBhc3NlcnQuZXF1YWwoZnJvbUh0bWxbMF0udXJsLCAnaHR0cHM6Ly9leGFtcGxlLmNvbS94Jyk7CiAgYXNzZXJ0LmVxdWFsKHBhcnNlQmluZ1Jzcyhyc3MsIDEpLmxlbmd0aCwgMSwgJ21heFJlc3VsdHMg5b+F6aG755Sf5pWIJyk7Cn0pOwoKYXdhaXQgdGVzdCgnZGVlcHNlZWtTZWFyY2jvvJrmsqHmnIkga2V5IOaXtuaKpSBOT19LRVnvvJvpnZ4gaHR0cHMg56uv54K555u05o6l5ouS57udJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGhvbWUgPSBmcy5ta2R0ZW1wU3luYyhwYXRoLmpvaW4ob3MudG1wZGlyKCksICdxcS1kc2gtaG9tZTItJykpOwogIGNvbnN0IG9sZEhvbWUgPSBwcm9jZXNzLmVudi5EU0hfSE9NRTsKICBjb25zdCBvbGRLZXkgPSBwcm9jZXNzLmVudi5ERUVQU0VFS19BUElfS0VZOwogIHRyeSB7CiAgICBwcm9jZXNzLmVudi5EU0hfSE9NRSA9IGhvbWU7CiAgICBkZWxldGUgcHJvY2Vzcy5lbnYuREVFUFNFRUtfQVBJX0tFWTsKICAgIGNvbnN0IG5vS2V5ID0gYXdhaXQgZGVlcHNlZWtTZWFyY2goJ+a1i+ivlScsIHsgcHJvdmlkZXI6ICdkZWVwc2VlaycsIGFwaUtleUVudjogJ0RFRVBTRUVLX0FQSV9LRVknIH0pLmNhdGNoKChlKSA9PiBlKTsKICAgIGFzc2VydC5lcXVhbChub0tleT8uY29kZSwgJ05PX0tFWScpOwoKICAgIGNvbnN0IGluc2VjdXJlID0gYXdhaXQgZGVlcHNlZWtTZWFyY2goJ+a1i+ivlScsIHsKICAgICAgcHJvdmlkZXI6ICdkZWVwc2VlaycsCiAgICAgIGFwaUtleTogJ3NrLXRlc3Qtb25seS1mb3ItdW5pdC10ZXN0JywKICAgICAgYmFzZVVSTDogJ2h0dHA6Ly9hcGkuZGVlcHNlZWsuY29tL2FudGhyb3BpYy92MScKICAgIH0pLmNhdGNoKChlKSA9PiBlKTsKICAgIGFzc2VydC5tYXRjaChTdHJpbmcoaW5zZWN1cmU/Lm1lc3NhZ2UpLCAvaHR0cHMvLCAnQVBJIGtleSDkuI3lhYHorrjlj5HlvoAgaHR0cCDnq6/ngrknKTsKCiAgICBjb25zdCBwcml2YXRlSG9zdCA9IGF3YWl0IGRlZXBzZWVrU2VhcmNoKCfmtYvor5UnLCB7CiAgICAgIHByb3ZpZGVyOiAnZGVlcHNlZWsnLAogICAgICBhcGlLZXk6ICdzay10ZXN0LW9ubHktZm9yLXVuaXQtdGVzdCcsCiAgICAgIGJhc2VVUkw6ICdodHRwczovLzEyNy4wLjAuMS9hbnRocm9waWMvdjEnCiAgICB9KS5jYXRjaCgoZSkgPT4gZSk7CiAgICBhc3NlcnQubWF0Y2goU3RyaW5nKHByaXZhdGVIb3N0Py5tZXNzYWdlKSwgL+WGhee9kXzmnKzmnLp856aB5q2iLywgJ0FQSSBrZXkg5LiN5YWB6K645Y+R5b6A5YaF572RL+acrOacuuerr+eCuScpOwogIH0gZmluYWxseSB7CiAgICBpZiAob2xkSG9tZSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuRFNIX0hPTUU7IGVsc2UgcHJvY2Vzcy5lbnYuRFNIX0hPTUUgPSBvbGRIb21lOwogICAgaWYgKG9sZEtleSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuREVFUFNFRUtfQVBJX0tFWTsgZWxzZSBwcm9jZXNzLmVudi5ERUVQU0VFS19BUElfS0VZID0gb2xkS2V5OwogICAgZnMucm1TeW5jKGhvbWUsIHsgcmVjdXJzaXZlOiB0cnVlLCBmb3JjZTogdHJ1ZSB9KTsKICB9Cn0pOwoKYXdhaXQgdGVzdCgnd2ViU2VhcmNo77yacHJvdmlkZXI9ZGVlcHNlZWsg5LiU5pegIGtleSDml7bkuI3pnZnpu5jlm57pgIDvvIjmmI7noa7miqXplJnvvIknLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgaG9tZSA9IGZzLm1rZHRlbXBTeW5jKHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3FxLWRzaC1ob21lMy0nKSk7CiAgY29uc3Qgb2xkSG9tZSA9IHByb2Nlc3MuZW52LkRTSF9IT01FOwogIGNvbnN0IG9sZEtleSA9IHByb2Nlc3MuZW52LkRFRVBTRUVLX0FQSV9LRVk7CiAgdHJ5IHsKICAgIHByb2Nlc3MuZW52LkRTSF9IT01FID0gaG9tZTsKICAgIGRlbGV0ZSBwcm9jZXNzLmVudi5ERUVQU0VFS19BUElfS0VZOwogICAgY2xlYXJTZWFyY2hDYWNoZSgpOwogICAgY29uc3QgZXJyb3IgPSBhd2FpdCB3ZWJTZWFyY2goJ+a1i+ivlScsIHsKICAgICAgcm9vdDogUk9PVCwKICAgICAgcHJvdmlkZXI6ICdkZWVwc2VlaycsCiAgICAgIGNvbmZpZzogeyBwcm92aWRlcjogJ2RlZXBzZWVrJywgYXBpS2V5OiAnJywgYXBpS2V5RW52OiAnREVFUFNFRUtfQVBJX0tFWScgfQogICAgfSkuY2F0Y2goKGUpID0+IGUpOwogICAgYXNzZXJ0LmVxdWFsKGVycm9yPy5jb2RlLCAnTk9fS0VZJywgJ+aYvuW8j+aMh+WumiBkZWVwc2VlayDml7bkuI3og73mgoTmgoTlm57pgIAgQmluZycpOwogIH0gZmluYWxseSB7CiAgICBpZiAob2xkSG9tZSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuRFNIX0hPTUU7IGVsc2UgcHJvY2Vzcy5lbnYuRFNIX0hPTUUgPSBvbGRIb21lOwogICAgaWYgKG9sZEtleSA9PT0gdW5kZWZpbmVkKSBkZWxldGUgcHJvY2Vzcy5lbnYuREVFUFNFRUtfQVBJX0tFWTsgZWxzZSBwcm9jZXNzLmVudi5ERUVQU0VFS19BUElfS0VZID0gb2xkS2V5OwogICAgZnMucm1TeW5jKGhvbWUsIHsgcmVjdXJzaXZlOiB0cnVlLCBmb3JjZTogdHJ1ZSB9KTsKICB9Cn0pOwoKYXdhaXQgdGVzdCgnTUNQIOacjeWKoeWZqOWkjeeUqCB3ZWItc2VhcmNoIOaooeWdl++8iOS4jeWGjeiHquW3seaKkyBCaW5nIEhUTUzvvIknLCBhc3luYyAoKSA9PiB7CiAgY29uc3Qgc291cmNlID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnc3JjJywgJ21jcC13ZWItc2VhcmNoLXNhZmUuanMnKSwgJ3V0ZjgnKTsKICBhc3NlcnQubWF0Y2goc291cmNlLCAvZnJvbSAnXC5cL3dlYi1zZWFyY2hcLmpzJy8sICdNQ1Ag5b+F6aG75aSN55So57uf5LiA5pCc57Si5qih5Z2XJyk7CiAgYXNzZXJ0Lm1hdGNoKHNvdXJjZSwgL3dlYlNlYXJjaFwoLywgJ01DUCDlv4XpobvosIPnlKggd2ViU2VhcmNoKCknKTsKICBhc3NlcnQub2soIS9iX2FsZ28vLnRlc3Qoc291cmNlKSwgJ01DUCDph4zkuI3lvpflho3mnInkuIDku70gQmluZyBIVE1MIOino+aekO+8iOS8muS4juaooeWdl+WunueOsOa8guenu++8iScpOwogIGFzc2VydC5vayghL2JpbmdTZWFyY2gvLnRlc3Qoc291cmNlKSwgJ01DUCDph4zkuI3lvpflho3mnInkuIDku70gYmluZ1NlYXJjaCDlrp7njrAnKTsKfSk7Cgphd2FpdCB0ZXN0KCdzYWZlLWZldGNo77ya5aSa5Zyw5Z2A5pe25oyJIElQdjQg5LyY5YWI5bm25Zyo5aSx6LSl5ZCO5YiH5o2iJywgYXN5bmMgKCkgPT4gewogIC8vIOebtOaOpemqjOivgee6r+WHveaVsO+8iOS4jeiBlOe9ke+8ie+8muS4gOS4qiBJUHY2IOWcqOWJjeOAgUlQdjQg5Zyo5ZCO55qE5bqU562U77yM5b+F6aG75o6S5Ye6IElQdjQg5LyY5YWI55qE6aG65bqP44CCCiAgY29uc3QgeyBkZWZhdWx0OiBkbnMgfSA9IGF3YWl0IGltcG9ydCgnbm9kZTpkbnMnKTsKICBjb25zdCBvcmlnaW5hbCA9IGRucy5wcm9taXNlcy5sb29rdXA7CiAgZG5zLnByb21pc2VzLmxvb2t1cCA9IGFzeW5jICgpID0+IChbCiAgICB7IGFkZHJlc3M6ICcyNDA4Ojg3NTY6ZjUwOjQ6OjE3JywgZmFtaWx5OiA2IH0sCiAgICB7IGFkZHJlc3M6ICcxMTYuMTYyLjQ1LjE0JywgZmFtaWx5OiA0IH0KICBdKTsKICB0cnkgewogICAgLy8g55So5Yqo5oCBIGltcG9ydCDmi7/liLAi55So6L+Z5Lu9IEROUyDmoanop6PmnpAi55qE5a6e5L6L77ya5qih5Z2X5Zyo5a+85YWl5pe25o2V6I63IGxvb2t1cCDlvJXnlKjvvIwKICAgIC8vIOaJgOS7peWFiOabv+aNouWGjeWvvOWFpe+8iOS4jiB0ZXN0LWF1ZGl0LXNlY3VyaXR5IOeahOWBmuazleS4gOiHtO+8ieOAggogICAgY29uc3QgbW9kID0gYXdhaXQgaW1wb3J0KGAuLi9zcmMvc2FmZS1mZXRjaC5qcz9mYWlsb3Zlcj0ke0RhdGUubm93KCl9YCk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKGF3YWl0IG1vZC5yZXNvbHZlU2FmZUFkZHJlc3NlcygncC5xcGljLmNuJyksIFsnMTE2LjE2Mi40NS4xNCcsICcyNDA4Ojg3NTY6ZjUwOjQ6OjE3J10pOwogIH0gZmluYWxseSB7CiAgICBkbnMucHJvbWlzZXMubG9va3VwID0gb3JpZ2luYWw7CiAgfQp9KTsKCi8vIOKUgOKUgCDmkJzntKLvvJrnqbrnu5Pmnpwgbm90ZSDlv4Xpobvov5vlhaXnvJPlrZjvvIjlkKbliJkgNSDliIbpkp/lhoXph43lpI3mn6Xor6Lmi7/kuI3liLDmj5DnpLrvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACi8vIOS4jeiDveecn+iBlOe9ke+8jOaJgOS7pei/memHjOaYryoq57uT5p6E5pat6KiAKirvvJpub3RlIOi1sOeahOaYryBgdmFsdWUgPSB7Li4udmFsdWUsIG5vdGV9YO+8iOaWsOW7uuWvueixoe+8ie+8jAovLyDogIznvJPlrZjlrZjnmoTmmK/lvJXnlKjvvJvlhYggY2FjaGUuc2V0IOWGjeWKoCBub3RlIOKHkiDlkb3kuK3nvJPlrZjml7bmi7/liLDnmoTmraPmmK/pgqPkuKrmsqHmnIkgbm90ZSDnmoTml6flr7nosaHvvIwKLy8g6ICM44CM5ZCM5LiA5Y+lIHF1ZXJ5IOi/nuedgOmXruWHoOasoeOAjeaBsOaBsOaYr+aooeWei+acgOWuueaYk+W8gOWni+mHjeivleeahOWcuuaZr++8iGlzc3VlICMxNyDnmoTkv67lpI3ngrnvvInjgIIKYXdhaXQgdGVzdCgnd2ViU2VhcmNo77ya56m657uT5p6c5o+Q56S65Zyo5YaZ57yT5a2Y5LmL5YmN55Sf5oiQ77yI57yT5a2Y5ZG95Lit5Lmf6KaB5bimIG5vdGXvvIknLCBhc3luYyAoKSA9PiB7CiAgY29uc3Qgc291cmNlID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnc3JjJywgJ3dlYi1zZWFyY2guanMnKSwgJ3V0ZjgnKTsKICBjb25zdCBub3RlQXQgPSBzb3VyY2UuaW5kZXhPZign5rKh5pyJ5pCc5Yiw57uT5p6cJyk7CiAgY29uc3QgY2FjaGVBdCA9IHNvdXJjZS5pbmRleE9mKCdjYWNoZS5zZXQoY2FjaGVLZXknKTsKICBhc3NlcnQub2sobm90ZUF0ID4gMCwgJ3dlYlNlYXJjaCDlv4Xpobvnu5nnqbrnu5PmnpzpmYQgbm90ZScpOwogIGFzc2VydC5vayhjYWNoZUF0ID4gMCwgJ3dlYlNlYXJjaCDlv4XpobvmnIkgNSDliIbpkp/mn6Xor6LnvJPlrZgnKTsKICBhc3NlcnQub2sobm90ZUF0IDwgY2FjaGVBdCwgJ25vdGUg5b+F6aG75ZyoIGNhY2hlLnNldCDkuYvliY3nlJ/miJDvvJrnvJPlrZjlrZjnmoTmmK8gdmFsdWUg55qE5byV55So77yM5Y+N6L+H5p2l5YaZ5Lya6K6p57yT5a2Y5ZG95Lit5Lii5o6J5o+Q56S6Jyk7Cn0pOwoKaWYgKGZhaWx1cmVzKSB7CiAgY29uc29sZS5lcnJvcihgXG4ke2ZhaWx1cmVzfSDpobnlpLHotKVgKTsKICBwcm9jZXNzLmV4aXRDb2RlID0gMTsKfSBlbHNlIHsKICBjb25zb2xlLmxvZygnXG7lhajpg6jpgJrov4cnKTsKfQo=
+// 图片/表情链路 + 联网搜索的离线回归。
+//
+// 背景（真实故障，见 2026-10-17 的会话日志）：
+//   1. QQ 表情包的 CDN（gxh.vip.qq.com / p.qpic.cn / multimedia.nt.qq.com.cn）同时有
+//      AAAA/A 记录，而本机只有 IPv4 出口 —— 抢到 AAAA 的那次请求会一直等到 20s 超时，
+//      于是「部分表情包发不出去 / 图片时好时坏」。修复在 safe-fetch 的地址故障切换。
+//   2. 表情包字段（emoji_id/url/summary）以前被丢弃，get_image 对市场表情必然失败后
+//      就没有任何兜底；现在保留字段、表情优先走 CDN、并支持用 emoji_id 推 CDN 地址。
+//   3. 搜索以前是抓 Bing HTML（结果空/噪声大、部分 query 直接退化）；现在优先复用
+//      DSH 同一路 DeepSeek 联网搜索，Bing RSS 仅作兜底。
+//
+// 本文件不访问网络：CDN 下载用注入的 safeFetchBuffer 桩，搜索只测纯函数与参数校验。
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { bridgeHarness } from './audit-bridge-harness.mjs';
+import {
+  bingSearch,
+  clearSearchCache,
+  deepseekSearch,
+  loadSearchConfig,
+  mapDeepSeekResponse,
+  parseBingHtml,
+  parseBingRss,
+  readDshCredential,
+  resolveSearchApiKey,
+  webSearch
+} from '../src/web-search.js';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+let failures = 0;
+async function test(name, run) {
+  try { await run(); console.log('PASS', name); }
+  catch (error) { failures++; console.error('FAIL', name, '—', error?.stack ?? error); }
+}
+
+// 1×1 GIF / PNG / WebP（足够通过签名与尺寸解析）
+const GIF = Buffer.from('47494638396101000100800000ffffff00000021f90401000000002c00000000010001000002024401003b', 'hex');
+const PNG = Buffer.from('89504e470d0a1a0a0000000d49484452000000010000000108060000001f15c4890000000a49444154789c6300010000050001', 'hex');
+const WEBP_VP8X = (() => {
+  const buf = Buffer.alloc(40);
+  buf.write('RIFF', 0, 'ascii');
+  buf.writeUInt32LE(32, 4);
+  buf.write('WEBP', 8, 'ascii');
+  buf.write('VP8X', 12, 'ascii');
+  buf.writeUInt32LE(10, 16);
+  // width-1 = 1919 (0x77f), height-1 = 1079 (0x437)，24 位小端
+  buf[24] = 0x7f; buf[25] = 0x07; buf[26] = 0x00;
+  buf[27] = 0x37; buf[28] = 0x04; buf[29] = 0x00;
+  return buf;
+})();
+
+// ── 消息段 → 媒体元数据 ─────────────────────────────────────────────────────
+await test('extractMediaFromSegments 保留表情包字段（image / mface / face）', async () => {
+  const h = await bridgeHarness();
+  try {
+    const media = h.extractMediaFromSegments([
+      {
+        type: 'image',
+        data: {
+          file: 'f9-f96bf2d2d93c3530d5eb148f55206fb1.gif',
+          url: 'https://gxh.vip.qq.com/club/item/parcel/item/f9/f96bf2d2d93c3530d5eb148f55206fb1/raw300.gif',
+          summary: '[给你糖吃]',
+          sub_type: 0,
+          emoji_id: 'f96bf2d2d93c3530d5eb148f55206fb1',
+          emoji_package_id: 242139,
+          key: 'a39bbb09c7d85d41'
+        }
+      },
+      {
+        type: 'mface',
+        data: { emoji_id: 'abcdef0123456789abcdef0123456789', url: 'https://gxh.vip.qq.com/x.gif', summary: '[动画表情]' }
+      },
+      { type: 'face', data: { id: '178', url: 'https://example.invalid/f.png', summary: 'doge' } },
+      { type: 'text', data: { text: '普通文字' } }
+    ]);
+    assert.equal(media.length, 3);
+    assert.equal(media[0].kind, 'image');
+    assert.equal(media[0].emojiId, 'f96bf2d2d93c3530d5eb148f55206fb1', 'emoji_id 必须保留（否则失去 CDN 兜底）');
+    assert.equal(media[0].emojiPackageId, '242139');
+    assert.equal(media[0].emojiKey, 'a39bbb09c7d85d41');
+    assert.equal(media[0].subType, '0');
+    assert.equal(media[0].summary, '[给你糖吃]');
+    assert.equal(media[1].kind, 'sticker', 'mface 必须被识别为表情包');
+    assert.equal(media[1].emojiId, 'abcdef0123456789abcdef0123456789');
+    assert.equal(media[1].subType, '1');
+    assert.equal(media[2].kind, 'face');
+    assert.equal(media[2].faceId, '178');
+    assert.equal(media[2].url, 'https://example.invalid/f.png');
+
+    assert.equal(await h.segmentsToText([{ type: 'mface', data: { summary: '给你糖吃' } }]), '[表情:给你糖吃]');
+  } finally { await h.close(); }
+});
+
+// ── 表情包下载：CDN 优先、emoji_id 兜底、普通图片仍走 get_image ──────────────
+await test('fetchOneBotImage 表情优先 CDN，普通图片优先 get_image', async () => {
+  const fetched = [];
+  const h = await bridgeHarness({
+    globals: {
+      safeFetchBuffer: async (url) => { fetched.push(String(url)); return { buffer: GIF, mimeType: 'image/gif' }; }
+    }
+  });
+  try {
+    // ① 表情（有 url）：不调用 get_image，直接抓 CDN
+    const sticker = await h.fetchOneBotImage({
+      kind: 'sticker',
+      url: 'https://gxh.vip.qq.com/club/item/parcel/item/f9/f96bf2d2d93c3530d5eb148f55206fb1/raw300.gif'
+    });
+    assert.ok(sticker?.buffer?.length, '表情必须取到字节');
+    assert.equal(sticker.mimeType, 'image/gif');
+    assert.equal(fetched.at(-1), 'https://gxh.vip.qq.com/club/item/parcel/item/f9/f96bf2d2d93c3530d5eb148f55206fb1/raw300.gif');
+    assert.equal(h.calls.images.length, 0, '表情有 URL 时不应先问网关 get_image（市场表情必然 not found）');
+
+    // ② 表情（没有 url，只有 emoji_id）：按 emoji_id 推 CDN 地址兜底
+    const byId = await h.fetchOneBotImage({
+      kind: 'image',
+      subType: '0',
+      emojiId: 'f96bf2d2d93c3530d5eb148f55206fb1',
+      file: 'f9-f96bf2d2d93c3530d5eb148f55206fb1.gif'
+    });
+    assert.ok(byId?.buffer?.length, '只有 emoji_id 时也要能取到');
+    assert.equal(
+      fetched.at(-1),
+      'https://gxh.vip.qq.com/club/item/parcel/item/f9/f96bf2d2d93c3530d5eb148f55206fb1/raw300.gif',
+      '必须按 emoji_id 推出 CDN 地址'
+    );
+
+    // ②b 连 emoji_id 都没有、只有文件名：从 `<前两位>-<32 位 hex>.gif` 还原
+    const byFile = await h.fetchOneBotImage({
+      kind: 'image',
+      subType: '0',
+      file: 'f9-f96bf2d2d93c3530d5eb148f55206fb1.gif'
+    });
+    assert.ok(byFile?.buffer?.length, '只有文件名时也要能推出 CDN 地址');
+    assert.equal(
+      fetched.at(-1),
+      'https://gxh.vip.qq.com/club/item/parcel/item/f9/f96bf2d2d93c3530d5eb148f55206fb1/raw300.gif',
+      '必须能从文件名还原 emoji_id'
+    );
+
+    // ③ 普通图片（有 file）：get_image 优先，不走 CDN
+    const before = fetched.length;
+    const image = await h.fetchOneBotImage({ kind: 'image', file: 'abc.jpg' });
+    assert.ok(image?.buffer?.length);
+    assert.deepEqual(h.calls.images, ['abc.jpg']);
+    assert.equal(fetched.length, before, '普通图片不应额外抓 URL');
+  } finally { await h.close(); }
+});
+
+await test('emojiCdnCandidates 只接受十六进制 id（防任意 URL 拼接）', async () => {
+  const h = await bridgeHarness();
+  try {
+    const valid = h.emojiCdnCandidates('f96bf2d2d93c3530d5eb148f55206fb1');
+    assert.equal(valid.length, 1);
+    assert.equal(valid[0], 'https://gxh.vip.qq.com/club/item/parcel/item/f9/f96bf2d2d93c3530d5eb148f55206fb1/raw300.gif');
+    for (const bad of ['', 'abc', '../../etc/passwd', 'f96bf2d2d93c3530d5eb148f55206fb1/../../x', '中文', null]) {
+      assert.equal(h.emojiCdnCandidates(bad).length, 0, `非法 emoji_id 不得拼 URL：${bad}`);
+    }
+  } finally { await h.close(); }
+});
+
+await test('fetchMediaData 标注表情/图片，并保留 summary 与 emojiId', async () => {
+  const h = await bridgeHarness({
+    globals: {
+      safeFetchBuffer: async (url) => {
+        if (String(url).includes('gxh.vip.qq.com')) return { buffer: GIF, mimeType: 'image/gif' };
+        throw new Error('网络不可用');
+      }
+    }
+  });
+  try {
+    const out = await h.fetchMediaData([
+      { kind: 'sticker', emojiId: 'f96bf2d2d93c3530d5eb148f55206fb1', summary: '[给你糖吃]' }
+    ]);
+    assert.equal(out.length, 1);
+    assert.equal(out[0].kind, 'sticker');
+    assert.equal(out[0].summary, '[给你糖吃]');
+    assert.equal(out[0].emojiId, 'f96bf2d2d93c3530d5eb148f55206fb1');
+    assert.ok(out[0].data?.length, '应带 base64 图片数据');
+    assert.equal(out[0].text, '');
+
+    h.bot.getImage = async () => { throw new Error('image not found in cache'); };
+    const failed = await h.fetchMediaData([{ kind: 'image', file: 'abc.jpg', url: 'https://multimedia.nt.qq.com.cn/x' }]);
+    assert.equal(failed[0].kind, 'image');
+    assert.match(String(failed[0].text), /图片获取失败/, '失败必须明确标注为图片');
+  } finally { await h.close(); }
+});
+
+await test('getImageDimensions / acceptImageBuffer 覆盖 GIF 与 WebP，并拦截非图片', async () => {
+  const h = await bridgeHarness();
+  try {
+    const gif = h.getImageDimensions(GIF);
+    assert.equal(gif?.width, 1);
+    assert.equal(gif?.height, 1);
+    const webp = h.getImageDimensions(WEBP_VP8X);
+    assert.equal(webp?.width, 1920);
+    assert.equal(webp?.height, 1080);
+    assert.ok(h.acceptImageBuffer(GIF, 'gif'), 'GIF 必须通过');
+    assert.ok(h.acceptImageBuffer(WEBP_VP8X, 'webp'), 'WebP 必须通过');
+    assert.equal(h.acceptImageBuffer(Buffer.from('not an image at all')), null, '非图片必须拒绝');
+  } finally { await h.close(); }
+});
+
+// ── 搜索：配置 / 凭据 / 结果映射 / 解析 ─────────────────────────────────────
+await test('loadSearchConfig 默认值与越界收敛', async () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-search-cfg-'));
+  try {
+    fs.writeFileSync(path.join(dir, 'config.json'), JSON.stringify({
+      webSearch: { provider: 'bing', maxResults: 99, maxUses: 9, timeoutMs: 1, apiKeyEnv: ' MY_KEY ' }
+    }));
+    const cfg = loadSearchConfig(dir);
+    assert.equal(cfg.provider, 'bing');
+    assert.equal(cfg.maxResults, 20, 'maxResults 上限 20');
+    assert.equal(cfg.maxUses, 5, 'maxUses 上限 5');
+    assert.equal(cfg.timeoutMs, 5000, 'timeoutMs 下限 5s');
+    assert.equal(cfg.apiKeyEnv, 'MY_KEY');
+    assert.equal(cfg.model, 'deepseek-v4-flash');
+
+    fs.writeFileSync(path.join(dir, 'config.json'), JSON.stringify({ webSearch: { provider: 'nonsense' } }));
+    assert.equal(loadSearchConfig(dir).provider, 'auto', '未知 provider 回退 auto');
+    fs.writeFileSync(path.join(dir, 'config.json'), '{broken json');
+    assert.equal(loadSearchConfig(dir).provider, 'auto', '坏配置不得让搜索崩溃');
+  } finally { fs.rmSync(dir, { recursive: true, force: true }); }
+});
+
+await test('resolveSearchApiKey 的优先级：config > env > DSH 凭据', async () => {
+  const home = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-dsh-home-'));
+  const oldHome = process.env.DSH_HOME;
+  const oldKey = process.env.QQ_TEST_SEARCH_KEY;
+  try {
+    fs.writeFileSync(path.join(home, '.credentials.yaml'), [
+      'version: 1',
+      'refs:',
+      '  QQ_TEST_SEARCH_KEY: sk-from-dsh-credentials',
+      'records: {}',
+      ''
+    ].join('\n'));
+    process.env.DSH_HOME = home;
+    delete process.env.QQ_TEST_SEARCH_KEY;
+
+    assert.equal(resolveSearchApiKey({ apiKeyEnv: 'QQ_TEST_SEARCH_KEY' }).source, 'dsh-credentials');
+    assert.equal(readDshCredential('QQ_TEST_SEARCH_KEY'), 'sk-from-dsh-credentials');
+
+    process.env.QQ_TEST_SEARCH_KEY = 'sk-from-env';
+    assert.deepEqual(resolveSearchApiKey({ apiKeyEnv: 'QQ_TEST_SEARCH_KEY' }), { key: 'sk-from-env', source: 'env' });
+
+    assert.deepEqual(
+      resolveSearchApiKey({ apiKey: 'sk-from-config', apiKeyEnv: 'QQ_TEST_SEARCH_KEY' }),
+      { key: 'sk-from-config', source: 'config' }
+    );
+
+    delete process.env.QQ_TEST_SEARCH_KEY;
+    fs.writeFileSync(path.join(home, '.credentials.yaml'), 'version: 1\nrefs: {}\nrecords: {}\n');
+    assert.equal(resolveSearchApiKey({ apiKeyEnv: 'QQ_TEST_SEARCH_KEY' }).source, 'none');
+  } finally {
+    if (oldHome === undefined) delete process.env.DSH_HOME; else process.env.DSH_HOME = oldHome;
+    if (oldKey === undefined) delete process.env.QQ_TEST_SEARCH_KEY; else process.env.QQ_TEST_SEARCH_KEY = oldKey;
+    fs.rmSync(home, { recursive: true, force: true });
+  }
+});
+
+await test('mapDeepSeekResponse：去重、去 #N 锚点、引用摘要', async () => {
+  const response = {
+    content: [
+      { type: 'thinking', thinking: '...' },
+      {
+        type: 'web_search_tool_result',
+        content: [
+          { type: 'web_search_result', title: '你的角色形象', url: 'https://example.com/a#1', page_age: '2026-10-01' },
+          { type: 'web_search_result', title: '重复', url: 'https://example.com/a#2' },
+          { type: 'web_search_result', title: '你的角色形象（二）', url: 'https://example.com/b' }
+        ]
+      },
+      { type: 'text', text: '答案', citations: [{ url: 'https://example.com/b', cited_text: '这是引用片段' }] }
+    ]
+  };
+  const results = mapDeepSeekResponse(response, 8);
+  assert.equal(results.length, 2, '同一 URL 必须去重');
+  assert.equal(results[0].url, 'https://example.com/a', '必须去掉 #1 锚点');
+  assert.equal(results[0].publishedAt, '2026-10-01');
+  assert.equal(results[1].snippet, '这是引用片段');
+  assert.throws(() => mapDeepSeekResponse({ content: [{ type: 'text', text: '没有结果块' }] }), /web_search_tool_result/);
+});
+
+await test('Bing RSS / HTML 解析：CDATA、实体、去重、上限', async () => {
+  const rss = `<?xml version="1.0"?><rss><channel>
+    <item><title><![CDATA[第一条 & 摘要]]></title><link>https://example.com/1</link><description><![CDATA[<b>加粗</b> 内容 &#x4e2d;]]></description></item>
+    <item><title>第二条</title><link>https://example.com/2</link><description>&amp; 转义</description></item>
+    <item><title>重复</title><link>https://example.com/1</link></item>
+  </channel></rss>`;
+  const fromRss = parseBingRss(rss, 8);
+  assert.equal(fromRss.length, 2);
+  assert.equal(fromRss[0].title, '第一条 & 摘要');
+  assert.equal(fromRss[0].snippet, '加粗 内容 中');
+  assert.equal(fromRss[1].snippet, '& 转义');
+
+  const html = `<li class="b_algo"><h2><a href="https://example.com/x">X 标题</a></h2><p>X 摘要</p></li>
+    <li class="b_algo"><h2><a href="https://example.com/x">重复</a></h2><p>dup</p></li>
+    <li class="b_algo"><h2><a href="https://example.com/y">Y</a></h2><p>Y 摘要</p></li>`;
+  const fromHtml = parseBingHtml(html, 8);
+  assert.equal(fromHtml.length, 2);
+  assert.equal(fromHtml[0].url, 'https://example.com/x');
+  assert.equal(parseBingRss(rss, 1).length, 1, 'maxResults 必须生效');
+});
+
+await test('deepseekSearch：没有 key 时报 NO_KEY；非 https 端点直接拒绝', async () => {
+  const home = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-dsh-home2-'));
+  const oldHome = process.env.DSH_HOME;
+  const oldKey = process.env.DEEPSEEK_API_KEY;
+  try {
+    process.env.DSH_HOME = home;
+    delete process.env.DEEPSEEK_API_KEY;
+    const noKey = await deepseekSearch('测试', { provider: 'deepseek', apiKeyEnv: 'DEEPSEEK_API_KEY' }).catch((e) => e);
+    assert.equal(noKey?.code, 'NO_KEY');
+
+    const insecure = await deepseekSearch('测试', {
+      provider: 'deepseek',
+      apiKey: 'sk-test-only-for-unit-test',
+      baseURL: 'http://api.deepseek.com/anthropic/v1'
+    }).catch((e) => e);
+    assert.match(String(insecure?.message), /https/, 'API key 不允许发往 http 端点');
+
+    const privateHost = await deepseekSearch('测试', {
+      provider: 'deepseek',
+      apiKey: 'sk-test-only-for-unit-test',
+      baseURL: 'https://127.0.0.1/anthropic/v1'
+    }).catch((e) => e);
+    assert.match(String(privateHost?.message), /内网|本机|禁止/, 'API key 不允许发往内网/本机端点');
+  } finally {
+    if (oldHome === undefined) delete process.env.DSH_HOME; else process.env.DSH_HOME = oldHome;
+    if (oldKey === undefined) delete process.env.DEEPSEEK_API_KEY; else process.env.DEEPSEEK_API_KEY = oldKey;
+    fs.rmSync(home, { recursive: true, force: true });
+  }
+});
+
+await test('webSearch：provider=deepseek 且无 key 时不静默回退（明确报错）', async () => {
+  const home = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-dsh-home3-'));
+  const oldHome = process.env.DSH_HOME;
+  const oldKey = process.env.DEEPSEEK_API_KEY;
+  try {
+    process.env.DSH_HOME = home;
+    delete process.env.DEEPSEEK_API_KEY;
+    clearSearchCache();
+    const error = await webSearch('测试', {
+      root: ROOT,
+      provider: 'deepseek',
+      config: { provider: 'deepseek', apiKey: '', apiKeyEnv: 'DEEPSEEK_API_KEY' }
+    }).catch((e) => e);
+    assert.equal(error?.code, 'NO_KEY', '显式指定 deepseek 时不能悄悄回退 Bing');
+  } finally {
+    if (oldHome === undefined) delete process.env.DSH_HOME; else process.env.DSH_HOME = oldHome;
+    if (oldKey === undefined) delete process.env.DEEPSEEK_API_KEY; else process.env.DEEPSEEK_API_KEY = oldKey;
+    fs.rmSync(home, { recursive: true, force: true });
+  }
+});
+
+await test('MCP 服务器复用 web-search 模块（不再自己抓 Bing HTML）', async () => {
+  const source = fs.readFileSync(path.join(ROOT, 'src', 'mcp-web-search-safe.js'), 'utf8');
+  assert.match(source, /from '\.\/web-search\.js'/, 'MCP 必须复用统一搜索模块');
+  assert.match(source, /webSearch\(/, 'MCP 必须调用 webSearch()');
+  assert.ok(!/b_algo/.test(source), 'MCP 里不得再有一份 Bing HTML 解析（会与模块实现漂移）');
+  assert.ok(!/bingSearch/.test(source), 'MCP 里不得再有一份 bingSearch 实现');
+});
+
+await test('safe-fetch：多地址时按 IPv4 优先并在失败后切换', async () => {
+  // 直接验证纯函数（不联网）：一个 IPv6 在前、IPv4 在后的应答，必须排出 IPv4 优先的顺序。
+  const { default: dns } = await import('node:dns');
+  const original = dns.promises.lookup;
+  dns.promises.lookup = async () => ([
+    { address: '2408:8756:f50:4::17', family: 6 },
+    { address: '116.162.45.14', family: 4 }
+  ]);
+  try {
+    // 用动态 import 拿到"用这份 DNS 桩解析"的实例：模块在导入时捕获 lookup 引用，
+    // 所以先替换再导入（与 test-audit-security 的做法一致）。
+    const mod = await import(`../src/safe-fetch.js?failover=${Date.now()}`);
+    assert.deepEqual(await mod.resolveSafeAddresses('p.qpic.cn'), ['116.162.45.14', '2408:8756:f50:4::17']);
+  } finally {
+    dns.promises.lookup = original;
+  }
+});
+
+// ── 搜索：空结果 note 必须进入缓存（否则 5 分钟内重复查询拿不到提示） ────────────
+// 不能真联网，所以这里是**结构断言**：note 走的是 `value = {...value, note}`（新建对象），
+// 而缓存存的是引用；先 cache.set 再加 note ⇒ 命中缓存时拿到的正是那个没有 note 的旧对象，
+// 而「同一句 query 连着问几次」恰恰是模型最容易开始重试的场景（issue #17 的修复点）。
+await test('webSearch：空结果提示在写缓存之前生成（缓存命中也要带 note）', async () => {
+  const source = fs.readFileSync(path.join(ROOT, 'src', 'web-search.js'), 'utf8');
+  const noteAt = source.indexOf('没有搜到结果');
+  const cacheAt = source.indexOf('cache.set(cacheKey');
+  assert.ok(noteAt > 0, 'webSearch 必须给空结果附 note');
+  assert.ok(cacheAt > 0, 'webSearch 必须有 5 分钟查询缓存');
+  assert.ok(noteAt < cacheAt, 'note 必须在 cache.set 之前生成：缓存存的是 value 的引用，反过来写会让缓存命中丢掉提示');
+});
+
+if (failures) {
+  console.error(`\n${failures} 项失败`);
+  process.exitCode = 1;
+} else {
+  console.log('\n全部通过');
+}

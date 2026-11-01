@@ -1,1 +1,132 @@
-Ly8gT2ZmbGluZSBpbnRlZ3JhdGlvbiB0ZXN0cy4gRXZlcnkgc2V0dXAgaW52b2NhdGlvbiByZWNlaXZlcyBpdHMgb3duIHJlcG9zaXRvcnkgYW5kIERTSF9IT01FLgovLyBRUV9CUklER0VfVEVTVF9ZQU1MX1JPT1QgaXMgb25seSB1c2VmdWwgd2hlbiBhdWRpdGluZyB3aXRoIGFuIGludGVudGlvbmFsbHkgcmVhZC1vbmx5Ci8vIG5vZGVfbW9kdWxlcyB0cmVlOyBub3JtYWwgaW5zdGFsbHMgcmVzb2x2ZSB0aGUgZGVjbGFyZWQganMteWFtbCBkZXBlbmRlbmN5IGRpcmVjdGx5LgppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBjcmVhdGVSZXF1aXJlIH0gZnJvbSAnbm9kZTptb2R1bGUnOwppbXBvcnQgeyBzcGF3blN5bmMgfSBmcm9tICdub2RlOmNoaWxkX3Byb2Nlc3MnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoLCBwYXRoVG9GaWxlVVJMIH0gZnJvbSAnbm9kZTp1cmwnOwoKY29uc3QgcmVxdWlyZSA9IGNyZWF0ZVJlcXVpcmUoaW1wb3J0Lm1ldGEudXJsKTsKY29uc3Qgcm9vdCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmNvbnN0IHBhcnNlclJvb3QgPSBwcm9jZXNzLmVudi5RUV9CUklER0VfVEVTVF9ZQU1MX1JPT1QgfHwgcGF0aC5kaXJuYW1lKHJlcXVpcmUucmVzb2x2ZSgnanMteWFtbC9wYWNrYWdlLmpzb24nKSk7CmNvbnN0IHlhbWwgPSAoYXdhaXQgaW1wb3J0KHBhdGhUb0ZpbGVVUkwocGF0aC5qb2luKHBhcnNlclJvb3QsICdkaXN0L2pzLXlhbWwubWpzJykpLmhyZWYpKS5kZWZhdWx0Owpjb25zdCBzYW5kYm94ID0gZnMubWtkdGVtcFN5bmMocGF0aC5qb2luKG9zLnRtcGRpcigpLCAncXEtYnJpZGdlLWF1ZGl0LXNldHVwLScpKTsKbGV0IGZhaWx1cmVzID0gMDsKCmZ1bmN0aW9uIGZpeHR1cmUobmFtZSwgcGF0Y2ggPSAnJykgewogIGNvbnN0IGJhc2UgPSBwYXRoLmpvaW4oc2FuZGJveCwgbmFtZSk7CiAgY29uc3QgcmVwbyA9IHBhdGguam9pbihiYXNlLCAncmVwbycpOwogIGNvbnN0IGhvbWUgPSBwYXRoLmpvaW4oYmFzZSwgJ2hvbWUnKTsKICBmcy5ta2RpclN5bmMocGF0aC5qb2luKHJlcG8sICdzY3JpcHRzJyksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwogIGZzLmNvcHlGaWxlU3luYyhwYXRoLmpvaW4ocm9vdCwgJ3NjcmlwdHMvc2V0dXAtZHNoLm1qcycpLCBwYXRoLmpvaW4ocmVwbywgJ3NjcmlwdHMvc2V0dXAtZHNoLm1qcycpKTsKICAvLyBzZXR1cC1kc2gubWpzIOebtOaOpeS7juS7k+W6k+a6kOeUn+aIkCBidW5kbGUgcGF0Y2jvvIznlJ/miJDlmajlv4XpobvkuIDotbfov5vlpLnlhbfjgIIKICBmcy5jb3B5RmlsZVN5bmMocGF0aC5qb2luKHJvb3QsICdzY3JpcHRzL2J1aWxkLWFnZW50LXByZXNldC1wYXRjaGVzLm1qcycpLCBwYXRoLmpvaW4ocmVwbywgJ3NjcmlwdHMvYnVpbGQtYWdlbnQtcHJlc2V0LXBhdGNoZXMubWpzJykpOwogIGZzLmNwU3luYyhwYXRoLmpvaW4ocm9vdCwgJ2RzaCcpLCBwYXRoLmpvaW4ocmVwbywgJ2RzaCcpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBmcy5jcFN5bmMocGF0aC5qb2luKHJvb3QsICdwbHVnaW5zJyksIHBhdGguam9pbihyZXBvLCAncGx1Z2lucycpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBmcy5jcFN5bmMocGFyc2VyUm9vdCwgcGF0aC5qb2luKHJlcG8sICdub2RlX21vZHVsZXMvanMteWFtbCcpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBmcy5ta2RpclN5bmMocGF0aC5qb2luKGhvbWUsICdwcm9maWxlcy93ZWInKSwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgY29uc3QgcGF0Y2hGaWxlID0gcGF0aC5qb2luKGhvbWUsICdwcm9maWxlcy93ZWIvY29yZGlzLnBhdGNoLnltbCcpOwogIGZzLndyaXRlRmlsZVN5bmMocGF0Y2hGaWxlLCBwYXRjaCk7CiAgZnMud3JpdGVGaWxlU3luYyhwYXRoLmpvaW4oaG9tZSwgJ3Byb2ZpbGVzL3dlYi9wYWNrYWdlLmpzb24nKSwgSlNPTi5zdHJpbmdpZnkoewogICAgbmFtZTogJ2ZpeHR1cmUtcHJvZmlsZScsIGRlcGVuZGVuY2llczogeyBleGlzdGluZzogJzEuMC4wJyB9LAogICAgZHNoOiB7IHByb2ZpbGU6IHsgYnVuZGxlczogWydleGlzdGluZyddIH0gfSwKICB9KSk7CiAgY29uc3QgZW52ID0gT2JqZWN0LmZyb21FbnRyaWVzKE9iamVjdC5lbnRyaWVzKHByb2Nlc3MuZW52KS5maWx0ZXIoKFtrZXldKSA9PiBrZXkudG9Mb3dlckNhc2UoKSAhPT0gJ3BhdGgnKSk7CiAgT2JqZWN0LmFzc2lnbihlbnYsIHsgUEFUSDogcGF0aC5kaXJuYW1lKHByb2Nlc3MuZXhlY1BhdGgpLCBEU0hfSE9NRTogaG9tZSwgSE9NRTogaG9tZSwgVVNFUlBST0ZJTEU6IGhvbWUsIFFRX0JSSURHRV9TS0lQX0RTSF9JTlNUQUxMOiAnMScgfSk7CiAgY29uc3QgcnVuID0gKHByb2ZpbGUgPSAnd2ViJywgZXh0cmFFbnYgPSB7fSkgPT4gc3Bhd25TeW5jKHByb2Nlc3MuZXhlY1BhdGgsIFtwYXRoLmpvaW4ocmVwbywgJ3NjcmlwdHMvc2V0dXAtZHNoLm1qcycpLCBwcm9maWxlXSwgewogICAgZW52OiB7IC4uLmVudiwgLi4uZXh0cmFFbnYgfSwgY3dkOiByZXBvLCBlbmNvZGluZzogJ3V0ZjgnLCB0aW1lb3V0OiAxNTAwMCwKICB9KTsKICByZXR1cm4geyByZXBvLCBob21lLCBwYXRjaEZpbGUsIHJ1biB9Owp9CgpmdW5jdGlvbiB0ZXN0KG5hbWUsIGZuKSB7CiAgdHJ5IHsgZm4oKTsgY29uc29sZS5sb2coYFBBU1MgJHtuYW1lfWApOyB9CiAgY2F0Y2ggKGVycm9yKSB7IGZhaWx1cmVzKys7IGNvbnNvbGUuZXJyb3IoYEZBSUwgJHtuYW1lfTogJHtlcnJvci5tZXNzYWdlfWApOyB9Cn0KCnRyeSB7CiAgdGVzdCgnc2hhcmVkIGluc2VydHMsIHF1b3RlZCBJRHMsIGZsb3cgWUFNTCBhbmQgdW5yZWxhdGVkIG5lc3RlZCBhcnJheXMgc3Vydml2ZSByZXBlYXQgc2V0dXAnLCAoKSA9PiB7CiAgICBjb25zdCBzb3VyY2UgPSBgIyB1c2VyIHBhdGNoXG4tIGluc2VydDpcbiAgICAtIGlkOiBtY3Atc25vd2x1bWFcbiAgICAgIG5hbWU6IG9sZFxuICAgIC0gaWQ6IGN1c3RvbVxuICAgICAgbmFtZTogY3VzdG9tLXBsdWdpblxuICAgICAgY29uZmlnOlxuICAgICAgICBlbXB0eTpcbiAgICAgICAgICBbXVxuICAgICAgICBuZXN0ZWQ6XG4gICAgICAgICAgLSBpZDogbWNwLXNub3dsdW1hLWhvc3RcbiAgICAgICAgICAgIHZhbHVlOiBrZWVwXG4tIGluc2VydDpcbiAgICAtIGlkOiAnbWNwLXNub3dsdW1hLWhvc3QnICMgcHJldmlvdXMgc2V0dXBcbiAgICAgIG5hbWU6IG9sZFxuLSB7aW5zZXJ0OiBbe2lkOiBtY3Atd2ViLXNlYXJjaC1zYWZlLCBuYW1lOiBvbGR9XX1cbmA7CiAgICBjb25zdCBmID0gZml4dHVyZSgnc3RydWN0dXJlZCcsIHNvdXJjZSk7CiAgICBjb25zdCBvcmlnaW5hbEN1c3RvbSA9IHlhbWwubG9hZChzb3VyY2UpWzBdLmluc2VydFsxXTsKICAgIGZvciAobGV0IGkgPSAwOyBpIDwgMjsgaSsrKSB7CiAgICAgIGNvbnN0IHJlc3VsdCA9IGYucnVuKCk7CiAgICAgIGFzc2VydC5lcXVhbChyZXN1bHQuc3RhdHVzLCAwLCByZXN1bHQuc3RkZXJyIHx8IHJlc3VsdC5lcnJvcj8ubWVzc2FnZSk7CiAgICAgIGNvbnN0IGRvYyA9IHlhbWwubG9hZChmcy5yZWFkRmlsZVN5bmMoZi5wYXRjaEZpbGUsICd1dGY4JykpOwogICAgICBjb25zdCBlbnRyaWVzID0gZG9jLmZsYXRNYXAoKG9wKSA9PiBvcC5pbnNlcnQgfHwgW10pOwogICAgICBhc3NlcnQuZGVlcEVxdWFsKGVudHJpZXMuZmluZCgoZW50cnkpID0+IGVudHJ5LmlkID09PSAnY3VzdG9tJyksIG9yaWdpbmFsQ3VzdG9tKTsKICAgICAgZm9yIChjb25zdCBpZCBvZiBbJ21jcC1zbm93bHVtYScsICdtY3Atc25vd2x1bWEtaG9zdCcsICdtY3Atd2ViLXNlYXJjaC1zYWZlJ10pIHsKICAgICAgICBhc3NlcnQuZXF1YWwoZW50cmllcy5maWx0ZXIoKGVudHJ5KSA9PiBlbnRyeS5pZCA9PT0gaWQpLmxlbmd0aCwgMSwgYCR7aWR9IGR1cGxpY2F0ZWApOwogICAgICB9CiAgICAgIGFzc2VydC5lcXVhbChlbnRyaWVzLmZpbmQoKGVudHJ5KSA9PiBlbnRyeS5pZCA9PT0gJ21jcC1zbm93bHVtYScpLmNvbmZpZy50b29sQ2FsbFRpbWVvdXRNcywgNzI1MDAwKTsKICAgIH0KICAgIGNvbnN0IHBrZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihmLmhvbWUsICdwcm9maWxlcy93ZWIvcGFja2FnZS5qc29uJykpKTsKICAgIGFzc2VydC5lcXVhbChwa2cuZGVwZW5kZW5jaWVzLmV4aXN0aW5nLCAnMS4wLjAnKTsKICAgIGFzc2VydC5kZWVwRXF1YWwocGtnLmRzaC5wcm9maWxlLmJ1bmRsZXMsIFsnZXhpc3RpbmcnLCAncXEtbW9kZS1jb25zb2xlJywgJ3FxLWFnZW50LXByZXNldHMnXSk7CiAgfSk7CgogIHRlc3QoJ2xlZ2FjeSByb290IFtdIGlzIHJlcGFpcmVkIHdpdGhvdXQgYWx0ZXJpbmcgbGl0ZXJhbCBzdHJpbmdzJywgKCkgPT4gewogICAgY29uc3QgZiA9IGZpeHR1cmUoJ2xlZ2FjeScsIGBbXVxuLSBpbnNlcnQ6XG4gICAgLSBpZDogY3VzdG9tXG4gICAgICBuYW1lOiBjdXN0b21cbiAgICAgIGNvbmZpZzpcbiAgICAgICAgdGV4dDogfFxuICAgICAgICAgIFtdXG4gICAgICAgICAga2VlcCBtZVxuYCk7CiAgICBjb25zdCByZXN1bHQgPSBmLnJ1bigpOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsIDAsIHJlc3VsdC5zdGRlcnIpOwogICAgYXNzZXJ0LmVxdWFsKHlhbWwubG9hZChmcy5yZWFkRmlsZVN5bmMoZi5wYXRjaEZpbGUsICd1dGY4JykpWzBdLmluc2VydFswXS5jb25maWcudGV4dCwgJ1tdXG5rZWVwIG1lXG4nKTsKICB9KTsKCiAgdGVzdCgnbWFsZm9ybWVkIHBhdGNoIGZhaWxzIGJlZm9yZSByZXBsYWNpbmcgdXNlciBjb25maWd1cmF0aW9uIG9yIHByZXNldHMnLCAoKSA9PiB7CiAgICBjb25zdCBzb3VyY2UgPSAnLSBpbnNlcnQ6IFticm9rZW5cbic7CiAgICBjb25zdCBmID0gZml4dHVyZSgnbWFsZm9ybWVkJywgc291cmNlKTsKICAgIGNvbnN0IHJlc3VsdCA9IGYucnVuKCk7CiAgICBhc3NlcnQubm90RXF1YWwocmVzdWx0LnN0YXR1cywgMCk7CiAgICBhc3NlcnQuZXF1YWwoZnMucmVhZEZpbGVTeW5jKGYucGF0Y2hGaWxlLCAndXRmOCcpLCBzb3VyY2UpOwogICAgYXNzZXJ0LmVxdWFsKGZzLmV4aXN0c1N5bmMocGF0aC5qb2luKGYuaG9tZSwgJy5hZ2VudC1wcmVzZXRzJykpLCBmYWxzZSk7CiAgfSk7CgogIHRlc3QoJ3Byb2ZpbGUgdHJhdmVyc2FsIGlzIHJlamVjdGVkIGJlZm9yZSBmaWxlc3lzdGVtIGNoYW5nZXMnLCAoKSA9PiB7CiAgICBjb25zdCBmID0gZml4dHVyZSgndHJhdmVyc2FsJyk7CiAgICBjb25zdCByZXN1bHQgPSBmLnJ1bignLi4vLi4vZXNjYXBlJyk7CiAgICBhc3NlcnQubm90RXF1YWwocmVzdWx0LnN0YXR1cywgMCk7CiAgICBhc3NlcnQuZXF1YWwoZnMuZXhpc3RzU3luYyhwYXRoLmpvaW4oZi5ob21lLCAnZXNjYXBlJykpLCBmYWxzZSk7CiAgICBhc3NlcnQuZXF1YWwoZnMuZXhpc3RzU3luYyhwYXRoLmpvaW4oZi5ob21lLCAnLmFnZW50LXByZXNldHMnKSksIGZhbHNlKTsKICB9KTsKCiAgdGVzdCgnZXhpc3RpbmcgbW9kZSwgRFNIIHNldHRpbmdzIGFuZCBub24tbGluayBwbHVnaW4gZGlyZWN0b3J5IHJlbWFpbiB1bnRvdWNoZWQnLCAoKSA9PiB7CiAgICBjb25zdCBmID0gZml4dHVyZSgncHJlc2VydmUnLCAnW11cbicpOwogICAgZnMubWtkaXJTeW5jKHBhdGguam9pbihmLnJlcG8sICdzdGF0ZScpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICAgIGNvbnN0IG1vZGUgPSAneyJtb2RlIjoiY2xvc2VkLWFnZW50IiwiY2xvc2VkQWdlbnRQcmVzZXQiOiJjdXN0b20ifVxuJzsKICAgIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKGYucmVwbywgJ3N0YXRlL21vZGUuanNvbicpLCBtb2RlKTsKICAgIGNvbnN0IHJlc3VsdCA9IGYucnVuKCk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LnN0YXR1cywgMCwgcmVzdWx0LnN0ZGVycik7CiAgICBhc3NlcnQuZXF1YWwoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihmLnJlcG8sICdzdGF0ZS9tb2RlLmpzb24nKSwgJ3V0ZjgnKSwgbW9kZSk7CiAgICBjb25zdCBibG9ja2VyID0gZml4dHVyZSgncGx1Z2luLWNvbmZsaWN0JywgJ1tdXG4nKTsKICAgIGZzLm1rZGlyU3luYyhwYXRoLmpvaW4oYmxvY2tlci5ob21lLCAncGx1Z2lucy9xcS1tb2RlLWNvbnNvbGUnKSwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgICBmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbihibG9ja2VyLmhvbWUsICdwbHVnaW5zL3FxLW1vZGUtY29uc29sZS9rZWVwLnR4dCcpLCAna2VlcCcpOwogICAgYXNzZXJ0Lm5vdEVxdWFsKGJsb2NrZXIucnVuKCkuc3RhdHVzLCAwKTsKICAgIGFzc2VydC5lcXVhbChmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKGJsb2NrZXIuaG9tZSwgJ3BsdWdpbnMvcXEtbW9kZS1jb25zb2xlL2tlZXAudHh0JyksICd1dGY4JyksICdrZWVwJyk7CiAgfSk7CgogIGlmIChwcm9jZXNzLnBsYXRmb3JtID09PSAnd2luMzInKSB0ZXN0KCdXaW5kb3dzIHJ1bnMgdGhlIG5wbSAuY21kIHNoaW0gd2l0aCBsaXRlcmFsIHByb2ZpbGUgYXJndW1lbnRzJywgKCkgPT4gewogICAgY29uc3QgZiA9IGZpeHR1cmUoJ3dpbmRvd3MtY2xpJyk7CiAgICBjb25zdCBiaW4gPSBwYXRoLmpvaW4oZi5yZXBvLCAnYmluJyk7CiAgICBmcy5ta2RpclN5bmMoYmluKTsKICAgIGNvbnN0IGNhcHR1cmUgPSBwYXRoLmpvaW4oYmluLCAnY2FsbGVkLmpzb24nKTsKICAgIGNvbnN0IGNsaSA9IHBhdGguam9pbihiaW4sICdmYWtlLWRzaC5tanMnKTsKICAgIGZzLndyaXRlRmlsZVN5bmMoY2xpLCBgaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOyBmcy53cml0ZUZpbGVTeW5jKHByb2Nlc3MuZW52LlFRX1RFU1RfQ0FQVFVSRSwgSlNPTi5zdHJpbmdpZnkoe2FyZ3M6IHByb2Nlc3MuYXJndi5zbGljZSgyKSwgaG9tZTogcHJvY2Vzcy5lbnYuRFNIX0hPTUV9KSk7XG5gKTsKICAgIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKGJpbiwgJ2RzaC5jbWQnKSwgYEBlY2hvIG9mZlxyXG4iJHtwcm9jZXNzLmV4ZWNQYXRofSIgIiR7Y2xpfSIgJSpcclxuYCk7CiAgICBjb25zdCBwcm9maWxlID0gJ3Rlc3QmbmFtZSVDRCUhJzsKICAgIGNvbnN0IHJlc3VsdCA9IGYucnVuKHByb2ZpbGUsIHsKICAgICAgUEFUSDogW2JpbiwgcGF0aC5kaXJuYW1lKHByb2Nlc3MuZXhlY1BhdGgpXS5qb2luKHBhdGguZGVsaW1pdGVyKSwKICAgICAgUVFfQlJJREdFX1NLSVBfRFNIX0lOU1RBTEw6ICcwJywgUVFfVEVTVF9DQVBUVVJFOiBjYXB0dXJlLAogICAgfSk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LnN0YXR1cywgMCwgcmVzdWx0LnN0ZGVycik7CiAgICBhc3NlcnQub2soZnMuZXhpc3RzU3luYyhjYXB0dXJlKSwgYENMSSB3YXMgbm90IGludm9rZWQ6ICR7cmVzdWx0LnN0ZG91dH1gKTsKICAgIGFzc2VydC5kZWVwRXF1YWwoSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMoY2FwdHVyZSkpLCB7IGFyZ3M6IFsncGx1Z2luJywgJy0tcHJvZmlsZScsIHByb2ZpbGUsICdpbnN0YWxsJ10sIGhvbWU6IGYuaG9tZSB9KTsKICB9KTsKfSBmaW5hbGx5IHsKICAvLyBSZXNvbHZlIHRoZSBleGFjdCBmaXh0dXJlIHJvb3QgYmVmb3JlIHJlbW92aW5nIHRoaXMgdGVzdCdzIHRlbXBvcmFyeSBmaWxlcy4KICBhc3NlcnQuZXF1YWwocGF0aC5kaXJuYW1lKHBhdGgucmVzb2x2ZShzYW5kYm94KSksIHBhdGgucmVzb2x2ZShvcy50bXBkaXIoKSkpOwogIGZzLnJtU3luYyhzYW5kYm94LCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7Cn0KcHJvY2Vzcy5leGl0Q29kZSA9IGZhaWx1cmVzID8gMSA6IDA7Cg==
+// Offline integration tests. Every setup invocation receives its own repository and DSH_HOME.
+// QQ_BRIDGE_TEST_YAML_ROOT is only useful when auditing with an intentionally read-only
+// node_modules tree; normal installs resolve the declared js-yaml dependency directly.
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { createRequire } from 'node:module';
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+
+const require = createRequire(import.meta.url);
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const parserRoot = process.env.QQ_BRIDGE_TEST_YAML_ROOT || path.dirname(require.resolve('js-yaml/package.json'));
+const yaml = (await import(pathToFileURL(path.join(parserRoot, 'dist/js-yaml.mjs')).href)).default;
+const sandbox = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-bridge-audit-setup-'));
+let failures = 0;
+
+function fixture(name, patch = '') {
+  const base = path.join(sandbox, name);
+  const repo = path.join(base, 'repo');
+  const home = path.join(base, 'home');
+  fs.mkdirSync(path.join(repo, 'scripts'), { recursive: true });
+  fs.copyFileSync(path.join(root, 'scripts/setup-dsh.mjs'), path.join(repo, 'scripts/setup-dsh.mjs'));
+  // setup-dsh.mjs 直接从仓库源生成 bundle patch，生成器必须一起进夹具。
+  fs.copyFileSync(path.join(root, 'scripts/build-agent-preset-patches.mjs'), path.join(repo, 'scripts/build-agent-preset-patches.mjs'));
+  fs.cpSync(path.join(root, 'dsh'), path.join(repo, 'dsh'), { recursive: true });
+  fs.cpSync(path.join(root, 'plugins'), path.join(repo, 'plugins'), { recursive: true });
+  fs.cpSync(parserRoot, path.join(repo, 'node_modules/js-yaml'), { recursive: true });
+  fs.mkdirSync(path.join(home, 'profiles/web'), { recursive: true });
+  const patchFile = path.join(home, 'profiles/web/cordis.patch.yml');
+  fs.writeFileSync(patchFile, patch);
+  fs.writeFileSync(path.join(home, 'profiles/web/package.json'), JSON.stringify({
+    name: 'fixture-profile', dependencies: { existing: '1.0.0' },
+    dsh: { profile: { bundles: ['existing'] } },
+  }));
+  const env = Object.fromEntries(Object.entries(process.env).filter(([key]) => key.toLowerCase() !== 'path'));
+  Object.assign(env, { PATH: path.dirname(process.execPath), DSH_HOME: home, HOME: home, USERPROFILE: home, QQ_BRIDGE_SKIP_DSH_INSTALL: '1' });
+  const run = (profile = 'web', extraEnv = {}) => spawnSync(process.execPath, [path.join(repo, 'scripts/setup-dsh.mjs'), profile], {
+    env: { ...env, ...extraEnv }, cwd: repo, encoding: 'utf8', timeout: 15000,
+  });
+  return { repo, home, patchFile, run };
+}
+
+function test(name, fn) {
+  try { fn(); console.log(`PASS ${name}`); }
+  catch (error) { failures++; console.error(`FAIL ${name}: ${error.message}`); }
+}
+
+try {
+  test('shared inserts, quoted IDs, flow YAML and unrelated nested arrays survive repeat setup', () => {
+    const source = `# user patch\n- insert:\n    - id: mcp-snowluma\n      name: old\n    - id: custom\n      name: custom-plugin\n      config:\n        empty:\n          []\n        nested:\n          - id: mcp-snowluma-host\n            value: keep\n- insert:\n    - id: 'mcp-snowluma-host' # previous setup\n      name: old\n- {insert: [{id: mcp-web-search-safe, name: old}]}\n`;
+    const f = fixture('structured', source);
+    const originalCustom = yaml.load(source)[0].insert[1];
+    for (let i = 0; i < 2; i++) {
+      const result = f.run();
+      assert.equal(result.status, 0, result.stderr || result.error?.message);
+      const doc = yaml.load(fs.readFileSync(f.patchFile, 'utf8'));
+      const entries = doc.flatMap((op) => op.insert || []);
+      assert.deepEqual(entries.find((entry) => entry.id === 'custom'), originalCustom);
+      for (const id of ['mcp-snowluma', 'mcp-snowluma-host', 'mcp-web-search-safe']) {
+        assert.equal(entries.filter((entry) => entry.id === id).length, 1, `${id} duplicate`);
+      }
+      assert.equal(entries.find((entry) => entry.id === 'mcp-snowluma').config.toolCallTimeoutMs, 725000);
+    }
+    const pkg = JSON.parse(fs.readFileSync(path.join(f.home, 'profiles/web/package.json')));
+    assert.equal(pkg.dependencies.existing, '1.0.0');
+    assert.deepEqual(pkg.dsh.profile.bundles, ['existing', 'qq-mode-console', 'qq-agent-presets']);
+  });
+
+  test('legacy root [] is repaired without altering literal strings', () => {
+    const f = fixture('legacy', `[]\n- insert:\n    - id: custom\n      name: custom\n      config:\n        text: |\n          []\n          keep me\n`);
+    const result = f.run();
+    assert.equal(result.status, 0, result.stderr);
+    assert.equal(yaml.load(fs.readFileSync(f.patchFile, 'utf8'))[0].insert[0].config.text, '[]\nkeep me\n');
+  });
+
+  test('malformed patch fails before replacing user configuration or presets', () => {
+    const source = '- insert: [broken\n';
+    const f = fixture('malformed', source);
+    const result = f.run();
+    assert.notEqual(result.status, 0);
+    assert.equal(fs.readFileSync(f.patchFile, 'utf8'), source);
+    assert.equal(fs.existsSync(path.join(f.home, '.agent-presets')), false);
+  });
+
+  test('profile traversal is rejected before filesystem changes', () => {
+    const f = fixture('traversal');
+    const result = f.run('../../escape');
+    assert.notEqual(result.status, 0);
+    assert.equal(fs.existsSync(path.join(f.home, 'escape')), false);
+    assert.equal(fs.existsSync(path.join(f.home, '.agent-presets')), false);
+  });
+
+  test('existing mode, DSH settings and non-link plugin directory remain untouched', () => {
+    const f = fixture('preserve', '[]\n');
+    fs.mkdirSync(path.join(f.repo, 'state'), { recursive: true });
+    const mode = '{"mode":"closed-agent","closedAgentPreset":"custom"}\n';
+    fs.writeFileSync(path.join(f.repo, 'state/mode.json'), mode);
+    const result = f.run();
+    assert.equal(result.status, 0, result.stderr);
+    assert.equal(fs.readFileSync(path.join(f.repo, 'state/mode.json'), 'utf8'), mode);
+    const blocker = fixture('plugin-conflict', '[]\n');
+    fs.mkdirSync(path.join(blocker.home, 'plugins/qq-mode-console'), { recursive: true });
+    fs.writeFileSync(path.join(blocker.home, 'plugins/qq-mode-console/keep.txt'), 'keep');
+    assert.notEqual(blocker.run().status, 0);
+    assert.equal(fs.readFileSync(path.join(blocker.home, 'plugins/qq-mode-console/keep.txt'), 'utf8'), 'keep');
+  });
+
+  if (process.platform === 'win32') test('Windows runs the npm .cmd shim with literal profile arguments', () => {
+    const f = fixture('windows-cli');
+    const bin = path.join(f.repo, 'bin');
+    fs.mkdirSync(bin);
+    const capture = path.join(bin, 'called.json');
+    const cli = path.join(bin, 'fake-dsh.mjs');
+    fs.writeFileSync(cli, `import fs from 'node:fs'; fs.writeFileSync(process.env.QQ_TEST_CAPTURE, JSON.stringify({args: process.argv.slice(2), home: process.env.DSH_HOME}));\n`);
+    fs.writeFileSync(path.join(bin, 'dsh.cmd'), `@echo off\r\n"${process.execPath}" "${cli}" %*\r\n`);
+    const profile = 'test&name%CD%!';
+    const result = f.run(profile, {
+      PATH: [bin, path.dirname(process.execPath)].join(path.delimiter),
+      QQ_BRIDGE_SKIP_DSH_INSTALL: '0', QQ_TEST_CAPTURE: capture,
+    });
+    assert.equal(result.status, 0, result.stderr);
+    assert.ok(fs.existsSync(capture), `CLI was not invoked: ${result.stdout}`);
+    assert.deepEqual(JSON.parse(fs.readFileSync(capture)), { args: ['plugin', '--profile', profile, 'install'], home: f.home });
+  });
+} finally {
+  // Resolve the exact fixture root before removing this test's temporary files.
+  assert.equal(path.dirname(path.resolve(sandbox)), path.resolve(os.tmpdir()));
+  fs.rmSync(sandbox, { recursive: true, force: true });
+}
+process.exitCode = failures ? 1 : 0;

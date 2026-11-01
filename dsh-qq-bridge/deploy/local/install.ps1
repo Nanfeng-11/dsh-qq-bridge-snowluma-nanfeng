@@ -1,1 +1,48 @@
-IyBkc2gtcXEtYnJpZGdlIOacrOWcsOeUteiEkemDqOe9su+8iFdpbmRvd3MgUG93ZXJTaGVsbO+8iQojIOWJjeaPkO+8muahjOmdoueJiCBEU0ggKyBOb2RlLmpzIOKJpSAyMi4xMu+8iOW5tuehruS/nSBub2RlIOWcqCBQQVRI77yJCiRFcnJvckFjdGlvblByZWZlcmVuY2UgPSAiU3RvcCIKCiRQQUNLX0RJUiA9IFNwbGl0LVBhdGggLVBhcmVudCAoU3BsaXQtUGF0aCAtUGFyZW50ICRQU1NjcmlwdFJvb3QpICAgIyDmj5Lku7bljIXmoLnnm67lvZUKJFBMVUdJTl9OQU1FID0gImRzaC1xcS1icmlkZ2UiCgpXcml0ZS1Ib3N0ICI9PT0gMS4g5oqK5o+S5Lu2IGxpbmsg6L+bIERTSCBwcm9maWxlID09PSIKJERTSF9IT01FID0gaWYgKCRlbnY6RFNIX0hPTUUpIHsgJGVudjpEU0hfSE9NRSB9IGVsc2UgeyBKb2luLVBhdGggJGVudjpVU0VSUFJPRklMRSAiLmRzaCIgfQokUFJPRklMRV9QS0cgPSBKb2luLVBhdGggJERTSF9IT01FICJwcm9maWxlc1x3ZWJccGFja2FnZS5qc29uIgppZiAoLW5vdCAoVGVzdC1QYXRoICRQUk9GSUxFX1BLRykpIHsKICAgIFdyaXRlLUhvc3QgIuaJvuS4jeWIsCBEU0ggcHJvZmlsZe+8miRQUk9GSUxFX1BLRyIKICAgIFdyaXRlLUhvc3QgIuivt+WFiOWcqCBEU0gg6K6+572u6YeM56Gu6K6kIHByb2ZpbGUg5L2N572u77yM5oiW6K6+572u546v5aKD5Y+Y6YePIERTSF9IT01FIOWQjumHjei3keOAgiIKICAgIGV4aXQgMQp9CiRwa2cgPSBHZXQtQ29udGVudCAkUFJPRklMRV9QS0cgLVJhdyB8IENvbnZlcnRGcm9tLUpzb24KaWYgKC1ub3QgJHBrZy5kZXBlbmRlbmNpZXMpIHsgJHBrZy5kZXBlbmRlbmNpZXMgPSBAe30gfQokbGlua1BhdGggPSAoJFBBQ0tfRElSIC1yZXBsYWNlICdcXCcsJy8nKQokcGtnLmRlcGVuZGVuY2llcyB8IEFkZC1NZW1iZXIgLU5vdGVQcm9wZXJ0eU5hbWUgJFBMVUdJTl9OQU1FIC1Ob3RlUHJvcGVydHlWYWx1ZSAibGluazokbGlua1BhdGgiIC1Gb3JjZQokcGtnIHwgQ29udmVydFRvLUpzb24gLURlcHRoIDggfCBTZXQtQ29udGVudCAkUFJPRklMRV9QS0cgLUVuY29kaW5nIFVURjgKV3JpdGUtSG9zdCAi5bey5rOo5YaM5L6d6LWWIGxpbms6JGxpbmtQYXRoIgoKV3JpdGUtSG9zdCAiPT09IDIuIOabv+aNoiBjb3JkaXMucGF0Y2gueW1sIOi3r+W+hOWNoOS9jeespiA9PT0iCiROT0RFX0JJTiA9IChHZXQtQ29tbWFuZCBub2RlKS5Tb3VyY2UgLXJlcGxhY2UgJ1xcJywnLycKJEJSSURHRV9ESVIgPSAoSm9pbi1QYXRoICRQQUNLX0RJUiAiYnJpZGdlIikgLXJlcGxhY2UgJ1xcJywnLycKJHBhdGNoID0gSm9pbi1QYXRoICRQQUNLX0RJUiAiY29yZGlzLnBhdGNoLnltbCIKJGNvbnRlbnQgPSBHZXQtQ29udGVudCAkcGF0Y2ggLVJhdwokY29udGVudCA9ICRjb250ZW50IC1yZXBsYWNlICdAQE5PREVAQCcsICROT0RFX0JJTgokY29udGVudCA9ICRjb250ZW50IC1yZXBsYWNlICdAQEJSSURHRUBAJywgJEJSSURHRV9ESVIKU2V0LUNvbnRlbnQgJHBhdGNoICRjb250ZW50IC1FbmNvZGluZyBVVEY4IC1Ob05ld2xpbmUKCldyaXRlLUhvc3QgIj09PSAzLiDnlJ/miJDphY3nva4gPT09IgppZiAoLW5vdCAoVGVzdC1QYXRoIChKb2luLVBhdGggJEJSSURHRV9ESVIgImNvbmZpZy5qc29uIikpKSB7CiAgICBDb3B5LUl0ZW0gKEpvaW4tUGF0aCAkQlJJREdFX0RJUiAiY29uZmlnLmV4YW1wbGUuanNvbiIpIChKb2luLVBhdGggJEJSSURHRV9ESVIgImNvbmZpZy5qc29uIikKICAgIFdyaXRlLUhvc3QgIuW3sueUn+aIkCBjb25maWcuanNvbu+8muivt+WhqyBTbm93THVtYSDlnLDlnYDkuI4gYWNjZXNzVG9rZW4iCn0gZWxzZSB7IFdyaXRlLUhvc3QgImNvbmZpZy5qc29uIOW3suWtmOWcqCIgfQoKV3JpdGUtSG9zdCAiPT09IDQuIOWQr+WKqOahpeaOpSA9PT0iClNldC1Mb2NhdGlvbiAkQlJJREdFX0RJUgppZiAoVGVzdC1QYXRoICJzdGFydHVwLnBzMSIpIHsgcG93ZXJzaGVsbCAtRmlsZSAic3RhcnR1cC5wczEiIH0KZWxzZSB7IFdyaXRlLUhvc3QgIldpbmRvd3Mg5LiL5bu66K6u5omL5Yqo6L+Q6KGM77yabm9kZSBzcmMvYnJpZGdlLmpz77yI5oiW5oqKIHN0YXJ0dXAucHMxIOS7jumDqOe9suWMheaLt+WIsCBicmlkZ2Uv77yJIiB9CgpXcml0ZS1Ib3N0ICIiCldyaXRlLUhvc3QgIj09PSDlrozmiJAgPT09IgpXcml0ZS1Ib3N0ICIxLiDph43lkK8gRFNI77yM5o+S5Lu255Sf5pWIIgpXcml0ZS1Ib3N0ICIyLiDnvJbovpEgYnJpZGdlXHJvbGVzXOinkuiJsuaooeadvy5tZCDkuLrkvaDnmoTop5LoibIiCldyaXRlLUhvc3QgIjMuIOmHjeWQr+WQjuadgOS4gOasoSBNQ1Ag6L+b56iL5Yi35paw5bel5YW35YiX6KGoIgpXcml0ZS1Ib3N0ICI0LiBEU0gg6K6+572u6YeM5oqK5qih5byP5YiH5YiwIHJlc2VydmVkMiIK
+# dsh-qq-bridge 本地电脑部署（Windows PowerShell）
+# 前提：桌面版 DSH + Node.js ≥ 22.12（并确保 node 在 PATH）
+$ErrorActionPreference = "Stop"
+
+$PACK_DIR = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)   # 插件包根目录
+$PLUGIN_NAME = "dsh-qq-bridge"
+
+Write-Host "=== 1. 把插件 link 进 DSH profile ==="
+$DSH_HOME = if ($env:DSH_HOME) { $env:DSH_HOME } else { Join-Path $env:USERPROFILE ".dsh" }
+$PROFILE_PKG = Join-Path $DSH_HOME "profiles\web\package.json"
+if (-not (Test-Path $PROFILE_PKG)) {
+    Write-Host "找不到 DSH profile：$PROFILE_PKG"
+    Write-Host "请先在 DSH 设置里确认 profile 位置，或设置环境变量 DSH_HOME 后重跑。"
+    exit 1
+}
+$pkg = Get-Content $PROFILE_PKG -Raw | ConvertFrom-Json
+if (-not $pkg.dependencies) { $pkg.dependencies = @{} }
+$linkPath = ($PACK_DIR -replace '\\','/')
+$pkg.dependencies | Add-Member -NotePropertyName $PLUGIN_NAME -NotePropertyValue "link:$linkPath" -Force
+$pkg | ConvertTo-Json -Depth 8 | Set-Content $PROFILE_PKG -Encoding UTF8
+Write-Host "已注册依赖 link:$linkPath"
+
+Write-Host "=== 2. 替换 cordis.patch.yml 路径占位符 ==="
+$NODE_BIN = (Get-Command node).Source -replace '\\','/'
+$BRIDGE_DIR = (Join-Path $PACK_DIR "bridge") -replace '\\','/'
+$patch = Join-Path $PACK_DIR "cordis.patch.yml"
+$content = Get-Content $patch -Raw
+$content = $content -replace '@@NODE@@', $NODE_BIN
+$content = $content -replace '@@BRIDGE@@', $BRIDGE_DIR
+Set-Content $patch $content -Encoding UTF8 -NoNewline
+
+Write-Host "=== 3. 生成配置 ==="
+if (-not (Test-Path (Join-Path $BRIDGE_DIR "config.json"))) {
+    Copy-Item (Join-Path $BRIDGE_DIR "config.example.json") (Join-Path $BRIDGE_DIR "config.json")
+    Write-Host "已生成 config.json：请填 SnowLuma 地址与 accessToken"
+} else { Write-Host "config.json 已存在" }
+
+Write-Host "=== 4. 启动桥接 ==="
+Set-Location $BRIDGE_DIR
+if (Test-Path "startup.ps1") { powershell -File "startup.ps1" }
+else { Write-Host "Windows 下建议手动运行：node src/bridge.js（或把 startup.ps1 从部署包拷到 bridge/）" }
+
+Write-Host ""
+Write-Host "=== 完成 ==="
+Write-Host "1. 重启 DSH，插件生效"
+Write-Host "2. 编辑 bridge\roles\角色模板.md 为你的角色"
+Write-Host "3. 重启后杀一次 MCP 进程刷新工具列表"
+Write-Host "4. DSH 设置里把模式切到 reserved2"

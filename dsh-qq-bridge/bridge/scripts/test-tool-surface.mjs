@@ -1,1 +1,201 @@
-Ly8gUDPjgIzlt6XlhbfpnaLmlLbmlZvjgI3lm57lvZLvvIgyMDI2LTEwLTE477yJ44CCCi8vCi8vIOiDjOaZr++8iOS8muivneWunuivge+8jGRvY3MvYXVkaXRzL0FVRElUXzIwMjYtMTAtMThfTUVESUFfQU5EX1dBVEVSTUFSSy5tZCDCpzMgUDPvvInvvJoKLy8gICDkuIDku70gcmVzZXJ2ZWQyIOS8muivneeahOivt+axguWktOaYr+OAjDU4IOS4quW3peWFtyAvIDQ1LjUgS0Igc2NoZW1h77yI4omIMTRrIHRva2VuL+asoe+8ieOAje+8jOWFtuS4rQovLyAgICAgwrcgcXFfbGlzdF9ncm91cHMgLyBxcV9nZXRfZ3JvdXBfbWVtYmVycyAvIHFxX2dldF9ncm91cF9oaXN0b3J577ya5pen5peg5Luk54mM5bel5YW377yMCi8vICAgICAgIOWcqCByZXNlcnZlZDIg5LiLKirlv4XnhLYqKiA0MDPvvIznmb3ljaAgc2NoZW1hIOi/mOivseWvvOaooeWei+ivr+iwg++8iOWunua1iyB0dXJuMTAg6Lip6L+H77yJ77ybCi8vICAgICDCtyDogIwgcXEtY2hhdC12MiDpooTorr7nrKwgNiDmnaHlj4jmmI7noa7lj6vmqKHlnovljrvnlKggcXFfZ2V0X2dyb3VwX21lbWJlcnMg5ou/IFFRIOWPt+OAggovLwovLyDmnKzmlofku7bpqozor4HvvJoKLy8gICAxLiBxcV9nZXRfZ3JvdXBfbWVtYmVycyDlt7LmmK8gdjIg5b2i5oCB77yIa2V5ICsgdG9rZW7vvInvvIzotbDmoaXmjqXnmoQgL2FwaS9zb2NpYWxWMi9ncm91cC1tZW1iZXJz77ybCi8vICAgMi4g6K+l56uv54K55Y+q6K6kIGdyb3VwOiDkvJror53jgIHopoHku6TniYzjgIHkuI3lnKjnmb3lkI3ljZXlsLHmi5LvvIjkuI7lhbblroMgdjIg6K+75bel5YW35ZCM5LiA5aWX6Ze46Zeo77yJ77ybCi8vICAgMy4g5pen5Y+q6K+75bel5YW35oyJKirlkK/liqjmqKHlvI8qKuazqOWGjO+8iOa6kOS7o+eggee6p+aWreiogO+8mkRTSCDkvqfms6jlhozpnIDopoHnnJ/ot5EgTUNQIOWtkOi/m+eoi++8jAovLyAgICAgIOacrOacuuaymeeusemHjCBzcGF3biBFUEVSTe+8jOWboOatpOi/memHjOmAgOWMluS4uue7k+aehOaWreiogCArIOS4i+mdoueahOS7pOeJjOe6p+ihjOS4uuaWreiogO+8ie+8mwovLyAgIDQuIFdTIOS4jeWPr+eUqOaXtue+pOaIkOWRmOafpeivoui1sCBIVFRQIOWFnOW6leOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IGh0dHAgZnJvbSAnbm9kZTpodHRwJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKaW1wb3J0IHsgYnJpZGdlSGFybmVzcyB9IGZyb20gJy4vYXVkaXQtYnJpZGdlLWhhcm5lc3MubWpzJzsKCmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUocGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwpjb25zdCBLRVkgPSAnZ3JvdXA6NDU2JzsKbGV0IGZhaWx1cmVzID0gMDsKbGV0IHRlc3RzID0gMDsKYXN5bmMgZnVuY3Rpb24gdGVzdChuYW1lLCBydW4pIHsKICB0ZXN0cysrOwogIHRyeSB7IGF3YWl0IHJ1bigpOyBjb25zb2xlLmxvZygnUEFTUycsIG5hbWUpOyB9CiAgY2F0Y2ggKGVycm9yKSB7IGZhaWx1cmVzKys7IGNvbnNvbGUuZXJyb3IoJ0ZBSUwnLCBuYW1lLCAn4oCUJywgZXJyb3I/LnN0YWNrID8/IGVycm9yKTsgfQp9Cgphc3luYyBmdW5jdGlvbiB3aXRoQnJpZGdlKHJ1biwgY29uZmlnID0ge30sIGdsb2JhbHMgPSB7fSkgewogIGNvbnN0IGggPSBhd2FpdCBicmlkZ2VIYXJuZXNzKHsgY29uZmlnOiB7IHNvY2lhbFYyOiB7IHN0aWNrZXI6IHsgZW5hYmxlZDogZmFsc2UgfSwgcHJvYWN0aXZlOiB7IGVuYWJsZWQ6IGZhbHNlIH0sIC4uLmNvbmZpZyB9IH0sIGdsb2JhbHMgfSk7CiAgaC5zZXRNb2RlKCdyZXNlcnZlZDInKTsKICBjb25zdCBzdCA9IGguZ2V0U29jaWFsVjJTdGF0ZShLRVkpOwogIGNvbnN0IHNlcnZlciA9IGguc3RhcnRDb25zb2xlU2VydmVyKCk7CiAgaWYgKCFzZXJ2ZXIubGlzdGVuaW5nKSBhd2FpdCBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2VydmVyLm9uY2UoJ2xpc3RlbmluZycsIHJlc29sdmUpKTsKICBjb25zdCByZXF1ZXN0ID0gKHJvdXRlLCB7IHRva2VuID0gc3QuYWdlbnRUb2tlbiwgY29uc29sZVRva2VuID0gJ2ZpeHR1cmUtY29uc29sZS10b2tlbicsIGtleSA9IEtFWSwgcXVlcnkgPSAnJyB9ID0ge30pID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGNvbnN0IGhlYWRlcnMgPSB7fTsKICAgIGlmIChjb25zb2xlVG9rZW4pIGhlYWRlcnNbJ3gtY29uc29sZS10b2tlbiddID0gY29uc29sZVRva2VuOwogICAgaWYgKHRva2VuKSBoZWFkZXJzWyd4LWFnZW50LXRva2VuJ10gPSB0b2tlbjsKICAgIGNvbnN0IHJlcSA9IGh0dHAucmVxdWVzdCh7IGhvc3RuYW1lOiAnMTI3LjAuMC4xJywgcG9ydDogc2VydmVyLmFkZHJlc3MoKS5wb3J0LAogICAgICBwYXRoOiBgJHtyb3V0ZS5zdGFydHNXaXRoKCcvJykgPyByb3V0ZSA6IGAvYXBpL3NvY2lhbFYyLyR7cm91dGV9YH0/a2V5PSR7ZW5jb2RlVVJJQ29tcG9uZW50KGtleSl9JHtxdWVyeX1gLAogICAgICBtZXRob2Q6ICdHRVQnLCBoZWFkZXJzIH0sIChyZXMpID0+IHsKICAgICAgbGV0IGRhdGEgPSAnJzsgcmVzLnNldEVuY29kaW5nKCd1dGY4Jyk7CiAgICAgIHJlcy5vbignZGF0YScsIChjKSA9PiB7IGRhdGEgKz0gYzsgfSk7CiAgICAgIHJlcy5vbignZW5kJywgKCkgPT4geyB0cnkgeyByZXNvbHZlKHsgc3RhdHVzOiByZXMuc3RhdHVzQ29kZSwgZGF0YTogSlNPTi5wYXJzZShkYXRhKSB9KTsgfSBjYXRjaCAoZSkgeyByZWplY3QoZSk7IH0gfSk7CiAgICB9KTsKICAgIHJlcS5vbignZXJyb3InLCByZWplY3QpOwogICAgcmVxLmVuZCgpOwogIH0pOwogIHRyeSB7IGF3YWl0IHJ1bih7IGgsIHN0LCByZXF1ZXN0IH0pOyB9CiAgZmluYWxseSB7IGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXJ2ZXIuY2xvc2UocmVzb2x2ZSkpOyBhd2FpdCBoLmNsb3NlKCk7IH0KfQoKLy8g4pSA4pSAIDEuIOerr+eCueihjOS4uiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKYXdhaXQgdGVzdCgnZ3JvdXAtbWVtYmVycyDov5Tlm54gdXNlcklkL25pY2tuYW1lL2NhcmTvvIzlubbluKYgY291bnQvdHJ1bmNhdGVkJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgcmVxdWVzdCB9KSA9PiB7CiAgICBjb25zdCBvdXQgPSBhd2FpdCByZXF1ZXN0KCdncm91cC1tZW1iZXJzJyk7CiAgICBhc3NlcnQuZXF1YWwob3V0LnN0YXR1cywgMjAwLCBKU09OLnN0cmluZ2lmeShvdXQuZGF0YSkpOwogICAgYXNzZXJ0LmVxdWFsKG91dC5kYXRhLmNvdW50LCAzKTsKICAgIGFzc2VydC5lcXVhbChvdXQuZGF0YS5yZXR1cm5lZCwgMyk7CiAgICBhc3NlcnQuZXF1YWwob3V0LmRhdGEudHJ1bmNhdGVkLCBmYWxzZSk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKG91dC5kYXRhLm1lbWJlcnMubWFwKChtKSA9PiBtLnVzZXJJZCksIFsnMTExJywgJzIyMicsICcxMjMnXSwgJ3VzZXJJZCDlv4XpobvmmK/lrZfnrKbkuLLvvIjmqKHlnovopoHmi7/lroMgQCDkurrvvIknKTsKICAgIGFzc2VydC5lcXVhbChvdXQuZGF0YS5tZW1iZXJzWzBdLm5pY2tuYW1lLCAn5bCP5piOJyk7CiAgICBhc3NlcnQuZXF1YWwob3V0LmRhdGEubWVtYmVyc1syXS5yb2xlLCAnb3duZXInKTsKICB9KTsKfSk7Cgphd2FpdCB0ZXN0KCdncm91cC1tZW1iZXJzIOWwiumHjSBsaW1pdCDkuIrpmZDlubbmoIforrAgdHJ1bmNhdGVkJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgcmVxdWVzdCB9KSA9PiB7CiAgICBjb25zdCBvdXQgPSBhd2FpdCByZXF1ZXN0KCdncm91cC1tZW1iZXJzJywgeyBxdWVyeTogJyZsaW1pdD0yJyB9KTsKICAgIGFzc2VydC5lcXVhbChvdXQuc3RhdHVzLCAyMDApOwogICAgYXNzZXJ0LmVxdWFsKG91dC5kYXRhLnJldHVybmVkLCAyKTsKICAgIGFzc2VydC5lcXVhbChvdXQuZGF0YS50cnVuY2F0ZWQsIHRydWUpOwogIH0pOwp9KTsKCmF3YWl0IHRlc3QoJ2dyb3VwLW1lbWJlcnMg5Luk54mM5qCh6aqM77ya5Luj55CG5Luk54mM6ZSZIC8g5LuA5LmI5Luk54mM6YO95rKh5pyJ77yM6YO95b+F6aG75ouSJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgc3QsIHJlcXVlc3QgfSkgPT4gewogICAgLy8g5Luj55CG5Luk54mM5a2Y5Zyo5L2G5LiN5a+5IOKGkiA0MDPvvIjov5nmmK8gdjIg6K+75bel5YW355qE57uf5LiA5Y+j5b6E77yJCiAgICBjb25zdCBiYWRUb2tlbiA9IGF3YWl0IHJlcXVlc3QoJ2dyb3VwLW1lbWJlcnMnLCB7IHRva2VuOiAnZGVhZGJlZWYnIH0pOwogICAgYXNzZXJ0LmVxdWFsKGJhZFRva2VuLnN0YXR1cywgNDAzLCBKU09OLnN0cmluZ2lmeShiYWRUb2tlbi5kYXRhKSk7CiAgICAvLyDml6LmsqHmnInku6PnkIbku6TniYzjgIHkuZ/msqHmnInmjqfliLblj7Dku6TniYwg4oaSIOS4jeivpeiiq+W9k+aIkOaTjeS9nOiAheaUvuihjAogICAgY29uc3Qgbm90aGluZyA9IGF3YWl0IHJlcXVlc3QoJ2dyb3VwLW1lbWJlcnMnLCB7IHRva2VuOiAnJywgY29uc29sZVRva2VuOiAnJyB9KTsKICAgIGFzc2VydC5vayhbNDAxLCA0MDNdLmluY2x1ZGVzKG5vdGhpbmcuc3RhdHVzKSwgYOaXoOWHreaNruW/hemhu+aLkue7ne+8jOWunumZhSAke25vdGhpbmcuc3RhdHVzfWApOwogICAgY29uc3QgcHJpdmF0ZUtleSA9IGF3YWl0IHJlcXVlc3QoJ2dyb3VwLW1lbWJlcnMnLCB7IGtleTogJ3ByaXZhdGU6MTIzJywgdG9rZW46IHN0LmFnZW50VG9rZW4gfSk7CiAgICBhc3NlcnQuZXF1YWwocHJpdmF0ZUtleS5zdGF0dXMsIDQwMCwgJ+engeiBiuayoeaciee+pOaIkOWRmOamguW/te+8jOW/hemhu+aYjuehruaKpemUmeiAjOS4jeaYr+eejuafpScpOwogICAgY29uc3QgYmFkS2V5ID0gYXdhaXQgcmVxdWVzdCgnZ3JvdXAtbWVtYmVycycsIHsga2V5OiAnZ3JvdXA6bm90LWEtbnVtYmVyJyB9KTsKICAgIGFzc2VydC5lcXVhbChiYWRLZXkuc3RhdHVzLCA0MDApOwogIH0pOwp9KTsKCmF3YWl0IHRlc3QoJ2dyb3VwLW1lbWJlcnMg5LiN5Zyo55m95ZCN5Y2V55qE576k6KKr5ouS77yI5LiN5Lya5Y+Y5oiQ5Lu75oSP576k5p6a5Li+5YWl5Y+j77yJJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgc3QsIHJlcXVlc3QgfSkgPT4gewogICAgY29uc3Qgb3V0ID0gYXdhaXQgcmVxdWVzdCgnZ3JvdXAtbWVtYmVycycsIHsga2V5OiAnZ3JvdXA6OTk5OTk5JywgdG9rZW46IHN0LmFnZW50VG9rZW4gfSk7CiAgICBhc3NlcnQuZXF1YWwob3V0LnN0YXR1cywgNDAzLCBKU09OLnN0cmluZ2lmeShvdXQuZGF0YSkpOwogICAgLy8g5YWz6ZSu77yaKirkuI3luKbku6TniYwqKuS5n+S4jeiDvee7lei/h+eZveWQjeWNle+8iGNsb3NlZC1hZ2VudCDnmoTku6PnkIbosIPnlKjmraPmmK/ml6Dku6TniYzot6/lvoTvvIkKICAgIGNvbnN0IG5vVG9rZW4gPSBhd2FpdCByZXF1ZXN0KCdncm91cC1tZW1iZXJzJywgeyBrZXk6ICdncm91cDo5OTk5OTknLCB0b2tlbjogJycgfSk7CiAgICBhc3NlcnQuZXF1YWwobm9Ub2tlbi5zdGF0dXMsIDQwMywgYOaXoOS7pOeJjOS5n+S4jeW+l+aemuS4vumdnueZveWQjeWNlee+pO+8miR7SlNPTi5zdHJpbmdpZnkobm9Ub2tlbi5kYXRhKX1gKTsKICB9KTsKfSk7Cgphd2FpdCB0ZXN0KCdjbG9zZWQtYWdlbnTvvIjnrqHnkIblkZjnp4HogYrvvIzml6Dku6TniYzvvInku43og73mn6Xnmb3lkI3ljZXnvqTmiJDlkZjvvIzkvYbmn6XkuI3liLDliKvnmoTnvqQnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgaCA9IGF3YWl0IGJyaWRnZUhhcm5lc3MoeyBjb25maWc6IHsgc29jaWFsVjI6IHsgc3RpY2tlcjogeyBlbmFibGVkOiBmYWxzZSB9LCBwcm9hY3RpdmU6IHsgZW5hYmxlZDogZmFsc2UgfSB9IH0gfSk7CiAgaC5zZXRNb2RlKCdjbG9zZWQtYWdlbnQnKTsKICBjb25zdCBzdCA9IGguZ2V0U29jaWFsVjJTdGF0ZShLRVkpOwogIGNvbnN0IHNlcnZlciA9IGguc3RhcnRDb25zb2xlU2VydmVyKCk7CiAgaWYgKCFzZXJ2ZXIubGlzdGVuaW5nKSBhd2FpdCBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2VydmVyLm9uY2UoJ2xpc3RlbmluZycsIHJlc29sdmUpKTsKICBjb25zdCBnZXQgPSAocXVlcnkpID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGNvbnN0IHJlcSA9IGh0dHAucmVxdWVzdCh7IGhvc3RuYW1lOiAnMTI3LjAuMC4xJywgcG9ydDogc2VydmVyLmFkZHJlc3MoKS5wb3J0LAogICAgICBwYXRoOiBgL2FwaS9zb2NpYWxWMi9ncm91cC1tZW1iZXJzP2tleT0ke2VuY29kZVVSSUNvbXBvbmVudChLRVkpfSR7cXVlcnl9YCwKICAgICAgbWV0aG9kOiAnR0VUJywgaGVhZGVyczogeyAneC1jb25zb2xlLXRva2VuJzogJ2ZpeHR1cmUtY29uc29sZS10b2tlbicgfSB9LCAocmVzKSA9PiB7CiAgICAgIGxldCBkYXRhID0gJyc7IHJlcy5zZXRFbmNvZGluZygndXRmOCcpOwogICAgICByZXMub24oJ2RhdGEnLCAoYykgPT4geyBkYXRhICs9IGM7IH0pOwogICAgICByZXMub24oJ2VuZCcsICgpID0+IHsgdHJ5IHsgcmVzb2x2ZSh7IHN0YXR1czogcmVzLnN0YXR1c0NvZGUsIGRhdGE6IEpTT04ucGFyc2UoZGF0YSkgfSk7IH0gY2F0Y2ggKGUpIHsgcmVqZWN0KGUpOyB9IH0pOwogICAgfSk7CiAgICByZXEub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgIHJlcS5lbmQoKTsKICB9KTsKICB0cnkgewogICAgY29uc3Qgb2sgPSBhd2FpdCBnZXQoJycpOwogICAgYXNzZXJ0LmVxdWFsKG9rLnN0YXR1cywgMjAwLCBKU09OLnN0cmluZ2lmeShvay5kYXRhKSk7CiAgICBhc3NlcnQub2sob2suZGF0YS5tZW1iZXJzLmxlbmd0aCA+IDApOwogICAgY29uc3QgZGVuaWVkID0gYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBjb25zdCByZXEgPSBodHRwLnJlcXVlc3QoeyBob3N0bmFtZTogJzEyNy4wLjAuMScsIHBvcnQ6IHNlcnZlci5hZGRyZXNzKCkucG9ydCwKICAgICAgICBwYXRoOiAnL2FwaS9zb2NpYWxWMi9ncm91cC1tZW1iZXJzP2tleT1ncm91cCUzQTk5OTk5OScsIG1ldGhvZDogJ0dFVCcsCiAgICAgICAgaGVhZGVyczogeyAneC1jb25zb2xlLXRva2VuJzogJ2ZpeHR1cmUtY29uc29sZS10b2tlbicgfSB9LCAocmVzKSA9PiB7CiAgICAgICAgbGV0IGRhdGEgPSAnJzsgcmVzLnNldEVuY29kaW5nKCd1dGY4Jyk7CiAgICAgICAgcmVzLm9uKCdkYXRhJywgKGMpID0+IHsgZGF0YSArPSBjOyB9KTsKICAgICAgICByZXMub24oJ2VuZCcsICgpID0+IHJlc29sdmUoeyBzdGF0dXM6IHJlcy5zdGF0dXNDb2RlLCBkYXRhOiBKU09OLnBhcnNlKGRhdGEpIH0pKTsKICAgICAgfSk7CiAgICAgIHJlcS5vbignZXJyb3InLCByZWplY3QpOyByZXEuZW5kKCk7CiAgICB9KTsKICAgIGFzc2VydC5lcXVhbChkZW5pZWQuc3RhdHVzLCA0MDMsIGBjbG9zZWQtYWdlbnQg5Lmf5LiN6IO95p6a5Li+6Z2e55m95ZCN5Y2V576k77yaJHtKU09OLnN0cmluZ2lmeShkZW5pZWQuZGF0YSl9YCk7CiAgICBhc3NlcnQuZXF1YWwoc3QuYWdlbnRUb2tlbi5sZW5ndGggPiAwLCB0cnVlKTsKICB9IGZpbmFsbHkgeyBhd2FpdCBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2VydmVyLmNsb3NlKHJlc29sdmUpKTsgYXdhaXQgaC5jbG9zZSgpOyB9Cn0pOwoKYXdhaXQgdGVzdCgn5bel5YW35byA5YWz6IO95YWz5o6JIGdyb3VwLW1lbWJlcnPvvIhnZXRHcm91cE1lbWJlcnM9ZmFsc2XvvIknLCBhc3luYyAoKSA9PiB7CiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoeyByZXF1ZXN0IH0pID0+IHsKICAgIGNvbnN0IG91dCA9IGF3YWl0IHJlcXVlc3QoJ2dyb3VwLW1lbWJlcnMnKTsKICAgIGFzc2VydC5lcXVhbChvdXQuc3RhdHVzLCA0MDMpOwogICAgYXNzZXJ0Lm1hdGNoKG91dC5kYXRhLmVycm9yLCAvcXFfZ2V0X2dyb3VwX21lbWJlcnMvKTsKICB9LCB7IHRvb2xzOiB7IGdldEdyb3VwTWVtYmVyczogZmFsc2UgfSB9KTsKfSk7CgovLyDilIDilIAgMi4gV1Mg5LiN5Y+v55So5pe26LWwIEhUVFAg5YWc5bqVIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjbGFzcyBXc0Rvd25Cb3QgewogIG9uUHJpdmF0ZU1lc3NhZ2UoKSB7fSBvbkdyb3VwTWVzc2FnZSgpIHt9IG9uTm90aWNlKCkge30gb25FdmVudCgpIHt9IG9uRXZlbnRFcnJvcigpIHt9CiAgYXN5bmMgcmVxdWVzdCgpIHsgdGhyb3cgbmV3IEVycm9yKCdTbm93THVtYSBXZWJTb2NrZXQgY2xvc2VkIGJlZm9yZSBvcGVuaW5nJyk7IH0KICBhc3luYyBnZXRJbWFnZSgpIHsgcmV0dXJuIG51bGw7IH0KICBhc3luYyBmZXRjaEZhY2VFbnRpdHkoKSB7IHJldHVybiBudWxsOyB9CiAgYXN5bmMgY29ubmVjdCgpIHt9IGNsb3NlKCkge30KfQoKYXdhaXQgdGVzdCgnV1Mg5oyC5LqG77yM576k5oiQ5ZGY5p+l6K+i5LuN54S25Y+v55So77yISFRUUCDlhZzlupXvvIknLCBhc3luYyAoKSA9PiB7CiAgLy8g6L+Z5LiqIGZha2VGZXRjaCDlkIzml7bmnI3liqHkuKTmnaHot6/vvJpXUyDmipvplJnlkI4gb25lYm90SHR0cEFjdGlvbiDkvJrmiZMgSFRUUCDmi7/miJDlkZjmlbDnu4TjgIIKICBjb25zdCBmZXRjaFN0dWIgPSBhc3luYyAodXJsKSA9PiB7CiAgICBpZiAoU3RyaW5nKHVybCkuZW5kc1dpdGgoJy9nZXRfZ3JvdXBfbWVtYmVyX2xpc3QnKSkgewogICAgICByZXR1cm4geyBvazogdHJ1ZSwgc3RhdHVzOiAyMDAsIGpzb246IGFzeW5jICgpID0+ICh7IHN0YXR1czogJ29rJywgcmV0Y29kZTogMCwgZGF0YTogW3sgdXNlcl9pZDogOTk5LCBuaWNrbmFtZTogJ0hUVFAg5oiQ5ZGYJywgY2FyZDogJycgfV0gfSkgfTsKICAgIH0KICAgIHJldHVybiB7IG9rOiB0cnVlLCBzdGF0dXM6IDIwMCwganNvbjogYXN5bmMgKCkgPT4gKHsgc3RhdHVzOiAnb2snLCByZXRjb2RlOiAwLCBkYXRhOiB7fSB9KSB9OwogIH07CiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoeyByZXF1ZXN0IH0pID0+IHsKICAgIGNvbnN0IG91dCA9IGF3YWl0IHJlcXVlc3QoJ2dyb3VwLW1lbWJlcnMnKTsKICAgIGFzc2VydC5lcXVhbChvdXQuc3RhdHVzLCAyMDAsIEpTT04uc3RyaW5naWZ5KG91dC5kYXRhKSk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKG91dC5kYXRhLm1lbWJlcnMubWFwKChtKSA9PiBtLm5pY2tuYW1lKSwgWydIVFRQIOaIkOWRmCddKTsKICB9LCB7fSwgeyBTbm93THVtYVdlYlNvY2tldENsaWVudDogV3NEb3duQm90LCBmZXRjaDogZmV0Y2hTdHViIH0pOwp9KTsKCi8vIOKUgOKUgCAzLiDmupDnoIHnuqfmlq3oqIDvvJrms6jlhozmnJ/mjInmqKHlvI/mlLbmlZsg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmF3YWl0IHRlc3QoJ+aXp+WPquivu+W3peWFt+aMieWQr+WKqOaooeW8j+azqOWGjO+8jHYyIOe+pOaIkOWRmOW3peWFt+S4jeS+nei1liBjbG9zZWQtYWdlbnQnLCBhc3luYyAoKSA9PiB7CiAgY29uc3Qgc3JjID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnc3JjL21jcC1zbm93bHVtYS1zYWZlLmpzJyksICd1dGY4Jyk7CiAgYXNzZXJ0Lm1hdGNoKHNyYywgL3JlZ2lzdGVyTGVnYWN5UmVhZFRvb2xzLywgJ+W/hemhu+acieaMieaooeW8j+WGs+WumueahOazqOWGjOW8gOWFsycpOwogIGFzc2VydC5tYXRjaChzcmMsIC9tb2RlID09PSAnJyBcfFx8IGJvb3RCcmlkZ2VNb2RlID09PSAnY2xvc2VkLWFnZW50J3xib290QnJpZGdlTW9kZSA9PT0gJycgXHxcfCBib290QnJpZGdlTW9kZSA9PT0gJ2Nsb3NlZC1hZ2VudCcvLAogICAgJ+WPquWcqCBjbG9zZWQtYWdlbnTvvIjmiJbmjqLmtYvlpLHotKXvvInml7bms6jlhozml6flj6ror7vlt6XlhbcnKTsKICAvLyBxcV9saXN0X2dyb3VwcyAvIHFxX2dldF9ncm91cF9oaXN0b3J5IOW/hemhu+WMheWcqOW8gOWFs+mHjAogIGZvciAoY29uc3QgbmFtZSBvZiBbJ3FxX2xpc3RfZ3JvdXBzJywgJ3FxX2dldF9ncm91cF9oaXN0b3J5J10pIHsKICAgIGNvbnN0IGF0ID0gc3JjLmluZGV4T2YoYCcke25hbWV9J2ApOwogICAgYXNzZXJ0Lm9rKGF0ID4gMCwgYCR7bmFtZX0g5bqU5b2T5LuN5a2Y5Zyo77yIY2xvc2VkLWFnZW50IOS4i+imgeiDveeUqO+8iWApOwogICAgY29uc3QgZ3VhcmRlZCA9IHNyYy5sYXN0SW5kZXhPZignaWYgKHJlZ2lzdGVyTGVnYWN5UmVhZFRvb2xzKSB7JywgYXQpOwogICAgYXNzZXJ0Lm9rKGd1YXJkZWQgPiAwLCBgJHtuYW1lfSDlv4XpobvooqsgaWYgKHJlZ2lzdGVyTGVnYWN5UmVhZFRvb2xzKSDljIXkvY9gKTsKICAgIGNvbnN0IGJldHdlZW4gPSBzcmMuc2xpY2UoZ3VhcmRlZCwgYXQpOwogICAgYXNzZXJ0Lm9rKCFiZXR3ZWVuLmluY2x1ZGVzKCd9XG5cbi8vJyksIGAke25hbWV9IOS4juW8gOWFs+S5i+mXtOS4jeiDveWkueedgOWIq+eahOazqOWGjOWdl2ApOwogIH0KICAvLyBxcV9nZXRfZ3JvdXBfbWVtYmVycyDlv4XpobvmmK8gdjIg5b2i5oCB77yI5bimIGtleSt0b2tlbu+8ie+8jOS4lOS4jeWcqOW8gOWFs+mHjAogIGNvbnN0IG1lbWJlcnNBdCA9IHNyYy5pbmRleE9mKCIncXFfZ2V0X2dyb3VwX21lbWJlcnMnIik7CiAgYXNzZXJ0Lm9rKG1lbWJlcnNBdCA+IDApOwogIGNvbnN0IG1lbWJlcnNCbG9jayA9IHNyYy5zbGljZShtZW1iZXJzQXQsIG1lbWJlcnNBdCArIDkwMCk7CiAgYXNzZXJ0Lm1hdGNoKG1lbWJlcnNCbG9jaywgL2tleTogelwuc3RyaW5nXChcKS8sICd2MiDlvaLmgIHlv4XpobvmnIkga2V5Jyk7CiAgYXNzZXJ0Lm1hdGNoKG1lbWJlcnNCbG9jaywgL3Rva2VuOiB6XC5zdHJpbmdcKFwpLywgJ3YyIOW9ouaAgeW/hemhu+aciSB0b2tlbicpOwogIGFzc2VydC5kb2VzTm90TWF0Y2gobWVtYmVyc0Jsb2NrLCAvZ3JvdXBJZDogelwuLywgJ+S4jeW6lOWGjeaOpeWPl+ijuCBncm91cElkJyk7CiAgYXNzZXJ0Lm9rKHNyYy5sYXN0SW5kZXhPZignaWYgKHJlZ2lzdGVyTGVnYWN5UmVhZFRvb2xzKSB7JywgbWVtYmVyc0F0KSA8IHNyYy5pbmRleE9mKCIncXFfbGlzdF9ncm91cHMnIiksCiAgICAncXFfZ2V0X2dyb3VwX21lbWJlcnMg5LiN6IO96JC95Zyo5pen5Y+q6K+75bel5YW355qE5rOo5YaM5byA5YWz6YeMJyk7CiAgLy8g5bel5YW35byA5YWz55m76K6w77yI5ZCm5YiZ5o6n5Yi25Y+w5YWz5LiN5o6J5a6D77yJCiAgYXNzZXJ0Lm1hdGNoKHNyYywgL3FxX2dldF9ncm91cF9tZW1iZXJzOiAnZ2V0R3JvdXBNZW1iZXJzJy8sICflt6XlhbflvIDlhbPopoHnmbvorrAgZ2V0R3JvdXBNZW1iZXJzJyk7Cn0pOwoKY29uc29sZS5sb2coYFxuJHtmYWlsdXJlcyA/ICdGQUlMRUQnIDogJ0FMTCBQQVNTJ30gIHRlc3RzPSR7dGVzdHN9IGZhaWx1cmVzPSR7ZmFpbHVyZXN9YCk7CmlmIChmYWlsdXJlcykgcHJvY2Vzcy5leGl0KDEpOwo=
+// P3「工具面收敛」回归（2026-10-18）。
+//
+// 背景（会话实证，docs/audits/AUDIT_2026-10-18_MEDIA_AND_WATERMARK.md §3 P3）：
+//   一份 reserved2 会话的请求头是「58 个工具 / 45.5 KB schema（≈14k token/次）」，其中
+//     · qq_list_groups / qq_get_group_members / qq_get_group_history：旧无令牌工具，
+//       在 reserved2 下**必然** 403，白占 schema 还诱导模型误调（实测 turn10 踩过）；
+//     · 而 qq-chat-v2 预设第 6 条又明确叫模型去用 qq_get_group_members 拿 QQ 号。
+//
+// 本文件验证：
+//   1. qq_get_group_members 已是 v2 形态（key + token），走桥接的 /api/socialV2/group-members；
+//   2. 该端点只认 group: 会话、要令牌、不在白名单就拒（与其它 v2 读工具同一套闸门）；
+//   3. 旧只读工具按**启动模式**注册（源代码级断言：DSH 侧注册需要真跑 MCP 子进程，
+//      本机沙箱里 spawn EPERM，因此这里退化为结构断言 + 下面的令牌级行为断言）；
+//   4. WS 不可用时群成员查询走 HTTP 兜底。
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import http from 'node:http';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { bridgeHarness } from './audit-bridge-harness.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const KEY = 'group:456';
+let failures = 0;
+let tests = 0;
+async function test(name, run) {
+  tests++;
+  try { await run(); console.log('PASS', name); }
+  catch (error) { failures++; console.error('FAIL', name, '—', error?.stack ?? error); }
+}
+
+async function withBridge(run, config = {}, globals = {}) {
+  const h = await bridgeHarness({ config: { socialV2: { sticker: { enabled: false }, proactive: { enabled: false }, ...config } }, globals });
+  h.setMode('reserved2');
+  const st = h.getSocialV2State(KEY);
+  const server = h.startConsoleServer();
+  if (!server.listening) await new Promise((resolve) => server.once('listening', resolve));
+  const request = (route, { token = st.agentToken, consoleToken = 'fixture-console-token', key = KEY, query = '' } = {}) => new Promise((resolve, reject) => {
+    const headers = {};
+    if (consoleToken) headers['x-console-token'] = consoleToken;
+    if (token) headers['x-agent-token'] = token;
+    const req = http.request({ hostname: '127.0.0.1', port: server.address().port,
+      path: `${route.startsWith('/') ? route : `/api/socialV2/${route}`}?key=${encodeURIComponent(key)}${query}`,
+      method: 'GET', headers }, (res) => {
+      let data = ''; res.setEncoding('utf8');
+      res.on('data', (c) => { data += c; });
+      res.on('end', () => { try { resolve({ status: res.statusCode, data: JSON.parse(data) }); } catch (e) { reject(e); } });
+    });
+    req.on('error', reject);
+    req.end();
+  });
+  try { await run({ h, st, request }); }
+  finally { await new Promise((resolve) => server.close(resolve)); await h.close(); }
+}
+
+// ── 1. 端点行为 ────────────────────────────────────────────────────────────
+await test('group-members 返回 userId/nickname/card，并带 count/truncated', async () => {
+  await withBridge(async ({ request }) => {
+    const out = await request('group-members');
+    assert.equal(out.status, 200, JSON.stringify(out.data));
+    assert.equal(out.data.count, 3);
+    assert.equal(out.data.returned, 3);
+    assert.equal(out.data.truncated, false);
+    assert.deepEqual(out.data.members.map((m) => m.userId), ['111', '222', '123'], 'userId 必须是字符串（模型要拿它 @ 人）');
+    assert.equal(out.data.members[0].nickname, '小明');
+    assert.equal(out.data.members[2].role, 'owner');
+  });
+});
+
+await test('group-members 尊重 limit 上限并标记 truncated', async () => {
+  await withBridge(async ({ request }) => {
+    const out = await request('group-members', { query: '&limit=2' });
+    assert.equal(out.status, 200);
+    assert.equal(out.data.returned, 2);
+    assert.equal(out.data.truncated, true);
+  });
+});
+
+await test('group-members 令牌校验：代理令牌错 / 什么令牌都没有，都必须拒', async () => {
+  await withBridge(async ({ st, request }) => {
+    // 代理令牌存在但不对 → 403（这是 v2 读工具的统一口径）
+    const badToken = await request('group-members', { token: 'deadbeef' });
+    assert.equal(badToken.status, 403, JSON.stringify(badToken.data));
+    // 既没有代理令牌、也没有控制台令牌 → 不该被当成操作者放行
+    const nothing = await request('group-members', { token: '', consoleToken: '' });
+    assert.ok([401, 403].includes(nothing.status), `无凭据必须拒绝，实际 ${nothing.status}`);
+    const privateKey = await request('group-members', { key: 'private:123', token: st.agentToken });
+    assert.equal(privateKey.status, 400, '私聊没有群成员概念，必须明确报错而不是瞎查');
+    const badKey = await request('group-members', { key: 'group:not-a-number' });
+    assert.equal(badKey.status, 400);
+  });
+});
+
+await test('group-members 不在白名单的群被拒（不会变成任意群枚举入口）', async () => {
+  await withBridge(async ({ st, request }) => {
+    const out = await request('group-members', { key: 'group:999999', token: st.agentToken });
+    assert.equal(out.status, 403, JSON.stringify(out.data));
+    // 关键：**不带令牌**也不能绕过白名单（closed-agent 的代理调用正是无令牌路径）
+    const noToken = await request('group-members', { key: 'group:999999', token: '' });
+    assert.equal(noToken.status, 403, `无令牌也不得枚举非白名单群：${JSON.stringify(noToken.data)}`);
+  });
+});
+
+await test('closed-agent（管理员私聊，无令牌）仍能查白名单群成员，但查不到别的群', async () => {
+  const h = await bridgeHarness({ config: { socialV2: { sticker: { enabled: false }, proactive: { enabled: false } } } });
+  h.setMode('closed-agent');
+  const st = h.getSocialV2State(KEY);
+  const server = h.startConsoleServer();
+  if (!server.listening) await new Promise((resolve) => server.once('listening', resolve));
+  const get = (query) => new Promise((resolve, reject) => {
+    const req = http.request({ hostname: '127.0.0.1', port: server.address().port,
+      path: `/api/socialV2/group-members?key=${encodeURIComponent(KEY)}${query}`,
+      method: 'GET', headers: { 'x-console-token': 'fixture-console-token' } }, (res) => {
+      let data = ''; res.setEncoding('utf8');
+      res.on('data', (c) => { data += c; });
+      res.on('end', () => { try { resolve({ status: res.statusCode, data: JSON.parse(data) }); } catch (e) { reject(e); } });
+    });
+    req.on('error', reject);
+    req.end();
+  });
+  try {
+    const ok = await get('');
+    assert.equal(ok.status, 200, JSON.stringify(ok.data));
+    assert.ok(ok.data.members.length > 0);
+    const denied = await new Promise((resolve, reject) => {
+      const req = http.request({ hostname: '127.0.0.1', port: server.address().port,
+        path: '/api/socialV2/group-members?key=group%3A999999', method: 'GET',
+        headers: { 'x-console-token': 'fixture-console-token' } }, (res) => {
+        let data = ''; res.setEncoding('utf8');
+        res.on('data', (c) => { data += c; });
+        res.on('end', () => resolve({ status: res.statusCode, data: JSON.parse(data) }));
+      });
+      req.on('error', reject); req.end();
+    });
+    assert.equal(denied.status, 403, `closed-agent 也不能枚举非白名单群：${JSON.stringify(denied.data)}`);
+    assert.equal(st.agentToken.length > 0, true);
+  } finally { await new Promise((resolve) => server.close(resolve)); await h.close(); }
+});
+
+await test('工具开关能关掉 group-members（getGroupMembers=false）', async () => {
+  await withBridge(async ({ request }) => {
+    const out = await request('group-members');
+    assert.equal(out.status, 403);
+    assert.match(out.data.error, /qq_get_group_members/);
+  }, { tools: { getGroupMembers: false } });
+});
+
+// ── 2. WS 不可用时走 HTTP 兜底 ─────────────────────────────────────────────
+class WsDownBot {
+  onPrivateMessage() {} onGroupMessage() {} onNotice() {} onEvent() {} onEventError() {}
+  async request() { throw new Error('SnowLuma WebSocket closed before opening'); }
+  async getImage() { return null; }
+  async fetchFaceEntity() { return null; }
+  async connect() {} close() {}
+}
+
+await test('WS 挂了，群成员查询仍然可用（HTTP 兜底）', async () => {
+  // 这个 fakeFetch 同时服务两条路：WS 抛错后 onebotHttpAction 会打 HTTP 拿成员数组。
+  const fetchStub = async (url) => {
+    if (String(url).endsWith('/get_group_member_list')) {
+      return { ok: true, status: 200, json: async () => ({ status: 'ok', retcode: 0, data: [{ user_id: 999, nickname: 'HTTP 成员', card: '' }] }) };
+    }
+    return { ok: true, status: 200, json: async () => ({ status: 'ok', retcode: 0, data: {} }) };
+  };
+  await withBridge(async ({ request }) => {
+    const out = await request('group-members');
+    assert.equal(out.status, 200, JSON.stringify(out.data));
+    assert.deepEqual(out.data.members.map((m) => m.nickname), ['HTTP 成员']);
+  }, {}, { SnowLumaWebSocketClient: WsDownBot, fetch: fetchStub });
+});
+
+// ── 3. 源码级断言：注册期按模式收敛 ────────────────────────────────────────
+await test('旧只读工具按启动模式注册，v2 群成员工具不依赖 closed-agent', async () => {
+  const src = fs.readFileSync(path.join(ROOT, 'src/mcp-snowluma-safe.js'), 'utf8');
+  assert.match(src, /registerLegacyReadTools/, '必须有按模式决定的注册开关');
+  assert.match(src, /mode === '' \|\| bootBridgeMode === 'closed-agent'|bootBridgeMode === '' \|\| bootBridgeMode === 'closed-agent'/,
+    '只在 closed-agent（或探测失败）时注册旧只读工具');
+  // qq_list_groups / qq_get_group_history 必须包在开关里
+  for (const name of ['qq_list_groups', 'qq_get_group_history']) {
+    const at = src.indexOf(`'${name}'`);
+    assert.ok(at > 0, `${name} 应当仍存在（closed-agent 下要能用）`);
+    const guarded = src.lastIndexOf('if (registerLegacyReadTools) {', at);
+    assert.ok(guarded > 0, `${name} 必须被 if (registerLegacyReadTools) 包住`);
+    const between = src.slice(guarded, at);
+    assert.ok(!between.includes('}\n\n//'), `${name} 与开关之间不能夹着别的注册块`);
+  }
+  // qq_get_group_members 必须是 v2 形态（带 key+token），且不在开关里
+  const membersAt = src.indexOf("'qq_get_group_members'");
+  assert.ok(membersAt > 0);
+  const membersBlock = src.slice(membersAt, membersAt + 900);
+  assert.match(membersBlock, /key: z\.string\(\)/, 'v2 形态必须有 key');
+  assert.match(membersBlock, /token: z\.string\(\)/, 'v2 形态必须有 token');
+  assert.doesNotMatch(membersBlock, /groupId: z\./, '不应再接受裸 groupId');
+  assert.ok(src.lastIndexOf('if (registerLegacyReadTools) {', membersAt) < src.indexOf("'qq_list_groups'"),
+    'qq_get_group_members 不能落在旧只读工具的注册开关里');
+  // 工具开关登记（否则控制台关不掉它）
+  assert.match(src, /qq_get_group_members: 'getGroupMembers'/, '工具开关要登记 getGroupMembers');
+});
+
+console.log(`\n${failures ? 'FAILED' : 'ALL PASS'}  tests=${tests} failures=${failures}`);
+if (failures) process.exit(1);

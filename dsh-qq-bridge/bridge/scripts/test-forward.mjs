@@ -1,1 +1,148 @@
-Ly8g5ZCI5bm26L2s5Y+R5raI5oGv6IO95Yqb6Ieq5qOA6ISa5pys77yaCi8vIDEuIHNhbml0aXplRm9yd2FyZElkIOa4hea0l+inhOWImQovLyAyLiBleHRyYWN0Rm9yd2FyZElkcyDku44gT25lQm90IOa2iOaBr+auteaPkOWPliBmb3J3YXJkIGlkCi8vIDMuIGZvcm1hdEZvcndhcmRSZXNwb25zZSAvIG5vZGVUZXh0IOagvOW8j+WMluWQiOW5tui9rOWPkeWGheWuue+8iOWQq+aIquaWre+8iQovLyA0LiDphY3nva7ph4wgZ2V0Rm9yd2FyZE1zZyDpu5jorqTlvIDlkK8KLy8gNS4g6Iul5qGl5o6l6L+Q6KGM5Lit77yM5qCh6aqMIC9hcGkvc29jaWFsVjIvZm9yd2FyZC1tZXNzYWdlIOeahOWuieWFqOaLkue7nemAu+i+kQovLyDov5DooYzvvJpub2RlIHNjcmlwdHMvdGVzdC1mb3J3YXJkLm1qcwppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7CiAgc2FuaXRpemVGb3J3YXJkSWQsCiAgZXh0cmFjdEZvcndhcmRJZHMsCiAgZm9ybWF0Rm9yd2FyZFJlc3BvbnNlLAogIG5vZGVUZXh0Cn0gZnJvbSAnLi4vc3JjL2ZvcndhcmQuanMnOwoKY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKCmxldCBwYXNzZWQgPSAwOwpsZXQgZmFpbGVkID0gMDsKCmZ1bmN0aW9uIGNoZWNrKG5hbWUsIGNvbmQsIGV4dHJhID0gJycpIHsKICBpZiAoY29uZCkgewogICAgcGFzc2VkICs9IDE7CiAgICBjb25zb2xlLmxvZyhg4pyFICR7bmFtZX0ke2V4dHJhID8gJyDigJQgJyArIGV4dHJhIDogJyd9YCk7CiAgfSBlbHNlIHsKICAgIGZhaWxlZCArPSAxOwogICAgY29uc29sZS5lcnJvcihg4p2MICR7bmFtZX0ke2V4dHJhID8gJyDigJQgJyArIGV4dHJhIDogJyd9YCk7CiAgfQp9CgovLyAxLiBzYW5pdGl6ZUZvcndhcmRJZApjaGVjaygnc2FuaXRpemVGb3J3YXJkSWQg5o6l5Y+X5pmu6YCaIGlkJywgc2FuaXRpemVGb3J3YXJkSWQoJ2FiY18xMjMtNDU2JykgPT09ICdhYmNfMTIzLTQ1NicpOwpjaGVjaygnc2FuaXRpemVGb3J3YXJkSWQg5o6l5Y+X5bi46KeB56ym5Y+3Jywgc2FuaXRpemVGb3J3YXJkSWQoJ2EvYjpjPWQrZUBmLmcnKSA9PT0gJ2EvYjpjPWQrZUBmLmcnKTsKY2hlY2soJ3Nhbml0aXplRm9yd2FyZElkIOaLkue7neepuueZvS/mjqfliLblrZfnrKYnLCBzYW5pdGl6ZUZvcndhcmRJZCgnYWJjIGRlZicpID09PSAnJyAmJiBzYW5pdGl6ZUZvcndhcmRJZCgnYVx0YicpID09PSAnJyk7CmNoZWNrKCdzYW5pdGl6ZUZvcndhcmRJZCDmi5Lnu53otoXplb8gaWQnLCBzYW5pdGl6ZUZvcndhcmRJZCgneCcucmVwZWF0KDMwMCkpID09PSAnJyk7CmNoZWNrKCdzYW5pdGl6ZUZvcndhcmRJZCDmi5Lnu53nqbrlgLwnLCBzYW5pdGl6ZUZvcndhcmRJZCgnJykgPT09ICcnICYmIHNhbml0aXplRm9yd2FyZElkKG51bGwpID09PSAnJyk7CgovLyAyLiBleHRyYWN0Rm9yd2FyZElkcwpjb25zdCBzZWdtZW50cyA9IFsKICB7IHR5cGU6ICd0ZXh0JywgZGF0YTogeyB0ZXh0OiAn55yL6L+Z5LiqJyB9IH0sCiAgeyB0eXBlOiAnZm9yd2FyZCcsIGRhdGE6IHsgaWQ6ICdmd2RfMDAxJyB9IH0sCiAgeyB0eXBlOiAnZm9yd2FyZCcsIGRhdGE6IHsgcmVzX2lkOiAnZndkXzAwMicgfSB9LAogIHsgdHlwZTogJ2ZvcndhcmQnLCBkYXRhOiB7IGlkOiAnZndkXzAwMScgfSB9LAogIHsgdHlwZTogJ2ZvcndhcmQnLCBkYXRhOiB7IGlkOiAnYmFkIGlkJyB9IH0KXTsKY29uc3QgaWRzID0gZXh0cmFjdEZvcndhcmRJZHMoc2VnbWVudHMpOwpjaGVjaygnZXh0cmFjdEZvcndhcmRJZHMg5o+Q5Y+W5bm25Y676YeNJywgSlNPTi5zdHJpbmdpZnkoaWRzKSA9PT0gSlNPTi5zdHJpbmdpZnkoWydmd2RfMDAxJywgJ2Z3ZF8wMDInXSksIEpTT04uc3RyaW5naWZ5KGlkcykpOwpjaGVjaygnZXh0cmFjdEZvcndhcmRJZHMg5b+955Wl6Z2e5rOVIGlkJywgIWlkcy5pbmNsdWRlcygnYmFkIGlkJykpOwpjaGVjaygnZXh0cmFjdEZvcndhcmRJZHMg6Z2e5pWw57uE6L+U5Zue56m6JywgSlNPTi5zdHJpbmdpZnkoZXh0cmFjdEZvcndhcmRJZHMobnVsbCkpID09PSAnW10nKTsKCi8vIDMuIGZvcm1hdEZvcndhcmRSZXNwb25zZSAvIG5vZGVUZXh0CmNvbnN0IGRhdGEgPSB7CiAgbWVzc2FnZXM6IFsKICAgIHsgc2VuZGVyOiB7IG5pY2tuYW1lOiAn5byg5LiJJywgdXNlcl9pZDogMTAwMDEgfSwgdGltZTogMTAwMDA2LCBtZXNzYWdlOiBbeyB0eXBlOiAndGV4dCcsIGRhdGE6IHsgdGV4dDogJ+esrOS4gOWPpScgfSB9LCB7IHR5cGU6ICdpbWFnZScsIGRhdGE6IHsgdXJsOiAnaHR0cHM6Ly9leGFtcGxlLmNvbS9hLmpwZycgfSB9LCB7IHR5cGU6ICdmb3J3YXJkJywgZGF0YTogeyBpZDogJ25lc3RlZF8wMDEnIH0gfV0gfSwKICAgIHsgc2VuZGVyOiAn5p2O5ZubJywgdGltZTogMTAwMDA3LCBtZXNzYWdlOiAn56ys5LqM5Y+lJyB9LAogICAgeyBzZW5kZXI6IHsgY2FyZDogJ+eOi+S6lCcsIHVzZXJfaWQ6IDEwMDAzIH0sIHRpbWU6IDEwMDAwOCwgY29udGVudDogW3sgdHlwZTogJ2F0JywgZGF0YTogeyBxcTogMTAwMDEgfSB9LCB7IHR5cGU6ICd0ZXh0JywgZGF0YTogeyB0ZXh0OiAnIOS9oOWlvScgfSB9XSB9CiAgXQp9Owpjb25zdCBmbXQgPSBmb3JtYXRGb3J3YXJkUmVzcG9uc2UoZGF0YSk7CmNoZWNrKCdmb3JtYXRGb3J3YXJkUmVzcG9uc2UudG90YWw9MycsIGZtdC50b3RhbCA9PT0gMyAmJiBmbXQubWVzc2FnZXMubGVuZ3RoID09PSAzKTsKY2hlY2soJ2Zvcm1hdEZvcndhcmRSZXNwb25zZSDmj5Dlj5Ygc2VuZGVyL3RleHQnLCBmbXQubWVzc2FnZXNbMF0uc2VuZGVyID09PSAn5byg5LiJJyAmJiBmbXQubWVzc2FnZXNbMF0udGV4dCA9PT0gJ+esrOS4gOWPpVvlm77niYddW+i9rOWPkV0nKTsKY2hlY2soJ2Zvcm1hdEZvcndhcmRSZXNwb25zZSDlhbzlrrnlrZfnrKbkuLIgbWVzc2FnZScsIGZtdC5tZXNzYWdlc1sxXS5zZW5kZXIgPT09ICfmnY7lm5snICYmIGZtdC5tZXNzYWdlc1sxXS50ZXh0ID09PSAn56ys5LqM5Y+lJyk7CmNoZWNrKCdub2RlVGV4dCDlhbzlrrkgY29udGVudCDmlbDnu4QnLCBub2RlVGV4dChkYXRhLm1lc3NhZ2VzWzJdKSA9PT0gJ0AxMDAwMSDkvaDlpb0nKTsKY2hlY2soJ2Zvcm1hdEZvcndhcmRSZXNwb25zZSDmmrTpnLLlm77niYcgbWVkaWEnLCBmbXQubWVzc2FnZXNbMF0ubWVkaWEubGVuZ3RoID09PSAxICYmIGZtdC5tZXNzYWdlc1swXS5tZWRpYVswXS51cmwgPT09ICdodHRwczovL2V4YW1wbGUuY29tL2EuanBnJyk7CmNoZWNrKCdmb3JtYXRGb3J3YXJkUmVzcG9uc2Ug5pq06Zyy5bWM5aWXIGZvcndhcmQgaWQnLCBKU09OLnN0cmluZ2lmeShmbXQubWVzc2FnZXNbMF0ubmVzdGVkRm9yd2FyZElkcykgPT09IEpTT04uc3RyaW5naWZ5KFsnbmVzdGVkXzAwMSddKSk7CmNoZWNrKCdmb3JtYXRGb3J3YXJkUmVzcG9uc2Ug5pq06ZyyIG1lc3NhZ2VJZC9tZXNzYWdlU2VxJywgZm10Lm1lc3NhZ2VzWzFdLm1lc3NhZ2VJZCA9PT0gbnVsbCAmJiBmbXQubWVzc2FnZXNbMV0ubWVzc2FnZVNlcSA9PT0gbnVsbCk7Cgpjb25zdCB0cnVuY2F0ZWQgPSBmb3JtYXRGb3J3YXJkUmVzcG9uc2UoZGF0YSwgeyBtYXhNZXNzYWdlczogMiwgbWF4Q2hhcnNQZXJNZXNzYWdlOiAxIH0pOwpjaGVjaygnZm9ybWF0Rm9yd2FyZFJlc3BvbnNlIOaIquaWrSB0b3RhbC90cnVuY2F0ZWQnLCB0cnVuY2F0ZWQudG90YWwgPT09IDMgJiYgdHJ1bmNhdGVkLnRydW5jYXRlZCA9PT0gdHJ1ZSAmJiB0cnVuY2F0ZWQubWVzc2FnZXMubGVuZ3RoID09PSAyKTsKY2hlY2soJ2Zvcm1hdEZvcndhcmRSZXNwb25zZSDljZXmnaHmiKrmlq0nLCB0cnVuY2F0ZWQubWVzc2FnZXNbMF0udGV4dC5sZW5ndGggPD0gMSk7CmNoZWNrKCdmb3JtYXRGb3J3YXJkUmVzcG9uc2UgdGV4dFRydW5jYXRlZCDmoIforrAnLCB0cnVuY2F0ZWQudGV4dFRydW5jYXRlZCA9PT0gdHJ1ZSk7Cgpjb25zdCBlbXB0eSA9IGZvcm1hdEZvcndhcmRSZXNwb25zZSh7IG1lc3NhZ2VzOiBbXSB9KTsKY2hlY2soJ2Zvcm1hdEZvcndhcmRSZXNwb25zZSDnqbogbWVzc2FnZXMnLCBlbXB0eS50b3RhbCA9PT0gMCAmJiBlbXB0eS50cnVuY2F0ZWQgPT09IGZhbHNlICYmIGVtcHR5Lm1lc3NhZ2VzLmxlbmd0aCA9PT0gMCk7Cgpjb25zdCBzZW5kZXJGYWxsYmFjayA9IGZvcm1hdEZvcndhcmRSZXNwb25zZSh7IG1lc3NhZ2VzOiBbeyBzZW5kZXI6IHsgbmlja25hbWU6ICcnLCBjYXJkOiAn546L5LqUJywgdXNlcl9pZDogMTAwMDMgfSwgbWVzc2FnZTogJ3gnIH1dIH0pOwpjaGVjaygnc2VuZGVyIOepuiBuaWNrbmFtZSDlm57pgIDliLAgY2FyZCcsIHNlbmRlckZhbGxiYWNrLm1lc3NhZ2VzWzBdLnNlbmRlciA9PT0gJ+eOi+S6lCcpOwoKY29uc3Qgbm9kZURhdGEgPSB7IG1lc3NhZ2VzOiBbeyB0eXBlOiAnbm9kZScsIGRhdGE6IHsgbmFtZTogJ+W8oOS4iScsIHVpbjogJzEwMDAxJywgdGltZTogMTAwMDA2LCBjb250ZW50OiBbeyB0eXBlOiAndGV4dCcsIGRhdGE6IHsgdGV4dDogJ+S9oOWlvScgfSB9XSB9IH1dIH07CmNvbnN0IGZtdE5vZGUgPSBmb3JtYXRGb3J3YXJkUmVzcG9uc2Uobm9kZURhdGEpOwpjaGVjaygnZm9ybWF0Rm9yd2FyZFJlc3BvbnNlIOWFvOWuueagh+WHhiBub2RlLmRhdGEg57uT5p6EJywgZm10Tm9kZS5tZXNzYWdlc1swXS5zZW5kZXIgPT09ICflvKDkuIknICYmIGZtdE5vZGUubWVzc2FnZXNbMF0udGV4dCA9PT0gJ+S9oOWlvScgJiYgZm10Tm9kZS5tZXNzYWdlc1swXS51c2VySWQgPT09ICcxMDAwMScgJiYgZm10Tm9kZS5tZXNzYWdlc1swXS50aW1lID09PSAxMDAwMDYpOwoKY2hlY2soJ25vZGVUZXh0IOa4hea0lyBDUSDlrZfnrKbkuLInLCBub2RlVGV4dCh7IG1lc3NhZ2U6ICdbQ1E6aW1hZ2UsZmlsZT14XScgfSkgPT09ICdb5aqS5L2TXScpOwoKLy8gNC4g6YWN572u6buY6K6k5byA5YWzCnRyeSB7CiAgY29uc3QgY29uZmlnID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdjb25maWcuanNvbicpLCAndXRmOCcpKTsKICBjaGVjaygnY29uZmlnLnNvY2lhbFYyLnRvb2xzLmdldEZvcndhcmRNc2cg6buY6K6k5byA5ZCvJywgY29uZmlnLnNvY2lhbFYyPy50b29scz8uZ2V0Rm9yd2FyZE1zZyAhPT0gZmFsc2UpOwogIGNoZWNrKCdjb25maWcuc29jaWFsVjIudG9vbHMuc2VuZFBva2Ug6buY6K6k5byA5ZCvJywgY29uZmlnLnNvY2lhbFYyPy50b29scz8uc2VuZFBva2UgIT09IGZhbHNlKTsKICBjaGVjaygnY29uZmlnLnNvY2lhbFYyLndha2UucmVjb21tZW5kZWRQb2tlIOm7mOiupOW8gOWQrycsIGNvbmZpZy5zb2NpYWxWMj8ud2FrZT8ucmVjb21tZW5kZWRQb2tlICE9PSBmYWxzZSk7Cn0gY2F0Y2ggKGVycm9yKSB7CiAgY2hlY2soJ2NvbmZpZy5qc29uIOWPr+ivuycsIGZhbHNlLCBlcnJvcj8ubWVzc2FnZSk7Cn0KCi8vIDUuIOahpeaOpeerr+eCueWuieWFqOaLkue7ne+8iOWPr+mAie+8jOahpeaOpei/kOihjOS4lOeKtuaAgeWtmOWcqOaXtu+8iQpjb25zdCBjb25zb2xlVG9rZW5GaWxlID0gcGF0aC5qb2luKFJPT1QsICdzdGF0ZScsICdjb25zb2xlLXRva2VuJyk7CmNvbnN0IHNvY2lhbFYyRmlsZSA9IHBhdGguam9pbihST09ULCAnc3RhdGUnLCAnc29jaWFsLXYyLmpzb24nKTsKaWYgKGZzLmV4aXN0c1N5bmMoY29uc29sZVRva2VuRmlsZSkgJiYgZnMuZXhpc3RzU3luYyhzb2NpYWxWMkZpbGUpKSB7CiAgdHJ5IHsKICAgIGNvbnN0IGNvbmZpZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CiAgICBjb25zdCBzb2NpYWwgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhzb2NpYWxWMkZpbGUsICd1dGY4JykpOwogICAgLy8g5Y+q5oyRKirlvZPliY3nmb3lkI3ljZXlhoUqKueahOS8muivneadpeaOoua0u++8muS7peWJjeebsuWPliBjb252ZXJzYXRpb25zWzBd77yM576k6KKr56e75Ye655m95ZCN5Y2V5ZCOCiAgICAvLyDnq6/ngrnkvJrlhYjmkp7jgIzlvZPliY3mqKHlvI/kuI3lhYHorrjor7vlj5bor6XkvJror53jgI0oNDAzKe+8jOawuOi/nOWIsOS4jeS6huOAjOacquingei/h+eahCBmb3J3YXJkIGlk44CNKDQwNCkg6YKj5p2h5pat6KiA77yMCiAgICAvLyDkuo7mmK/ov5nkuKrmtYvor5XkvJrlm6DkuLrmk43kvZzogIXmlLnphY3nva7ogIznuqLvvIzkuI7lrp7pmYXlronlhajooYzkuLrml6DlhbPjgIIKICAgIGNvbnN0IGFsbG93R3JvdXBzID0gbmV3IFNldCgoY29uZmlnLmFsbG93Py5ncm91cHMgPz8gW10pLm1hcChTdHJpbmcpKTsKICAgIGNvbnN0IGFsbG93UHJpdmF0ZSA9IG5ldyBTZXQoKGNvbmZpZy5hbGxvdz8ucHJpdmF0ZSA/PyBbXSkubWFwKFN0cmluZykpOwogICAgY29uc3QgaXNBbGxvd2VkS2V5ID0gKGspID0+IHsKICAgICAgY29uc3QgbSA9IC9eKGdyb3VwfHByaXZhdGUpOihcZCspJC8uZXhlYyhTdHJpbmcoaykpOwogICAgICBpZiAoIW0pIHJldHVybiBmYWxzZTsKICAgICAgcmV0dXJuIChtWzFdID09PSAnZ3JvdXAnID8gYWxsb3dHcm91cHMgOiBhbGxvd1ByaXZhdGUpLmhhcyhtWzJdKTsKICAgIH07CiAgICBjb25zdCBjb252ID0gc29jaWFsPy5jb252ZXJzYXRpb25zCiAgICAgID8gKE9iamVjdC5lbnRyaWVzKHNvY2lhbC5jb252ZXJzYXRpb25zKS5maW5kKChba10pID0+IGlzQWxsb3dlZEtleShrKSkgPz8gbnVsbCkKICAgICAgOiBudWxsOwogICAgY29uc3QgY29uc29sZVRva2VuID0gZnMucmVhZEZpbGVTeW5jKGNvbnNvbGVUb2tlbkZpbGUsICd1dGY4JykudHJpbSgpOwogICAgaWYgKGNvbnYpIHsKICAgICAgY29uc3QgW2tleSwgc3RdID0gY29udjsKICAgICAgY29uc3QgYWdlbnRUb2tlbiA9IHN0Py5hZ2VudFRva2VuOwogICAgICBjb25zdCB1cmxCYXNlID0gYGh0dHA6Ly8xMjcuMC4wLjE6JHtjb25maWcuY29uc29sZVBvcnQgfHwgMzEwMH0vYXBpL3NvY2lhbFYyL2ZvcndhcmQtbWVzc2FnZWA7CiAgICAgIGNvbnN0IGF1dGhIZWFkZXJzID0geyAneC1jb25zb2xlLXRva2VuJzogY29uc29sZVRva2VuIH07CiAgICAgIGlmIChhZ2VudFRva2VuKSB7CiAgICAgICAgLy8g5pyq5bimIGFnZW50IHRva2VuIOW6lOiiq+aLkue7ne+8iHJlc2VydmVkMu+8iQogICAgICAgIGNvbnN0IHJlc05vVG9rZW4gPSBhd2FpdCBmZXRjaChgJHt1cmxCYXNlfT9rZXk9JHtlbmNvZGVVUklDb21wb25lbnQoa2V5KX0maWQ9YWJjYCwgeyBoZWFkZXJzOiBhdXRoSGVhZGVycywgc2lnbmFsOiBBYm9ydFNpZ25hbC50aW1lb3V0KDUwMDApIH0pOwogICAgICAgIGNvbnN0IGJvZHlOb1Rva2VuID0gYXdhaXQgcmVzTm9Ub2tlbi5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSk7CiAgICAgICAgY2hlY2soJ+ahpeaOpeerr+eCue+8muaXoCBhZ2VudCB0b2tlbiDooqvmi5Lnu50nLCByZXNOb1Rva2VuLnN0YXR1cyA9PT0gNDAzICYmIC9hZ2VudCB0b2tlbi8udGVzdChib2R5Tm9Ub2tlbi5lcnJvciB8fCAnJyksIGBIVFRQICR7cmVzTm9Ub2tlbi5zdGF0dXN9ICR7Ym9keU5vVG9rZW4uZXJyb3IgfHwgJyd9YCk7CiAgICAgICAgLy8g5pC65bimIHRva2VuIOS9hiBpZCDkuI3lnKjlvZPliY3kvJror53lj6/op4HojIPlm7TvvIzlupTooqvmi5Lnu50KICAgICAgICBjb25zdCByZXNVbmtub3duID0gYXdhaXQgZmV0Y2goYCR7dXJsQmFzZX0/a2V5PSR7ZW5jb2RlVVJJQ29tcG9uZW50KGtleSl9JmlkPW5vdF9zZWVuX2luX3Nlc3Npb25gLCB7CiAgICAgICAgICBoZWFkZXJzOiB7IC4uLmF1dGhIZWFkZXJzLCAneC1hZ2VudC10b2tlbic6IGFnZW50VG9rZW4gfSwKICAgICAgICAgIHNpZ25hbDogQWJvcnRTaWduYWwudGltZW91dCg1MDAwKQogICAgICAgIH0pOwogICAgICAgIGNvbnN0IGJvZHlVbmtub3duID0gYXdhaXQgcmVzVW5rbm93bi5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSk7CiAgICAgICAgY2hlY2soJ+ahpeaOpeerr+eCue+8muacquingei/h+eahCBmb3J3YXJkIGlkIOiiq+aLkue7nScsIHJlc1Vua25vd24uc3RhdHVzID09PSA0MDQgJiYgL+S4jeWcqOW9k+WJjeS8muivneWPr+ingeiMg+WbtC8udGVzdChib2R5VW5rbm93bi5lcnJvciB8fCAnJyksIGBIVFRQICR7cmVzVW5rbm93bi5zdGF0dXN9ICR7Ym9keVVua25vd24uZXJyb3IgfHwgJyd9YCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY29uc29sZS5sb2coJ+KaoO+4jyDot7Pov4fmoaXmjqXnq6/ngrnmo4Dmn6XvvJrmsqHmnInlj6/nlKggYWdlbnRUb2tlbicpOwogICAgICB9CiAgICB9CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUubG9nKGDimqDvuI8g5qGl5o6l56uv54K55qOA5p+l6Lez6L+H77yaJHtlcnJvcj8ubWVzc2FnZSA/PyBlcnJvcn1gKTsKICB9Cn0gZWxzZSB7CiAgY29uc29sZS5sb2coJ+KaoO+4jyDot7Pov4fmoaXmjqXnq6/ngrnmo4Dmn6XvvJrnvLrlsJEgc3RhdGUvY29uc29sZS10b2tlbiDmiJYgc3RhdGUvc29jaWFsLXYyLmpzb24nKTsKfQoKY29uc29sZS5sb2coYFxu57uT5p6c77yaJHtwYXNzZWR9IOmAmui/h++8jCR7ZmFpbGVkfSDlpLHotKVgKTsKcHJvY2Vzcy5leGl0Q29kZSA9IGZhaWxlZCA+IDAgPyAxIDogMDsK
+// 合并转发消息能力自检脚本：
+// 1. sanitizeForwardId 清洗规则
+// 2. extractForwardIds 从 OneBot 消息段提取 forward id
+// 3. formatForwardResponse / nodeText 格式化合并转发内容（含截断）
+// 4. 配置里 getForwardMsg 默认开启
+// 5. 若桥接运行中，校验 /api/socialV2/forward-message 的安全拒绝逻辑
+// 运行：node scripts/test-forward.mjs
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import {
+  sanitizeForwardId,
+  extractForwardIds,
+  formatForwardResponse,
+  nodeText
+} from '../src/forward.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+let passed = 0;
+let failed = 0;
+
+function check(name, cond, extra = '') {
+  if (cond) {
+    passed += 1;
+    console.log(`✅ ${name}${extra ? ' — ' + extra : ''}`);
+  } else {
+    failed += 1;
+    console.error(`❌ ${name}${extra ? ' — ' + extra : ''}`);
+  }
+}
+
+// 1. sanitizeForwardId
+check('sanitizeForwardId 接受普通 id', sanitizeForwardId('abc_123-456') === 'abc_123-456');
+check('sanitizeForwardId 接受常见符号', sanitizeForwardId('a/b:c=d+e@f.g') === 'a/b:c=d+e@f.g');
+check('sanitizeForwardId 拒绝空白/控制字符', sanitizeForwardId('abc def') === '' && sanitizeForwardId('a\tb') === '');
+check('sanitizeForwardId 拒绝超长 id', sanitizeForwardId('x'.repeat(300)) === '');
+check('sanitizeForwardId 拒绝空值', sanitizeForwardId('') === '' && sanitizeForwardId(null) === '');
+
+// 2. extractForwardIds
+const segments = [
+  { type: 'text', data: { text: '看这个' } },
+  { type: 'forward', data: { id: 'fwd_001' } },
+  { type: 'forward', data: { res_id: 'fwd_002' } },
+  { type: 'forward', data: { id: 'fwd_001' } },
+  { type: 'forward', data: { id: 'bad id' } }
+];
+const ids = extractForwardIds(segments);
+check('extractForwardIds 提取并去重', JSON.stringify(ids) === JSON.stringify(['fwd_001', 'fwd_002']), JSON.stringify(ids));
+check('extractForwardIds 忽略非法 id', !ids.includes('bad id'));
+check('extractForwardIds 非数组返回空', JSON.stringify(extractForwardIds(null)) === '[]');
+
+// 3. formatForwardResponse / nodeText
+const data = {
+  messages: [
+    { sender: { nickname: '张三', user_id: 10001 }, time: 100006, message: [{ type: 'text', data: { text: '第一句' } }, { type: 'image', data: { url: 'https://example.com/a.jpg' } }, { type: 'forward', data: { id: 'nested_001' } }] },
+    { sender: '李四', time: 100007, message: '第二句' },
+    { sender: { card: '王五', user_id: 10003 }, time: 100008, content: [{ type: 'at', data: { qq: 10001 } }, { type: 'text', data: { text: ' 你好' } }] }
+  ]
+};
+const fmt = formatForwardResponse(data);
+check('formatForwardResponse.total=3', fmt.total === 3 && fmt.messages.length === 3);
+check('formatForwardResponse 提取 sender/text', fmt.messages[0].sender === '张三' && fmt.messages[0].text === '第一句[图片][转发]');
+check('formatForwardResponse 兼容字符串 message', fmt.messages[1].sender === '李四' && fmt.messages[1].text === '第二句');
+check('nodeText 兼容 content 数组', nodeText(data.messages[2]) === '@10001 你好');
+check('formatForwardResponse 暴露图片 media', fmt.messages[0].media.length === 1 && fmt.messages[0].media[0].url === 'https://example.com/a.jpg');
+check('formatForwardResponse 暴露嵌套 forward id', JSON.stringify(fmt.messages[0].nestedForwardIds) === JSON.stringify(['nested_001']));
+check('formatForwardResponse 暴露 messageId/messageSeq', fmt.messages[1].messageId === null && fmt.messages[1].messageSeq === null);
+
+const truncated = formatForwardResponse(data, { maxMessages: 2, maxCharsPerMessage: 1 });
+check('formatForwardResponse 截断 total/truncated', truncated.total === 3 && truncated.truncated === true && truncated.messages.length === 2);
+check('formatForwardResponse 单条截断', truncated.messages[0].text.length <= 1);
+check('formatForwardResponse textTruncated 标记', truncated.textTruncated === true);
+
+const empty = formatForwardResponse({ messages: [] });
+check('formatForwardResponse 空 messages', empty.total === 0 && empty.truncated === false && empty.messages.length === 0);
+
+const senderFallback = formatForwardResponse({ messages: [{ sender: { nickname: '', card: '王五', user_id: 10003 }, message: 'x' }] });
+check('sender 空 nickname 回退到 card', senderFallback.messages[0].sender === '王五');
+
+const nodeData = { messages: [{ type: 'node', data: { name: '张三', uin: '10001', time: 100006, content: [{ type: 'text', data: { text: '你好' } }] } }] };
+const fmtNode = formatForwardResponse(nodeData);
+check('formatForwardResponse 兼容标准 node.data 结构', fmtNode.messages[0].sender === '张三' && fmtNode.messages[0].text === '你好' && fmtNode.messages[0].userId === '10001' && fmtNode.messages[0].time === 100006);
+
+check('nodeText 清洗 CQ 字符串', nodeText({ message: '[CQ:image,file=x]' }) === '[媒体]');
+
+// 4. 配置默认开关
+try {
+  const config = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+  check('config.socialV2.tools.getForwardMsg 默认开启', config.socialV2?.tools?.getForwardMsg !== false);
+  check('config.socialV2.tools.sendPoke 默认开启', config.socialV2?.tools?.sendPoke !== false);
+  check('config.socialV2.wake.recommendedPoke 默认开启', config.socialV2?.wake?.recommendedPoke !== false);
+} catch (error) {
+  check('config.json 可读', false, error?.message);
+}
+
+// 5. 桥接端点安全拒绝（可选，桥接运行且状态存在时）
+const consoleTokenFile = path.join(ROOT, 'state', 'console-token');
+const socialV2File = path.join(ROOT, 'state', 'social-v2.json');
+if (fs.existsSync(consoleTokenFile) && fs.existsSync(socialV2File)) {
+  try {
+    const config = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+    const social = JSON.parse(fs.readFileSync(socialV2File, 'utf8'));
+    // 只挑**当前白名单内**的会话来探活：以前盲取 conversations[0]，群被移出白名单后
+    // 端点会先撞「当前模式不允许读取该会话」(403)，永远到不了「未见过的 forward id」(404) 那条断言，
+    // 于是这个测试会因为操作者改配置而红，与实际安全行为无关。
+    const allowGroups = new Set((config.allow?.groups ?? []).map(String));
+    const allowPrivate = new Set((config.allow?.private ?? []).map(String));
+    const isAllowedKey = (k) => {
+      const m = /^(group|private):(\d+)$/.exec(String(k));
+      if (!m) return false;
+      return (m[1] === 'group' ? allowGroups : allowPrivate).has(m[2]);
+    };
+    const conv = social?.conversations
+      ? (Object.entries(social.conversations).find(([k]) => isAllowedKey(k)) ?? null)
+      : null;
+    const consoleToken = fs.readFileSync(consoleTokenFile, 'utf8').trim();
+    if (conv) {
+      const [key, st] = conv;
+      const agentToken = st?.agentToken;
+      const urlBase = `http://127.0.0.1:${config.consolePort || 3100}/api/socialV2/forward-message`;
+      const authHeaders = { 'x-console-token': consoleToken };
+      if (agentToken) {
+        // 未带 agent token 应被拒绝（reserved2）
+        const resNoToken = await fetch(`${urlBase}?key=${encodeURIComponent(key)}&id=abc`, { headers: authHeaders, signal: AbortSignal.timeout(5000) });
+        const bodyNoToken = await resNoToken.json().catch(() => ({}));
+        check('桥接端点：无 agent token 被拒绝', resNoToken.status === 403 && /agent token/.test(bodyNoToken.error || ''), `HTTP ${resNoToken.status} ${bodyNoToken.error || ''}`);
+        // 携带 token 但 id 不在当前会话可见范围，应被拒绝
+        const resUnknown = await fetch(`${urlBase}?key=${encodeURIComponent(key)}&id=not_seen_in_session`, {
+          headers: { ...authHeaders, 'x-agent-token': agentToken },
+          signal: AbortSignal.timeout(5000)
+        });
+        const bodyUnknown = await resUnknown.json().catch(() => ({}));
+        check('桥接端点：未见过的 forward id 被拒绝', resUnknown.status === 404 && /不在当前会话可见范围/.test(bodyUnknown.error || ''), `HTTP ${resUnknown.status} ${bodyUnknown.error || ''}`);
+      } else {
+        console.log('⚠️ 跳过桥接端点检查：没有可用 agentToken');
+      }
+    }
+  } catch (error) {
+    console.log(`⚠️ 桥接端点检查跳过：${error?.message ?? error}`);
+  }
+} else {
+  console.log('⚠️ 跳过桥接端点检查：缺少 state/console-token 或 state/social-v2.json');
+}
+
+console.log(`\n结果：${passed} 通过，${failed} 失败`);
+process.exitCode = failed > 0 ? 1 : 0;

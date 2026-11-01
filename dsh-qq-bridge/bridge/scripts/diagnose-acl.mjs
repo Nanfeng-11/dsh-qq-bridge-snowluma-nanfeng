@@ -1,1 +1,154 @@
-Ly8g6K+K5pat77ya5LuT5bqT6YeM5ZOq5Lqb6Lev5b6E55qEIEFDTCDooqsqKuWIh+aWreS6hue7p+aJvyoq77yM5Zug6ICM5ZyoIERTSCDmspnnrrHkvJror53ph4zkuI3lj6/lhpnjgIIKLy8KLy8g5Li65LuA5LmI6ZyA6KaB5a6DCi8vIC0tLS0tLS0tLS0tLQovLyBEU0gg55qEIFdpbmRvd3Mg5paH5Lu25rKZ566x5oyJKirog73lipsgU0lEKirvvIjlvaLlpoIgYFMtMS00LeKApmDvvInmjojmnYPvvJrlt6XkvZzljLrmoLnnm67lvZXkuIrmjILkuIDmnaEKLy8g5Y+v57un5om/55qEIEFDRe+8jOWtkOi3r+W+hOmdoCoq57un5om/Kirmi7/liLDlroPjgILmiYDku6Xlj6ropoHmn5DkuKrnm67lvZUv5paH5Lu26KKrIGAvaW5oZXJpdGFuY2U6cmAKLy8g5YiH5pat5LqG57un5om/6ZO+77yM5rKZ566x6L+b56iL5bCx5rKh5pyJ5YaZ5p2D6ZmQIOKAlOKAlCDooajnjrDkuLogRVBFUk0gLyAiQWNjZXNzIHRvIHRoZSBwYXRoIOKApiBpcyBkZW5pZWQi77yMCi8vIOiAjOS7jiBgZGFuZ2VyLWZ1bGwtYWNjZXNzYCDkvJror53vvIjmiJbml6DmspnnrrHnmoTmma7pgJrnu4jnq6/vvInot5HlkIzmoLfnmoTmk43kvZzljbTlrozlhajmraPluLjjgIIKLy8KLy8g5pys6aG555uuKirmlYXmhI8qKuWvuSBgc3RhdGUvYCDkuI4gYGNvbmZpZy5qc29uYCDov5nkuYjlgZrvvIjop4Egc3JjL3N0YXRlLWFjbC5tanPvvJoKLy8gc3RhdGUvIOmHjOacieaOp+WItuWPsOS7pOeJjOOAgVNub3dMdW1hIE9uZUJvdCDku6TniYzkuI7lhajpg6ggUVEg6IGK5aSp6K6w5b2V77yJ44CC6L+Z5piv5pyJ5oSP55qE5a6J5YWo5Y+W6IiN77yMCi8vIOS4jeaYryBidWcg4oCU4oCUIOS9huWug+acieS4quW/hemhu+efpemBk+eahOWJr+S9nOeUqO+8mgovLwovLyAgIOKaoO+4jyAqKuWcqCBEU0gg5rKZ566x5Lya6K+d6YeM77yM5Lu75L2V5YaZIGBzdGF0ZS9gIOeahOaTjeS9nOmDveS8muiiq+ezu+e7n+aLkue7neOAgioqCi8vICAgICAg5YyF5ous5pys6aG555uu6Ieq5bex55qE5rWL6K+V5aS55YW344CB5o6i6ZKI44CBc2VsZi10ZXN044CCCi8vICAgICAg5Zug5q2k6YKj5Lqb6ISa5pys55qE5Li05pe25Lqn54mp5LiA5b6L6JC95Zyo57O757uf5Li05pe255uu5b2V77yI6KeBIHNjcmlwdHMvcHJvYmUtYXV0aC5tanMg55qE6K+05piO77yJ77yMCi8vICAgICAg6ICM5LiN5piv5LuT5bqT55qEIHN0YXRlL+OAggovLwovLyDpmaQgc3RhdGUvIOS4jiBjb25maWcuanNvbiDkuYvlpJbnmoTot6/lvoQqKuS4jeW6lOivpSoq6KKr5YiH5pat57un5om/44CC6Iul5pys6ISa5pys5oql5Ye65Yir55qE6Lev5b6E77yMCi8vIOivtOaYjuacieS7k+W6k+WklueahOWKqOS9nO+8iOaJi+W3pSBpY2FjbHPjgIHliKvnmoTlt6XlhbfvvInliqjov4flroPku6wg4oCU4oCUIOWug+S7rOS8muiuqeaymeeusemHjOeahAovLyDmraPluLjlvIDlj5Ev6LCD6K+V5bel5L2c5peg55CG55Sx5aSx6LSl44CCCi8vCi8vIOeUqOazle+8mgovLyAgIG5vZGUgc2NyaXB0cy9kaWFnbm9zZS1hY2wubWpzICAgICAgICAgICAgIyDlj6rmiqXlkYoKLy8gICBub2RlIHNjcmlwdHMvZGlhZ25vc2UtYWNsLm1qcyAtLXN0cmljdCAgICMg5Y+R546wIumdnumihOacnyLnmoTmlLbntKfot6/lvoTml7bku6UgMSDpgIDlh7rvvIjlj6/ov5sgQ0nvvIkKLy8KLy8g5pys6ISa5pysKirlj6ror7sqKu+8jOS4jeS/ruaUueS7u+S9leadg+mZkO+8m+S/ruWkjeWRveS7pOWPquaJk+WNsO+8jOeUseS9oOiHquW3seWGs+WumuimgeS4jeimgeaJp+ihjOOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7IGljYWNscywgaGFzSW5oZXJpdGVkUGVybWlzc2lvbkFjZSB9IGZyb20gJy4uL3NyYy9zdGF0ZS1hY2wubWpzJzsKCmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUocGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwpjb25zdCBTVFJJQ1QgPSBwcm9jZXNzLmFyZ3YuaW5jbHVkZXMoJy0tc3RyaWN0Jyk7CmNvbnN0IFNLSVBfRElSUyA9IG5ldyBTZXQoWydub2RlX21vZHVsZXMnLCAnLmdpdCcsICcubnBtLWNhY2hlJ10pOwoKLyoqIOmhueebrioq5pyJ5oSPKirmlLbntKfnmoTot6/lvoTvvIjliY3nvIDljLnphY3vvIznm7jlr7nku5PlupPmoLnnmoQgcG9zaXgg6aOO5qC86Lev5b6E77yJ44CCICovCmNvbnN0IElOVEVOVElPTkFMID0gWydzdGF0ZScsICdjb25maWcuanNvbiddOwoKaWYgKHByb2Nlc3MucGxhdGZvcm0gIT09ICd3aW4zMicpIHsKICBjb25zb2xlLmxvZygnW2RpYWdub3NlLWFjbF0g6Z2eIFdpbmRvd3PvvJpEU0gg55qEIEFDTCDmspnnrrHkuI3pgILnlKjvvIzml6DpnIDor4rmlq3jgIInKTsKICBwcm9jZXNzLmV4aXQoMCk7Cn0KCi8qKiDot6/lvoTmmK/lkKbooqvliIfmlq3kuobnu6fmib/vvIg9IOaLv+S4jeWIsOW3peS9nOWMuuagueS4iumCo+adoeWPr+e7p+aJv+eahOiDveWKmyBTSUQgQUNF77yJ44CCICovCmZ1bmN0aW9uIGFjbE9mKHRhcmdldCkgewogIGNvbnN0IHJlcyA9IGljYWNscyhbdGFyZ2V0XSwgMTAwMDApOwogIGlmIChyZXMuZXJyb3IpIHJldHVybiB7IGVycm9yOiByZXMuZXJyb3IgfTsKICBpZiAocmVzLnN0YXR1cyAhPT0gMCkgcmV0dXJuIHsgZXJyb3I6IG5ldyBFcnJvcihgaWNhY2xzIOmAgOWHuueggSAke3Jlcy5zdGF0dXN9YCkgfTsKICByZXR1cm4geyBvdXQ6IHJlcy5zdGRvdXQgPz8gJycgfTsKfQoKZnVuY3Rpb24gaXNTZXZlcmVkKHRhcmdldCkgewogIGNvbnN0IHsgb3V0LCBlcnJvciB9ID0gYWNsT2YodGFyZ2V0KTsKICBpZiAoZXJyb3IpIHJldHVybiB7IHVua25vd246IGVycm9yIH07CiAgLy8gaGFzSW5oZXJpdGVkUGVybWlzc2lvbkFjZSDkvJrmjpLpmaQgTWFuZGF0b3J5IExhYmVsIOihjCDigJTigJQgRFNIIOaymeeuseaKiuW3peS9nOWMuuagh+aIkAogIC8vIExvdyDlrozmlbTmgKfvvIzpgqPkuIDooYwqKuawuOi/nCoq5bimIChJKe+8jOS4jeaOkumZpOWwseS8muaKiiLlt7LmlLbntKci5YWo5Yik5oiQIuacquaUtue0pyLjgIIKICByZXR1cm4geyBzZXZlcmVkOiAhaGFzSW5oZXJpdGVkUGVybWlzc2lvbkFjZShvdXQpIH07Cn0KCi8qKiDovpPlh7rph4zmmK/lkKblh7rnjrDog73lipsgU0lE77yI5b2i5aaCIFMtMS00LeKApu+8ie+8jOeUqOS6juivtOaYjiLov5nmnaHot6/lvoToh6rlt7HluKbnnYDlhpnmnYPpmZAi44CCICovCmZ1bmN0aW9uIGhhc0NhcGFiaWxpdHlTaWQodGFyZ2V0KSB7CiAgcmV0dXJuIC9TLTEtNC0vLnRlc3QoYWNsT2YodGFyZ2V0KS5vdXQgPz8gJycpOwp9Cgpjb25zdCBzZXZlcmVkID0gW107CmNvbnN0IHVucmVhZGFibGUgPSBbXTsKbGV0IHNwYXduQmxvY2tlZCA9IGZhbHNlOwpjb25zdCB3YWxrID0gKGRpciwgcmVsID0gJycpID0+IHsKICBsZXQgZW50cmllcyA9IFtdOwogIHRyeSB7IGVudHJpZXMgPSBmcy5yZWFkZGlyU3luYyhkaXIsIHsgd2l0aEZpbGVUeXBlczogdHJ1ZSB9KTsgfSBjYXRjaCB7IHJldHVybjsgfQogIGZvciAoY29uc3QgZSBvZiBlbnRyaWVzKSB7CiAgICBpZiAoU0tJUF9ESVJTLmhhcyhlLm5hbWUpKSBjb250aW51ZTsKICAgIGNvbnN0IGFicyA9IHBhdGguam9pbihkaXIsIGUubmFtZSk7CiAgICBjb25zdCByID0gcmVsID8gYCR7cmVsfS8ke2UubmFtZX1gIDogZS5uYW1lOwogICAgY29uc3Qgc3QgPSBpc1NldmVyZWQoYWJzKTsKICAgIGlmIChzdC51bmtub3duKSB7CiAgICAgIC8vIOaymeeuseemgeatouS7peeuoemBkyBzdGRpbyDmi4notbflrZDov5vnqIsg4oeSIGljYWNscyDnm7TmjqUgRVBFUk3jgIIKICAgICAgLy8g6L+Z5LiN5pivIui3r+W+hOaciemXrumimCLvvIzogIzmmK8qKuacrOiEmuacrOW/hemhu+WcqOaXoOaymeeusee7iOerr+mHjOi3kSoq44CCCiAgICAgIGlmIChzdC51bmtub3duLmNvZGUgPT09ICdFUEVSTScpIHNwYXduQmxvY2tlZCA9IHRydWU7CiAgICAgIHVucmVhZGFibGUucHVzaChyKTsKICAgICAgY29udGludWU7CiAgICB9CiAgICBpZiAoc3Quc2V2ZXJlZCkgc2V2ZXJlZC5wdXNoKHsgcmVsOiByLCBhYnMsIGlzRGlyOiBlLmlzRGlyZWN0b3J5KCksIGNhcDogaGFzQ2FwYWJpbGl0eVNpZChhYnMpIH0pOwogICAgaWYgKGUuaXNEaXJlY3RvcnkoKSkgd2FsayhhYnMsIHIpOwogIH0KfTsKCi8vIOW3peS9nOWMuuagueiHquW3seW/hemhu+aYryLnu6fmib/mraPluLgi55qE77yM5ZCm5YiZ6K+05piO5pW05Liq5bel5L2c5Yy66YO95rKh5ou/5Yiw6IO95YqbIFNJRO+8jAovLyDpgqPmmK/lj6bkuIDkuKrpl67popjvvIhEU0gg6L+b5YWl5bel5L2c5Yy65pe25bqU5b2T5o6I5LqI5a6D77yJ44CCCmNvbnN0IHJvb3RTdGF0ZSA9IGlzU2V2ZXJlZChST09UKTsKaWYgKHJvb3RTdGF0ZS51bmtub3duPy5jb2RlID09PSAnRVBFUk0nKSBzcGF3bkJsb2NrZWQgPSB0cnVlOwpjb25zb2xlLmxvZyhgW2RpYWdub3NlLWFjbF0g5LuT5bqT5qC577yaJHtST09UfWApOwoKaWYgKHNwYXduQmxvY2tlZCkgewogIGNvbnNvbGUubG9nKCdbZGlhZ25vc2UtYWNsXSDim5Qg5pys6L+b56iL5peg5rOV5Lul566h6YGTIHN0ZGlvIOaLiei1tyBpY2FjbHPvvIhFUEVSTe+8ieKAlOKAlCcpOwogIGNvbnNvbGUubG9nKCcgICBEU0gg55qE5paH5Lu25rKZ566x56aB5q2i5rKZ566x5a2Q6L+b56iL5o2V6I635YW25a6D56iL5bqP55qE6L6T5Ye6566h6YGT44CCJyk7CiAgY29uc29sZS5sb2coJyAgIOi/meS4quiviuaWreW/hemhuyoq5Zyo5peg5rKZ566x55qE5pmu6YCa57uI56uvKirph4zov5DooYzvvIjmiJblnKggRFNIIOmHjOeUqCBkYW5nZXItZnVsbC1hY2Nlc3Mg5Lya6K+d77yJ44CCJyk7CiAgY29uc29sZS5sb2coJyAgIOazqOaEj+i/meS4jiBEU0gg55qEIEFDTCDmspnnrrHmmK/kuKTku7bkuovvvJrov5nph4zlpLHotKXnmoTmmK/jgIzor7sgQUNM44CN77yM5LiN5piv44CM5YaZ5paH5Lu26KKr5ouS44CN44CCJyk7CiAgcHJvY2Vzcy5leGl0KDIpOwp9Cgpjb25zb2xlLmxvZyhgW2RpYWdub3NlLWFjbF0g5LuT5bqT5qC56Ieq6Lqr5bim6IO95YqbIFNJRO+8miR7aGFzQ2FwYWJpbGl0eVNpZChST09UKSA/ICfmmK8nIDogJ+WQpid9YCk7CmlmIChyb290U3RhdGUuc2V2ZXJlZCkgewogIGNvbnNvbGUubG9nKCdbZGlhZ25vc2UtYWNsXSDimqDvuI8g5LuT5bqT5qC55bCx6KKr5YiH5pat5LqG57un5om/77ya5pW05qO15qCR55qE5a2Q6Lev5b6E6YO95ou/5LiN5Yiw5rKZ566x5YaZ5p2D6ZmQ44CCJyk7Cn0KCndhbGsoUk9PVCk7Cgpjb25zdCBpc0ludGVudGlvbmFsID0gKHJlbCkgPT4KICBJTlRFTlRJT05BTC5zb21lKChwKSA9PiByZWwgPT09IHAgfHwgcmVsLnN0YXJ0c1dpdGgoYCR7cH0vYCkpOwoKY29uc3QgZXhwZWN0ZWQgPSBzZXZlcmVkLmZpbHRlcigocykgPT4gaXNJbnRlbnRpb25hbChzLnJlbCkpOwpjb25zdCB1bmV4cGVjdGVkID0gc2V2ZXJlZC5maWx0ZXIoKHMpID0+ICFpc0ludGVudGlvbmFsKHMucmVsKSk7Cgpjb25zb2xlLmxvZyhgXG49PT0g5pyJ5oSP5pS257Sn77yI6aKE5pyf5YaF77yJID09PWApOwpjb25zb2xlLmxvZyhg5YWxICR7ZXhwZWN0ZWQubGVuZ3RofSDpobnjgIIke2V4cGVjdGVkLmxlbmd0aCA/ICfmnaXmupDvvJpzcmMvc3RhdGUtYWNsLm1qcyDnmoQgaGFyZGVuRGlyL2hhcmRlbkZpbGXvvIhzdGF0ZS8g5LiOIGNvbmZpZy5qc29u77yJ44CCJyA6ICcnfWApOwpmb3IgKGNvbnN0IHMgb2YgZXhwZWN0ZWQuc2xpY2UoMCwgNikpIGNvbnNvbGUubG9nKGAgICR7cy5yZWx9JHtzLmlzRGlyID8gJy8nIDogJyd9YCk7CmlmIChleHBlY3RlZC5sZW5ndGggPiA2KSBjb25zb2xlLmxvZyhgICDigKYg5YW25L2ZICR7ZXhwZWN0ZWQubGVuZ3RoIC0gNn0g6aG5YCk7CmlmIChleHBlY3RlZC5sZW5ndGgpIHsKICBjb25zb2xlLmxvZygnICDih5Ig5ZyoIERTSCDmspnnrrHkvJror53ph4zlhpnov5nkupvot6/lvoTkvJrooqvmi5Lnu53jgILov5nmmK/mnInmhI/nmoTlronlhajlj5boiI3vvJsnKTsKICBjb25zb2xlLmxvZygnICAgICDmnKzpobnnm67nmoTmtYvor5XlpLnlhbcv5o6i6ZKI5o2u5q2k5LiA5b6L5pS555So57O757uf5Li05pe255uu5b2V44CCJyk7CiAgY29uc29sZS5sb2coJycpOwogIGNvbnNvbGUubG9nKCcgIOKblCAqKuS4jeimgSoq5a+56L+Z5Lqb6Lev5b6E5omn6KGMIC9pbmhlcml0YW5jZTplIOadpSLkv67lpb0i5rKZ566x5YaZ5YWl77yaJyk7CiAgY29uc29sZS5sb2coJyAgICAg5oGi5aSN57un5om/5Lya5oqK54i255uu5b2V55qE5Y+v57un5om/IEFDRSDkuIDotbfluKblm57mnaXvvIzlhbbkuK3ljIXlkKsnKTsKICBjb25zb2xlLmxvZygnICAgICAgIE5UIEFVVEhPUklUWVxcQXV0aGVudGljYXRlZCBVc2VycyA6IE1vZGlmeScpOwogIGNvbnNvbGUubG9nKCcgICAgICAgQlVJTFRJTlxcVXNlcnMgICAgICAgICAgICAgICAgICAgIDogUmVhZEFuZEV4ZWN1dGUnKTsKICBjb25zb2xlLmxvZygnICAgICDpgqPmraPmmK8gaGFyZGVuLXN0YXRlLWFjbC5tanMg5LiT6Zeo5Y675o6J55qE5Lik5p2hIOKAlOKAlCDnrYnkuo7miormjqfliLblj7Dku6TniYzjgIEnKTsKICBjb25zb2xlLmxvZygnICAgICBTbm93THVtYSBPbmVCb3Qg5Luk54mM5LiO5YWo6YOoIFFRIOiBiuWkqeiusOW9lemHjeaWsOW8gOaUvue7meacrOacuuS7u+S9leW3sueZu+W9leeUqOaIt+OAgicpOwogIGNvbnNvbGUubG9nKCcgICAgIGBzdGF0ZS9gIOS4jiBgY29uZmlnLmpzb25gIOeahOato+ehruWnv+aAgeWwseaYr+OAjOS/neaMgeaUtue0pyArIOS4jeimgeS7juaymeeusemHjOWGmeWug+OAjeOAgicpOwp9Cgpjb25zb2xlLmxvZyhgXG49PT0g6Z2e6aKE5pyf5pS257Sn77yI5bqU5aSE55CG77yJID09PWApOwppZiAodW5leHBlY3RlZC5sZW5ndGggPT09IDApIHsKICBjb25zb2xlLmxvZygnICAo5pegKScpOwp9IGVsc2UgewogIGZvciAoY29uc3QgcyBvZiB1bmV4cGVjdGVkKSBjb25zb2xlLmxvZyhgICAke3MucmVsfSR7cy5pc0RpciA/ICcvJyA6ICcnfWApOwogIGNvbnNvbGUubG9nKCdcbiAg6L+Z5Lqb6Lev5b6E5LiN5piv5pys5LuT5bqT5Lu75L2V6ISa5pys5pS257Sn55qE77yM5Lya6K6p5rKZ566x5Lya6K+d6YeM55qE5q2j5bi45byA5Y+RL+iwg+ivleaXoOeQhueUseWksei0peOAgicpOwogIGNvbnNvbGUubG9nKCcgIOS/ruWkje+8iOaBouWkjee7p+aJv++8jOS4jeWKqOS7u+S9leaVsOaNru+8m+euoeeQhuWRmOaIluWxnuS4u+e7iOerr+Wdh+WPr++8ie+8micpOwogIGNvbnN0IGRpcnMgPSBuZXcgU2V0KCk7CiAgZm9yIChjb25zdCBzIG9mIHVuZXhwZWN0ZWQpIGRpcnMuYWRkKHMuaXNEaXIgPyBzLmFicyA6IHBhdGguZGlybmFtZShzLmFicykpOwogIGZvciAoY29uc3QgZCBvZiBkaXJzKSBjb25zb2xlLmxvZyhgICAgIGljYWNscyAiJHtkfSIgL2luaGVyaXRhbmNlOmUgL0MgL1FgKTsKICBjb25zb2xlLmxvZygnICDor7TmmI7vvJovaW5oZXJpdGFuY2U6ZSDkvJrku47niLbnm67lvZXph43mlrDnu6fmib/pgqPmnaHog73lipsgU0lEIEFDRe+8mycpOwogIGNvbnNvbGUubG9nKCcgICAgICAgIOWug+S4jeS8muaUvuWuveWvueWklumDqOeUqOaIt+eahOWPr+ingeaAp+WIsOi2heWHuuW3peS9nOWMuuWOn+acieeahOeoi+W6puOAgicpOwp9CgppZiAodW5yZWFkYWJsZS5sZW5ndGgpIHsKICBjb25zb2xlLmxvZyhgXG49PT0gQUNMIOivu+WPluWksei0pe+8iCR7dW5yZWFkYWJsZS5sZW5ndGh9IOmhue+8jOW3sui3s+i/h++8iSA9PT1gKTsKICBmb3IgKGNvbnN0IHIgb2YgdW5yZWFkYWJsZS5zbGljZSgwLCA4KSkgY29uc29sZS5sb2coYCAgJHtyfWApOwogIGlmICh1bnJlYWRhYmxlLmxlbmd0aCA+IDgpIGNvbnNvbGUubG9nKGAgIOKApiDlhbbkvZkgJHt1bnJlYWRhYmxlLmxlbmd0aCAtIDh9IOmhuWApOwp9Cgpjb25zb2xlLmxvZyhgXG5bZGlhZ25vc2UtYWNsXSDmlLbntKfot6/lvoTlkIjorqEgJHtzZXZlcmVkLmxlbmd0aH0g6aG577yI5pyJ5oSPICR7ZXhwZWN0ZWQubGVuZ3RofSAvIOmdnumihOacnyAke3VuZXhwZWN0ZWQubGVuZ3Rofe+8ieOAgmApOwpwcm9jZXNzLmV4aXRDb2RlID0gU1RSSUNUICYmIHVuZXhwZWN0ZWQubGVuZ3RoID4gMCA/IDEgOiAwOwo=
+// 诊断：仓库里哪些路径的 ACL 被**切断了继承**，因而在 DSH 沙箱会话里不可写。
+//
+// 为什么需要它
+// ------------
+// DSH 的 Windows 文件沙箱按**能力 SID**（形如 `S-1-4-…`）授权：工作区根目录上挂一条
+// 可继承的 ACE，子路径靠**继承**拿到它。所以只要某个目录/文件被 `/inheritance:r`
+// 切断了继承链，沙箱进程就没有写权限 —— 表现为 EPERM / "Access to the path … is denied"，
+// 而从 `danger-full-access` 会话（或无沙箱的普通终端）跑同样的操作却完全正常。
+//
+// 本项目**故意**对 `state/` 与 `config.json` 这么做（见 src/state-acl.mjs：
+// state/ 里有控制台令牌、SnowLuma OneBot 令牌与全部 QQ 聊天记录）。这是有意的安全取舍，
+// 不是 bug —— 但它有个必须知道的副作用：
+//
+//   ⚠️ **在 DSH 沙箱会话里，任何写 `state/` 的操作都会被系统拒绝。**
+//      包括本项目自己的测试夹具、探针、self-test。
+//      因此那些脚本的临时产物一律落在系统临时目录（见 scripts/probe-auth.mjs 的说明），
+//      而不是仓库的 state/。
+//
+// 除 state/ 与 config.json 之外的路径**不应该**被切断继承。若本脚本报出别的路径，
+// 说明有仓库外的动作（手工 icacls、别的工具）动过它们 —— 它们会让沙箱里的
+// 正常开发/调试工作无理由失败。
+//
+// 用法：
+//   node scripts/diagnose-acl.mjs            # 只报告
+//   node scripts/diagnose-acl.mjs --strict   # 发现"非预期"的收紧路径时以 1 退出（可进 CI）
+//
+// 本脚本**只读**，不修改任何权限；修复命令只打印，由你自己决定要不要执行。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { icacls, hasInheritedPermissionAce } from '../src/state-acl.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const STRICT = process.argv.includes('--strict');
+const SKIP_DIRS = new Set(['node_modules', '.git', '.npm-cache']);
+
+/** 项目**有意**收紧的路径（前缀匹配，相对仓库根的 posix 风格路径）。 */
+const INTENTIONAL = ['state', 'config.json'];
+
+if (process.platform !== 'win32') {
+  console.log('[diagnose-acl] 非 Windows：DSH 的 ACL 沙箱不适用，无需诊断。');
+  process.exit(0);
+}
+
+/** 路径是否被切断了继承（= 拿不到工作区根上那条可继承的能力 SID ACE）。 */
+function aclOf(target) {
+  const res = icacls([target], 10000);
+  if (res.error) return { error: res.error };
+  if (res.status !== 0) return { error: new Error(`icacls 退出码 ${res.status}`) };
+  return { out: res.stdout ?? '' };
+}
+
+function isSevered(target) {
+  const { out, error } = aclOf(target);
+  if (error) return { unknown: error };
+  // hasInheritedPermissionAce 会排除 Mandatory Label 行 —— DSH 沙箱把工作区标成
+  // Low 完整性，那一行**永远**带 (I)，不排除就会把"已收紧"全判成"未收紧"。
+  return { severed: !hasInheritedPermissionAce(out) };
+}
+
+/** 输出里是否出现能力 SID（形如 S-1-4-…），用于说明"这条路径自己带着写权限"。 */
+function hasCapabilitySid(target) {
+  return /S-1-4-/.test(aclOf(target).out ?? '');
+}
+
+const severed = [];
+const unreadable = [];
+let spawnBlocked = false;
+const walk = (dir, rel = '') => {
+  let entries = [];
+  try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { return; }
+  for (const e of entries) {
+    if (SKIP_DIRS.has(e.name)) continue;
+    const abs = path.join(dir, e.name);
+    const r = rel ? `${rel}/${e.name}` : e.name;
+    const st = isSevered(abs);
+    if (st.unknown) {
+      // 沙箱禁止以管道 stdio 拉起子进程 ⇒ icacls 直接 EPERM。
+      // 这不是"路径有问题"，而是**本脚本必须在无沙箱终端里跑**。
+      if (st.unknown.code === 'EPERM') spawnBlocked = true;
+      unreadable.push(r);
+      continue;
+    }
+    if (st.severed) severed.push({ rel: r, abs, isDir: e.isDirectory(), cap: hasCapabilitySid(abs) });
+    if (e.isDirectory()) walk(abs, r);
+  }
+};
+
+// 工作区根自己必须是"继承正常"的，否则说明整个工作区都没拿到能力 SID，
+// 那是另一个问题（DSH 进入工作区时应当授予它）。
+const rootState = isSevered(ROOT);
+if (rootState.unknown?.code === 'EPERM') spawnBlocked = true;
+console.log(`[diagnose-acl] 仓库根：${ROOT}`);
+
+if (spawnBlocked) {
+  console.log('[diagnose-acl] ⛔ 本进程无法以管道 stdio 拉起 icacls（EPERM）——');
+  console.log('   DSH 的文件沙箱禁止沙箱子进程捕获其它程序的输出管道。');
+  console.log('   这个诊断必须**在无沙箱的普通终端**里运行（或在 DSH 里用 danger-full-access 会话）。');
+  console.log('   注意这与 DSH 的 ACL 沙箱是两件事：这里失败的是「读 ACL」，不是「写文件被拒」。');
+  process.exit(2);
+}
+
+console.log(`[diagnose-acl] 仓库根自身带能力 SID：${hasCapabilitySid(ROOT) ? '是' : '否'}`);
+if (rootState.severed) {
+  console.log('[diagnose-acl] ⚠️ 仓库根就被切断了继承：整棵树的子路径都拿不到沙箱写权限。');
+}
+
+walk(ROOT);
+
+const isIntentional = (rel) =>
+  INTENTIONAL.some((p) => rel === p || rel.startsWith(`${p}/`));
+
+const expected = severed.filter((s) => isIntentional(s.rel));
+const unexpected = severed.filter((s) => !isIntentional(s.rel));
+
+console.log(`\n=== 有意收紧（预期内） ===`);
+console.log(`共 ${expected.length} 项。${expected.length ? '来源：src/state-acl.mjs 的 hardenDir/hardenFile（state/ 与 config.json）。' : ''}`);
+for (const s of expected.slice(0, 6)) console.log(`  ${s.rel}${s.isDir ? '/' : ''}`);
+if (expected.length > 6) console.log(`  … 其余 ${expected.length - 6} 项`);
+if (expected.length) {
+  console.log('  ⇒ 在 DSH 沙箱会话里写这些路径会被拒绝。这是有意的安全取舍；');
+  console.log('     本项目的测试夹具/探针据此一律改用系统临时目录。');
+  console.log('');
+  console.log('  ⛔ **不要**对这些路径执行 /inheritance:e 来"修好"沙箱写入：');
+  console.log('     恢复继承会把父目录的可继承 ACE 一起带回来，其中包含');
+  console.log('       NT AUTHORITY\\Authenticated Users : Modify');
+  console.log('       BUILTIN\\Users                    : ReadAndExecute');
+  console.log('     那正是 harden-state-acl.mjs 专门去掉的两条 —— 等于把控制台令牌、');
+  console.log('     SnowLuma OneBot 令牌与全部 QQ 聊天记录重新开放给本机任何已登录用户。');
+  console.log('     `state/` 与 `config.json` 的正确姿态就是「保持收紧 + 不要从沙箱里写它」。');
+}
+
+console.log(`\n=== 非预期收紧（应处理） ===`);
+if (unexpected.length === 0) {
+  console.log('  (无)');
+} else {
+  for (const s of unexpected) console.log(`  ${s.rel}${s.isDir ? '/' : ''}`);
+  console.log('\n  这些路径不是本仓库任何脚本收紧的，会让沙箱会话里的正常开发/调试无理由失败。');
+  console.log('  修复（恢复继承，不动任何数据；管理员或属主终端均可）：');
+  const dirs = new Set();
+  for (const s of unexpected) dirs.add(s.isDir ? s.abs : path.dirname(s.abs));
+  for (const d of dirs) console.log(`    icacls "${d}" /inheritance:e /C /Q`);
+  console.log('  说明：/inheritance:e 会从父目录重新继承那条能力 SID ACE；');
+  console.log('        它不会放宽对外部用户的可见性到超出工作区原有的程度。');
+}
+
+if (unreadable.length) {
+  console.log(`\n=== ACL 读取失败（${unreadable.length} 项，已跳过） ===`);
+  for (const r of unreadable.slice(0, 8)) console.log(`  ${r}`);
+  if (unreadable.length > 8) console.log(`  … 其余 ${unreadable.length - 8} 项`);
+}
+
+console.log(`\n[diagnose-acl] 收紧路径合计 ${severed.length} 项（有意 ${expected.length} / 非预期 ${unexpected.length}）。`);
+process.exitCode = STRICT && unexpected.length > 0 ? 1 : 0;

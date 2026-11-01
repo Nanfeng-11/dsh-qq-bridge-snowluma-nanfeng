@@ -1,1 +1,108 @@
-Ly8g5oOF57uq54q25oCB77ya566A5YyW54mIIFBBRO+8iOWPqueVmeaEieaCpue7tCBtb29kIDB+MSArIDEwIOS4quaDhee7quagh+etvu+8ieOAggovLwovLyDorr7orqHnm67moIfvvIjlgJ/pibTkupTlsYLmoYbmnrbnmoTmg4Xnu6rlsYLvvIzkvYbpgILphY3ljZXmnLogSlNPTu+8ie+8mgovLyAgLSDmg4Xnu6rmmK8qKuacieeKtuaAgSoq55qE77ya6Leo5raI5oGv57Sv56ev77yM5LiN5YaN5q+P6L2u5LuO5Lq65qC85Y2hIueOsOa8lCLjgIIKLy8gIC0g5Y+Y5YyW6ZmQ5bmF77ya5Y2V5p2h5raI5oGv5a+55b+D5oOF55qE5pS55Y+YIOKJpCAwLjEy44CB5Y2V5Liq5qCH562+IOKJpCAwLjEy77yM6Ziy5q2i5LiA5Y+l6K+d5oqK5oOF57uq5omT56m/44CCCi8vICAtIOWNiuihsOacn++8muW/g+aDhSA2IOWwj+aXtuWQkSAwLjUg5Zue5b2S77yb5qCH562+IDQ1IOWIhumSn+ihsOWHj+WIsOW/veeVpeOAggovLyAgLSDor43ooajpqbHliqjvvJrmoaXmjqXoh6rliqjliIbmnpAqKuWFpeermSoq5raI5oGv77yI56eB6IGK5YWo566X77yb576k6IGK5Y+q566XIEDlpbkv5Y+r5aW5IOeahOa2iOaBr++8ie+8jAovLyAgICDkuI3ng6cgdG9rZW7vvIzkuZ/kuI3kvp3otZYgQUkg6K6w5b6X6LCD55So5bel5YW344CCCi8vICAtIEFJIOS7jeWPr+eUqCBxcV9zZXRfbW9vZCDkuLvliqjlvq7osIPvvIjlt6XlhbflnKggTUNQIOmHjO+8jOW8leaTjumHjeWQr+WQjueUn+aViO+8ieOAggoKZXhwb3J0IGNvbnN0IE1PT0RfVEFHUyA9IFsn5byA5b+DJywgJ+eUn+awlCcsICfpmr7ov4cnLCAn5a6z5oCVJywgJ+WnlOWxiCcsICflrrPnvp4nLCAn5b6X5oSPJywgJ+aEn+WKqCcsICfnhKbomZEnLCAn5peg6IGKJ107Cgpjb25zdCBNT09EX0hBTEZMSUZFX01JTiA9IDM2MDsgICAvLyDlv4Pmg4XljYroobDmnJ8gNiDlsI/ml7YKY29uc3QgVEFHX0hBTEZMSUZFX01JTiA9IDQ1OyAgICAgLy8g5qCH562+5Y2K6KGw5pyfIDQ1IOWIhumSnwpleHBvcnQgY29uc3QgTU9PRF9TVEVQID0gMC4xMjsgICAvLyDljZXmnaHmtojmga/lv4Pmg4Xlj5jljJbkuIrpmZAKZXhwb3J0IGNvbnN0IFRBR19NQVggPSAwLjY7ICAgICAgLy8g5qCH562+5by65bqm5LiK6ZmQCgpjb25zdCBjbGFtcCA9ICh2LCBsbywgaGkpID0+IE1hdGgubWF4KGxvLCBNYXRoLm1pbihoaSwgdikpOwoKZXhwb3J0IGZ1bmN0aW9uIGRlZmF1bHRNb29kKG5vdyA9IERhdGUubm93KCkpIHsKICByZXR1cm4geyBtb29kOiAwLjUsIHRhZ3M6IHt9LCB1cGRhdGVkQXQ6IG5vdyB9Owp9CgovKiog5oOw5oCn6KGw5YeP77ya5b+D5oOF5ZCRIDAuNSDlm57lvZLvvIzmoIfnrb7mjInljYroobDmnJ/oobDlh4/vvJvlpKrlvLHnmoTmoIfnrb7nm7TmjqXliKDpmaQgKi8KZXhwb3J0IGZ1bmN0aW9uIGRlY2F5TW9vZChtLCBub3cgPSBEYXRlLm5vdygpKSB7CiAgaWYgKCFtIHx8IHR5cGVvZiBtICE9PSAnb2JqZWN0JykgcmV0dXJuIGRlZmF1bHRNb29kKG5vdyk7CiAgY29uc3QgbWlucyA9IE1hdGgubWF4KDAsIChub3cgLSAoTnVtYmVyKG0udXBkYXRlZEF0KSB8fCBub3cpKSAvIDYwMDAwKTsKICBjb25zdCBtb29kVCA9IE1PT0RfSEFMRkxJRkVfTUlOOwogIG0ubW9vZCA9IDAuNSArIChjbGFtcChOdW1iZXIobS5tb29kKSB8fCAwLjUsIDAsIDEpIC0gMC41KSAqIE1hdGgucG93KDAuNSwgbWlucyAvIG1vb2RUKTsKICBjb25zdCB0YWdzID0gbS50YWdzICYmIHR5cGVvZiBtLnRhZ3MgPT09ICdvYmplY3QnID8gbS50YWdzIDoge307CiAgZm9yIChjb25zdCBbaywgdl0gb2YgT2JqZWN0LmVudHJpZXModGFncykpIHsKICAgIGNvbnN0IG52ID0gTnVtYmVyKHYpICogTWF0aC5wb3coMC41LCBtaW5zIC8gVEFHX0hBTEZMSUZFX01JTik7CiAgICBpZiAobnYgPCAwLjAyKSBkZWxldGUgdGFnc1trXTsKICAgIGVsc2UgdGFnc1trXSA9IG52OwogIH0KICBtLnVwZGF0ZWRBdCA9IG5vdzsKICByZXR1cm4gbTsKfQoKLyoqIOW6lOeUqOS4gOi9ruWinumHj++8iG1vb2REZWx0YSDkuI7lkITmoIfnrb7vvIzlt7LpmZDluYXvvIkgKi8KZXhwb3J0IGZ1bmN0aW9uIGFwcGx5RGVsdGEobSwgeyBtb29kRGVsdGEgPSAwLCB0YWdzID0ge30gfSwgbm93ID0gRGF0ZS5ub3coKSkgewogIGRlY2F5TW9vZChtLCBub3cpOwogIC8vIOW9oueKtuW9kuS4gO+8muaXp+aWh+S7ti/miYvmlLkv5YaZ55uY5oiq5pat5pe2IHRhZ3Mg5Y+v6IO957y65aSx77yM57y65LqG5bCx55u05o6l6KGl56m65a+56LGh77yI6YG/5YWNIFR5cGVFcnJvciDkuK3mlq3mtojmga/lpITnkIbvvIkKICBpZiAoIW0udGFncyB8fCB0eXBlb2YgbS50YWdzICE9PSAnb2JqZWN0JykgbS50YWdzID0ge307CiAgbS5tb29kID0gY2xhbXAoKG0ubW9vZCB8fCAwLjUpICsgY2xhbXAoTnVtYmVyKG1vb2REZWx0YSkgfHwgMCwgLU1PT0RfU1RFUCwgTU9PRF9TVEVQKSwgMCwgMSk7CiAgZm9yIChjb25zdCBbaywgdl0gb2YgT2JqZWN0LmVudHJpZXModGFncyB8fCB7fSkpIHsKICAgIGlmICghTU9PRF9UQUdTLmluY2x1ZGVzKGspKSBjb250aW51ZTsKICAgIG0udGFnc1trXSA9IGNsYW1wKChOdW1iZXIobS50YWdzW2tdKSB8fCAwKSArIGNsYW1wKE51bWJlcih2KSB8fCAwLCAtTU9PRF9TVEVQLCBNT09EX1NURVApLCAwLCBUQUdfTUFYKTsKICB9CiAgbS51cGRhdGVkQXQgPSBub3c7CiAgcmV0dXJuIG07Cn0KCi8vIOWFpeermea2iOaBr+eahOaDhee7quivjeihqO+8muWRveS4reS4gOadoeWwseaMieinhOWImeWPoOWKoOOAggovLyDlhbPplK7or43lkb3kuK3mjInpobrluo/ntK/liqDvvIjkuIDmnaHmtojmga/lj6/ku6XlkIzml7blvIDlv4Plj4jlrrPnvp7vvInjgIIKY29uc3QgTEVYSUNPTiA9IFsKICB7IHRhZ3M6IHsg5byA5b+DOiAwLjA1LCDlrrPnvp46IDAuMDMgfSwgd29yZHM6IFsn5a6d5a6dJywgJ+S5licsICflj6/niLEnLCAn5Zac5qyiJywgJ+aDs+S9oOS6hicsICflpb3lkKwnLCAn5Y6J5a6zJywgJ+iQjCddIH0sCiAgeyB0YWdzOiB7IOW8gOW/gzogMC4wNCB9LCB3b3JkczogWyflk4jlk4gnLCAn5Zi/5Zi/JywgJ+eskeatuycsICfniLHkuoYnXSB9LAogIHsgdGFnczogeyDnlJ/msJQ6IDAuMDggfSwgd29yZHM6IFsn5L2g55qE6KeS6ImyJywgJ+a7micsICflgrsnLCAn56yoJywgJ+ayoeeUqCcsICfmnInnl4UnLCAn5bqf54mpJywgJ+Weg+WcviddIH0sCiAgeyB0YWdzOiB7IOWnlOWxiDogMC4wNyB9LCB3b3JkczogWyflp5TlsYgnLCAn5Yak5p6JJywgJ+mUmeaAqicsICfor6/kvJrkvaDkuoYnXSB9LAogIHsgdGFnczogeyDmhJ/liqg6IDAuMDYgfSwgd29yZHM6IFsn5pyJ5oiR5ZyoJywgJ+WIq+S4gOS4quS6uicsICfpmarkvaAnLCAn5b+D55a8JywgJ+aIkeaDs+S9oCcsICfnprvkuI3lvIDkvaAnLCAn562J5L2gJ10gfSwKICB7IHRhZ3M6IHsg54Sm6JmROiAwLjA1IH0sIHdvcmRzOiBbJ+aAjuS5iOWKnicsICflh7rkuovkuoYnLCAn5oCl5q27JywgJ+WujOibi+S6hicsICfmkpHkuI3kvY8nLCAn5qyg5YC6JywgJ+asoOmSsScsICfmrKDmj40nXSB9LAogIHsgdGFnczogeyDpmr7ov4c6IDAuMDYgfSwgd29yZHM6IFsn6Zq+5Y+XJywgJ+W0qea6gycsICfmg7Plk60nLCAn5aW957SvJywgJ+W/g+mHjOepuiddIH0sCiAgeyB0YWdzOiB7IOaXoOiBijogMC4wNCB9LCB3b3JkczogWyfml6DogYonLCAn5rKh5oSP5oCdJywgJ+ayoeS6i+W5sicsICflj5HlkYYnXSB9Cl07Cgpjb25zdCBTRUxGX05BTUVfUkUgPSAv5L2g55qE6KeS6ImyfOWwj+myuOmxvHzljZfpsbx85a6d5a6dLzsKCi8qKgogKiDliIbmnpDkuIDmnaHlhaXnq5nmtojmga/vvIzov5Tlm57mg4Xnu6rlop7ph4/jgIIKICogQHBhcmFtIHtzdHJpbmd9IHRleHQg5raI5oGv5paH5pysCiAqIEBwYXJhbSB7Ym9vbGVhbn0gaXNQcml2YXRlIOaYr+WQpuengeiBiu+8iOe+pOiBiuaXtuWPquacieaPkOWIsOWlueaJjeeul++8iQogKiBAcmV0dXJucyB7e21vb2REZWx0YTpudW1iZXIsIHRhZ3M6T2JqZWN0fXxudWxsfQogKi8KZXhwb3J0IGZ1bmN0aW9uIGFuYWx5emVNZXNzYWdlKHRleHQsIGlzUHJpdmF0ZSA9IGZhbHNlKSB7CiAgY29uc3QgcmF3ID0gU3RyaW5nKHRleHQgPz8gJycpOwogIGlmICghcmF3KSByZXR1cm4gbnVsbDsKICBpZiAoIWlzUHJpdmF0ZSAmJiAhU0VMRl9OQU1FX1JFLnRlc3QocmF3KSAmJiAhcmF3LmluY2x1ZGVzKCdAJykpIHJldHVybiBudWxsOwogIGNvbnN0IHRhZ3MgPSB7fTsKICBsZXQgbW9vZERlbHRhID0gMDsKICBmb3IgKGNvbnN0IHJ1bGUgb2YgTEVYSUNPTikgewogICAgbGV0IGhpdCA9IGZhbHNlOwogICAgZm9yIChjb25zdCB3IG9mIHJ1bGUud29yZHMpIHsKICAgICAgaWYgKHJhdy5pbmNsdWRlcyh3KSkgeyBoaXQgPSB0cnVlOyBicmVhazsgfQogICAgfQogICAgaWYgKCFoaXQpIGNvbnRpbnVlOwogICAgZm9yIChjb25zdCBbaywgdl0gb2YgT2JqZWN0LmVudHJpZXMocnVsZS50YWdzKSkgewogICAgICB0YWdzW2tdID0gKHRhZ3Nba10gfHwgMCkgKyB2OwogICAgfQogIH0KICBjb25zdCB0b3RhbCA9IE9iamVjdC52YWx1ZXModGFncykucmVkdWNlKChhLCBiKSA9PiBhICsgYiwgMCk7CiAgbW9vZERlbHRhID0gY2xhbXAodG90YWwsIC1NT09EX1NURVAsIE1PT0RfU1RFUCk7IC8vIOW/g+aDheWinumHj+aMieagh+etvuaAu+WSjOaYoOWwhAogIGlmICh0YWdzWyfnlJ/msJQnXSB8fCB0YWdzWyflp5TlsYgnXSB8fCB0YWdzWyfpmr7ov4cnXSB8fCB0YWdzWyfnhKbomZEnXSkgbW9vZERlbHRhID0gLWNsYW1wKE1hdGguYWJzKG1vb2REZWx0YSksIDAsIE1PT0RfU1RFUCk7CiAgcmV0dXJuIE9iamVjdC5rZXlzKHRhZ3MpLmxlbmd0aCA/IHsgbW9vZERlbHRhLCB0YWdzIH0gOiBudWxsOwp9CgovKiog55Sf5oiQ5rOo5YWl6KGM77yI55+t77yMNjAg5a2X5bem5Y+z77yJICovCmV4cG9ydCBmdW5jdGlvbiByZW5kZXJNb29kKG0sIG5vdyA9IERhdGUubm93KCkpIHsKICBjb25zdCBjdXIgPSBkZWNheU1vb2QoeyAuLi4obSB8fCBkZWZhdWx0TW9vZChub3cpKSwgdGFnczogeyAuLi4obT8udGFncyB8fCB7fSkgfSB9LCBub3cpOwogIGNvbnN0IHN0cm9uZyA9IE9iamVjdC5lbnRyaWVzKGN1ci50YWdzKQogICAgLmZpbHRlcigoWywgdl0pID0+IHYgPj0gMC4xKQogICAgLnNvcnQoKGEsIGIpID0+IGJbMV0gLSBhWzFdKQogICAgLnNsaWNlKDAsIDMpCiAgICAubWFwKChbaywgdl0pID0+ICh2ID49IDAuMzUgPyBgJHtrfSjlvLopYCA6IGspKTsKICBjb25zdCBkZXNjID0gY3VyLm1vb2QgPiAwLjcyID8gJ+W+iOWlvScgOiBjdXIubW9vZCA+IDAuNTggPyAn5LiN6ZSZJyA6IGN1ci5tb29kID4gMC40MiA/ICfkuIDoiKwnIDogY3VyLm1vb2QgPiAwLjI4ID8gJ+acieeCueS9juiQvScgOiAn5b6I57OfJzsKICBjb25zdCB0YWdUZXh0ID0gc3Ryb25nLmxlbmd0aCA/IGDvvIzluKbnnYDvvJoke3N0cm9uZy5qb2luKCfjgIEnKX1gIDogJyc7CiAgcmV0dXJuIGDjgJDmraTliLvnmoTlv4Pmg4XjgJHlv4Pmg4Uke2Rlc2N9JHt0YWdUZXh0feOAguaDhee7quWPquW9seWTjeivreawlO+8jOS4jeW9seWTjeWIpOaWre+8m+WIq+aLv+aDhee7quaLv+aNj+eIuOeIuO+8jOS5n+WIq+WBh+ijheayoeS6i+OAgmA7Cn0K
+// 情绪状态：简化版 PAD（只留愉悦维 mood 0~1 + 10 个情绪标签）。
+//
+// 设计目标（借鉴五层框架的情绪层，但适配单机 JSON）：
+//  - 情绪是**有状态**的：跨消息累积，不再每轮从人格卡"现演"。
+//  - 变化限幅：单条消息对心情的改变 ≤ 0.12、单个标签 ≤ 0.12，防止一句话把情绪打穿。
+//  - 半衰期：心情 6 小时向 0.5 回归；标签 45 分钟衰减到忽略。
+//  - 词表驱动：桥接自动分析**入站**消息（私聊全算；群聊只算 @她/叫她 的消息），
+//    不烧 token，也不依赖 AI 记得调用工具。
+//  - AI 仍可用 qq_set_mood 主动微调（工具在 MCP 里，引擎重启后生效）。
+
+export const MOOD_TAGS = ['开心', '生气', '难过', '害怕', '委屈', '害羞', '得意', '感动', '焦虑', '无聊'];
+
+const MOOD_HALFLIFE_MIN = 360;   // 心情半衰期 6 小时
+const TAG_HALFLIFE_MIN = 45;     // 标签半衰期 45 分钟
+export const MOOD_STEP = 0.12;   // 单条消息心情变化上限
+export const TAG_MAX = 0.6;      // 标签强度上限
+
+const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
+
+export function defaultMood(now = Date.now()) {
+  return { mood: 0.5, tags: {}, updatedAt: now };
+}
+
+/** 惰性衰减：心情向 0.5 回归，标签按半衰期衰减；太弱的标签直接删除 */
+export function decayMood(m, now = Date.now()) {
+  if (!m || typeof m !== 'object') return defaultMood(now);
+  const mins = Math.max(0, (now - (Number(m.updatedAt) || now)) / 60000);
+  const moodT = MOOD_HALFLIFE_MIN;
+  m.mood = 0.5 + (clamp(Number(m.mood) || 0.5, 0, 1) - 0.5) * Math.pow(0.5, mins / moodT);
+  const tags = m.tags && typeof m.tags === 'object' ? m.tags : {};
+  for (const [k, v] of Object.entries(tags)) {
+    const nv = Number(v) * Math.pow(0.5, mins / TAG_HALFLIFE_MIN);
+    if (nv < 0.02) delete tags[k];
+    else tags[k] = nv;
+  }
+  m.updatedAt = now;
+  return m;
+}
+
+/** 应用一轮增量（moodDelta 与各标签，已限幅） */
+export function applyDelta(m, { moodDelta = 0, tags = {} }, now = Date.now()) {
+  decayMood(m, now);
+  // 形状归一：旧文件/手改/写盘截断时 tags 可能缺失，缺了就直接补空对象（避免 TypeError 中断消息处理）
+  if (!m.tags || typeof m.tags !== 'object') m.tags = {};
+  m.mood = clamp((m.mood || 0.5) + clamp(Number(moodDelta) || 0, -MOOD_STEP, MOOD_STEP), 0, 1);
+  for (const [k, v] of Object.entries(tags || {})) {
+    if (!MOOD_TAGS.includes(k)) continue;
+    m.tags[k] = clamp((Number(m.tags[k]) || 0) + clamp(Number(v) || 0, -MOOD_STEP, MOOD_STEP), 0, TAG_MAX);
+  }
+  m.updatedAt = now;
+  return m;
+}
+
+// 入站消息的情绪词表：命中一条就按规则叠加。
+// 关键词命中按顺序累加（一条消息可以同时开心又害羞）。
+const LEXICON = [
+  { tags: { 开心: 0.05, 害羞: 0.03 }, words: ['宝宝', '乖', '可爱', '喜欢', '想你了', '好听', '厉害', '萌'] },
+  { tags: { 开心: 0.04 }, words: ['哈哈', '嘿嘿', '笑死', '爱了'] },
+  { tags: { 生气: 0.08 }, words: ['你的角色', '滚', '傻', '笨', '没用', '有病', '废物', '垃圾'] },
+  { tags: { 委屈: 0.07 }, words: ['委屈', '冤枉', '错怪', '误会你了'] },
+  { tags: { 感动: 0.06 }, words: ['有我在', '别一个人', '陪你', '心疼', '我想你', '离不开你', '等你'] },
+  { tags: { 焦虑: 0.05 }, words: ['怎么办', '出事了', '急死', '完蛋了', '撑不住', '欠债', '欠钱', '欠揍'] },
+  { tags: { 难过: 0.06 }, words: ['难受', '崩溃', '想哭', '好累', '心里空'] },
+  { tags: { 无聊: 0.04 }, words: ['无聊', '没意思', '没事干', '发呆'] }
+];
+
+const SELF_NAME_RE = /你的角色|小鲸鱼|南鱼|宝宝/;
+
+/**
+ * 分析一条入站消息，返回情绪增量。
+ * @param {string} text 消息文本
+ * @param {boolean} isPrivate 是否私聊（群聊时只有提到她才算）
+ * @returns {{moodDelta:number, tags:Object}|null}
+ */
+export function analyzeMessage(text, isPrivate = false) {
+  const raw = String(text ?? '');
+  if (!raw) return null;
+  if (!isPrivate && !SELF_NAME_RE.test(raw) && !raw.includes('@')) return null;
+  const tags = {};
+  let moodDelta = 0;
+  for (const rule of LEXICON) {
+    let hit = false;
+    for (const w of rule.words) {
+      if (raw.includes(w)) { hit = true; break; }
+    }
+    if (!hit) continue;
+    for (const [k, v] of Object.entries(rule.tags)) {
+      tags[k] = (tags[k] || 0) + v;
+    }
+  }
+  const total = Object.values(tags).reduce((a, b) => a + b, 0);
+  moodDelta = clamp(total, -MOOD_STEP, MOOD_STEP); // 心情增量按标签总和映射
+  if (tags['生气'] || tags['委屈'] || tags['难过'] || tags['焦虑']) moodDelta = -clamp(Math.abs(moodDelta), 0, MOOD_STEP);
+  return Object.keys(tags).length ? { moodDelta, tags } : null;
+}
+
+/** 生成注入行（短，60 字左右） */
+export function renderMood(m, now = Date.now()) {
+  const cur = decayMood({ ...(m || defaultMood(now)), tags: { ...(m?.tags || {}) } }, now);
+  const strong = Object.entries(cur.tags)
+    .filter(([, v]) => v >= 0.1)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 3)
+    .map(([k, v]) => (v >= 0.35 ? `${k}(强)` : k));
+  const desc = cur.mood > 0.72 ? '很好' : cur.mood > 0.58 ? '不错' : cur.mood > 0.42 ? '一般' : cur.mood > 0.28 ? '有点低落' : '很糟';
+  const tagText = strong.length ? `，带着：${strong.join('、')}` : '';
+  return `【此刻的心情】心情${desc}${tagText}。情绪只影响语气，不影响判断；别拿情绪拿捏爸爸，也别假装没事。`;
+}

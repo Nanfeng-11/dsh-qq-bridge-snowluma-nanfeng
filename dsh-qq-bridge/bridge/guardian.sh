@@ -1,1 +1,137 @@
-IyEvc3lzdGVtL2Jpbi9zaAojIHFxLWJyaWRnZSDoh6rliqjlt6Hmo4DkuI7oh6rmhIjvvIjmr48gMiDliIbpkp/vvIkKIyDkv67lpI3ljoblj7LvvJoKIyAgLSDml6fniYggLi9pc19ydW5uaW5nLnNoIOWtmOWcqCLoh6rljLnphY0iYnVn77yI5YWz6ZSu5a2X5Zyo6Ieq5bex55qEIGFyZ3Yg6YeM77yJ77yM5rC46L+c6L+U5Zue6L+Q6KGM5Lit77yMCiMgICAg5LqO5piv5qGl5o6l5q275LqG5Lmf5LuO5LiN6YeN5ZCv44CC5qOA5rWL6ISa5pys5bey6YeN5YaZ44CCCiMgIC0g5pen54mI5Y+q55yL6L+b56iL5LiN55yL56uv5Y+j77yM6L+b56iL5YGH5rS777yI5o6n5Yi25Y+w6LW35LiN5p2l77yJ5pe25LiN5aSE55CG44CC546w5Zyo5Yqg56uv5Y+j5o6i5rS744CCCiMgIC0g5qGl5o6l5pS555SxIHJ1bi1icmlkZ2Uuc2gg5omY566h77yIbm9kZSDpgIDlh7ogMyDnp5Loh6rliqjph43lkK/vvInvvIzmnKzohJrmnKzlj6rlhZzlupXmiZjnrqHov5vnqIvmnKzouqvjgIIKCgojIOKUgOKUgCDlj6/np7vmpI3ot6/lvoTmjqLmtYvvvIhkc2gtcXEtYnJpZGdlIOaPkuS7tueUn+aIkO+8jOWLv+WIoO+8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIOeUteiEkSAvIOacjeWKoeWZqCAvIOWuieWNk+mAmueUqO+8muahpeaOpeebruW9leaMieiEmuacrOiHqui6q+S9jee9ruaOqOWvvO+8jG5vZGUg6LWwIFBBVEjvvIwKIyBEU0hfSE9NRSDkvJjlhYjlj5bnjq/looPlj5jph4/vvIzlhbbmrKHmoYzpnaIgRFNIIOe6puWumuebruW9leOAggppZiBbIC16ICIkUE9SVEFCTEVfUEFUSFNfTE9BREVEIiBdOyB0aGVuCiAgUE9SVEFCTEVfUEFUSFNfTE9BREVEPTEKICBTQ1JJUFRfRElSPSIkKGNkICIkKGRpcm5hbWUgIiQwIikiIDI+L2Rldi9udWxsICYmIHB3ZCkiCiAgQlJJREdFX0RJUj0iJHtCUklER0VfRElSOi0kU0NSSVBUX0RJUn0iCiAgTk9ERV9CSU49IiR7Tk9ERV9CSU46LSQoY29tbWFuZCAtdiBub2RlIDI+L2Rldi9udWxsIHx8IGVjaG8gbm9kZSl9IgogIERTSF9IT01FPSIke0RTSF9IT01FOi0kSE9NRS8uZHNofSIKICBleHBvcnQgQlJJREdFX0RJUiBOT0RFX0JJTiBEU0hfSE9NRQpmaQojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIEJSSURHRV9ESVIg5bey55Sx5LiK5pa55Y+v56e75qSN5o6i5rWL6Ieq5Yqo5o6o5a+8CkxPRz0iJEJSSURHRV9ESVIvc3RhdGUvZ3VhcmRpYW4ubG9nIgpJTlRFUlZBTD0xMjAgICAgICAgICMgMiDliIbpkp8KSEVBUlRCRUFUX0VWRVJZPTE1ICAjIOS4gOWIh+ato+W4uOaXtuavjyAxNSDova7vvIjnuqYgMzAg5YiG6ZKf77yJ6K6w5LiA5qyh5b+D6LezCgpjZCAiJEJSSURHRV9ESVIiIHx8IGV4aXQgMQoKbG9nKCkgeyBlY2hvICIkKGRhdGUgJyslWS0lbS0lZCAlSDolTTolUycpICQxIiA+PiAiJExPRyI7IH0KCmNvbnNvbGVfb2soKSB7CiAgbm9kZSAtZSAnCmNvbnN0IGh0dHA9cmVxdWlyZSgiaHR0cCIpOwpjb25zdCByPWh0dHAucmVxdWVzdCh7aG9zdDoiMTI3LjAuMC4xIixwb3J0OjMxMDAscGF0aDoiLyIsdGltZW91dDozMDAwfSxyZXM9PntyZXMucmVzdW1lKCk7cHJvY2Vzcy5leGl0KDApfSk7CnIub24oImVycm9yIiwoKT0+cHJvY2Vzcy5leGl0KDEpKTsKci5vbigidGltZW91dCIsKCk9PntyLmRlc3Ryb3koKTtwcm9jZXNzLmV4aXQoMSl9KTsKci5lbmQoKTsnIDI+L2Rldi9udWxsCn0KCnN0YXJ0X2JyaWRnZSgpIHsKICBybSAtZiBzdGF0ZS9icmlkZ2Uuc3RvcCAyPi9kZXYvbnVsbAogIHNldHNpZCAuL3J1bi1icmlkZ2Uuc2ggPj4gYnJpZGdlLXJ1bi5sb2cgMj4mMSA8IC9kZXYvbnVsbCAmCiAgc2xlZXAgMTIKfQoKc3RvcF9icmlkZ2UoKSB7CiAgdG91Y2ggc3RhdGUvYnJpZGdlLnN0b3AgMj4vZGV2L251bGwKICBmb3IgcCBpbiAkKC4vcGlkb2Yuc2ggJ3NyYy9icmlkZ2UuanMnKTsgZG8ga2lsbCAkcCAyPi9kZXYvbnVsbDsgZG9uZQogIHNsZWVwIDMKICBmb3IgcCBpbiAkKC4vcGlkb2Yuc2ggJ3NyYy9icmlkZ2UuanMnKTsgZG8ga2lsbCAtOSAkcCAyPi9kZXYvbnVsbDsgZG9uZQogIGZvciBwIGluICQoLi9waWRvZi5zaCAncnVuLWJyaWRnZS5zaCcpOyBkbyBraWxsICRwIDI+L2Rldi9udWxsOyBkb25lCiAgc2xlZXAgMQogIGZvciBwIGluICQoLi9waWRvZi5zaCAncnVuLWJyaWRnZS5zaCcpOyBkbyBraWxsIC05ICRwIDI+L2Rldi9udWxsOyBkb25lCiAgcm0gLWYgc3RhdGUvYnJpZGdlLnN0b3AgMj4vZGV2L251bGwKfQoKcmVzdGFydF9icmlkZ2UoKSB7CiAgc3RvcF9icmlkZ2UKICBzdGFydF9icmlkZ2UKfQoKQ1lDTEU9MAoKY2hlY2tfYW5kX2ZpeCgpIHsKICBDWUNMRT0kKChDWUNMRSArIDEpKQogIENIQU5HRUQ9MAoKICBXUkFQPSQoLi9waWRvZi5zaCAncnVuLWJyaWRnZS5zaCcpCiAgTk9ERT0kKC4vcGlkb2Yuc2ggJ3NyYy9icmlkZ2UuanMnKQoKICBpZiBbIC16ICIkV1JBUCIgXTsgdGhlbgogICAgbG9nICLimqDvuI8g5omY566h6L+b56iL5pyq6L+Q6KGM77yM5ZCv5Yqo5qGl5o6lLi4uIgogICAgc3RhcnRfYnJpZGdlCiAgICBDSEFOR0VEPTEKICBlbGlmIFsgLXogIiROT0RFIiBdOyB0aGVuCiAgICBzbGVlcCA2CiAgICBpZiAhIC4vaXNfcnVubmluZy5zaCAnc3JjL2JyaWRnZS5qcyc7IHRoZW4KICAgICAgbG9nICLimqDvuI8g5omY566h5Zyo5L2GIG5vZGUg5pyq6LW35p2l77yM6YeN5ZCv5qGl5o6lLi4uIgogICAgICByZXN0YXJ0X2JyaWRnZQogICAgICBDSEFOR0VEPTEKICAgIGZpCiAgZWxpZiAhIGNvbnNvbGVfb2s7IHRoZW4KICAgIGxvZyAi4pqg77iPIOi/m+eoi+WcqO+8iFBJRCAkTk9ERe+8ieS9huaOp+WItuWPsCAzMTAwIOaXoOWTjeW6lO+8jOmHjeWQr+ahpeaOpS4uLiIKICAgIHJlc3RhcnRfYnJpZGdlCiAgICBDSEFOR0VEPTEKICBmaQoKICBpZiBbICIkQ0hBTkdFRCIgLWVxIDEgXTsgdGhlbgogICAgaWYgLi9pc19ydW5uaW5nLnNoICdzcmMvYnJpZGdlLmpzJyAmJiBjb25zb2xlX29rOyB0aGVuCiAgICAgIGxvZyAi4pyFIOahpeaOpeW3suaBouWkje+8iFBJRCAkKC4vcGlkb2Yuc2ggJ3NyYy9icmlkZ2UuanMnKe+8iSIKICAgIGVsc2UKICAgICAgbG9nICLinYwg5qGl5o6l5oGi5aSN5aSx6LSl77yI6K+m6KeBIGJyaWRnZS1ydW4ubG9n77yJIgogICAgZmkKICBmaQoKICAjIOa4heeQhuWuiOaKpAogIGlmICEgLi9pc19ydW5uaW5nLnNoICdhdXRvLWNsZWFuLnNoJzsgdGhlbgogICAgbG9nICLimqDvuI8g5riF55CG5a6I5oqk5pyq6L+Q6KGM77yM5q2j5Zyo5ZCv5YqoLi4uIgogICAgc2V0c2lkIC4vYXV0by1jbGVhbi5zaCA+IC9kZXYvbnVsbCAyPiYxIDwgL2Rldi9udWxsICYKICAgIHNsZWVwIDIKICAgIGxvZyAi4pyFIOa4heeQhuWuiOaKpOW3suWQr+WKqCIKICAgIENIQU5HRUQ9MQogIGZpCgogICMg5pel5b+X6L2u6L2s77yI6LaF6L+HIDFNQiDmiKrmlq3vvIzmr48gMTAg6L2u5YGa5LiA5qyh55yBIElP77yJCiAgaWYgWyAkKChDWUNMRSAlIDEwKSkgLWVxIDAgXTsgdGhlbgogICAgZm9yIGYgaW4gInN0YXRlL2JyaWRnZS5sb2ciICJicmlkZ2UtcnVuLmxvZyIgInN0YXRlL2d1YXJkaWFuLmxvZyIgInN0YXRlL2F1dG8tY2xlYW4ubG9nIiAic3RhdGUvcXEtYWN0aXZpdHkubG9nIiAic3RhdGUvdG9rZW4tdXNhZ2UuanNvbmwiICJzdGF0ZS90b29sLWNhbGxzLmpzb25sIjsgZG8KICAgICAgaWYgWyAtZiAiJGYiIF07IHRoZW4KICAgICAgICBTSVpFPSQod2MgLWMgPCAiJGYiIDI+L2Rldi9udWxsIHx8IGVjaG8gMCkKICAgICAgICBpZiBbICIkU0laRSIgLWd0IDEwNDg1NzYgXTsgdGhlbgogICAgICAgICAgdGFpbCAtMTAwMCAiJGYiID4gIiRmLnRtcCIgJiYgbXYgIiRmLnRtcCIgIiRmIgogICAgICAgICAgbG9nICLwn6e5IOW3sui9rui9rCAkZiAoJHtTSVpFfeWtl+iKgiAtPiDnvKnlh48pIgogICAgICAgIGZpCiAgICAgIGZpCiAgICBkb25lCgogICAgIyDlpIfku73ova7ovazvvIjlj6rkv53nlZnmnIDov5EgMTAg5Lu9IHJvbGUtbWVtb3J544CBNSDku70gc29jaWFsLXYy77yJCiAgICBscyAtdCBzdGF0ZS9iYWNrdXAvcm9sZS1tZW1vcnktKi5qc29uIDI+L2Rldi9udWxsIHwgdGFpbCAtbiArMTEgfCB4YXJncyAtciBybSAtZgogICAgbHMgLXQgc3RhdGUvYmFja3VwL3NvY2lhbC12Mi0qLmpzb24gMj4vZGV2L251bGwgfCB0YWlsIC1uICs2IHwgeGFyZ3MgLXIgcm0gLWYKICBmaQoKICAjIOmFjee9ruWujOaVtOaAp++8iOe8uuWkseaXtuS7juWkh+S7veaBouWkje+8iQogIGlmIFsgISAtZiAiY29uZmlnLmpzb24iIF0gJiYgWyAtZiAic3RhdGUvYmFja3VwL2NvbmZpZy5qc29uIiBdOyB0aGVuCiAgICBjcCAic3RhdGUvYmFja3VwL2NvbmZpZy5qc29uIiAiY29uZmlnLmpzb24iCiAgICBsb2cgIvCflKcg5bey5LuO5aSH5Lu95oGi5aSNIGNvbmZpZy5qc29uIgogICAgQ0hBTkdFRD0xCiAgZmkKCiAgaWYgWyAiJENIQU5HRUQiIC1lcSAwIF0gJiYgWyAkKChDWUNMRSAlIEhFQVJUQkVBVF9FVkVSWSkpIC1lcSAwIF07IHRoZW4KICAgIGxvZyAi8J+SmiDlv4Pot7PvvJrmoaXmjqXmraPluLjvvIhQSUQgJCguL3BpZG9mLnNoICdzcmMvYnJpZGdlLmpzJynvvInvvIzmjqfliLblj7AgMzEwMCDlj6/ovr4iCiAgZmkKfQoKd2hpbGUgdHJ1ZTsgZG8KICBjaGVja19hbmRfZml4CiAgc2xlZXAgJElOVEVSVkFMCmRvbmUK
+#!/system/bin/sh
+# qq-bridge 自动巡检与自愈（每 2 分钟）
+# 修复历史：
+#  - 旧版 ./is_running.sh 存在"自匹配"bug（关键字在自己的 argv 里），永远返回运行中，
+#    于是桥接死了也从不重启。检测脚本已重写。
+#  - 旧版只看进程不看端口，进程假活（控制台起不来）时不处理。现在加端口探活。
+#  - 桥接改由 run-bridge.sh 托管（node 退出 3 秒自动重启），本脚本只兜底托管进程本身。
+
+
+# ── 可移植路径探测（dsh-qq-bridge 插件生成，勿删）──────────────────
+# 电脑 / 服务器 / 安卓通用：桥接目录按脚本自身位置推导，node 走 PATH，
+# DSH_HOME 优先取环境变量，其次桌面 DSH 约定目录。
+if [ -z "$PORTABLE_PATHS_LOADED" ]; then
+  PORTABLE_PATHS_LOADED=1
+  SCRIPT_DIR="$(cd "$(dirname "$0")" 2>/dev/null && pwd)"
+  BRIDGE_DIR="${BRIDGE_DIR:-$SCRIPT_DIR}"
+  NODE_BIN="${NODE_BIN:-$(command -v node 2>/dev/null || echo node)}"
+  DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+  export BRIDGE_DIR NODE_BIN DSH_HOME
+fi
+# ────────────────────────────────────────────────────────────────────
+# BRIDGE_DIR 已由上方可移植探测自动推导
+LOG="$BRIDGE_DIR/state/guardian.log"
+INTERVAL=120        # 2 分钟
+HEARTBEAT_EVERY=15  # 一切正常时每 15 轮（约 30 分钟）记一次心跳
+
+cd "$BRIDGE_DIR" || exit 1
+
+log() { echo "$(date '+%Y-%m-%d %H:%M:%S') $1" >> "$LOG"; }
+
+console_ok() {
+  node -e '
+const http=require("http");
+const r=http.request({host:"127.0.0.1",port:3100,path:"/",timeout:3000},res=>{res.resume();process.exit(0)});
+r.on("error",()=>process.exit(1));
+r.on("timeout",()=>{r.destroy();process.exit(1)});
+r.end();' 2>/dev/null
+}
+
+start_bridge() {
+  rm -f state/bridge.stop 2>/dev/null
+  setsid ./run-bridge.sh >> bridge-run.log 2>&1 < /dev/null &
+  sleep 12
+}
+
+stop_bridge() {
+  touch state/bridge.stop 2>/dev/null
+  for p in $(./pidof.sh 'src/bridge.js'); do kill $p 2>/dev/null; done
+  sleep 3
+  for p in $(./pidof.sh 'src/bridge.js'); do kill -9 $p 2>/dev/null; done
+  for p in $(./pidof.sh 'run-bridge.sh'); do kill $p 2>/dev/null; done
+  sleep 1
+  for p in $(./pidof.sh 'run-bridge.sh'); do kill -9 $p 2>/dev/null; done
+  rm -f state/bridge.stop 2>/dev/null
+}
+
+restart_bridge() {
+  stop_bridge
+  start_bridge
+}
+
+CYCLE=0
+
+check_and_fix() {
+  CYCLE=$((CYCLE + 1))
+  CHANGED=0
+
+  WRAP=$(./pidof.sh 'run-bridge.sh')
+  NODE=$(./pidof.sh 'src/bridge.js')
+
+  if [ -z "$WRAP" ]; then
+    log "⚠️ 托管进程未运行，启动桥接..."
+    start_bridge
+    CHANGED=1
+  elif [ -z "$NODE" ]; then
+    sleep 6
+    if ! ./is_running.sh 'src/bridge.js'; then
+      log "⚠️ 托管在但 node 未起来，重启桥接..."
+      restart_bridge
+      CHANGED=1
+    fi
+  elif ! console_ok; then
+    log "⚠️ 进程在（PID $NODE）但控制台 3100 无响应，重启桥接..."
+    restart_bridge
+    CHANGED=1
+  fi
+
+  if [ "$CHANGED" -eq 1 ]; then
+    if ./is_running.sh 'src/bridge.js' && console_ok; then
+      log "✅ 桥接已恢复（PID $(./pidof.sh 'src/bridge.js')）"
+    else
+      log "❌ 桥接恢复失败（详见 bridge-run.log）"
+    fi
+  fi
+
+  # 清理守护
+  if ! ./is_running.sh 'auto-clean.sh'; then
+    log "⚠️ 清理守护未运行，正在启动..."
+    setsid ./auto-clean.sh > /dev/null 2>&1 < /dev/null &
+    sleep 2
+    log "✅ 清理守护已启动"
+    CHANGED=1
+  fi
+
+  # 日志轮转（超过 1MB 截断，每 10 轮做一次省 IO）
+  if [ $((CYCLE % 10)) -eq 0 ]; then
+    for f in "state/bridge.log" "bridge-run.log" "state/guardian.log" "state/auto-clean.log" "state/qq-activity.log" "state/token-usage.jsonl" "state/tool-calls.jsonl"; do
+      if [ -f "$f" ]; then
+        SIZE=$(wc -c < "$f" 2>/dev/null || echo 0)
+        if [ "$SIZE" -gt 1048576 ]; then
+          tail -1000 "$f" > "$f.tmp" && mv "$f.tmp" "$f"
+          log "🧹 已轮转 $f (${SIZE}字节 -> 缩减)"
+        fi
+      fi
+    done
+
+    # 备份轮转（只保留最近 10 份 role-memory、5 份 social-v2）
+    ls -t state/backup/role-memory-*.json 2>/dev/null | tail -n +11 | xargs -r rm -f
+    ls -t state/backup/social-v2-*.json 2>/dev/null | tail -n +6 | xargs -r rm -f
+  fi
+
+  # 配置完整性（缺失时从备份恢复）
+  if [ ! -f "config.json" ] && [ -f "state/backup/config.json" ]; then
+    cp "state/backup/config.json" "config.json"
+    log "🔧 已从备份恢复 config.json"
+    CHANGED=1
+  fi
+
+  if [ "$CHANGED" -eq 0 ] && [ $((CYCLE % HEARTBEAT_EVERY)) -eq 0 ]; then
+    log "💚 心跳：桥接正常（PID $(./pidof.sh 'src/bridge.js')），控制台 3100 可达"
+  fi
+}
+
+while true; do
+  check_and_fix
+  sleep $INTERVAL
+done

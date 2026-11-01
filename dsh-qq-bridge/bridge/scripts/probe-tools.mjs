@@ -1,1 +1,89 @@
-Ly8g56uv5Yiw56uv6aqM6K+BIFFRIHByZXNldCDnmoTjgIzlt6XlhbfpnaLjgI3kuI7jgIzlt6XlhbfljY/orq7jgI3vvJoKLy8gIDEuIOW7uuS8muivneaMgiBwcmVzZXTvvIhxcS1jaGF0IC8gcXEtY2hhdC12Mu+8iQovLyAgMi4g5rOo5YWl5LiA5p2hIHByb21wdO+8jOimgeaxgiBhZ2VudCDosIMgbWNwX19zbm93bHVtYS1ob3N0X19zbm93bHVtYV9zdGF0dXPvvIjkuI3kvp3otZYgU25vd0x1bWEg5Zyo57q/77yJCi8vICAzLiDop4LmtYsgdHVybiDkuovku7bph4znmoQgdG9vbC9jYWxsIOS4jiB0b29sL3Jlc3VsdO+8jOehruiupCBNQ1Ag5bel5YW355yf55qE5Y+v6LCD55SoCi8vICA0LiDlkIzml7bnoa7orqTmnKzlnLDljbHpmanlt6XlhbfvvIhwd3NoL2Jhc2gg562J77yJ5LiN5Zyo5bel5YW36Z2i6YeMCmltcG9ydCB7IHJhbmRvbVVVSUQgfSBmcm9tICdub2RlOmNyeXB0byc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHsgcHJvYmVDb29raWUsIHByb2JlUnBjLCBwcm9iZU11eFNvY2tldCwgcHJvYmVXb3Jrc3BhY2VEaXIgfSBmcm9tICcuL3Byb2JlLWF1dGgubWpzJzsKCi8vIOmJtOadg+S4jiBSUEMg5byV5a+857uf5LiA6LWwIHByb2JlLWF1dGgubWpz77yI5pen55qE44CM6K+7IGd1YXJkIOaXpeW/l+aKkyBsYXVuY2ggdG9rZW7jgI3lnKgKLy8gRFNIIDAuMS43IOi1t+W3suWkseaViO+8jOS8muiuqeaOoumSiOS4gOW+iyA0MDEg4oCU4oCUIOingeivpeaWh+S7tuWktOmDqOivtOaYju+8ieOAggpjb25zdCBjb29raWUgPSBwcm9iZUNvb2tpZSgpOwpjb25zdCBycGMgPSBwcm9iZVJwYyhjb29raWUpOwoKY29uc3QgUFJFU0VUID0gcHJvY2Vzcy5hcmd2WzJdIHx8ICdxcS1jaGF0JzsKLy8g5o6i5rWL5bel5L2c5Yy65bu65Zyo57O757uf5Li05pe255uu5b2V77yac3RhdGUvIOeahCBBQ0wg6KKr5pS257Sn6L+H77yM5rKZ566x6YeM5YaZ5LiN6L+b5Y6744CCCmNvbnN0IGRpciA9IHByb2JlV29ya3NwYWNlRGlyKCd0b29scycpOwpjb25zdCB3cyA9IGF3YWl0IHJwYygnd29ya3NwYWNlL2NyZWF0ZScsIHsgcmVxdWVzdDogeyBwYXRoOiBkaXIgfSB9KTsKY29uc3Qgd3NJZCA9IHdzLnZhbHVlLndvcmtzcGFjZS53b3Jrc3BhY2VJZDsKY29uc3QgbW9kZWwgPSBhd2FpdCBycGMoJ3Nlc3Npb24vc2VsZWN0TW9kZWwnLCB7IHJlcXVlc3Q6IHsgc2Vzc2lvbklkOiAneCcsIHByb3ZpZGVyOiAneCcsIG1vZGVsOiAneCcgfSB9KTsgLy8g5LuF5o6i5rWL5b2i54q277yM5b+955WlCgpjb25zdCBzYyA9IGF3YWl0IHJwYygnc2Vzc2lvbi9jcmVhdGUnLCB7IHJlcXVlc3Q6IHsgd29ya3NwYWNlSWQ6IHdzSWQsIGFnZW50UHJlc2V0OiBQUkVTRVQgfSB9KTsKaWYgKCFzYy5vaykgeyBjb25zb2xlLmVycm9yKGDinYwgcHJlc2V0ICR7UFJFU0VUfSDmjILovb3lpLHotKU6ICR7c2MuZXJyb3IuY29kZX06ICR7c2MuZXJyb3IubWVzc2FnZX1gKTsgcHJvY2Vzcy5leGl0KDIpOyB9CmNvbnN0IHNlc3Npb25JZCA9IHNjLnZhbHVlLnNlc3Npb25JZDsKY29uc29sZS5sb2coYHNlc3Npb24gJHtzZXNzaW9uSWR9IChwcmVzZXQ9JHtQUkVTRVR9KWApOwoKLy8g5qih5Z6L5YiH5o2i77yI5qGl5o6lIGVuc3VyZUNoYXRNb2RlbCDnmoTnrYnku7fmk43kvZzvvIkKY29uc3Qgc20gPSBhd2FpdCBycGMoJ3Nlc3Npb24vc2VsZWN0TW9kZWwnLCB7IHJlcXVlc3Q6IHsgc2Vzc2lvbklkLCBwcm92aWRlcjogJ2RlZXBzZWVrLW9mZmljaWFsJywgbW9kZWw6ICdkZWVwc2Vlay1mbGFzaCcsIHJlYXNvbmluZ0VmZm9ydDogJ21heCcgfSB9KTsKY29uc29sZS5sb2coJ3NlbGVjdE1vZGVsIC0+Jywgc20ub2sgPyBKU09OLnN0cmluZ2lmeShzbS52YWx1ZS5zZWxlY3RlZCkgOiBgRkFJTCAke3NtLmVycm9yLmNvZGV9OiAke3NtLmVycm9yLm1lc3NhZ2V9YCk7Cgpjb25zdCBzb2NrZXQgPSBwcm9iZU11eFNvY2tldChjb29raWUpOwpjb25zdCBzdHJlYW1JZCA9IHJhbmRvbVVVSUQoKTsKY29uc3QgZXZlbnRTdHJlYW1JZCA9IHJhbmRvbVVVSUQoKTsKY29uc3QgdG9vbENhbGxzID0gW107CmNvbnN0IHRvb2xSZXN1bHRzID0gW107CmxldCB0ZXh0ID0gJyc7Cgpjb25zdCBkb25lID0gbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsKICBjb25zdCB0aW1lciA9IHNldFRpbWVvdXQoKCkgPT4gcmVzb2x2ZSgndGltZW91dCcpLCAxMjBfMDAwKTsKICBjb25zdCBmaW5pc2ggPSAod2h5KSA9PiB7IGNsZWFyVGltZW91dCh0aW1lcik7IHJlc29sdmUod2h5KTsgfTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignb3BlbicsICgpID0+IHsKICAgIHNvY2tldC5zZW5kKEpTT04uc3RyaW5naWZ5KHsgdHlwZTogJ29wZW4nLCBzdHJlYW1JZCwgZW5kcG9pbnQ6ICdzZXNzaW9uL2ZvbGxvdycsIHBheWxvYWQ6IHsgYXJnczogeyByZXF1ZXN0OiB7IGFkZHJlc3M6IHsga2luZDogJ3Nlc3Npb24nLCBzZXNzaW9uSWQgfSB9IH0gfSB9KSk7CiAgICBzb2NrZXQuc2VuZChKU09OLnN0cmluZ2lmeSh7IHR5cGU6ICdvcGVuJywgc3RyZWFtSWQ6IGV2ZW50U3RyZWFtSWQsIGVuZHBvaW50OiAnJGV2ZW50cycsIHBheWxvYWQ6IHsgYXJnczoge30gfSB9KSk7CiAgICBzZXRUaW1lb3V0KGFzeW5jICgpID0+IHsKICAgICAgY29uc3QgcCA9IGF3YWl0IHJwYygnc2Vzc2lvbi9wcm9tcHQnLCB7CiAgICAgICAgcmVxdWVzdDogewogICAgICAgICAgc2Vzc2lvbklkLCByZXF1ZXN0SWQ6IHJhbmRvbVVVSUQoKSwgbW9kZTogJ3F1ZXVlJywKICAgICAgICAgIGNvbnRlbnQ6IFt7IHR5cGU6ICd0ZXh0JywgdGV4dDogJ+ivt+iwg+eUqCBtY3BfX3Nub3dsdW1hLWhvc3RfX3Nub3dsdW1hX3N0YXR1cyDlt6XlhbfkuIDmrKHvvIznhLblkI7lj6rlm57lpI3vvJrlrozmiJAnIH1dCiAgICAgICAgfQogICAgICB9KTsKICAgICAgY29uc29sZS5sb2coJ3Byb21wdCAtPicsIEpTT04uc3RyaW5naWZ5KHApLnNsaWNlKDAsIDEyMCkpOwogICAgfSwgNzAwKTsKICB9KTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignbWVzc2FnZScsIChldikgPT4gewogICAgbGV0IG07IHRyeSB7IG0gPSBKU09OLnBhcnNlKGV2LmRhdGEpOyB9IGNhdGNoIHsgcmV0dXJuOyB9CiAgICBpZiAobS50eXBlICE9PSAnaXRlbScgfHwgbS5zdHJlYW1JZCA9PT0gZXZlbnRTdHJlYW1JZCkgcmV0dXJuOwogICAgY29uc3QgdiA9IG0udmFsdWU7CiAgICBpZiAodj8udHlwZSAhPT0gJ2V2ZW50JykgcmV0dXJuOwogICAgY29uc3QgZSA9IHYuZXZlbnQ7CiAgICBpZiAoZS50eXBlID09PSAnYXNzaXN0YW50L21lc3NhZ2UnKSBmb3IgKGNvbnN0IGIgb2YgZS5kYXRhPy5tZXNzYWdlPy5jb250ZW50ID8/IFtdKSBpZiAoYj8udHlwZSA9PT0gJ3RleHQnKSB0ZXh0ICs9IGIudGV4dDsKICAgIGlmIChlLnR5cGUgPT09ICd0b29sL2NhbGwnKSB0b29sQ2FsbHMucHVzaCh7IG5hbWU6IGUuZGF0YT8ubmFtZSA/PyBlLmRhdGE/LnRvb2xOYW1lLCBhcmdzOiBlLmRhdGE/LmFyZ3VtZW50cyA/PyBlLmRhdGE/LmFyZ3MgfSk7CiAgICBpZiAoZS50eXBlID09PSAndG9vbC9yZXN1bHQnKSB0b29sUmVzdWx0cy5wdXNoKHsgbmFtZTogZS5kYXRhPy5uYW1lID8/IGUuZGF0YT8udG9vbE5hbWUsIGlzRXJyb3I6IGUuZGF0YT8uaXNFcnJvciA/PyBlLmRhdGE/LmVycm9yICE9PSB1bmRlZmluZWQgfSk7CiAgICBpZiAoZS50eXBlID09PSAndHVybi9lbmQnKSBmaW5pc2goJ2RvbmUnKTsKICB9KTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignY2xvc2UnLCAoKSA9PiBmaW5pc2goJ2Nsb3NlZCcpKTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignZXJyb3InLCAoKSA9PiBmaW5pc2goJ2Vycm9yJykpOwp9KTsKCmNvbnN0IHdoeSA9IGF3YWl0IGRvbmU7CmNvbnNvbGUubG9nKGBcbue7k+aenDogJHt3aHl9YCk7CmNvbnNvbGUubG9nKCfmnIDnu4jmlofmnKw6JywgSlNPTi5zdHJpbmdpZnkodGV4dC5zbGljZSgwLCAyMDApKSk7CmNvbnNvbGUubG9nKCd0b29sL2NhbGw6JywgSlNPTi5zdHJpbmdpZnkodG9vbENhbGxzKSk7CmNvbnNvbGUubG9nKCd0b29sL3Jlc3VsdDonLCBKU09OLnN0cmluZ2lmeSh0b29sUmVzdWx0cykpOwoKY29uc3QgY2FsbGVkTWNwID0gdG9vbENhbGxzLnNvbWUoKGMpID0+IFN0cmluZyhjLm5hbWUpLnN0YXJ0c1dpdGgoJ21jcF9fc25vd2x1bWEtaG9zdF9fJykpOwpjb25zdCBjYWxsZWRMb2NhbCA9IHRvb2xDYWxscy5zb21lKChjKSA9PiAvXihwd3NofGJhc2h8d3JpdGV8ZWRpdHxyZWFkfGdsb2J8Z3JlcCkkLy50ZXN0KFN0cmluZyhjLm5hbWUpKSk7CmNvbnNvbGUubG9nKCdcbuWIpOWumjonKTsKY29uc29sZS5sb2coYCAgTUNQIOW3peWFt+WPr+iwg+eUqCAgICAgICAgICA6ICR7Y2FsbGVkTWNwID8gJ+KchScgOiAn4p2MIOacquingua1i+WIsCBtY3BfX3Nub3dsdW1hLWhvc3RfXyDosIPnlKgnfWApOwpjb25zb2xlLmxvZyhgICDmnKrosIPnlKjmnKzlnLDljbHpmanlt6XlhbcgICAgICA6ICR7Y2FsbGVkTG9jYWwgPyAn4p2MIOWHuueOsOS6huacrOWcsOW3peWFt+iwg+eUqCcgOiAn4pyFJ31gKTsKCnRyeSB7IHNvY2tldC5jbG9zZSgpOyB9IGNhdGNoIHt9CmF3YWl0IHJwYygnd29ya3NwYWNlL2FyY2hpdmVTZXNzaW9uJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZCB9IH0pOwovLyDmjqLpkojlt6XkvZzljLrkuZ/kuIDlubbliKDmjonvvJpgd29ya3NwYWNlL2NyZWF0ZWAg5bu655qE5p2h55uu5Lya5LiA55u055WZ5ZyoIERTSCDkvqfmoI/ph4zvvIwKLy8g5q+P6LeR5LiA5qyh5o6i6ZKI5bCx5aSa5LiA5Liq77yIYHFxLWJyaWRnZS1wcm9iZS10b29sc2Ag6L+Z57G75ZCN5a2X5bCx5piv6L+Z5LmI5p2l55qE77yJ44CCCnRyeSB7IGF3YWl0IHJwYygnd29ya3NwYWNlL2RlbGV0ZScsIHsgcmVxdWVzdDogeyB3b3Jrc3BhY2VJZDogd3NJZCB9IH0pOyB9IGNhdGNoIHt9Ci8vIOW3peS9nOWMuuWIoOWujOebruW9lei/mOWcqOS4tOaXtuWMuumHjO+8iOepuuebruW9lSArIOS8muivneW3suW9kuaho++8ie+8jOS4gOW5tua4heaOie+8jOWIq+iuqeaOoumSiOeVmeWeg+WcvuOAggp0cnkgeyBmcy5ybVN5bmMoZGlyLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7IH0gY2F0Y2gge30KY29uc29sZS5sb2coJ1tjbGVhbnVwXSBzZXNzaW9uIGFyY2hpdmVkLCBwcm9iZSB3b3Jrc3BhY2UgZGVsZXRlZCcpOwpwcm9jZXNzLmV4aXQoY2FsbGVkTWNwICYmICFjYWxsZWRMb2NhbCA/IDAgOiAxKTsK
+// 端到端验证 QQ preset 的「工具面」与「工具协议」：
+//  1. 建会话挂 preset（qq-chat / qq-chat-v2）
+//  2. 注入一条 prompt，要求 agent 调 mcp__snowluma-host__snowluma_status（不依赖 SnowLuma 在线）
+//  3. 观测 turn 事件里的 tool/call 与 tool/result，确认 MCP 工具真的可调用
+//  4. 同时确认本地危险工具（pwsh/bash 等）不在工具面里
+import { randomUUID } from 'node:crypto';
+import fs from 'node:fs';
+import { probeCookie, probeRpc, probeMuxSocket, probeWorkspaceDir } from './probe-auth.mjs';
+
+// 鉴权与 RPC 引导统一走 probe-auth.mjs（旧的「读 guard 日志抓 launch token」在
+// DSH 0.1.7 起已失效，会让探针一律 401 —— 见该文件头部说明）。
+const cookie = probeCookie();
+const rpc = probeRpc(cookie);
+
+const PRESET = process.argv[2] || 'qq-chat';
+// 探测工作区建在系统临时目录：state/ 的 ACL 被收紧过，沙箱里写不进去。
+const dir = probeWorkspaceDir('tools');
+const ws = await rpc('workspace/create', { request: { path: dir } });
+const wsId = ws.value.workspace.workspaceId;
+const model = await rpc('session/selectModel', { request: { sessionId: 'x', provider: 'x', model: 'x' } }); // 仅探测形状，忽略
+
+const sc = await rpc('session/create', { request: { workspaceId: wsId, agentPreset: PRESET } });
+if (!sc.ok) { console.error(`❌ preset ${PRESET} 挂载失败: ${sc.error.code}: ${sc.error.message}`); process.exit(2); }
+const sessionId = sc.value.sessionId;
+console.log(`session ${sessionId} (preset=${PRESET})`);
+
+// 模型切换（桥接 ensureChatModel 的等价操作）
+const sm = await rpc('session/selectModel', { request: { sessionId, provider: 'deepseek-official', model: 'deepseek-flash', reasoningEffort: 'max' } });
+console.log('selectModel ->', sm.ok ? JSON.stringify(sm.value.selected) : `FAIL ${sm.error.code}: ${sm.error.message}`);
+
+const socket = probeMuxSocket(cookie);
+const streamId = randomUUID();
+const eventStreamId = randomUUID();
+const toolCalls = [];
+const toolResults = [];
+let text = '';
+
+const done = new Promise((resolve) => {
+  const timer = setTimeout(() => resolve('timeout'), 120_000);
+  const finish = (why) => { clearTimeout(timer); resolve(why); };
+  socket.addEventListener('open', () => {
+    socket.send(JSON.stringify({ type: 'open', streamId, endpoint: 'session/follow', payload: { args: { request: { address: { kind: 'session', sessionId } } } } }));
+    socket.send(JSON.stringify({ type: 'open', streamId: eventStreamId, endpoint: '$events', payload: { args: {} } }));
+    setTimeout(async () => {
+      const p = await rpc('session/prompt', {
+        request: {
+          sessionId, requestId: randomUUID(), mode: 'queue',
+          content: [{ type: 'text', text: '请调用 mcp__snowluma-host__snowluma_status 工具一次，然后只回复：完成' }]
+        }
+      });
+      console.log('prompt ->', JSON.stringify(p).slice(0, 120));
+    }, 700);
+  });
+  socket.addEventListener('message', (ev) => {
+    let m; try { m = JSON.parse(ev.data); } catch { return; }
+    if (m.type !== 'item' || m.streamId === eventStreamId) return;
+    const v = m.value;
+    if (v?.type !== 'event') return;
+    const e = v.event;
+    if (e.type === 'assistant/message') for (const b of e.data?.message?.content ?? []) if (b?.type === 'text') text += b.text;
+    if (e.type === 'tool/call') toolCalls.push({ name: e.data?.name ?? e.data?.toolName, args: e.data?.arguments ?? e.data?.args });
+    if (e.type === 'tool/result') toolResults.push({ name: e.data?.name ?? e.data?.toolName, isError: e.data?.isError ?? e.data?.error !== undefined });
+    if (e.type === 'turn/end') finish('done');
+  });
+  socket.addEventListener('close', () => finish('closed'));
+  socket.addEventListener('error', () => finish('error'));
+});
+
+const why = await done;
+console.log(`\n结果: ${why}`);
+console.log('最终文本:', JSON.stringify(text.slice(0, 200)));
+console.log('tool/call:', JSON.stringify(toolCalls));
+console.log('tool/result:', JSON.stringify(toolResults));
+
+const calledMcp = toolCalls.some((c) => String(c.name).startsWith('mcp__snowluma-host__'));
+const calledLocal = toolCalls.some((c) => /^(pwsh|bash|write|edit|read|glob|grep)$/.test(String(c.name)));
+console.log('\n判定:');
+console.log(`  MCP 工具可调用          : ${calledMcp ? '✅' : '❌ 未观测到 mcp__snowluma-host__ 调用'}`);
+console.log(`  未调用本地危险工具      : ${calledLocal ? '❌ 出现了本地工具调用' : '✅'}`);
+
+try { socket.close(); } catch {}
+await rpc('workspace/archiveSession', { request: { sessionId } });
+// 探针工作区也一并删掉：`workspace/create` 建的条目会一直留在 DSH 侧栏里，
+// 每跑一次探针就多一个（`qq-bridge-probe-tools` 这类名字就是这么来的）。
+try { await rpc('workspace/delete', { request: { workspaceId: wsId } }); } catch {}
+// 工作区删完目录还在临时区里（空目录 + 会话已归档），一并清掉，别让探针留垃圾。
+try { fs.rmSync(dir, { recursive: true, force: true }); } catch {}
+console.log('[cleanup] session archived, probe workspace deleted');
+process.exit(calledMcp && !calledLocal ? 0 : 1);

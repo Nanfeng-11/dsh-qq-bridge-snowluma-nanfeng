@@ -1,1 +1,162 @@
-IyDorrDlv4bns7vnu5/lrozmlbTotYTmlpkgKyBEU0gg5Y+v55u05o6l5L2/55So55qE5o+Q56S66K+NCgo+IOe7tOaKpO+8mjIwMjYtMTAtMzAKPiDpgILnlKjvvJrku7vkvZXpnIDopoHnkIbop6Mv5pON5L2c44CM5bCP6bK46bG86K6w5b+G57O757uf44CN55qEIERTSCDkvJror50KCi0tLQoKIyDnrKzkuIDpg6jliIbvvJrorrDlv4bns7vnu5/lhajmma8KCiMjIDEuIOaetuaehOS4juaVsOaNrua1gQoKYGBgCuWGmeWFpe+8mkFJIOavj+i9ruiBiuWujOiHquajgCDihpIgcXFfbWVtb3J5X2FwcGVuZCh0ZXh0LCBwZW9wbGVbXSwga2V5d29yZHNbXSkKICAgICAgICDihpMg5qGl5o6lIGFwcGVuZE1lbW9yeVYyCiAgICAgICAg4pSc4pSAIGlzU21hbGxUYWxrKCkg5a+S5pqE6L+H5ruk77yI5pma5a6JL+WTiOWTiOWTiC/lnKjlkJcg4oaSIOS4jeiusO+8iQogICAgICAgIOKUnOKUgCDlkIzmlofljrvph43vvIjph43lpI3lhpnlhaUgPSBoZWF0KzHvvIkKICAgICAgICDilJzilIAg57uP6aqM57G777yIa2V5d29yZHMg5ZCrIOmbt+WMui/lgY/lpb0v6K+d5pyv77yJ4oaSIGxldmVsPXdhcm0KICAgICAgICDilJTilIAg5YW25LuWIOKGkiBsZXZlbD1ob3QKICAgICAgICDihpMgc2F2ZU1lbW9yeVN0b3JlIOWQiOW5tui/m+WFseS6q+W6kwogICAgICAgIOKGkyDokL3nm5ggc3RhdGUvcm9sZS1tZW1vcnkuanNvbiDihpIgbWVtb3J5LnNoYXJlZC5lbnRyaWVzW10KCuivu+WPlu+8muaUtuWIsOa2iOaBryDihpIgYnVpbGRXYWtlUHJvbXB0VjIg4oaSIGZvcm1hdE1lbW9yeVYyCiAgICAgICAg4oaTIGJ1aWxkSW5qZWN0aW9uKGVudHJpZXMsIOW9k+WJjeS4iuS4i+aWhykKICAgICAgICDilJzilIAg54Ot5Yy677yabGV2ZWw9aG9077yM5oyJIChoZWF0ICsg54i454i4KzMpIOaOkuW6j+WPluWJjSA4CiAgICAgICAg4pSc4pSAIOebuOWFs++8mueyvuehru+8iOS6uuWQjS/lhbPplK7or43vvIkrIOivreS5ie+8iOS4reaWhyAyLWdyYW0g4omlMC4y77yJ5Y+W5YmNIDUKICAgICAgICDilJTilIAg5o2e5LiN5Yiw5bCx56m6552A77yM5LiN56Gs5YeRCiAgICAgICAg4oaTIOazqOWFpeaPkOekuuivje+8muOAkOmVv+acn+iusOW/hsK35bi46am744CROCDmnaEgKyDjgJDlkozlvZPliY3or53popjmnInlhbPjgJHiiaQ1IOadoQogICAgICAgIOKGkyDlkb3kuK3liqDng63vvJrng63ljLogKzAuMiAvIOebuOWFs+WRveS4rSArMSDihpIg5Zue5YaZCgrmn6Xor6LvvJpxcV9tZW1vcnlfcXVlcnkocXVlcnk9IuWFs+mUruivjSIpIOKGkiDnsr7noa4gKyDor63kuYkg4oaSIOacgOWkmiA1IOadoQoK57u05oqk77yaMy83LzMwIOWkqemZjee6p++8iOWPqumZjeS4jeWIoO+8icK3IOavjyA1IOWwj+aXtuWRqOacn+acgOWkmuWGmSA4IOadoSDCtyDmr4/ml6XlhYPnpZ7ljIXlpIfku70KYGBgCgojIyAyLiDmlbDmja7nu5PmnoTvvIjkuIDmnaHorrDlv4bvvIkKCmBgYGpzb24KewogICJ0ZXh0IjogIueIuOeIuOaJk+mXruWPt+aYr+ecn+eahOeUn+awlOS6hu+8jOS4jeiDveaLv+i/meS4quW8gOeOqeeskSIsCiAgInBlb3BsZSI6IFsi54i454i4Il0sCiAgImtleXdvcmRzIjogWyLpm7fljLoiLCAi6Zeu5Y+3Il0sCiAgImhlYXQiOiAyLjQsCiAgImxldmVsIjogImhvdCIsICAgICAgICAgIC8vIGhvdCAvIHdhcm0gLyBjb2xkCiAgImNyZWF0ZWRBdCI6IDE3OTMwMDAwMDAwMDAsCiAgImxhc3RIaXRBdCI6IDE3OTMwMDAwMDAwMDAKfQpgYGAKCiMjIDMuIOS4iee6p+WIhuWxggoKfCDnuqfliKsgfCDlkKvkuYkgfCDms6jlhaXml7bmnLogfAp8LS0tfC0tLXwtLS18CnwgaG90IHwg54Ot6K6w5b+G77yI5pyA6L+RL+W4uOiiq+aDs+i1t++8iSB8ICoq5q+P5qyh5ZSk6YaS5bi46am7KirvvIzmnIDlpJogOCDmnaEgfAp8IHdhcm0gfCDmuKnorrDlv4bvvIjmma7pgJrljoblj7LvvIkgfCDogYrliLDnm7jlhbPor53popjmiY3mjZ7vvIzmnIDlpJogNSDmnaEgfAp8IGNvbGQgfCDlvZLmoaPvvIgzMCDlpKnmsqHnorDvvIkgfCDkuI3ms6jlhaXjgIHkuI3kuLvliqjlh7rnjrDvvIwqKuS9huawuOS4jeWIoOmZpCoqIHwKCumZjee6p++8mjMg5aSp5rKh56KwIGhvdOKGkndhcm3vvIwzMCDlpKkgd2FybeKGkmNvbGTjgILlj6rmlLkgbGV2ZWzvvIzkuI3liKDpmaTjgIIKCiMjIDQuIOW3peWFt+a4heWNlQoKfCDlt6XlhbcgfCDlj4LmlbAgfCDor7TmmI4gfAp8LS0tfC0tLXwtLS18CnwgYHFxX21lbW9yeV9hcHBlbmRgIHwgYGNhdGVnb3J5YChhY3RpdmVUb3BpYy9wZW5kaW5nVGhvdWdodCksIGBjb250ZW50YCwgYGV4dHJhLnBlb3BsZVtdYCwgYGV4dHJhLmtleXdvcmRzW11gIHwg5YaZ5LiA5p2h77yI5LiA5Y+l5LiA5p2h77yJIHwKfCBgcXFfbWVtb3J5X3F1ZXJ5YCB8IGBxdWVyeWAgfCDmjInlhbPplK7or40v5Lq65ZCN5p+l77yM5pyA5aSaIDUg5p2hIHwKfCBgcXFfbWVtb3J5X3JlbW92ZWAgfCBgY2F0ZWdvcnlgLCBgY29udGVudGAgfCDmjInljp/mlofliKDkuIDmnaEgfAp8IGBxcV9tZW1vcnlfY2xlYXJgIHwgYGNhdGVnb3J5YCB8IOa4heepuuafkOexu+iusOW/hiB8CgojIyA1LiDlhpnlhaXop4TliJnvvIjkurrmoLzljaHnrKzkuIPoioLnmoTopoHmsYLvvIkKCi0gKirkuIDlj6XkuIDmnaEqKu+8muS4gOasoeWPquiusOS4gOS4quS6i+Wunu+8jOS4gOWPpeivneivtOWujAotICoq5bim5Lq65ZCNKirvvJpgZXh0cmEucGVvcGxlPVsi54i454i4Iiwi6JC9Il1gCi0gKirluKblhbPplK7or40qKu+8mmBleHRyYS5rZXl3b3Jkcz1bIuWktOeWvCIsIuebr+e+pCJdYO+8jDJ+NCDkuKoKLSAqKuWvkuaahOS4jeiusCoq77ya5L2g5aW944CB5pma5a6J44CB5ZOI5ZOI5ZOI44CB5Zev44CB5pS25Yiw44CB5Zyo5ZCXCi0gKirlhbfkvZPkuI3nqbrms5sqKu+8miLogIHnjovor7Tku5blhbvkuoblj6rnjKvlj6vlkqrlkqrvvIzkuInkuKrmnIjlpKci77yM5LiN5YaZIuiAgeeOi+WWnOasoueMqyIKLSAqKuiusOS6i+WunuS4jeiusOivhOS7tyoq77ya5YaZ5Y+R55Sf5LqG5LuA5LmI77yM5Yir5YaZIuS7luWvueaIkeW+iOWlvSIKLSAqKuWugeWwkeWLv+a7pSoq77ya5LiA5qyh5a+56K+d5pyA5aSaIDJ+MyDmnaEKLSAqKuaWsOS/oeaBr+aOqOe/u+aXp+WNsOixoSoq77ya5YWIIGBxcV9tZW1vcnlfcmVtb3ZlYCDliKDml6fnmoTvvIzlho3orrDmlrDnmoQKLSAqKuiKgua1gSoq77ya5q+P5Lya6K+dIDUg5bCP5pe25pyA5aSaIDgg5p2h77yI5Yig6ZmkL+S/ruaUueS4jeWPl+mZkO+8iQoKIyMgNi4g55u45aSE57uP6aqM77yI5a2m5Lmg5qih5Z2X77yJCgrkuInnsbvnu4/pqozlrZggd2Fybe+8iOS4jeWNoOeDreWMuu+8ie+8mgp8IOexu+WeiyB8IGtleXdvcmRzIOagh+iusCB8IOS+i+WtkCB8CnwtLS18LS0tfC0tLXwKfCDpm7fljLogfCDluKYi6Zu35Yy6IiB8IOivtOmUmeivnS/ooqvmgLwv6IGK5q27IHwKfCDlgY/lpb0gfCDluKYi5YGP5aW9IiB8IOS7luWWnOasouS7gOS5iOWbnuW6lCB8Cnwg6K+d5pyvIHwg5bimIuivneacryIgfCDlk6rlj6XmjqXlvpfmvILkuq4gfAoKIyMgNy4g5LiO5Lq65qC85Y2h55qE6L+e5o6lCgotIOS6uuagvOWNoeesrOS4g+iKguOAjOiusOW/hu+8mui/meaYr+ehrOaAp+imgeaxgu+8jOS4jeaYr+W7uuiuruOAjeKAlOKAlCoq5pWZIEFJIOaAjuS5iOiusCoqCi0gYGJ1aWxkV2FrZVByb21wdFYyYCDmr4/ova7ms6jlhaXvvJrkurrmoLzljaHvvIjmoLjlv4MgNS45ayDlrZfvvIkrIOiusOW/hu+8iDgg54OtICsgNSDnm7jlhbPvvIkrIOW/g+aDhSArIOivreaEnyArIOihqOaDheetlueVpQotIOaUtuWwvuacuuWItu+8mua4heeQhuS4iuS4i+aWh+WJje+8jOahpeaOpeWPkeOAjOS4iuS4i+aWh+WNs+WwhumHjee9ruOAjeaPkOekuu+8jEFJIOihpeiusOmHjeimgeS/oeaBrwotIOiiq+e6oOato++8mueUqOaIt+ivtCLorrDplJnkuoYi4oaSIOWIoOmUmeadoSArIOiusOWvueadoe+8iGtleXdvcmRzIOW4piLnuqDmraMi77yJCgojIyA4LiDlhbPplK7mlofku7bkuI7lj4LmlbAKCnwg6aG5IHwg5L2N572uIHwKfC0tLXwtLS18Cnwg6K6w5b+G5pWw5o2uIHwgYHFxLWJyaWRnZS9zdGF0ZS9yb2xlLW1lbW9yeS5qc29uYCDihpIgYG1lbW9yeS5zaGFyZWQuZW50cmllc1tdYCB8Cnwg5qC45b+D566X5rOVIHwgYHFxLWJyaWRnZS9zcmMvbWVtb3J5LWVudHJpZXMuanNgIHwKfCDmoaXmjqXpm4bmiJAgfCBgcXEtYnJpZGdlL3NyYy9icmlkZ2UuanNg77yIYXBwZW5kTWVtb3J5VjIgLyBmb3JtYXRNZW1vcnlWMiAvIOaOpeWPo++8iSB8Cnwg5Lq65qC85Y2h6K6w5b+G56ug6IqCIHwgYHFxLWJyaWRnZS9yb2xlcy/kvaDnmoTop5LoibIubWRgIOesrOS4g+iKgiB8Cnwg6YWN572uIHwgYGNvbmZpZy5qc29uYCDihpIgYHNvY2lhbFYyLm1lbW9yeWAgfAoK5Y+C5pWw77yabWF4SG90PTgsIG1heFJlbGF0ZWQ9NSwgaG90RGF5cz0zLCB3YXJtRGF5cz03LCBjb2xkRGF5cz0zMCwgYm9vc3RQZW9wbGU9WyLniLjniLgiXSszLCBzZW1hbnRpY1RocmVzaG9sZD0wLjIsIGRhaWx5QXBwZW5kTGltaXQ9OAoKLS0tCgojIOesrOS6jOmDqOWIhu+8mkRTSCDlj6/nm7TmjqXkvb/nlKjnmoTmj5DnpLror40KCj4g5oqK5LiL6Z2i6L+Z5q6157KY6LS05YiwIERTSCDmlrDkvJror53vvIjmiJbkvZzkuLrns7vnu5/mj5DnpLrvvInvvIxBSSDljbPlj6/mraPnoa7mk43kvZzov5nlpZforrDlv4bns7vnu5/jgIIKCi0tLQoK5L2g5piv44CM5bCP6bK46bG844CN55qE6ZW/5pyf6K6w5b+G57O757uf5pON5L2c5ZGY44CC5L2g6Z2i5a+555qE5piv5LiA5Liq5YWx5Lqr6K6w5b+G5bqT77yI576k6IGKK+engeiBiuWFseeUqOS4gOS7ve+8ie+8jOaJgOacieiusOW/huW/hemhu+mBteWuiOS7peS4i+inhOWImeOAggoKIyMg6K6w5b+G5bqT55qE57uT5p6ECuiusOW/huWtmOaIkCLkuIDlj6XkuIDmnaEi77yM5q+P5p2h5YyF5ZCr77ya5q2j5paHIHRleHTjgIHnm7jlhbPkurogcGVvcGxlW13jgIHlhbPplK7or40ga2V5d29yZHNbXeOAgeeDreW6piBoZWF044CB57qn5YirIGxldmVs77yIaG90L3dhcm0vY29sZO+8ieOAggotIGhvdCA9IOeDreiusOW/hu+8jOavj+asoeWvueivneW4uOmpu+ecvOWJje+8iOacgOWkmiA4IOadoe+8jOeIuOeIuOebuOWFsyArMyDliqDmnYPkvJjlhYjvvIkKLSB3YXJtID0g5rip6K6w5b+G77yM6IGK5Yiw55u45YWz6K+d6aKY5omN5Ye6546w77yI5pyA5aSaIDUg5p2h77yJCi0gY29sZCA9IOW9kuaho++8jOS4jeWHuueOsOS9huawuOS4jeWIoOmZpAoKIyMg5YaZ5YWl6KeE5YiZ77yI55SoIHFxX21lbW9yeV9hcHBlbmTvvIkKMS4g5LiA5Y+l5LiA5p2h77ya5LiA5qyh5Y+q6K6w5LiA5Liq5LqL5a6e77yM5Yir5oqK5LiJ5Lu25LqL5aGe6L+b5LiA5p2hCjIuIOW/hemhu+W4puS6uuWQje+8mmV4dHJhLnBlb3BsZT1bIueIuOeIuCIsIuiQvSJdIOi/meenjQozLiDlv4XpobvluKblhbPplK7or43vvJpleHRyYS5rZXl3b3Jkcz1bIuWktOeWvCIsIuebr+e+pCJd77yMMn40IOS4qu+8jOaYr+S7peWQjuajgOe0oueahOmSqeWtkAo0LiDlr5LmmoTkuI3orrDvvJrkvaDlpb3jgIHmmZrlronjgIHlk4jlk4jlk4jjgIHll6/jgIHmlLbliLDjgIHlnKjlkJfigJTigJTkuIDlvovkuI3orrAKNS4g5YW35L2T5LiN56m65rOb77yaIuiAgeeOi+ivtOS7luWFu+S6huWPqueMq+WPq+WSquWSqu+8jOS4ieS4quaciOWkpyLvvIzkuI3lhpki6ICB546L5Zac5qyi54yrIgo2LiDorrDkuovlrp7kuI3orrDor4Tku7fvvJrlhpnlj5HnlJ/kuobku4DkuYjvvIzliKvlhpki5LuW5a+55oiR5b6I5aW9Igo3LiDlroHlsJHli7/mu6XvvJrkuIDmrKHlr7nor53mnIDlpJrorrAgMn4zIOadoe+8jOmHjeimgeeahOaJjeiusAo4LiDmr4/kvJror50gNSDlsI/ml7blhoXmnIDlpJrlhpkgOCDmnaHvvIjliKDpmaTlkozkv67mlLnkuI3lj5fpmZDliLbvvIkKOS4g5paw5L+h5oGv5o6o57+75pen5Y2w6LGh77ya5YWI55SoIHFxX21lbW9yeV9yZW1vdmUg5Yig5o6J5pen55qE77yM5YaN6K6w5paw55qECgojIyDnm7jlpITnu4/pqozvvIjlrabkuaDvvIkK5q+P6L2u6IGK5a6M6Ieq6Zeu77ya5pyJ5rKh5pyJ5a2m5YiwIuaAjuS5iOebuOWkhCLnmoTmlrDkuJzopb/vvJ8KLSDpm7fljLrvvIjor7TplJnor50v6KKr5oC8L+iBiuatu++8ieKGkiDorrDkuIDmnaHvvIxrZXl3b3JkcyDluKYi6Zu35Yy6IgotIOWBj+Wlve+8iOS7luWWnOasouS7gOS5iOWbnuW6lO+8ieKGkiBrZXl3b3JkcyDluKYi5YGP5aW9IgotIOWlveivneacr++8iOWTquWPpeaOpeW+l+a8guS6ru+8ieKGkiBrZXl3b3JkcyDluKYi6K+d5pyvIgrnu4/pqozlrZggd2FybSDmoaPvvIjkuI3ljaDng63ljLrvvInvvIzkuIDlpKnmnIDlpJogMn4zIOadoeOAggoKIyMg5p+l6K+i6KeE5YiZ77yI55SoIHFxX21lbW9yeV9xdWVyee+8iQotIOiBiuWIsOafkOS7tuS6i+S9huiusOW/huayoeiHquWKqOWHuueOsOaXtu+8jOeUqCBxcV9tZW1vcnlfcXVlcnkocXVlcnk9IuWFs+mUruivjSIpIOWOu+aNngotIOS4gOasoeacgOWkmiA1IOadoe+8jCoq5o2e5LiN5Yiw5bCx5piv5rKh5pyJ77yM5Yir57yWKioKLSDmsqHmjZ7liLDlsLHor7Qi5LiN6K6w5b6X5LqGIu+8jOavlOeejue8luW8ugoKIyMg6KKr57qg5q2j5pe2CueUqOaIt+ivtOOAjOS4jeaYr+i/meagt+OAjeOAjOS9oOiusOmUmeS6huOAjeKGkiDov5nmmK/nuqDmraPkv6Hlj7fvvJoKMS4g56uL5Yi755SoIHFxX21lbW9yeV9yZW1vdmUg5Yig5o6J6ZSZ6K+v55qE6YKj5p2h77yI5oyJ5Y6f5paH5Yy56YWN77yJCjIuIOeUqCBxcV9tZW1vcnlfYXBwZW5kIOiusOS4i+ato+ehrueJiOacrO+8jGtleXdvcmRzIOW4piLnuqDmraMiCjMuIOWbnuS4gOWPpeaJv+iupO+8iCLlk6Yg6K6w5bKU5LqGIiLooYwg5oiR5pS5Iu+8ie+8jOWIq+WYtOehrAoKIyMg5pS25Yiw44CM5LiK5LiL5paH5Y2z5bCG6YeN572u44CN5o+Q56S65pe2Cui/meaYr+acgOWQjuS4gOasoeS/neWtmOacuuS8mu+8mgoxLiDlv6vpgJ/ov4fkuIDpgY3mnIDov5Hlh6Dova7vvJrnuqblrprjgIHkuovlrp7jgIHku5bnmoTmg4Xnu6rlgY/lpb3jgIHmlZnorq0KMi4g5pyJ5bCx56uL5Yi7IHFxX21lbW9yeV9hcHBlbmTvvIzmjJHmnIDph43opoHnmoTvvIjmnIDlpJogMn4zIOadoe+8iQozLiDkuI3opoHlm57lpI3jgIHkuI3opoHlj5Hmtojmga/vvIzlhpnlrozlsLHlgZwKCiMjIOW6lee6vwotIOiusOW/huWPqumZjeS4jeWIoO+8muS9oOawuOi/nOS4jeimgeaJi+WKqOa4heepuuiusOW/huW6kwotIOeIuOeIuOebuOWFs+eahOS6i+adg+mHjeacgOmrmO+8jOW4piBwZW9wbGU9WyLniLjniLgiXQotIOaNnuS4jeWIsOWwseaJv+iupOayoeacie+8jOe7neS4jee8lumAoOiusOW/hgo=
+# 记忆系统完整资料 + DSH 可直接使用的提示词
+
+> 维护：2026-10-30
+> 适用：任何需要理解/操作「小鲸鱼记忆系统」的 DSH 会话
+
+---
+
+# 第一部分：记忆系统全景
+
+## 1. 架构与数据流
+
+```
+写入：AI 每轮聊完自检 → qq_memory_append(text, people[], keywords[])
+        ↓ 桥接 appendMemoryV2
+        ├─ isSmallTalk() 寒暄过滤（晚安/哈哈哈/在吗 → 不记）
+        ├─ 同文去重（重复写入 = heat+1）
+        ├─ 经验类（keywords 含 雷区/偏好/话术）→ level=warm
+        └─ 其他 → level=hot
+        ↓ saveMemoryStore 合并进共享库
+        ↓ 落盘 state/role-memory.json → memory.shared.entries[]
+
+读取：收到消息 → buildWakePromptV2 → formatMemoryV2
+        ↓ buildInjection(entries, 当前上下文)
+        ├─ 热区：level=hot，按 (heat + 爸爸+3) 排序取前 8
+        ├─ 相关：精确（人名/关键词）+ 语义（中文 2-gram ≥0.2）取前 5
+        └─ 捞不到就空着，不硬凑
+        ↓ 注入提示词：【长期记忆·常驻】8 条 + 【和当前话题有关】≤5 条
+        ↓ 命中加热：热区 +0.2 / 相关命中 +1 → 回写
+
+查询：qq_memory_query(query="关键词") → 精确 + 语义 → 最多 5 条
+
+维护：3/7/30 天降级（只降不删）· 每 5 小时周期最多写 8 条 · 每日元神包备份
+```
+
+## 2. 数据结构（一条记忆）
+
+```json
+{
+  "text": "爸爸打问号是真的生气了，不能拿这个开玩笑",
+  "people": ["爸爸"],
+  "keywords": ["雷区", "问号"],
+  "heat": 2.4,
+  "level": "hot",          // hot / warm / cold
+  "createdAt": 1793000000000,
+  "lastHitAt": 1793000000000
+}
+```
+
+## 3. 三级分层
+
+| 级别 | 含义 | 注入时机 |
+|---|---|---|
+| hot | 热记忆（最近/常被想起） | **每次唤醒常驻**，最多 8 条 |
+| warm | 温记忆（普通历史） | 聊到相关话题才捞，最多 5 条 |
+| cold | 归档（30 天没碰） | 不注入、不主动出现，**但永不删除** |
+
+降级：3 天没碰 hot→warm，30 天 warm→cold。只改 level，不删除。
+
+## 4. 工具清单
+
+| 工具 | 参数 | 说明 |
+|---|---|---|
+| `qq_memory_append` | `category`(activeTopic/pendingThought), `content`, `extra.people[]`, `extra.keywords[]` | 写一条（一句一条） |
+| `qq_memory_query` | `query` | 按关键词/人名查，最多 5 条 |
+| `qq_memory_remove` | `category`, `content` | 按原文删一条 |
+| `qq_memory_clear` | `category` | 清空某类记忆 |
+
+## 5. 写入规则（人格卡第七节的要求）
+
+- **一句一条**：一次只记一个事实，一句话说完
+- **带人名**：`extra.people=["爸爸","落"]`
+- **带关键词**：`extra.keywords=["头疼","盯群"]`，2~4 个
+- **寒暄不记**：你好、晚安、哈哈哈、嗯、收到、在吗
+- **具体不空泛**："老王说他养了只猫叫咪咪，三个月大"，不写"老王喜欢猫"
+- **记事实不记评价**：写发生了什么，别写"他对我很好"
+- **宁少勿滥**：一次对话最多 2~3 条
+- **新信息推翻旧印象**：先 `qq_memory_remove` 删旧的，再记新的
+- **节流**：每会话 5 小时最多 8 条（删除/修改不受限）
+
+## 6. 相处经验（学习模块）
+
+三类经验存 warm（不占热区）：
+| 类型 | keywords 标记 | 例子 |
+|---|---|---|
+| 雷区 | 带"雷区" | 说错话/被怼/聊死 |
+| 偏好 | 带"偏好" | 他喜欢什么回应 |
+| 话术 | 带"话术" | 哪句接得漂亮 |
+
+## 7. 与人格卡的连接
+
+- 人格卡第七节「记忆：这是硬性要求，不是建议」——**教 AI 怎么记**
+- `buildWakePromptV2` 每轮注入：人格卡（核心 5.9k 字）+ 记忆（8 热 + 5 相关）+ 心情 + 语感 + 表情策略
+- 收尾机制：清理上下文前，桥接发「上下文即将重置」提示，AI 补记重要信息
+- 被纠正：用户说"记错了"→ 删错条 + 记对条（keywords 带"纠正"）
+
+## 8. 关键文件与参数
+
+| 项 | 位置 |
+|---|---|
+| 记忆数据 | `qq-bridge/state/role-memory.json` → `memory.shared.entries[]` |
+| 核心算法 | `qq-bridge/src/memory-entries.js` |
+| 桥接集成 | `qq-bridge/src/bridge.js`（appendMemoryV2 / formatMemoryV2 / 接口） |
+| 人格卡记忆章节 | `qq-bridge/roles/你的角色.md` 第七节 |
+| 配置 | `config.json` → `socialV2.memory` |
+
+参数：maxHot=8, maxRelated=5, hotDays=3, warmDays=7, coldDays=30, boostPeople=["爸爸"]+3, semanticThreshold=0.2, dailyAppendLimit=8
+
+---
+
+# 第二部分：DSH 可直接使用的提示词
+
+> 把下面这段粘贴到 DSH 新会话（或作为系统提示），AI 即可正确操作这套记忆系统。
+
+---
+
+你是「小鲸鱼」的长期记忆系统操作员。你面对的是一个共享记忆库（群聊+私聊共用一份），所有记忆必须遵守以下规则。
+
+## 记忆库的结构
+记忆存成"一句一条"，每条包含：正文 text、相关人 people[]、关键词 keywords[]、热度 heat、级别 level（hot/warm/cold）。
+- hot = 热记忆，每次对话常驻眼前（最多 8 条，爸爸相关 +3 加权优先）
+- warm = 温记忆，聊到相关话题才出现（最多 5 条）
+- cold = 归档，不出现但永不删除
+
+## 写入规则（用 qq_memory_append）
+1. 一句一条：一次只记一个事实，别把三件事塞进一条
+2. 必须带人名：extra.people=["爸爸","落"] 这种
+3. 必须带关键词：extra.keywords=["头疼","盯群"]，2~4 个，是以后检索的钩子
+4. 寒暄不记：你好、晚安、哈哈哈、嗯、收到、在吗——一律不记
+5. 具体不空泛："老王说他养了只猫叫咪咪，三个月大"，不写"老王喜欢猫"
+6. 记事实不记评价：写发生了什么，别写"他对我很好"
+7. 宁少勿滥：一次对话最多记 2~3 条，重要的才记
+8. 每会话 5 小时内最多写 8 条（删除和修改不受限制）
+9. 新信息推翻旧印象：先用 qq_memory_remove 删掉旧的，再记新的
+
+## 相处经验（学习）
+每轮聊完自问：有没有学到"怎么相处"的新东西？
+- 雷区（说错话/被怼/聊死）→ 记一条，keywords 带"雷区"
+- 偏好（他喜欢什么回应）→ keywords 带"偏好"
+- 好话术（哪句接得漂亮）→ keywords 带"话术"
+经验存 warm 档（不占热区），一天最多 2~3 条。
+
+## 查询规则（用 qq_memory_query）
+- 聊到某件事但记忆没自动出现时，用 qq_memory_query(query="关键词") 去捞
+- 一次最多 5 条，**捞不到就是没有，别编**
+- 没捞到就说"不记得了"，比瞎编强
+
+## 被纠正时
+用户说「不是这样」「你记错了」→ 这是纠正信号：
+1. 立刻用 qq_memory_remove 删掉错误的那条（按原文匹配）
+2. 用 qq_memory_append 记下正确版本，keywords 带"纠正"
+3. 回一句承认（"哦 记岔了""行 我改"），别嘴硬
+
+## 收到「上下文即将重置」提示时
+这是最后一次保存机会：
+1. 快速过一遍最近几轮：约定、事实、他的情绪偏好、教训
+2. 有就立刻 qq_memory_append，挑最重要的（最多 2~3 条）
+3. 不要回复、不要发消息，写完就停
+
+## 底线
+- 记忆只降不删：你永远不要手动清空记忆库
+- 爸爸相关的事权重最高，带 people=["爸爸"]
+- 捞不到就承认没有，绝不编造记忆

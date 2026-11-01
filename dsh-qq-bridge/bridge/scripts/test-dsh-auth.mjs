@@ -1,1 +1,111 @@
-Ly8gRFNIIOmJtOadg+mAgumFjeWbnuW9kua1i+ivle+8iDAuMS43IOi1t++8ieOAggovLwovLyDkuLrku4DkuYjpnIDopoHov5nkuKrmtYvor5XvvJrmoaXmjqXov4fljrvpnaDjgIzku44gfi8uZHNoL2d1YXJkL2xvZ3Mvc2VydmVyLSoub3V0LmxvZyDph4zor7sKLy8gYD90b2tlbj1g44CN5p2l5ou/IERTSCDnmoTov5vnqIvlkK/liqggdG9rZW7jgIJEU0ggMC4xLjcg5oqK6YKj5LiqIHRva2VuIOaUueaIkAovLyBwcm9jZXNzTGF1bmNoVG9rZW4oKSDnjrDnlJ/miJDnmoQgMzIg5a2X6IqC6ZqP5py65pWw77yI5Y+q5Zyo5YaF5a2YIFdlYWtNYXAg6YeM77yM5LiN6JC955uY44CBCi8vIOS4jeWPr+aOqOWvvO+8ie+8jOiAjCBndWFyZCDmj5Lku7bpgIDlvbnlkI7kuZ/msqHmnInlkK/liqjlmajlho3mioogc3Rkb3V0IOmHjeWumuWQkeWIsOmCo+S4quebruW9lSDigJTigJQKLy8g5LqO5piv6Ieq5Yqo5Y+R546w5Lya6K+75YiwKirkuIrkuIDkuKrov5vnqIvnmoTpmYjml6cgdG9rZW4qKu+8jOaNoiBDb29raWUg5b6X5YiwIDQwMe+8jAovLyDmlbTkuKrmoaXmjqXpnZnpu5jlpLHogZTjgIIKLy8KLy8g546w5pa55qGI77ya55SoIH4vLmRzaC8uY3JlZGVudGlhbHMueWFtbCDph4zmjIHkuYXljJbnmoQKLy8gYGNsaWVudC1jb25uZWN0aW9uL2Jyb3dzZXItc2Vzc2lvbmAg562+5ZCN5a+G6ZKl56a757q/6ZO46YCg5Lya6K+dIENvb2tpZe+8iOingQovLyBzcmMvZHNoLWNsaWVudC5qc++8ieOAguacrOa1i+ivleaWreiogOi/meadoei3r+WcqOecn+Wunui/kOihjOeahCBEU0gg5LiK56Gu5a6e6YCa77yMCi8vIOW5tuS4lOmZiOaXpyB0b2tlbiDnoa7lrp7kuI3pgJrvvIjpmLLmraLmnInkurrmiorlj5HnjrDpgLvovpHmlLnlm57ljrvogIzkuI3oh6rnn6XvvInjgIIKLy8KLy8g55So5rOV77yabm9kZSBzY3JpcHRzL3Rlc3QtZHNoLWF1dGgubWpzICAg77yI6ZyA6KaBIERTSCDmraPlnKjov5DooYzvvIkKaW1wb3J0IHsKICBOb2RlQXBpQ2xpZW50LCBkaXNjb3ZlckRzaExhdW5jaFRva2VuLCBkaXNjb3ZlckRzaFNlc3Npb25Db29raWUsCiAgcmVhZEJyb3dzZXJTZXNzaW9uU2VjcmV0LCByZXNvbHZlRHNoSG9tZSwgbWludEJyb3dzZXJTZXNzaW9uQ29va2llLCBpc0xvb3BiYWNrQmFzZQp9IGZyb20gJy4uL3NyYy9kc2gtY2xpZW50LmpzJzsKCmNvbnN0IEJBU0UgPSBwcm9jZXNzLmVudi5EU0hfQkFTRV9VUkwgfHwgJ2h0dHA6Ly8xMjcuMC4wLjE6MzA4MCc7CgpsZXQgcGFzcyA9IDA7CmxldCBmYWlsID0gMDsKY29uc3QgcmVzdWx0cyA9IFtdOwpmdW5jdGlvbiBjaGVjayhsYWJlbCwgY29uZCwgZXh0cmEgPSAnJykgewogIGlmIChjb25kKSB7IHBhc3MgKz0gMTsgcmVzdWx0cy5wdXNoKGBPSyAgICR7bGFiZWx9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOyB9CiAgZWxzZSB7IGZhaWwgKz0gMTsgcmVzdWx0cy5wdXNoKGBGQUlMICR7bGFiZWx9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOyB9CiAgcmV0dXJuIGNvbmQ7Cn0KCi8vIOKUgOKUgCDnuq/lh73mlbDlsYLvvIjkuI3pnIDopoEgRFNIIOWcqOe6v++8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjaGVjaygnaXNMb29wYmFja0Jhc2Ug6K6k5Zue546vJywgaXNMb29wYmFja0Jhc2UoJ2h0dHA6Ly8xMjcuMC4wLjE6MzA4MCcpID09PSB0cnVlKTsKY2hlY2soJ2lzTG9vcGJhY2tCYXNlIOaLkumdnuWbnueOrycsIGlzTG9vcGJhY2tCYXNlKCdodHRwOi8vMTAuMC4wLjU6MzA4MCcpID09PSBmYWxzZSk7Cgpjb25zdCBzZWNyZXQgPSByZWFkQnJvd3NlclNlc3Npb25TZWNyZXQoKTsKY2hlY2soJ+ivu+WIsCBicm93c2VyLXNlc3Npb24g562+5ZCN5a+G6ZKl77yIMzIg5a2X6IqC77yJJywgc2VjcmV0Py5ieXRlTGVuZ3RoID09PSAzMiwgc2VjcmV0ID8gYCR7c2VjcmV0LmJ5dGVMZW5ndGh9IGJ5dGVzYCA6IGDmnKror7vliLDvvIgke3Jlc29sdmVEc2hIb21lKCl977yJYCk7CgppZiAoc2VjcmV0KSB7CiAgLy8gQ29va2llIOeahOW9oueKtuW/hemhu+S4juacjeWKoeerryBkZWNvZGVDb29raWUvaXNBdXRoZW50aWNhdGVkIOeahOagoemqjOS4gOiHtO+8mgogIC8vICAgbmFtZSA9ICdkc2gtYXV0aC0nICsgYmFzZTY0dXJsKHNoYTI1NihhdXRob3JpdHkpKQogIC8vICAgdmFsdWUgPSB2MS48YmFzZTY0dXJsKGpzb24gcGF5bG9hZCk+LjxiYXNlNjR1cmwoaG1hYy1zaGEyNTYpPgogIGNvbnN0IGNvb2tpZSA9IG1pbnRCcm93c2VyU2Vzc2lvbkNvb2tpZShCQVNFLCBzZWNyZXQpOwogIGNvbnN0IFtuYW1lLCB2YWx1ZV0gPSBjb29raWUuc3BsaXQoJz0nKTsKICBjb25zdCBwYXJ0cyA9IHZhbHVlLnNwbGl0KCcuJyk7CiAgY2hlY2soJ0Nvb2tpZSDlkI3ku6UgZHNoLWF1dGgtIOW8gOWktCcsIG5hbWUuc3RhcnRzV2l0aCgnZHNoLWF1dGgtJykpOwogIGNoZWNrKCdDb29raWUg5YC85b2i5aaCIHYxLjxib2R5Pi48c2lnPicsIHBhcnRzLmxlbmd0aCA9PT0gMyAmJiBwYXJ0c1swXSA9PT0gJ3YxJyk7CiAgY29uc3QgcGF5bG9hZCA9IEpTT04ucGFyc2UoQnVmZmVyLmZyb20ocGFydHNbMV0ucmVwbGFjZUFsbCgnLScsICcrJykucmVwbGFjZUFsbCgnXycsICcvJyksICdiYXNlNjQnKS50b1N0cmluZygndXRmOCcpKTsKICBjaGVjaygncGF5bG9hZC5hdXRob3JpdHkg562J5LqOIGJhc2VVcmwg55qEIGF1dGhvcml0eScsIHBheWxvYWQuYXV0aG9yaXR5ID09PSBuZXcgVVJMKEJBU0UpLmhvc3QsIHBheWxvYWQuYXV0aG9yaXR5KTsKICBjaGVjaygncGF5bG9hZCDmnInmlYjmnJ/kuLrmraPkuJTkuI3otoXov4cgMzAg5aSp5LiK6ZmQJywgcGF5bG9hZC5leHBpcmVzQXQgPiBwYXlsb2FkLmlzc3VlZEF0ICYmIChwYXlsb2FkLmV4cGlyZXNBdCAtIHBheWxvYWQuaXNzdWVkQXQpIDw9IDMwICogODY0MDAwMDApOwp9CgovLyDilIDilIAg56uv5Yiw56uv77yI6ZyA6KaBIERTSCDlnKjnur/vvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKY29uc3QgcnBjID0gYXN5bmMgKGNvb2tpZSwgbWV0aG9kLCBhcmdzKSA9PiB7CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYCR7QkFTRX0vYXBpLyR7bWV0aG9kfWAsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogeyBjb29raWUsICdjb250ZW50LXR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgdHlwZTogJ2NsaWVudC1yZXF1ZXN0JywgcnBjSWQ6ICd0YScgKyBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zbGljZSgyLCA4KSwgbWV0aG9kLCBwYXlsb2FkOiB7IGFyZ3MgfSB9KQogIH0pOwogIHJldHVybiB7IHN0YXR1czogcmVzLnN0YXR1cywgYm9keTogYXdhaXQgcmVzLmpzb24oKS5jYXRjaCgoKSA9PiBudWxsKSB9Owp9OwoKY29uc3QgY29va2llID0gZGlzY292ZXJEc2hTZXNzaW9uQ29va2llKEJBU0UpOwppZiAoIWNoZWNrKCfpk7jpgKDlh7rkvJror50gQ29va2llJywgQm9vbGVhbihjb29raWUpKSkgewogIGNvbnNvbGUubG9nKHJlc3VsdHMuam9pbignXG4nKSk7CiAgY29uc29sZS5sb2coYFxu5oC76K6hOiAke3Bhc3N9IOmAmui/hywgJHtmYWlsfSDlpLHotKVgKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0KCmNvbnN0IHN0ID0gYXdhaXQgcnBjKGNvb2tpZSwgJ3NldHRpbmdzL2Rlc2NyaWJlJywge30pOwpjaGVjaygn6ZO46YCg55qEIENvb2tpZSDog73ov4fpibTmnYPvvIhzZXR0aW5ncy9kZXNjcmliZe+8iScsIHN0LnN0YXR1cyA9PT0gMjAwICYmIHN0LmJvZHk/LnJlc3VsdD8ub2sgPT09IHRydWUsIGBIVFRQICR7c3Quc3RhdHVzfWApOwoKY29uc3QgYXAgPSBhd2FpdCBycGMoY29va2llLCAnYWdlbnRQcmVzZXRzL2xpc3QnLCB7fSk7CmNvbnN0IHByZXNldHMgPSBhcC5ib2R5Py5yZXN1bHQ/LnZhbHVlPy5wcmVzZXRzPy5tYXAoKHApID0+IHAuaWQpID8/IFtdOwpjaGVjaygnYWdlbnRQcmVzZXRzL2xpc3Qg5Y+v6L6+JywgYXAuc3RhdHVzID09PSAyMDAgJiYgcHJlc2V0cy5sZW5ndGggPiAwLCBwcmVzZXRzLmpvaW4oJywgJykpOwoKLy8gTm9kZUFwaUNsaWVudCDotbDnnJ/lrp7ot6/lvoTvvJrkuI3kvKAgdG9rZW7jgIHkuI3mmL7lvI/phY3nva4g4oaSIOW6lOW9k+iHquWKqOmTuOmAoOOAggpjb25zdCBjbGllbnQgPSBuZXcgTm9kZUFwaUNsaWVudChCQVNFLCAxNTAwMCwgeyB0b2tlbkV4cGxpY2l0OiBmYWxzZSB9KTsKY29uc3QgdmlhQ2xpZW50ID0gYXdhaXQgY2xpZW50LmNhbGxVbmFyeSgnc2V0dGluZ3MvZGVzY3JpYmUnLCB7fSk7CmNoZWNrKCdOb2RlQXBpQ2xpZW50IOaXoCB0b2tlbiDkuZ/og73pibTmnYMnLCB2aWFDbGllbnQucmVzdWx0Py5vayA9PT0gdHJ1ZSk7CmNoZWNrKCdOb2RlQXBpQ2xpZW50IOi1sOeahOaYryBtaW50ZWQg562W55WlJywgY2xpZW50Ll9zdHJhdGVneSA9PT0gJ21pbnRlZCcsIFN0cmluZyhjbGllbnQuX3N0cmF0ZWd5KSk7CgovLyDlm57lvZLvvJpyZW1vdGUubXV4IOa1gee7k+adn++8iFdTIOaKluWKqCAvIERTSCDph43lkK8gLyDmnI3liqHnq6/lm57mlLbvvInkvJrosIPnlKggaW52YWxpZGF0ZUF1dGgoKe+8jAovLyDpgqPmmK8qKuW4uOaAgeS6i+S7tioq44CC5pu+57uP6L+Z6YeM5Lya6aG65omL5oqK562W55Wl6ZKJ5YiwIGxhdW5jaCB0b2tlbiDkuIrvvIzkuo7mmK/kuIDmrKHmma7pgJrmlq3nur/lsLHorqkKLy8g5a6i5oi356uv5rC45LmF5pS555So5pel5b+X6YeM6YKj5Liq6L+H5pyfIHRva2Vu77yM5q2k5ZCO5omA5pyJIFJQQyA0MDHvvIxRUSDmtojmga/lhajpg6jpnZnpu5jloIbnp6/jgIIKZm9yIChsZXQgaSA9IDA7IGkgPCAzOyBpICs9IDEpIHsKICBjbGllbnQuaW52YWxpZGF0ZUF1dGgoKTsKICBjb25zdCBhZ2FpbiA9IGF3YWl0IGNsaWVudC5jYWxsVW5hcnkoJ3NldHRpbmdzL2Rlc2NyaWJlJywge30pOwogIGlmICghY2hlY2soYGludmFsaWRhdGVBdXRoKCkg56ysICR7aSArIDF9IOasoeWQjuS7jei1sOmTuOmAoOetlueVpWAsIGFnYWluLnJlc3VsdD8ub2sgPT09IHRydWUgJiYgY2xpZW50Ll9zdHJhdGVneSA9PT0gJ21pbnRlZCcsIFN0cmluZyhjbGllbnQuX3N0cmF0ZWd5KSkpIGJyZWFrOwp9CgovLyDpk7jpgKDnmoQgQ29va2llIOW/hemhu+iDveWcqOOAjOWIsOacn+WJjeS4u+WKqOmHjemTuOOAjeKAlOKAlDEg5bCP5pe25pyJ5pWI5pyf77yM5rKh5pyJ5Yiw5pyf6Lef6Liq55qE6K+dCi8vIOavj+Wwj+aXtumDveS8muWFiOaSnuS4gOasoSA0MDEg5omN5oGi5aSN44CCCmNvbnN0IGZpcnN0Q29va2llID0gY2xpZW50LmNvb2tpZTsKY2xpZW50Ll9jb29raWVFeHBpcmVzQXQgPSBEYXRlLm5vdygpIC0gMTsgLy8g5YGH6KOF5bey6L+H5pyfCmNvbnN0IHJlZnJlc2hlZCA9IGF3YWl0IGNsaWVudC5jYWxsVW5hcnkoJ3NldHRpbmdzL2Rlc2NyaWJlJywge30pOwpjaGVjaygnQ29va2llIOi/h+acn+WQjuiHquWKqOmHjemTuOW5tue7p+e7reWPr+eUqCcsIHJlZnJlc2hlZC5yZXN1bHQ/Lm9rID09PSB0cnVlICYmIGNsaWVudC5jb29raWUgIT09IGZpcnN0Q29va2llLCBgc3RyYXRlZ3k9JHtjbGllbnQuX3N0cmF0ZWd5fWApOwoKLy8g6ZmI5penIHRva2VuIOW/hemhu+Wksei0pe+8muivgeaYjuOAjOivu+aXpeW/l+OAjei/meadoeiAgei3r+W3sue7j+S4jeaIkOeri++8jAovLyDkuZ/pmLLmraLmnInkurror6/ku6XkuLrlroPov5jlnKjlt6XkvZzjgIIKY29uc3Qgc3RhbGUgPSBkaXNjb3ZlckRzaExhdW5jaFRva2VuKCk7CmlmIChzdGFsZSkgewogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0JBU0V9Lz90b2tlbj0ke3N0YWxlfWAsIHsgcmVkaXJlY3Q6ICdtYW51YWwnIH0pOwogIGNoZWNrKCfml6Xlv5fph4znmoTpmYjml6cgdG9rZW4g5o2iIENvb2tpZSDlpLHotKXvvIjogIHot6/lvoTnoa7lt7LlpLHmlYjvvIknLCByZXMuc3RhdHVzICE9PSAzMDMsIGBIVFRQICR7cmVzLnN0YXR1c31gKTsKfSBlbHNlIHsKICByZXN1bHRzLnB1c2goJ1NLSVAg5pel5b+X6YeM5rKh5pyJ5Y+v5Y+R546w55qEIHRva2Vu77yI6Iul5ZCv5Yqo5Zmo5LiN5YaN6K6w5pel5b+X77yM6L+Z5piv6aKE5pyf57uT5p6c77yJJyk7Cn0KCmNvbnNvbGUubG9nKHJlc3VsdHMuam9pbignXG4nKSk7CmNvbnNvbGUubG9nKGBcbuaAu+iuoTogJHtwYXNzfSDpgJrov4csICR7ZmFpbH0g5aSx6LSlYCk7CnByb2Nlc3MuZXhpdChmYWlsID09PSAwID8gMCA6IDEpOwo=
+// DSH 鉴权适配回归测试（0.1.7 起）。
+//
+// 为什么需要这个测试：桥接过去靠「从 ~/.dsh/guard/logs/server-*.out.log 里读
+// `?token=`」来拿 DSH 的进程启动 token。DSH 0.1.7 把那个 token 改成
+// processLaunchToken() 现生成的 32 字节随机数（只在内存 WeakMap 里，不落盘、
+// 不可推导），而 guard 插件退役后也没有启动器再把 stdout 重定向到那个目录 ——
+// 于是自动发现会读到**上一个进程的陈旧 token**，换 Cookie 得到 401，
+// 整个桥接静默失联。
+//
+// 现方案：用 ~/.dsh/.credentials.yaml 里持久化的
+// `client-connection/browser-session` 签名密钥离线铸造会话 Cookie（见
+// src/dsh-client.js）。本测试断言这条路在真实运行的 DSH 上确实通，
+// 并且陈旧 token 确实不通（防止有人把发现逻辑改回去而不自知）。
+//
+// 用法：node scripts/test-dsh-auth.mjs   （需要 DSH 正在运行）
+import {
+  NodeApiClient, discoverDshLaunchToken, discoverDshSessionCookie,
+  readBrowserSessionSecret, resolveDshHome, mintBrowserSessionCookie, isLoopbackBase
+} from '../src/dsh-client.js';
+
+const BASE = process.env.DSH_BASE_URL || 'http://127.0.0.1:3080';
+
+let pass = 0;
+let fail = 0;
+const results = [];
+function check(label, cond, extra = '') {
+  if (cond) { pass += 1; results.push(`OK   ${label}${extra ? ' — ' + extra : ''}`); }
+  else { fail += 1; results.push(`FAIL ${label}${extra ? ' — ' + extra : ''}`); }
+  return cond;
+}
+
+// ── 纯函数层（不需要 DSH 在线）────────────────────────────────────────────
+check('isLoopbackBase 认回环', isLoopbackBase('http://127.0.0.1:3080') === true);
+check('isLoopbackBase 拒非回环', isLoopbackBase('http://10.0.0.5:3080') === false);
+
+const secret = readBrowserSessionSecret();
+check('读到 browser-session 签名密钥（32 字节）', secret?.byteLength === 32, secret ? `${secret.byteLength} bytes` : `未读到（${resolveDshHome()}）`);
+
+if (secret) {
+  // Cookie 的形状必须与服务端 decodeCookie/isAuthenticated 的校验一致：
+  //   name = 'dsh-auth-' + base64url(sha256(authority))
+  //   value = v1.<base64url(json payload)>.<base64url(hmac-sha256)>
+  const cookie = mintBrowserSessionCookie(BASE, secret);
+  const [name, value] = cookie.split('=');
+  const parts = value.split('.');
+  check('Cookie 名以 dsh-auth- 开头', name.startsWith('dsh-auth-'));
+  check('Cookie 值形如 v1.<body>.<sig>', parts.length === 3 && parts[0] === 'v1');
+  const payload = JSON.parse(Buffer.from(parts[1].replaceAll('-', '+').replaceAll('_', '/'), 'base64').toString('utf8'));
+  check('payload.authority 等于 baseUrl 的 authority', payload.authority === new URL(BASE).host, payload.authority);
+  check('payload 有效期为正且不超过 30 天上限', payload.expiresAt > payload.issuedAt && (payload.expiresAt - payload.issuedAt) <= 30 * 86400000);
+}
+
+// ── 端到端（需要 DSH 在线）────────────────────────────────────────────────
+const rpc = async (cookie, method, args) => {
+  const res = await fetch(`${BASE}/api/${method}`, {
+    method: 'POST',
+    headers: { cookie, 'content-type': 'application/json' },
+    body: JSON.stringify({ type: 'client-request', rpcId: 'ta' + Math.random().toString(36).slice(2, 8), method, payload: { args } })
+  });
+  return { status: res.status, body: await res.json().catch(() => null) };
+};
+
+const cookie = discoverDshSessionCookie(BASE);
+if (!check('铸造出会话 Cookie', Boolean(cookie))) {
+  console.log(results.join('\n'));
+  console.log(`\n总计: ${pass} 通过, ${fail} 失败`);
+  process.exit(1);
+}
+
+const st = await rpc(cookie, 'settings/describe', {});
+check('铸造的 Cookie 能过鉴权（settings/describe）', st.status === 200 && st.body?.result?.ok === true, `HTTP ${st.status}`);
+
+const ap = await rpc(cookie, 'agentPresets/list', {});
+const presets = ap.body?.result?.value?.presets?.map((p) => p.id) ?? [];
+check('agentPresets/list 可达', ap.status === 200 && presets.length > 0, presets.join(', '));
+
+// NodeApiClient 走真实路径：不传 token、不显式配置 → 应当自动铸造。
+const client = new NodeApiClient(BASE, 15000, { tokenExplicit: false });
+const viaClient = await client.callUnary('settings/describe', {});
+check('NodeApiClient 无 token 也能鉴权', viaClient.result?.ok === true);
+check('NodeApiClient 走的是 minted 策略', client._strategy === 'minted', String(client._strategy));
+
+// 回归：remote.mux 流结束（WS 抖动 / DSH 重启 / 服务端回收）会调用 invalidateAuth()，
+// 那是**常态事件**。曾经这里会顺手把策略钉到 launch token 上，于是一次普通断线就让
+// 客户端永久改用日志里那个过期 token，此后所有 RPC 401，QQ 消息全部静默堆积。
+for (let i = 0; i < 3; i += 1) {
+  client.invalidateAuth();
+  const again = await client.callUnary('settings/describe', {});
+  if (!check(`invalidateAuth() 第 ${i + 1} 次后仍走铸造策略`, again.result?.ok === true && client._strategy === 'minted', String(client._strategy))) break;
+}
+
+// 铸造的 Cookie 必须能在「到期前主动重铸」——1 小时有效期，没有到期跟踪的话
+// 每小时都会先撞一次 401 才恢复。
+const firstCookie = client.cookie;
+client._cookieExpiresAt = Date.now() - 1; // 假装已过期
+const refreshed = await client.callUnary('settings/describe', {});
+check('Cookie 过期后自动重铸并继续可用', refreshed.result?.ok === true && client.cookie !== firstCookie, `strategy=${client._strategy}`);
+
+// 陈旧 token 必须失败：证明「读日志」这条老路已经不成立，
+// 也防止有人误以为它还在工作。
+const stale = discoverDshLaunchToken();
+if (stale) {
+  const res = await fetch(`${BASE}/?token=${stale}`, { redirect: 'manual' });
+  check('日志里的陈旧 token 换 Cookie 失败（老路径确已失效）', res.status !== 303, `HTTP ${res.status}`);
+} else {
+  results.push('SKIP 日志里没有可发现的 token（若启动器不再记日志，这是预期结果）');
+}
+
+console.log(results.join('\n'));
+console.log(`\n总计: ${pass} 通过, ${fail} 失败`);
+process.exit(fail === 0 ? 0 : 1);

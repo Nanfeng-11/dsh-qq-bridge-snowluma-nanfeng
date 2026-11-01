@@ -1,1 +1,177 @@
-Ly8gRFNIIDAuMi4wIOWNj+iuruWlkee6puWunua1i+aOoumSiO+8iOWPquivu+ingua1iyArIOiHqua4heeQhu+8ieOAggovLwovLyDnm67nmoTvvJrmiorjgIzmoaXmjqXkvp3otZbnmoTmr4/kuIDlpIQgRFNIIOe6v+S4iuWlkee6puOAjeWcqOecn+Wunui/kOihjOeahCBEU0gg5LiK6YeH5qC35LiA6YGN77yMCi8vIOaJk+WNsCoq5Y6f5aeL5bin57uT5p6EKirvvIjplK7lkI3kuI7nsbvlnovvvInvvIzkvpvpgILphY3lr7notKbjgILkuI3kvp3otZYgU25vd0x1bWHvvIzkuI3mlLnliqjku7vkvZUKLy8g55So5oi354q25oCB77yI5o6i5rWL5Lya6K+dL+W3peS9nOWMuui3keWujOWNs+W9kuaho+WIoOmZpO+8ieOAggovLwovLyDph43ngrnlm57nrZTvvJoKLy8gICAxLiBzZXNzaW9uL2NvbnRyb2wg55qE5byA5Zy6IGJhc2VsaW5lIOW4p+WIsOW6leaYr+S7gOS5iOW9oueKtu+8iDAuMS43IOeahCBxdWV1ZXMg5piv5ZCm6L+Y5Zyo77yJCi8vICAgMi4gc2Vzc2lvbi9wcm9qZWN0aW9uc++8iOmdnua/gOa0u+ivu+WPlu+8ieaYr+WQpuWPr+eUqOOAgei/lOWbnuS7gOS5iAovLyAgIDMuIHNlc3Npb24vZm9sbG93IOeahCBzbmFwc2hvdCDluKfplK7pm4YKLy8gICA0LiAkZXZlbnRzIOeahCByZWFkeSAvIHdhdGVyZmFsbCDluKflvaLnirYKLy8gICA1LiBzZXNzaW9uL3VwZGF0ZVF1ZXVlIC8gc2Vzc2lvbi9jYW5jZWwg55qE5Y+C5pWw5LiO5Zue5omnCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyByYW5kb21VVUlEIH0gZnJvbSAnbm9kZTpjcnlwdG8nOwppbXBvcnQgeyBkaXNjb3ZlckRzaFNlc3Npb25Db29raWUgfSBmcm9tICcuLi9zcmMvZHNoLWNsaWVudC5qcyc7Cgpjb25zdCBCQVNFID0gcHJvY2Vzcy5lbnYuRFNIX0JBU0VfVVJMIHx8ICdodHRwOi8vMTI3LjAuMC4xOjMwODAnOwpjb25zdCBjb29raWUgPSBkaXNjb3ZlckRzaFNlc3Npb25Db29raWUoQkFTRSk7CmlmICghY29va2llKSB7IGNvbnNvbGUuZXJyb3IoJ+KdjCDml6Dms5Xpk7jpgKDkvJror50gQ29va2ll77yI6K+75LiN5YiwIGJyb3dzZXItc2Vzc2lvbiDlr4bpkqXvvIknKTsgcHJvY2Vzcy5leGl0KDIpOyB9Cgphc3luYyBmdW5jdGlvbiBycGMoZW5kcG9pbnQsIGFyZ3MpIHsKICBjb25zdCByID0gYXdhaXQgZmV0Y2goYCR7QkFTRX0vYXBpLyR7ZW5kcG9pbnR9YCwgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBoZWFkZXJzOiB7IGNvb2tpZSwgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyB0eXBlOiAnY2xpZW50LXJlcXVlc3QnLCBycGNJZDogJ3AnICsgcmFuZG9tVVVJRCgpLnNsaWNlKDAsIDgpLCBtZXRob2Q6IGVuZHBvaW50LCBwYXlsb2FkOiB7IGFyZ3MgfSB9KQogIH0pOwogIGNvbnN0IGogPSBhd2FpdCByLmpzb24oKTsKICByZXR1cm4gai5yZXN1bHQ7Cn0KY29uc3Qgb2sgPSAodikgPT4gdj8ub2sgPT09IHRydWU7CgovKiog5Y+q5o+P6L+w57uT5p6E77yM5LiN5rOE6Zyy5YaF5a6577ya6ZSu5ZCNICsg5YC857G75Z6L44CCICovCmZ1bmN0aW9uIHNoYXBlKHZhbHVlLCBkZXB0aCA9IDApIHsKICBjb25zdCBwYWQgPSAnICAnLnJlcGVhdChkZXB0aCk7CiAgaWYgKHZhbHVlID09PSBudWxsKSByZXR1cm4gJ251bGwnOwogIGlmIChBcnJheS5pc0FycmF5KHZhbHVlKSkgewogICAgaWYgKHZhbHVlLmxlbmd0aCA9PT0gMCkgcmV0dXJuICdhcnJheSgwKSc7CiAgICByZXR1cm4gYGFycmF5KCR7dmFsdWUubGVuZ3RofSkgb2Yge1xuJHt2YWx1ZS5zbGljZSgwLCAyKS5tYXAoKHYpID0+IHBhZCArICcgICcgKyBzaGFwZSh2LCBkZXB0aCArIDEpKS5qb2luKCcsXG4nKX1cbiR7cGFkfX1gOwogIH0KICBpZiAodHlwZW9mIHZhbHVlID09PSAnb2JqZWN0JykgewogICAgY29uc3Qga2V5cyA9IE9iamVjdC5rZXlzKHZhbHVlKTsKICAgIGlmIChrZXlzLmxlbmd0aCA9PT0gMCkgcmV0dXJuICdvYmplY3R7fSc7CiAgICByZXR1cm4gYHtcbiR7a2V5cy5zbGljZSgwLCAyNSkubWFwKChrKSA9PiBgJHtwYWR9ICAke2t9OiAke3NoYXBlKHZhbHVlW2tdLCBkZXB0aCArIDEpfWApLmpvaW4oJ1xuJyl9XG4ke3BhZH19YDsKICB9CiAgaWYgKHR5cGVvZiB2YWx1ZSA9PT0gJ3N0cmluZycpIHJldHVybiBgc3RyaW5nKCR7dmFsdWUubGVuZ3RofSlgOwogIGlmICh0eXBlb2YgdmFsdWUgPT09ICdudW1iZXInKSByZXR1cm4gYG51bWJlcmA7CiAgcmV0dXJuIHR5cGVvZiB2YWx1ZTsKfQoKY29uc3QgdXJsID0gbmV3IFVSTCgnL2FwaS9yZW1vdGUubXV4JywgQkFTRSk7CnVybC5wcm90b2NvbCA9IHVybC5wcm90b2NvbCA9PT0gJ2h0dHBzOicgPyAnd3NzOicgOiAnd3M6JzsKCmNvbnN0IHN0cmVhbUlkcyA9IHsgY29udHJvbDogcmFuZG9tVVVJRCgpLCBmb2xsb3c6IHJhbmRvbVVVSUQoKSwgZXZlbnRzOiByYW5kb21VVUlEKCkgfTsKY29uc3QgY29udHJvbEJhc2VsaW5lcyA9IFtdOwpjb25zdCBjb250cm9sUHJvamVjdGlvbnMgPSBbXTsKY29uc3QgZm9sbG93RnJhbWVzID0gW107CmNvbnN0IGV2ZW50RnJhbWVzID0gW107Cgpjb25zdCBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KHVybCwgeyBoZWFkZXJzOiB7IGNvb2tpZSB9IH0pOwpsZXQgcmVzb2x2ZVJlYWR5Owpjb25zdCByZWFkeSA9IG5ldyBQcm9taXNlKChyKSA9PiB7IHJlc29sdmVSZWFkeSA9IHI7IH0pOwoKY29uc3QgZmluaXNoID0gc2V0VGltZW91dCgoKSA9PiB7IHRyeSB7IHNvY2tldC5jbG9zZSgpOyB9IGNhdGNoIHt9IH0sIDI1XzAwMCk7Cgpzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignb3BlbicsICgpID0+IHsKICAvLyDikaAg5YWo5a6/5Li75o6n5Yi25rWB77yI5qGl5o6l55So5p2l6K+7IHBlbmRpbmcg6Zif5YiX77yJCiAgc29ja2V0LnNlbmQoSlNPTi5zdHJpbmdpZnkoeyB0eXBlOiAnb3BlbicsIHN0cmVhbUlkOiBzdHJlYW1JZHMuY29udHJvbCwgZW5kcG9pbnQ6ICdzZXNzaW9uL2NvbnRyb2wnLCBwYXlsb2FkOiB7IGFyZ3M6IHt9IH0gfSkpOwogIC8vIOKRoyDov5znq6/kuovku7bmtYHvvIjmj5Dpl64v5a6h5om577yJCiAgc29ja2V0LnNlbmQoSlNPTi5zdHJpbmdpZnkoeyB0eXBlOiAnb3BlbicsIHN0cmVhbUlkOiBzdHJlYW1JZHMuZXZlbnRzLCBlbmRwb2ludDogJyRldmVudHMnLCBwYXlsb2FkOiB7IGFyZ3M6IHt9IH0gfSkpOwogIHJlc29sdmVSZWFkeSgpOwp9KTsKCnNvY2tldC5hZGRFdmVudExpc3RlbmVyKCdtZXNzYWdlJywgKGV2KSA9PiB7CiAgbGV0IG07IHRyeSB7IG0gPSBKU09OLnBhcnNlKGV2LmRhdGEpOyB9IGNhdGNoIHsgcmV0dXJuOyB9CiAgaWYgKG0uc3RyZWFtSWQgPT09IHN0cmVhbUlkcy5jb250cm9sICYmIG0udHlwZSA9PT0gJ2l0ZW0nKSB7CiAgICBjb25zdCB2ID0gbS52YWx1ZTsKICAgIGlmICh2Py50eXBlID09PSAnYmFzZWxpbmUnKSBjb250cm9sQmFzZWxpbmVzLnB1c2godik7CiAgICBlbHNlIGNvbnRyb2xQcm9qZWN0aW9ucy5wdXNoKHYpOwogIH0gZWxzZSBpZiAobS5zdHJlYW1JZCA9PT0gc3RyZWFtSWRzLmZvbGxvdyAmJiBtLnR5cGUgPT09ICdpdGVtJykgewogICAgZm9sbG93RnJhbWVzLnB1c2gobS52YWx1ZSk7CiAgfSBlbHNlIGlmIChtLnN0cmVhbUlkID09PSBzdHJlYW1JZHMuZXZlbnRzICYmIG0udHlwZSA9PT0gJ2l0ZW0nKSB7CiAgICBldmVudEZyYW1lcy5wdXNoKG0udmFsdWUpOwogIH0KfSk7CnNvY2tldC5hZGRFdmVudExpc3RlbmVyKCdlcnJvcicsIChlKSA9PiBjb25zb2xlLmVycm9yKCdzb2NrZXQgZXJyb3InLCBlPy5tZXNzYWdlID8/IGUpKTsKCmF3YWl0IHJlYWR5Owphd2FpdCBuZXcgUHJvbWlzZSgocikgPT4gc2V0VGltZW91dChyLCA4MDApKTsKCmNvbnNvbGUubG9nKCc9PT0g4pGgIHNlc3Npb24vY29udHJvbCDlvIDlnLogYmFzZWxpbmUgPT09Jyk7CmNvbnNvbGUubG9nKGDluKfmlbA6ICR7Y29udHJvbEJhc2VsaW5lcy5sZW5ndGh9YCk7CmlmIChjb250cm9sQmFzZWxpbmVzWzBdKSBjb25zb2xlLmxvZyhzaGFwZShjb250cm9sQmFzZWxpbmVzWzBdKSk7CmVsc2UgY29uc29sZS5sb2coJ++8iOacquaUtuWIsCBiYXNlbGluZe+8iScpOwoKLy8g5o6i5rWL5Lya6K+d77ya5bu65LiA5Liq5bel5L2c5Yy6ICsg5Lya6K+d77yMcHJvbXB0IOS4gOadoe+8jOinguWvnyBjb250cm9sIOaKleW9seW4pwovLyDmjqLmtYvlt6XkvZzljLrmlL7lnKjns7vnu5/kuLTml7bnm67lvZXvvJrku5PlupPlhoXnmoQgc3RhdGUvIOiiqyBoYXJkZW4tc3RhdGUtYWNsLm1qcyDmlLbntKfkuoYgQUNMCi8vIO+8iOWOu+aOiee7p+aJvyDih5Ig5rKZ566x6L+b56iL55qEIFNJRCDkuI3lnKggQUNMIOmHjO+8ie+8jOS7juaymeeusemHjOi3keaOoumSiOS8miBFUEVSTeOAggpjb25zdCBwcm9iZURpciA9IHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3FxLWJyaWRnZS1wcm9iZS0wMjAnKTsKZnMucm1TeW5jKHByb2JlRGlyLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7CmZzLm1rZGlyU3luYyhwcm9iZURpciwgeyByZWN1cnNpdmU6IHRydWUgfSk7CmNvbnN0IHdzID0gYXdhaXQgcnBjKCd3b3Jrc3BhY2UvY3JlYXRlJywgeyByZXF1ZXN0OiB7IHRpdGxlOiAnX19wcm9iZS0wMjBfXycsIHBhdGg6IHByb2JlRGlyIH0gfSk7CmNvbnN0IHdzSWQgPSB3cz8udmFsdWU/LndvcmtzcGFjZT8ud29ya3NwYWNlSWQgPz8gd3M/LnZhbHVlPy53b3Jrc3BhY2VJZDsKY29uc29sZS5sb2coYFxuW3NldHVwXSB3b3Jrc3BhY2U9JHt3c0lkID8/ICco5aSx6LSlKSd9YCk7CgpsZXQgc2Vzc2lvbklkID0gbnVsbDsKaWYgKHdzSWQpIHsKICBjb25zdCBzYyA9IGF3YWl0IHJwYygnc2Vzc2lvbi9jcmVhdGUnLCB7IHJlcXVlc3Q6IHsgd29ya3NwYWNlSWQ6IHdzSWQsIGFnZW50UHJlc2V0OiAncXEtY2hhdC12MicgfSB9KTsKICBpZiAoIW9rKHNjKSkgY29uc29sZS5sb2coYFtzZXR1cF0gc2Vzc2lvbi9jcmVhdGUg5aSx6LSlOiAke3NjPy5lcnJvcj8uY29kZX06ICR7c2M/LmVycm9yPy5tZXNzYWdlfWApOwogIGVsc2UgewogICAgc2Vzc2lvbklkID0gc2MudmFsdWUuc2Vzc2lvbklkOwogICAgY29uc29sZS5sb2coYFtzZXR1cF0gc2Vzc2lvbj0ke3Nlc3Npb25JZH0gcHJlc2V0PSR7c2MudmFsdWUuYWdlbnRQcmVzZXR9YCk7CgogICAgLy8g4pGiIGZvbGxvdyDor6XkvJror53vvIzph4fmoLcgc25hcHNob3Qg5binCiAgICBzb2NrZXQuc2VuZChKU09OLnN0cmluZ2lmeSh7CiAgICAgIHR5cGU6ICdvcGVuJywgc3RyZWFtSWQ6IHN0cmVhbUlkcy5mb2xsb3csIGVuZHBvaW50OiAnc2Vzc2lvbi9mb2xsb3cnLAogICAgICBwYXlsb2FkOiB7IGFyZ3M6IHsgcmVxdWVzdDogeyBhZGRyZXNzOiB7IGtpbmQ6ICdzZXNzaW9uJywgc2Vzc2lvbklkIH0sIG1heE1lc3NhZ2VzOiA1IH0gfSB9CiAgICB9KSk7CgogICAgLy8g4pGhIOmdnua/gOa0u+aKleW9seivu+WPlgogICAgY29uc3QgcHJvaiA9IGF3YWl0IHJwYygnc2Vzc2lvbi9wcm9qZWN0aW9ucycsIHsgcmVxdWVzdDogeyBzZXNzaW9uSWQgfSB9KTsKICAgIGNvbnNvbGUubG9nKCdcbj09PSDikaEgc2Vzc2lvbi9wcm9qZWN0aW9ucyA9PT0nKTsKICAgIGNvbnNvbGUubG9nKG9rKHByb2opID8gc2hhcGUocHJvai52YWx1ZSkgOiBg4p2MICR7cHJvaj8uZXJyb3I/LmNvZGV9OiAke3Byb2o/LmVycm9yPy5tZXNzYWdlfWApOwoKICAgIC8vIHByb21wdCDkuIDmnaHvvIzorqkgaW5ib3gg6YeM5Ye6546wIHBlbmRpbmcg6aG577ybY29udHJvbCDmtYHlupTkuIvlj5EgcHJvamVjdGlvbiDluKcKICAgIGNvbnN0IHBtID0gYXdhaXQgcnBjKCdzZXNzaW9uL3Byb21wdCcsIHsKICAgICAgcmVxdWVzdDogeyBzZXNzaW9uSWQsIHJlcXVlc3RJZDogcmFuZG9tVVVJRCgpLCBtb2RlOiAncXVldWUnLCBjb250ZW50OiBbeyB0eXBlOiAndGV4dCcsIHRleHQ6ICflj6rlm57lpI3vvJpvaycgfV0gfQogICAgfSk7CiAgICBjb25zb2xlLmxvZygnXG5bcHJvbXB0XScsIG9rKHBtKSA/ICdhY2NlcHRlZCcgOiBg4p2MICR7cG0/LmVycm9yPy5jb2RlfTogJHtwbT8uZXJyb3I/Lm1lc3NhZ2V9YCk7CiAgICBhd2FpdCBuZXcgUHJvbWlzZSgocikgPT4gc2V0VGltZW91dChyLCAyNTAwKSk7CgogICAgY29uc29sZS5sb2coJ1xuPT09IOKRoiBzZXNzaW9uL2ZvbGxvdyDluKcgPT09Jyk7CiAgICBmb3IgKGNvbnN0IGYgb2YgZm9sbG93RnJhbWVzLnNsaWNlKDAsIDIpKSB7CiAgICAgIGNvbnNvbGUubG9nKGAgIHR5cGU9JHtmPy50eXBlfWApOwogICAgICBpZiAoZj8udHlwZSA9PT0gJ3NuYXBzaG90JykgewogICAgICAgIGNvbnNvbGUubG9nKGAgICAgaGVhZGVyIGtleXM6ICR7T2JqZWN0LmtleXMoZi5oZWFkZXIgPz8ge30pLmpvaW4oJywnKX1gKTsKICAgICAgICBjb25zb2xlLmxvZyhgICAgIGN1cnNvcj0ke2YuY3Vyc29yfSByZWNvcmRzPSR7Zi5yZWNvcmRzPy5sZW5ndGh9IGhhc01vcmU9JHtmLmhhc01vcmV9YCk7CiAgICAgICAgY29uc29sZS5sb2coYCAgICBwcm9qZWN0aW9uczogJHtzaGFwZShmLnByb2plY3Rpb25zKX1gKTsKICAgICAgfQogICAgfQogICAgaWYgKCFmb2xsb3dGcmFtZXMubGVuZ3RoKSBjb25zb2xlLmxvZygnICDvvIjmnKrmlLbliLDluKfvvIknKTsKCiAgICAvLyDikaQgY2FuY2VsIOWbnuaJpwogICAgY29uc3QgY3ggPSBhd2FpdCBycGMoJ3Nlc3Npb24vY2FuY2VsJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZCB9IH0pOwogICAgY29uc29sZS5sb2coJ1xuPT09IOKRpCBzZXNzaW9uL2NhbmNlbCA9PT0nKTsKICAgIGNvbnNvbGUubG9nKG9rKGN4KSA/IEpTT04uc3RyaW5naWZ5KGN4LnZhbHVlKSA6IGDinYwgJHtjeD8uZXJyb3I/LmNvZGV9OiAke2N4Py5lcnJvcj8ubWVzc2FnZX1gKTsKICAgIGF3YWl0IG5ldyBQcm9taXNlKChyKSA9PiBzZXRUaW1lb3V0KHIsIDEyMDApKTsKICB9Cn0KCmNvbnNvbGUubG9nKCdcbj09PSDikaMgJGV2ZW50cyDluKcgPT09Jyk7CmNvbnNvbGUubG9nKGDluKfmlbA6ICR7ZXZlbnRGcmFtZXMubGVuZ3RofWApOwpmb3IgKGNvbnN0IGYgb2YgZXZlbnRGcmFtZXMuc2xpY2UoMCwgMykpIGNvbnNvbGUubG9nKCcgICcgKyBzaGFwZShmKSk7Cgpjb25zb2xlLmxvZygnXG49PT0gY29udHJvbCDmipXlvbHluKfvvIhwcm9tcHQvY2FuY2VsIOinpuWPkeeahOWinumHj++8iSA9PT0nKTsKY29uc29sZS5sb2coYOW4p+aVsDogJHtjb250cm9sUHJvamVjdGlvbnMubGVuZ3RofWApOwpmb3IgKGNvbnN0IGYgb2YgY29udHJvbFByb2plY3Rpb25zLnNsaWNlKDAsIDQpKSB7CiAgY29uc29sZS5sb2coYCAgdHlwZT0ke2Y/LnR5cGV9IHNlc3Npb25JZD0ke1N0cmluZyhmPy5zZXNzaW9uSWQpLnNsaWNlKDAsIDIwKX0ga2V5PSR7Zj8ua2V5fSBzZXE9JHtmPy5zZXF9YCk7CiAgaWYgKGY/LmtleSA9PT0gJ2luYm94JykgY29uc29sZS5sb2coJyAgICBpbmJveCB2YWx1ZTogJyArIHNoYXBlKGYudmFsdWUpKTsKICBpZiAoZj8udmFsdWUgJiYgdHlwZW9mIGYudmFsdWUgPT09ICdvYmplY3QnICYmIGYua2V5ID09PSB1bmRlZmluZWQpIGNvbnNvbGUubG9nKCcgICAgJyArIHNoYXBlKGYpKTsKfQoKLy8g4pSA4pSAIOa4heeQhiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKY2xlYXJUaW1lb3V0KGZpbmlzaCk7CnRyeSB7IHNvY2tldC5jbG9zZSgpOyB9IGNhdGNoIHt9CmlmIChzZXNzaW9uSWQpIHsKICBhd2FpdCBycGMoJ3Nlc3Npb24vY2FuY2VsJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZCB9IH0pOwogIGF3YWl0IHJwYygnd29ya3NwYWNlL2FyY2hpdmVTZXNzaW9uJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZCB9IH0pOwogIGNvbnNvbGUubG9nKCdcbltjbGVhbnVwXSBzZXNzaW9uIGFyY2hpdmVkJyk7Cn0KaWYgKHdzSWQpIHsKICBjb25zdCBkZWwgPSBhd2FpdCBycGMoJ3dvcmtzcGFjZS9kZWxldGUnLCB7IHJlcXVlc3Q6IHsgd29ya3NwYWNlSWQ6IHdzSWQgfSB9KTsKICBjb25zb2xlLmxvZyhgW2NsZWFudXBdIHdvcmtzcGFjZSBkZWxldGU6ICR7b2soZGVsKSA/ICdvaycgOiBkZWw/LmVycm9yPy5jb2RlfWApOwp9CnRyeSB7IGZzLnJtU3luYyhwcm9iZURpciwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOyB9IGNhdGNoIHt9CnByb2Nlc3MuZXhpdCgwKTsK
+// DSH 0.2.0 协议契约实测探针（只读观测 + 自清理）。
+//
+// 目的：把「桥接依赖的每一处 DSH 线上契约」在真实运行的 DSH 上采样一遍，
+// 打印**原始帧结构**（键名与类型），供适配对账。不依赖 SnowLuma，不改动任何
+// 用户状态（探测会话/工作区跑完即归档删除）。
+//
+// 重点回答：
+//   1. session/control 的开场 baseline 帧到底是什么形状（0.1.7 的 queues 是否还在）
+//   2. session/projections（非激活读取）是否可用、返回什么
+//   3. session/follow 的 snapshot 帧键集
+//   4. $events 的 ready / waterfall 帧形状
+//   5. session/updateQueue / session/cancel 的参数与回执
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { randomUUID } from 'node:crypto';
+import { discoverDshSessionCookie } from '../src/dsh-client.js';
+
+const BASE = process.env.DSH_BASE_URL || 'http://127.0.0.1:3080';
+const cookie = discoverDshSessionCookie(BASE);
+if (!cookie) { console.error('❌ 无法铸造会话 Cookie（读不到 browser-session 密钥）'); process.exit(2); }
+
+async function rpc(endpoint, args) {
+  const r = await fetch(`${BASE}/api/${endpoint}`, {
+    method: 'POST',
+    headers: { cookie, 'content-type': 'application/json' },
+    body: JSON.stringify({ type: 'client-request', rpcId: 'p' + randomUUID().slice(0, 8), method: endpoint, payload: { args } })
+  });
+  const j = await r.json();
+  return j.result;
+}
+const ok = (v) => v?.ok === true;
+
+/** 只描述结构，不泄露内容：键名 + 值类型。 */
+function shape(value, depth = 0) {
+  const pad = '  '.repeat(depth);
+  if (value === null) return 'null';
+  if (Array.isArray(value)) {
+    if (value.length === 0) return 'array(0)';
+    return `array(${value.length}) of {\n${value.slice(0, 2).map((v) => pad + '  ' + shape(v, depth + 1)).join(',\n')}\n${pad}}`;
+  }
+  if (typeof value === 'object') {
+    const keys = Object.keys(value);
+    if (keys.length === 0) return 'object{}';
+    return `{\n${keys.slice(0, 25).map((k) => `${pad}  ${k}: ${shape(value[k], depth + 1)}`).join('\n')}\n${pad}}`;
+  }
+  if (typeof value === 'string') return `string(${value.length})`;
+  if (typeof value === 'number') return `number`;
+  return typeof value;
+}
+
+const url = new URL('/api/remote.mux', BASE);
+url.protocol = url.protocol === 'https:' ? 'wss:' : 'ws:';
+
+const streamIds = { control: randomUUID(), follow: randomUUID(), events: randomUUID() };
+const controlBaselines = [];
+const controlProjections = [];
+const followFrames = [];
+const eventFrames = [];
+
+const socket = new WebSocket(url, { headers: { cookie } });
+let resolveReady;
+const ready = new Promise((r) => { resolveReady = r; });
+
+const finish = setTimeout(() => { try { socket.close(); } catch {} }, 25_000);
+
+socket.addEventListener('open', () => {
+  // ① 全宿主控制流（桥接用来读 pending 队列）
+  socket.send(JSON.stringify({ type: 'open', streamId: streamIds.control, endpoint: 'session/control', payload: { args: {} } }));
+  // ④ 远端事件流（提问/审批）
+  socket.send(JSON.stringify({ type: 'open', streamId: streamIds.events, endpoint: '$events', payload: { args: {} } }));
+  resolveReady();
+});
+
+socket.addEventListener('message', (ev) => {
+  let m; try { m = JSON.parse(ev.data); } catch { return; }
+  if (m.streamId === streamIds.control && m.type === 'item') {
+    const v = m.value;
+    if (v?.type === 'baseline') controlBaselines.push(v);
+    else controlProjections.push(v);
+  } else if (m.streamId === streamIds.follow && m.type === 'item') {
+    followFrames.push(m.value);
+  } else if (m.streamId === streamIds.events && m.type === 'item') {
+    eventFrames.push(m.value);
+  }
+});
+socket.addEventListener('error', (e) => console.error('socket error', e?.message ?? e));
+
+await ready;
+await new Promise((r) => setTimeout(r, 800));
+
+console.log('=== ① session/control 开场 baseline ===');
+console.log(`帧数: ${controlBaselines.length}`);
+if (controlBaselines[0]) console.log(shape(controlBaselines[0]));
+else console.log('（未收到 baseline）');
+
+// 探测会话：建一个工作区 + 会话，prompt 一条，观察 control 投影帧
+// 探测工作区放在系统临时目录：仓库内的 state/ 被 harden-state-acl.mjs 收紧了 ACL
+// （去掉继承 ⇒ 沙箱进程的 SID 不在 ACL 里），从沙箱里跑探针会 EPERM。
+const probeDir = path.join(os.tmpdir(), 'qq-bridge-probe-020');
+fs.rmSync(probeDir, { recursive: true, force: true });
+fs.mkdirSync(probeDir, { recursive: true });
+const ws = await rpc('workspace/create', { request: { title: '__probe-020__', path: probeDir } });
+const wsId = ws?.value?.workspace?.workspaceId ?? ws?.value?.workspaceId;
+console.log(`\n[setup] workspace=${wsId ?? '(失败)'}`);
+
+let sessionId = null;
+if (wsId) {
+  const sc = await rpc('session/create', { request: { workspaceId: wsId, agentPreset: 'qq-chat-v2' } });
+  if (!ok(sc)) console.log(`[setup] session/create 失败: ${sc?.error?.code}: ${sc?.error?.message}`);
+  else {
+    sessionId = sc.value.sessionId;
+    console.log(`[setup] session=${sessionId} preset=${sc.value.agentPreset}`);
+
+    // ③ follow 该会话，采样 snapshot 帧
+    socket.send(JSON.stringify({
+      type: 'open', streamId: streamIds.follow, endpoint: 'session/follow',
+      payload: { args: { request: { address: { kind: 'session', sessionId }, maxMessages: 5 } } }
+    }));
+
+    // ② 非激活投影读取
+    const proj = await rpc('session/projections', { request: { sessionId } });
+    console.log('\n=== ② session/projections ===');
+    console.log(ok(proj) ? shape(proj.value) : `❌ ${proj?.error?.code}: ${proj?.error?.message}`);
+
+    // prompt 一条，让 inbox 里出现 pending 项；control 流应下发 projection 帧
+    const pm = await rpc('session/prompt', {
+      request: { sessionId, requestId: randomUUID(), mode: 'queue', content: [{ type: 'text', text: '只回复：ok' }] }
+    });
+    console.log('\n[prompt]', ok(pm) ? 'accepted' : `❌ ${pm?.error?.code}: ${pm?.error?.message}`);
+    await new Promise((r) => setTimeout(r, 2500));
+
+    console.log('\n=== ③ session/follow 帧 ===');
+    for (const f of followFrames.slice(0, 2)) {
+      console.log(`  type=${f?.type}`);
+      if (f?.type === 'snapshot') {
+        console.log(`    header keys: ${Object.keys(f.header ?? {}).join(',')}`);
+        console.log(`    cursor=${f.cursor} records=${f.records?.length} hasMore=${f.hasMore}`);
+        console.log(`    projections: ${shape(f.projections)}`);
+      }
+    }
+    if (!followFrames.length) console.log('  （未收到帧）');
+
+    // ⑤ cancel 回执
+    const cx = await rpc('session/cancel', { request: { sessionId } });
+    console.log('\n=== ⑤ session/cancel ===');
+    console.log(ok(cx) ? JSON.stringify(cx.value) : `❌ ${cx?.error?.code}: ${cx?.error?.message}`);
+    await new Promise((r) => setTimeout(r, 1200));
+  }
+}
+
+console.log('\n=== ④ $events 帧 ===');
+console.log(`帧数: ${eventFrames.length}`);
+for (const f of eventFrames.slice(0, 3)) console.log('  ' + shape(f));
+
+console.log('\n=== control 投影帧（prompt/cancel 触发的增量） ===');
+console.log(`帧数: ${controlProjections.length}`);
+for (const f of controlProjections.slice(0, 4)) {
+  console.log(`  type=${f?.type} sessionId=${String(f?.sessionId).slice(0, 20)} key=${f?.key} seq=${f?.seq}`);
+  if (f?.key === 'inbox') console.log('    inbox value: ' + shape(f.value));
+  if (f?.value && typeof f.value === 'object' && f.key === undefined) console.log('    ' + shape(f));
+}
+
+// ── 清理 ────────────────────────────────────────────────────────────────────
+clearTimeout(finish);
+try { socket.close(); } catch {}
+if (sessionId) {
+  await rpc('session/cancel', { request: { sessionId } });
+  await rpc('workspace/archiveSession', { request: { sessionId } });
+  console.log('\n[cleanup] session archived');
+}
+if (wsId) {
+  const del = await rpc('workspace/delete', { request: { workspaceId: wsId } });
+  console.log(`[cleanup] workspace delete: ${ok(del) ? 'ok' : del?.error?.code}`);
+}
+try { fs.rmSync(probeDir, { recursive: true, force: true }); } catch {}
+process.exit(0);

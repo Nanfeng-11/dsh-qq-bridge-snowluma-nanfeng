@@ -1,1 +1,179 @@
-Ly8gRFNIIDAuMi4wIOS8muivnemYn+WIl++8iGluYm94IOaKleW9se+8ieino+aekOeahOeZu+iusOacn+WbnuW9kua1i+ivleOAggovLwovLyDkuLrku4DkuYjpnIDopoHov5nkuKrmlofku7YKLy8gLS0tLS0tLS0tLS0tLS0tLS0tCi8vIOahpeaOpemAgOW9uS/ph43nva4gUVEg5Lya6K+d5pe26KaB5YWI5riF5o6JIERTSCDkvqfov5jmsqHot5HnmoQqKuW+heWkhOeQhumYn+WIlyoq77yM5YaN5Y+W5raI5b2T5YmNIHR1cm4KLy8g77yIYHN0b3BTZXNzaW9uV29ya2DvvInjgILor7vpmJ/liJfov5nkuIDmraXov4fljrvlj6rorqQgYHNlc3Npb24vY29udHJvbGAg5byA5Zy6IGJhc2VsaW5lIOmHjOeahAovLyBgdmFsdWUucXVldWVzWzxzZXNzaW9uSWQ+XWDvvJoKLy8KLy8gICAgIGNvbnN0IHF1ZXVlcyA9IGZyYW1lLnZhbHVlLnZhbHVlPy5xdWV1ZXM7Ci8vICAgICBpZiAoIXF1ZXVlcyB8fCAuLi4pIHRocm93IG5ldyBFcnJvcignaW52YWxpZCBzZXNzaW9uL2NvbnRyb2wgYmFzZWxpbmUnKTsKLy8KLy8gRFNIIDAuMi4wIOaKiumYn+WIl+W5tui/m+S6hioq5oqV5b2x6KGoKirigJTigJRgdmFsdWUucHJvamVjdGlvbnNbPHNlc3Npb25JZD5dLnZhbHVlcy5pbmJveGAKLy8g77yI5b2i54q2IGB7ICduZXh0LXR1cm4nOiBVc2VyTWVzc2FnZVtdLCAnbmV4dC1zdGVwJzogVXNlck1lc3NhZ2VbXSB9YO+8ieKAlOKAlAovLyBgcXVldWVzYCDov5nkuKrplK7kuI3lpI3lrZjlnKjjgILlkI7mnpzkuI3mmK/jgIzlsJHmuIXlh6DmnaHjgI3vvIzogIzmmK8qKuavj+S4gOasoemAgOW9uemDveaKm+mUmSoq77yaCi8vIOmYn+WIl+a4heS4jeaOieOAgeaXp+S7u+WKoee7p+e7reWcqCBEU0gg6YeM6LeR77yM5qGl5o6l5pel5b+X6YeM5Y+q5pyJ5LiA6KGMCi8vIOOAjOKaoO+4jyDlgZzmraLml6fkvJror53lpLHotKUg4oCmIGludmFsaWQgc2Vzc2lvbi9jb250cm9sIGJhc2VsaW5l44CN44CCCi8vIOi/meadoee8uumZt+WcqOWNh+e6p+WIsCAwLjIuMCDlkI7miY3ooqvms6jmhI/liLDvvIzor7TmmI7lroPmraTliY0qKuayoeacieS7u+S9lea1i+ivleimhueblioq44CCCi8vCi8vIOacrOaWh+S7tueUqCoq5LuO55yf5a6eIERTSCAwLjIuMCDph4fmoLfkuIvmnaXnmoTluKfpqqjmnrYqKuaKiuino+aekOmSieatu++8mgovLyDnu5PmnoTlho3lj5jlsLHmmK/mtYvor5XnuqLvvIzogIzkuI3mmK/nur/kuIrpnZnpu5jmvI/msLTjgIIKLy8KLy8g4pqg77iPIOi/memHjOeahOW4p+mqqOaetuWIu+aEj+S/neeVmSBgYXNPZlNlcWAvYHZhbHVlc2AvYGluYm94YCDnmoTnnJ/lrp7lsYLnuqfkuI7plK7lkI0KLy8g77yI5ZCrIGBuZXh0LXR1cm5gIOi/meenjeW4pui/nuWtl+espueahOmUru+8ie+8jOWboOS4uioq5bGC57qn5YaZ6ZSZKirmraPmmK/kuIrkuIDniYjnvLrpmbfnmoTlvaLmgIHjgIIKaW1wb3J0IGFzc2VydCBmcm9tICdub2RlOmFzc2VydC9zdHJpY3QnOwppbXBvcnQgdGVzdCBmcm9tICdub2RlOnRlc3QnOwppbXBvcnQgewogIGluYm94SXRlbXNPZlByb2plY3Rpb25zLAogIGluYm94SXRlbUlkcywKICBjb250cm9sQmFzZWxpbmVJbmJveEl0ZW1zLAp9IGZyb20gJy4uL3NyYy9kc2gtY2xpZW50LmpzJzsKCi8qKiDkuIDmnaHnnJ/lrp7nmoQgRFNIIDAuMi4wIGluYm94IOmhue+8iDIwMjYg5a6e5rWL6YeH5qC377yM5YaF5a655bey5pu/5o2i5Li65Y2g5L2N56ym77yJ44CCICovCmNvbnN0IHJlYWxJbmJveEl0ZW0gPSAoaWQsIHRleHQpID0+ICh7CiAgY29udGVudDogW3sgdHlwZTogJ3RleHQnLCB0ZXh0IH1dLAogIHNvdXJjZTogeyBraW5kOiAndXNlcicsIHJwY0lkOiAncnBjLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCcgfSwKICByb2xlOiAndXNlcicsCiAgaWQsCn0pOwoKLyoqIERTSCAwLjIuMCDnmoQgU2Vzc2lvblByb2plY3Rpb25WYWx1ZXMg6aqo5p6277yI5Y+q5L+d55WZ5pys5rWL6K+V5YWz5b+D55qE6ZSu77yJ44CCICovCmNvbnN0IHByb2plY3Rpb25WYWx1ZXMgPSAoaW5ib3gpID0+ICh7CiAgdGl0bGU6ICdRUSDogYrlpKknLAogIHRva2VuVXNhZ2U6IHsgdW5jYWNoZWRJbnB1dFRva2VuczogMCwgb3V0cHV0VG9rZW5zOiAwLCBjYWNoZVJlYWRUb2tlbnM6IDAsIGNhY2hlV3JpdGVUb2tlbnM6IDAgfSwKICAuLi4oaW5ib3ggPT09IHVuZGVmaW5lZCA/IHt9IDogeyBpbmJveCB9KSwKfSk7CgovKiogRFNIIDAuMi4wIOeahCBzZXNzaW9uL2NvbnRyb2wg5byA5Zy6IGJhc2VsaW5lIOW4p++8iOecn+WunumHh+agt+Wxgue6p++8ieOAgiAqLwpjb25zdCBjb250cm9sQmFzZWxpbmUgPSAoc2Vzc2lvbnMpID0+ICh7CiAgdHlwZTogJ2Jhc2VsaW5lJywKICB2YWx1ZTogewogICAgcHJvamVjdGlvbnM6IE9iamVjdC5mcm9tRW50cmllcygKICAgICAgT2JqZWN0LmVudHJpZXMoc2Vzc2lvbnMpLm1hcCgoW2lkLCB2YWx1ZXNdKSA9PiBbaWQsIHsgYXNPZlNlcTogNywgdmFsdWVzIH1dKSwKICAgICksCiAgfSwKfSk7CgovLyDilIDilIAgMS4g5oqV5b2x6Kej5p6QIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAp0ZXN0KCdpbmJveCDmipXlvbHvvJrkuKTkuKrovrnnlYzkuIDotbflj5bvvIzpobrluo/kuLogbmV4dC10dXJuIOKGkiBuZXh0LXN0ZXAnLCAoKSA9PiB7CiAgY29uc3QgdmFsdWVzID0gcHJvamVjdGlvblZhbHVlcyh7CiAgICAnbmV4dC10dXJuJzogW3JlYWxJbmJveEl0ZW0oJ20tMScsICfnrKzkuIDova4nKV0sCiAgICAnbmV4dC1zdGVwJzogW3JlYWxJbmJveEl0ZW0oJ20tMicsICfmj5Lor50nKV0sCiAgfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChpbmJveEl0ZW1zT2ZQcm9qZWN0aW9ucyh2YWx1ZXMpLm1hcCgoaSkgPT4gaS5pZCksIFsnbS0xJywgJ20tMiddKTsKfSk7Cgp0ZXN0KCdpbmJveCDmipXlvbHvvJrnqbrpmJ/liJfov5Tlm57nqbrmlbDnu4TvvIjkuI3mmK/plJnor6/vvIknLCAoKSA9PiB7CiAgYXNzZXJ0LmRlZXBFcXVhbChpbmJveEl0ZW1zT2ZQcm9qZWN0aW9ucyhwcm9qZWN0aW9uVmFsdWVzKHsgJ25leHQtdHVybic6IFtdLCAnbmV4dC1zdGVwJzogW10gfSkpLCBbXSk7Cn0pOwoKdGVzdCgnaW5ib3gg5oqV5b2x77ya6IO95Yqb57y65aSx77yI5pegIGluYm94IOmUriAvIHZhbHVlcyDkuLogbnVsbO+8ieinhuS4uuaXoOW+heWkhOeQhumhuScsICgpID0+IHsKICAvLyDkvJror53msqHmnInmtLvliqggYWdlbnQg5pe277yM5oqV5b2x6KGo6YeM5Y+v6IO95rKh5pyJIGluYm94IOi/meS4gOmhueOAggogIGFzc2VydC5kZWVwRXF1YWwoaW5ib3hJdGVtc09mUHJvamVjdGlvbnMocHJvamVjdGlvblZhbHVlcyh1bmRlZmluZWQpKSwgW10pOwogIGFzc2VydC5kZWVwRXF1YWwoaW5ib3hJdGVtc09mUHJvamVjdGlvbnMobnVsbCksIFtdKTsKICAvLyBzZXNzaW9uL3Byb2plY3Rpb25zIOWvueS4jeWtmOWcqOeahOS8muivnei/lOWbniBudWxs44CCCiAgYXNzZXJ0LmRlZXBFcXVhbChpbmJveEl0ZW1zT2ZQcm9qZWN0aW9ucyh1bmRlZmluZWQpLCBbXSk7Cn0pOwoKdGVzdCgnaW5ib3gg5oqV5b2x77ya5Y+q5pyJ5LiA5Liq6L6555WM5a2Y5Zyo5pe25Lmf6IO96Kej5p6Q77yI5Y+m5LiA5Liq5piv5Y+v6YCJ6IO95Yqb77yJJywgKCkgPT4gewogIGFzc2VydC5kZWVwRXF1YWwoCiAgICBpbmJveEl0ZW1zT2ZQcm9qZWN0aW9ucyhwcm9qZWN0aW9uVmFsdWVzKHsgJ25leHQtdHVybic6IFtyZWFsSW5ib3hJdGVtKCdtLTEnLCAneCcpXSB9KSkubWFwKChpKSA9PiBpLmlkKSwKICAgIFsnbS0xJ10sCiAgKTsKICBhc3NlcnQuZGVlcEVxdWFsKAogICAgaW5ib3hJdGVtc09mUHJvamVjdGlvbnMocHJvamVjdGlvblZhbHVlcyh7ICduZXh0LXN0ZXAnOiBbXSB9KSkubWFwKChpKSA9PiBpLmlkKSwKICAgIFtdLAogICk7Cn0pOwoKdGVzdCgnaW5ib3gg5oqV5b2x77ya57uT5p6E5Y+Y5LqG5b+F6aG75pi+5byP5aSx6LSl77yM5LiN6IO96Z2Z6buY5b2T5oiQ56m66Zif5YiXJywgKCkgPT4gewogIC8vIOmdmem7mOi/lOWbniBbXSDmraPmmK/jgIzpmJ/liJfmuIXkuI3mjonljbTmr6vml6Dmj5DnpLrjgI3nmoTmiJDlm6DjgIIKICBmb3IgKGNvbnN0IGJhZCBvZiBbCiAgICB7ICduZXh0LXR1cm4nOiBudWxsIH0sCiAgICB7ICduZXh0LXR1cm4nOiB7fSB9LAogICAgeyAnbmV4dC10dXJuJzogJ20tMScgfSwKICAgIHsgJ25leHQtc3RlcCc6IDMgfSwKICBdKSB7CiAgICBhc3NlcnQudGhyb3dzKAogICAgICAoKSA9PiBpbmJveEl0ZW1zT2ZQcm9qZWN0aW9ucyhwcm9qZWN0aW9uVmFsdWVzKGJhZCkpLAogICAgICAvaW52YWxpZCBzZXNzaW9uIGluYm94IHByb2plY3Rpb24vLAogICAgICBg57uT5p6EICR7SlNPTi5zdHJpbmdpZnkoYmFkKX0g5bqU5oqb6ZSZYCwKICAgICk7CiAgfQogIGFzc2VydC50aHJvd3MoKCkgPT4gaW5ib3hJdGVtc09mUHJvamVjdGlvbnMocHJvamVjdGlvblZhbHVlcyhbXSkpLCAvaW52YWxpZCBzZXNzaW9uIGluYm94IHByb2plY3Rpb24vKTsKICBhc3NlcnQudGhyb3dzKCgpID0+IGluYm94SXRlbXNPZlByb2plY3Rpb25zKHByb2plY3Rpb25WYWx1ZXMoJ2luYm94JykpLCAvaW52YWxpZCBzZXNzaW9uIGluYm94IHByb2plY3Rpb24vKTsKfSk7CgovLyDilIDilIAgMi4gaXRlbUlkIOaKveWPliDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKdGVzdCgnaXRlbUlkIOaKveWPlu+8muWPluWHuiBNZXNzYWdlSWQg5a2X56ym5LiyJywgKCkgPT4gewogIGFzc2VydC5kZWVwRXF1YWwoCiAgICBpbmJveEl0ZW1JZHMoW3JlYWxJbmJveEl0ZW0oJ20tMScsICdhJyksIHJlYWxJbmJveEl0ZW0oJ20tMicsICdiJyldKSwKICAgIFsnbS0xJywgJ20tMiddLAogICk7Cn0pOwoKdGVzdCgnaXRlbUlkIOaKveWPlu+8mue8uiBpZCAvIGlkIOmdnuWtl+espuS4suW/hemhu+aKm+mUme+8iOWQpuWImSB1cGRhdGVRdWV1ZSDml6Dku47kuIvmiYvvvIknLCAoKSA9PiB7CiAgZm9yIChjb25zdCBiYWQgb2YgWwogICAgW3sgY29udGVudDogW10gfV0sCiAgICBbeyBpZDogJycgfV0sCiAgICBbeyBpZDogNDIgfV0sCiAgICBbeyBpZDogbnVsbCB9XSwKICAgIFtudWxsXSwKICAgIFt1bmRlZmluZWRdLAogIF0pIHsKICAgIGFzc2VydC50aHJvd3MoKCkgPT4gaW5ib3hJdGVtSWRzKGJhZCksIC9pbnZhbGlkIHNlc3Npb24gaW5ib3ggaXRlbS8sIEpTT04uc3RyaW5naWZ5KGJhZCkpOwogIH0KfSk7CgovLyDilIDilIAgMy4gY29udHJvbCBiYXNlbGluZSDluKfop6PmnpDvvIgwLjIuMCDnmoTnnJ/lrp7lsYLnuqfvvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKdGVzdCgnY29udHJvbCBiYXNlbGluZe+8muS7jiBwcm9qZWN0aW9uc1s8c2Vzc2lvbklkPl0udmFsdWVzLmluYm94IOWPlumYn+WIlycsICgpID0+IHsKICBjb25zdCBmcmFtZSA9IGNvbnRyb2xCYXNlbGluZSh7CiAgICAnc2Vzc2lvbi1hJzogcHJvamVjdGlvblZhbHVlcyh7CiAgICAgICduZXh0LXR1cm4nOiBbcmVhbEluYm94SXRlbSgnbS1hMScsICfnu5kgQSDnmoQnKV0sCiAgICAgICduZXh0LXN0ZXAnOiBbXSwKICAgIH0pLAogICAgJ3Nlc3Npb24tYic6IHByb2plY3Rpb25WYWx1ZXMoewogICAgICAnbmV4dC10dXJuJzogW3JlYWxJbmJveEl0ZW0oJ20tYjEnLCAn57uZIEIg55qEJyksIHJlYWxJbmJveEl0ZW0oJ20tYjInLCAn6L+Y5pyJ5LiA5p2hJyldLAogICAgICAnbmV4dC1zdGVwJzogW10sCiAgICB9KSwKICB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGluYm94SXRlbUlkcyhjb250cm9sQmFzZWxpbmVJbmJveEl0ZW1zKGZyYW1lLCAnc2Vzc2lvbi1iJykpLCBbJ20tYjEnLCAnbS1iMiddKTsKICBhc3NlcnQuZGVlcEVxdWFsKGluYm94SXRlbUlkcyhjb250cm9sQmFzZWxpbmVJbmJveEl0ZW1zKGZyYW1lLCAnc2Vzc2lvbi1hJykpLCBbJ20tYTEnXSk7Cn0pOwoKdGVzdCgnY29udHJvbCBiYXNlbGluZe+8muS8muivneS4jeWcqCBiYXNlbGluZSDph4wg4oeSIOayoeaciea0u+WKqCBhZ2VudCDih5Ig5peg5b6F5aSE55CG6aG5JywgKCkgPT4gewogIGNvbnN0IGZyYW1lID0gY29udHJvbEJhc2VsaW5lKHsgJ3Nlc3Npb24tYSc6IHByb2plY3Rpb25WYWx1ZXMoeyAnbmV4dC10dXJuJzogW10sICduZXh0LXN0ZXAnOiBbXSB9KSB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGNvbnRyb2xCYXNlbGluZUluYm94SXRlbXMoZnJhbWUsICdzZXNzaW9uLXp6eicpLCBbXSk7Cn0pOwoKdGVzdCgnY29udHJvbCBiYXNlbGluZe+8mjAuMS43IOeahOaXp+W9oueKtiBxdWV1ZXMg5bey5LiN5a2Y5Zyo4oCU4oCU5pen5a2X5q615b+F6aG75LiN5YaN6KKr5o6l5Y+XJywgKCkgPT4gewogIC8vIOi/meS4gOadoemSieeahOaYr+OAjOe8uumZt+acrOi6q+OAje+8muaKiiBxdWV1ZXMg5b2i54q25ZaC6L+b5Y675b+F6aG7Kirmi7/kuI3liLDpmJ/liJcqKu+8jAogIC8vIOiAjOS4jeaYr+WDj+iAgeWunueOsOmCo+agt+WFiOaSnuS4iue7k+aehOagoemqjOOAgeaKiuavj+S4gOasoemAgOW9uemDveWPmOaIkOS4gOasoeaKpemUmeOAggogIGNvbnN0IGxlZ2FjeSA9IHsKICAgIHR5cGU6ICdiYXNlbGluZScsCiAgICB2YWx1ZTogeyBxdWV1ZXM6IHsgJ3Nlc3Npb24tYSc6IFt7IGlkOiAnbS1hMScgfV0gfSB9LAogIH07CiAgYXNzZXJ0LnRocm93cygoKSA9PiBjb250cm9sQmFzZWxpbmVJbmJveEl0ZW1zKGxlZ2FjeSwgJ3Nlc3Npb24tYScpLCAvaW52YWxpZCBzZXNzaW9uXC9jb250cm9sIGJhc2VsaW5lLyk7Cn0pOwoKdGVzdCgnY29udHJvbCBiYXNlbGluZe+8muaKleW9seihqOe7k+aehOS4jeespuW/hemhu+aKm+mUmScsICgpID0+IHsKICBmb3IgKGNvbnN0IGJhZCBvZiBbCiAgICB7IHR5cGU6ICdiYXNlbGluZScsIHZhbHVlOiB7fSB9LAogICAgeyB0eXBlOiAnYmFzZWxpbmUnLCB2YWx1ZTogeyBwcm9qZWN0aW9uczogbnVsbCB9IH0sCiAgICB7IHR5cGU6ICdiYXNlbGluZScsIHZhbHVlOiB7IHByb2plY3Rpb25zOiBbXSB9IH0sCiAgICB7IHR5cGU6ICdiYXNlbGluZScsIHZhbHVlOiB7IHByb2plY3Rpb25zOiAneCcgfSB9LAogICAgeyB0eXBlOiAnYmFzZWxpbmUnIH0sCiAgICB1bmRlZmluZWQsCiAgXSkgewogICAgYXNzZXJ0LnRocm93cygKICAgICAgKCkgPT4gY29udHJvbEJhc2VsaW5lSW5ib3hJdGVtcyhiYWQsICdzZXNzaW9uLWEnKSwKICAgICAgL2ludmFsaWQgc2Vzc2lvblwvY29udHJvbCBiYXNlbGluZS8sCiAgICAgIEpTT04uc3RyaW5naWZ5KGJhZCksCiAgICApOwogIH0KfSk7Cgp0ZXN0KCdjb250cm9sIGJhc2VsaW5l77ya5oqV5b2x6aG557y6IHZhbHVlcyDml7bop4bkuLrog73lipvnvLrlpLHvvIjml6DlvoXlpITnkIbpobnvvIknLCAoKSA9PiB7CiAgY29uc3QgZnJhbWUgPSB7IHR5cGU6ICdiYXNlbGluZScsIHZhbHVlOiB7IHByb2plY3Rpb25zOiB7ICdzZXNzaW9uLWEnOiB7IGFzT2ZTZXE6IDMgfSB9IH0gfTsKICBhc3NlcnQuZGVlcEVxdWFsKGNvbnRyb2xCYXNlbGluZUluYm94SXRlbXMoZnJhbWUsICdzZXNzaW9uLWEnKSwgW10pOwp9KTsK
+// DSH 0.2.0 会话队列（inbox 投影）解析的登记期回归测试。
+//
+// 为什么需要这个文件
+// ------------------
+// 桥接退役/重置 QQ 会话时要先清掉 DSH 侧还没跑的**待处理队列**，再取消当前 turn
+// （`stopSessionWork`）。读队列这一步过去只认 `session/control` 开场 baseline 里的
+// `value.queues[<sessionId>]`：
+//
+//     const queues = frame.value.value?.queues;
+//     if (!queues || ...) throw new Error('invalid session/control baseline');
+//
+// DSH 0.2.0 把队列并进了**投影表**——`value.projections[<sessionId>].values.inbox`
+// （形状 `{ 'next-turn': UserMessage[], 'next-step': UserMessage[] }`）——
+// `queues` 这个键不复存在。后果不是「少清几条」，而是**每一次退役都抛错**：
+// 队列清不掉、旧任务继续在 DSH 里跑，桥接日志里只有一行
+// 「⚠️ 停止旧会话失败 … invalid session/control baseline」。
+// 这条缺陷在升级到 0.2.0 后才被注意到，说明它此前**没有任何测试覆盖**。
+//
+// 本文件用**从真实 DSH 0.2.0 采样下来的帧骨架**把解析钉死：
+// 结构再变就是测试红，而不是线上静默漏水。
+//
+// ⚠️ 这里的帧骨架刻意保留 `asOfSeq`/`values`/`inbox` 的真实层级与键名
+// （含 `next-turn` 这种带连字符的键），因为**层级写错**正是上一版缺陷的形态。
+import assert from 'node:assert/strict';
+import test from 'node:test';
+import {
+  inboxItemsOfProjections,
+  inboxItemIds,
+  controlBaselineInboxItems,
+} from '../src/dsh-client.js';
+
+/** 一条真实的 DSH 0.2.0 inbox 项（2026 实测采样，内容已替换为占位符）。 */
+const realInboxItem = (id, text) => ({
+  content: [{ type: 'text', text }],
+  source: { kind: 'user', rpcId: 'rpc-0000-0000-0000-000000000000' },
+  role: 'user',
+  id,
+});
+
+/** DSH 0.2.0 的 SessionProjectionValues 骨架（只保留本测试关心的键）。 */
+const projectionValues = (inbox) => ({
+  title: 'QQ 聊天',
+  tokenUsage: { uncachedInputTokens: 0, outputTokens: 0, cacheReadTokens: 0, cacheWriteTokens: 0 },
+  ...(inbox === undefined ? {} : { inbox }),
+});
+
+/** DSH 0.2.0 的 session/control 开场 baseline 帧（真实采样层级）。 */
+const controlBaseline = (sessions) => ({
+  type: 'baseline',
+  value: {
+    projections: Object.fromEntries(
+      Object.entries(sessions).map(([id, values]) => [id, { asOfSeq: 7, values }]),
+    ),
+  },
+});
+
+// ── 1. 投影解析 ─────────────────────────────────────────────────────────────
+test('inbox 投影：两个边界一起取，顺序为 next-turn → next-step', () => {
+  const values = projectionValues({
+    'next-turn': [realInboxItem('m-1', '第一轮')],
+    'next-step': [realInboxItem('m-2', '插话')],
+  });
+  assert.deepEqual(inboxItemsOfProjections(values).map((i) => i.id), ['m-1', 'm-2']);
+});
+
+test('inbox 投影：空队列返回空数组（不是错误）', () => {
+  assert.deepEqual(inboxItemsOfProjections(projectionValues({ 'next-turn': [], 'next-step': [] })), []);
+});
+
+test('inbox 投影：能力缺失（无 inbox 键 / values 为 null）视为无待处理项', () => {
+  // 会话没有活动 agent 时，投影表里可能没有 inbox 这一项。
+  assert.deepEqual(inboxItemsOfProjections(projectionValues(undefined)), []);
+  assert.deepEqual(inboxItemsOfProjections(null), []);
+  // session/projections 对不存在的会话返回 null。
+  assert.deepEqual(inboxItemsOfProjections(undefined), []);
+});
+
+test('inbox 投影：只有一个边界存在时也能解析（另一个是可选能力）', () => {
+  assert.deepEqual(
+    inboxItemsOfProjections(projectionValues({ 'next-turn': [realInboxItem('m-1', 'x')] })).map((i) => i.id),
+    ['m-1'],
+  );
+  assert.deepEqual(
+    inboxItemsOfProjections(projectionValues({ 'next-step': [] })).map((i) => i.id),
+    [],
+  );
+});
+
+test('inbox 投影：结构变了必须显式失败，不能静默当成空队列', () => {
+  // 静默返回 [] 正是「队列清不掉却毫无提示」的成因。
+  for (const bad of [
+    { 'next-turn': null },
+    { 'next-turn': {} },
+    { 'next-turn': 'm-1' },
+    { 'next-step': 3 },
+  ]) {
+    assert.throws(
+      () => inboxItemsOfProjections(projectionValues(bad)),
+      /invalid session inbox projection/,
+      `结构 ${JSON.stringify(bad)} 应抛错`,
+    );
+  }
+  assert.throws(() => inboxItemsOfProjections(projectionValues([])), /invalid session inbox projection/);
+  assert.throws(() => inboxItemsOfProjections(projectionValues('inbox')), /invalid session inbox projection/);
+});
+
+// ── 2. itemId 抽取 ─────────────────────────────────────────────────────────
+test('itemId 抽取：取出 MessageId 字符串', () => {
+  assert.deepEqual(
+    inboxItemIds([realInboxItem('m-1', 'a'), realInboxItem('m-2', 'b')]),
+    ['m-1', 'm-2'],
+  );
+});
+
+test('itemId 抽取：缺 id / id 非字符串必须抛错（否则 updateQueue 无从下手）', () => {
+  for (const bad of [
+    [{ content: [] }],
+    [{ id: '' }],
+    [{ id: 42 }],
+    [{ id: null }],
+    [null],
+    [undefined],
+  ]) {
+    assert.throws(() => inboxItemIds(bad), /invalid session inbox item/, JSON.stringify(bad));
+  }
+});
+
+// ── 3. control baseline 帧解析（0.2.0 的真实层级）──────────────────────────
+test('control baseline：从 projections[<sessionId>].values.inbox 取队列', () => {
+  const frame = controlBaseline({
+    'session-a': projectionValues({
+      'next-turn': [realInboxItem('m-a1', '给 A 的')],
+      'next-step': [],
+    }),
+    'session-b': projectionValues({
+      'next-turn': [realInboxItem('m-b1', '给 B 的'), realInboxItem('m-b2', '还有一条')],
+      'next-step': [],
+    }),
+  });
+  assert.deepEqual(inboxItemIds(controlBaselineInboxItems(frame, 'session-b')), ['m-b1', 'm-b2']);
+  assert.deepEqual(inboxItemIds(controlBaselineInboxItems(frame, 'session-a')), ['m-a1']);
+});
+
+test('control baseline：会话不在 baseline 里 ⇒ 没有活动 agent ⇒ 无待处理项', () => {
+  const frame = controlBaseline({ 'session-a': projectionValues({ 'next-turn': [], 'next-step': [] }) });
+  assert.deepEqual(controlBaselineInboxItems(frame, 'session-zzz'), []);
+});
+
+test('control baseline：0.1.7 的旧形状 queues 已不存在——旧字段必须不再被接受', () => {
+  // 这一条钉的是「缺陷本身」：把 queues 形状喂进去必须**拿不到队列**，
+  // 而不是像老实现那样先撞上结构校验、把每一次退役都变成一次报错。
+  const legacy = {
+    type: 'baseline',
+    value: { queues: { 'session-a': [{ id: 'm-a1' }] } },
+  };
+  assert.throws(() => controlBaselineInboxItems(legacy, 'session-a'), /invalid session\/control baseline/);
+});
+
+test('control baseline：投影表结构不符必须抛错', () => {
+  for (const bad of [
+    { type: 'baseline', value: {} },
+    { type: 'baseline', value: { projections: null } },
+    { type: 'baseline', value: { projections: [] } },
+    { type: 'baseline', value: { projections: 'x' } },
+    { type: 'baseline' },
+    undefined,
+  ]) {
+    assert.throws(
+      () => controlBaselineInboxItems(bad, 'session-a'),
+      /invalid session\/control baseline/,
+      JSON.stringify(bad),
+    );
+  }
+});
+
+test('control baseline：投影项缺 values 时视为能力缺失（无待处理项）', () => {
+  const frame = { type: 'baseline', value: { projections: { 'session-a': { asOfSeq: 3 } } } };
+  assert.deepEqual(controlBaselineInboxItems(frame, 'session-a'), []);
+});

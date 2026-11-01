@@ -1,1 +1,65 @@
-Ly8g6buR6K+d5a2m5Lmg5qih5Z2X5paw5aKe5Yqf6IO96Ieq5qOA77yac291cmNlcyDlrZfmrrXjgIHmt7HluqbnoJTnqbYgcHJvbXB044CB6Kej5p6Q44CCCmltcG9ydCBhc3NlcnQgZnJvbSAnbm9kZTphc3NlcnQvc3RyaWN0JzsKaW1wb3J0IHsKICBub3JtYWxpemVTbGFuZ0VudHJ5LAogIGNyZWF0ZVNsYW5nRW50cnksCiAgcGFyc2VSZXNlYXJjaEpzb24sCiAgYnVpbGRSZXNlYXJjaFByb21wdCwKICBidWlsZFNsYW5nQ29udGV4dCwKICBTTEFOR19TVEFUVVMsCn0gZnJvbSAnLi4vc3JjL3NsYW5nLWxlYXJuZXIuanMnOwoKbGV0IHBhc3NlZCA9IDA7CmZ1bmN0aW9uIG9rKG5hbWUpIHsKICBwYXNzZWQgKz0gMTsKICBjb25zb2xlLmxvZyhg4pyFICR7bmFtZX1gKTsKfQoKLy8gMS4gbm9ybWFsaXplIOS/neeVmeWQiOazlSBzb3VyY2Vz77yM6L+H5ruk56m65Liy5bm26ZmQ6ZW/CnsKICBjb25zdCBlID0gbm9ybWFsaXplU2xhbmdFbnRyeSh7CiAgICBjb250ZW50OiAneXlkcycsCiAgICBzb3VyY2VzOiBbJ2h0dHBzOi8vZXhhbXBsZS5jb20vYScsICcnLCAnIGh0dHBzOi8vZXhhbXBsZS5jb20vYiAnXSwKICB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGUuc291cmNlcywgWydodHRwczovL2V4YW1wbGUuY29tL2EnLCAnaHR0cHM6Ly9leGFtcGxlLmNvbS9iJ10pOwogIG9rKCdub3JtYWxpemVTbGFuZ0VudHJ5IOS/neeVmS/muIXmtJcgc291cmNlcycpOwp9CgovLyAyLiBjcmVhdGVTbGFuZ0VudHJ5IOaUr+aMgSBzb3VyY2VzCnsKICBjb25zdCBlID0gY3JlYXRlU2xhbmdFbnRyeSh7IGNvbnRlbnQ6ICd4c3dsJywgc291cmNlczogWydodHRwczovL2V4YW1wbGUuY29tJ10gfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChlLnNvdXJjZXMsIFsnaHR0cHM6Ly9leGFtcGxlLmNvbSddKTsKICBvaygnY3JlYXRlU2xhbmdFbnRyeSDmlK/mjIEgc291cmNlcycpOwp9CgovLyAzLiBwYXJzZVJlc2VhcmNoSnNvbiDop6PmnpAgc291cmNlcwp7CiAgY29uc3Qgb3V0ID0gcGFyc2VSZXNlYXJjaEpzb24oJ1t7ImNvbnRlbnQiOiJ5eWRzIiwibWVhbmluZyI6IuawuOi/nOeahOelniIsInNvdXJjZXMiOlsiaHR0cHM6Ly9hIiwiIl19XScpOwogIGFzc2VydC5lcXVhbChvdXQubGVuZ3RoLCAxKTsKICBhc3NlcnQuZGVlcEVxdWFsKG91dFswXS5zb3VyY2VzLCBbJ2h0dHBzOi8vYSddKTsKICBvaygncGFyc2VSZXNlYXJjaEpzb24g6Kej5p6QIHNvdXJjZXMnKTsKfQoKLy8gNC4gYnVpbGRSZXNlYXJjaFByb21wdCDopoHmsYLmt7HluqbogZTnvZHkuI4gc291cmNlcwp7CiAgY29uc3QgcHJvbXB0ID0gYnVpbGRSZXNlYXJjaFByb21wdChbeyBjb250ZW50OiAneXlkcycsIGV2aWRlbmNlOiBbeyB0ZXh0OiAn6L+Z5rOiIHl5ZHMnIH1dIH1dKTsKICBhc3NlcnQub2socHJvbXB0LmluY2x1ZGVzKCd3ZWJfZmV0Y2gnKSwgJ3Byb21wdCDlupTopoHmsYIgd2ViX2ZldGNoIOaKk+ato+aWhycpOwogIGFzc2VydC5vayhwcm9tcHQuaW5jbHVkZXMoJyJzb3VyY2VzIicpLCAncHJvbXB0IOW6lOimgeaxgui+k+WHuiBzb3VyY2VzJyk7CiAgYXNzZXJ0Lm9rKHByb21wdC5pbmNsdWRlcygn5rex5bqm6IGU572R6ICD56m2JyksICdwcm9tcHQg5bqU5by66LCD5rex5bqm6IGU572R6ICD56m2Jyk7CiAgb2soJ2J1aWxkUmVzZWFyY2hQcm9tcHQg5rex5bqm56CU56m25oyH5LukJyk7Cn0KCi8vIDUuIGJ1aWxkU2xhbmdDb250ZXh0IOWPquazqOWFpeW3suehruiupOS4lOacieWQq+S5ieeahOivjeadoQp7CiAgY29uc3QgY3R4ID0gYnVpbGRTbGFuZ0NvbnRleHQoWwogICAgeyBjb250ZW50OiAnYScsIG1lYW5pbmc6ICfnlLInLCBzdGF0dXM6IFNMQU5HX1NUQVRVUy5DT05GSVJNRUQsIGNvdW50OiAyIH0sCiAgICB7IGNvbnRlbnQ6ICdiJywgbWVhbmluZzogJycsIHN0YXR1czogU0xBTkdfU1RBVFVTLkNPTkZJUk1FRCwgY291bnQ6IDEgfSwKICAgIHsgY29udGVudDogJ2MnLCBtZWFuaW5nOiAn5LiZJywgc3RhdHVzOiBTTEFOR19TVEFUVVMuQ0FORElEQVRFLCBjb3VudDogOSB9LAogIF0sIDgpOwogIGFzc2VydC5vayhjdHguaW5jbHVkZXMoJ2HvvJrnlLInKSk7CiAgYXNzZXJ0Lm9rKCFjdHguaW5jbHVkZXMoJ2LvvJonKSk7CiAgYXNzZXJ0Lm9rKCFjdHguaW5jbHVkZXMoJ2PvvJrkuJknKSk7CiAgb2soJ2J1aWxkU2xhbmdDb250ZXh0IOWPquazqOWFpeW3suehruiupOS4lOacieWQq+S5ieivjeadoScpOwp9Cgpjb25zb2xlLmxvZyhgXG7wn46JIOm7keivneWtpuS5oOaWsOWinumAu+i+kea1i+ivlemAmui/h++8iCR7cGFzc2VkfSDpobnvvIlgKTsK
+// 黑话学习模块新增功能自检：sources 字段、深度研究 prompt、解析。
+import assert from 'node:assert/strict';
+import {
+  normalizeSlangEntry,
+  createSlangEntry,
+  parseResearchJson,
+  buildResearchPrompt,
+  buildSlangContext,
+  SLANG_STATUS,
+} from '../src/slang-learner.js';
+
+let passed = 0;
+function ok(name) {
+  passed += 1;
+  console.log(`✅ ${name}`);
+}
+
+// 1. normalize 保留合法 sources，过滤空串并限长
+{
+  const e = normalizeSlangEntry({
+    content: 'yyds',
+    sources: ['https://example.com/a', '', ' https://example.com/b '],
+  });
+  assert.deepEqual(e.sources, ['https://example.com/a', 'https://example.com/b']);
+  ok('normalizeSlangEntry 保留/清洗 sources');
+}
+
+// 2. createSlangEntry 支持 sources
+{
+  const e = createSlangEntry({ content: 'xswl', sources: ['https://example.com'] });
+  assert.deepEqual(e.sources, ['https://example.com']);
+  ok('createSlangEntry 支持 sources');
+}
+
+// 3. parseResearchJson 解析 sources
+{
+  const out = parseResearchJson('[{"content":"yyds","meaning":"永远的神","sources":["https://a",""]}]');
+  assert.equal(out.length, 1);
+  assert.deepEqual(out[0].sources, ['https://a']);
+  ok('parseResearchJson 解析 sources');
+}
+
+// 4. buildResearchPrompt 要求深度联网与 sources
+{
+  const prompt = buildResearchPrompt([{ content: 'yyds', evidence: [{ text: '这波 yyds' }] }]);
+  assert.ok(prompt.includes('web_fetch'), 'prompt 应要求 web_fetch 抓正文');
+  assert.ok(prompt.includes('"sources"'), 'prompt 应要求输出 sources');
+  assert.ok(prompt.includes('深度联网考究'), 'prompt 应强调深度联网考究');
+  ok('buildResearchPrompt 深度研究指令');
+}
+
+// 5. buildSlangContext 只注入已确认且有含义的词条
+{
+  const ctx = buildSlangContext([
+    { content: 'a', meaning: '甲', status: SLANG_STATUS.CONFIRMED, count: 2 },
+    { content: 'b', meaning: '', status: SLANG_STATUS.CONFIRMED, count: 1 },
+    { content: 'c', meaning: '丙', status: SLANG_STATUS.CANDIDATE, count: 9 },
+  ], 8);
+  assert.ok(ctx.includes('a：甲'));
+  assert.ok(!ctx.includes('b：'));
+  assert.ok(!ctx.includes('c：丙'));
+  ok('buildSlangContext 只注入已确认且有含义词条');
+}
+
+console.log(`\n🎉 黑话学习新增逻辑测试通过（${passed} 项）`);

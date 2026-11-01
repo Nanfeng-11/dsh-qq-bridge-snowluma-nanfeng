@@ -1,1 +1,88 @@
-Ly8gRXhlY3V0ZSBib3RoIHJlYWwgcHJlc2V0IHBsdWdpbnMgYWdhaW5zdCBhIGNhcHR1cmVkIHRvb2xzIHNlcnZpY2UsIHdpdGhvdXQgRFNIL1FRLgppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGgsIHBhdGhUb0ZpbGVVUkwgfSBmcm9tICdub2RlOnVybCc7Cgpjb25zdCByb290ID0gcGF0aC5yZXNvbHZlKHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpLCAnLi4nKTsKbGV0IGZhaWx1cmVzID0gMDsKZm9yIChjb25zdCBwcmVzZXQgb2YgWydxcS1jaGF0JywgJ3FxLWNoYXQtdjInXSkgewogIGNvbnN0IHsgYXBwbHkgfSA9IGF3YWl0IGltcG9ydChwYXRoVG9GaWxlVVJMKHBhdGguam9pbihyb290LCAnZHNoL2FnZW50LXByZXNldHMnLCBwcmVzZXQsICdxcS10b29sLXJlc3RyaWN0Lm1qcycpKS5ocmVmKTsKICBsZXQgZ3VhcmQ7CiAgY29uc3QgcmVzdHJpY3RlZCA9IFtdOwogIGFwcGx5KHsgdG9vbHM6IHsKICAgIHJlc3RyaWN0OiAoeyBkZW55IH0pID0+IHJlc3RyaWN0ZWQucHVzaCguLi5kZW55KSwKICAgIGd1YXJkOiAoY2FsbGJhY2spID0+IHsgZ3VhcmQgPSBjYWxsYmFjazsgfSwKICB9IH0pOwogIGFzc2VydC5lcXVhbCh0eXBlb2YgZ3VhcmQsICdmdW5jdGlvbicpOwogIGFzc2VydC5vayhyZXN0cmljdGVkLmluY2x1ZGVzKCdkZXZfaW5zdGFsbF9wYWNrYWdlJykpOwogIGZvciAoY29uc3QgbmFtZSBvZiBbJ2Fza191c2VyX3F1ZXN0aW9uJywgJ3RvZG9fd3JpdGUnLCAnbWNwX19zbm93bHVtYV9fcXFfc2VuZF9tZXNzYWdlJywKICAgICdtY3BfX3Nub3dsdW1hLWhvc3RfX3Nub3dsdW1hX3N0YXR1cycsICdtY3BfX3dlYi1zZWFyY2gtc2FmZV9fd2ViX2ZldGNoJ10pIHsKICAgIGFzc2VydC5lcXVhbChndWFyZCh7IG5hbWUgfSksIHVuZGVmaW5lZCwgYCR7cHJlc2V0fTogZXhwZWN0ZWQgYWxsb3dlZCAke25hbWV9YCk7CiAgfQogIGZvciAoY29uc3QgbmFtZSBvZiBbJ3dlYl9mZXRjaCcsICd3ZWJfc2VhcmNoJywgJ2Jhc2gnLCAncmVhZF9maWxlJywgJ2Rldl9mdXR1cmVfdG9vbCcsCiAgICAnbWNwX191bnRydXN0ZWRfX3dlYl9mZXRjaCcsICcnLCBudWxsLCB1bmRlZmluZWRdKSB7CiAgICB0cnkgeyBhc3NlcnQuZXF1YWwodHlwZW9mIGd1YXJkKHsgbmFtZSB9KSwgJ3N0cmluZycsIGAke3ByZXNldH06IG11c3QgcmVqZWN0ICR7U3RyaW5nKG5hbWUpfWApOyB9CiAgICBjYXRjaCAoZXJyb3IpIHsgZmFpbHVyZXMrKzsgY29uc29sZS5lcnJvcihgRkFJTCAke2Vycm9yLm1lc3NhZ2V9YCk7IH0KICB9CiAgY29uc29sZS5sb2coYCR7cHJlc2V0fTogY2hlY2tlZCBhbGxvd2VkIHRvb2xzIGFuZCBkZW5pZWQgaW5oZXJpdGVkL2xvY2FsL2ludmFsaWQgdG9vbHNgKTsKfQovLyDilIDilIAgc3RhdGUvIOadg+mZkOaUtue0p++8iFdpbmRvd3Mg5LiKIG1vZGUgMG82MDAg5piv56m65pON5L2c77yM5b+F6aG75YqoIEFDTO+8ieeahOemu+e6v+WuiOWNqyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKLy8g6L+Z6YeM5Y+q5YGaIue7k+aehCArIOe8lueggSLnuqfmlq3oqIDvvJrnnJ/mraPnmoQgaWNhY2xzL1VBQyDooYzkuLrlnKjov5nkuKrnjq/looPph4zot5HkuI3kuobvvIjmspnnrrHnpoHmraLmlLkgQUNM77yJ77yMCi8vIOiAjCoq5YGH6KOF5rWL6L+HKirmr5TkuI3mtYvmm7TljbHpmanvvIzmiYDku6XmmI7noa7lj6rpkonkvY/kuIvpnaLov5nkupvkuI3kvJrpqpfkurrnmoTkuovlrp7jgIIKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwp7CiAgY29uc3QgaGVscGVyUGF0aCA9IHBhdGguam9pbihyb290LCAnc2NyaXB0cy9oYXJkZW4tc3RhdGUtYWNsLm1qcycpOwogIGFzc2VydC5vayhmcy5leGlzdHNTeW5jKGhlbHBlclBhdGgpLCAnQUNMIOaUtue0p+WKqeaJi+W/hemhu+WtmOWcqO+8iHN0YXJ0LmJhdCDkvp3otZblroPvvIknKTsKICBjb25zdCBoZWxwZXIgPSBmcy5yZWFkRmlsZVN5bmMoaGVscGVyUGF0aCwgJ3V0ZjgnKTsKICBmb3IgKGNvbnN0IG5lZWRsZSBvZiBbJ2ljYWNscycsICcvaW5oZXJpdGFuY2U6cicsICctLWVsZXZhdGVkJywgJ2lzSGFyZGVuZWQnLCAncHJvY2Vzcy5leGl0KDApJ10pIHsKICAgIGFzc2VydC5vayhoZWxwZXIuaW5jbHVkZXMobmVlZGxlKSwgYEFDTCDliqnmiYvlupTljIXlkKsgJHtuZWVkbGV9YCk7CiAgfQogIC8vIOWksei0peW/hemhu+mZjee6p+S4uumdnumYu+aWre+8muS7u+S9leS4gOadoSBzYXlBbHdheXMvY29uc29sZS5sb2cg5LmL5ZCO6YO95LiN5b6X5Lul6Z2eIDAg6YCA5Ye644CCCiAgYXNzZXJ0Lm9rKCEvcHJvY2Vzc1wuZXhpdFwoWzEtOV0vLnRlc3QoaGVscGVyKSwgJ0FDTCDliqnmiYvkuI3lvpfku6XpnZ4gMCDpgIDlh7rnoIHnu5PmnZ/vvIjlkKbliJnkvJrpmLvmlq3lkK/liqjvvIknKTsKICAvLyDmj5DmnYPpgJLlvZLpmLLmiqTvvJrooqvoh6rlt7Hmi4notbfnmoTpgqPkuIDmrKHlv4Xpobvot7Pov4fmj5DmnYPph43or5XjgIIKICBhc3NlcnQub2soLyFpc0VsZXZhdGVkUnVuLy50ZXN0KGhlbHBlciksICfmj5DmnYPph43or5Xlv4XpobvooqsgLS1lbGV2YXRlZCDmoIforrDnn63ot6/vvIzpmLLmraLpgJLlvZInKTsKCiAgY29uc3QgYmF0ID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihyb290LCAnc3RhcnQuYmF0JykpOwogIGNvbnN0IGJhdFRleHQgPSBiYXQudG9TdHJpbmcoJ2xhdGluMScpOwogIGNvbnN0IG5vbkFzY2lpID0gWy4uLmJhdF0uZmlsdGVyKChiKSA9PiBiID4gMTI3KS5sZW5ndGg7CiAgYXNzZXJ0LmVxdWFsKG5vbkFzY2lpLCAwLCAnc3RhcnQuYmF0IOW/hemhu+S/neaMgee6ryBBU0NJSe+8iOWQpuWImemdniBVVEYtOCDmjqfliLblj7DkvJrkubHnoIHvvIknKTsKICBhc3NlcnQuZXF1YWwoYmF0VGV4dC5tYXRjaCgvKD88IVxyKVxuL2cpPy5sZW5ndGggPz8gMCwgMCwgJ3N0YXJ0LmJhdCDlv4Xpobvkvb/nlKggQ1JMRicpOwogIGFzc2VydC5vayhiYXRUZXh0LmluY2x1ZGVzKCdoYXJkZW4tc3RhdGUtYWNsLm1qcycpLCAnc3RhcnQuYmF0IOW/hemhu+WcqOWQr+WKqOahpeaOpeWJjeiwg+eUqCBBQ0wg5Yqp5omLJyk7CiAgLy8g5Yqp5omL5b+F6aG75o6S5ZyoIG5vZGUgc3JjL2JyaWRnZS5qcyDkuYvliY3vvIzlkKbliJki5ZCv5Yqo5pe25pS257SnIuWwseS4jeaIkOeriwogIGFzc2VydC5vayhiYXRUZXh0LmluZGV4T2YoJ2hhcmRlbi1zdGF0ZS1hY2wubWpzJykgPCBiYXRUZXh0LmluZGV4T2YoJ25vZGUgc3JjL2JyaWRnZS5qcycpLCAnQUNMIOWKqeaJi+W/hemhu+WFiOS6juahpeaOpeWQr+WKqCcpOwogIGNvbnNvbGUubG9nKCdzdGF0ZSBBQ0wgaGFyZGVuaW5nOiBoZWxwZXIgaXMgbm9uLWJsb2NraW5nLCByZWN1cnNpb24tZ3VhcmRlZCwgYW5kIHdpcmVkIGludG8gc3RhcnQuYmF0Jyk7Cn0KCi8vIOKUgOKUgCDlkIjop4TkuI3lj5jph48gTDbvvJrmnKznqIvluo8qKuWPquaOoua1i+OAgeS4jemDqOe9sioqIFNub3dMdW1hIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLyDkvp3mja7vvJpTbm93THVtYSBFVUxBIMKnNS4077yI5Lit5paH5Li65YeG77yJCi8vICAg44CM6Zmk5LqL5YWI5Y+W5b6X6JGX5L2c5p2D5Lq655qE5Lmm6Z2i5o6I5p2D5aSW4oCm4oCm5LiN5b6X5aSN5Yi244CB5L+u5pS544CB5Y2V54us5YaN5YiG5Y+R5oiW5YaN6K645Y+v6K+l57uE5Lu244CCCi8vICAgICDlsIblhbblubblhaXnrKzkuInmlrnlronoo4XljIXmiJYgRG9ja2VyIOmVnOWDj+OAgSoq6YCa6L+H6Ieq5Yqo5YyW6ISa5pys6YOo572yKirvvIzmiJbogIXlsIblhbbnlKjkuo7ku7vkvZXllYbkuJrnlKjpgJTvvIwKLy8gICAgIOWdh+mhu+S6i+WFiOWPluW+l+S5pumdouaOiOadg+OAguOAjQovLyAyMDI2LTA5LTIw77yaYHN0YXJ0X3Nub3dsdW1hYCAvIGBzdG9wX3Nub3dsdW1hYCDkuI4gYHNub3dsdW1hLmFsbG93UHJvY2Vzc0NvbnRyb2xgIOW3suaVtOS9k+enu+mZpOOAggovLyDov5nmnaHmtYvor5UqKumYsuatouWug+S7rO+8iOaIluWQjOexu+iDveWKm++8ieiiq+aXoOaEj+WKoOWbnuadpSoq4oCU4oCU5pys6aG555uu5ZSv5LiA5LiA5p2hIuWIoOaOieeahOWKn+iDveS4jeiuuOWkjea0uyLnmoTnuqbmnZ/jgIIKewogIGNvbnN0IGhvc3QgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKHJvb3QsICdzcmMvbWNwLWhvc3Qtc2VydmVyLmpzJyksICd1dGY4Jyk7CiAgLy8g4pGgIOS7o+eggemHjOS4jeW+l+WGjeWHuueOsOi/m+eoi+WQr+WBnOWOn+ivre+8iOazqOmHiuS4reS4uuiusOW9leWOn+WboOWPr+S7peaPkO+8jOaVheWFiOWJlOaOiee6r+azqOmHiuihjO+8iQogIGNvbnN0IGNvZGUgPSBob3N0LnNwbGl0KCdcbicpCiAgICAuZmlsdGVyKChsKSA9PiAhbC50cmltKCkuc3RhcnRzV2l0aCgnLy8nKSAmJiAhbC50cmltKCkuc3RhcnRzV2l0aCgnKicpKQogICAgLmpvaW4oJ1xuJyk7CiAgZm9yIChjb25zdCBiYWQgb2YgWydzcGF3bignLCAndGFza2tpbGwnLCAnZXhlY0ZpbGVTeW5jJywgJ2NoaWxkX3Byb2Nlc3MnXSkgewogICAgYXNzZXJ0Lm9rKCFjb2RlLmluY2x1ZGVzKGJhZCksIGBtY3AtaG9zdC1zZXJ2ZXIuanMg5LiN5b6X5YaN5Ye6546w44CMJHtiYWR944CN77yI6L+d5Y+NIEVVTEEgwqc1LjQg55qEIEw2IOS4jeWPmOmHj++8iWApOwogIH0KICAvLyDikaEg5LiN5b6X5YaN5rOo5YaM6L+Z5Lik5Liq5bel5YW3CiAgZm9yIChjb25zdCB0b29sIG9mIFsnc3RhcnRfc25vd2x1bWEnLCAnc3RvcF9zbm93bHVtYSddKSB7CiAgICBhc3NlcnQub2soIWhvc3QuaW5jbHVkZXMoYCcke3Rvb2x9J2ApLCBg5LiN5b6X5YaN5rOo5YaMICR7dG9vbH3vvIhFVUxBIMKnNS4077yJYCk7CiAgfQogIC8vIOKRoiDphY3nva7pobnkuI3lvpflpI3mtLvvvIjku6PnoIHkuI7mqKHmnb/kuKTkvqfpg73mn6XvvIkKICBhc3NlcnQub2soIWNvZGUuaW5jbHVkZXMoJ2FsbG93UHJvY2Vzc0NvbnRyb2wnKSwgJ21jcC1ob3N0LXNlcnZlci5qcyDkuI3lvpflho3or7vlj5YgYWxsb3dQcm9jZXNzQ29udHJvbCcpOwogIGNvbnN0IGV4YW1wbGUgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKHJvb3QsICdjb25maWcuZXhhbXBsZS5qc29uJyksICd1dGY4Jyk7CiAgYXNzZXJ0Lm9rKCFleGFtcGxlLmluY2x1ZGVzKCdhbGxvd1Byb2Nlc3NDb250cm9sJyksICdjb25maWcuZXhhbXBsZS5qc29uIOS4jeW+l+WGjeaPkOS+myBhbGxvd1Byb2Nlc3NDb250cm9sJyk7CiAgLy8g4pGjIOWPquivu+W3peWFt+W/hemhu+i/mOWcqO+8iOWIq+aKiuaVtOS4qiBzZXJ2ZXIg5Yig56m677yJCiAgYXNzZXJ0Lm9rKGhvc3QuaW5jbHVkZXMoIidzbm93bHVtYV9zdGF0dXMnIiksICdzbm93bHVtYV9zdGF0dXPvvIjlj6ror7vmjqLmtLvvvInlv4Xpobvkv53nlZknKTsKICAvLyDikaQg5YyF5YWD5pWw5o2u5b+F6aG75aOw5piO6K645Y+v6K+B77yI54us56uL5aSN5qC45Y+R546w5q2k5YmN57y65aSx77yJCiAgY29uc3QgcGtnID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKHJvb3QsICdwYWNrYWdlLmpzb24nKSwgJ3V0ZjgnKSk7CiAgYXNzZXJ0LmVxdWFsKHBrZy5saWNlbnNlLCAnTUlUJywgJ3BhY2thZ2UuanNvbiDlv4Xpobvlo7DmmI4gbGljZW5zZSDlrZfmrrUnKTsKICBjb25zb2xlLmxvZygnTDYgY29tcGxpYW5jZTogbm8gU25vd0x1bWEgcHJvY2VzcyBjb250cm9sLCBubyBhbGxvd1Byb2Nlc3NDb250cm9sLCBsaWNlbnNlIGRlY2xhcmVkJyk7Cn0KCnByb2Nlc3MuZXhpdENvZGUgPSBmYWlsdXJlcyA/IDEgOiAwOwo=
+// Execute both real preset plugins against a captured tools service, without DSH/QQ.
+import assert from 'node:assert/strict';
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+let failures = 0;
+for (const preset of ['qq-chat', 'qq-chat-v2']) {
+  const { apply } = await import(pathToFileURL(path.join(root, 'dsh/agent-presets', preset, 'qq-tool-restrict.mjs')).href);
+  let guard;
+  const restricted = [];
+  apply({ tools: {
+    restrict: ({ deny }) => restricted.push(...deny),
+    guard: (callback) => { guard = callback; },
+  } });
+  assert.equal(typeof guard, 'function');
+  assert.ok(restricted.includes('dev_install_package'));
+  for (const name of ['ask_user_question', 'todo_write', 'mcp__snowluma__qq_send_message',
+    'mcp__snowluma-host__snowluma_status', 'mcp__web-search-safe__web_fetch']) {
+    assert.equal(guard({ name }), undefined, `${preset}: expected allowed ${name}`);
+  }
+  for (const name of ['web_fetch', 'web_search', 'bash', 'read_file', 'dev_future_tool',
+    'mcp__untrusted__web_fetch', '', null, undefined]) {
+    try { assert.equal(typeof guard({ name }), 'string', `${preset}: must reject ${String(name)}`); }
+    catch (error) { failures++; console.error(`FAIL ${error.message}`); }
+  }
+  console.log(`${preset}: checked allowed tools and denied inherited/local/invalid tools`);
+}
+// ── state/ 权限收紧（Windows 上 mode 0o600 是空操作，必须动 ACL）的离线守卫 ──────────
+// 这里只做"结构 + 编码"级断言：真正的 icacls/UAC 行为在这个环境里跑不了（沙箱禁止改 ACL），
+// 而**假装测过**比不测更危险，所以明确只钉住下面这些不会骗人的事实。
+import fs from 'node:fs';
+{
+  const helperPath = path.join(root, 'scripts/harden-state-acl.mjs');
+  assert.ok(fs.existsSync(helperPath), 'ACL 收紧助手必须存在（start.bat 依赖它）');
+  const helper = fs.readFileSync(helperPath, 'utf8');
+  for (const needle of ['icacls', '/inheritance:r', '--elevated', 'isHardened', 'process.exit(0)']) {
+    assert.ok(helper.includes(needle), `ACL 助手应包含 ${needle}`);
+  }
+  // 失败必须降级为非阻断：任何一条 sayAlways/console.log 之后都不得以非 0 退出。
+  assert.ok(!/process\.exit\([1-9]/.test(helper), 'ACL 助手不得以非 0 退出码结束（否则会阻断启动）');
+  // 提权递归防护：被自己拉起的那一次必须跳过提权重试。
+  assert.ok(/!isElevatedRun/.test(helper), '提权重试必须被 --elevated 标记短路，防止递归');
+
+  const bat = fs.readFileSync(path.join(root, 'start.bat'));
+  const batText = bat.toString('latin1');
+  const nonAscii = [...bat].filter((b) => b > 127).length;
+  assert.equal(nonAscii, 0, 'start.bat 必须保持纯 ASCII（否则非 UTF-8 控制台会乱码）');
+  assert.equal(batText.match(/(?<!\r)\n/g)?.length ?? 0, 0, 'start.bat 必须使用 CRLF');
+  assert.ok(batText.includes('harden-state-acl.mjs'), 'start.bat 必须在启动桥接前调用 ACL 助手');
+  // 助手必须排在 node src/bridge.js 之前，否则"启动时收紧"就不成立
+  assert.ok(batText.indexOf('harden-state-acl.mjs') < batText.indexOf('node src/bridge.js'), 'ACL 助手必须先于桥接启动');
+  console.log('state ACL hardening: helper is non-blocking, recursion-guarded, and wired into start.bat');
+}
+
+// ── 合规不变量 L6：本程序**只探测、不部署** SnowLuma ────────────────────────────────
+// 依据：SnowLuma EULA §5.4（中文为准）
+//   「除事先取得著作权人的书面授权外……不得复制、修改、单独再分发或再许可该组件。
+//     将其并入第三方安装包或 Docker 镜像、**通过自动化脚本部署**，或者将其用于任何商业用途，
+//     均须事先取得书面授权。」
+// 2026-09-20：`start_snowluma` / `stop_snowluma` 与 `snowluma.allowProcessControl` 已整体移除。
+// 这条测试**防止它们（或同类能力）被无意加回来**——本项目唯一一条"删掉的功能不许复活"的约束。
+{
+  const host = fs.readFileSync(path.join(root, 'src/mcp-host-server.js'), 'utf8');
+  // ① 代码里不得再出现进程启停原语（注释中为记录原因可以提，故先剔掉纯注释行）
+  const code = host.split('\n')
+    .filter((l) => !l.trim().startsWith('//') && !l.trim().startsWith('*'))
+    .join('\n');
+  for (const bad of ['spawn(', 'taskkill', 'execFileSync', 'child_process']) {
+    assert.ok(!code.includes(bad), `mcp-host-server.js 不得再出现「${bad}」（违反 EULA §5.4 的 L6 不变量）`);
+  }
+  // ② 不得再注册这两个工具
+  for (const tool of ['start_snowluma', 'stop_snowluma']) {
+    assert.ok(!host.includes(`'${tool}'`), `不得再注册 ${tool}（EULA §5.4）`);
+  }
+  // ③ 配置项不得复活（代码与模板两侧都查）
+  assert.ok(!code.includes('allowProcessControl'), 'mcp-host-server.js 不得再读取 allowProcessControl');
+  const example = fs.readFileSync(path.join(root, 'config.example.json'), 'utf8');
+  assert.ok(!example.includes('allowProcessControl'), 'config.example.json 不得再提供 allowProcessControl');
+  // ④ 只读工具必须还在（别把整个 server 删空）
+  assert.ok(host.includes("'snowluma_status'"), 'snowluma_status（只读探活）必须保留');
+  // ⑤ 包元数据必须声明许可证（独立复核发现此前缺失）
+  const pkg = JSON.parse(fs.readFileSync(path.join(root, 'package.json'), 'utf8'));
+  assert.equal(pkg.license, 'MIT', 'package.json 必须声明 license 字段');
+  console.log('L6 compliance: no SnowLuma process control, no allowProcessControl, license declared');
+}
+
+process.exitCode = failures ? 1 : 0;

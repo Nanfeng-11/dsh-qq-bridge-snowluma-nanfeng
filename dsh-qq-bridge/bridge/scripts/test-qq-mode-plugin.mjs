@@ -1,1 +1,91 @@
-Ly8gcXEtbW9kZS1jb25zb2xlIOaPkuS7tueahOeZu+iusOacn+mdmeaAgeajgOmqjOOAggovLwovLyDpkonkvY/nmoTkuJzopb/vvIjov5nkupvmmK8gYHFxLW1vZGVgIOWRveWQjeepuumXtCoq5Y+v6K+75YaZKirnmoTlhajpg6jliY3mj5DvvIznvLrkuIDljbPlpLHotKXvvInvvJoKLy8gICDikaAgZW50cnkgaWQg5oGw5aW9562J5LqO5ZG95ZCN56m66Ze05ZCN77yI5ZyoIGNvcmRpcy5wYXRjaC55bWwg6YeM77yM5LiN5piv5o+S5Lu25qih5Z2X6YeM77yJ77ybCi8vICAg4pGhIOaPkuS7tuaooeWdl+WvvOWHuiBgQ29uZmlnYO+8jOS4lOWug+aYr+WPr+eUqOeahCBzY2hlbWFzdGVyeSBzY2hlbWHvvJsKLy8gICDikaIgYENvbmZpZ2Ag6Iez5bCR5pyJ5LiA5Liq5bimIGB2b2xhdGlsZWAg5qCH6K6w55qE5a2X5q6177yI5ZCm5YiZIHNldHRpbmdzIOWGmeWFpeS8muaKmwovLyAgICAgICJQbHVnaW4gZW50cnkgLi4uIGhhcyBubyB2b2xhdGlsZSBmaWVsZHMi77yJ77ybCi8vICAg4pGjIOaPkuS7tioq5LiN5YaNKirosIPnlKggMC4yLjAg5bey5Yig6Zmk55qEIGBjdHguc2V0dGluZ3MucmVnaXN0ZXIoKWDjgIIKLy8KLy8g5Li65LuA5LmI56ysIOKRoyDmnaHopoHmlq3oqIDvvJowLjEueCDnmoQgYHJlZ2lzdGVyKG5zLCBzY2hlbWEsIHtiYXNlLCBhcHBsaWVzfSlgIOaYr+W9k+aXtueahAovLyDms6jlhozot6/lvoTvvIwwLjIuMCDmiorlroPmlbTmnaHliKDmjonkuobvvIjlkb3lkI3nqbrpl7TmlLnkuLrku44gbG9hZGVyIGVudHJ5IOaOqOWvvO+8ieOAggovLyDml6fku6PnoIHlnKggMC4yLjAg5LiL5Lya6KKr5pep6YCA5oyh5L2P6ICM5LiN5oql6ZSZ77yMKirnnIvotbfmnaXkuIDliIfmraPluLgqKuKAlOKAlOaJgOS7peWPquaciemdmeaAgeaWreiogAovLyDog73pmLLmraLmnInkurrnhafnnYDml6fms6jph4rmiorpgqPmnaHmrbvot6/liqDlm57mnaXvvIjkuIDml6bliqDlm57vvIzml6Xlv5flsLHkvJrlvIDlp4vor7TosI7vvInjgIIKLy8KLy8g5LiN5o6l6Kem55yf5a6eIERTSCDov5vnqIvvvJvnnJ/lrp7lpZHnuqbvvIhkZXNjcmliZSDog73liJflh7ogcXEtbW9kZeOAgXVwZGF0ZSDog73lhpnmiJDlip/vvIkKLy8g55SxIHNjcmlwdHMvdmVyaWZ5LWRzaC0wMjEtYWRhcHRhdGlvbi5tanMg5Zyo5rS7IERTSCDkuIrlrp7mtYvjgIIKaW1wb3J0IGFzc2VydCBmcm9tICdub2RlOmFzc2VydC9zdHJpY3QnOwppbXBvcnQgdGVzdCBmcm9tICdub2RlOnRlc3QnOwppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGgsIHBhdGhUb0ZpbGVVUkwgfSBmcm9tICdub2RlOnVybCc7Cgpjb25zdCBST09UID0gZmlsZVVSTFRvUGF0aChuZXcgVVJMKCcuLicsIGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBQTFVHSU5fRElSID0gcGF0aC5qb2luKFJPT1QsICdwbHVnaW5zJywgJ3FxLW1vZGUtY29uc29sZScpOwpjb25zdCBOUyA9ICdxcS1tb2RlJzsKCmNvbnN0IG1vZCA9IGF3YWl0IGltcG9ydChwYXRoVG9GaWxlVVJMKHBhdGguam9pbihQTFVHSU5fRElSLCAnbGliJywgJ2luZGV4LmpzJykpLmhyZWYpOwpjb25zdCBwYXRjaFRleHQgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFBMVUdJTl9ESVIsICdjb3JkaXMucGF0Y2gueW1sJyksICd1dGY4Jyk7CmNvbnN0IHNvdXJjZSA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUExVR0lOX0RJUiwgJ2xpYicsICdpbmRleC5qcycpLCAndXRmOCcpOwoKdGVzdCgn5o+S5Lu25a+85Ye6IG5hbWUgLyBpbmplY3QgLyBDb25maWcgLyBhcHBseScsICgpID0+IHsKICBhc3NlcnQuZXF1YWwobW9kLm5hbWUsICdxcS1tb2RlLWNvbnNvbGUnKTsKICBhc3NlcnQuZGVlcEVxdWFsKG1vZC5pbmplY3QsIFsnc2V0dGluZ3MnXSwgJ2luamVjdCDlv4Xpobvlo7DmmI4gc2V0dGluZ3PvvIzlkb3lkI3nqbrpl7TmiY3pmo8gc2V0dGluZ3Mgc2VhbSDlsLHnu6onKTsKICBhc3NlcnQub2sobW9kLkNvbmZpZywgJ+W/hemhu+WvvOWHuiBDb25maWcg4oCU4oCUIDAuMi4wIOmHjOi/meWwseaYr+WRveWQjeepuumXtOeahCBzY2hlbWEg5p2l5rqQJyk7CiAgYXNzZXJ0LmVxdWFsKHR5cGVvZiBtb2QuYXBwbHksICdmdW5jdGlvbicpOwp9KTsKCnRlc3QoJ2NvcmRpcy5wYXRjaC55bWwg55qEIGVudHJ5IGlkIOaBsOWlveetieS6juWRveWQjeepuumXtOWQjScsICgpID0+IHsKICAvLyDikaAg5piv5LiJ54K55aWR57qm6YeM5pyA5a655piT5YaZ6ZSZ55qE5LiA5p2h77yaaWQg5YaZ5oiQ5o+S5Lu25YyF5ZCN77yIcXEtbW9kZS1jb25zb2xl77yJ5Lya6K6pCiAgLy8gICAgc2V0dGluZ3Mg5a6a5L2N5aSx6LSl5bm25oqbIE5vIGNvbmZpZ3VyYWJsZSBwbHVnaW4gZW50cnkgInFxLW1vZGUi44CCCiAgY29uc3QgaWRzID0gWy4uLnBhdGNoVGV4dC5tYXRjaEFsbCgvXlxzKi1ccyppZDpccyooXFMrKVxzKiQvZ20pXS5tYXAoKG0pID0+IG1bMV0pOwogIGFzc2VydC5vayhpZHMuaW5jbHVkZXMoTlMpLCBgcGF0Y2gg6YeM5bqU5pyJIGlkOiAke05Tfe+8jOWunumZhSAke2lkcy5qb2luKCcsICcpfWApOwogIGFzc2VydC5vayghaWRzLmluY2x1ZGVzKCdxcS1tb2RlLWNvbnNvbGUnKSwgJ2VudHJ5IGlkIOS4jeW6lOaYr+aPkuS7tuWMheWQjScpOwp9KTsKCnRlc3QoJ0NvbmZpZyDmmK/lj6/nlKjnmoQgc2NoZW1hc3Rlcnkgc2NoZW1h77yM5LiU5bimIHZvbGF0aWxlIOWtl+autScsICgpID0+IHsKICBjb25zdCByZXNvbHZlZCA9IG1vZC5Db25maWcoe30pOwogIGFzc2VydC5lcXVhbChyZXNvbHZlZC5tb2RlLCAncmVzZXJ2ZWQyJywgJ0NvbmZpZyDpu5jorqQgbW9kZSDlupTkuLogcmVzZXJ2ZWQyJyk7CgogIC8vIOKRoiB2b2xhdGlsZSDmoIforrDjgILms6jmhI8gc2NoZW1hc3Rlcnkg55qEIHRvSlNPTigpIOaYryoq5byV55So6KGoKirlvaLnirbvvJoKICAvLyAgICDpobblsYLlj6/og73mmK8geyB1aWQsIHJlZnM6IHsgJzx1aWQ+JzogPG5vZGU+IH0gfe+8jOecn+ato+eahCBkaWN0L+Wtl+auteWcqCByZWZzIOmHjO+8jAogIC8vICAgIOiAjOS4jeaYr+mhtuWxguebtOaOpeaMgiBkaWN044CC5omA5Lul6KaB5YWI5oqK6aG25bGCIHVpZCDop6PmnpDlm57oioLngrnjgIIKICBjb25zdCBqc29uID0gbW9kLkNvbmZpZy50b0pTT04oKTsKICBjb25zdCByZWZzID0ganNvbi5yZWZzID8/IHt9OwogIGNvbnN0IHJvb3QgPSByZWZzW1N0cmluZyhqc29uLnVpZCldID8/IGpzb247CiAgY29uc3Qgdm9sYXRpbGVGaWVsZHMgPSBbXTsKICBmb3IgKGNvbnN0IFtrZXksIG5vZGVdIG9mIE9iamVjdC5lbnRyaWVzKHJvb3QuZGljdCA/PyB7fSkpIHsKICAgIGlmIChyZWZzW1N0cmluZyhub2RlKV0/Lm1ldGE/LnZvbGF0aWxlID09PSB0cnVlKSB2b2xhdGlsZUZpZWxkcy5wdXNoKGtleSk7CiAgfQogIGFzc2VydC5vaygKICAgIHZvbGF0aWxlRmllbGRzLmxlbmd0aCA+IDAsCiAgICAnQ29uZmlnIOiHs+WwkeS4gOS4quWtl+auteW/hemhu+W4piAuZXh0cmEoXCd2b2xhdGlsZVwnLCB0cnVlKe+8jOWQpuWImSBzZXR0aW5ncyDlhpnlhaXkvJrmipsgImhhcyBubyB2b2xhdGlsZSBmaWVsZHMi77ybJwogICAgKyBg5a6e6ZmFIHZvbGF0aWxlIOWtl+aute+8miR7dm9sYXRpbGVGaWVsZHMuam9pbignLCAnKSB8fCAnKOaXoCknfWAsCiAgKTsKICBhc3NlcnQub2sodm9sYXRpbGVGaWVsZHMuaW5jbHVkZXMoJ21vZGUnKSwgYG1vZGUg5a2X5q615bqU5bimIHZvbGF0aWxl77yM5a6e6ZmF77yaJHt2b2xhdGlsZUZpZWxkcy5qb2luKCcsICcpfWApOwp9KTsKCnRlc3QoJ3NjaGVtYSDmjqXlj5flhajpg6jop4TojIMv5Y6G5Y+yIG1vZGUg5ou85YaZ77yM5ouS57ud6Z2e5rOV5YC8JywgKCkgPT4gewogIGZvciAoY29uc3QgbW9kZSBvZiBbJ2NoYXQnLCAnY2xvc2VkLWFnZW50JywgJ3Jlc2VydmVkJywgJ3Jlc2VydmVkMicsICdzaW11bGF0aW9uJ10pIHsKICAgIGFzc2VydC5lcXVhbChtb2QuQ29uZmlnKHsgbW9kZSB9KS5tb2RlLCBtb2RlLCBgJHttb2RlfSDlupTooqvmjqXlj5dgKTsKICB9CiAgYXNzZXJ0LnRocm93cygoKSA9PiBtb2QuQ29uZmlnKHsgbW9kZTogJ2JvZ3VzJyB9KSwgJ+mdnuazlSBtb2RlIOW/hemhu+iiq+aLkue7nScpOwp9KTsKCnRlc3QoJ+S4jeWGjeiwg+eUqCAwLjIuMCDlt7LliKDpmaTnmoQgY3R4LnNldHRpbmdzLnJlZ2lzdGVyJywgKCkgPT4gewogIC8vIOWPqueci+WPr+aJp+ihjOS7o+egge+8muazqOmHiumHjOS8muaPkOWIsCByZWdpc3RlciDlgZrljoblj7Lor7TmmI7jgIIKICBjb25zdCBjb2RlID0gc291cmNlCiAgICAucmVwbGFjZSgvXC9cKltcc1xTXSo/XCpcLy9nLCAnJykKICAgIC5zcGxpdCgvXHI/XG4vKS5tYXAoKGwpID0+IGwucmVwbGFjZSgvXC9cLy4qJC8sICcnKSkuam9pbignXG4nKTsKICBhc3NlcnQub2soCiAgICAhL3NldHRpbmdzXHMqXC5ccypyZWdpc3RlclxzKlwoLy50ZXN0KGNvZGUpLAogICAgJ2N0eC5zZXR0aW5ncy5yZWdpc3RlcigpIOWcqCBEU0ggMC4yLjAg5bey5LiN5a2Y5Zyo77ya6LCD55So5a6D5Lya6K6pIGFwcGx5IOaKmyBUeXBlRXJyb3LjgIInCiAgICArICflkb3lkI3nqbrpl7TnlLEgZW50cnkgaWQgKyDlr7zlh7rnmoQgQ29uZmlnIOaOqOWvvO+8jOaXoOmcgOazqOWGjOOAgicsCiAgKTsKICAvLyBjb25maWd1cmUoKSDkuZ/opoHosKjmhY7vvJphdXRvOmZhbHNlIOS8muWFs+aOieiHquWKqOiuvue9rumhteetlueVpe+8jOS4jum7mOiupOihjOS4uuebuOWPjeOAggogIGFzc2VydC5vayghL3NldHRpbmdzXHMqXC5ccypjb25maWd1cmVccypcKC8udGVzdChjb2RlKSwgJ2FwcGx5IOS4jeW6lOiwg+eUqCBzZXR0aW5ncy5jb25maWd1cmUoKScpOwp9KTsKCnRlc3QoJ2FwcGx5IOWcqOe8uuWwkSBzZXR0aW5ncyDmnI3liqHml7bkuZ/kuI3mipvvvIjpnZnpu5jpmY3nuqfvvIknLCAoKSA9PiB7CiAgYXNzZXJ0LmRvZXNOb3RUaHJvdygoKSA9PiBtb2QuYXBwbHkoe30pLCAnYXBwbHkg5b+F6aG75a655b+N5rKh5pyJIGN0eC5zZXR0aW5ncyDnmoTnjq/looMnKTsKfSk7Cg==
+// qq-mode-console 插件的登记期静态检验。
+//
+// 钉住的东西（这些是 `qq-mode` 命名空间**可读写**的全部前提，缺一即失败）：
+//   ① entry id 恰好等于命名空间名（在 cordis.patch.yml 里，不是插件模块里）；
+//   ② 插件模块导出 `Config`，且它是可用的 schemastery schema；
+//   ③ `Config` 至少有一个带 `volatile` 标记的字段（否则 settings 写入会抛
+//      "Plugin entry ... has no volatile fields"）；
+//   ④ 插件**不再**调用 0.2.0 已删除的 `ctx.settings.register()`。
+//
+// 为什么第 ④ 条要断言：0.1.x 的 `register(ns, schema, {base, applies})` 是当时的
+// 注册路径，0.2.0 把它整条删掉了（命名空间改为从 loader entry 推导）。
+// 旧代码在 0.2.0 下会被早退挡住而不报错，**看起来一切正常**——所以只有静态断言
+// 能防止有人照着旧注释把那条死路加回来（一旦加回，日志就会开始说谎）。
+//
+// 不接触真实 DSH 进程；真实契约（describe 能列出 qq-mode、update 能写成功）
+// 由 scripts/verify-dsh-021-adaptation.mjs 在活 DSH 上实测。
+import assert from 'node:assert/strict';
+import test from 'node:test';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
+const PLUGIN_DIR = path.join(ROOT, 'plugins', 'qq-mode-console');
+const NS = 'qq-mode';
+
+const mod = await import(pathToFileURL(path.join(PLUGIN_DIR, 'lib', 'index.js')).href);
+const patchText = fs.readFileSync(path.join(PLUGIN_DIR, 'cordis.patch.yml'), 'utf8');
+const source = fs.readFileSync(path.join(PLUGIN_DIR, 'lib', 'index.js'), 'utf8');
+
+test('插件导出 name / inject / Config / apply', () => {
+  assert.equal(mod.name, 'qq-mode-console');
+  assert.deepEqual(mod.inject, ['settings'], 'inject 必须声明 settings，命名空间才随 settings seam 就绪');
+  assert.ok(mod.Config, '必须导出 Config —— 0.2.0 里这就是命名空间的 schema 来源');
+  assert.equal(typeof mod.apply, 'function');
+});
+
+test('cordis.patch.yml 的 entry id 恰好等于命名空间名', () => {
+  // ① 是三点契约里最容易写错的一条：id 写成插件包名（qq-mode-console）会让
+  //    settings 定位失败并抛 No configurable plugin entry "qq-mode"。
+  const ids = [...patchText.matchAll(/^\s*-\s*id:\s*(\S+)\s*$/gm)].map((m) => m[1]);
+  assert.ok(ids.includes(NS), `patch 里应有 id: ${NS}，实际 ${ids.join(', ')}`);
+  assert.ok(!ids.includes('qq-mode-console'), 'entry id 不应是插件包名');
+});
+
+test('Config 是可用的 schemastery schema，且带 volatile 字段', () => {
+  const resolved = mod.Config({});
+  assert.equal(resolved.mode, 'reserved2', 'Config 默认 mode 应为 reserved2');
+
+  // ③ volatile 标记。注意 schemastery 的 toJSON() 是**引用表**形状：
+  //    顶层可能是 { uid, refs: { '<uid>': <node> } }，真正的 dict/字段在 refs 里，
+  //    而不是顶层直接挂 dict。所以要先把顶层 uid 解析回节点。
+  const json = mod.Config.toJSON();
+  const refs = json.refs ?? {};
+  const root = refs[String(json.uid)] ?? json;
+  const volatileFields = [];
+  for (const [key, node] of Object.entries(root.dict ?? {})) {
+    if (refs[String(node)]?.meta?.volatile === true) volatileFields.push(key);
+  }
+  assert.ok(
+    volatileFields.length > 0,
+    'Config 至少一个字段必须带 .extra(\'volatile\', true)，否则 settings 写入会抛 "has no volatile fields"；'
+    + `实际 volatile 字段：${volatileFields.join(', ') || '(无)'}`,
+  );
+  assert.ok(volatileFields.includes('mode'), `mode 字段应带 volatile，实际：${volatileFields.join(', ')}`);
+});
+
+test('schema 接受全部规范/历史 mode 拼写，拒绝非法值', () => {
+  for (const mode of ['chat', 'closed-agent', 'reserved', 'reserved2', 'simulation']) {
+    assert.equal(mod.Config({ mode }).mode, mode, `${mode} 应被接受`);
+  }
+  assert.throws(() => mod.Config({ mode: 'bogus' }), '非法 mode 必须被拒绝');
+});
+
+test('不再调用 0.2.0 已删除的 ctx.settings.register', () => {
+  // 只看可执行代码：注释里会提到 register 做历史说明。
+  const code = source
+    .replace(/\/\*[\s\S]*?\*\//g, '')
+    .split(/\r?\n/).map((l) => l.replace(/\/\/.*$/, '')).join('\n');
+  assert.ok(
+    !/settings\s*\.\s*register\s*\(/.test(code),
+    'ctx.settings.register() 在 DSH 0.2.0 已不存在：调用它会让 apply 抛 TypeError。'
+    + '命名空间由 entry id + 导出的 Config 推导，无需注册。',
+  );
+  // configure() 也要谨慎：auto:false 会关掉自动设置页策略，与默认行为相反。
+  assert.ok(!/settings\s*\.\s*configure\s*\(/.test(code), 'apply 不应调用 settings.configure()');
+});
+
+test('apply 在缺少 settings 服务时也不抛（静默降级）', () => {
+  assert.doesNotThrow(() => mod.apply({}), 'apply 必须容忍没有 ctx.settings 的环境');
+});

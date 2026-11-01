@@ -1,1 +1,288 @@
-Ly8gVG9rZW4g55So6YeP6LSm5pysICsg5Lu355uu6KGo5rWL6K+V44CCCi8vCi8vIOimhueblueCue+8iOavj+S4gOadoemDveWvueW6lOS4gOS4quabvue7j+WuueaYk+WGmemUmeeahOWcsOaWue+8ie+8mgovLyAxLiDls7DosLfliIbml7bliKTlrprmjInljJfkuqzml7bpl7TvvIzkuJTmjpLpmaTkuK3lm73ms5XlrproioLlgYfml6XvvJsKLy8gMi4g5Zub5Liq6K6h6LS55qG25LqS5LiN6YeN5Y+g77yM6YeR6aKdID0gzqMo5qG2IHRva2VuIMOXIOWNleS7tynvvJsKLy8gMy4g5pyq55+l5qih5Z6L6LWw5YWc5bqV5Lu35bm25qCH6K6wIGVzdGltYXRlZO+8mwovLyA0LiDlkIzkuIAgKHR1cm4sIHN0ZXAsIHJldHJ5KSDnmoTph4fmoLfjgIzlkI7liLDopobnm5blhYjliLDjgI3vvIzkuI3mmK/ntK/liqDvvJsKLy8gNS4g6YeN6L+e6YeN5pS+5ZCM5LiA5om5IHNuYXBzaG90IOiusOW9leS4jeS8muiuqeeUqOmHj+e/u+WAje+8iOW5guetie+8ie+8mwovLyA2LiBgbGxtL3JldHJ5LXN0YXJ0ZWRgIOS5i+WQjuWQjOS4gOatpemqpOeahOesrOS6jOasoeivt+axguWPpueul+S4gOasoe+8mwovLyA3LiDmnYPlqIHmgLvph48gPSDmipXlvbHln7rnur8gKyDln7rnur/kuYvlkI4gc2VxIOeahOWinumHj++8mwovLyA4LiDpgJDova7mmI7nu4bkuI7jgIzmnKrpgJDova7lvZLlsZ7jgI3lt67pop3oh6rmtL3vvJsKLy8gOS4g5Y2K6KGM77yI6L+b56iL5Lit5pat77yJ5LiN5Lya6K6p5pW05Liq6LSm5pys6K+75LiN5Ye65p2l77ybCi8vIDEwLiDml6Xlv5fooYzmlbDotoXkuIrpmZDkvJrljovnvKnph43lhpnkuJTkuI3kuKLmlbDmja7jgIIKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgb3MgZnJvbSAnbm9kZTpvcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7CiAgREVGQVVMVF9QUklDRV9UQUJMRSwKICBDTl9IT0xJREFZU18yMDI2LAogIGJlaWppbmdQYXJ0cywKICBjb3N0T2ZCdWNrZXRzLAogIGlzUGVha0F0LAogIG5vcm1hbGl6ZVVzYWdlLAogIHByaWNlVXNhZ2UsCiAgcmF0ZXNBdCwKICByZXNvbHZlUHJpY2VUYWJsZSwKICB0b3RhbFRva2Vuc09mCn0gZnJvbSAnLi4vc3JjL21vZGVsLXByaWNlcy5qcyc7CmltcG9ydCB7IGNyZWF0ZVRva2VuTGVkZ2VyLCB1c2FnZU9mRXZlbnQsIHVzYWdlRnJvbVN0cmVhbSB9IGZyb20gJy4uL3NyYy90b2tlbi1sZWRnZXIuanMnOwoKbGV0IGZhaWxlZCA9IDA7CmZ1bmN0aW9uIGFzc2VydChjb25kLCBsYWJlbCkgewogIGlmIChjb25kKSBjb25zb2xlLmxvZyhg4pyFICR7bGFiZWx9YCk7CiAgZWxzZSB7IGNvbnNvbGUuZXJyb3IoYOKdjCAke2xhYmVsfWApOyBmYWlsZWQgPSAxOyB9Cn0KZnVuY3Rpb24gbmVhcihhLCBiLCBlcHMgPSAxZS05KSB7IHJldHVybiBNYXRoLmFicyhhIC0gYikgPD0gZXBzOyB9Cgpjb25zdCB0bXBEaXIgPSBmcy5ta2R0ZW1wU3luYyhwYXRoLmpvaW4ob3MudG1wZGlyKCksICdxcS10b2tlbi1sZWRnZXItJykpOwpjb25zdCBsZWRnZXJGaWxlID0gcGF0aC5qb2luKHRtcERpciwgJ3Rva2VuLXVzYWdlLmpzb25sJyk7CmZ1bmN0aW9uIGZyZXNoTGVkZ2VyKG9wdHMgPSB7fSkgewogIHRyeSB7IGZzLnVubGlua1N5bmMobGVkZ2VyRmlsZSk7IH0gY2F0Y2gge30KICByZXR1cm4gY3JlYXRlVG9rZW5MZWRnZXIoeyBmaWxlOiBsZWRnZXJGaWxlLCBwcmljZVRhYmxlOiBERUZBVUxUX1BSSUNFX1RBQkxFLCAuLi5vcHRzIH0pOwp9CgovLyDilIDilIAgMS4g5bOw6LC35YiG5pe2IOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLyDljJfkuqzml7bpl7QgPSBVVEMrOOOAgjIwMjYtMDMtMDIg5piv5ZGo5LiA44CCCmNvbnN0IG1vbiA9IChoaG1tKSA9PiBEYXRlLnBhcnNlKGAyMDI2LTAzLTAyVCR7aGhtbX06MDArMDg6MDBgKTsKYXNzZXJ0KGJlaWppbmdQYXJ0cyhtb24oJzEwOjAwJykpLndlZWtkYXkgPT09IDEsICcyMDI2LTAzLTAyIOaYr+WRqOS4gCcpOwphc3NlcnQoaXNQZWFrQXQobW9uKCcxMDowMCcpKSA9PT0gdHJ1ZSwgJ+WRqOS4gCAxMDowMCDlsZ7pq5jls7Dml7bmrrUnKTsKYXNzZXJ0KGlzUGVha0F0KG1vbignMTM6MDAnKSkgPT09IGZhbHNlLCAn5ZGo5LiAIDEzOjAw77yI5Y2I5LyR77yJ5bGe56m66Zey5pe25q61Jyk7CmFzc2VydChpc1BlYWtBdChtb24oJzE1OjAwJykpID09PSB0cnVlLCAn5ZGo5LiAIDE1OjAwIOWxnumrmOWzsOaXtuautScpOwphc3NlcnQoaXNQZWFrQXQobW9uKCcwODo1OScpKSA9PT0gZmFsc2UsICflkajkuIAgMDg6NTkg5bGe56m66Zey5pe25q61Jyk7CmFzc2VydChpc1BlYWtBdChtb24oJzEyOjAwJykpID09PSBmYWxzZSwgJ+eql+WPo+S4uuWNiuW8gOWMuumXtO+8mjEyOjAwIOW3suS4jeWcqOmrmOWzsCcpOwphc3NlcnQoaXNQZWFrQXQobW9uKCcxODowMCcpKSA9PT0gZmFsc2UsICfnqpflj6PkuLrljYrlvIDljLrpl7TvvJoxODowMCDlt7LkuI3lnKjpq5jls7AnKTsKLy8g5ZGo5YWt77yIMjAyNi0wMy0wN++8ieWFqOWkqeepuumXsgphc3NlcnQoaXNQZWFrQXQoRGF0ZS5wYXJzZSgnMjAyNi0wMy0wN1QxMDowMDowMCswODowMCcpKSA9PT0gZmFsc2UsICflkajlha0gMTA6MDAg5bGe56m66Zey5pe25q61Jyk7Ci8vIOiKguWBh+aXpe+8mjIwMjYtMTAtMDEg5piv5ZGo5Zub77yM5L2G5bGe5Zu95bqG5YGH5pyfIOKGkiDnqbrpl7IKYXNzZXJ0KGJlaWppbmdQYXJ0cyhEYXRlLnBhcnNlKCcyMDI2LTEwLTAxVDEwOjAwOjAwKzA4OjAwJykpLndlZWtkYXkgPT09IDQsICcyMDI2LTEwLTAxIOaYr+WRqOWbmycpOwphc3NlcnQoaXNQZWFrQXQoRGF0ZS5wYXJzZSgnMjAyNi0xMC0wMVQxMDowMDowMCswODowMCcpKSA9PT0gZmFsc2UsICflm73luoboioLvvIjlkajlm5vvvIkxMDowMCDlsZ7nqbrpl7Lml7bmrrUnKTsKLy8g5pil6IqC5q61CmFzc2VydChpc1BlYWtBdChEYXRlLnBhcnNlKCcyMDI2LTAyLTE3VDEwOjAwOjAwKzA4OjAwJykpID09PSBmYWxzZSwgJ+aYpeiKgu+8iOWRqOS6jO+8iTEwOjAwIOWxnuepuumXsuaXtuautScpOwovLyDoioLlgYfml6XooajnmoTovrnnlYzkuI3lupTor6/kvKTnm7jpgrvlt6XkvZzml6UKYXNzZXJ0KGlzUGVha0F0KERhdGUucGFyc2UoJzIwMjYtMTAtMDhUMTA6MDA6MDArMDg6MDAnKSkgPT09IHRydWUsICcyMDI2LTEwLTA477yI6IqC5ZCO5ZGo5Zub77yJMTA6MDAg5oGi5aSN6auY5bOwJyk7CmFzc2VydChDTl9IT0xJREFZU18yMDI2Lmxlbmd0aCA9PT0gMzMsIGAyMDI2IOazleWumuiKguWBh+aXpeWFsSAzMyDlpKnvvIjlrp7lvpcgJHtDTl9IT0xJREFZU18yMDI2Lmxlbmd0aH3vvIlgKTsKCi8vIOKUgOKUgCAyLiDljZXku7fkuI7ph5Hpop0g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmNvbnN0IG9mZlJhdGVzID0gcmF0ZXNBdCgnZGVlcHNlZWstZmxhc2gnLCBtb24oJzIwOjAwJyksIERFRkFVTFRfUFJJQ0VfVEFCTEUpOwpjb25zdCBwZWFrUmF0ZXMgPSByYXRlc0F0KCdkZWVwc2Vlay1mbGFzaCcsIG1vbignMTA6MDAnKSwgREVGQVVMVF9QUklDRV9UQUJMRSk7CmFzc2VydChvZmZSYXRlcy50aWVyID09PSAnb2ZmJyAmJiBwZWFrUmF0ZXMudGllciA9PT0gJ3BlYWsnLCAn5ZCM5LiA5qih5Z6L5bOw6LC35qGj5L2N5Yik5a6a5q2j56GuJyk7CmFzc2VydChuZWFyKHBlYWtSYXRlcy5jYWNoZU1pc3MsIG9mZlJhdGVzLmNhY2hlTWlzcyAqIDIpLCAn6auY5bOw5Y2V5Lu35Li656m66Zey5Y2V5Lu355qEIDIg5YCNJyk7CmFzc2VydChuZWFyKG9mZlJhdGVzLmNhY2hlSGl0LCAwLjAyKSAmJiBuZWFyKG9mZlJhdGVzLmNhY2hlTWlzcywgMSkgJiYgbmVhcihvZmZSYXRlcy5vdXRwdXQsIDQpLCAnZmxhc2gg56m66Zey5Y2V5Lu35LiO5a6Y5pa55LiA6Ie077yIMC4wMi8xLzTvvIknKTsKCi8vIDEwMCDkuIcgdG9rZW4g5ZCE5qG2IOKGkiDmraPlpb3nrYnkuo7ljZXku7cKY29uc3QgY29zdDFNID0gY29zdE9mQnVja2V0cyh7IGNhY2hlSGl0OiAxZTYsIGNhY2hlTWlzczogMWU2LCBjYWNoZVdyaXRlOiAwLCBvdXRwdXQ6IDFlNiB9LCBvZmZSYXRlcyk7CmFzc2VydChuZWFyKGNvc3QxTS5jYWNoZUhpdCwgMC4wMikgJiYgbmVhcihjb3N0MU0uY2FjaGVNaXNzLCAxKSAmJiBuZWFyKGNvc3QxTS5vdXRwdXQsIDQpLCAn5qG26K6h5Lu3ID0g5Y2V5Lu3IMOXIOeZvuS4hyB0b2tlbicpOwphc3NlcnQobmVhcihjb3N0MU0udG90YWwsIDUuMDIpLCAn5ZCI6K6hID0g5YiG6aG55LmL5ZKMJyk7CgovLyDmobbkupLkuI3ph43lj6DvvJpub3JtYWxpemVVc2FnZSDkuI3og73mioogY2FjaGVSZWFkIOS5n+eul+i/m+acquWRveS4rQpjb25zdCBub3JtID0gbm9ybWFsaXplVXNhZ2UoeyBpbnB1dFRva2VuczogMTAwLCBvdXRwdXRUb2tlbnM6IDEwLCBjYWNoZVJlYWRUb2tlbnM6IDkwMCwgY2FjaGVXcml0ZVRva2VuczogNSB9KTsKYXNzZXJ0KG5vcm0uY2FjaGVNaXNzID09PSAxMDAgJiYgbm9ybS5jYWNoZUhpdCA9PT0gOTAwICYmIG5vcm0uY2FjaGVXcml0ZSA9PT0gNSAmJiBub3JtLm91dHB1dCA9PT0gMTAsCiAgJ25vcm1hbGl6ZVVzYWdlIOWbm+ahtuS6kuS4jemHjeWPoO+8iGlucHV0VG9rZW5zIOWPqueul+acquWRveS4re+8iScpOwphc3NlcnQodG90YWxUb2tlbnNPZihub3JtKSA9PT0gMTAxNSwgJ3Rva2VuIOaAu+mHjyA9IOWbm+ahtuS5i+WSjCcpOwoKLy8g4pSA4pSAIDMuIOacquefpeaooeWei+WFnOW6lSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKY29uc3QgdW5rbm93biA9IHJhdGVzQXQoJ3NvbWUtZnV0dXJlLW1vZGVsJywgbW9uKCcxMDowMCcpLCBERUZBVUxUX1BSSUNFX1RBQkxFKTsKYXNzZXJ0KHVua25vd24uZXN0aW1hdGVkID09PSB0cnVlLCAn5pyq55+l5qih5Z6L5qCH6K6wIGVzdGltYXRlZCcpOwphc3NlcnQobmVhcih1bmtub3duLmNhY2hlTWlzcywgMiksICfmnKrnn6XmqKHlnovmjIkgZmxhc2gg5YWc5bqV77yI6auY5bOw5pyfIDHDlzLvvIknKTsKY29uc3QgdGJsID0gcmVzb2x2ZVByaWNlVGFibGUoeyBtb2RlbHM6IHsgJ215LW1vZGVsJzogeyBsYWJlbDogJ+iHquWumuS5iScsIG9mZjogeyBjYWNoZUhpdDogMC41LCBjYWNoZU1pc3M6IDMsIG91dHB1dDogOSB9IH0gfSB9KTsKYXNzZXJ0KHRibC5tb2RlbHNbJ215LW1vZGVsJ10ub2ZmLmNhY2hlV3JpdGUgPT09IDMsICfoh6rlrprkuYnmqKHlnovmnKrnu5kgY2FjaGVXcml0ZSDml7bot5/pmo8gY2FjaGVNaXNzJyk7CmFzc2VydCh0YmwubW9kZWxzWydkZWVwc2Vlay1mbGFzaCddLm9mZi5jYWNoZU1pc3MgPT09IDEsICfoh6rlrprkuYnopobnm5bkuI3lvbHlk43lhoXnva7mqKHlnosnKTsKCi8vIOKUgOKUgCA0fjguIOi0puacrOaKmOWPoOivreS5iSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKY29uc3QgdXNhZ2UgPSAoaW5wdXRUb2tlbnMsIG91dHB1dFRva2VucywgY2FjaGVSZWFkVG9rZW5zID0gMCwgZXh0cmEgPSB7fSkgPT4KICAoeyBpbnB1dFRva2Vucywgb3V0cHV0VG9rZW5zLCBjYWNoZVJlYWRUb2tlbnMsIC4uLmV4dHJhIH0pOwovLyDimqDvuI8gYHRpbWVgIOW/hemhu+aYvuW8j+e7me+8mui0puacrOWvuSoq5rKh5pyJ5pe26Ze05oizKirnmoTph4fmoLfkvJrlm57pgIDliLAgYG5vdygpYO+8jAovLyDogIwgYG5vdygpYCDokL3lnKjpq5jls7Dml7bmrrXvvIjlkajkuIDoh7PlkajkupQgOTowMC0xMjowMOOAgTE0OjAwLTE4OjAw77yJ5pe25Y2V5Lu35pivIDIg5YCNCi8vIOKHkiDov5nkuKrmtYvor5XkvJrpmo8i6LeR5rWL6K+V55qE5pe25Yi7IuaXtue6ouaXtue7v++8iOWunua1i++8muWRqOS4gCAxNzoyOSDkvJrlpLHotKXvvIwxMjowMC0xNjowMCDpgJrov4fvvInjgIIKLy8g6L+Z6YeM57uf5LiA6ZKJ5Yiw5LiL6Z2i55qEIGBhdGDvvIjlkajkuIAgMjA6MDDvvIznqbrpl7LmoaPvvInvvIzorqnmnJ/mnJvlgLzkuI7ku7vkvZXot5HmtYvor5XnmoTml7bliLvml6DlhbPjgIIKY29uc3QgYXQgPSBtb24oJzIwOjAwJyk7CmNvbnN0IGV2TXNnID0gKHNlcSwgdHVybiwgc3RlcCwgdSkgPT4gKHsgc2VxLCB0aW1lOiBhdCwgdHlwZTogJ2Fzc2lzdGFudC9tZXNzYWdlJywgZGF0YTogeyB0dXJuLCBzdGVwLCB1c2FnZTogdSB9IH0pOwpjb25zdCBldlJldHJ5ID0gKHNlcSwgdHVybiwgc3RlcCwgcmV0cnkpID0+ICh7IHNlcSwgdGltZTogYXQsIHR5cGU6ICdsbG0vcmV0cnktc3RhcnRlZCcsIGRhdGE6IHsgdHVybiwgc3RlcCwgcmV0cnkgfSB9KTsKCmxldCBsZWRnZXIgPSBmcmVzaExlZGdlcih7IHJlc29sdmVLZXk6IChzaWQpID0+IChzaWQgPT09ICdzMScgPyAnZ3JvdXA6MTAwJyA6IHVuZGVmaW5lZCkgfSk7CgovLyDmtYHlvI/ph4fmoLcg4oaSIOacgOe7iOe7k+eul+W6lOimhueblu+8jOiAjOS4jeaYr+e0r+WKoApsZWRnZXIuaW5nZXN0RXZlbnQoeyBzZXNzaW9uSWQ6ICdzMScsIGV2ZW50OiB7IHNlcTogMTAsIHRpbWU6IGF0LCB0eXBlOiAnYXNzaXN0YW50L2F0dGVtcHQnLCBkYXRhOiB7IHR1cm46IDEsIHN0ZXA6IDEsIHN0cmVhbTogW3sgdXNhZ2U6IHVzYWdlKDEwMDAsIDUwLCAwKSB9XSB9IH0gfSk7CmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDExLCAxLCAxLCB1c2FnZSgxMjAwLCA4MCwgNDAwMCkpIH0pOwpsZXQgY29udiA9IGxlZGdlci5jb252ZXJzYXRpb24oJ2dyb3VwOjEwMCcpOwphc3NlcnQoY29udi50dXJucy5sZW5ndGggPT09IDEsICflkIzkuIAgKHR1cm4sIHN0ZXApIOWPquacieS4gOihjOmAkOi9ruaYjue7hu+8iOa1geW8j+iiq+e7k+eul+imhueblu+8iScpOwphc3NlcnQoY29udi50dXJuc1swXS5idWNrZXRzLmNhY2hlTWlzcyA9PT0gMTIwMCAmJiBjb252LnR1cm5zWzBdLmJ1Y2tldHMub3V0cHV0ID09PSA4MCwKICAn6KaG55uW6K+t5LmJ77ya5L+d55WZ5pyA57uI57uT566X5YC8IDEyMDAvODAnKTsKYXNzZXJ0KGNvbnYudHVybnNbMF0uc3RlcHMgPT09IDEsICdzdGVwcyDorqHkuLror6Xlm57lkIjnmoTph4fmoLfmnaHmlbDvvIgx77yJJyk7CgovLyDlkIzlm57lkIjnrKzkuozkuKogc3RlcCDntK/liqAKbGVkZ2VyLmluZ2VzdEV2ZW50KHsgc2Vzc2lvbklkOiAnczEnLCBldmVudDogZXZNc2coMTIsIDEsIDIsIHVzYWdlKDMwMCwgMjAsIDEwMCkpIH0pOwpjb252ID0gbGVkZ2VyLmNvbnZlcnNhdGlvbignZ3JvdXA6MTAwJyk7CmFzc2VydChjb252LnR1cm5zWzBdLnN0ZXBzID09PSAyLCAn5ZCM5Zue5ZCI56ysIDIg5LiqIHN0ZXAg6K6h5YWl5ZCM5LiA6KGMJyk7CmFzc2VydChjb252LnR1cm5zWzBdLmJ1Y2tldHMuY2FjaGVNaXNzID09PSAxNTAwICYmIGNvbnYudHVybnNbMF0uYnVja2V0cy5vdXRwdXQgPT09IDEwMCwgJ+WQjOWbnuWQiOi3qCBzdGVwIOe0r+WKoCcpOwphc3NlcnQoY29udi50dXJucy5sZW5ndGggPT09IDEsICfkuKTkuKogc3RlcCDku43mmK/lkIzkuIDova7lr7nor50nKTsKCi8vIOmHjei/numHjeaUvu+8muWQjCBzZXEg5ZCM5YaF5a655LiN5b6X57+75YCNCmNvbnN0IGJlZm9yZSA9IGxlZGdlci5yZWNlbnQoNTApLmxlbmd0aDsKbGVkZ2VyLmluZ2VzdEV2ZW50KHsgc2Vzc2lvbklkOiAnczEnLCBldmVudDogZXZNc2coMTEsIDEsIDEsIHVzYWdlKDEyMDAsIDgwLCA0MDAwKSkgfSk7CmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDEyLCAxLCAyLCB1c2FnZSgzMDAsIDIwLCAxMDApKSB9KTsKYXNzZXJ0KGxlZGdlci5yZWNlbnQoNTApLmxlbmd0aCA9PT0gYmVmb3JlLCAn6YeN6L+e6YeN5pS+5ZCM5qC355qE5LqL5Lu25LiN5paw5aKe6YeH5qC377yI5bmC562J77yJJyk7CmNvbnYgPSBsZWRnZXIuY29udmVyc2F0aW9uKCdncm91cDoxMDAnKTsKYXNzZXJ0KGNvbnYudHVybnNbMF0uYnVja2V0cy5jYWNoZU1pc3MgPT09IDE1MDAsICfph43mlL7lkI7nlKjph4/kuI3nv7vlgI0nKTsKCi8vIOaXp+W/q+eFp+S4jeW+l+imhuebluaWsOaVsOaNru+8mnNlcSDmm7Tml6fjgIHku6Xlj4ogc2VxIOebuOetieS9huWGheWuueS4jeWQjO+8jOmDveW/hemhu+iiq+aLkue7nQpsZWRnZXIuaW5nZXN0RXZlbnQoeyBzZXNzaW9uSWQ6ICdzMScsIGV2ZW50OiBldk1zZyg1LCAxLCAxLCB1c2FnZSgxLCAxLCAwKSkgfSk7CmNvbnYgPSBsZWRnZXIuY29udmVyc2F0aW9uKCdncm91cDoxMDAnKTsKYXNzZXJ0KGNvbnYudHVybnNbMF0uYnVja2V0cy5jYWNoZU1pc3MgPT09IDE1MDAsICdzZXEg5pu05pen55qE6YeH5qC36KKr5ouS57ud77yI5LiN5Zue6YCA77yJJyk7CmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDExLCAxLCAxLCB1c2FnZSgxLCAxLCAwKSkgfSk7CmNvbnYgPSBsZWRnZXIuY29udmVyc2F0aW9uKCdncm91cDoxMDAnKTsKYXNzZXJ0KGNvbnYudHVybnNbMF0uYnVja2V0cy5jYWNoZU1pc3MgPT09IDE1MDAsICdzZXEg55u4562J5L2G5YaF5a655LiN5ZCM55qE6YeH5qC36KKr5ouS57ud77yI5Y+q5L+h5Lil5qC85pu05paw55qEIHNlce+8iScpOwoKLy8g6YeN6K+V6L2077ya5ZCM5LiA5q2l6aqk55qE56ys5LqM5qyh6K+35rGC5Y+m566XCmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDIwLCAyLCAxLCB1c2FnZSg1MDAsIDEwLCAwKSkgfSk7CmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2UmV0cnkoMjEsIDIsIDEsIDEpIH0pOwpsZWRnZXIuaW5nZXN0RXZlbnQoeyBzZXNzaW9uSWQ6ICdzMScsIGV2ZW50OiBldk1zZygyMiwgMiwgMSwgdXNhZ2UoNjAwLCAxMiwgMCkpIH0pOwpjb252ID0gbGVkZ2VyLmNvbnZlcnNhdGlvbignZ3JvdXA6MTAwJyk7CmNvbnN0IHQyID0gY29udi50dXJucy5maW5kKChyKSA9PiByLnR1cm4gPT09IDIpOwphc3NlcnQodDIuYnVja2V0cy5jYWNoZU1pc3MgPT09IDExMDAgJiYgdDIuYnVja2V0cy5vdXRwdXQgPT09IDIyLCAnbGxtL3JldHJ5LXN0YXJ0ZWQg5LmL5ZCO5ZCM5LiAIHN0ZXAg55qE56ys5LqM5qyh6K+35rGC5Y+m566X5LiA5qyhJyk7CmFzc2VydCh0Mi5hdHRlbXB0cyA9PT0gMSwgJ+mHjeivleasoeaVsOiiq+iusOW9lScpOwoKLy8g5Z+657q/77ya5p2D5aiB5oC76YePID0g5Z+657q/ICsg5Z+657q/5LmL5ZCO55qE5aKe6YePCmxlZGdlciA9IGZyZXNoTGVkZ2VyKHsgcmVzb2x2ZUtleTogKCkgPT4gJ2dyb3VwOjEwMCcgfSk7CmxlZGdlci5pbmdlc3RCYXNlbGluZSh7IHNlc3Npb25JZDogJ3MxJywgcHJvamVjdGlvbjogeyBhc09mU2VxOiAxMDAsIHZhbHVlczogeyB0b2tlblVzYWdlOiB7IHVuY2FjaGVkSW5wdXRUb2tlbnM6IDUwMDAsIG91dHB1dFRva2VuczogNTAwLCBjYWNoZVJlYWRUb2tlbnM6IDUwMDAwLCBjYWNoZVdyaXRlVG9rZW5zOiAwIH0gfSB9LCBhdDogbW9uKCcyMDowMCcpLCBtb2RlbDogJ2RlZXBzZWVrLWZsYXNoJyB9KTsKLy8gc2VxIDw9IDEwMCDnmoTph4fmoLflsZ7kuo7ln7rnur/ojIPlm7TvvIzlj6rov5vpgJDova7mmI7nu4bjgIHkuI3lho3orqHlhaXmgLvph48KbGVkZ2VyLmluZ2VzdEV2ZW50KHsgc2Vzc2lvbklkOiAnczEnLCBldmVudDogZXZNc2coODAsIDEsIDEsIHVzYWdlKDUwMDAsIDUwMCwgNTAwMDApKSB9KTsKLy8gc2VxID4gMTAwIOeahOmHh+agt+aYr+WinumHjwpsZWRnZXIuaW5nZXN0RXZlbnQoeyBzZXNzaW9uSWQ6ICdzMScsIGV2ZW50OiBldk1zZygxMjAsIDIsIDEsIHVzYWdlKDEwMDAsIDEwMCwgMCkpIH0pOwpsZXQgc3VtID0gbGVkZ2VyLnN1bW1hcnkoKTsKbGV0IGMgPSBzdW0uY29udmVyc2F0aW9ucy5maW5kKCh4KSA9PiB4LmtleSA9PT0gJ2dyb3VwOjEwMCcpOwphc3NlcnQoYy5idWNrZXRzLmNhY2hlTWlzcyA9PT0gNjAwMCwgJ+adg+WogeaAu+mHjyA9IOWfuue6vyA1MDAwICsg5aKe6YePIDEwMDAnKTsKYXNzZXJ0KGMuYnVja2V0cy5jYWNoZUhpdCA9PT0gNTAwMDAsICfln7rnur/lkb3kuK3ph4/orqHlhaXmgLvph48nKTsKYXNzZXJ0KGMuYnVja2V0cy5vdXRwdXQgPT09IDYwMCwgJ+Wfuue6v+i+k+WHuuiuoeWFpeaAu+mHjycpOwpjb25zdCBleHBlY3RDb3N0ID0gKDUwMDAgLyAxZTYpICogMSArICg1MDAwMCAvIDFlNikgKiAwLjAyICsgKDUwMCAvIDFlNikgKiA0ICsgKDEwMDAgLyAxZTYpICogMSArICgxMDAgLyAxZTYpICogNDsKYXNzZXJ0KG5lYXIoYy5jb3N0LCBleHBlY3RDb3N0LCAxZS05KSwgYOiKsei0uSA9IOWfuue6vyArIOWinumHj++8jOWunuW+lyAke2MuY29zdC50b0ZpeGVkKDgpfSDmnJ/mnJsgJHtleHBlY3RDb3N0LnRvRml4ZWQoOCl9YCk7CmFzc2VydChjLnR1cm5zID09PSAyLCAn5Z+657q/6IyD5Zu05YaF55qE5Zue5ZCI5LuN5Ye6546w5Zyo6YCQ6L2u5piO57uG6YeM77yI5YWxIDIg6L2u77yJJyk7CmFzc2VydChuZWFyKGMudW5hdHRyaWJ1dGVkQ29zdCwgTWF0aC5tYXgoMCwgYy5jb3N0IC0gYy5hdHRyaWJ1dGVkQ29zdCksIDFlLTkpLCAn5pyq6YCQ6L2u5b2S5bGe5beu6aKd6Ieq5rS9Jyk7CmFzc2VydChuZWFyKHN1bS50b3RhbHMuY29zdCwgYy5jb3N0LCAxZS05KSwgJ+WFqOWxgOWQiOiuoSA9IOWQhOS8muivneS5i+WSjCcpOwphc3NlcnQoc3VtLnRvdGFscy5jYWNoZUhpdFJhdGUgPiAwLjg1LCBg57yT5a2Y5ZG95Lit546H5oyJ6L6T5YWl5qG26K6h566X77yIJHsoc3VtLnRvdGFscy5jYWNoZUhpdFJhdGUgKiAxMDApLnRvRml4ZWQoMSl9Je+8iWApOwoKLy8g5bOw6LC35re3566X77ya5ZCM5LiA5Lya6K+d5YaF6auY5bOw5LiO56m66Zey55qE6YeH5qC35ZCE5oyJ5ZCE55qE5qGj5L2NCmxlZGdlciA9IGZyZXNoTGVkZ2VyKHsgcmVzb2x2ZUtleTogKCkgPT4gJ2dyb3VwOjEwMCcgfSk7CmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDEwLCAxLCAxLCB1c2FnZSgxZTYsIDFlNiwgMCkpLCBhdDogbW9uKCcxMDowMCcpIH0pOyAvLyDpq5jls7DvvJoxICsgNCDihpIgw5cyCmxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDIwLCAyLCAxLCB1c2FnZSgxZTYsIDFlNiwgMCkpLCBhdDogbW9uKCcyMDowMCcpIH0pOyAvLyDnqbrpl7LvvJoxICsgNApjID0gbGVkZ2VyLnN1bW1hcnkoKS5jb252ZXJzYXRpb25zWzBdOwphc3NlcnQobmVhcihjLmNvc3QsICgxICsgNCkgKiAyICsgKDEgKyA0KSksIGDls7DosLfliIbml7borqHku7fvvJrpq5jls7Dova4gwqUxMCArIOepuumXsui9riDCpTUgPSDCpTE177yI5a6e5b6XICR7Yy5jb3N0fe+8iWApOwphc3NlcnQobmVhcihjLmJ5VGllci5wZWFrLCAxMCkgJiYgbmVhcihjLmJ5VGllci5vZmYsIDUpLCAn6auY5bOw5pyfL+epuumXsuacn+iKsei0ueWIhuW8gOe7n+iuoScpOwoKLy8g4pSA4pSAIDkuIOWNiuihjOWuuemUmSDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKZnMuYXBwZW5kRmlsZVN5bmMobGVkZ2VyRmlsZSwgJ3siayI6InR1cm4iLCJzaWQiOiJzMSIsInR1cm4iOjksInN0ZScsICd1dGY4Jyk7CmxlZGdlciA9IGNyZWF0ZVRva2VuTGVkZ2VyKHsgZmlsZTogbGVkZ2VyRmlsZSwgcHJpY2VUYWJsZTogREVGQVVMVF9QUklDRV9UQUJMRSwgcmVzb2x2ZUtleTogKCkgPT4gJ2dyb3VwOjEwMCcgfSk7CmFzc2VydChsZWRnZXIuc3RhdHMoKS5kcm9wcGVkTGluZXMgPT09IDEsICfov5vnqIvkuK3mlq3nlZnkuIvnmoTljYrooYzooqvot7Pov4fogIzkuI3mmK/orqnotKbmnKzor7vkuI3lh7rmnaUnKTsKYXNzZXJ0KGxlZGdlci5zdW1tYXJ5KCkuY29udmVyc2F0aW9ucy5sZW5ndGggPT09IDEsICfljYrooYzkuYvlkI7ku43og73or7vlh7rml6LmnInmlbDmja4nKTsKCi8vIOKUgOKUgCAxMC4g5Y6L57yp5LiO5reY5rGwIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLyDpgJDova7mmI7nu4botoXov4fkuIrpmZDml7blv4XpobvnnJ/nmoTmt5jmsbDvvIjlkKbliJnmr4/mrKHph4fmoLfpg73kvJrmlbTmlofku7bph43lhpnvvInvvIwKLy8g5L2GKirntK/orqHmgLvph4/lv4Xpobvnsr7noa4qKuKAlOKAlOWNs+S9v+i/meS4quS8muivneayoeacieaKleW9seWfuue6v+OAggpsZWRnZXIgPSBmcmVzaExlZGdlcih7IHJlc29sdmVLZXk6ICgpID0+ICdncm91cDoxMDAnLCBtYXhMaW5lczogMjAgfSk7CmZvciAobGV0IGkgPSAwOyBpIDwgMzA7IGkgKz0gMSkgewogIGxlZGdlci5pbmdlc3RFdmVudCh7IHNlc3Npb25JZDogJ3MxJywgZXZlbnQ6IGV2TXNnKDEwMDAgKyBpLCBpICsgMSwgMSwgdXNhZ2UoMTAsIDEsIDApKSwgYXQ6IG1vbignMjA6MDAnKSB9KTsKfQpjb25zdCBzdGF0cyA9IGxlZGdlci5zdGF0cygpOwphc3NlcnQoc3RhdHMuc2FtcGxlcyA8PSAyMCwgYOmAkOi9ruaYjue7huiiq+WOi+WIsOS4iumZkOWGhe+8iOWunuW+lyAke3N0YXRzLnNhbXBsZXN977yJYCk7CmFzc2VydChzdGF0cy5qb3VybmFsTGluZXMgPD0gNDAsIGDljovnvKnlkI7no4Hnm5jooYzmlbDlj5fmjqfvvIjlrp7lvpcgJHtzdGF0cy5qb3VybmFsTGluZXN977yJYCk7CmNvbnN0IGFmdGVyRXZpY3QgPSBsZWRnZXIuc3VtbWFyeSgpLnRvdGFsczsKY29uc3QgZXhwZWN0RXZpY3RDb3N0ID0gMzAgKiAoKDEwIC8gMWU2KSAqIDEgKyAoMSAvIDFlNikgKiA0KTsKYXNzZXJ0KGFmdGVyRXZpY3QuYnVja2V0cy5jYWNoZU1pc3MgPT09IDMwMCwgYOa3mOaxsOWQjue0r+iuoeacquWRveS4rei+k+WFpeS7jeS4uiAzMMOXMTA9MzAw77yI5a6e5b6XICR7YWZ0ZXJFdmljdC5idWNrZXRzLmNhY2hlTWlzc33vvIlgKTsKYXNzZXJ0KGFmdGVyRXZpY3QuYnVja2V0cy5vdXRwdXQgPT09IDMwLCBg5reY5rGw5ZCO57Sv6K6h6L6T5Ye65LuN5Li6IDMw77yI5a6e5b6XICR7YWZ0ZXJFdmljdC5idWNrZXRzLm91dHB1dH3vvIlgKTsKYXNzZXJ0KG5lYXIoYWZ0ZXJFdmljdC5jb3N0LCBleHBlY3RFdmljdENvc3QsIDFlLTkpLCBg5reY5rGw5ZCO57Sv6K6h6Iqx6LS55LiN5Y+Y77yI5a6e5b6XICR7YWZ0ZXJFdmljdC5jb3N0LnRvRml4ZWQoOCl9IOacn+acmyAke2V4cGVjdEV2aWN0Q29zdC50b0ZpeGVkKDgpfe+8iWApOwphc3NlcnQoYWZ0ZXJFdmljdC51bmF0dHJpYnV0ZWRDb3N0ID4gMCwgJ+iiq+a3mOaxsOeahOWbnuWQiOW9kuWFpeOAjOacqumAkOi9ruW9kuWxnuOAjeiAjOS4jeaYr+WHreepuua2iOWksScpOwpjb25zdCByZWxvYWRlZCA9IGNyZWF0ZVRva2VuTGVkZ2VyKHsgZmlsZTogbGVkZ2VyRmlsZSwgcHJpY2VUYWJsZTogREVGQVVMVF9QUklDRV9UQUJMRSwgcmVzb2x2ZUtleTogKCkgPT4gJ2dyb3VwOjEwMCcgfSk7CmFzc2VydChyZWxvYWRlZC5zdGF0cygpLnNhbXBsZXMgPT09IHN0YXRzLnNhbXBsZXMsICfmt5jmsbDlkI7ph43mlrDovb3lhaXkuI3kuKLph4fmoLcnKTsKYXNzZXJ0KG5lYXIocmVsb2FkZWQuc3VtbWFyeSgpLnRvdGFscy5jb3N0LCBhZnRlckV2aWN0LmNvc3QsIDFlLTkpLCAn5reY5rGw57uT5p6c55qE57Sv6K6h6Iqx6LS55Y+v6Leo6YeN5ZCv5aSN546wJyk7CgovLyDilIDilIAgMTBiLiDor7vlj5bot6/lvoTmmK/ljZXpgY3ntKLlvJXvvJrmgLvph4/kuI3pmo/ph4fmoLfmlbDkuozmrKHohqjog4Ag4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmxlZGdlciA9IGZyZXNoTGVkZ2VyKHsgcmVzb2x2ZUtleTogKCkgPT4gJ2dyb3VwOjEwMCcsIG1heExpbmVzOiA1MDAwIH0pOwpmb3IgKGxldCB0dXJuID0gMTsgdHVybiA8PSA0MDsgdHVybiArPSAxKSB7CiAgZm9yIChsZXQgc3RlcCA9IDE7IHN0ZXAgPD0gNTsgc3RlcCArPSAxKSB7CiAgICBsZWRnZXIuaW5nZXN0RXZlbnQoeyBzZXNzaW9uSWQ6ICdzMScsIGV2ZW50OiBldk1zZyh0dXJuICogMTAwICsgc3RlcCwgdHVybiwgc3RlcCwgdXNhZ2UoMTAwLCAxMCwgMCkpLCBhdDogbW9uKCcyMDowMCcpIH0pOwogIH0KfQpjb25zdCBtdWx0aSA9IGxlZGdlci5zdW1tYXJ5KCk7CmFzc2VydChtdWx0aS5jb252ZXJzYXRpb25zLmxlbmd0aCA9PT0gMSAmJiBtdWx0aS5jb252ZXJzYXRpb25zWzBdLnR1cm5zID09PSA0MCwKICBgNDAg6L2uIMOXIDUg5q2l6IGa5ZCI5oiQIDQwIOihjOmAkOi9ruaYjue7hu+8iOWunuW+lyAke211bHRpLmNvbnZlcnNhdGlvbnNbMF0/LnR1cm5zfe+8iWApOwphc3NlcnQobXVsdGkudG90YWxzLnN0ZXBzID09PSAyMDAsIGDmraXmlbDnu5/orqHmraPnoa7vvIjlrp7lvpcgJHttdWx0aS50b3RhbHMuc3RlcHN977yJYCk7CmFzc2VydChtdWx0aS50b3RhbHMuYnVja2V0cy5jYWNoZU1pc3MgPT09IDQwICogNSAqIDEwMCwgJ+Wkmui9ruWkmuatpee0r+iuoeato+ehricpOwpjb25zdCBkZXRhaWwgPSBsZWRnZXIuY29udmVyc2F0aW9uKCdncm91cDoxMDAnKTsKYXNzZXJ0KGRldGFpbC50dXJucy5sZW5ndGggPT09IDQwICYmIGRldGFpbC50dXJuc1swXS50dXJuID09PSA0MCwgJ+mAkOi9ruaYjue7huaMieWbnuWQiOWAkuW6j+i/lOWbnicpOwoKLy8g4pSA4pSAIDExLiDotbDlir/liIbmobbvvIhzZXJpZXPvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACi8vIOS4ieadoeS4jeiDvemUmeeahOaAp+i0qO+8muepuuahtuihpembtu+8iOWQpuWImeWbvuS8muaSkuiwju+8ieOAgeahtueahOWzsOiwt+aho+S9jeOAgeWbvuS4juaVsOWtl+iHqua0veOAggpsZWRnZXIgPSBmcmVzaExlZGdlcih7IHJlc29sdmVLZXk6ICgpID0+ICdncm91cDoxMDAnIH0pOwpjb25zdCBzQmFzZSA9IERhdGUucGFyc2UoJzIwMjYtMDMtMDJUMDk6MDA6MDArMDg6MDAnKTsgLy8g5ZGo5LiAIDA5OjAwID0g6auY5bOw56qX5Y+j6LW354K5CmNvbnN0IHNBdCA9IHNCYXNlICsgNiAqIDM2MDBfMDAwOyAgICAgICAgICAgICAgICAgICAgICAvLyDop4Llr5/ml7bliLsKY29uc3QgZW1pdEF0ID0gKG1zLCB0dXJuLCBzdGVwLCB1KSA9PiBsZWRnZXIuaW5nZXN0RXZlbnQoewogIHNlc3Npb25JZDogJ3MxJywKICBldmVudDogeyBzZXE6IHR1cm4gKiAxMDAgKyBzdGVwLCB0aW1lOiBtcywgdHlwZTogJ2Fzc2lzdGFudC9tZXNzYWdlJywgZGF0YTogeyB0dXJuLCBzdGVwLCB1c2FnZTogdSB9IH0sCiAgYXQ6IG1zCn0pOwovLyAwOTozMOOAgTA5OjQ177yI6auY5bOw77yJ5ZCE5LiA56yU77ybMTM6MDDvvIjljYjkvJHnqbrpl7LvvInkuIDnrJTvvJvkuK3pl7TnlZnlh7ogMyDlsI/ml7bnqbrmoaMKY29uc3QgcGVhazEgPSBzQmFzZSArIDMwICogNjBfMDAwOwpjb25zdCBwZWFrMiA9IHNCYXNlICsgNDUgKiA2MF8wMDA7CmNvbnN0IG9mZjEgPSBzQmFzZSArIDQgKiAzNjAwXzAwMDsKZW1pdEF0KHBlYWsxLCAxLCAxLCB1c2FnZSgxMDAwLCAxMDAsIDApKTsKZW1pdEF0KHBlYWsyLCAxLCAyLCB1c2FnZSgxMDAwLCAxMDAsIDApKTsKZW1pdEF0KG9mZjEsIDIsIDEsIHVzYWdlKDIwMDAsIDIwMCwgMCkpOwoKY29uc3Qgc2VyID0gbGVkZ2VyLnNlcmllcyh7IGhvdXJzOiA2LCBhdDogc0F0IH0pOwphc3NlcnQoc2VyLm9rID09PSB0cnVlICYmIEFycmF5LmlzQXJyYXkoc2VyLmJ1Y2tldHMpLCAnc2VyaWVzIOi/lOWbnuahtuaVsOe7hCcpOwphc3NlcnQoc2VyLmJ1Y2tldE1zID4gMCAmJiBzZXIuYnVja2V0cy5sZW5ndGggPiAwLCBg5qG25a695LiO5qG25pWw5pyJ5pWI77yIJHtzZXIuYnVja2V0TXN9bXMgw5cgJHtzZXIuYnVja2V0cy5sZW5ndGh977yJYCk7CmFzc2VydChzZXIuYnVja2V0cy5sZW5ndGggPD0gNDgsIGDmobbmlbDkuI3otoXov4fkuIrpmZDvvIjlrp7lvpcgJHtzZXIuYnVja2V0cy5sZW5ndGh977yJYCk7CmFzc2VydChzZXIuYnVja2V0cy5ldmVyeSgoYikgPT4gYi50ICUgc2VyLmJ1Y2tldE1zID09PSAwKSwgJ+ahtui+ueeVjOWvuem9kOWIsOahtuWuveaVtOaVsOWAje+8iOWIt+aWsOS5i+mXtOS4jea8guenu++8iScpOwovLyDnqpflj6PmjInmobblr7npvZDvvJropobnm5bmnIDov5EgaG91cnMg5bCP5pe277yM6LW35q2i5pyA5aSa5ZCE5beu5LiA5Liq5qG277yI5ZCm5YiZ5Yi35paw5pe25pW05p2h5Zu+5Lya5oqW77yJCmFzc2VydChzZXIuZnJvbSAlIHNlci5idWNrZXRNcyA9PT0gMCAmJiBzZXIudG8gJSBzZXIuYnVja2V0TXMgPT09IDAsICfnqpflj6PotbfmraLkuZ/lr7npvZDliLDmobbovrnnlYwnKTsKYXNzZXJ0KHNlci50byAtIHNlci5mcm9tID49IDYgKiAzNjAwXzAwMCAmJiBzZXIudG8gLSBzZXIuZnJvbSA8IDYgKiAzNjAwXzAwMCArIHNlci5idWNrZXRNcywKICBg56qX5Y+j6ZW/5bqm4omINiDlsI/ml7bvvIjlrp7lvpcgJHsoKHNlci50byAtIHNlci5mcm9tKSAvIDM2MDBfMDAwKS50b0ZpeGVkKDIpfWjvvIlgKTsKYXNzZXJ0KHNlci5idWNrZXRzLmZpbHRlcigoYikgPT4gYi5jb3N0ID09PSAwKS5sZW5ndGggPj0gMywgJ+ayoeacieiwg+eUqOeahOaXtuauteiiq+ihpeaIkCAwIOWAvOahtu+8iOS4jeS8muWcqOWbvuS4iuWHreepuua2iOWkse+8iScpOwphc3NlcnQoc2VyLmNvdW50ZWRTYW1wbGVzID09PSAzLCBg5LiJ56yU6YeH5qC35YWo6YOo6JC95YWl56qX5Y+j77yI5a6e5b6XICR7c2VyLmNvdW50ZWRTYW1wbGVzfe+8iWApOwoKLy8g5bOw6LC35qGj5L2N77yaMDk6MzAvMDk6NDUg5LiOIDEzOjAwIOWIhuWIq+iQveWcqOmrmOWzsOS4juepuumXsgpjb25zdCB0aWVyQXQgPSAobXMpID0+IHNlci5idWNrZXRzLmZpbmQoKGIpID0+IG1zID49IGIudCAmJiBtcyA8IGIudCArIHNlci5idWNrZXRNcyk/LnRpZXI7CmFzc2VydCh0aWVyQXQocGVhazEpID09PSAncGVhaycsICcwOTozMO+8iOWRqOS4gOmrmOWzsO+8ieeahOahtuagh+S4uiBwZWFrJyk7CmFzc2VydCh0aWVyQXQob2ZmMSkgPT09ICdvZmYnLCAnMTM6MDDvvIjljYjkvJHnqbrpl7LvvInnmoTmobbmoIfkuLogb2ZmJyk7CmFzc2VydChzZXIuYnVja2V0cy5zb21lKChiKSA9PiBiLnRpZXIgPT09ICdwZWFrJykgJiYgc2VyLmJ1Y2tldHMuc29tZSgoYikgPT4gYi50aWVyID09PSAnb2ZmJyksCiAgJ+epuuahtuS5n+acieaho+S9je+8iOWbvuS4iuiDveeci+WHuiLov5nmrrXml7bpl7TmnKzmnaXlsLHmmK8gMiDlgI3ku7ci77yJJyk7CgovLyDlkIjorqHvvJrmr4/nrJTmjInoh6rlt7Hml7bliLvnmoTls7DosLforqHku7fvvIjpq5jls7AgMiDlgI3vvIkKY29uc3QgZXhwZWN0V2luZG93ID0gMiAqICgoMTAwMCAvIDFlNikgKiAyICsgKDEwMCAvIDFlNikgKiA4KSArICgoMjAwMCAvIDFlNikgKiAxICsgKDIwMCAvIDFlNikgKiA0KTsKYXNzZXJ0KG5lYXIoc2VyLnRvdGFscy5jb3N0LCBleHBlY3RXaW5kb3csIDFlLTkpLAogIGDnqpflj6PlkIjorqHmjInlkITmobboh6rouqvml7bliLvnmoTls7DosLforqHku7fvvIjlrp7lvpcgJHtzZXIudG90YWxzLmNvc3QudG9GaXhlZCg2KX0g5pyf5pybICR7ZXhwZWN0V2luZG93LnRvRml4ZWQoNil977yJYCk7CmFzc2VydChzZXIudG90YWxzLnN0ZXBzID09PSAzICYmIHNlci50b3RhbHMudHVybnMgPT09IDIsIGDmraXmlbAgMyAvIOi9ruasoSAy77yI5a6e5b6XICR7c2VyLnRvdGFscy5zdGVwc30vJHtzZXIudG90YWxzLnR1cm5zfe+8iWApOwphc3NlcnQoc2VyLmJ1Y2tldHMuc29tZSgoYikgPT4gYi50ID09PSBwZWFrMSAtIChwZWFrMSAlIHNlci5idWNrZXRNcykgfHwgYi50aWVyID09PSAncGVhaycpLCAn6auY5bOw5qG256Gu5a6e5a2Y5ZyoJyk7CmFzc2VydChzZXIuYnVzaWVzdCAmJiB0aWVyQXQoc2VyLmJ1c2llc3QudCkgPT09ICdwZWFrJywgJ+acgOi0teeahOS4gOagvOaYr+mrmOWzsOmCo+S4gOagvCcpOwphc3NlcnQobmVhcihzZXIuYnVja2V0cy5yZWR1Y2UoKHMsIGIpID0+IHMgKyBiLmNvc3QsIDApLCBzZXIudG90YWxzLmNvc3QsIDFlLTEyKSwKICAn5ZCE5qG26Iqx6LS55LmL5ZKMID0g56qX5Y+j5ZCI6K6h77yI5Zu+5LiO5pWw5a2X6Ieq5rS977yJJyk7CmFzc2VydChuZWFyKHNlci5idWNrZXRzLnJlZHVjZSgocywgYikgPT4gcyArIGIudG9rZW5zLCAwKSwgc2VyLnRvdGFscy50b2tlbnMsIDFlLTkpLCAndG9rZW4g5ZCM5qC36Ieq5rS9Jyk7CmFzc2VydChzZXIub2ZmQ2hhcnRDb3N0ID49IDAsICfnu5nlh7oi5pe26Ze06L205LmL5aSWIueahOiKsei0ue+8jOmBv+WFjeWbvuWQiOiuoSDiiaAg5oC76Iqx6LS55byV6LW36K+v6KejJyk7CgovLyDnqpflj6PlpKflsI/lhrPlrprmobblrr3vvJvnqpflj6PlpJbnmoTph4fmoLfkuI3orqHlhaUKY29uc3Qgd2lkZSA9IGxlZGdlci5zZXJpZXMoeyBob3VyczogMjQgKiAzMCwgYXQ6IHNBdCwgbWF4QnVja2V0czogNDggfSk7CmFzc2VydCh3aWRlLmJ1Y2tldE1zID4gc2VyLmJ1Y2tldE1zLCBg5pu05aSn55qE56qX5Y+j55So5pu057KX55qE5qG277yIJHtzZXIuYnVja2V0TXN9IOKGkiAke3dpZGUuYnVja2V0TXN977yJYCk7CmFzc2VydCh3aWRlLmJ1Y2tldHMubGVuZ3RoIDw9IDQ4LCAn5pS+5aSn56qX5Y+j5ZCO5qG25pWw5LuN5Y+X5LiK6ZmQ57qm5p2fJyk7CmNvbnN0IGVtcHR5V2luZG93ID0gbGVkZ2VyLnNlcmllcyh7IGhvdXJzOiAxLCBhdDogc0Jhc2UgLSA2MCAqIDYwICogMTAwMCB9KTsKYXNzZXJ0KGVtcHR5V2luZG93LmNvdW50ZWRTYW1wbGVzID09PSAwLCAn6YeH5qC35Y+R55Sf5Zyo56qX5Y+j5LmL5ZCO5pe25LiN6K6h5YWlJyk7CmFzc2VydChlbXB0eVdpbmRvdy5idWNrZXRzLmV2ZXJ5KChiKSA9PiBiLmNvc3QgPT09IDApLCAn56qX5Y+j5YaF5peg55So6YeP5pe25YWo5Li6IDAg5qG2Jyk7CgovLyDilIDilIAgcmVzZXQg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmxlZGdlci5yZXNldCgpOwphc3NlcnQobGVkZ2VyLnN1bW1hcnkoKS5jb252ZXJzYXRpb25zLmxlbmd0aCA9PT0gMCwgJ3Jlc2V0IOa4heepuuWGheWtmOaAgScpOwphc3NlcnQoZnMucmVhZEZpbGVTeW5jKGxlZGdlckZpbGUsICd1dGY4JykgPT09ICcnLCAncmVzZXQg5riF56m656OB55uY5pel5b+XJyk7CgovLyDilIDilIAgdXNhZ2VPZkV2ZW50IOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphc3NlcnQodXNhZ2VPZkV2ZW50KHsgdHlwZTogJ2Fzc2lzdGFudC9tZXNzYWdlJywgZGF0YTogeyB1c2FnZTogeyBpbnB1dFRva2VuczogMSB9IH0gfSk/LmlucHV0VG9rZW5zID09PSAxLCAndXNhZ2VPZkV2ZW50IOS8mOWFiOWPliBkYXRhLnVzYWdlJyk7CmFzc2VydCh1c2FnZUZyb21TdHJlYW0oW3sgdXNhZ2U6IHsgaW5wdXRUb2tlbnM6IDcgfSB9LCB7IHRleHQ6ICd4JyB9XSk/LmlucHV0VG9rZW5zID09PSA3LCAndXNhZ2VGcm9tU3RyZWFtIOS7jua1geWwvumDqOaJviB1c2FnZScpOwphc3NlcnQodXNhZ2VPZkV2ZW50KHsgdHlwZTogJ3Rvb2wvY2FsbCcsIGRhdGE6IHt9IH0pID09PSB1bmRlZmluZWQsICfpnZ4gYXNzaXN0YW50IOS6i+S7tuS4jeS6p+eUnyB1c2FnZScpOwoKLy8g4pSA4pSAIOaUtuWwviDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKdHJ5IHsgZnMucm1TeW5jKHRtcERpciwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOyB9IGNhdGNoIHt9CgppZiAoZmFpbGVkKSB7CiAgY29uc29sZS5lcnJvcignXG7inYwgdG9rZW4g6LSm5pys5rWL6K+V5aSx6LSlJyk7CiAgcHJvY2Vzcy5leGl0KDEpOwp9CmNvbnNvbGUubG9nKCdcbvCfjokgdG9rZW4g6LSm5pysIC8g5Lu355uu6KGo5rWL6K+V6YCa6L+HJyk7Cg==
+// Token 用量账本 + 价目表测试。
+//
+// 覆盖点（每一条都对应一个曾经容易写错的地方）：
+// 1. 峰谷分时判定按北京时间，且排除中国法定节假日；
+// 2. 四个计费桶互不重叠，金额 = Σ(桶 token × 单价)；
+// 3. 未知模型走兜底价并标记 estimated；
+// 4. 同一 (turn, step, retry) 的采样「后到覆盖先到」，不是累加；
+// 5. 重连重放同一批 snapshot 记录不会让用量翻倍（幂等）；
+// 6. `llm/retry-started` 之后同一步骤的第二次请求另算一次；
+// 7. 权威总量 = 投影基线 + 基线之后 seq 的增量；
+// 8. 逐轮明细与「未逐轮归属」差额自洽；
+// 9. 半行（进程中断）不会让整个账本读不出来；
+// 10. 日志行数超上限会压缩重写且不丢数据。
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import {
+  DEFAULT_PRICE_TABLE,
+  CN_HOLIDAYS_2026,
+  beijingParts,
+  costOfBuckets,
+  isPeakAt,
+  normalizeUsage,
+  priceUsage,
+  ratesAt,
+  resolvePriceTable,
+  totalTokensOf
+} from '../src/model-prices.js';
+import { createTokenLedger, usageOfEvent, usageFromStream } from '../src/token-ledger.js';
+
+let failed = 0;
+function assert(cond, label) {
+  if (cond) console.log(`✅ ${label}`);
+  else { console.error(`❌ ${label}`); failed = 1; }
+}
+function near(a, b, eps = 1e-9) { return Math.abs(a - b) <= eps; }
+
+const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-token-ledger-'));
+const ledgerFile = path.join(tmpDir, 'token-usage.jsonl');
+function freshLedger(opts = {}) {
+  try { fs.unlinkSync(ledgerFile); } catch {}
+  return createTokenLedger({ file: ledgerFile, priceTable: DEFAULT_PRICE_TABLE, ...opts });
+}
+
+// ── 1. 峰谷分时 ─────────────────────────────────────────────────────────
+// 北京时间 = UTC+8。2026-03-02 是周一。
+const mon = (hhmm) => Date.parse(`2026-03-02T${hhmm}:00+08:00`);
+assert(beijingParts(mon('10:00')).weekday === 1, '2026-03-02 是周一');
+assert(isPeakAt(mon('10:00')) === true, '周一 10:00 属高峰时段');
+assert(isPeakAt(mon('13:00')) === false, '周一 13:00（午休）属空闲时段');
+assert(isPeakAt(mon('15:00')) === true, '周一 15:00 属高峰时段');
+assert(isPeakAt(mon('08:59')) === false, '周一 08:59 属空闲时段');
+assert(isPeakAt(mon('12:00')) === false, '窗口为半开区间：12:00 已不在高峰');
+assert(isPeakAt(mon('18:00')) === false, '窗口为半开区间：18:00 已不在高峰');
+// 周六（2026-03-07）全天空闲
+assert(isPeakAt(Date.parse('2026-03-07T10:00:00+08:00')) === false, '周六 10:00 属空闲时段');
+// 节假日：2026-10-01 是周四，但属国庆假期 → 空闲
+assert(beijingParts(Date.parse('2026-10-01T10:00:00+08:00')).weekday === 4, '2026-10-01 是周四');
+assert(isPeakAt(Date.parse('2026-10-01T10:00:00+08:00')) === false, '国庆节（周四）10:00 属空闲时段');
+// 春节段
+assert(isPeakAt(Date.parse('2026-02-17T10:00:00+08:00')) === false, '春节（周二）10:00 属空闲时段');
+// 节假日表的边界不应误伤相邻工作日
+assert(isPeakAt(Date.parse('2026-10-08T10:00:00+08:00')) === true, '2026-10-08（节后周四）10:00 恢复高峰');
+assert(CN_HOLIDAYS_2026.length === 33, `2026 法定节假日共 33 天（实得 ${CN_HOLIDAYS_2026.length}）`);
+
+// ── 2. 单价与金额 ───────────────────────────────────────────────────────
+const offRates = ratesAt('deepseek-flash', mon('20:00'), DEFAULT_PRICE_TABLE);
+const peakRates = ratesAt('deepseek-flash', mon('10:00'), DEFAULT_PRICE_TABLE);
+assert(offRates.tier === 'off' && peakRates.tier === 'peak', '同一模型峰谷档位判定正确');
+assert(near(peakRates.cacheMiss, offRates.cacheMiss * 2), '高峰单价为空闲单价的 2 倍');
+assert(near(offRates.cacheHit, 0.02) && near(offRates.cacheMiss, 1) && near(offRates.output, 4), 'flash 空闲单价与官方一致（0.02/1/4）');
+
+// 100 万 token 各桶 → 正好等于单价
+const cost1M = costOfBuckets({ cacheHit: 1e6, cacheMiss: 1e6, cacheWrite: 0, output: 1e6 }, offRates);
+assert(near(cost1M.cacheHit, 0.02) && near(cost1M.cacheMiss, 1) && near(cost1M.output, 4), '桶计价 = 单价 × 百万 token');
+assert(near(cost1M.total, 5.02), '合计 = 分项之和');
+
+// 桶互不重叠：normalizeUsage 不能把 cacheRead 也算进未命中
+const norm = normalizeUsage({ inputTokens: 100, outputTokens: 10, cacheReadTokens: 900, cacheWriteTokens: 5 });
+assert(norm.cacheMiss === 100 && norm.cacheHit === 900 && norm.cacheWrite === 5 && norm.output === 10,
+  'normalizeUsage 四桶互不重叠（inputTokens 只算未命中）');
+assert(totalTokensOf(norm) === 1015, 'token 总量 = 四桶之和');
+
+// ── 3. 未知模型兜底 ─────────────────────────────────────────────────────
+const unknown = ratesAt('some-future-model', mon('10:00'), DEFAULT_PRICE_TABLE);
+assert(unknown.estimated === true, '未知模型标记 estimated');
+assert(near(unknown.cacheMiss, 2), '未知模型按 flash 兜底（高峰期 1×2）');
+const tbl = resolvePriceTable({ models: { 'my-model': { label: '自定义', off: { cacheHit: 0.5, cacheMiss: 3, output: 9 } } } });
+assert(tbl.models['my-model'].off.cacheWrite === 3, '自定义模型未给 cacheWrite 时跟随 cacheMiss');
+assert(tbl.models['deepseek-flash'].off.cacheMiss === 1, '自定义覆盖不影响内置模型');
+
+// ── 4~8. 账本折叠语义 ───────────────────────────────────────────────────
+const usage = (inputTokens, outputTokens, cacheReadTokens = 0, extra = {}) =>
+  ({ inputTokens, outputTokens, cacheReadTokens, ...extra });
+// ⚠️ `time` 必须显式给：账本对**没有时间戳**的采样会回退到 `now()`，
+// 而 `now()` 落在高峰时段（周一至周五 9:00-12:00、14:00-18:00）时单价是 2 倍
+// ⇒ 这个测试会随"跑测试的时刻"时红时绿（实测：周一 17:29 会失败，12:00-16:00 通过）。
+// 这里统一钉到下面的 `at`（周一 20:00，空闲档），让期望值与任何跑测试的时刻无关。
+const at = mon('20:00');
+const evMsg = (seq, turn, step, u) => ({ seq, time: at, type: 'assistant/message', data: { turn, step, usage: u } });
+const evRetry = (seq, turn, step, retry) => ({ seq, time: at, type: 'llm/retry-started', data: { turn, step, retry } });
+
+let ledger = freshLedger({ resolveKey: (sid) => (sid === 's1' ? 'group:100' : undefined) });
+
+// 流式采样 → 最终结算应覆盖，而不是累加
+ledger.ingestEvent({ sessionId: 's1', event: { seq: 10, time: at, type: 'assistant/attempt', data: { turn: 1, step: 1, stream: [{ usage: usage(1000, 50, 0) }] } } });
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(11, 1, 1, usage(1200, 80, 4000)) });
+let conv = ledger.conversation('group:100');
+assert(conv.turns.length === 1, '同一 (turn, step) 只有一行逐轮明细（流式被结算覆盖）');
+assert(conv.turns[0].buckets.cacheMiss === 1200 && conv.turns[0].buckets.output === 80,
+  '覆盖语义：保留最终结算值 1200/80');
+assert(conv.turns[0].steps === 1, 'steps 计为该回合的采样条数（1）');
+
+// 同回合第二个 step 累加
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(12, 1, 2, usage(300, 20, 100)) });
+conv = ledger.conversation('group:100');
+assert(conv.turns[0].steps === 2, '同回合第 2 个 step 计入同一行');
+assert(conv.turns[0].buckets.cacheMiss === 1500 && conv.turns[0].buckets.output === 100, '同回合跨 step 累加');
+assert(conv.turns.length === 1, '两个 step 仍是同一轮对话');
+
+// 重连重放：同 seq 同内容不得翻倍
+const before = ledger.recent(50).length;
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(11, 1, 1, usage(1200, 80, 4000)) });
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(12, 1, 2, usage(300, 20, 100)) });
+assert(ledger.recent(50).length === before, '重连重放同样的事件不新增采样（幂等）');
+conv = ledger.conversation('group:100');
+assert(conv.turns[0].buckets.cacheMiss === 1500, '重放后用量不翻倍');
+
+// 旧快照不得覆盖新数据：seq 更旧、以及 seq 相等但内容不同，都必须被拒绝
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(5, 1, 1, usage(1, 1, 0)) });
+conv = ledger.conversation('group:100');
+assert(conv.turns[0].buckets.cacheMiss === 1500, 'seq 更旧的采样被拒绝（不回退）');
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(11, 1, 1, usage(1, 1, 0)) });
+conv = ledger.conversation('group:100');
+assert(conv.turns[0].buckets.cacheMiss === 1500, 'seq 相等但内容不同的采样被拒绝（只信严格更新的 seq）');
+
+// 重试轴：同一步骤的第二次请求另算
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(20, 2, 1, usage(500, 10, 0)) });
+ledger.ingestEvent({ sessionId: 's1', event: evRetry(21, 2, 1, 1) });
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(22, 2, 1, usage(600, 12, 0)) });
+conv = ledger.conversation('group:100');
+const t2 = conv.turns.find((r) => r.turn === 2);
+assert(t2.buckets.cacheMiss === 1100 && t2.buckets.output === 22, 'llm/retry-started 之后同一 step 的第二次请求另算一次');
+assert(t2.attempts === 1, '重试次数被记录');
+
+// 基线：权威总量 = 基线 + 基线之后的增量
+ledger = freshLedger({ resolveKey: () => 'group:100' });
+ledger.ingestBaseline({ sessionId: 's1', projection: { asOfSeq: 100, values: { tokenUsage: { uncachedInputTokens: 5000, outputTokens: 500, cacheReadTokens: 50000, cacheWriteTokens: 0 } } }, at: mon('20:00'), model: 'deepseek-flash' });
+// seq <= 100 的采样属于基线范围，只进逐轮明细、不再计入总量
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(80, 1, 1, usage(5000, 500, 50000)) });
+// seq > 100 的采样是增量
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(120, 2, 1, usage(1000, 100, 0)) });
+let sum = ledger.summary();
+let c = sum.conversations.find((x) => x.key === 'group:100');
+assert(c.buckets.cacheMiss === 6000, '权威总量 = 基线 5000 + 增量 1000');
+assert(c.buckets.cacheHit === 50000, '基线命中量计入总量');
+assert(c.buckets.output === 600, '基线输出计入总量');
+const expectCost = (5000 / 1e6) * 1 + (50000 / 1e6) * 0.02 + (500 / 1e6) * 4 + (1000 / 1e6) * 1 + (100 / 1e6) * 4;
+assert(near(c.cost, expectCost, 1e-9), `花费 = 基线 + 增量，实得 ${c.cost.toFixed(8)} 期望 ${expectCost.toFixed(8)}`);
+assert(c.turns === 2, '基线范围内的回合仍出现在逐轮明细里（共 2 轮）');
+assert(near(c.unattributedCost, Math.max(0, c.cost - c.attributedCost), 1e-9), '未逐轮归属差额自洽');
+assert(near(sum.totals.cost, c.cost, 1e-9), '全局合计 = 各会话之和');
+assert(sum.totals.cacheHitRate > 0.85, `缓存命中率按输入桶计算（${(sum.totals.cacheHitRate * 100).toFixed(1)}%）`);
+
+// 峰谷混算：同一会话内高峰与空闲的采样各按各的档位
+ledger = freshLedger({ resolveKey: () => 'group:100' });
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(10, 1, 1, usage(1e6, 1e6, 0)), at: mon('10:00') }); // 高峰：1 + 4 → ×2
+ledger.ingestEvent({ sessionId: 's1', event: evMsg(20, 2, 1, usage(1e6, 1e6, 0)), at: mon('20:00') }); // 空闲：1 + 4
+c = ledger.summary().conversations[0];
+assert(near(c.cost, (1 + 4) * 2 + (1 + 4)), `峰谷分时计价：高峰轮 ¥10 + 空闲轮 ¥5 = ¥15（实得 ${c.cost}）`);
+assert(near(c.byTier.peak, 10) && near(c.byTier.off, 5), '高峰期/空闲期花费分开统计');
+
+// ── 9. 半行容错 ─────────────────────────────────────────────────────────
+fs.appendFileSync(ledgerFile, '{"k":"turn","sid":"s1","turn":9,"ste', 'utf8');
+ledger = createTokenLedger({ file: ledgerFile, priceTable: DEFAULT_PRICE_TABLE, resolveKey: () => 'group:100' });
+assert(ledger.stats().droppedLines === 1, '进程中断留下的半行被跳过而不是让账本读不出来');
+assert(ledger.summary().conversations.length === 1, '半行之后仍能读出既有数据');
+
+// ── 10. 压缩与淘汰 ──────────────────────────────────────────────────────
+// 逐轮明细超过上限时必须真的淘汰（否则每次采样都会整文件重写），
+// 但**累计总量必须精确**——即使这个会话没有投影基线。
+ledger = freshLedger({ resolveKey: () => 'group:100', maxLines: 20 });
+for (let i = 0; i < 30; i += 1) {
+  ledger.ingestEvent({ sessionId: 's1', event: evMsg(1000 + i, i + 1, 1, usage(10, 1, 0)), at: mon('20:00') });
+}
+const stats = ledger.stats();
+assert(stats.samples <= 20, `逐轮明细被压到上限内（实得 ${stats.samples}）`);
+assert(stats.journalLines <= 40, `压缩后磁盘行数受控（实得 ${stats.journalLines}）`);
+const afterEvict = ledger.summary().totals;
+const expectEvictCost = 30 * ((10 / 1e6) * 1 + (1 / 1e6) * 4);
+assert(afterEvict.buckets.cacheMiss === 300, `淘汰后累计未命中输入仍为 30×10=300（实得 ${afterEvict.buckets.cacheMiss}）`);
+assert(afterEvict.buckets.output === 30, `淘汰后累计输出仍为 30（实得 ${afterEvict.buckets.output}）`);
+assert(near(afterEvict.cost, expectEvictCost, 1e-9), `淘汰后累计花费不变（实得 ${afterEvict.cost.toFixed(8)} 期望 ${expectEvictCost.toFixed(8)}）`);
+assert(afterEvict.unattributedCost > 0, '被淘汰的回合归入「未逐轮归属」而不是凭空消失');
+const reloaded = createTokenLedger({ file: ledgerFile, priceTable: DEFAULT_PRICE_TABLE, resolveKey: () => 'group:100' });
+assert(reloaded.stats().samples === stats.samples, '淘汰后重新载入不丢采样');
+assert(near(reloaded.summary().totals.cost, afterEvict.cost, 1e-9), '淘汰结果的累计花费可跨重启复现');
+
+// ── 10b. 读取路径是单遍索引：总量不随采样数二次膨胀 ─────────────────────
+ledger = freshLedger({ resolveKey: () => 'group:100', maxLines: 5000 });
+for (let turn = 1; turn <= 40; turn += 1) {
+  for (let step = 1; step <= 5; step += 1) {
+    ledger.ingestEvent({ sessionId: 's1', event: evMsg(turn * 100 + step, turn, step, usage(100, 10, 0)), at: mon('20:00') });
+  }
+}
+const multi = ledger.summary();
+assert(multi.conversations.length === 1 && multi.conversations[0].turns === 40,
+  `40 轮 × 5 步聚合成 40 行逐轮明细（实得 ${multi.conversations[0]?.turns}）`);
+assert(multi.totals.steps === 200, `步数统计正确（实得 ${multi.totals.steps}）`);
+assert(multi.totals.buckets.cacheMiss === 40 * 5 * 100, '多轮多步累计正确');
+const detail = ledger.conversation('group:100');
+assert(detail.turns.length === 40 && detail.turns[0].turn === 40, '逐轮明细按回合倒序返回');
+
+// ── 11. 走势分桶（series） ───────────────────────────────────────────────
+// 三条不能错的性质：空桶补零（否则图会撒谎）、桶的峰谷档位、图与数字自洽。
+ledger = freshLedger({ resolveKey: () => 'group:100' });
+const sBase = Date.parse('2026-03-02T09:00:00+08:00'); // 周一 09:00 = 高峰窗口起点
+const sAt = sBase + 6 * 3600_000;                      // 观察时刻
+const emitAt = (ms, turn, step, u) => ledger.ingestEvent({
+  sessionId: 's1',
+  event: { seq: turn * 100 + step, time: ms, type: 'assistant/message', data: { turn, step, usage: u } },
+  at: ms
+});
+// 09:30、09:45（高峰）各一笔；13:00（午休空闲）一笔；中间留出 3 小时空档
+const peak1 = sBase + 30 * 60_000;
+const peak2 = sBase + 45 * 60_000;
+const off1 = sBase + 4 * 3600_000;
+emitAt(peak1, 1, 1, usage(1000, 100, 0));
+emitAt(peak2, 1, 2, usage(1000, 100, 0));
+emitAt(off1, 2, 1, usage(2000, 200, 0));
+
+const ser = ledger.series({ hours: 6, at: sAt });
+assert(ser.ok === true && Array.isArray(ser.buckets), 'series 返回桶数组');
+assert(ser.bucketMs > 0 && ser.buckets.length > 0, `桶宽与桶数有效（${ser.bucketMs}ms × ${ser.buckets.length}）`);
+assert(ser.buckets.length <= 48, `桶数不超过上限（实得 ${ser.buckets.length}）`);
+assert(ser.buckets.every((b) => b.t % ser.bucketMs === 0), '桶边界对齐到桶宽整数倍（刷新之间不漂移）');
+// 窗口按桶对齐：覆盖最近 hours 小时，起止最多各差一个桶（否则刷新时整条图会抖）
+assert(ser.from % ser.bucketMs === 0 && ser.to % ser.bucketMs === 0, '窗口起止也对齐到桶边界');
+assert(ser.to - ser.from >= 6 * 3600_000 && ser.to - ser.from < 6 * 3600_000 + ser.bucketMs,
+  `窗口长度≈6 小时（实得 ${((ser.to - ser.from) / 3600_000).toFixed(2)}h）`);
+assert(ser.buckets.filter((b) => b.cost === 0).length >= 3, '没有调用的时段被补成 0 值桶（不会在图上凭空消失）');
+assert(ser.countedSamples === 3, `三笔采样全部落入窗口（实得 ${ser.countedSamples}）`);
+
+// 峰谷档位：09:30/09:45 与 13:00 分别落在高峰与空闲
+const tierAt = (ms) => ser.buckets.find((b) => ms >= b.t && ms < b.t + ser.bucketMs)?.tier;
+assert(tierAt(peak1) === 'peak', '09:30（周一高峰）的桶标为 peak');
+assert(tierAt(off1) === 'off', '13:00（午休空闲）的桶标为 off');
+assert(ser.buckets.some((b) => b.tier === 'peak') && ser.buckets.some((b) => b.tier === 'off'),
+  '空桶也有档位（图上能看出"这段时间本来就是 2 倍价"）');
+
+// 合计：每笔按自己时刻的峰谷计价（高峰 2 倍）
+const expectWindow = 2 * ((1000 / 1e6) * 2 + (100 / 1e6) * 8) + ((2000 / 1e6) * 1 + (200 / 1e6) * 4);
+assert(near(ser.totals.cost, expectWindow, 1e-9),
+  `窗口合计按各桶自身时刻的峰谷计价（实得 ${ser.totals.cost.toFixed(6)} 期望 ${expectWindow.toFixed(6)}）`);
+assert(ser.totals.steps === 3 && ser.totals.turns === 2, `步数 3 / 轮次 2（实得 ${ser.totals.steps}/${ser.totals.turns}）`);
+assert(ser.buckets.some((b) => b.t === peak1 - (peak1 % ser.bucketMs) || b.tier === 'peak'), '高峰桶确实存在');
+assert(ser.busiest && tierAt(ser.busiest.t) === 'peak', '最贵的一格是高峰那一格');
+assert(near(ser.buckets.reduce((s, b) => s + b.cost, 0), ser.totals.cost, 1e-12),
+  '各桶花费之和 = 窗口合计（图与数字自洽）');
+assert(near(ser.buckets.reduce((s, b) => s + b.tokens, 0), ser.totals.tokens, 1e-9), 'token 同样自洽');
+assert(ser.offChartCost >= 0, '给出"时间轴之外"的花费，避免图合计 ≠ 总花费引起误解');
+
+// 窗口大小决定桶宽；窗口外的采样不计入
+const wide = ledger.series({ hours: 24 * 30, at: sAt, maxBuckets: 48 });
+assert(wide.bucketMs > ser.bucketMs, `更大的窗口用更粗的桶（${ser.bucketMs} → ${wide.bucketMs}）`);
+assert(wide.buckets.length <= 48, '放大窗口后桶数仍受上限约束');
+const emptyWindow = ledger.series({ hours: 1, at: sBase - 60 * 60 * 1000 });
+assert(emptyWindow.countedSamples === 0, '采样发生在窗口之后时不计入');
+assert(emptyWindow.buckets.every((b) => b.cost === 0), '窗口内无用量时全为 0 桶');
+
+// ── reset ───────────────────────────────────────────────────────────────
+ledger.reset();
+assert(ledger.summary().conversations.length === 0, 'reset 清空内存态');
+assert(fs.readFileSync(ledgerFile, 'utf8') === '', 'reset 清空磁盘日志');
+
+// ── usageOfEvent ────────────────────────────────────────────────────────
+assert(usageOfEvent({ type: 'assistant/message', data: { usage: { inputTokens: 1 } } })?.inputTokens === 1, 'usageOfEvent 优先取 data.usage');
+assert(usageFromStream([{ usage: { inputTokens: 7 } }, { text: 'x' }])?.inputTokens === 7, 'usageFromStream 从流尾部找 usage');
+assert(usageOfEvent({ type: 'tool/call', data: {} }) === undefined, '非 assistant 事件不产生 usage');
+
+// ── 收尾 ────────────────────────────────────────────────────────────────
+try { fs.rmSync(tmpDir, { recursive: true, force: true }); } catch {}
+
+if (failed) {
+  console.error('\n❌ token 账本测试失败');
+  process.exit(1);
+}
+console.log('\n🎉 token 账本 / 价目表测试通过');

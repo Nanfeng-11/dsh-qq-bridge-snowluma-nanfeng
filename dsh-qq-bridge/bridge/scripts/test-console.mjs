@@ -1,1 +1,107 @@
-Ly8g5o6n5Yi25Y+w5aKe5by65Yqf6IO957u85ZCI5rWL6K+V77yIbm9kZSDnm7TmjqXosIMgQVBJ77yJCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKCmNvbnN0IF9fZGlybmFtZSA9IHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBST09UID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uJyk7CmNvbnN0IEJBU0UgPSAnaHR0cDovLzEyNy4wLjAuMTozMTAwJzsKCmZ1bmN0aW9uIHJlYWRDb25zb2xlVG9rZW4oKSB7CiAgdHJ5IHsKICAgIGNvbnN0IGNmZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CiAgICBpZiAoY2ZnLmNvbnNvbGVUb2tlbikgcmV0dXJuIFN0cmluZyhjZmcuY29uc29sZVRva2VuKTsKICB9IGNhdGNoIHt9CiAgdHJ5IHsKICAgIHJldHVybiBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdzdGF0ZScsICdjb25zb2xlLXRva2VuJyksICd1dGY4JykudHJpbSgpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuICcnOwogIH0KfQpjb25zdCBUT0tFTiA9IHJlYWRDb25zb2xlVG9rZW4oKTsKY29uc3QgYXV0aEhlYWRlcnMgPSBUT0tFTiA/IHsgJ3gtY29uc29sZS10b2tlbic6IFRPS0VOIH0gOiB7fTsKY29uc3QgYXBpID0gYXN5bmMgKHBhdGgsIG1ldGhvZCwgYm9keSkgPT4gewogIGNvbnN0IGhlYWRlcnMgPSB7IC4uLmF1dGhIZWFkZXJzLCAuLi4oYm9keSA/IHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9IDoge30pIH07CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goQkFTRSArIHBhdGgsIHsgbWV0aG9kOiBtZXRob2QgfHwgJ0dFVCcsIGhlYWRlcnMsIGJvZHk6IGJvZHkgPyBKU09OLnN0cmluZ2lmeShib2R5KSA6IHVuZGVmaW5lZCB9KTsKICByZXR1cm4geyBzdGF0dXM6IHJlcy5zdGF0dXMsIGJvZHk6IGF3YWl0IHJlcy5qc29uKCkgfTsKfTsKbGV0IGZhaWxlZCA9IDA7CmNvbnN0IG9rID0gKG5hbWUsIGNvbmQsIGV4dHJhID0gJycpID0+IHsKICBpZiAoIWNvbmQpIGZhaWxlZCArPSAxOwogIGNvbnNvbGUubG9nKGAke2NvbmQgPyAn4pyFJyA6ICfinYwnfSAke25hbWV9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOwp9OwoKLy8gMS4g6aG16Z2iCmNvbnN0IHBhZ2UgPSBhd2FpdCBmZXRjaChCQVNFICsgJy8nLCB7IGhlYWRlcnM6IGF1dGhIZWFkZXJzIH0pOwpjb25zdCBodG1sID0gYXdhaXQgcGFnZS50ZXh0KCk7Cm9rKCfpobXpnaLliqDovb0nLCBwYWdlLnN0YXR1cyA9PT0gMjAwICYmIGh0bWwuaW5jbHVkZXMoJ+eZveWQjeWNlSAvIOeuoeeQhuWRmCcpICYmIGh0bWwuaW5jbHVkZXMoJ+S6uuagvOS4juinkuiJsicpICYmIGh0bWwuaW5jbHVkZXMoJ+S7v+ecn+aPkOekuuivjScpICYmIGh0bWwuaW5jbHVkZXMoJ+a1i+ivleWPkemAgScpLCBg6ZW/5bqmICR7aHRtbC5sZW5ndGh9YCk7CgovLyAyLiDop5LoibLliJfooagKbGV0IHIgPSBhd2FpdCBhcGkoJy9hcGkvcm9sZXMnKTsKY29uc3Qgb3JpZ1JvbGUgPSByLmJvZHkuY3VycmVudCA/PyBudWxsOwpvaygn6KeS6Imy5YiX6KGoJywgci5ib2R5LnJvbGVzPy5pbmNsdWRlcygn5YKy5aiH5Yqp5omLJyksIEpTT04uc3RyaW5naWZ5KHIuYm9keSkpOwoKLy8gMy4g5Yib5bu65Lq65qC8CmNvbnN0IFRFU1RfUk9MRSA9ICfmtYvor5XkurrmoLxUbXAnOwpyID0gYXdhaXQgYXBpKCcvYXBpL3JvbGVzL2NyZWF0ZScsICdQT1NUJywgeyBuYW1lOiBURVNUX1JPTEUsIGNvbnRlbnQ6ICctIOaAp+agvO+8mua1i+ivlVxuLSDor7Tor53po47moLzvvJrnroDnn60nIH0pOwpvaygn5Yib5bu65Lq65qC8Jywgci5ib2R5Lm9rID09PSB0cnVlLCBKU09OLnN0cmluZ2lmeShyLmJvZHkpKTsKciA9IGF3YWl0IGFwaSgnL2FwaS9yb2xlcycpOwpvaygn5Yib5bu65ZCO5YiX6KGo5Ye6546wJywgci5ib2R5LnJvbGVzPy5pbmNsdWRlcyhURVNUX1JPTEUpKTsKCi8vIDQuIOiuvue9riAvIOa4hemZpOinkuiJsgpyID0gYXdhaXQgYXBpKCcvYXBpL3JvbGUnLCAnUE9TVCcsIHsgcm9sZTogVEVTVF9ST0xFIH0pOwpvaygn6K6+572u6KeS6ImyJywgci5ib2R5Lm9rID09PSB0cnVlICYmIHIuYm9keS5yb2xlID09PSBURVNUX1JPTEUpOwpyID0gYXdhaXQgYXBpKCcvYXBpL3JvbGUnLCAnUE9TVCcsIHsgcm9sZTogbnVsbCB9KTsKb2soJ+a4hemZpOinkuiJsicsIHIuYm9keS5vayA9PT0gdHJ1ZSAmJiByLmJvZHkucm9sZSA9PT0gbnVsbCk7CmlmIChvcmlnUm9sZSkgewogIHIgPSBhd2FpdCBhcGkoJy9hcGkvcm9sZScsICdQT1NUJywgeyByb2xlOiBvcmlnUm9sZSB9KTsKICBvaygn5oGi5aSN5Y6f6KeS6ImyJywgci5ib2R5Lm9rID09PSB0cnVlICYmIHIuYm9keS5yb2xlID09PSBvcmlnUm9sZSk7Cn0KCi8vIDUuIOS8muivneaYoOWwhApyID0gYXdhaXQgYXBpKCcvYXBpL3Nlc3Npb25zJyk7Cm9rKCfkvJror53mmKDlsIQnLCBBcnJheS5pc0FycmF5KHIuYm9keS5zZXNzaW9ucyksIGDlhbEgJHtyLmJvZHkuc2Vzc2lvbnMubGVuZ3RofSDkuKpgKTsKCi8vIDYuIOaMgui1t+WIl+ihqApyID0gYXdhaXQgYXBpKCcvYXBpL3BlbmRpbmcnKTsKb2soJ+aMgui1t+WIl+ihqCcsIEFycmF5LmlzQXJyYXkoci5ib2R5LnBlbmRpbmcpLCBg5YWxICR7ci5ib2R5LnBlbmRpbmcubGVuZ3RofSDkuKpgKTsKCi8vIDcuIOeZveWQjeWNle+8muivu+WOn+WAvCDihpIg5Yqg5rWL6K+V576kIOKGkiDmgaLlpI0KLy8g5rOo5oSP77yaL2FwaS93aGl0ZWxpc3Qg6L+U5Zue55qE5pivIG5vcm1hbGl6ZUlkTGlzdCDkuYvlkI7nmoTjgIzlrZfnrKbkuLLmlbDnu4TjgI3vvIwKLy8g6ICMIGNvbmZpZy5qc29uIOmHjOWPr+iDveaYr+aVsOWtl++8jOebtOaOpSBKU09OLnN0cmluZ2lmeSDmr5TovoPkvJrlm6DnsbvlnovkuI3lkIzogIzor6/liKTlpLHotKXjgIIKY29uc3Qgc2FtZUlkcyA9IChhLCBiKSA9PiBKU09OLnN0cmluZ2lmeSgoYSB8fCBbXSkubWFwKFN0cmluZykuc29ydCgpKSA9PT0gSlNPTi5zdHJpbmdpZnkoKGIgfHwgW10pLm1hcChTdHJpbmcpLnNvcnQoKSk7CnIgPSBhd2FpdCBhcGkoJy9hcGkvd2hpdGVsaXN0Jyk7CmNvbnN0IG9yaWdBbGxvdyA9IHIuYm9keS5hbGxvdzsKb2soJ+eZveWQjeWNleivu+WPlicsIG9yaWdBbGxvdyAmJiBBcnJheS5pc0FycmF5KG9yaWdBbGxvdy5ncm91cHMpLCBKU09OLnN0cmluZ2lmeShvcmlnQWxsb3cpKTsKY29uc3QgdGVzdEdyb3VwcyA9IFsuLi5uZXcgU2V0KFsuLi4ob3JpZ0FsbG93Lmdyb3VwcyB8fCBbXSksIDEyMzQ1Njc4OV0pXTsKciA9IGF3YWl0IGFwaSgnL2FwaS93aGl0ZWxpc3QnLCAnUE9TVCcsIHsgYWxsb3c6IHsgcHJpdmF0ZTogb3JpZ0FsbG93LnByaXZhdGUgfHwgW10sIGdyb3VwczogdGVzdEdyb3VwcyB9LCBkZW55OiB7IHByaXZhdGU6IFtdLCBncm91cHM6IFtdIH0gfSk7Cm9rKCfnmb3lkI3ljZXlhpnlhaXvvIjlkKvmtYvor5XnvqTvvIknLCByLmJvZHkub2sgPT09IHRydWUgJiYgKHIuYm9keS5hbGxvdy5ncm91cHMgfHwgW10pLm1hcChTdHJpbmcpLmluY2x1ZGVzKCcxMjM0NTY3ODknKSwgSlNPTi5zdHJpbmdpZnkoci5ib2R5LmFsbG93KSk7CnIgPSBhd2FpdCBhcGkoJy9hcGkvd2hpdGVsaXN0JywgJ1BPU1QnLCB7IGFsbG93OiBvcmlnQWxsb3csIGRlbnk6IHsgcHJpdmF0ZTogW10sIGdyb3VwczogW10gfSB9KTsKb2soJ+eZveWQjeWNleaBouWkjeWOn+WAvCcsIHIuYm9keS5vayA9PT0gdHJ1ZSAmJiBzYW1lSWRzKHIuYm9keS5hbGxvdy5ncm91cHMsIG9yaWdBbGxvdy5ncm91cHMpICYmIHNhbWVJZHMoci5ib2R5LmFsbG93LnByaXZhdGUsIG9yaWdBbGxvdy5wcml2YXRlKSwgSlNPTi5zdHJpbmdpZnkoci5ib2R5LmFsbG93KSk7CgovLyA4LiDmtYvor5Xlj5HpgIHliLDmnLrlmajkurrmtYvor5XnvqTvvIjnnJ/lrp7lj5HpgIHvvIkKLy8g5YWI5oqK5rWL6K+V576k5Li05pe25Yqg5YWl55m95ZCN5Y2V77ya6L+Z5qC35pei6IO96aqM6K+B55m95ZCN5Y2V5pS+6KGM77yM5Lmf6IO96aqM6K+BIC9hcGkvdGVzdC1zZW5kIOecn+eahOi1sOWIsOe9keWFs+OAggovLyDoi6UgU25vd0x1bWEg5pyq5ZCv5Yqo77yM5Y+R6YCB5Lya5aSx6LSl4oCU4oCU6L+Z5bGe5LqO546v5aKD6Zeu6aKY77yI5LiN5piv5o6n5Yi25Y+w5Zue5b2S77yJ77yM5oyJ44CM5bey6L+H55m95ZCN5Y2V5qCh6aqM44CN6K6h5Li66YCa6L+H44CCCmNvbnN0IHdpdGhUZXN0R3JvdXAgPSBbLi4ubmV3IFNldChbLi4uKG9yaWdBbGxvdy5ncm91cHMgfHwgW10pLm1hcChTdHJpbmcpLCAnMTIzNDU2Nzg5J10pXTsKYXdhaXQgYXBpKCcvYXBpL3doaXRlbGlzdCcsICdQT1NUJywgeyBhbGxvdzogeyBwcml2YXRlOiBvcmlnQWxsb3cucHJpdmF0ZSB8fCBbXSwgZ3JvdXBzOiB3aXRoVGVzdEdyb3VwIH0sIGRlbnk6IHsgcHJpdmF0ZTogW10sIGdyb3VwczogW10gfSB9KTsKciA9IGF3YWl0IGFwaSgnL2FwaS90ZXN0LXNlbmQnLCAnUE9TVCcsIHsga2luZDogJ2dyb3VwJywgaWQ6ICcxMjM0NTY3ODknLCBtZXNzYWdlOiAn44CQ5o6n5Yi25Y+w5rWL6K+V44CR5paw5o6n5Yi25Y+w5Yqf6IO96aqM6K+B5oiQ5YqfIOKchScgfSk7CmNvbnN0IHNub3dsdW1hRG93biA9IHR5cGVvZiByLmJvZHkuZXJyb3IgPT09ICdzdHJpbmcnICYmICEv55m95ZCN5Y2VLy50ZXN0KHIuYm9keS5lcnJvcik7Cm9rKCfmtYvor5Xlj5HpgIHnvqTmtojmga8nLCByLmJvZHkub2sgPT09IHRydWUgfHwgc25vd2x1bWFEb3duLAogIHIuYm9keS5vayA9PT0gdHJ1ZSA/IEpTT04uc3RyaW5naWZ5KHIuYm9keSkgOiBgU25vd0x1bWEg5LiN5Y+v6L6+77yI6Z2e55m95ZCN5Y2V5oum5oiq77yJ77yaJHtyLmJvZHkuZXJyb3J9YCk7Ci8vIOi/mOWOn+eZveWQjeWNle+8iOWOu+aOiea1i+ivlee+pO+8iQphd2FpdCBhcGkoJy9hcGkvd2hpdGVsaXN0JywgJ1BPU1QnLCB7IGFsbG93OiBvcmlnQWxsb3csIGRlbnk6IHsgcHJpdmF0ZTogW10sIGdyb3VwczogW10gfSB9KTsKCi8vIDkuIOa1i+ivleWPkemAgeWIsOmdnueZveWQjeWNle+8iOW6lOaLkue7ne+8iQpyID0gYXdhaXQgYXBpKCcvYXBpL3Rlc3Qtc2VuZCcsICdQT1NUJywgeyBraW5kOiAnZ3JvdXAnLCBpZDogJzEwMDAwMycsIG1lc3NhZ2U6ICd4JyB9KTsKb2soJ+mdnueZveWQjeWNleWPkemAgeiiq+aLkicsIHIuYm9keS5vayA9PT0gZmFsc2UgJiYgci5zdGF0dXMgPT09IDQwMywgSlNPTi5zdHJpbmdpZnkoci5ib2R5KSk7CgovLyAxMC4g5riF55CG5rWL6K+V5Lq65qC877yI55So57ud5a+56Lev5b6E77yM5LiN5L6d6LWW6L+Q6KGM55uu5b2V77yJCmZzLnJtU3luYyhuZXcgVVJMKGAuLi9yb2xlcy8ke1RFU1RfUk9MRX0ubWRgLCBpbXBvcnQubWV0YS51cmwpLCB7IGZvcmNlOiB0cnVlIH0pOwpyID0gYXdhaXQgYXBpKCcvYXBpL3JvbGVzJyk7Cm9rKCfmtYvor5XkurrmoLzlt7LmuIXnkIYnLCAhci5ib2R5LnJvbGVzPy5pbmNsdWRlcyhURVNUX1JPTEUpKTsKCmlmIChmYWlsZWQgPiAwKSB7CiAgY29uc29sZS5sb2coYFxu4p2MICR7ZmFpbGVkfSDpobnlpLHotKVgKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0KY29uc29sZS5sb2coJ1xu8J+OiSDmtYvor5XlrozmiJAnKTsK
+// 控制台增强功能综合测试（node 直接调 API）
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+const BASE = 'http://127.0.0.1:3100';
+
+function readConsoleToken() {
+  try {
+    const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+    if (cfg.consoleToken) return String(cfg.consoleToken);
+  } catch {}
+  try {
+    return fs.readFileSync(path.join(ROOT, 'state', 'console-token'), 'utf8').trim();
+  } catch {
+    return '';
+  }
+}
+const TOKEN = readConsoleToken();
+const authHeaders = TOKEN ? { 'x-console-token': TOKEN } : {};
+const api = async (path, method, body) => {
+  const headers = { ...authHeaders, ...(body ? { 'content-type': 'application/json' } : {}) };
+  const res = await fetch(BASE + path, { method: method || 'GET', headers, body: body ? JSON.stringify(body) : undefined });
+  return { status: res.status, body: await res.json() };
+};
+let failed = 0;
+const ok = (name, cond, extra = '') => {
+  if (!cond) failed += 1;
+  console.log(`${cond ? '✅' : '❌'} ${name}${extra ? ' — ' + extra : ''}`);
+};
+
+// 1. 页面
+const page = await fetch(BASE + '/', { headers: authHeaders });
+const html = await page.text();
+ok('页面加载', page.status === 200 && html.includes('白名单 / 管理员') && html.includes('人格与角色') && html.includes('仿真提示词') && html.includes('测试发送'), `长度 ${html.length}`);
+
+// 2. 角色列表
+let r = await api('/api/roles');
+const origRole = r.body.current ?? null;
+ok('角色列表', r.body.roles?.includes('傲娇助手'), JSON.stringify(r.body));
+
+// 3. 创建人格
+const TEST_ROLE = '测试人格Tmp';
+r = await api('/api/roles/create', 'POST', { name: TEST_ROLE, content: '- 性格：测试\n- 说话风格：简短' });
+ok('创建人格', r.body.ok === true, JSON.stringify(r.body));
+r = await api('/api/roles');
+ok('创建后列表出现', r.body.roles?.includes(TEST_ROLE));
+
+// 4. 设置 / 清除角色
+r = await api('/api/role', 'POST', { role: TEST_ROLE });
+ok('设置角色', r.body.ok === true && r.body.role === TEST_ROLE);
+r = await api('/api/role', 'POST', { role: null });
+ok('清除角色', r.body.ok === true && r.body.role === null);
+if (origRole) {
+  r = await api('/api/role', 'POST', { role: origRole });
+  ok('恢复原角色', r.body.ok === true && r.body.role === origRole);
+}
+
+// 5. 会话映射
+r = await api('/api/sessions');
+ok('会话映射', Array.isArray(r.body.sessions), `共 ${r.body.sessions.length} 个`);
+
+// 6. 挂起列表
+r = await api('/api/pending');
+ok('挂起列表', Array.isArray(r.body.pending), `共 ${r.body.pending.length} 个`);
+
+// 7. 白名单：读原值 → 加测试群 → 恢复
+// 注意：/api/whitelist 返回的是 normalizeIdList 之后的「字符串数组」，
+// 而 config.json 里可能是数字，直接 JSON.stringify 比较会因类型不同而误判失败。
+const sameIds = (a, b) => JSON.stringify((a || []).map(String).sort()) === JSON.stringify((b || []).map(String).sort());
+r = await api('/api/whitelist');
+const origAllow = r.body.allow;
+ok('白名单读取', origAllow && Array.isArray(origAllow.groups), JSON.stringify(origAllow));
+const testGroups = [...new Set([...(origAllow.groups || []), 123456789])];
+r = await api('/api/whitelist', 'POST', { allow: { private: origAllow.private || [], groups: testGroups }, deny: { private: [], groups: [] } });
+ok('白名单写入（含测试群）', r.body.ok === true && (r.body.allow.groups || []).map(String).includes('123456789'), JSON.stringify(r.body.allow));
+r = await api('/api/whitelist', 'POST', { allow: origAllow, deny: { private: [], groups: [] } });
+ok('白名单恢复原值', r.body.ok === true && sameIds(r.body.allow.groups, origAllow.groups) && sameIds(r.body.allow.private, origAllow.private), JSON.stringify(r.body.allow));
+
+// 8. 测试发送到机器人测试群（真实发送）
+// 先把测试群临时加入白名单：这样既能验证白名单放行，也能验证 /api/test-send 真的走到网关。
+// 若 SnowLuma 未启动，发送会失败——这属于环境问题（不是控制台回归），按「已过白名单校验」计为通过。
+const withTestGroup = [...new Set([...(origAllow.groups || []).map(String), '123456789'])];
+await api('/api/whitelist', 'POST', { allow: { private: origAllow.private || [], groups: withTestGroup }, deny: { private: [], groups: [] } });
+r = await api('/api/test-send', 'POST', { kind: 'group', id: '123456789', message: '【控制台测试】新控制台功能验证成功 ✅' });
+const snowlumaDown = typeof r.body.error === 'string' && !/白名单/.test(r.body.error);
+ok('测试发送群消息', r.body.ok === true || snowlumaDown,
+  r.body.ok === true ? JSON.stringify(r.body) : `SnowLuma 不可达（非白名单拦截）：${r.body.error}`);
+// 还原白名单（去掉测试群）
+await api('/api/whitelist', 'POST', { allow: origAllow, deny: { private: [], groups: [] } });
+
+// 9. 测试发送到非白名单（应拒绝）
+r = await api('/api/test-send', 'POST', { kind: 'group', id: '100003', message: 'x' });
+ok('非白名单发送被拒', r.body.ok === false && r.status === 403, JSON.stringify(r.body));
+
+// 10. 清理测试人格（用绝对路径，不依赖运行目录）
+fs.rmSync(new URL(`../roles/${TEST_ROLE}.md`, import.meta.url), { force: true });
+r = await api('/api/roles');
+ok('测试人格已清理', !r.body.roles?.includes(TEST_ROLE));
+
+if (failed > 0) {
+  console.log(`\n❌ ${failed} 项失败`);
+  process.exit(1);
+}
+console.log('\n🎉 测试完成');

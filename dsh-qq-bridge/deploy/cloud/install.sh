@@ -1,1 +1,74 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIGRzaC1xcS1icmlkZ2Ug5LiK5LqR6YOo572y77yITGludXgg5pyN5Yqh5Zmo77yJCiMg5YmN5o+Q77ya5LiA5Y+wIExpbnV4IOacjeWKoeWZqO+8iFVidW50dS9EZWJpYW4vQ2VudE9T77yMMkM0RyDlpJ/nlKjvvInjgIFOb2RlLmpzIOKJpSAyMi4xMgojIOWcuuaZr++8muacuuWZqOS6uiA3w5cyNCDlnKjnur/vvIzkuI3pnIDopoHnlLXohJHkuIDnm7TlvIDnnYDjgIIKc2V0IC1lCgpQQUNLX0RJUj0iJChjZCAiJChkaXJuYW1lICIkMCIpLy4uLy4uIiAmJiBwd2QpIgpCUklER0VfRElSPSIkUEFDS19ESVIvYnJpZGdlIgoKZWNobyAiPT09IDEuIOajgOafpSBOb2RlID09PSIKY29tbWFuZCAtdiBub2RlID4vZGV2L251bGwgfHwgeyBlY2hvICLlhYjoo4UgTm9kZS5qcyDiiaUgMjIuMTLvvIhudm0g5oiW5a6Y572R5LqM6L+b5Yi277yJIjsgZXhpdCAxOyB9Cm5vZGUgLXYKCmVjaG8gIj09PSAyLiDmm7/mjaLot6/lvoTljaDkvY3nrKYgPT09IgpOT0RFX0JJTj0iJChjb21tYW5kIC12IG5vZGUpIgpzZWQgLWkgXAogIC1lICJzfEBATk9ERUBAfCROT0RFX0JJTnxnIiBcCiAgLWUgInN8QEBCUklER0VAQHwkQlJJREdFX0RJUnxnIiBcCiAgIiRQQUNLX0RJUi9jb3JkaXMucGF0Y2gueW1sIgoKZWNobyAiPT09IDMuIOeUn+aIkOmFjee9riA9PT0iCmlmIFsgISAtZiAiJEJSSURHRV9ESVIvY29uZmlnLmpzb24iIF07IHRoZW4KICBjcCAiJEJSSURHRV9ESVIvY29uZmlnLmV4YW1wbGUuanNvbiIgIiRCUklER0VfRElSL2NvbmZpZy5qc29uIgogIGVjaG8gIuW3sueUn+aIkCBjb25maWcuanNvbu+8muivt+WhqyBTbm93THVtYSDlnLDlnYDkuI4gYWNjZXNzVG9rZW7jgIFEZWVwU2VlayDpibTmnYPjgIIiCmZpCgplY2hvICI9PT0gNC4g5a6J6KOF5L6d6LWWID09PSIKY2QgIiRCUklER0VfRElSIgppZiBbIC1mIHBhY2thZ2UuanNvbiBdICYmIFsgISAtZCBub2RlX21vZHVsZXMgXTsgdGhlbgogIChwbnBtIGluc3RhbGwgLS1wcm9kIDI+L2Rldi9udWxsIHx8IG5wbSBpbnN0YWxsIC0tb21pdD1kZXYgMj4vZGV2L251bGwpIHx8IGVjaG8gIu+8iOS+nei1luWuieijheWksei0peS4jeW9seWTjeaguOW/g++8jOS7heWKn+iDvee8uuWkse+8iSIKZmkKCmVjaG8gIj09PSA1LiDms6jlhowgc3lzdGVtZCDluLjpqbvmnI3liqEgPT09IgpTRVJWSUNFX05BTUU9ImRzaC1xcS1icmlkZ2UiClNFUlZJQ0VfRklMRT0iL2V0Yy9zeXN0ZW1kL3N5c3RlbS8kU0VSVklDRV9OQU1FLnNlcnZpY2UiCmlmIFsgLXcgL2V0Yy9zeXN0ZW1kL3N5c3RlbSBdOyB0aGVuCiAgY2F0ID4gIiRTRVJWSUNFX0ZJTEUiIDw8IEVPRgpbVW5pdF0KRGVzY3JpcHRpb249ZHNoLXFxLWJyaWRnZSBRUSBBSSBib3QKQWZ0ZXI9bmV0d29yay1vbmxpbmUudGFyZ2V0CldhbnRzPW5ldHdvcmstb25saW5lLnRhcmdldAoKW1NlcnZpY2VdClR5cGU9c2ltcGxlCldvcmtpbmdEaXJlY3Rvcnk9JEJSSURHRV9ESVIKRXhlY1N0YXJ0PS91c3IvYmluL2VudiBiYXNoICRCUklER0VfRElSL3N0YXJ0dXAuc2gKUmVzdGFydD1hbHdheXMKUmVzdGFydFNlYz0xMAoKW0luc3RhbGxdCldhbnRlZEJ5PW11bHRpLXVzZXIudGFyZ2V0CkVPRgogIHN5c3RlbWN0bCBkYWVtb24tcmVsb2FkCiAgc3lzdGVtY3RsIGVuYWJsZSAtLW5vdyAiJFNFUlZJQ0VfTkFNRSIKICBlY2hvICJzeXN0ZW1kIOacjeWKoeW3suWQr+WKqO+8mnN5c3RlbWN0bCBzdGF0dXMgJFNFUlZJQ0VfTkFNRSIKZWxzZQogIGVjaG8gIuaXoCBzeXN0ZW1kIOadg+mZkO+8muaUueeUqCBub2h1cCDlkI7lj7Dov5DooYwiCiAgbm9odXAgYmFzaCAiJEJSSURHRV9ESVIvc3RhcnR1cC5zaCIgPi9kZXYvbnVsbCAyPiYxICYKICBlY2hvICLlt7LlkI7lj7DlkK/liqjvvIhQSUQgJCHvvInjgILmjIHkuYXljJbor7fnlKggc3VwZXJ2aXNvci9wbTIg5oiWIGNyb250YWIgQHJlYm9vdOOAgiIKZmkKCnNsZWVwIDUKbm9kZSAtZSAiCmZldGNoKCdodHRwOi8vMTI3LjAuMC4xOjMxMDAvYXBpL3N0YXR1cz90b2tlbj0nKyhyZXF1aXJlKCdmcycpLnJlYWRGaWxlU3luYygnJEJSSURHRV9ESVIvc3RhdGUvY29uc29sZS10b2tlbicsJ3V0ZjgnKS50cmltKCkpKQogIC50aGVuKHI9PnIuanNvbigpKS50aGVuKGo9PmNvbnNvbGUubG9nKCfmoaXmjqXnirbmgIE6JyxqLm1vZGUsJ2RzaFJlYWR5PScrai5kc2hSZWFkeSwnc25vd2x1bWE9Jysoai5zbm93bHVtYSYmai5zbm93bHVtYS5jb25uZWN0ZWQpKSkKICAuY2F0Y2goKCk9PmNvbnNvbGUubG9nKCfmoaXmjqXmnKrlsLHnu6rvvIzmn6XnnIsgYnJpZGdlL3N0YXRlL2JyaWRnZS5sb2cnKSk7CiIKCmVjaG8KZWNobyAiPT09IOWujOaIkCA9PT0iCmVjaG8gIuacjeWKoeWZqOS4iueahCBEU0jvvJoiCmVjaG8gIiAgQS4g5bey5Zyo5pyN5Yqh5Zmo6KOF5LqGIERTSO+8muaKiuaPkuS7tuWQjOagtyBsaW5rIOi/m+acjeWKoeWZqCBEU0ggcHJvZmlsZe+8iOWQjCBkZXBsb3kvbG9jYWwvaW5zdGFsbC5zaCDnmoQgMS0yIOatpe+8iSIKZWNobyAiICBCLiDmsqHoo4UgRFNI77ya5qGl5o6l5pSv5oyBIGRzaC5hbGxvd1JlbW90Ze+8jOWPr+i/nuS9oOeUteiEkS/miYvmnLrkuIrnmoQgRFNI77yIY29uZmlnLmpzb24g6YeM6YWNIGRzaC5iYXNlVXJs77yJIgplY2hvICIgICAgIOKAlOKAlCDmjqjojZAgQe+8muWFqOS6keaetuaehO+8jOacgOecgeW/g+OAgiIK
+#!/usr/bin/env bash
+# dsh-qq-bridge 上云部署（Linux 服务器）
+# 前提：一台 Linux 服务器（Ubuntu/Debian/CentOS，2C4G 够用）、Node.js ≥ 22.12
+# 场景：机器人 7×24 在线，不需要电脑一直开着。
+set -e
+
+PACK_DIR="$(cd "$(dirname "$0")/../.." && pwd)"
+BRIDGE_DIR="$PACK_DIR/bridge"
+
+echo "=== 1. 检查 Node ==="
+command -v node >/dev/null || { echo "先装 Node.js ≥ 22.12（nvm 或官网二进制）"; exit 1; }
+node -v
+
+echo "=== 2. 替换路径占位符 ==="
+NODE_BIN="$(command -v node)"
+sed -i \
+  -e "s|@@NODE@@|$NODE_BIN|g" \
+  -e "s|@@BRIDGE@@|$BRIDGE_DIR|g" \
+  "$PACK_DIR/cordis.patch.yml"
+
+echo "=== 3. 生成配置 ==="
+if [ ! -f "$BRIDGE_DIR/config.json" ]; then
+  cp "$BRIDGE_DIR/config.example.json" "$BRIDGE_DIR/config.json"
+  echo "已生成 config.json：请填 SnowLuma 地址与 accessToken、DeepSeek 鉴权。"
+fi
+
+echo "=== 4. 安装依赖 ==="
+cd "$BRIDGE_DIR"
+if [ -f package.json ] && [ ! -d node_modules ]; then
+  (pnpm install --prod 2>/dev/null || npm install --omit=dev 2>/dev/null) || echo "（依赖安装失败不影响核心，仅功能缺失）"
+fi
+
+echo "=== 5. 注册 systemd 常驻服务 ==="
+SERVICE_NAME="dsh-qq-bridge"
+SERVICE_FILE="/etc/systemd/system/$SERVICE_NAME.service"
+if [ -w /etc/systemd/system ]; then
+  cat > "$SERVICE_FILE" << EOF
+[Unit]
+Description=dsh-qq-bridge QQ AI bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=$BRIDGE_DIR
+ExecStart=/usr/bin/env bash $BRIDGE_DIR/startup.sh
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
+EOF
+  systemctl daemon-reload
+  systemctl enable --now "$SERVICE_NAME"
+  echo "systemd 服务已启动：systemctl status $SERVICE_NAME"
+else
+  echo "无 systemd 权限：改用 nohup 后台运行"
+  nohup bash "$BRIDGE_DIR/startup.sh" >/dev/null 2>&1 &
+  echo "已后台启动（PID $!）。持久化请用 supervisor/pm2 或 crontab @reboot。"
+fi
+
+sleep 5
+node -e "
+fetch('http://127.0.0.1:3100/api/status?token='+(require('fs').readFileSync('$BRIDGE_DIR/state/console-token','utf8').trim()))
+  .then(r=>r.json()).then(j=>console.log('桥接状态:',j.mode,'dshReady='+j.dshReady,'snowluma='+(j.snowluma&&j.snowluma.connected)))
+  .catch(()=>console.log('桥接未就绪，查看 bridge/state/bridge.log'));
+"
+
+echo
+echo "=== 完成 ==="
+echo "服务器上的 DSH："
+echo "  A. 已在服务器装了 DSH：把插件同样 link 进服务器 DSH profile（同 deploy/local/install.sh 的 1-2 步）"
+echo "  B. 没装 DSH：桥接支持 dsh.allowRemote，可连你电脑/手机上的 DSH（config.json 里配 dsh.baseUrl）"
+echo "     —— 推荐 A：全云架构，最省心。"

@@ -1,1 +1,30 @@
-Ly8g5riF55CG5YmN44CM6K6w5b+G5pS25bC+44CN77ya6K6p5oyH5a6a5Lya6K+d5Zyo5LiK5LiL5paH6KKr6YeN572u5YmN77yM5oqK6YeN6KaB55qE5LqL5YaZ6L+b6ZW/5pyf6K6w5b+GCi8vIOeUqOazle+8mm5vZGUgd3JhcHVwLmNqcyA8Y29uc29sZS10b2tlbj4gW2tleS4uLl3vvIjkuI3kvKAga2V5IOm7mOiupOengeiBiu+8iQpjb25zdCB0b2tlbiA9IHByb2Nlc3MuYXJndlsyXSB8fCAnJzsKY29uc3Qga2V5cyA9IHByb2Nlc3MuYXJndi5zbGljZSgzKS5maWx0ZXIoQm9vbGVhbik7CmlmICgha2V5cy5sZW5ndGgpIGtleXMucHVzaCgncHJpdmF0ZTo85Li75Lq6UVHlj7c+Jyk7CgooYXN5bmMgKCkgPT4gewogIGxldCBva0NvdW50ID0gMDsKICBmb3IgKGNvbnN0IGtleSBvZiBrZXlzKSB7CiAgICB0cnkgewogICAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgaHR0cDovLzEyNy4wLjAuMTozMTAwL2FwaS9zb2NpYWxWMi93cmFwdXA/dG9rZW49JHtlbmNvZGVVUklDb21wb25lbnQodG9rZW4pfWAsIHsKICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICBoZWFkZXJzOiB7ICdjb250ZW50LXR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGtleSB9KSwKICAgICAgICBzaWduYWw6IEFib3J0U2lnbmFsLnRpbWVvdXQoMjAwMDApCiAgICAgIH0pOwogICAgICBjb25zdCBqID0gYXdhaXQgcmVzLmpzb24oKS5jYXRjaCgoKSA9PiAoe30pKTsKICAgICAgaWYgKGoub2spIHsKICAgICAgICBva0NvdW50Kys7CiAgICAgICAgaWYgKGouY29tcGxldGVkID09PSBmYWxzZSkgY29uc29sZS5sb2coYCAgJHtrZXl9IOaUtuWwvuacquWujOaIkO+8iOWbnuWQiOS7jeWcqOi3ke+8iWApOwogICAgICAgIGVsc2UgaWYgKGouc2tpcHBlZCkgY29uc29sZS5sb2coYCAgJHtrZXl9IOaXoOmcgOaUtuWwvmApOwogICAgICAgIGVsc2UgY29uc29sZS5sb2coYCAgJHtrZXl9IOaUtuWwvuaPkOekuuW3suaKlemAkmApOwogICAgICB9CiAgICAgIGVsc2UgY29uc29sZS5sb2coYCAgJHtrZXl9IOaUtuWwvuWksei0pTogJHtqLmVycm9yIHx8IHJlcy5zdGF0dXN9YCk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGNvbnNvbGUubG9nKGAgICR7a2V5fSDmlLblsL7lvILluLg6ICR7ZS5tZXNzYWdlfWApOwogICAgfQogIH0KICBjb25zb2xlLmxvZyhg5pS25bC+5a6M5oiQ77yaJHtva0NvdW50fS8ke2tleXMubGVuZ3RofWApOwp9KSgpOwo=
+// 清理前「记忆收尾」：让指定会话在上下文被重置前，把重要的事写进长期记忆
+// 用法：node wrapup.cjs <console-token> [key...]（不传 key 默认私聊）
+const token = process.argv[2] || '';
+const keys = process.argv.slice(3).filter(Boolean);
+if (!keys.length) keys.push('private:<主人QQ号>');
+
+(async () => {
+  let okCount = 0;
+  for (const key of keys) {
+    try {
+      const res = await fetch(`http://127.0.0.1:3100/api/socialV2/wrapup?token=${encodeURIComponent(token)}`, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ key }),
+        signal: AbortSignal.timeout(20000)
+      });
+      const j = await res.json().catch(() => ({}));
+      if (j.ok) {
+        okCount++;
+        if (j.completed === false) console.log(`  ${key} 收尾未完成（回合仍在跑）`);
+        else if (j.skipped) console.log(`  ${key} 无需收尾`);
+        else console.log(`  ${key} 收尾提示已投递`);
+      }
+      else console.log(`  ${key} 收尾失败: ${j.error || res.status}`);
+    } catch (e) {
+      console.log(`  ${key} 收尾异常: ${e.message}`);
+    }
+  }
+  console.log(`收尾完成：${okCount}/${keys.length}`);
+})();

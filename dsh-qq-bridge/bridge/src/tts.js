@@ -1,1 +1,107 @@
-Ly8gTWluaU1heCDor63pn7PlkIjmiJDvvJrmloflrZcg4oaSIOacrOWcsOmfs+mikeaWh+S7tu+8iOS+myBRUSDor63pn7PmnaHlj5HpgIHvvInjgIIKLy8KLy8g6K6+6K6h6KaB54K577yaCi8vICAtIOS4jiBicmlkZ2UuanMg6Kej6ICm77ya5LiN6K+75YWo5bGAIGNvbmZpZ++8jOiwg+eUqOaWueaKiumFjee9ruS8oOi/m+adpe+8iOS+v+S6jua1i+ivleS4juWkjeeUqO+8ieOAggovLyAgLSDlj4znq6/ngrnlm57pgIDvvJphcGkubWluaW1heGkuY29tIOS4jiBhcGkubWluaW1heC5jaGF0IOmDveivle+8jOWFiOaIkOWKn+iAheS4uuWHhuOAggovLyAgLSDlj6rokL3nm5jliLDosIPnlKjmlrnmjIflrprnmoTor63pn7PlupPnm67lvZXvvIzmlofku7blkI3nlLHosIPnlKjmlrnnu5nvvIjpgb/lhY3ot6/lvoTnqb/otorvvInjgIIKLy8gIC0g5pSv5oyBIGVtb3Rpb27vvIjor63msJTvvInvvJpoYXBweSAvIHNhZCAvIGFuZ3J5IC8gZmVhcmZ1bCAvIGRpc2d1c3RlZCAvIHN1cnByaXNlZCAvIG5ldXRyYWzvvIwKLy8gICAgc3BlZWNoLTAyLWhkIOWunua1i+aUr+aMge+8jOS8muaYjuaYvuaUueWPmOivreawlOS4juiKguWlj++8iHNhZCDmm7TmhaLjgIFoYXBweSDmm7Tovbvlv6vvvInjgIIKLy8gIC0g5pSv5oyBIHBpdGNo77yI6Z+z6LCDIC0xMn4xMiDljYrpn7PvvInkuI4gc3BlZWTvvIgwLjV+Mu+8ieOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7Cgpjb25zdCBNSU5JTUFYX0VORFBPSU5UUyA9IFsKICAnaHR0cHM6Ly9hcGkubWluaW1heGkuY29tL3YxL3QyYV92MicsCiAgJ2h0dHBzOi8vYXBpLm1pbmltYXguY2hhdC92MS90MmFfdjInCl07CgpleHBvcnQgY29uc3QgRU1PVElPTlMgPSBbJ2hhcHB5JywgJ3NhZCcsICdhbmdyeScsICdmZWFyZnVsJywgJ2Rpc2d1c3RlZCcsICdzdXJwcmlzZWQnLCAnbmV1dHJhbCddOwoKLyoqCiAqIOWQiOaIkOivremfs+WIsOaWh+S7tuOAggogKiBAcGFyYW0ge3N0cmluZ30gdGV4dCDopoHor7vnmoTmloflrZcKICogQHBhcmFtIHtvYmplY3R9IG9wdHMgeyBhcGlLZXksIG1vZGVsLCB2b2ljZUlkLCBzcGVlZCwgdm9sdW1lLCBwaXRjaCwgZW1vdGlvbiwgZm9ybWF0LCBzYW1wbGVSYXRlLCBtYXhDaGFycywgb3V0RGlyLCBmaWxlTmFtZSB9CiAqIEByZXR1cm5zIHtQcm9taXNlPHtmaWxlOnN0cmluZywgYnl0ZXM6bnVtYmVyLCBkdXJhdGlvbk1zOm51bWJlcnxudWxsLCBjaGFyczpudW1iZXIsIGVtb3Rpb246c3RyaW5nfT59CiAqLwpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc3ludGhlc2l6ZVRvRmlsZSh0ZXh0LCBvcHRzID0ge30pIHsKICBjb25zdCBjb250ZW50ID0gU3RyaW5nKHRleHQgPz8gJycpLnRyaW0oKTsKICBpZiAoIWNvbnRlbnQpIHRocm93IG5ldyBFcnJvcigndGV4dCDkuI3og73kuLrnqbonKTsKICBjb25zdCBtYXhDaGFycyA9IE51bWJlcihvcHRzLm1heENoYXJzKSA+IDAgPyBOdW1iZXIob3B0cy5tYXhDaGFycykgOiAzMDA7CiAgaWYgKGNvbnRlbnQubGVuZ3RoID4gbWF4Q2hhcnMpIHsKICAgIHRocm93IG5ldyBFcnJvcihg6K+t6Z+z5paH5pys6L+H6ZW/77yIJHtjb250ZW50Lmxlbmd0aH0g5a2X77yM5LiK6ZmQICR7bWF4Q2hhcnN9IOWtl++8iWApOwogIH0KICBjb25zdCBhcGlLZXkgPSBTdHJpbmcob3B0cy5hcGlLZXkgPz8gJycpLnRyaW0oKTsKICBpZiAoIWFwaUtleSkgdGhyb3cgbmV3IEVycm9yKCfmnKrphY3nva4gVFRTIGFwaUtlee+8iGNvbmZpZy5qc29uIOKGkiBzb2NpYWxWMi52b2ljZS50dHMuYXBpS2V577yJJyk7CiAgY29uc3QgZm9ybWF0ID0gU3RyaW5nKG9wdHMuZm9ybWF0IHx8ICdtcDMnKS50b0xvd2VyQ2FzZSgpOwogIGNvbnN0IGVtb3Rpb24gPSBTdHJpbmcob3B0cy5lbW90aW9uIHx8ICcnKS50cmltKCkudG9Mb3dlckNhc2UoKTsKICBjb25zdCB1c2VFbW90aW9uID0gRU1PVElPTlMuaW5jbHVkZXMoZW1vdGlvbikgPyBlbW90aW9uIDogJyc7CgogIC8vIOecn+S6uuaEn+eahOS4pOS4quWwj+aJi+aute+8mgogIC8vICAxKSDnnIHnlaXlj7fop4TojIPljJbvvJoiLi4uIiDkvJrooqvor7vmiJDlgZzpob/vvIwi4oCm4oCmIiDlgZzpob/mm7Toh6rnhLYKICAvLyAgMikg6K+t6YCfL+mfs+iwg+WBmuW+ruWwj+maj+acuuaKluWKqO+8muavj+WPpeS4gOaooeS4gOagt+WwseaYr+acuuaisOaEn+eahOadpea6kAogIGNvbnN0IG5vcm1hbGl6ZWQgPSBjb250ZW50LnJlcGxhY2UoL1wuezMsfS9nLCAn4oCm4oCmJykucmVwbGFjZSgv44CC44CC44CCL2csICfigKbigKYnKTsKICBjb25zdCBqaXR0ZXIgPSAoYmFzZSwgYW1wLCBtaW4sIG1heCkgPT4gewogICAgY29uc3QgdiA9IGJhc2UgKyAoTnVtYmVyKGFtcCkgPiAwID8gKE1hdGgucmFuZG9tKCkgKiAyIC0gMSkgKiBOdW1iZXIoYW1wKSA6IDApOwogICAgcmV0dXJuIE1hdGgubWF4KG1pbiwgTWF0aC5taW4obWF4LCB2KSk7CiAgfTsKICBjb25zdCBzcGVlZEJhc2UgPSBOdW1iZXIob3B0cy5zcGVlZCkgPiAwID8gTnVtYmVyKG9wdHMuc3BlZWQpIDogMTsKICBjb25zdCBzcGVlZCA9IE51bWJlcihqaXR0ZXIoc3BlZWRCYXNlLCBvcHRzLnNwZWVkSml0dGVyLCAwLjUsIDIpLnRvRml4ZWQoMykpOwogIGNvbnN0IHBpdGNoQmFzZSA9IE51bWJlci5pc0Zpbml0ZShOdW1iZXIob3B0cy5waXRjaCkpID8gTnVtYmVyKG9wdHMucGl0Y2gpIDogMDsKICAvLyBwaXRjaCDlv4XpobvmmK/mlbTmlbDvvIhpbnQ2NO+8ie+8jOaKluWKqOWQjuWbm+iIjeS6lOWFpQogIGNvbnN0IHBpdGNoID0gTWF0aC5yb3VuZChqaXR0ZXIocGl0Y2hCYXNlLCBvcHRzLnBpdGNoSml0dGVyLCAtMTIsIDEyKSk7CgogIGNvbnN0IHBheWxvYWQgPSB7CiAgICBtb2RlbDogU3RyaW5nKG9wdHMubW9kZWwgfHwgJ3NwZWVjaC0wMi1oZCcpLAogICAgdGV4dDogbm9ybWFsaXplZCwKICAgIHN0cmVhbTogZmFsc2UsCiAgICB2b2ljZV9zZXR0aW5nOiB7CiAgICAgIHZvaWNlX2lkOiBTdHJpbmcob3B0cy52b2ljZUlkIHx8ICdmZW1hbGUtc2hhb252JyksCiAgICAgIHNwZWVkOiBOdW1iZXIob3B0cy5zcGVlZCkgPiAwID8gTnVtYmVyKG9wdHMuc3BlZWQpIDogMSwKICAgICAgdm9sOiBOdW1iZXIob3B0cy52b2x1bWUpID4gMCA/IE51bWJlcihvcHRzLnZvbHVtZSkgOiAxLAogICAgICBwaXRjaCwKICAgICAgLi4uKHVzZUVtb3Rpb24gPyB7IGVtb3Rpb246IHVzZUVtb3Rpb24gfSA6IHt9KQogICAgfSwKICAgIGF1ZGlvX3NldHRpbmc6IHsKICAgICAgc2FtcGxlX3JhdGU6IE51bWJlcihvcHRzLnNhbXBsZVJhdGUpID4gMCA/IE51bWJlcihvcHRzLnNhbXBsZVJhdGUpIDogMzIwMDAsCiAgICAgIGJpdHJhdGU6IDEyODAwMCwKICAgICAgZm9ybWF0LAogICAgICBjaGFubmVsOiAxCiAgICB9CiAgfTsKCiAgbGV0IGxhc3RFcnJvciA9IG51bGw7CiAgZm9yIChjb25zdCB1cmwgb2YgTUlOSU1BWF9FTkRQT0lOVFMpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKHVybCwgewogICAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICAgIGhlYWRlcnM6IHsgYXV0aG9yaXphdGlvbjogYEJlYXJlciAke2FwaUtleX1gLCAnY29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkocGF5bG9hZCksCiAgICAgICAgc2lnbmFsOiBBYm9ydFNpZ25hbC50aW1lb3V0KDMwMDAwKQogICAgICB9KTsKICAgICAgY29uc3QganNvbiA9IGF3YWl0IHJlcy5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSk7CiAgICAgIGNvbnN0IGhleCA9IGpzb24/LmRhdGE/LmF1ZGlvOwogICAgICBpZiAoIXJlcy5vayB8fCAhaGV4KSB7CiAgICAgICAgY29uc3QgYnJpZWYgPSBKU09OLnN0cmluZ2lmeShqc29uPy5iYXNlX3Jlc3AgPz8ganNvbiA/PyB7fSkuc2xpY2UoMCwgMjAwKTsKICAgICAgICBsYXN0RXJyb3IgPSBuZXcgRXJyb3IoYFRUUyDmjqXlj6MgJHtyZXMuc3RhdHVzfe+8miR7YnJpZWZ9YCk7CiAgICAgICAgY29udGludWU7CiAgICAgIH0KICAgICAgY29uc3QgYnVmID0gQnVmZmVyLmZyb20oU3RyaW5nKGhleCksICdoZXgnKTsKICAgICAgaWYgKCFidWYubGVuZ3RoKSB7IGxhc3RFcnJvciA9IG5ldyBFcnJvcignVFRTIOi/lOWbnuepuumfs+mikScpOyBjb250aW51ZTsgfQogICAgICBjb25zdCBkaXIgPSBvcHRzLm91dERpciB8fCAnLic7CiAgICAgIGZzLm1rZGlyU3luYyhkaXIsIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwogICAgICBjb25zdCBmaWxlTmFtZSA9IFN0cmluZyhvcHRzLmZpbGVOYW1lIHx8IGB0dHMtJHtEYXRlLm5vdygpfS4ke2Zvcm1hdH1gKS5yZXBsYWNlKC9bXFwvXS9nLCAnXycpOwogICAgICBjb25zdCBmaWxlID0gcGF0aC5qb2luKGRpciwgZmlsZU5hbWUpOwogICAgICBmcy53cml0ZUZpbGVTeW5jKGZpbGUsIGJ1Zik7CiAgICAgIHJldHVybiB7CiAgICAgICAgZmlsZSwKICAgICAgICBieXRlczogYnVmLmxlbmd0aCwKICAgICAgICBkdXJhdGlvbk1zOiBOdW1iZXIoanNvbj8uZXh0cmFfaW5mbz8uYXVkaW9fbGVuZ3RoKSB8fCBudWxsLAogICAgICAgIGNoYXJzOiBjb250ZW50Lmxlbmd0aCwKICAgICAgICBlbW90aW9uOiB1c2VFbW90aW9uIHx8ICduZXV0cmFsJwogICAgICB9OwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgbGFzdEVycm9yID0gZXJyb3I7CiAgICB9CiAgfQogIHRocm93IGxhc3RFcnJvciB8fCBuZXcgRXJyb3IoJ1RUUyDlpLHotKUnKTsKfQo=
+// MiniMax 语音合成：文字 → 本地音频文件（供 QQ 语音条发送）。
+//
+// 设计要点：
+//  - 与 bridge.js 解耦：不读全局 config，调用方把配置传进来（便于测试与复用）。
+//  - 双端点回退：api.minimaxi.com 与 api.minimax.chat 都试，先成功者为准。
+//  - 只落盘到调用方指定的语音库目录，文件名由调用方给（避免路径穿越）。
+//  - 支持 emotion（语气）：happy / sad / angry / fearful / disgusted / surprised / neutral，
+//    speech-02-hd 实测支持，会明显改变语气与节奏（sad 更慢、happy 更轻快）。
+//  - 支持 pitch（音调 -12~12 半音）与 speed（0.5~2）。
+import fs from 'node:fs';
+import path from 'node:path';
+
+const MINIMAX_ENDPOINTS = [
+  'https://api.minimaxi.com/v1/t2a_v2',
+  'https://api.minimax.chat/v1/t2a_v2'
+];
+
+export const EMOTIONS = ['happy', 'sad', 'angry', 'fearful', 'disgusted', 'surprised', 'neutral'];
+
+/**
+ * 合成语音到文件。
+ * @param {string} text 要读的文字
+ * @param {object} opts { apiKey, model, voiceId, speed, volume, pitch, emotion, format, sampleRate, maxChars, outDir, fileName }
+ * @returns {Promise<{file:string, bytes:number, durationMs:number|null, chars:number, emotion:string}>}
+ */
+export async function synthesizeToFile(text, opts = {}) {
+  const content = String(text ?? '').trim();
+  if (!content) throw new Error('text 不能为空');
+  const maxChars = Number(opts.maxChars) > 0 ? Number(opts.maxChars) : 300;
+  if (content.length > maxChars) {
+    throw new Error(`语音文本过长（${content.length} 字，上限 ${maxChars} 字）`);
+  }
+  const apiKey = String(opts.apiKey ?? '').trim();
+  if (!apiKey) throw new Error('未配置 TTS apiKey（config.json → socialV2.voice.tts.apiKey）');
+  const format = String(opts.format || 'mp3').toLowerCase();
+  const emotion = String(opts.emotion || '').trim().toLowerCase();
+  const useEmotion = EMOTIONS.includes(emotion) ? emotion : '';
+
+  // 真人感的两个小手段：
+  //  1) 省略号规范化："..." 会被读成停顿，"……" 停顿更自然
+  //  2) 语速/音调做微小随机抖动：每句一模一样就是机械感的来源
+  const normalized = content.replace(/\.{3,}/g, '……').replace(/。。。/g, '……');
+  const jitter = (base, amp, min, max) => {
+    const v = base + (Number(amp) > 0 ? (Math.random() * 2 - 1) * Number(amp) : 0);
+    return Math.max(min, Math.min(max, v));
+  };
+  const speedBase = Number(opts.speed) > 0 ? Number(opts.speed) : 1;
+  const speed = Number(jitter(speedBase, opts.speedJitter, 0.5, 2).toFixed(3));
+  const pitchBase = Number.isFinite(Number(opts.pitch)) ? Number(opts.pitch) : 0;
+  // pitch 必须是整数（int64），抖动后四舍五入
+  const pitch = Math.round(jitter(pitchBase, opts.pitchJitter, -12, 12));
+
+  const payload = {
+    model: String(opts.model || 'speech-02-hd'),
+    text: normalized,
+    stream: false,
+    voice_setting: {
+      voice_id: String(opts.voiceId || 'female-shaonv'),
+      speed: Number(opts.speed) > 0 ? Number(opts.speed) : 1,
+      vol: Number(opts.volume) > 0 ? Number(opts.volume) : 1,
+      pitch,
+      ...(useEmotion ? { emotion: useEmotion } : {})
+    },
+    audio_setting: {
+      sample_rate: Number(opts.sampleRate) > 0 ? Number(opts.sampleRate) : 32000,
+      bitrate: 128000,
+      format,
+      channel: 1
+    }
+  };
+
+  let lastError = null;
+  for (const url of MINIMAX_ENDPOINTS) {
+    try {
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: { authorization: `Bearer ${apiKey}`, 'content-type': 'application/json' },
+        body: JSON.stringify(payload),
+        signal: AbortSignal.timeout(30000)
+      });
+      const json = await res.json().catch(() => ({}));
+      const hex = json?.data?.audio;
+      if (!res.ok || !hex) {
+        const brief = JSON.stringify(json?.base_resp ?? json ?? {}).slice(0, 200);
+        lastError = new Error(`TTS 接口 ${res.status}：${brief}`);
+        continue;
+      }
+      const buf = Buffer.from(String(hex), 'hex');
+      if (!buf.length) { lastError = new Error('TTS 返回空音频'); continue; }
+      const dir = opts.outDir || '.';
+      fs.mkdirSync(dir, { recursive: true });
+      const fileName = String(opts.fileName || `tts-${Date.now()}.${format}`).replace(/[\\/]/g, '_');
+      const file = path.join(dir, fileName);
+      fs.writeFileSync(file, buf);
+      return {
+        file,
+        bytes: buf.length,
+        durationMs: Number(json?.extra_info?.audio_length) || null,
+        chars: content.length,
+        emotion: useEmotion || 'neutral'
+      };
+    } catch (error) {
+      lastError = error;
+    }
+  }
+  throw lastError || new Error('TTS 失败');
+}

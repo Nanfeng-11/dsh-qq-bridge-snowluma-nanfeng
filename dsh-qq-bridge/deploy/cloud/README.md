@@ -1,1 +1,96 @@
-IyDkuIrkupHpg6jnvbLvvIhMaW51eCDmnI3liqHlmajvvIw3w5cyNCDlnKjnur/vvIkKCuaKiuaVtOWll+acuuWZqOS6uuaUvuacjeWKoeWZqOS4iui3ke+8muS4jemcgOimgeeUteiEkeS4gOebtOW8gOacuu+8jOaJi+acuumaj+aXtuWSjOWug+iBiuOAggoKIyMg5p625p6E77yI5YWo5LqR54mI77yM5o6o6I2Q77yJCmBgYApRUSDnvqQv56eB6IGKIOKGkiBTbm93THVtYe+8iOS6kSBXaW5kb3dz77yJCiAgICAgICAgICAgICAgICDihpMKICAgICAgICAgICAgZHNoLXFxLWJyaWRnZe+8iExpbnV4IOacjeWKoeWZqO+8jHN5c3RlbWQg5bi46am777yJCiAgICAgICAgICAgICAgICDihpMKICAgICAgICAgICAgRFNI77yI5pyN5Yqh5Zmo5LiK77yMaGVhZGxlc3MgLyBBQ1Ag5qih5byP77yJCiAgICAgICAgICAgICAgICDihpMKICAgICAgICAgICAgRGVlcFNlZWsgQVBJCmBgYAoKIyMg5Lik56eN5LqR56uv5b2i5oCBCgp8IOW9ouaAgSB8IOivtOaYjiB8IOmAguWQiCB8CnwtLS18LS0tfC0tLXwKfCAqKuWFqOS6kSoq77yI5o6o6I2Q77yJIHwgU25vd0x1bWEgKyDmoaXmjqUgKyBEU0gg5YWo5Zyo5LqR5LiKIHwg5q2j5byPIDfDlzI0IOi/kOiQpSB8CnwgKirmt7flkIgqKiB8IFNub3dMdW1hIOS6kSArIOahpeaOpeS6kSArIERTSCDnlZnlnKjmnKzlnLDnlLXohJEgfCDkuI3mg7PmioogQUkg5aSn6ISR5pS+5pyN5Yqh5ZmoIHwKCiMjIOWuieijhQoKIyMjIDEuIOWHhuWkh+acjeWKoeWZqApgYGBiYXNoCiMg5Lu75oSPIExpbnV477yIVWJ1bnR1IDIwLjA0KyAvIERlYmlhbiAvIENlbnRPU++8ie+8jDJDNEcg6LW3CiMg6KOFIE5vZGUg4omlIDIyLjEyCmN1cmwgLWZzU0wgaHR0cHM6Ly9kZWIubm9kZXNvdXJjZS5jb20vc2V0dXBfMjIueCB8IGJhc2ggLSAmJiBhcHQgaW5zdGFsbCAteSBub2RlanMKIyDkuIrkvKDmj5Lku7bljIXvvIjmnKzlnLDmiZPljIXlpb3nmoQgZHNoLXFxLWJyaWRnZS50Z3rvvIkKc2NwIGRzaC1xcS1icmlkZ2UudGd6IHJvb3RA5L2g55qE5pyN5Yqh5ZmoOi9vcHQvCnNzaCByb290QOS9oOeahOacjeWKoeWZqApjZCAvb3B0ICYmIHRhciAteHpmIGRzaC1xcS1icmlkZ2UudGd6CmBgYAoKIyMjIDIuIOS4gOmUruWuieijhQpgYGBiYXNoCmJhc2ggL29wdC9wYWNrYWdlL2RlcGxveS9jbG91ZC9pbnN0YWxsLnNoCmBgYArohJrmnKzkvJrvvJrmm7/mjaLot6/lvoQg4oaSIOeUn+aIkCBjb25maWcg4oaSIOijheS+nei1liDihpIg5rOo5YaMIHN5c3RlbWQg5bi46am75pyN5YqhIOKGkiDlkK/liqjlubboh6rmo4DjgIIKCiMjIyAzLiDphY3nva4KYGBgYmFzaAp2aSAvb3B0L3BhY2thZ2UvYnJpZGdlL2NvbmZpZy5qc29uCmBgYApgYGBqc29uCnsKICAic25vd2x1bWEiOiB7CiAgICAid3NVcmwiOiAid3M6Ly/kvaDnmoRTbm93THVtYeacjeWKoeWZqDozMDAxIiwKICAgICJodHRwVXJsIjogImh0dHA6Ly/kvaDnmoRTbm93THVtYeacjeWKoeWZqDozMDAwIiwKICAgICJhY2Nlc3NUb2tlbiI6ICLkvaDnmoR0b2tlbiIKICB9LAogICJkc2giOiB7ICJhdXRoVG9rZW4iOiAiIiB9Cn0KYGBgCgojIyMgNC4g5pyN5Yqh5Zmo5LiK55qEIERTSO+8iOS6jOmAieS4gO+8iQoqKkEuIOacjeWKoeWZqOi3kSBEU0jvvIjlhajkupHvvIkqKgpgYGBiYXNoCiMg5pyN5Yqh5Zmo6KOFIERTSCBDTEkvaGVhZGxlc3PvvIzmiormj5Lku7YgbGluayDov5vlroPnmoQgcHJvZmlsZe+8iOWQjOacrOWcsOmDqOe9sua1geeoi++8iQojIOahpeaOpSBjb25maWcuanNvbiDph4wgZHNoLmJhc2VVcmwg5oyH5ZCR5pys5py6IDMwODAKYGBgCgoqKkIuIERTSCDnlZnlnKjnlLXohJHvvIjmt7flkIjvvIkqKgpgYGBiYXNoCiMg5qGl5o6lIGNvbmZpZy5qc29u77yaCiJkc2giOiB7ICJiYXNlVXJsIjogImh0dHA6Ly/kvaDnmoTnlLXohJHlhaznvZFJUOaIluWGhee9keepv+mAjzozMDgwIiwgImFsbG93UmVtb3RlIjogdHJ1ZSB9CmBgYAo+IOKaoO+4jyBhbGxvd1JlbW90ZSDkvJrmioogRFNIIOWQr+WKqOWHreaNruWPkeW+gOWvueerr+KAlOKAlOWKoeW/heeUqCBTU0gg6Zqn6YGTL+WGhee9keepv+mAj+WKoOWvhumTvui3r++8jAo+IOS4jeimgeijuOWllOWFrOe9keOAggoKIyMg5bi46am75LiO6L+Q57u0CgpgYGBiYXNoCnN5c3RlbWN0bCBzdGF0dXMgZHNoLXFxLWJyaWRnZSAgICAgIyDnirbmgIEKc3lzdGVtY3RsIHJlc3RhcnQgZHNoLXFxLWJyaWRnZSAgICAjIOmHjeWQrwpqb3VybmFsY3RsIC11IGRzaC1xcS1icmlkZ2UgLWYgICAgICMg5pel5b+XCmJhc2ggL29wdC9wYWNrYWdlL2JyaWRnZS9wYWNrLXNvdWwuc2ggICAjIOaJi+WKqOWkh+S7ve+8iOWFg+elnuWMhe+8iQpgYGAKCiMjIOWuiOaKpOS9k+ezu++8iOijheWlveWNs+W4pu+8iQp8IOe7hOS7tiB8IOiBjOi0oyB8CnwtLS18LS0tfAp8IHN5c3RlbWQgfCDov5vnqIvmjILkuoboh6rliqjmi4notbcgfAp8IGd1YXJkaWFuLnNoIHwgMiDliIbpkp/lt6Hmo4DmjqfliLblj7DvvIzlvILluLjoh6rliqjmgaLlpI0gfAp8IGF1dG8tY2xlYW4uc2ggfCDkuIrkuIvmlofliqjmgIHmuIXnkIbvvIjorrDlv4bmlLblsL4g4oaSIOa4heeQhiDihpIg5aSH5Lu977yJIHwKfCBwYWNrLXNvdWwuc2ggfCDmr4/ml6XlhYPnpZ7ljIXlpIfku70gfAoKIyMg5oiQ5pys5Y+C6ICDCmBgYArmnI3liqHlmajvvJoyQzRHIOi9u+mHj+e6piDCpTMwLTYwL+aciO+8iOiFvuiury/pmL/ph4zovbvph4/vvIkKU25vd0x1bWEg5LqRIFdpbmRvd3PvvJrnuqYgwqUxMDAv5pyI77yIMkM0R++8ieaIluS4juahpeaOpeWQjOacuu+8iOiLpeeUqCBXaW5kb3dzIOacjeWKoeWZqO+8iQpEZWVwU2Vla++8mue6piDCpTM4LTUwL+Wkqe+8iOaMiSAzMjAwIOi9ri/lpKnvvIkK6K+t6Z+z77ya57qmIMKlMTAtMzAv5pyICmBgYArnnIHpkrHvvJrkuIrkuIvmlofmuIXnkIblt7LlhoXnva7vvIjmr4/ova7ph43mlL7ph4/lhrPlrprmiJDmnKzvvIkrIOaOqOeQhuaho+eUqCBsb3fjgIIK
+# 上云部署（Linux 服务器，7×24 在线）
+
+把整套机器人放服务器上跑：不需要电脑一直开机，手机随时和它聊。
+
+## 架构（全云版，推荐）
+```
+QQ 群/私聊 → SnowLuma（云 Windows）
+                ↓
+            dsh-qq-bridge（Linux 服务器，systemd 常驻）
+                ↓
+            DSH（服务器上，headless / ACP 模式）
+                ↓
+            DeepSeek API
+```
+
+## 两种云端形态
+
+| 形态 | 说明 | 适合 |
+|---|---|---|
+| **全云**（推荐） | SnowLuma + 桥接 + DSH 全在云上 | 正式 7×24 运营 |
+| **混合** | SnowLuma 云 + 桥接云 + DSH 留在本地电脑 | 不想把 AI 大脑放服务器 |
+
+## 安装
+
+### 1. 准备服务器
+```bash
+# 任意 Linux（Ubuntu 20.04+ / Debian / CentOS），2C4G 起
+# 装 Node ≥ 22.12
+curl -fsSL https://deb.nodesource.com/setup_22.x | bash - && apt install -y nodejs
+# 上传插件包（本地打包好的 dsh-qq-bridge.tgz）
+scp dsh-qq-bridge.tgz root@你的服务器:/opt/
+ssh root@你的服务器
+cd /opt && tar -xzf dsh-qq-bridge.tgz
+```
+
+### 2. 一键安装
+```bash
+bash /opt/package/deploy/cloud/install.sh
+```
+脚本会：替换路径 → 生成 config → 装依赖 → 注册 systemd 常驻服务 → 启动并自检。
+
+### 3. 配置
+```bash
+vi /opt/package/bridge/config.json
+```
+```json
+{
+  "snowluma": {
+    "wsUrl": "ws://你的SnowLuma服务器:3001",
+    "httpUrl": "http://你的SnowLuma服务器:3000",
+    "accessToken": "你的token"
+  },
+  "dsh": { "authToken": "" }
+}
+```
+
+### 4. 服务器上的 DSH（二选一）
+**A. 服务器跑 DSH（全云）**
+```bash
+# 服务器装 DSH CLI/headless，把插件 link 进它的 profile（同本地部署流程）
+# 桥接 config.json 里 dsh.baseUrl 指向本机 3080
+```
+
+**B. DSH 留在电脑（混合）**
+```bash
+# 桥接 config.json：
+"dsh": { "baseUrl": "http://你的电脑公网IP或内网穿透:3080", "allowRemote": true }
+```
+> ⚠️ allowRemote 会把 DSH 启动凭据发往对端——务必用 SSH 隧道/内网穿透加密链路，
+> 不要裸奔公网。
+
+## 常驻与运维
+
+```bash
+systemctl status dsh-qq-bridge     # 状态
+systemctl restart dsh-qq-bridge    # 重启
+journalctl -u dsh-qq-bridge -f     # 日志
+bash /opt/package/bridge/pack-soul.sh   # 手动备份（元神包）
+```
+
+## 守护体系（装好即带）
+| 组件 | 职责 |
+|---|---|
+| systemd | 进程挂了自动拉起 |
+| guardian.sh | 2 分钟巡检控制台，异常自动恢复 |
+| auto-clean.sh | 上下文动态清理（记忆收尾 → 清理 → 备份） |
+| pack-soul.sh | 每日元神包备份 |
+
+## 成本参考
+```
+服务器：2C4G 轻量约 ¥30-60/月（腾讯/阿里轻量）
+SnowLuma 云 Windows：约 ¥100/月（2C4G）或与桥接同机（若用 Windows 服务器）
+DeepSeek：约 ¥38-50/天（按 3200 轮/天）
+语音：约 ¥10-30/月
+```
+省钱：上下文清理已内置（每轮重放量决定成本）+ 推理档用 low。

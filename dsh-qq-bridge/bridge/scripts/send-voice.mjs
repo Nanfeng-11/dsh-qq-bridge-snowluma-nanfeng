@@ -1,1 +1,479 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQovLyDlv6vpgJ/miorjgIzlh4blpIflpb3nmoTpn7PpopHjgI3lvZMgUVEg6K+t6Z+z5Y+R57uZ5oyH5a6a576k6IGKL+engeiBiuOAggovLwovLyDnlKjms5XvvIjlnKggcXEtYnJpZGdlIOebruW9leS4i+aJp+ihjO+8ie+8mgovLyAgIG5vZGUgc2NyaXB0cy9zZW5kLXZvaWNlLm1qcyBsaXN0ICAgICAgICAgICAgICAgICAgICAgICAjIOacieWTquS6m+e+pOiBii/np4HogYrlj6/lj5EKLy8gICBub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgbGlzdC12b2ljZSAgICAgICAgICAgICAgICAgIyDor63pn7PlupPph4zmnInlk6rkupvpn7PpopEKLy8gICBub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgc2VuZCA86Z+z6aKRPiA855uu5qCHPiBb6YCJ6aG5XSAgICMg5Y+R5LiA5p2h6K+t6Z+zCi8vICAgbm9kZSBzY3JpcHRzL3NlbmQtdm9pY2UubWpzIGNoZWNrIDzpn7PpopE+ICAgICAgICAgICAgICAgIyDlj6rmjqLmtYvpn7PpopHvvIjkuI3lj5HpgIHvvIkKLy8gICBub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgc3RhdHVzICAgICAgICAgICAgICAgICAgICAgIyDnvZHlhbMv5qGl5o6l54q25oCBCi8vCi8vIOebruagh+WGmeazle+8mmDnvqTlj7dgIHwgYGdyb3VwOue+pOWPt2AgfCBgcHJpdmF0ZTpRUeWPt2AgfCBgQOaYteensC/nvqTlkI1g77yI5ZSv5LiA5Yy56YWN5pe277yJCi8vCi8vIOiuvuiuoe+8mum7mOiupOi1sCBxcS1icmlkZ2Ug55qEIC9hcGkvc2VuZC92b2ljZSDigJTigJQg55m95ZCN5Y2V44CB6ZmQ5rWB44CB5a6h6K6h44CB5Y+R6YCB6ZO+6Lev6YO95Zyo5qGl5o6l6YeM77yMCi8vIOS4jiBBSSDnlKjnmoTlt6XlhbflrozlhajlkIzkuIDmnaHot6/lvoTvvIjpgb/lhY0gQ0xJIOaIkOS4uue7lei/h+mXuOmXqOeahOWQjumXqO+8ieOAggovLyBgLS1kaXJlY3RgIOWPr+e7lei/h+ahpeaOpeebtOi/niBTbm93THVtYe+8jOS7heeUqOS6juahpeaOpeayoeWQr+WKqOaXtueahOW6lOaApeaOkuafpeOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7CiAgZGVzY3JpYmVBdWRpbywgZm9ybWF0Qnl0ZXMsIGZvcm1hdER1cmF0aW9uLCBpbnNwZWN0QXVkaW8sIGxpc3RBdWRpb0ZpbGVzLAogIHBhcnNlVGFyZ2V0S2V5LCByZXNvbHZlQXVkaW9Tb3VyY2UKfSBmcm9tICcuLi9zcmMvc2VuZC12b2ljZS1saWIuanMnOwoKY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKY29uc3QgQ09ORklHX1BBVEggPSBwYXRoLmpvaW4oUk9PVCwgJ2NvbmZpZy5qc29uJyk7CgovLyDilIDilIAg5Y+C5pWw6Kej5p6QIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApjb25zdCBhcmd2ID0gcHJvY2Vzcy5hcmd2LnNsaWNlKDIpOwpjb25zdCBmbGFncyA9IG5ldyBNYXAoKTsKY29uc3QgcG9zaXRpb25hbCA9IFtdOwpmb3IgKGxldCBpID0gMDsgaSA8IGFyZ3YubGVuZ3RoOyBpKyspIHsKICBjb25zdCBhID0gYXJndltpXTsKICBpZiAoYSA9PT0gJy0tJykgeyBwb3NpdGlvbmFsLnB1c2goLi4uYXJndi5zbGljZShpICsgMSkpOyBicmVhazsgfQogIGlmIChhLnN0YXJ0c1dpdGgoJy0tJykpIHsKICAgIGNvbnN0IFtrLCB2XSA9IGEuc2xpY2UoMikuc3BsaXQoJz0nKTsKICAgIGlmICh2ICE9PSB1bmRlZmluZWQpIGZsYWdzLnNldChrLCB2KTsKICAgIGVsc2UgaWYgKGFyZ3ZbaSArIDFdICYmICFhcmd2W2kgKyAxXS5zdGFydHNXaXRoKCctLScpKSB7IGZsYWdzLnNldChrLCBhcmd2WysraV0pOyB9CiAgICBlbHNlIGZsYWdzLnNldChrLCB0cnVlKTsKICB9IGVsc2UgaWYgKGEuc3RhcnRzV2l0aCgnLScpICYmIGEubGVuZ3RoID4gMSkgewogICAgY29uc3QgW2ssIHZdID0gYS5zbGljZSgxKS5zcGxpdCgnPScpOwogICAgZmxhZ3Muc2V0KGssIHYgPz8gdHJ1ZSk7CiAgfSBlbHNlIHBvc2l0aW9uYWwucHVzaChhKTsKfQoKY29uc3QgaGFzID0gKGspID0+IGZsYWdzLmhhcyhrKTsKY29uc3QgdmFsID0gKGssIGQgPSB1bmRlZmluZWQpID0+IChmbGFncy5oYXMoaykgPyAoZmxhZ3MuZ2V0KGspID09PSB0cnVlID8gJycgOiBTdHJpbmcoZmxhZ3MuZ2V0KGspKSkgOiBkKTsKY29uc3QgbnVtID0gKGssIGQpID0+IHsKICBpZiAoIWZsYWdzLmhhcyhrKSkgcmV0dXJuIGQ7CiAgY29uc3QgbiA9IE51bWJlcihmbGFncy5nZXQoaykpOwogIHJldHVybiBOdW1iZXIuaXNGaW5pdGUobikgPyBuIDogZDsKfTsKCi8vIOKUgOKUgCDphY3nva4g4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmZ1bmN0aW9uIGxvYWRDb25maWcoKSB7CiAgdHJ5IHsKICAgIGxldCB0ZXh0ID0gZnMucmVhZEZpbGVTeW5jKENPTkZJR19QQVRILCAndXRmOCcpOwogICAgaWYgKHRleHQuY2hhckNvZGVBdCgwKSA9PT0gMHhGRUZGKSB0ZXh0ID0gdGV4dC5zbGljZSgxKTsKICAgIHJldHVybiBKU09OLnBhcnNlKHRleHQpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIHt9OwogIH0KfQoKY29uc3QgY2ZnID0gbG9hZENvbmZpZygpOwpjb25zdCBodHRwVXJsID0gU3RyaW5nKHZhbCgnc25vd2x1bWEnLCBjZmcuc25vd2x1bWE/Lmh0dHBVcmwgfHwgJ2h0dHA6Ly8xMjcuMC4wLjE6MzAwMCcpKS5yZXBsYWNlKC9cLyskLywgJycpOwpjb25zdCBhY2Nlc3NUb2tlbiA9IFN0cmluZyh2YWwoJ3Rva2VuJywgY2ZnLnNub3dsdW1hPy5hY2Nlc3NUb2tlbiB8fCAnJykpOwpjb25zdCBjb25zb2xlUG9ydCA9IE51bWJlcih2YWwoJ2NvbnNvbGUtcG9ydCcsIGNmZy5jb25zb2xlUG9ydCkpIHx8IDMxMDA7CmNvbnN0IGNvbnNvbGVUb2tlbiA9IFN0cmluZygKICB2YWwoJ2NvbnNvbGUtdG9rZW4nLCBjZmcuY29uc29sZVRva2VuIHx8IHByb2Nlc3MuZW52LlFRX0NPTlNPTEVfVE9LRU4gfHwgcmVhZENvbnNvbGVUb2tlbkZpbGUoKSB8fCAnJykKKS50cmltKCk7CmNvbnN0IHZvaWNlRGlyID0gcGF0aC5yZXNvbHZlKHZhbCgndm9pY2UtZGlyJywgY2ZnLnZvaWNlPy5kaXIgPyBwYXRoLnJlc29sdmUoUk9PVCwgY2ZnLnZvaWNlLmRpcikgOiBwYXRoLmpvaW4oUk9PVCwgJ2F1ZGlvJykpKTsKY29uc3QgcmV2ZWFsVG9rZW4gPSBoYXMoJ3JldmVhbC10b2tlbicpOwpjb25zdCBxdWlldCA9IGhhcygncScpIHx8IGhhcygncXVpZXQnKTsKCmZ1bmN0aW9uIHJlYWRDb25zb2xlVG9rZW5GaWxlKCkgewogIHRyeSB7CiAgICByZXR1cm4gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnc3RhdGUnLCAnY29uc29sZS10b2tlbicpLCAndXRmOCcpLnRyaW0oKTsKICB9IGNhdGNoIHsKICAgIHJldHVybiAnJzsKICB9Cn0KCmNvbnN0IG1hc2tUb2tlbiA9ICh0KSA9PiAodCA/IGAke3Quc2xpY2UoMCwgNCl94oCmJHt0LnNsaWNlKC00KX3vvIgke3QubGVuZ3RofSDlrZfnrKbvvIlgIDogJyjmnKrphY3nva4pJyk7CmNvbnN0IG91dCA9ICguLi5hKSA9PiB7IGlmICghcXVpZXQpIGNvbnNvbGUubG9nKC4uLmEpOyB9Owpjb25zdCBmYWlsID0gKG1zZywgY29kZSA9IDEpID0+IHsgY29uc29sZS5lcnJvcihg4p2MICR7bXNnfWApOyBwcm9jZXNzLmV4aXQoY29kZSk7IH07CgovLyDilIDilIAgT25lQm90IOebtOi/nu+8iOeUqOS6jiBsaXN0L3N0YXR1cy9jaGVjayDnmoTlj6ror7vmn6Xor6LvvJvlj5HpgIHpu5jorqTotbDmoaXmjqXvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmFzeW5jIGZ1bmN0aW9uIG9uZWJvdChhY3Rpb24sIHBhcmFtcyA9IHt9LCB7IHRpbWVvdXRNcyA9IDE1MDAwIH0gPSB7fSkgewogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke2h0dHBVcmx9LyR7YWN0aW9ufWAsIHsKICAgIG1ldGhvZDogJ1BPU1QnLAogICAgaGVhZGVyczogewogICAgICAnY29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAuLi4oYWNjZXNzVG9rZW4gPyB7IGF1dGhvcml6YXRpb246IGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gIH0gOiB7fSkKICAgIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeShwYXJhbXMpLAogICAgc2lnbmFsOiBBYm9ydFNpZ25hbC50aW1lb3V0KHRpbWVvdXRNcykKICB9KTsKICBpZiAocmVzLnN0YXR1cyA9PT0gNDI2KSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoYEhUVFAgNDI277yaaHR0cFVybCDmjIflkJHkuoYgV2ViU29ja2V0IOerr+WPo++8jOivt+ajgOafpSBjb25maWcuanNvbiDnmoQgc25vd2x1bWEuaHR0cFVybO+8iOW9k+WJjSAke2h0dHBVcmx977yJYCk7CiAgfQogIGlmICghcmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYEhUVFAgJHtyZXMuc3RhdHVzfWApOwogIGNvbnN0IGJvZHkgPSBhd2FpdCByZXMuanNvbigpLmNhdGNoKCgpID0+ICh7fSkpOwogIGlmIChib2R5LnN0YXR1cyAhPT0gJ29rJyB8fCBib2R5LnJldGNvZGUgIT09IDApIHsKICAgIHRocm93IG5ldyBFcnJvcihgT25lQm90ICR7YWN0aW9ufSDlpLHotKU6IHJldGNvZGU9JHtib2R5LnJldGNvZGV9ICR7Ym9keS53b3JkaW5nID8/ICcnfWAudHJpbSgpKTsKICB9CiAgcmV0dXJuIGJvZHkuZGF0YTsKfQoKYXN5bmMgZnVuY3Rpb24gYnJpZGdlQXBpKHBhdGhuYW1lLCBpbml0ID0ge30pIHsKICBjb25zdCBoZWFkZXJzID0gewogICAgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgIC4uLihjb25zb2xlVG9rZW4gPyB7ICd4LWNvbnNvbGUtdG9rZW4nOiBjb25zb2xlVG9rZW4gfSA6IHt9KSwKICAgIC4uLihpbml0LmhlYWRlcnMgPz8ge30pCiAgfTsKICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgaHR0cDovLzEyNy4wLjAuMToke2NvbnNvbGVQb3J0fSR7cGF0aG5hbWV9YCwgewogICAgLi4uaW5pdCwKICAgIGhlYWRlcnMsCiAgICBzaWduYWw6IEFib3J0U2lnbmFsLnRpbWVvdXQoaW5pdC50aW1lb3V0TXMgPz8gNjAwMDApCiAgfSk7CiAgY29uc3QgdGV4dCA9IGF3YWl0IHJlcy50ZXh0KCk7CiAgbGV0IGJvZHk7CiAgdHJ5IHsgYm9keSA9IEpTT04ucGFyc2UodGV4dCk7IH0gY2F0Y2ggeyBib2R5ID0geyByYXc6IHRleHQgfTsgfQogIGlmICghcmVzLm9rKSB7CiAgICBjb25zdCBlcnIgPSBuZXcgRXJyb3IoYm9keT8uZXJyb3IgfHwgYEhUVFAgJHtyZXMuc3RhdHVzfWApOwogICAgZXJyLnN0YXR1cyA9IHJlcy5zdGF0dXM7CiAgICBlcnIuYm9keSA9IGJvZHk7CiAgICB0aHJvdyBlcnI7CiAgfQogIHJldHVybiBib2R5Owp9CgovLyDilIDilIAg55uu5qCH6KGo5ZKM6Kej5p6QIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApmdW5jdGlvbiBhbGxvd2VkU2V0KCkgewogIGNvbnN0IGFsbG93ID0gY2ZnLmFsbG93ID8/IHt9OwogIGNvbnN0IGRlbnkgPSBjZmcuZGVueSA/PyB7fTsKICByZXR1cm4gewogICAgZ3JvdXBzOiBuZXcgU2V0KChhbGxvdy5ncm91cHMgPz8gW10pLm1hcChTdHJpbmcpKSwKICAgIHByaXZhdGU6IG5ldyBTZXQoKGFsbG93LnByaXZhdGUgPz8gW10pLm1hcChTdHJpbmcpKSwKICAgIGRlbnlHcm91cHM6IG5ldyBTZXQoKGRlbnkuZ3JvdXBzID8/IFtdKS5tYXAoU3RyaW5nKSksCiAgICBkZW55UHJpdmF0ZTogbmV3IFNldCgoZGVueS5wcml2YXRlID8/IFtdKS5tYXAoU3RyaW5nKSksCiAgICBhbGxvd0FsbFdoZW5FbXB0eTogY2ZnLmFsbG93QWxsV2hlbkVtcHR5ID09PSB0cnVlCiAgfTsKfQoKZnVuY3Rpb24gaXNBbGxvd2VkS2V5KGtleSkgewogIGNvbnN0IHQgPSBwYXJzZVRhcmdldEtleShrZXkpOwogIGlmICghdCkgcmV0dXJuIGZhbHNlOwogIGNvbnN0IGEgPSBhbGxvd2VkU2V0KCk7CiAgaWYgKHQua2luZCA9PT0gJ2dyb3VwJykgewogICAgaWYgKGEuZGVueUdyb3Vwcy5oYXModC5pZCkpIHJldHVybiBmYWxzZTsKICAgIGlmIChhLmdyb3Vwcy5zaXplID4gMCkgcmV0dXJuIGEuZ3JvdXBzLmhhcyh0LmlkKTsKICAgIHJldHVybiBhLmFsbG93QWxsV2hlbkVtcHR5OwogIH0KICBpZiAoYS5kZW55UHJpdmF0ZS5oYXModC5pZCkpIHJldHVybiBmYWxzZTsKICBpZiAoYS5wcml2YXRlLnNpemUgPiAwKSByZXR1cm4gYS5wcml2YXRlLmhhcyh0LmlkKTsKICByZXR1cm4gYS5hbGxvd0FsbFdoZW5FbXB0eTsKfQoKYXN5bmMgZnVuY3Rpb24gZmV0Y2hUYXJnZXRzKCkgewogIGNvbnN0IFtncm91cHMsIGZyaWVuZHNdID0gYXdhaXQgUHJvbWlzZS5hbGwoWwogICAgb25lYm90KCdnZXRfZ3JvdXBfbGlzdCcpLmNhdGNoKChlKSA9PiAoeyBfX2Vycm9yOiBlLm1lc3NhZ2UgfSkpLAogICAgb25lYm90KCdnZXRfZnJpZW5kX2xpc3QnKS5jYXRjaCgoZSkgPT4gKHsgX19lcnJvcjogZS5tZXNzYWdlIH0pKQogIF0pOwogIGNvbnN0IGcgPSBBcnJheS5pc0FycmF5KGdyb3VwcykgPyBncm91cHMgOiBbXTsKICBjb25zdCBmID0gQXJyYXkuaXNBcnJheShmcmllbmRzKSA/IGZyaWVuZHMgOiBbXTsKICByZXR1cm4gewogICAgZ3JvdXBzOiBnLm1hcCgoeCkgPT4gKHsgaWQ6IFN0cmluZyh4Lmdyb3VwX2lkKSwgbmFtZTogeC5ncm91cF9uYW1lIHx8ICcnLCBjb3VudDogeC5tZW1iZXJfY291bnQgPz8gbnVsbCB9KSksCiAgICBmcmllbmRzOiBmLm1hcCgoeCkgPT4gKHsgaWQ6IFN0cmluZyh4LnVzZXJfaWQpLCBuYW1lOiB4Lm5pY2tuYW1lIHx8ICcnLCByZW1hcms6IHgucmVtYXJrIHx8ICcnIH0pKSwKICAgIGdyb3Vwc0Vycm9yOiBncm91cHM/Ll9fZXJyb3IgPz8gbnVsbCwKICAgIGZyaWVuZHNFcnJvcjogZnJpZW5kcz8uX19lcnJvciA/PyBudWxsCiAgfTsKfQoKLyoqCiAqIOaKiueUqOaIt+i+k+WFpeino+aekOaIkOebruaghyBrZXnjgIIKICog5pSv5oyB77yaMTIzNDU2IC8gZ3JvdXA6MTIzNDU2IC8gcHJpdmF0ZToxMjM0NTYgLyBA5ZCN5a2X77yI5Zyo576k5ZCN5ZKM5aW95Y+L5pi156ewL+Wkh+azqOmHjOWUr+S4gOWMuemFje+8iQogKi8KYXN5bmMgZnVuY3Rpb24gcmVzb2x2ZVRhcmdldChpbnB1dCkgewogIGNvbnN0IHJhdyA9IFN0cmluZyhpbnB1dCA/PyAnJykudHJpbSgpOwogIGlmICghcmF3KSBmYWlsKCfnvLrlsJHnm67moIfvvIjnvqTlj7cgLyBncm91cDrnvqTlj7cgLyBwcml2YXRlOlFR5Y+3IC8gQOWQjeWtl++8iScpOwoKICBjb25zdCBkaXJlY3QgPSBwYXJzZVRhcmdldEtleShyYXcpOwogIGlmIChkaXJlY3QpIHJldHVybiBkaXJlY3Q7CgogIGlmICgvXlxkKyQvLnRlc3QocmF3KSkgewogICAgLy8g57qv5pWw5a2X77ya5LyY5YWI5b2T576k5Y+377yM576k5YiX6KGo6YeM5rKh5pyJ5YiZ5b2TIFFRIOWPtwogICAgY29uc3QgdCA9IGF3YWl0IGZldGNoVGFyZ2V0cygpOwogICAgaWYgKHQuZ3JvdXBzLnNvbWUoKGcpID0+IGcuaWQgPT09IHJhdykpIHJldHVybiB7IGtpbmQ6ICdncm91cCcsIGlkOiByYXcsIGtleTogYGdyb3VwOiR7cmF3fWAgfTsKICAgIGlmICh0LmZyaWVuZHMuc29tZSgoZikgPT4gZi5pZCA9PT0gcmF3KSkgcmV0dXJuIHsga2luZDogJ3ByaXZhdGUnLCBpZDogcmF3LCBrZXk6IGBwcml2YXRlOiR7cmF3fWAgfTsKICAgIHJldHVybiB7IGtpbmQ6ICdncm91cCcsIGlkOiByYXcsIGtleTogYGdyb3VwOiR7cmF3fWAsIHVudmVyaWZpZWQ6IHRydWUgfTsKICB9CgogIGNvbnN0IHdhbnQgPSByYXcucmVwbGFjZSgvXkAvLCAnJykudG9Mb3dlckNhc2UoKTsKICBjb25zdCB0ID0gYXdhaXQgZmV0Y2hUYXJnZXRzKCk7CiAgY29uc3QgaGl0cyA9IFtdOwogIGZvciAoY29uc3QgZyBvZiB0Lmdyb3VwcykgewogICAgaWYgKGcubmFtZS50b0xvd2VyQ2FzZSgpLmluY2x1ZGVzKHdhbnQpIHx8IGcuaWQuaW5jbHVkZXMod2FudCkpIGhpdHMucHVzaCh7IGtpbmQ6ICdncm91cCcsIGlkOiBnLmlkLCBrZXk6IGBncm91cDoke2cuaWR9YCwgbmFtZTogZy5uYW1lLCBsYWJlbDogYOe+pCAke2cubmFtZX0oJHtnLmlkfSlgIH0pOwogIH0KICBmb3IgKGNvbnN0IGYgb2YgdC5mcmllbmRzKSB7CiAgICBpZiAoZi5uYW1lLnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMod2FudCkgfHwgZi5yZW1hcmsudG9Mb3dlckNhc2UoKS5pbmNsdWRlcyh3YW50KSB8fCBmLmlkLmluY2x1ZGVzKHdhbnQpKSB7CiAgICAgIGhpdHMucHVzaCh7IGtpbmQ6ICdwcml2YXRlJywgaWQ6IGYuaWQsIGtleTogYHByaXZhdGU6JHtmLmlkfWAsIG5hbWU6IGYucmVtYXJrIHx8IGYubmFtZSwgbGFiZWw6IGDnp4HogYogJHtmLnJlbWFyayA/IGAke2YucmVtYXJrfS9gIDogJyd9JHtmLm5hbWV9KCR7Zi5pZH0pYCB9KTsKICAgIH0KICB9CiAgaWYgKGhpdHMubGVuZ3RoID09PSAwKSBmYWlsKGDmib7kuI3liLDljLnphY3jgIwke3Jhd33jgI3nmoTnvqTogYrmiJbnp4HogYrvvIjnlKggbGlzdCDnnIvlj6/nlKjnm67moIfvvIlgKTsKICBpZiAoaGl0cy5sZW5ndGggPiAxKSB7CiAgICBjb25zb2xlLmVycm9yKGDinYwg44CMJHtyYXd944CN5Yy56YWN5Yiw5aSa5Liq55uu5qCH77yM6K+35YaZ5piO56Gu77yaYCk7CiAgICBmb3IgKGNvbnN0IGggb2YgaGl0cykgY29uc29sZS5lcnJvcihgICAgLSAke2gubGFiZWx9YCk7CiAgICBwcm9jZXNzLmV4aXQoMSk7CiAgfQogIHJldHVybiBoaXRzWzBdOwp9CgovLyDilIDilIAg5a2Q5ZG95LukIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphc3luYyBmdW5jdGlvbiBjbWRMaXN0KCkgewogIGxldCB0OwogIHRyeSB7CiAgICB0ID0gYXdhaXQgZmV0Y2hUYXJnZXRzKCk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGZhaWwoYOaXoOazleiuv+mXriBTbm93THVtYe+8iCR7aHR0cFVybH3vvInvvJoke2Vycm9yPy5tZXNzYWdlID8/IGVycm9yfVxuICAg6K+35YWI5ZCv5YqoIFNub3dMdW1h77yIY29uZmlnLmpzb24g55qEIHNub3dsdW1hLmxhdW5jaGVyUGF0aO+8ieOAgmApOwogIH0KICBjb25zdCBhID0gYWxsb3dlZFNldCgpOwogIGNvbnN0IG1hcmsgPSAoa2luZCwgaWQpID0+IHsKICAgIGNvbnN0IGFsbG93ZWQgPSBpc0FsbG93ZWRLZXkoYCR7a2luZH06JHtpZH1gKTsKICAgIHJldHVybiBhbGxvd2VkID8gJ+KchSDlj6/lj5EnIDogJ+KblCDnmb3lkI3ljZXlpJYnOwogIH07CiAgY29uc29sZS5sb2coYFNub3dMdW1hOiAke2h0dHBVcmx9YCk7CiAgY29uc29sZS5sb2coYFxu44CQ576k6IGK44CRJHt0Lmdyb3Vwcy5sZW5ndGh9IOS4qmApOwogIGlmICh0Lmdyb3Vwc0Vycm9yKSBjb25zb2xlLmxvZyhgICDimqDvuI8gZ2V0X2dyb3VwX2xpc3Qg5aSx6LSl77yaJHt0Lmdyb3Vwc0Vycm9yfWApOwogIGZvciAoY29uc3QgZyBvZiB0Lmdyb3VwcykgewogICAgY29uc29sZS5sb2coYCAgZ3JvdXA6JHtnLmlkLnBhZEVuZCgxMil9ICR7KGcubmFtZSB8fCAnKOaXoOWQjSknKS5wYWRFbmQoMjApfSAke2cuY291bnQgIT0gbnVsbCA/IGAke2cuY291bnR95Lq6YCA6ICcnfSAgJHttYXJrKCdncm91cCcsIGcuaWQpfWApOwogIH0KICBjb25zb2xlLmxvZyhgXG7jgJDnp4HogYov5aW95Y+L44CRJHt0LmZyaWVuZHMubGVuZ3RofSDkuKpgKTsKICBpZiAodC5mcmllbmRzRXJyb3IpIGNvbnNvbGUubG9nKGAgIOKaoO+4jyBnZXRfZnJpZW5kX2xpc3Qg5aSx6LSl77yaJHt0LmZyaWVuZHNFcnJvcn1gKTsKICBmb3IgKGNvbnN0IGYgb2YgdC5mcmllbmRzKSB7CiAgICBjb25zb2xlLmxvZyhgICBwcml2YXRlOiR7Zi5pZC5wYWRFbmQoMTApfSAkeyhmLnJlbWFyayA/IGAke2YucmVtYXJrfSAvIGAgOiAnJykgKyAoZi5uYW1lIHx8ICcnKX0gICR7bWFyaygncHJpdmF0ZScsIGYuaWQpfWApOwogIH0KICBjb25zb2xlLmxvZyhgXG7nmb3lkI3ljZXvvIhjb25maWcuanNvbiBhbGxvd++8ie+8mue+pCAke1suLi5hLmdyb3Vwc10uam9pbignLCAnKSB8fCAnKOepuiknfe+8m+engeiBiiAke1suLi5hLnByaXZhdGVdLmpvaW4oJywgJykgfHwgJyjnqbopJ31gKTsKICBpZiAoYS5hbGxvd0FsbFdoZW5FbXB0eSkgY29uc29sZS5sb2coJ+KaoO+4jyBhbGxvd0FsbFdoZW5FbXB0eT10cnVl77ya55m95ZCN5Y2V5Li656m65pe25YWo6YOo5pS+6KGMJyk7CiAgY29uc29sZS5sb2coYFxu5Y+R6YCB56S65L6L77yabm9kZSBzY3JpcHRzL3NlbmQtdm9pY2UubWpzIHNlbmQgIjzpn7PpopHmlofku7Y+IiAke3QuZ3JvdXBzWzBdID8gYGdyb3VwOiR7dC5ncm91cHNbMF0uaWR9YCA6ICdwcml2YXRlOjxRUeWPtz4nfWApOwp9Cgphc3luYyBmdW5jdGlvbiBjbWRMaXN0Vm9pY2UoKSB7CiAgaWYgKCFmcy5leGlzdHNTeW5jKHZvaWNlRGlyKSkgewogICAgY29uc29sZS5sb2coYOivremfs+W6k+ebruW9leS4jeWtmOWcqO+8miR7dm9pY2VEaXJ9YCk7CiAgICBjb25zb2xlLmxvZygn77yI5oqK6Z+z6aKR5pS+6L+b5Y6777yM5oiW55SoIC0tdm9pY2UtZGlyIOaMh+WumuWIq+eahOebruW9le+8m+S5n+WPr+S7pSBzZW5kIOaXtuebtOaOpee7meS7u+aEj+i3r+W+hO+8iScpOwogICAgcmV0dXJuOwogIH0KICBjb25zdCBmaWxlcyA9IGxpc3RBdWRpb0ZpbGVzKHZvaWNlRGlyKTsKICBjb25zb2xlLmxvZyhg6K+t6Z+z5bqT77yaJHt2b2ljZURpcn1gKTsKICBpZiAoZmlsZXMubGVuZ3RoID09PSAwKSB7CiAgICBjb25zb2xlLmxvZygn77yI55uu5b2V5Li656m6IOKAlOKAlCDmioogLm1wMy8ud2F2Ly5vZ2cvLm00YS8uYW1yLy5zaWxrIOetiemfs+mikeaUvui/m+adpeWNs+WPr++8iScpOwogICAgcmV0dXJuOwogIH0KICBjb25zb2xlLmxvZyhg5YWxICR7ZmlsZXMubGVuZ3RofSDkuKrpn7PpopHvvJpcbmApOwogIGNvbnN0IHByb2JlID0gIWhhcygnbm8tcHJvYmUnKTsKICBmb3IgKGNvbnN0IGYgb2YgZmlsZXMpIHsKICAgIGNvbnN0IHJlbCA9IHBhdGgucmVsYXRpdmUodm9pY2VEaXIsIGYpOwogICAgaWYgKCFwcm9iZSkgewogICAgICBjb25zb2xlLmxvZyhgICAke3JlbH0gICgke2Zvcm1hdEJ5dGVzKGZzLnN0YXRTeW5jKGYpLnNpemUpfSlgKTsKICAgICAgY29udGludWU7CiAgICB9CiAgICBjb25zdCBpbmZvID0gYXdhaXQgaW5zcGVjdEF1ZGlvKGYsIHsgbWF4Qnl0ZXM6IEluZmluaXR5LCBtYXhTZWNvbmRzOiBJbmZpbml0eSB9KTsKICAgIGNvbnNvbGUubG9nKGAgICR7cmVsLnBhZEVuZCgzNCl9ICR7ZGVzY3JpYmVBdWRpbyh7IHNpemU6IGluZm8uc2l6ZSwgZHVyYXRpb246IGluZm8uZHVyYXRpb24sIGNvZGVjOiBpbmZvLmNvZGVjIH0pfWApOwogIH0KICBjb25zb2xlLmxvZyhgXG7lj5HpgIHnpLrkvovvvJpub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgc2VuZCAiJHtwYXRoLnJlbGF0aXZlKHZvaWNlRGlyLCBmaWxlc1swXSl9IiA855uu5qCHPmApOwp9Cgphc3luYyBmdW5jdGlvbiBjbWRTdGF0dXMoKSB7CiAgY29uc29sZS5sb2coYOmFjee9ruaWh+S7tu+8miR7Q09ORklHX1BBVEh9YCk7CiAgY29uc29sZS5sb2coYCAgc25vd2x1bWEuaHR0cFVybCAgID0gJHtodHRwVXJsfWApOwogIGNvbnNvbGUubG9nKGAgIHNub3dsdW1hLmFjY2Vzc1Rva2VuID0gJHtyZXZlYWxUb2tlbiA/IGFjY2Vzc1Rva2VuIDogbWFza1Rva2VuKGFjY2Vzc1Rva2VuKX1gKTsKICBjb25zb2xlLmxvZyhgICDmoaXmjqXmjqfliLblj7AgICAgICAgICA9IGh0dHA6Ly8xMjcuMC4wLjE6JHtjb25zb2xlUG9ydH1gKTsKICBjb25zb2xlLmxvZyhgICBjb25zb2xlVG9rZW4gICAgICAgPSAke3JldmVhbFRva2VuID8gY29uc29sZVRva2VuIDogbWFza1Rva2VuKGNvbnNvbGVUb2tlbil9YCk7CiAgY29uc29sZS5sb2coYCAg6K+t6Z+z5bqT55uu5b2VICAgICAgICAgPSAke3ZvaWNlRGlyfWApOwogIHRyeSB7CiAgICBjb25zdCBsb2dpbiA9IGF3YWl0IG9uZWJvdCgnZ2V0X2xvZ2luX2luZm8nKTsKICAgIGNvbnNvbGUubG9nKGBcbuKchSBTbm93THVtYSDlnKjnur/vvJoke2xvZ2luLnVzZXJfaWR9ICgke2xvZ2luLm5pY2tuYW1lID8/ICcnfSlgKTsKICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5sb2coYFxu4p2MIFNub3dMdW1hIOS4jeWPr+i+vu+8miR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J9YCk7CiAgfQogIHRyeSB7CiAgICBjb25zdCBzdCA9IGF3YWl0IGJyaWRnZUFwaSgnL2FwaS9zdGF0dXMnKTsKICAgIGNvbnNvbGUubG9nKGDinIUg5qGl5o6l5Zyo57q/77yabW9kZT0ke3N0Lm1vZGUgPz8gJz8nfSByb2xlPSR7c3Qucm9sZSA/PyAnPyd9IGRzaFJlYWR5PSR7c3QuZHNoUmVhZHkgPz8gJz8nfSBwYXVzZWQ9JHtzdC5zb2NpYWxWMlBhdXNlZCA/PyAnPyd9YCk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUubG9nKGDimqDvuI8g5qGl5o6l5LiN5Y+v6L6+77yIaHR0cDovLzEyNy4wLjAuMToke2NvbnNvbGVQb3J0fe+8ie+8miR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J9YCk7CiAgICBjb25zb2xlLmxvZygnICAg4oaSIOWPkemAgeivremfs+mcgOimgeahpeaOpeWcqOe6v++8iOWug+i0n+i0o+eZveWQjeWNlS/pmZDmtYEv5a6h6K6h77yJ44CC5bqU5oCl5Y+v55SoIC0tZGlyZWN0IOebtOi/nue9keWFs++8iOaXoOmXuOmXqO+8ieOAgicpOwogIH0KfQoKYXN5bmMgZnVuY3Rpb24gY21kQ2hlY2soKSB7CiAgY29uc3Qgc3JjID0gcG9zaXRpb25hbFsxXTsKICBpZiAoIXNyYykgZmFpbCgn55So5rOV77yabm9kZSBzY3JpcHRzL3NlbmQtdm9pY2UubWpzIGNoZWNrIDzpn7PpopHmlofku7Y+Jyk7CiAgY29uc3QgciA9IHJlc29sdmVBdWRpb1NvdXJjZShzcmMsIHsgdm9pY2VEaXIgfSk7CiAgaWYgKCFyLnBhdGgpIHsKICAgIGNvbnN0IGhpbnQgPSByLmNhbmRpZGF0ZXMubGVuZ3RoID8gYFxuICAg6K+t6Z+z5bqT6YeM55qE6L+R5Ly85Yy56YWN77yaJHtyLmNhbmRpZGF0ZXMubWFwKChjKSA9PiBwYXRoLnJlbGF0aXZlKHZvaWNlRGlyLCBjLnBhdGgpKS5qb2luKCfjgIEnKX1gIDogJyc7CiAgICBmYWlsKGDmib7kuI3liLDpn7PpopHjgIwke3NyY33jgI0ke2hpbnR9YCk7CiAgfQogIGNvbnN0IGluZm8gPSBhd2FpdCBpbnNwZWN0QXVkaW8oci5wYXRoLCB7CiAgICBtYXhCeXRlczogbnVtKCdtYXgtYnl0ZXMnLCB1bmRlZmluZWQpID8/IHVuZGVmaW5lZCwKICAgIG1heFNlY29uZHM6IG51bSgnbWF4LXNlY29uZHMnLCB1bmRlZmluZWQpID8/IHVuZGVmaW5lZCwKICAgIGZmcHJvYmVQYXRoOiB2YWwoJ2ZmcHJvYmUnLCBwcm9jZXNzLmVudi5GRlBST0JFX1BBVEggfHwgJ2ZmcHJvYmUnKQogIH0pOwogIGNvbnNvbGUubG9nKGDpn7PpopHvvJoke3IucGF0aH1gKTsKICBjb25zb2xlLmxvZyhgICDmnaXmupDvvJoke3IudmlhfWApOwogIGNvbnNvbGUubG9nKGAgIOS/oeaBr++8miR7ZGVzY3JpYmVBdWRpbyhpbmZvKX1gKTsKICBpZiAoaW5mby5mb3JtYXROYW1lKSBjb25zb2xlLmxvZyhgICDlrrnlmajvvJoke2luZm8uZm9ybWF0TmFtZX1gKTsKICBmb3IgKGNvbnN0IHcgb2YgaW5mby53YXJuaW5ncyA/PyBbXSkgY29uc29sZS5sb2coYCAg4pqg77iPICR7d31gKTsKICBpZiAoIWluZm8ub2spIGZhaWwoaW5mby5lcnJvcik7CiAgaWYgKGhhcygndHJhbnNjb2RlLXRlc3QnKSkgewogICAgY29uc29sZS5sb2coJ1xu5q2j5Zyo6K6pIFNub3dMdW1hIOaKiumfs+mikei9rOaIkCBTSUxL4oaSbXAz77yI6aqM6K+B572R5YWz6L2s56CB6ZO+6Lev77yJ4oCmJyk7CiAgICBjb25zdCB0MCA9IERhdGUubm93KCk7CiAgICB0cnkgewogICAgICBjb25zdCBkYXRhID0gYXdhaXQgb25lYm90KCdnZXRfcmVjb3JkJywgeyBmaWxlOiByLnBhdGgsIG91dF9mb3JtYXQ6ICdtcDMnIH0sIHsgdGltZW91dE1zOiAxMjAwMDAgfSk7CiAgICAgIGNvbnN0IGI2NCA9IGRhdGE/LmJhc2U2NCA/PyAnJzsKICAgICAgY29uc29sZS5sb2coYOKchSDnvZHlhbPovaznoIHmiJDlip/vvJokeygoYjY0Lmxlbmd0aCAqIDMpIC8gNCAvIDEwMjQpLnRvRml4ZWQoMSl9IEtCIG1wM++8jOiAl+aXtiAkeygoRGF0ZS5ub3coKSAtIHQwKSAvIDEwMDApLnRvRml4ZWQoMSl9c2ApOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5sb2coYOKaoO+4jyDnvZHlhbPovaznoIHpqozor4HlpLHotKXvvJoke2Vycm9yPy5tZXNzYWdlID8/IGVycm9yfWApOwogICAgICBjb25zb2xlLmxvZygnICAg77yIZ2V0X3JlY29yZCDkuLvopoHpnaLlkJHjgIzmlLbliLDnmoTor63pn7PjgI3nvJPlrZjvvJvlj5HpgIHot6/lvoTku43lj6/og73mraPluLjvvIzlj6/nlKggc2VuZCAtLWRyeS1ydW4g6aqM6K+B77yJJyk7CiAgICB9CiAgfQogIGNvbnNvbGUubG9nKCdcbuKchSDpn7PpopHlj6/nlKjkuo7lj5HpgIEnKTsKfQoKYXN5bmMgZnVuY3Rpb24gY21kU2VuZCgpIHsKICBjb25zdCBzcmMgPSBwb3NpdGlvbmFsWzFdOwogIGNvbnN0IHRhcmdldElucHV0ID0gcG9zaXRpb25hbFsyXSA/PyB2YWwoJ3RvJywgJycpOwogIGlmICghc3JjKSBmYWlsKCfnlKjms5XvvJpub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgc2VuZCA86Z+z6aKR5paH5Lu2PiA855uu5qCHPiBbLS1kcnktcnVuXScpOwogIGlmICghdGFyZ2V0SW5wdXQpIGZhaWwoJ+e8uuWwkeebruagh++8mue+pOWPtyAvIGdyb3VwOue+pOWPtyAvIHByaXZhdGU6UVHlj7cgLyBA5ZCN5a2XJyk7CgogIGNvbnN0IHIgPSByZXNvbHZlQXVkaW9Tb3VyY2Uoc3JjLCB7IHZvaWNlRGlyIH0pOwogIGlmICghci5wYXRoKSB7CiAgICBjb25zdCBoaW50ID0gci5jYW5kaWRhdGVzLmxlbmd0aCA/IGBcbiAgIOivremfs+W6k+mHjOeahOi/keS8vOWMuemFje+8miR7ci5jYW5kaWRhdGVzLm1hcCgoYykgPT4gcGF0aC5yZWxhdGl2ZSh2b2ljZURpciwgYy5wYXRoKSkuam9pbign44CBJyl9YCA6ICcnOwogICAgZmFpbChg5om+5LiN5Yiw6Z+z6aKR44CMJHtzcmN944CNJHtoaW50fWApOwogIH0KICBjb25zdCBpbmZvID0gYXdhaXQgaW5zcGVjdEF1ZGlvKHIucGF0aCwgewogICAgbWF4Qnl0ZXM6IG51bSgnbWF4LWJ5dGVzJywgdW5kZWZpbmVkKSA/PyB1bmRlZmluZWQsCiAgICBtYXhTZWNvbmRzOiBudW0oJ21heC1zZWNvbmRzJywgdW5kZWZpbmVkKSA/PyB1bmRlZmluZWQKICB9KTsKICBpZiAoIWluZm8ub2spIGZhaWwoaW5mby5lcnJvcik7CgogIGNvbnN0IHRhcmdldCA9IGF3YWl0IHJlc29sdmVUYXJnZXQodGFyZ2V0SW5wdXQpOwogIGNvbnN0IGFsbG93ZWQgPSBpc0FsbG93ZWRLZXkodGFyZ2V0LmtleSk7CiAgY29uc3QgZHJ5UnVuID0gaGFzKCdkcnktcnVuJykgfHwgaGFzKCduJyk7CgogIGNvbnNvbGUubG9nKCfilIAnLnJlcGVhdCg2MCkpOwogIGNvbnNvbGUubG9nKGDpn7PpopEgIDogJHtyLnBhdGh9YCk7CiAgY29uc29sZS5sb2coYCAgICAgICAgJHtkZXNjcmliZUF1ZGlvKGluZm8pfSR7aW5mby5mb3JtYXROYW1lID8gYCDCtyAke2luZm8uZm9ybWF0TmFtZX1gIDogJyd9YCk7CiAgY29uc29sZS5sb2coYOebruaghyAgOiAke3RhcmdldC5raW5kID09PSAnZ3JvdXAnID8gJ+e+pOiBiicgOiAn56eB6IGKJ30gJHt0YXJnZXQua2V5fSR7dGFyZ2V0LnVudmVyaWZpZWQgPyAn77yI572R5YWz5pyq56Gu6K6k6K+l55uu5qCH5a2Y5Zyo77yJJyA6ICcnfWApOwogIGNvbnNvbGUubG9nKGDnmb3lkI3ljZU6ICR7YWxsb3dlZCA/ICfinIUg5ZG95LitJyA6ICfim5Qg5pyq5ZG95LitJ30ke2hhcygnZm9yY2UnKSA/ICfvvIgtLWZvcmNlIOW3suaMh+Wumu+8jOS7jeS8muiiq+ahpeaOpeaLkue7ne+8iScgOiAnJ31gKTsKICBmb3IgKGNvbnN0IHcgb2YgaW5mby53YXJuaW5ncyA/PyBbXSkgY29uc29sZS5sb2coYOKaoO+4jyAgJHt3fWApOwogIGNvbnNvbGUubG9nKCfilIAnLnJlcGVhdCg2MCkpOwoKICBpZiAoZHJ5UnVuKSB7CiAgICAvLyDotbDmoaXmjqXnmoQgZHJ5LXJ1bu+8muaKiuOAjOahpeaOpeS8muaAjuS5iOWIpOOAjeWOn+agt+i3keS4gOmBje+8iOeZveWQjeWNlS/pmZDmtYEv5bC65a+4L+aXtumVv++8ie+8jOWPquaYr+S4jeiQvea2iOaBr+OAggogICAgLy8g5qGl5o6l5LiN5Y+v6L6+5pe26YCA5Zue5pys5Zyw5Yik5pat77yM5L+d6K+B56a757q/5Lmf6IO95YGa5Y+C5pWw5qOA5p+l44CCCiAgICBpZiAoIWhhcygnZGlyZWN0JykpIHsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgYnJpZGdlQXBpKCcvYXBpL3ZvaWNlL3NlbmQnLCB7CiAgICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgdGFyZ2V0OiB0YXJnZXQua2V5LCBmaWxlOiByLnBhdGgsIGRyeVJ1bjogdHJ1ZSB9KQogICAgICAgIH0pOwogICAgICAgIGNvbnNvbGUubG9nKCdEUlktUlVO77yI57uP5qGl5o6l5qCh6aqM77yJ77ya5pyq5Y+R6YCB44CCJyk7CiAgICAgICAgaWYgKGRhdGE/LmxpbWl0cykgewogICAgICAgICAgY29uc29sZS5sb2coYCAg5qGl5o6l5LiK6ZmQ77ya5pe26ZW/IOKJpCAke2Zvcm1hdER1cmF0aW9uKGRhdGEubGltaXRzLm1heFNlY29uZHMpfSDCtyDkvZPnp68g4omkICR7Zm9ybWF0Qnl0ZXMoZGF0YS5saW1pdHMubWF4Qnl0ZXMpfSDCtyAke2RhdGEubGltaXRzLm1heFBlck1pbnV0ZX0v5YiG6ZKfIMK3ICR7ZGF0YS5saW1pdHMubWF4UGVySG91cn0v5bCP5pe2YCk7CiAgICAgICAgfQogICAgICAgIGNvbnNvbGUubG9nKGAgIOahpeaOpeino+aekO+8miR7ZGF0YT8uZmlsZSA/PyByLnBhdGh9YCk7CiAgICAgICAgcmV0dXJuOwogICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgIGlmIChlcnJvcj8uc3RhdHVzID09PSA0MDQpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKCfimqDvuI8gIOahpeaOpei/mOayoeaciSAvYXBpL3ZvaWNlL3NlbmQg56uv54K577yI6ZyA6YeN5ZCv5qGl5o6l77yJ77yb5Lul5LiL5Li65pys5Zyw5qCh6aqM57uT5p6c44CCJyk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIGNvbnNvbGUubG9nKGDimqDvuI8gIOahpeaOpeagoemqjOS4jeWPr+eUqO+8iCR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J977yJ77yb5Lul5LiL5Li65pys5Zyw5qCh6aqM57uT5p6c44CCYCk7CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgICBjb25zb2xlLmxvZygnRFJZLVJVTu+8muacquWPkemAgeOAguWOu+aOiSAtLWRyeS1ydW4g5Y2z55yf5Y+R44CCJyk7CiAgICByZXR1cm47CiAgfQogIGlmICghYWxsb3dlZCAmJiAhaGFzKCdkaXJlY3QnKSkgewogICAgZmFpbChg55uu5qCHICR7dGFyZ2V0LmtleX0g5LiN5Zyo55m95ZCN5Y2V77yIY29uZmlnLmpzb24gYWxsb3cuZ3JvdXBzL2FsbG93LnByaXZhdGXvvInjgIJcbiAgIOimgeS5iOaKiuebruagh+WKoOi/m+eZveWQjeWNle+8jOimgeS5iO+8iOS7heaOkuafpeeUqO+8ieWKoCAtLWRpcmVjdCDnu5Xov4fmoaXmjqXnm7Tov57nvZHlhbPjgIJgKTsKICB9CgogIGNvbnN0IHVzZURpcmVjdCA9IGhhcygnZGlyZWN0Jyk7CiAgbGV0IHJlc3VsdDsKICBpZiAodXNlRGlyZWN0KSB7CiAgICBjb25zb2xlLmxvZygn4pqg77iPICAtLWRpcmVjdO+8mue7lei/h+ahpeaOpeebtOi/niBTbm93THVtYe+8iOS4jeWBmueZveWQjeWNlS/pmZDmtYEv5a6h6K6h77yJJyk7CiAgICBjb25zdCBhY3Rpb24gPSB0YXJnZXQua2luZCA9PT0gJ3ByaXZhdGUnID8gJ3NlbmRfcHJpdmF0ZV9tc2cnIDogJ3NlbmRfZ3JvdXBfbXNnJzsKICAgIGNvbnN0IHBhcmFtcyA9IHRhcmdldC5raW5kID09PSAncHJpdmF0ZScKICAgICAgPyB7IHVzZXJfaWQ6IE51bWJlcih0YXJnZXQuaWQpLCBtZXNzYWdlOiBbeyB0eXBlOiAncmVjb3JkJywgZGF0YTogeyBmaWxlOiByLnBhdGggfSB9XSB9CiAgICAgIDogeyBncm91cF9pZDogTnVtYmVyKHRhcmdldC5pZCksIG1lc3NhZ2U6IFt7IHR5cGU6ICdyZWNvcmQnLCBkYXRhOiB7IGZpbGU6IHIucGF0aCB9IH1dIH07CiAgICBjb25zdCBkYXRhID0gYXdhaXQgb25lYm90KGFjdGlvbiwgcGFyYW1zLCB7IHRpbWVvdXRNczogMTgwMDAwIH0pOwogICAgcmVzdWx0ID0geyBvazogdHJ1ZSwgZGlyZWN0OiB0cnVlLCBtZXNzYWdlSWQ6IGRhdGE/Lm1lc3NhZ2VfaWQgPz8gbnVsbCB9OwogIH0gZWxzZSB7CiAgICB0cnkgewogICAgICByZXN1bHQgPSBhd2FpdCBicmlkZ2VBcGkoJy9hcGkvdm9pY2Uvc2VuZCcsIHsKICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICB0YXJnZXQ6IHRhcmdldC5rZXksCiAgICAgICAgICBmaWxlOiByLnBhdGgsCiAgICAgICAgICBkcnlSdW46IGZhbHNlLAogICAgICAgICAgdmVyaWZ5OiAhaGFzKCduby12ZXJpZnknKSwKICAgICAgICAgIHJlYWRiYWNrOiBoYXMoJ3RyYW5zY3JpcHQnKSwKICAgICAgICAgIC8vIOmfs+mHj+S6pOe7meahpeaOpeWkhOeQhu+8iOS4juWJjeerr+mdouadv+OAgeWbvuW9oueVjOmdouWQjOS4gOadoei3r+W+hO+8iQogICAgICAgICAgdm9sdW1lOiBoYXMoJ3ZvbHVtZScpID8gTnVtYmVyKHZhbCgndm9sdW1lJykpIDogMSwKICAgICAgICAgIG5vcm1hbGl6ZTogaGFzKCdub3JtYWxpemUnKSwKICAgICAgICAgIGxvdWRuZXNzOiBoYXMoJ2xvdWRuZXNzJykgPyBTdHJpbmcodmFsKCdsb3VkbmVzcycpKSA6ICdub3JtYWwnLAogICAgICAgICAgc291cmNlOiAnY2xpJwogICAgICAgIH0pLAogICAgICAgIHRpbWVvdXRNczogMjQwMDAwCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgaWYgKGVycm9yPy5zdGF0dXMgPT09IDQwNCkgewogICAgICAgIGZhaWwoJ+ahpeaOpei/mOayoeaciSAvYXBpL3ZvaWNlL3NlbmQg56uv54K577yI6ZyA6KaB6YeN5ZCv5qGl5o6l5Yqg6L295paw54mI5pysIGJyaWRnZS5qc++8ieOAglxuICAg5Li05pe25Y+v55SoIC0tZGlyZWN0IOebtOi/nue9keWFs+WPkemAgeOAgicpOwogICAgICB9CiAgICAgIGZhaWwoYOWPkemAgeWksei0pe+8miR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J9YCk7CiAgICB9CiAgfQoKICBjb25zb2xlLmxvZyhg4pyFIOW3suS9nOS4uuivremfs+WPkeWHuu+8iG1lc3NhZ2VJZD0ke3Jlc3VsdD8ubWVzc2FnZUlkID8/ICfmnKrnn6UnfSR7cmVzdWx0Py5kaXJlY3QgPyAn77yM55u06L+e5qih5byPJyA6ICcnfe+8iWApOwogIGlmIChyZXN1bHQ/LmRldGFpbCkgY29uc29sZS5sb2coYCAgICR7cmVzdWx0LmRldGFpbH1gKTsKICBpZiAocmVzdWx0Py5hdWRpb1Byb2Nlc3NpbmcgJiYgcmVzdWx0LmF1ZGlvUHJvY2Vzc2luZyAhPT0gJ+WOn+Wni+mfs+mHjycpIHsKICAgIGNvbnNvbGUubG9nKGAgICDwn5SKICR7cmVzdWx0LmF1ZGlvUHJvY2Vzc2luZ31gKTsKICB9CiAgaWYgKHJlc3VsdCAmJiAndmVyaWZpZWQnIGluIHJlc3VsdCkgewogICAgY29uc29sZS5sb2cocmVzdWx0LnZlcmlmaWVkCiAgICAgID8gYCAgIOKchSDlt7Llm57or7vmoKHpqozvvJrnvZHlhbPnoa7orqTov5nmnaHmtojmga/mmK/or63pn7PmrrUke3Jlc3VsdC5yZWNvcmRGaWxlID8gYO+8iCR7cmVzdWx0LnJlY29yZEZpbGV977yJYCA6ICcnfWAKICAgICAgOiAnICAg4pqg77iPIOacquiDveWbnuivu+agoemqjO+8iOa2iOaBr+W6lOW3suWPkeWHuu+8jOS9huayoeivu+WbniByZWNvcmQg5q6177yb5Y+v5ZyoIFFRIOmHjOiCieecvOehruiupO+8iScpOwogIH0KICBpZiAocmVzdWx0Py5yZWFkYmFjaykgY29uc29sZS5sb2coYCAgIOi9rOWGme+8miR7cmVzdWx0LnJlYWRiYWNrfWApOwp9CgpmdW5jdGlvbiB1c2FnZSgpIHsKICBjb25zb2xlLmxvZyhg5oqK5YeG5aSH5aW955qE6Z+z6aKR5b2TIFFRIOivremfs+WPkemAge+8iFNub3dMdW1hIC8gT25lQm9077yJCgrnlKjms5XvvJoKICBub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgbGlzdCAgICAgICAgICAgICAgICAgICAgICAg5YiX5Ye65Y+v5Y+R55qE576k6IGKL+engeiBiu+8iOWQq+eZveWQjeWNleeKtuaAge+8iQogIG5vZGUgc2NyaXB0cy9zZW5kLXZvaWNlLm1qcyBsaXN0LXZvaWNlIFstLW5vLXByb2JlXSAgICDliJflh7ror63pn7PlupPph4znmoTpn7PpopEKICBub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgY2hlY2sgPOmfs+mikT4gWy0tdHJhbnNjb2RlLXRlc3RdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWPquaOoua1i+mfs+mike+8iOaXtumVvy/lpKflsI8v57yW56CB77yJCiAgbm9kZSBzY3JpcHRzL3NlbmQtdm9pY2UubWpzIHNlbmQgPOmfs+mikT4gPOebruaghz4gW+mAiemhuV0gICDlj5HpgIHor63pn7MKICBub2RlIHNjcmlwdHMvc2VuZC12b2ljZS5tanMgc3RhdHVzICAgICAgICAgICAgICAgICAgICAg572R5YWzICsg5qGl5o6lICsg6YWN572u54q25oCBCgrnm67moIflhpnms5XvvJoKICAxMDAwMDUgLyBncm91cDoxMDAwMDUgLyBwcml2YXRlOjEwMDAxMCAvIEDnvqTlkI3miJbmmLXnp7DvvIjllK/kuIDljLnphY3vvIkKCnNlbmQg6YCJ6aG577yaCiAgLS1kcnktcnVuICAgICAgICDlj6rop6PmnpDkuI3lj5HpgIHvvIjotbDmoaXmjqXnmoTnnJ/lrp7moKHpqozot6/lvoTvvIkKICAtLXZvbHVtZSAyICAgICAgIOmfs+mHj+WAjeaVsO+8iDAuMX4077yMMSA9IOWOn+agt++8ie+8m+aJi+acuuWkluaUvuWQrOS4jea4heWwseiwg+WIsCAyfjMKICAtLW5vcm1hbGl6ZSAgICAgIOaZuuiDvemfs+mHj++8muaMiSBFQlUgUjEyOCDmiormlbTkvZPlk43luqbmi4nliLDnm67moIfvvIjlvZXpn7Plv73lpKflv73lsI/ml7bmnIDmnInmlYjvvIkKICAtLWxvdWRuZXNzIGxvdWQgIOaZuuiDvemfs+mHj+aho+S9je+8mnF1aWV0KC0yMCkgLyBub3JtYWwoLTE2KSAvIGxvdWQoLTEzKe+8jOm7mOiupCBub3JtYWwKICAtLW5vLXZlcmlmeSAgICAgIOi3s+i/h+WPkemAgeWQjueahOWbnuivu+agoemqjO+8iOm7mOiupOS8miBnZXRfbXNnIOWbnuivu+ehruiupOivremfs+auteecn+eahOiQveWcsO+8iQogIC0tdHJhbnNjcmlwdCAgICAg6aKd5aSW57Si5Y+WIFFRIOi9rOWGmeaWh+acrO+8iOWPquaciSLmlLbliLDnmoQi6K+t6Z+z5omN5pyJ77yM6Ieq5bex5Y+R55qE5LiA6Iis5Li656m677yJCiAgLS12b2ljZS1kaXIgRElSICDmjIflrpror63pn7PlupPnm67lvZXvvIjpu5jorqQgY29uZmlnLnZvaWNlLmRpciDmiJYgPHJlcG8+L2F1ZGlv77yJCiAgLS1tYXgtc2Vjb25kcyBOICDml7bplb/kuIrpmZDvvIjpu5jorqQgMzAw77yJCiAgLS1tYXgtYnl0ZXMgTiAgICDkvZPnp6/kuIrpmZDvvIjpu5jorqQgMjBNaULvvIkKICAtLWRpcmVjdCAgICAgICAgIOKaoO+4jyDnu5Xov4fmoaXmjqXnm7Tov54gU25vd0x1bWHvvIjml6Dnmb3lkI3ljZUv6ZmQ5rWBL+Wuoeiuoe+8jOS7heW6lOaApeaOkuafpe+8iQogIC0tcmV2ZWFsLXRva2VuICAg5ZyoIHN0YXR1cyDph4zmmL7npLrlrozmlbTku6TniYzvvIjpu5jorqTmiZPnoIHvvIkKYCk7Cn0KCi8vIOKUgOKUgCDlhaXlj6Mg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmNvbnN0IGNtZCA9IHBvc2l0aW9uYWxbMF0gfHwgJ2xpc3QnOwp0cnkgewogIHN3aXRjaCAoY21kKSB7CiAgICBjYXNlICdsaXN0JzogY2FzZSAnbHMnOiBhd2FpdCBjbWRMaXN0KCk7IGJyZWFrOwogICAgY2FzZSAnbGlzdC12b2ljZSc6IGNhc2UgJ3ZvaWNlcyc6IGF3YWl0IGNtZExpc3RWb2ljZSgpOyBicmVhazsKICAgIGNhc2UgJ2NoZWNrJzogY2FzZSAncHJvYmUnOiBhd2FpdCBjbWRDaGVjaygpOyBicmVhazsKICAgIGNhc2UgJ3NlbmQnOiBjYXNlICd2b2ljZSc6IGF3YWl0IGNtZFNlbmQoKTsgYnJlYWs7CiAgICBjYXNlICdzdGF0dXMnOiBhd2FpdCBjbWRTdGF0dXMoKTsgYnJlYWs7CiAgICBjYXNlICdoZWxwJzogY2FzZSAnLWgnOiBjYXNlICctLWhlbHAnOiB1c2FnZSgpOyBicmVhazsKICAgIGRlZmF1bHQ6CiAgICAgIGNvbnNvbGUuZXJyb3IoYOacquefpeWRveS7pO+8miR7Y21kfVxuYCk7CiAgICAgIHVzYWdlKCk7CiAgICAgIHByb2Nlc3MuZXhpdCgyKTsKICB9Cn0gY2F0Y2ggKGVycm9yKSB7CiAgZmFpbChlcnJvcj8uc3RhY2sgJiYgaGFzKCdkZWJ1ZycpID8gZXJyb3Iuc3RhY2sgOiAoZXJyb3I/Lm1lc3NhZ2UgPz8gU3RyaW5nKGVycm9yKSkpOwp9Cg==
+#!/usr/bin/env node
+// 快速把「准备好的音频」当 QQ 语音发给指定群聊/私聊。
+//
+// 用法（在 qq-bridge 目录下执行）：
+//   node scripts/send-voice.mjs list                       # 有哪些群聊/私聊可发
+//   node scripts/send-voice.mjs list-voice                 # 语音库里有哪些音频
+//   node scripts/send-voice.mjs send <音频> <目标> [选项]   # 发一条语音
+//   node scripts/send-voice.mjs check <音频>               # 只探测音频（不发送）
+//   node scripts/send-voice.mjs status                     # 网关/桥接状态
+//
+// 目标写法：`群号` | `group:群号` | `private:QQ号` | `@昵称/群名`（唯一匹配时）
+//
+// 设计：默认走 qq-bridge 的 /api/send/voice —— 白名单、限流、审计、发送链路都在桥接里，
+// 与 AI 用的工具完全同一条路径（避免 CLI 成为绕过闸门的后门）。
+// `--direct` 可绕过桥接直连 SnowLuma，仅用于桥接没启动时的应急排查。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import {
+  describeAudio, formatBytes, formatDuration, inspectAudio, listAudioFiles,
+  parseTargetKey, resolveAudioSource
+} from '../src/send-voice-lib.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+const CONFIG_PATH = path.join(ROOT, 'config.json');
+
+// ── 参数解析 ────────────────────────────────────────────────────────────────
+const argv = process.argv.slice(2);
+const flags = new Map();
+const positional = [];
+for (let i = 0; i < argv.length; i++) {
+  const a = argv[i];
+  if (a === '--') { positional.push(...argv.slice(i + 1)); break; }
+  if (a.startsWith('--')) {
+    const [k, v] = a.slice(2).split('=');
+    if (v !== undefined) flags.set(k, v);
+    else if (argv[i + 1] && !argv[i + 1].startsWith('--')) { flags.set(k, argv[++i]); }
+    else flags.set(k, true);
+  } else if (a.startsWith('-') && a.length > 1) {
+    const [k, v] = a.slice(1).split('=');
+    flags.set(k, v ?? true);
+  } else positional.push(a);
+}
+
+const has = (k) => flags.has(k);
+const val = (k, d = undefined) => (flags.has(k) ? (flags.get(k) === true ? '' : String(flags.get(k))) : d);
+const num = (k, d) => {
+  if (!flags.has(k)) return d;
+  const n = Number(flags.get(k));
+  return Number.isFinite(n) ? n : d;
+};
+
+// ── 配置 ────────────────────────────────────────────────────────────────────
+function loadConfig() {
+  try {
+    let text = fs.readFileSync(CONFIG_PATH, 'utf8');
+    if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+    return JSON.parse(text);
+  } catch {
+    return {};
+  }
+}
+
+const cfg = loadConfig();
+const httpUrl = String(val('snowluma', cfg.snowluma?.httpUrl || 'http://127.0.0.1:3000')).replace(/\/+$/, '');
+const accessToken = String(val('token', cfg.snowluma?.accessToken || ''));
+const consolePort = Number(val('console-port', cfg.consolePort)) || 3100;
+const consoleToken = String(
+  val('console-token', cfg.consoleToken || process.env.QQ_CONSOLE_TOKEN || readConsoleTokenFile() || '')
+).trim();
+const voiceDir = path.resolve(val('voice-dir', cfg.voice?.dir ? path.resolve(ROOT, cfg.voice.dir) : path.join(ROOT, 'audio')));
+const revealToken = has('reveal-token');
+const quiet = has('q') || has('quiet');
+
+function readConsoleTokenFile() {
+  try {
+    return fs.readFileSync(path.join(ROOT, 'state', 'console-token'), 'utf8').trim();
+  } catch {
+    return '';
+  }
+}
+
+const maskToken = (t) => (t ? `${t.slice(0, 4)}…${t.slice(-4)}（${t.length} 字符）` : '(未配置)');
+const out = (...a) => { if (!quiet) console.log(...a); };
+const fail = (msg, code = 1) => { console.error(`❌ ${msg}`); process.exit(code); };
+
+// ── OneBot 直连（用于 list/status/check 的只读查询；发送默认走桥接） ─────────
+async function onebot(action, params = {}, { timeoutMs = 15000 } = {}) {
+  const res = await fetch(`${httpUrl}/${action}`, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/json',
+      ...(accessToken ? { authorization: `Bearer ${accessToken}` } : {})
+    },
+    body: JSON.stringify(params),
+    signal: AbortSignal.timeout(timeoutMs)
+  });
+  if (res.status === 426) {
+    throw new Error(`HTTP 426：httpUrl 指向了 WebSocket 端口，请检查 config.json 的 snowluma.httpUrl（当前 ${httpUrl}）`);
+  }
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const body = await res.json().catch(() => ({}));
+  if (body.status !== 'ok' || body.retcode !== 0) {
+    throw new Error(`OneBot ${action} 失败: retcode=${body.retcode} ${body.wording ?? ''}`.trim());
+  }
+  return body.data;
+}
+
+async function bridgeApi(pathname, init = {}) {
+  const headers = {
+    'content-type': 'application/json',
+    ...(consoleToken ? { 'x-console-token': consoleToken } : {}),
+    ...(init.headers ?? {})
+  };
+  const res = await fetch(`http://127.0.0.1:${consolePort}${pathname}`, {
+    ...init,
+    headers,
+    signal: AbortSignal.timeout(init.timeoutMs ?? 60000)
+  });
+  const text = await res.text();
+  let body;
+  try { body = JSON.parse(text); } catch { body = { raw: text }; }
+  if (!res.ok) {
+    const err = new Error(body?.error || `HTTP ${res.status}`);
+    err.status = res.status;
+    err.body = body;
+    throw err;
+  }
+  return body;
+}
+
+// ── 目标表和解析 ────────────────────────────────────────────────────────────
+function allowedSet() {
+  const allow = cfg.allow ?? {};
+  const deny = cfg.deny ?? {};
+  return {
+    groups: new Set((allow.groups ?? []).map(String)),
+    private: new Set((allow.private ?? []).map(String)),
+    denyGroups: new Set((deny.groups ?? []).map(String)),
+    denyPrivate: new Set((deny.private ?? []).map(String)),
+    allowAllWhenEmpty: cfg.allowAllWhenEmpty === true
+  };
+}
+
+function isAllowedKey(key) {
+  const t = parseTargetKey(key);
+  if (!t) return false;
+  const a = allowedSet();
+  if (t.kind === 'group') {
+    if (a.denyGroups.has(t.id)) return false;
+    if (a.groups.size > 0) return a.groups.has(t.id);
+    return a.allowAllWhenEmpty;
+  }
+  if (a.denyPrivate.has(t.id)) return false;
+  if (a.private.size > 0) return a.private.has(t.id);
+  return a.allowAllWhenEmpty;
+}
+
+async function fetchTargets() {
+  const [groups, friends] = await Promise.all([
+    onebot('get_group_list').catch((e) => ({ __error: e.message })),
+    onebot('get_friend_list').catch((e) => ({ __error: e.message }))
+  ]);
+  const g = Array.isArray(groups) ? groups : [];
+  const f = Array.isArray(friends) ? friends : [];
+  return {
+    groups: g.map((x) => ({ id: String(x.group_id), name: x.group_name || '', count: x.member_count ?? null })),
+    friends: f.map((x) => ({ id: String(x.user_id), name: x.nickname || '', remark: x.remark || '' })),
+    groupsError: groups?.__error ?? null,
+    friendsError: friends?.__error ?? null
+  };
+}
+
+/**
+ * 把用户输入解析成目标 key。
+ * 支持：123456 / group:123456 / private:123456 / @名字（在群名和好友昵称/备注里唯一匹配）
+ */
+async function resolveTarget(input) {
+  const raw = String(input ?? '').trim();
+  if (!raw) fail('缺少目标（群号 / group:群号 / private:QQ号 / @名字）');
+
+  const direct = parseTargetKey(raw);
+  if (direct) return direct;
+
+  if (/^\d+$/.test(raw)) {
+    // 纯数字：优先当群号，群列表里没有则当 QQ 号
+    const t = await fetchTargets();
+    if (t.groups.some((g) => g.id === raw)) return { kind: 'group', id: raw, key: `group:${raw}` };
+    if (t.friends.some((f) => f.id === raw)) return { kind: 'private', id: raw, key: `private:${raw}` };
+    return { kind: 'group', id: raw, key: `group:${raw}`, unverified: true };
+  }
+
+  const want = raw.replace(/^@/, '').toLowerCase();
+  const t = await fetchTargets();
+  const hits = [];
+  for (const g of t.groups) {
+    if (g.name.toLowerCase().includes(want) || g.id.includes(want)) hits.push({ kind: 'group', id: g.id, key: `group:${g.id}`, name: g.name, label: `群 ${g.name}(${g.id})` });
+  }
+  for (const f of t.friends) {
+    if (f.name.toLowerCase().includes(want) || f.remark.toLowerCase().includes(want) || f.id.includes(want)) {
+      hits.push({ kind: 'private', id: f.id, key: `private:${f.id}`, name: f.remark || f.name, label: `私聊 ${f.remark ? `${f.remark}/` : ''}${f.name}(${f.id})` });
+    }
+  }
+  if (hits.length === 0) fail(`找不到匹配「${raw}」的群聊或私聊（用 list 看可用目标）`);
+  if (hits.length > 1) {
+    console.error(`❌ 「${raw}」匹配到多个目标，请写明确：`);
+    for (const h of hits) console.error(`   - ${h.label}`);
+    process.exit(1);
+  }
+  return hits[0];
+}
+
+// ── 子命令 ──────────────────────────────────────────────────────────────────
+async function cmdList() {
+  let t;
+  try {
+    t = await fetchTargets();
+  } catch (error) {
+    fail(`无法访问 SnowLuma（${httpUrl}）：${error?.message ?? error}\n   请先启动 SnowLuma（config.json 的 snowluma.launcherPath）。`);
+  }
+  const a = allowedSet();
+  const mark = (kind, id) => {
+    const allowed = isAllowedKey(`${kind}:${id}`);
+    return allowed ? '✅ 可发' : '⛔ 白名单外';
+  };
+  console.log(`SnowLuma: ${httpUrl}`);
+  console.log(`\n【群聊】${t.groups.length} 个`);
+  if (t.groupsError) console.log(`  ⚠️ get_group_list 失败：${t.groupsError}`);
+  for (const g of t.groups) {
+    console.log(`  group:${g.id.padEnd(12)} ${(g.name || '(无名)').padEnd(20)} ${g.count != null ? `${g.count}人` : ''}  ${mark('group', g.id)}`);
+  }
+  console.log(`\n【私聊/好友】${t.friends.length} 个`);
+  if (t.friendsError) console.log(`  ⚠️ get_friend_list 失败：${t.friendsError}`);
+  for (const f of t.friends) {
+    console.log(`  private:${f.id.padEnd(10)} ${(f.remark ? `${f.remark} / ` : '') + (f.name || '')}  ${mark('private', f.id)}`);
+  }
+  console.log(`\n白名单（config.json allow）：群 ${[...a.groups].join(', ') || '(空)'}；私聊 ${[...a.private].join(', ') || '(空)'}`);
+  if (a.allowAllWhenEmpty) console.log('⚠️ allowAllWhenEmpty=true：白名单为空时全部放行');
+  console.log(`\n发送示例：node scripts/send-voice.mjs send "<音频文件>" ${t.groups[0] ? `group:${t.groups[0].id}` : 'private:<QQ号>'}`);
+}
+
+async function cmdListVoice() {
+  if (!fs.existsSync(voiceDir)) {
+    console.log(`语音库目录不存在：${voiceDir}`);
+    console.log('（把音频放进去，或用 --voice-dir 指定别的目录；也可以 send 时直接给任意路径）');
+    return;
+  }
+  const files = listAudioFiles(voiceDir);
+  console.log(`语音库：${voiceDir}`);
+  if (files.length === 0) {
+    console.log('（目录为空 —— 把 .mp3/.wav/.ogg/.m4a/.amr/.silk 等音频放进来即可）');
+    return;
+  }
+  console.log(`共 ${files.length} 个音频：\n`);
+  const probe = !has('no-probe');
+  for (const f of files) {
+    const rel = path.relative(voiceDir, f);
+    if (!probe) {
+      console.log(`  ${rel}  (${formatBytes(fs.statSync(f).size)})`);
+      continue;
+    }
+    const info = await inspectAudio(f, { maxBytes: Infinity, maxSeconds: Infinity });
+    console.log(`  ${rel.padEnd(34)} ${describeAudio({ size: info.size, duration: info.duration, codec: info.codec })}`);
+  }
+  console.log(`\n发送示例：node scripts/send-voice.mjs send "${path.relative(voiceDir, files[0])}" <目标>`);
+}
+
+async function cmdStatus() {
+  console.log(`配置文件：${CONFIG_PATH}`);
+  console.log(`  snowluma.httpUrl   = ${httpUrl}`);
+  console.log(`  snowluma.accessToken = ${revealToken ? accessToken : maskToken(accessToken)}`);
+  console.log(`  桥接控制台         = http://127.0.0.1:${consolePort}`);
+  console.log(`  consoleToken       = ${revealToken ? consoleToken : maskToken(consoleToken)}`);
+  console.log(`  语音库目录         = ${voiceDir}`);
+  try {
+    const login = await onebot('get_login_info');
+    console.log(`\n✅ SnowLuma 在线：${login.user_id} (${login.nickname ?? ''})`);
+  } catch (error) {
+    console.log(`\n❌ SnowLuma 不可达：${error?.message ?? error}`);
+  }
+  try {
+    const st = await bridgeApi('/api/status');
+    console.log(`✅ 桥接在线：mode=${st.mode ?? '?'} role=${st.role ?? '?'} dshReady=${st.dshReady ?? '?'} paused=${st.socialV2Paused ?? '?'}`);
+  } catch (error) {
+    console.log(`⚠️ 桥接不可达（http://127.0.0.1:${consolePort}）：${error?.message ?? error}`);
+    console.log('   → 发送语音需要桥接在线（它负责白名单/限流/审计）。应急可用 --direct 直连网关（无闸门）。');
+  }
+}
+
+async function cmdCheck() {
+  const src = positional[1];
+  if (!src) fail('用法：node scripts/send-voice.mjs check <音频文件>');
+  const r = resolveAudioSource(src, { voiceDir });
+  if (!r.path) {
+    const hint = r.candidates.length ? `\n   语音库里的近似匹配：${r.candidates.map((c) => path.relative(voiceDir, c.path)).join('、')}` : '';
+    fail(`找不到音频「${src}」${hint}`);
+  }
+  const info = await inspectAudio(r.path, {
+    maxBytes: num('max-bytes', undefined) ?? undefined,
+    maxSeconds: num('max-seconds', undefined) ?? undefined,
+    ffprobePath: val('ffprobe', process.env.FFPROBE_PATH || 'ffprobe')
+  });
+  console.log(`音频：${r.path}`);
+  console.log(`  来源：${r.via}`);
+  console.log(`  信息：${describeAudio(info)}`);
+  if (info.formatName) console.log(`  容器：${info.formatName}`);
+  for (const w of info.warnings ?? []) console.log(`  ⚠️ ${w}`);
+  if (!info.ok) fail(info.error);
+  if (has('transcode-test')) {
+    console.log('\n正在让 SnowLuma 把音频转成 SILK→mp3（验证网关转码链路）…');
+    const t0 = Date.now();
+    try {
+      const data = await onebot('get_record', { file: r.path, out_format: 'mp3' }, { timeoutMs: 120000 });
+      const b64 = data?.base64 ?? '';
+      console.log(`✅ 网关转码成功：${((b64.length * 3) / 4 / 1024).toFixed(1)} KB mp3，耗时 ${((Date.now() - t0) / 1000).toFixed(1)}s`);
+    } catch (error) {
+      console.log(`⚠️ 网关转码验证失败：${error?.message ?? error}`);
+      console.log('   （get_record 主要面向「收到的语音」缓存；发送路径仍可能正常，可用 send --dry-run 验证）');
+    }
+  }
+  console.log('\n✅ 音频可用于发送');
+}
+
+async function cmdSend() {
+  const src = positional[1];
+  const targetInput = positional[2] ?? val('to', '');
+  if (!src) fail('用法：node scripts/send-voice.mjs send <音频文件> <目标> [--dry-run]');
+  if (!targetInput) fail('缺少目标：群号 / group:群号 / private:QQ号 / @名字');
+
+  const r = resolveAudioSource(src, { voiceDir });
+  if (!r.path) {
+    const hint = r.candidates.length ? `\n   语音库里的近似匹配：${r.candidates.map((c) => path.relative(voiceDir, c.path)).join('、')}` : '';
+    fail(`找不到音频「${src}」${hint}`);
+  }
+  const info = await inspectAudio(r.path, {
+    maxBytes: num('max-bytes', undefined) ?? undefined,
+    maxSeconds: num('max-seconds', undefined) ?? undefined
+  });
+  if (!info.ok) fail(info.error);
+
+  const target = await resolveTarget(targetInput);
+  const allowed = isAllowedKey(target.key);
+  const dryRun = has('dry-run') || has('n');
+
+  console.log('─'.repeat(60));
+  console.log(`音频  : ${r.path}`);
+  console.log(`        ${describeAudio(info)}${info.formatName ? ` · ${info.formatName}` : ''}`);
+  console.log(`目标  : ${target.kind === 'group' ? '群聊' : '私聊'} ${target.key}${target.unverified ? '（网关未确认该目标存在）' : ''}`);
+  console.log(`白名单: ${allowed ? '✅ 命中' : '⛔ 未命中'}${has('force') ? '（--force 已指定，仍会被桥接拒绝）' : ''}`);
+  for (const w of info.warnings ?? []) console.log(`⚠️  ${w}`);
+  console.log('─'.repeat(60));
+
+  if (dryRun) {
+    // 走桥接的 dry-run：把「桥接会怎么判」原样跑一遍（白名单/限流/尺寸/时长），只是不落消息。
+    // 桥接不可达时退回本地判断，保证离线也能做参数检查。
+    if (!has('direct')) {
+      try {
+        const data = await bridgeApi('/api/voice/send', {
+          method: 'POST',
+          body: JSON.stringify({ target: target.key, file: r.path, dryRun: true })
+        });
+        console.log('DRY-RUN（经桥接校验）：未发送。');
+        if (data?.limits) {
+          console.log(`  桥接上限：时长 ≤ ${formatDuration(data.limits.maxSeconds)} · 体积 ≤ ${formatBytes(data.limits.maxBytes)} · ${data.limits.maxPerMinute}/分钟 · ${data.limits.maxPerHour}/小时`);
+        }
+        console.log(`  桥接解析：${data?.file ?? r.path}`);
+        return;
+      } catch (error) {
+        if (error?.status === 404) {
+          console.log('⚠️  桥接还没有 /api/voice/send 端点（需重启桥接）；以下为本地校验结果。');
+        } else {
+          console.log(`⚠️  桥接校验不可用（${error?.message ?? error}）；以下为本地校验结果。`);
+        }
+      }
+    }
+    console.log('DRY-RUN：未发送。去掉 --dry-run 即真发。');
+    return;
+  }
+  if (!allowed && !has('direct')) {
+    fail(`目标 ${target.key} 不在白名单（config.json allow.groups/allow.private）。\n   要么把目标加进白名单，要么（仅排查用）加 --direct 绕过桥接直连网关。`);
+  }
+
+  const useDirect = has('direct');
+  let result;
+  if (useDirect) {
+    console.log('⚠️  --direct：绕过桥接直连 SnowLuma（不做白名单/限流/审计）');
+    const action = target.kind === 'private' ? 'send_private_msg' : 'send_group_msg';
+    const params = target.kind === 'private'
+      ? { user_id: Number(target.id), message: [{ type: 'record', data: { file: r.path } }] }
+      : { group_id: Number(target.id), message: [{ type: 'record', data: { file: r.path } }] };
+    const data = await onebot(action, params, { timeoutMs: 180000 });
+    result = { ok: true, direct: true, messageId: data?.message_id ?? null };
+  } else {
+    try {
+      result = await bridgeApi('/api/voice/send', {
+        method: 'POST',
+        body: JSON.stringify({
+          target: target.key,
+          file: r.path,
+          dryRun: false,
+          verify: !has('no-verify'),
+          readback: has('transcript'),
+          // 音量交给桥接处理（与前端面板、图形界面同一条路径）
+          volume: has('volume') ? Number(val('volume')) : 1,
+          normalize: has('normalize'),
+          loudness: has('loudness') ? String(val('loudness')) : 'normal',
+          source: 'cli'
+        }),
+        timeoutMs: 240000
+      });
+    } catch (error) {
+      if (error?.status === 404) {
+        fail('桥接还没有 /api/voice/send 端点（需要重启桥接加载新版本 bridge.js）。\n   临时可用 --direct 直连网关发送。');
+      }
+      fail(`发送失败：${error?.message ?? error}`);
+    }
+  }
+
+  console.log(`✅ 已作为语音发出（messageId=${result?.messageId ?? '未知'}${result?.direct ? '，直连模式' : ''}）`);
+  if (result?.detail) console.log(`   ${result.detail}`);
+  if (result?.audioProcessing && result.audioProcessing !== '原始音量') {
+    console.log(`   🔊 ${result.audioProcessing}`);
+  }
+  if (result && 'verified' in result) {
+    console.log(result.verified
+      ? `   ✅ 已回读校验：网关确认这条消息是语音段${result.recordFile ? `（${result.recordFile}）` : ''}`
+      : '   ⚠️ 未能回读校验（消息应已发出，但没读回 record 段；可在 QQ 里肉眼确认）');
+  }
+  if (result?.readback) console.log(`   转写：${result.readback}`);
+}
+
+function usage() {
+  console.log(`把准备好的音频当 QQ 语音发送（SnowLuma / OneBot）
+
+用法：
+  node scripts/send-voice.mjs list                       列出可发的群聊/私聊（含白名单状态）
+  node scripts/send-voice.mjs list-voice [--no-probe]    列出语音库里的音频
+  node scripts/send-voice.mjs check <音频> [--transcode-test]
+                                                         只探测音频（时长/大小/编码）
+  node scripts/send-voice.mjs send <音频> <目标> [选项]   发送语音
+  node scripts/send-voice.mjs status                     网关 + 桥接 + 配置状态
+
+目标写法：
+  100005 / group:100005 / private:100010 / @群名或昵称（唯一匹配）
+
+send 选项：
+  --dry-run        只解析不发送（走桥接的真实校验路径）
+  --volume 2       音量倍数（0.1~4，1 = 原样）；手机外放听不清就调到 2~3
+  --normalize      智能音量：按 EBU R128 把整体响度拉到目标（录音忽大忽小时最有效）
+  --loudness loud  智能音量档位：quiet(-20) / normal(-16) / loud(-13)，默认 normal
+  --no-verify      跳过发送后的回读校验（默认会 get_msg 回读确认语音段真的落地）
+  --transcript     额外索取 QQ 转写文本（只有"收到的"语音才有，自己发的一般为空）
+  --voice-dir DIR  指定语音库目录（默认 config.voice.dir 或 <repo>/audio）
+  --max-seconds N  时长上限（默认 300）
+  --max-bytes N    体积上限（默认 20MiB）
+  --direct         ⚠️ 绕过桥接直连 SnowLuma（无白名单/限流/审计，仅应急排查）
+  --reveal-token   在 status 里显示完整令牌（默认打码）
+`);
+}
+
+// ── 入口 ────────────────────────────────────────────────────────────────────
+const cmd = positional[0] || 'list';
+try {
+  switch (cmd) {
+    case 'list': case 'ls': await cmdList(); break;
+    case 'list-voice': case 'voices': await cmdListVoice(); break;
+    case 'check': case 'probe': await cmdCheck(); break;
+    case 'send': case 'voice': await cmdSend(); break;
+    case 'status': await cmdStatus(); break;
+    case 'help': case '-h': case '--help': usage(); break;
+    default:
+      console.error(`未知命令：${cmd}\n`);
+      usage();
+      process.exit(2);
+  }
+} catch (error) {
+  fail(error?.stack && has('debug') ? error.stack : (error?.message ?? String(error)));
+}

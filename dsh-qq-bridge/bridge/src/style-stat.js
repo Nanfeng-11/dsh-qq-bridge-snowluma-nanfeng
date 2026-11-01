@@ -1,1 +1,58 @@
-Ly8g6K+t5oSf57uf6K6h77ya5LuO5pyA6L+R55qE55yf5Lq65raI5oGv6YeM5a2mIui/meS4que+pOeahOivtOivneiKguWljyLjgIIKLy8g5YCf6Ym05LqU5bGC5qGG5p6255qE6KGo6L6+5bGC77yI5LuO5pyA6L+RIDMwMCDmnaHnnJ/kurrmtojmga/nrpfkuK3kvY3lj6Xplb8v5peg5qCH54K5546HL+ivreawlOivje+8jOazqOWFpee6piAxMzAg5a2X77yJ44CCCi8vIOi/memHjOeUqOS8muivneWGhSByZWNlbnRNZXNzYWdlc++8iCFpc1NlbGYg55qE77yJ77yM5YWo6YOo5pys5Zyw6K6h566X77yM6Zu2IHRva2VuIOaIkOacrOOAggoKY29uc3QgVE9ORV9XT1JEUyA9IFsn5ZOIJywgJ+WViicsICflkYAnLCAn5ZGiJywgJ+WYmycsICflk6YnLCAn5ZieJywgJ+WRlycsICfor7YnXTsKCmZ1bmN0aW9uIHNwbGl0U2VudGVuY2VzKHRleHQpIHsKICByZXR1cm4gU3RyaW5nKHRleHQgPz8gJycpLnNwbGl0KC9b77yM44CC77yB77yfIT/jgIHvvJs7XG5dLykubWFwKChzKSA9PiBzLnRyaW0oKSkuZmlsdGVyKEJvb2xlYW4pOwp9CgpmdW5jdGlvbiBtZWRpYW4oYXJyKSB7CiAgaWYgKCFhcnIubGVuZ3RoKSByZXR1cm4gMDsKICBjb25zdCBhID0gWy4uLmFycl0uc29ydCgoeCwgeSkgPT4geCAtIHkpOwogIGNvbnN0IG1pZCA9IE1hdGguZmxvb3IoYS5sZW5ndGggLyAyKTsKICByZXR1cm4gYS5sZW5ndGggJSAyID8gYVttaWRdIDogTWF0aC5yb3VuZCgoYVttaWQgLSAxXSArIGFbbWlkXSkgLyAyKTsKfQoKLyoqCiAqIOe7n+iuoeivreaEn+OAggogKiBAcGFyYW0ge0FycmF5fSBtZXNzYWdlcyByZWNlbnRNZXNzYWdlcyDph4znmoQgIWlzU2VsZiDmtojmga/vvIjlj5YgdGV4dC9wbGFpbi90YWls77yJCiAqIEBwYXJhbSB7bnVtYmVyfSBtaW5TYW1wbGVzIOWwkeS6jui/meS4quagt+acrOmHj+WwseS4jeazqOWFpe+8iOmBv+WFjeeejuaMh+WvvO+8iQogKiBAcmV0dXJucyB7c3RyaW5nfSDms6jlhaXmlofmnKzvvIjmoLfmnKzkuI3otrPov5Tlm54gJyfvvIkKICovCmV4cG9ydCBmdW5jdGlvbiBidWlsZFN0eWxlSGludChtZXNzYWdlcywgbWluU2FtcGxlcyA9IDIwKSB7CiAgY29uc3QgdGV4dHMgPSAoQXJyYXkuaXNBcnJheShtZXNzYWdlcykgPyBtZXNzYWdlcyA6IFtdKQogICAgLm1hcCgobSkgPT4gU3RyaW5nKG0/LnBsYWluIHx8IG0/LnRleHQgfHwgbT8udGFpbCB8fCAnJykpCiAgICAuZmlsdGVyKCh0KSA9PiB0LnRyaW0oKSkKICAgIC5zbGljZSgtMzAwKTsKCiAgaWYgKHRleHRzLmxlbmd0aCA8IG1pblNhbXBsZXMpIHJldHVybiAnJzsKCiAgY29uc3Qgc2VudGVuY2VzID0gW107CiAgbGV0IG5vUHVuY3RDb3VudCA9IDA7CiAgY29uc3QgdG9uZUNvdW50ID0gbmV3IE1hcCgpOwogIGxldCB0b3RhbENoYXJzID0gMDsKCiAgZm9yIChjb25zdCB0IG9mIHRleHRzKSB7CiAgICBjb25zdCBzID0gc3BsaXRTZW50ZW5jZXModCk7CiAgICBzZW50ZW5jZXMucHVzaCguLi5zKTsKICAgIGlmICghL1vvvIzjgILvvIHvvJ8hP+OAge+8mztcbl0vLnRlc3QodCkpIG5vUHVuY3RDb3VudCArPSAxOwogICAgZm9yIChjb25zdCB3IG9mIFRPTkVfV09SRFMpIHsKICAgICAgY29uc3QgbiA9IHQuc3BsaXQodykubGVuZ3RoIC0gMTsKICAgICAgaWYgKG4gPiAwKSB0b25lQ291bnQuc2V0KHcsICh0b25lQ291bnQuZ2V0KHcpIHx8IDApICsgbik7CiAgICB9CiAgICB0b3RhbENoYXJzICs9IHQubGVuZ3RoOwogIH0KCiAgY29uc3QgbWVkaWFuTGVuID0gbWVkaWFuKHNlbnRlbmNlcy5tYXAoKHMpID0+IHMubGVuZ3RoKSk7CiAgY29uc3Qgbm9QdW5jdFJhdGUgPSBNYXRoLnJvdW5kKChub1B1bmN0Q291bnQgLyB0ZXh0cy5sZW5ndGgpICogMTAwKTsKICBjb25zdCB0b3BUb25lcyA9IFsuLi50b25lQ291bnQuZW50cmllcygpXS5zb3J0KChhLCBiKSA9PiBiWzFdIC0gYVsxXSkuc2xpY2UoMCwgMykubWFwKChbd10pID0+IHcpOwoKICBjb25zdCBwYXJ0cyA9IFtg576k6YeM5pyA6L+R6K+06K+d77ya5Lit5L2N5LiA5Y+l57qmICR7bWVkaWFuTGVufSDlrZdgXTsKICBpZiAobm9QdW5jdFJhdGUgPj0gNDApIHBhcnRzLnB1c2goYCR7bm9QdW5jdFJhdGV9JSDnmoTmtojmga/kuI3miZPmoIfngrlgKTsKICBlbHNlIGlmIChub1B1bmN0UmF0ZSA8PSAxMCkgcGFydHMucHVzaCgn5Z+65pys6YO95bim5qCH54K5Jyk7CiAgaWYgKHRvcFRvbmVzLmxlbmd0aCkgcGFydHMucHVzaChg5bi455So6K+t5rCU6K+N77yaJHt0b3BUb25lcy5qb2luKCfjgIEnKX1gKTsKCiAgcmV0dXJuIGDjgJDor63mhJ/jgJEke3BhcnRzLmpvaW4oJ++8mycpfeOAgui3n+edgOi/meS4quiKguWlj+ivtOivne+8jOWIq+avlOS7luS7rOato+W8j++8jOS5n+WIq+abtOeijuOAgmA7Cn0K
+// 语感统计：从最近的真人消息里学"这个群的说话节奏"。
+// 借鉴五层框架的表达层（从最近 300 条真人消息算中位句长/无标点率/语气词，注入约 130 字）。
+// 这里用会话内 recentMessages（!isSelf 的），全部本地计算，零 token 成本。
+
+const TONE_WORDS = ['哈', '啊', '呀', '呢', '嘛', '哦', '嘞', '呗', '诶'];
+
+function splitSentences(text) {
+  return String(text ?? '').split(/[，。！？!?、；;\n]/).map((s) => s.trim()).filter(Boolean);
+}
+
+function median(arr) {
+  if (!arr.length) return 0;
+  const a = [...arr].sort((x, y) => x - y);
+  const mid = Math.floor(a.length / 2);
+  return a.length % 2 ? a[mid] : Math.round((a[mid - 1] + a[mid]) / 2);
+}
+
+/**
+ * 统计语感。
+ * @param {Array} messages recentMessages 里的 !isSelf 消息（取 text/plain/tail）
+ * @param {number} minSamples 少于这个样本量就不注入（避免瞎指导）
+ * @returns {string} 注入文本（样本不足返回 ''）
+ */
+export function buildStyleHint(messages, minSamples = 20) {
+  const texts = (Array.isArray(messages) ? messages : [])
+    .map((m) => String(m?.plain || m?.text || m?.tail || ''))
+    .filter((t) => t.trim())
+    .slice(-300);
+
+  if (texts.length < minSamples) return '';
+
+  const sentences = [];
+  let noPunctCount = 0;
+  const toneCount = new Map();
+  let totalChars = 0;
+
+  for (const t of texts) {
+    const s = splitSentences(t);
+    sentences.push(...s);
+    if (!/[，。！？!?、；;\n]/.test(t)) noPunctCount += 1;
+    for (const w of TONE_WORDS) {
+      const n = t.split(w).length - 1;
+      if (n > 0) toneCount.set(w, (toneCount.get(w) || 0) + n);
+    }
+    totalChars += t.length;
+  }
+
+  const medianLen = median(sentences.map((s) => s.length));
+  const noPunctRate = Math.round((noPunctCount / texts.length) * 100);
+  const topTones = [...toneCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([w]) => w);
+
+  const parts = [`群里最近说话：中位一句约 ${medianLen} 字`];
+  if (noPunctRate >= 40) parts.push(`${noPunctRate}% 的消息不打标点`);
+  else if (noPunctRate <= 10) parts.push('基本都带标点');
+  if (topTones.length) parts.push(`常用语气词：${topTones.join('、')}`);
+
+  return `【语感】${parts.join('；')}。跟着这个节奏说话，别比他们正式，也别更碎。`;
+}

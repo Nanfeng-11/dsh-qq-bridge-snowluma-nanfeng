@@ -1,1 +1,69 @@
-Ly8g5LqM5Luj562J5b6F6YC76L6R55qE44CM5a6e5pe244CN56uv5Yiw56uv5rWL6K+V77ya55yf5bu65LiA5LiqIHFxLWNoYXQtdjIg5Lya6K+d5bm25ZCRIERTSCDmj5Dpl67vvIwKLy8g5pat6KiAIHFxX3dhaXRfZm9yX21lc3NhZ2VzIOWHuueOsOWcqOivpSBwcmVzZXQg55qE5Y+v55So5bel5YW36Z2i6YeM44CC6ZyA6KaBIERTSCDmraPlnKjov5DooYzjgIIKLy8g77yI57qv6YC76L6R5Y2V5rWL6KeBIHNjcmlwdHMvdGVzdC12Mi13YWl0Lm1qc++8jOS4pOiAheS4jemHjeWkjeOAgu+8iQppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgb3MgZnJvbSAnbm9kZTpvcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHsgTm9kZUFwaUNsaWVudCwgdW53cmFwLCBjcmVhdGVUdXJuQ29sbGVjdG9yLCBkaXNjb3ZlckRzaExhdW5jaFRva2VuIH0gZnJvbSAnLi4vc3JjL2RzaC1jbGllbnQuanMnOwoKY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKCmFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7CiAgbGV0IGF1dGg7CiAgdHJ5IHsKICAgIGNvbnN0IGNmZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CiAgICBhdXRoID0gewogICAgICB0b2tlbjogY2ZnLmRzaD8uYXV0aFRva2VuIHx8IGRpc2NvdmVyRHNoTGF1bmNoVG9rZW4oKSwKICAgICAgaGVhZGVyOiBjZmcuZHNoPy5hdXRoSGVhZGVyLAogICAgICBwcmVmaXg6IGNmZy5kc2g/LmF1dGhQcmVmaXgKICAgIH07CiAgfSBjYXRjaCB7fQogIGNvbnN0IGFwaSA9IG5ldyBOb2RlQXBpQ2xpZW50KCdodHRwOi8vMTI3LjAuMC4xOjMwODAnLCB1bmRlZmluZWQsIGF1dGgpOwogIC8vIOaOoua1i+S8muivneeahCBjd2Qg55So57O757uf5Li05pe255uu5b2V77yac3RhdGUvIOeahCBBQ0wg6KKrIGhhcmRlbi1zdGF0ZS1hY2wubWpzIOaUtue0p+i/h++8jAogIC8vIOaymeeusemHjOWGmeS4jei/m+WOu++8iOingSBzY3JpcHRzL3Byb2JlLWF1dGgubWpzIOeahOWQjOasvuivtOaYju+8ieOAggogIGNvbnN0IGN3ZCA9IHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3FxLWJyaWRnZS1zZWxmLXRlc3QtdjItd2FpdCcpOwogIGZzLm1rZGlyU3luYyhjd2QsIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwogIGNvbnN0IGNyZWF0ZWQgPSB1bndyYXAoYXdhaXQgYXBpLnNlc3Npb25zLmNyZWF0ZSh7IGN3ZCwgYWdlbnRQcmVzZXQ6ICdxcS1jaGF0LXYyJyB9KSwgJ3Nlc3Npb24uY3JlYXRlJyk7CiAgY29uc3Qgc2Vzc2lvbklkID0gY3JlYXRlZC5zZXNzaW9uSWQ7CiAgY29uc29sZS5sb2coJ1NFU1NJT05fQ1JFQVRFRCcsIHNlc3Npb25JZCk7CgogIGNvbnN0IHN0cmVhbSA9IGFwaS5ldmVudHMubXV4KHt9KTsKICBjb25zdCBjb2xsZWN0b3IgPSBjcmVhdGVUdXJuQ29sbGVjdG9yKCk7CiAgY29uc3QgZG9uZSA9IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiByZWplY3QobmV3IEVycm9yKCfnrYnlvoXlm57lpI3otoXml7bvvIgxMjBz77yJJykpLCAxMjBfMDAwKTsKICAgIChhc3luYyAoKSA9PiB7CiAgICAgIGZvciBhd2FpdCAoY29uc3QgZW52ZWxvcGUgb2Ygc3RyZWFtKSB7CiAgICAgICAgY29uc3QgZnJhbWUgPSBlbnZlbG9wZS5wYXlsb2FkOwogICAgICAgIGlmIChmcmFtZS50eXBlID09PSAnc2Vzc2lvbi9ldmVudCcgJiYgZnJhbWUuc2Vzc2lvbklkID09PSBzZXNzaW9uSWQpIHsKICAgICAgICAgIGNvbnN0IGVuZGVkID0gY29sbGVjdG9yLnB1c2goZnJhbWUuZXZlbnQpOwogICAgICAgICAgaWYgKGVuZGVkKSB7CiAgICAgICAgICAgIGNsZWFyVGltZW91dCh0aW1lcik7CiAgICAgICAgICAgIHJlc29sdmUoZW5kZWQpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmIChmcmFtZS50eXBlID09PSAnc3RyZWFtL2Vycm9yJykgewogICAgICAgICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgICAgICAgIHJlamVjdChuZXcgRXJyb3IoJ+S6i+S7tua1gemUmeivrzogJyArIEpTT04uc3RyaW5naWZ5KGZyYW1lLmVycm9yKSkpOwogICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgfQogICAgfSkoKS5jYXRjaCgoZXJyb3IpID0+IHsgY2xlYXJUaW1lb3V0KHRpbWVyKTsgcmVqZWN0KGVycm9yKTsgfSk7CiAgfSk7CgogIHN0cmVhbS5mb2xsb3coc2Vzc2lvbklkKTsKICBjb25zdCBhY2NlcHRlZCA9IHVud3JhcChhd2FpdCBhcGkuc2Vzc2lvbnMucHJvbXB0KHsgc2Vzc2lvbklkLCBtb2RlOiAncXVldWUnLCBjb250ZW50OiBbeyB0eXBlOiAndGV4dCcsIHRleHQ6ICfor7flj6rovpPlh7rkvaDlvZPliY3lj6/nlKjnmoTlt6XlhbflkI3liJfooajvvIhKU09OIOaVsOe7hO+8ie+8jOS4jeimgeiwg+eUqOS7u+S9leW3peWFt++8jOS4jeimgeWPkemAgea2iOaBr+OAguWPqui+k+WHuiBKU09O44CCJyB9XSB9KSwgJ3Nlc3Npb24ucHJvbXB0Jyk7CiAgY29uc29sZS5sb2coJ1BST01QVF9BQ0NFUFRFRCcsIEpTT04uc3RyaW5naWZ5KGFjY2VwdGVkKS5zbGljZSgwLCAxMjApKTsKICBjb25zdCBlbmRlZCA9IGF3YWl0IGRvbmU7CiAgY29uc3QgdGV4dCA9IGVuZGVkLnRleHQgfHwgJyc7CiAgY29uc29sZS5sb2coJ1RPT0xTX1RFWFRfU1RBUlQnKTsKICBjb25zb2xlLmxvZyh0ZXh0LnNsaWNlKDAsIDMwMDApKTsKICBjb25zb2xlLmxvZygnVE9PTFNfVEVYVF9FTkQnKTsKICBjb25zdCBoYXNXYWl0ID0gdGV4dC5pbmNsdWRlcygncXFfd2FpdF9mb3JfbWVzc2FnZXMnKTsKICBjb25zb2xlLmxvZygnSEFTX3FxX3dhaXRfZm9yX21lc3NhZ2VzPScgKyBoYXNXYWl0KTsKICBjb25zb2xlLmxvZygnUkVTVUxUPScgKyAoaGFzV2FpdCA/ICdXQUlUX1RPT0xfVklTSUJMRScgOiAnQ0hFQ0tfRkFJTEVEJykpOwp9CgptYWluKCkuY2F0Y2goKGUpID0+IHsgY29uc29sZS5lcnJvcihlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsK
+// 二代等待逻辑的「实时」端到端测试：真建一个 qq-chat-v2 会话并向 DSH 提问，
+// 断言 qq_wait_for_messages 出现在该 preset 的可用工具面里。需要 DSH 正在运行。
+// （纯逻辑单测见 scripts/test-v2-wait.mjs，两者不重复。）
+import { fileURLToPath } from 'node:url';
+import os from 'node:os';
+import path from 'node:path';
+import fs from 'node:fs';
+import { NodeApiClient, unwrap, createTurnCollector, discoverDshLaunchToken } from '../src/dsh-client.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+async function main() {
+  let auth;
+  try {
+    const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+    auth = {
+      token: cfg.dsh?.authToken || discoverDshLaunchToken(),
+      header: cfg.dsh?.authHeader,
+      prefix: cfg.dsh?.authPrefix
+    };
+  } catch {}
+  const api = new NodeApiClient('http://127.0.0.1:3080', undefined, auth);
+  // 探测会话的 cwd 用系统临时目录：state/ 的 ACL 被 harden-state-acl.mjs 收紧过，
+  // 沙箱里写不进去（见 scripts/probe-auth.mjs 的同款说明）。
+  const cwd = path.join(os.tmpdir(), 'qq-bridge-self-test-v2-wait');
+  fs.mkdirSync(cwd, { recursive: true });
+  const created = unwrap(await api.sessions.create({ cwd, agentPreset: 'qq-chat-v2' }), 'session.create');
+  const sessionId = created.sessionId;
+  console.log('SESSION_CREATED', sessionId);
+
+  const stream = api.events.mux({});
+  const collector = createTurnCollector();
+  const done = new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error('等待回复超时（120s）')), 120_000);
+    (async () => {
+      for await (const envelope of stream) {
+        const frame = envelope.payload;
+        if (frame.type === 'session/event' && frame.sessionId === sessionId) {
+          const ended = collector.push(frame.event);
+          if (ended) {
+            clearTimeout(timer);
+            resolve(ended);
+            return;
+          }
+        }
+        if (frame.type === 'stream/error') {
+          clearTimeout(timer);
+          reject(new Error('事件流错误: ' + JSON.stringify(frame.error)));
+          return;
+        }
+      }
+    })().catch((error) => { clearTimeout(timer); reject(error); });
+  });
+
+  stream.follow(sessionId);
+  const accepted = unwrap(await api.sessions.prompt({ sessionId, mode: 'queue', content: [{ type: 'text', text: '请只输出你当前可用的工具名列表（JSON 数组），不要调用任何工具，不要发送消息。只输出 JSON。' }] }), 'session.prompt');
+  console.log('PROMPT_ACCEPTED', JSON.stringify(accepted).slice(0, 120));
+  const ended = await done;
+  const text = ended.text || '';
+  console.log('TOOLS_TEXT_START');
+  console.log(text.slice(0, 3000));
+  console.log('TOOLS_TEXT_END');
+  const hasWait = text.includes('qq_wait_for_messages');
+  console.log('HAS_qq_wait_for_messages=' + hasWait);
+  console.log('RESULT=' + (hasWait ? 'WAIT_TOOL_VISIBLE' : 'CHECK_FAILED'));
+}
+
+main().catch((e) => { console.error(e); process.exit(1); });

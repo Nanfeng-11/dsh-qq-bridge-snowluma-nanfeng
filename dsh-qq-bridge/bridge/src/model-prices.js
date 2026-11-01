@@ -1,1 +1,290 @@
-Ly8gRGVlcFNlZWsg5a6Y5pa55Lu355uu6KGo5LiO5bOw6LC35YiG5pe25Yik5a6a77yI5qGl5o6l5L6n6Ieq6KGM57u05oqk77yJ44CCCi8vCi8vIOS4uuS7gOS5iOaUvuWcqOahpeaOpemHjO+8mkRTSCDoh6rouqvkuI3lgZrku7vkvZXotKfluIHmjaLnrpfvvIhgZHNoLWxsbS1waS1haWAg5piO5YaZICJubyBjb25zdW1lciByZXBvcnRzCi8vIHNwZW5kIu+8ie+8jHByb3ZpZGVyIOWPquWbniB0b2tlbiDmlbDjgILmiYDku6XjgIzoirHlpJrlsJHpkrHjgI3lv4XpobvnlLHmtojotLnmlrnnlKjku7fnm67ooajnrpfjgIIKLy8KLy8g5Y+j5b6E77yI5LiO5a6Y5pa55paH5qGj5LiA6Ie077yM5Y2V5L2N77ya5YWDIC8g55m+5LiHIHRva2Vu77yJ77yaCi8vICAg5omj5YeP6LS555SoID0gzqMo5ZCE5qG2IHRva2VuIOaVsCDDlyDlr7nlupTljZXku7cpCi8vICAg5qG25YWx5LiJ5Liq77ya6L6T5YWl57yT5a2Y5ZG95LitIC8g6L6T5YWl57yT5a2Y5pyq5ZG95LitIC8g6L6T5Ye644CCCi8vICAg56m66Zey5pe25q615Y2V5Lu3ID0g6auY5bOw5pe25q6155qE5LiA5Y2K44CCCi8vICAg6auY5bOw5pe25q61ID0g5YyX5Lqs5pe26Ze05ZGo5LiA6Iez5ZGo5LqUIDk6MDAtMTI6MDDjgIExNDowMC0xODowMO+8jOS4lOS4jeWQq+S4reWbveazleWumuiKguWBh+aXpe+8mwovLyAgIOWFtuS9meaXtuaute+8iOWQq+WRqOacq+S4juazleWumuiKguWBh+aXpeWFqOWkqe+8ieWdh+S4uuepuumXsuaXtuauteOAggovLwovLyDms6jmhI8gYGRzaGAg5oql55qEIHRva2VuIOahtuaYryoq5LqS5LiN6YeN5Y+gKirnmoTvvJoKLy8gICDorqHotLnovpPlhaUgPSBpbnB1dFRva2VucyjmnKrlkb3kuK0pICsgY2FjaGVSZWFkVG9rZW5zICsgY2FjaGVXcml0ZVRva2VucwovLyDmiYDku6XkuInkuKrmobbopoHliIbliKvorqHku7flho3nm7jliqDvvIzkuI3og73mioogY2FjaGVSZWFkIOW9k+aIkCBpbnB1dFRva2VucyDnmoTkuIDpg6jliIbjgIIKLy8KLy8g5Lu355uu5p2l5rqQ77yaaHR0cHM6Ly9hcGktZG9jcy5kZWVwc2Vlay5jb20vemgtY24vcXVpY2tfc3RhcnQvcHJpY2luZy8KLy8g6IqC5YGH5pel5p2l5rqQ77ya5Zu95Yqe5Y+R5piO55S144CUMjAyNeOAlTcg5Y+377yIMjAyNiDlubTpg6jliIboioLlgYfml6XlronmjpLvvInjgIIKCi8qKiDku7fnm67ooajniYjmnKzmoIforrDvvIzku4XnlKjkuo7mjqfliLblj7DlsZXnpLrkuI7mjpLpmpzvvIjmlLnkuobku7fnm67ooajlsLHmlLnov5nph4zvvInjgIIgKi8KZXhwb3J0IGNvbnN0IFBSSUNFX1RBQkxFX1ZFUlNJT04gPSAnMjAyNi0xMS0wNCc7CgovKioKICogMjAyNiDlubTkuK3lm73ms5XlrproioLlgYfml6XvvIjmlL7lgYfml6XvvIzlkKvosIPkvJHov57kvJHmrrXvvInjgIIKICog6auY5bOw5pe25q615Yik5a6a6KaB5o6S6Zmk6L+Z5Lqb5pel5pyf77yb5ZGo5pyr77yI5ZGo5YWtL+WRqOaXpe+8ieacrOi6q+W3suWboOOAjOmdnuWRqOS4gOiHs+WRqOS6lOOAjeiiq+WIpOS4uuepuumXsuOAggogKiDosIPkvJHkuIrnj63nmoTlkajlha0v5ZGo5pel5LuN5oyJ44CM6Z2e5ZGo5LiA6Iez5ZGo5LqU44CN566X56m66ZeyIOKAlOKAlCDlrpjmlrnlj6PlvoTlj6rorqTlkajkuIDoh7PlkajkupTjgIIKICovCmV4cG9ydCBjb25zdCBDTl9IT0xJREFZU18yMDI2ID0gWwogIC8vIOWFg+aXpu+8mjEvMSjlkajlm5spLTEvMyjlkajlha0pCiAgJzIwMjYtMDEtMDEnLCAnMjAyNi0wMS0wMicsICcyMDI2LTAxLTAzJywKICAvLyDmmKXoioLvvJoyLzE1KOWRqOaXpSktMi8yMyjlkajkuIApCiAgJzIwMjYtMDItMTUnLCAnMjAyNi0wMi0xNicsICcyMDI2LTAyLTE3JywgJzIwMjYtMDItMTgnLCAnMjAyNi0wMi0xOScsCiAgJzIwMjYtMDItMjAnLCAnMjAyNi0wMi0yMScsICcyMDI2LTAyLTIyJywgJzIwMjYtMDItMjMnLAogIC8vIOa4heaYjuiKgu+8mjQvNCjlkajlha0pLTQvNijlkajkuIApCiAgJzIwMjYtMDQtMDQnLCAnMjAyNi0wNC0wNScsICcyMDI2LTA0LTA2JywKICAvLyDlirPliqjoioLvvJo1LzEo5ZGo5LqUKS01LzUo5ZGo5LqMKQogICcyMDI2LTA1LTAxJywgJzIwMjYtMDUtMDInLCAnMjAyNi0wNS0wMycsICcyMDI2LTA1LTA0JywgJzIwMjYtMDUtMDUnLAogIC8vIOerr+WNiOiKgu+8mjYvMTko5ZGo5LqUKS02LzIxKOWRqOaXpSkKICAnMjAyNi0wNi0xOScsICcyMDI2LTA2LTIwJywgJzIwMjYtMDYtMjEnLAogIC8vIOS4reeni+iKgu+8mjkvMjUo5ZGo5LqUKS05LzI3KOWRqOaXpSkKICAnMjAyNi0wOS0yNScsICcyMDI2LTA5LTI2JywgJzIwMjYtMDktMjcnLAogIC8vIOWbveW6huiKgu+8mjEwLzEo5ZGo5ZubKS0xMC83KOWRqOS4iSkKICAnMjAyNi0xMC0wMScsICcyMDI2LTEwLTAyJywgJzIwMjYtMTAtMDMnLCAnMjAyNi0xMC0wNCcsCiAgJzIwMjYtMTAtMDUnLCAnMjAyNi0xMC0wNicsICcyMDI2LTEwLTA3JwpdOwoKLyoqCiAqIDIwMjcg5bm05rOV5a6a6IqC5YGH5pel77yI5Zu95Yqh6Zmi5Yqe5YWs5Y6F6YCa55+l77yM5pS+5YGH6LCD5LyR5q6177yJ44CCCiAqCiAqIOS4uuS7gOS5iOimgemihOe9ruWIsCAyMDI377ya5Lu355uu6KGo5Y+q6K6k6L+Z5Lqb5pel5pyf77yM57y65aSx5pe255qE6KGo546w5pivKirpnZnpu5jpq5jkvLAqKuKAlOKAlAogKiDoioLlgYfml6Xph4znmoTosIPnlKjkvJrooqvlvZPpq5jls7DorqHku7fvvIgyIOWAje+8ie+8jOmHkemineeci+edgOWBj+mrmOS9huS4jeaKpemUmeOAggogKiDmmKXoioIv5Zu95bqG6L+Z57G76ZW/5YGH5qiq6Leo5aSa5aSp77yM5b6I5a655piT5oqK5LiA5bm055qE6LSm5Y2V5pW05L2T5oqs6auY5Yeg5Liq55m+5YiG54K544CCCiAqIOWumOaWuemAmuW4uOWcqOS4iuS4gOW5tCAxMSDmnIjlhazluIPmrKHlubTlronmjpLvvJvlhazluIPlkI7mjInlrp7pmYXml6XmnJ/mm7/mjaLmnKzooajljbPlj6/jgIIKICovCmV4cG9ydCBjb25zdCBDTl9IT0xJREFZU18yMDI3ID0gWwogIC8vIOWFg+aXpu+8mjEvMSjlkajkupQpLTEvMyjlkajml6UpCiAgJzIwMjctMDEtMDEnLCAnMjAyNy0wMS0wMicsICcyMDI3LTAxLTAzJywKICAvLyDmmKXoioLvvJoyLzUo5ZGo5LqU77yM6Zmk5aSV5YmN5LiA5aSpKS0yLzEzKOWRqOWFrSnvvIjmjInlhpzljobmraPmnIjliJ3kuIAgMi82IOWJjeWQjui/nue7reaUvuWBh+aXpeaOqOWumu+8iQogICcyMDI3LTAyLTA1JywgJzIwMjctMDItMDYnLCAnMjAyNy0wMi0wNycsICcyMDI3LTAyLTA4JywgJzIwMjctMDItMDknLAogICcyMDI3LTAyLTEwJywgJzIwMjctMDItMTEnLCAnMjAyNy0wMi0xMicsICcyMDI3LTAyLTEzJywKICAvLyDmuIXmmI7oioLvvJo0LzQo5ZGo5pelKS00LzYo5ZGo5LqMKQogICcyMDI3LTA0LTA0JywgJzIwMjctMDQtMDUnLCAnMjAyNy0wNC0wNicsCiAgLy8g5Yqz5Yqo6IqC77yaNS8xKOWRqOWFrSktNS81KOWRqOS4iSkKICAnMjAyNy0wNS0wMScsICcyMDI3LTA1LTAyJywgJzIwMjctMDUtMDMnLCAnMjAyNy0wNS0wNCcsICcyMDI3LTA1LTA1JywKICAvLyDnq6/ljYjoioLvvJo2Lzko5ZGo5LiJKS02LzExKOWRqOS6lCnvvIjmjInlhpzljobkupTmnIjliJ3kupTvvIkKICAnMjAyNy0wNi0wOScsICcyMDI3LTA2LTEwJywgJzIwMjctMDYtMTEnLAogIC8vIOS4reeni+iKgu+8mjkvMTUo5ZGo5LiJKS05LzE3KOWRqOS6lCnvvIjmjInlhpzljoblhavmnIjljYHkupTvvIkKICAnMjAyNy0wOS0xNScsICcyMDI3LTA5LTE2JywgJzIwMjctMDktMTcnLAogIC8vIOWbveW6huiKgu+8mjEwLzEo5ZGo5LqUKS0xMC83KOWRqOWbmykKICAnMjAyNy0xMC0wMScsICcyMDI3LTEwLTAyJywgJzIwMjctMTAtMDMnLCAnMjAyNy0xMC0wNCcsCiAgJzIwMjctMTAtMDUnLCAnMjAyNy0xMC0wNicsICcyMDI3LTEwLTA3JwpdOwoKLyoqIOWGhee9rueahOWFqOmDqOazleWumuiKguWBh+aXpe+8iOi3qOW5tOS7ve+8ieOAgiAqLwpleHBvcnQgY29uc3QgQ05fSE9MSURBWVMgPSBbLi4uQ05fSE9MSURBWVNfMjAyNiwgLi4uQ05fSE9MSURBWVNfMjAyN107CgovKiog5YyX5Lqs5pe26Ze055u45a+5IFVUQyDnmoTliIbpkp/lgY/np7vjgIIgKi8KY29uc3QgQkVJSklOR19PRkZTRVRfTUlOVVRFUyA9IDggKiA2MDsKCi8qKgogKiDpu5jorqTku7fnm67ooajvvIjlhYMgLyDnmb7kuIcgdG9rZW7vvInjgIIKICogYG9mZmAg5Li656m66Zey5pe25q615Y2V5Lu377yb6auY5bOw5pe25q615Y2V5Lu3ID0g56m66Zey5Y2V5Lu3IMOXIGBwZWFrTXVsdGlwbGllcmDjgIIKICogYGNhY2hlV3JpdGVgIOe8uuecgeaXtuaMieacquWRveS4reS7t+iuoei0ue+8iERlZXBTZWVrIOebruWJjeS4jeWNleeLrOaKpSBjYWNoZVdyaXRl77yM5oGS5Li6IDDvvInjgIIKICovCmV4cG9ydCBjb25zdCBERUZBVUxUX1BSSUNFX1RBQkxFID0gewogIHZlcnNpb246IFBSSUNFX1RBQkxFX1ZFUlNJT04sCiAgY3VycmVuY3k6ICdDTlknLAogIHN5bWJvbDogJ8KlJywKICB1bml0OiAxZTYsCiAgcGVha011bHRpcGxpZXI6IDIsCiAgLy8g6auY5bOw5pe25q6156qX5Y+j77yM5oyJ5YyX5Lqs5pe26Ze055qE5bCP5pe25pWw5Y2K5byA5Yy66Ze0IFtzdGFydCwgZW5kKQogIHBlYWtXaW5kb3dzOiBbWzksIDEyXSwgWzE0LCAxOF1dLAogIC8vIOmrmOWzsOaXtuauteWPquWcqOWRqOS4gOiHs+WRqOS6lO+8mzE95ZGo5LiAIOKApiA3PeWRqOaXpQogIHBlYWtXZWVrZGF5czogWzEsIDIsIDMsIDQsIDVdLAogIGhvbGlkYXlzOiBDTl9IT0xJREFZUywKICBtb2RlbHM6IHsKICAgICdkZWVwc2Vlay1mbGFzaCc6IHsKICAgICAgbGFiZWw6ICdEZWVwU2Vlay1WNC4xLUZsYXNoJywKICAgICAgb2ZmOiB7IGNhY2hlSGl0OiAwLjAyLCBjYWNoZU1pc3M6IDEsIGNhY2hlV3JpdGU6IDEsIG91dHB1dDogNCB9CiAgICB9LAogICAgJ2RlZXBzZWVrLXY0LWZsYXNoJzogewogICAgICBsYWJlbDogJ0RlZXBTZWVrLVY0LjEtRmxhc2jvvIjml6fmqKHlnovlkI3vvIknLAogICAgICBvZmY6IHsgY2FjaGVIaXQ6IDAuMDIsIGNhY2hlTWlzczogMSwgY2FjaGVXcml0ZTogMSwgb3V0cHV0OiA0IH0KICAgIH0sCiAgICAnZGVlcHNlZWstdjQtZmxhc2gtdmlzaW9uLWV4cCc6IHsKICAgICAgbGFiZWw6ICdEZWVwU2Vlay1WNC4xLUZsYXNo77yI6KeG6KeJ5a6e6aqM5ZCN77yJJywKICAgICAgb2ZmOiB7IGNhY2hlSGl0OiAwLjAyLCBjYWNoZU1pc3M6IDEsIGNhY2hlV3JpdGU6IDEsIG91dHB1dDogNCB9CiAgICB9LAogICAgJ2RlZXBzZWVrLXY0LXBybyc6IHsKICAgICAgbGFiZWw6ICdEZWVwU2Vlay1WNC1Qcm8tMDgxMycsCiAgICAgIG9mZjogeyBjYWNoZUhpdDogMC4xNSwgY2FjaGVNaXNzOiA0LjUsIGNhY2hlV3JpdGU6IDQuNSwgb3V0cHV0OiAxMy41IH0KICAgIH0sCiAgICAnZGVlcHNlZWstcHJvJzogewogICAgICBsYWJlbDogJ0RlZXBTZWVrLVY0LVByby0wODEz77yI5pen5qih5Z6L5ZCN77yJJywKICAgICAgb2ZmOiB7IGNhY2hlSGl0OiAwLjE1LCBjYWNoZU1pc3M6IDQuNSwgY2FjaGVXcml0ZTogNC41LCBvdXRwdXQ6IDEzLjUgfQogICAgfQogIH0sCiAgLy8g5pyq55+l5qih5Z6L55qE5YWc5bqV5Lu377ya5oyJIGZsYXNoIOiuoe+8jOW5tuWcqOi/lOWbnuWAvOmHjOaghyBlc3RpbWF0ZWQ9dHJ1Ze+8jOaOp+WItuWPsOS8muaPkOekuuOAggogIGZhbGxiYWNrTW9kZWw6ICdkZWVwc2Vlay1mbGFzaCcKfTsKCi8qKiDlkIjlubbnlKjmiLfphY3nva7nmoTku7fnm67ooajopobnm5bpobnvvIhjb25maWcuanNvbiDnmoQgYHByaWNpbmdgIOWtl+aute+8ie+8jOWksei0peaXtuWbnuiQveWIsOm7mOiupOihqOOAgiAqLwpleHBvcnQgZnVuY3Rpb24gcmVzb2x2ZVByaWNlVGFibGUob3ZlcnJpZGUpIHsKICBpZiAoIW92ZXJyaWRlIHx8IHR5cGVvZiBvdmVycmlkZSAhPT0gJ29iamVjdCcgfHwgQXJyYXkuaXNBcnJheShvdmVycmlkZSkpIHsKICAgIHJldHVybiB7IC4uLkRFRkFVTFRfUFJJQ0VfVEFCTEUsIG1vZGVsczogeyAuLi5ERUZBVUxUX1BSSUNFX1RBQkxFLm1vZGVscyB9IH07CiAgfQogIGNvbnN0IG1lcmdlZCA9IHsKICAgIC4uLkRFRkFVTFRfUFJJQ0VfVEFCTEUsCiAgICAuLi5vdmVycmlkZSwKICAgIG1vZGVsczogeyAuLi5ERUZBVUxUX1BSSUNFX1RBQkxFLm1vZGVscyB9LAogICAgcGVha1dpbmRvd3M6IEFycmF5LmlzQXJyYXkob3ZlcnJpZGUucGVha1dpbmRvd3MpID8gb3ZlcnJpZGUucGVha1dpbmRvd3MgOiBERUZBVUxUX1BSSUNFX1RBQkxFLnBlYWtXaW5kb3dzLAogICAgcGVha1dlZWtkYXlzOiBBcnJheS5pc0FycmF5KG92ZXJyaWRlLnBlYWtXZWVrZGF5cykgPyBvdmVycmlkZS5wZWFrV2Vla2RheXMgOiBERUZBVUxUX1BSSUNFX1RBQkxFLnBlYWtXZWVrZGF5cywKICAgIGhvbGlkYXlzOiBBcnJheS5pc0FycmF5KG92ZXJyaWRlLmhvbGlkYXlzKSA/IG92ZXJyaWRlLmhvbGlkYXlzIDogREVGQVVMVF9QUklDRV9UQUJMRS5ob2xpZGF5cwogIH07CiAgaWYgKG92ZXJyaWRlLm1vZGVscyAmJiB0eXBlb2Ygb3ZlcnJpZGUubW9kZWxzID09PSAnb2JqZWN0JyAmJiAhQXJyYXkuaXNBcnJheShvdmVycmlkZS5tb2RlbHMpKSB7CiAgICBmb3IgKGNvbnN0IFtuYW1lLCBlbnRyeV0gb2YgT2JqZWN0LmVudHJpZXMob3ZlcnJpZGUubW9kZWxzKSkgewogICAgICBjb25zdCBiYXNlID0gREVGQVVMVF9QUklDRV9UQUJMRS5tb2RlbHNbbmFtZV07CiAgICAgIGlmICghZW50cnkgfHwgdHlwZW9mIGVudHJ5ICE9PSAnb2JqZWN0JykgY29udGludWU7CiAgICAgIGNvbnN0IGdpdmVuID0gZW50cnkub2ZmID8/IHt9OwogICAgICBjb25zdCBvZmYgPSB7IC4uLihiYXNlPy5vZmYgPz8gREVGQVVMVF9QUklDRV9UQUJMRS5tb2RlbHNbREVGQVVMVF9QUklDRV9UQUJMRS5mYWxsYmFja01vZGVsXS5vZmYpLCAuLi5naXZlbiB9OwogICAgICAvLyDlj6rmnInnlKjmiLcv5YaF572u5p2h55uuKiroh6rlt7EqKuayoeWGmSBjYWNoZVdyaXRlIOaXtuaJjei3n+majyBjYWNoZU1pc3PvvJsKICAgICAgLy8g5ZCm5YiZ5Lya5LuO5YWc5bqV5qih5Z6L57un5om/5LiA5Liq5LiN55u45bmy55qEIGNhY2hlV3JpdGUg5Lu377yI6Z2Z6buY566X6ZSZ6ZKx77yJ44CCCiAgICAgIGlmICghTnVtYmVyLmlzRmluaXRlKE51bWJlcihnaXZlbi5jYWNoZVdyaXRlKSkpIG9mZi5jYWNoZVdyaXRlID0gb2ZmLmNhY2hlTWlzczsKICAgICAgbWVyZ2VkLm1vZGVsc1tuYW1lXSA9IHsgbGFiZWw6IGVudHJ5LmxhYmVsID8/IGJhc2U/LmxhYmVsID8/IG5hbWUsIG9mZiB9OwogICAgfQogIH0KICBpZiAodHlwZW9mIG1lcmdlZC5mYWxsYmFja01vZGVsICE9PSAnc3RyaW5nJyB8fCAhbWVyZ2VkLm1vZGVsc1ttZXJnZWQuZmFsbGJhY2tNb2RlbF0pIHsKICAgIG1lcmdlZC5mYWxsYmFja01vZGVsID0gREVGQVVMVF9QUklDRV9UQUJMRS5mYWxsYmFja01vZGVsOwogIH0KICBpZiAoIU51bWJlci5pc0Zpbml0ZShtZXJnZWQucGVha011bHRpcGxpZXIpIHx8IG1lcmdlZC5wZWFrTXVsdGlwbGllciA8PSAwKSBtZXJnZWQucGVha011bHRpcGxpZXIgPSAyOwogIGlmICghTnVtYmVyLmlzRmluaXRlKG1lcmdlZC51bml0KSB8fCBtZXJnZWQudW5pdCA8PSAwKSBtZXJnZWQudW5pdCA9IDFlNjsKICBpZiAodHlwZW9mIG1lcmdlZC52ZXJzaW9uICE9PSAnc3RyaW5nJyB8fCAhbWVyZ2VkLnZlcnNpb24pIG1lcmdlZC52ZXJzaW9uID0gUFJJQ0VfVEFCTEVfVkVSU0lPTjsKICByZXR1cm4gbWVyZ2VkOwp9CgovKiog5oqK5Lu75oSP5pe26Ze05oiz5o2i566X5oiQ5YyX5Lqs5pe26Ze055qE5pel5Y6G5YiG6YeP77yI5LiN5L6d6LWW6L+Q6KGM5py65Zmo55qE5pys5Zyw5pe25Yy677yJ44CCICovCmV4cG9ydCBmdW5jdGlvbiBiZWlqaW5nUGFydHMoYXRNcykgewogIGNvbnN0IGQgPSBuZXcgRGF0ZShOdW1iZXIoYXRNcykgKyBCRUlKSU5HX09GRlNFVF9NSU5VVEVTICogNjAwMDApOwogIGNvbnN0IHdlZWtkYXkgPSBkLmdldFVUQ0RheSgpID09PSAwID8gNyA6IGQuZ2V0VVRDRGF5KCk7IC8vIDE95ZGo5LiAIOKApiA3PeWRqOaXpQogIGNvbnN0IG1vbnRoID0gU3RyaW5nKGQuZ2V0VVRDTW9udGgoKSArIDEpLnBhZFN0YXJ0KDIsICcwJyk7CiAgY29uc3QgZGF5ID0gU3RyaW5nKGQuZ2V0VVRDRGF0ZSgpKS5wYWRTdGFydCgyLCAnMCcpOwogIHJldHVybiB7CiAgICB3ZWVrZGF5LAogICAgaG91cjogZC5nZXRVVENIb3VycygpLAogICAgZGF0ZTogYCR7ZC5nZXRVVENGdWxsWWVhcigpfS0ke21vbnRofS0ke2RheX1gLAogICAgY2xvY2s6IGAke1N0cmluZyhkLmdldFVUQ0hvdXJzKCkpLnBhZFN0YXJ0KDIsICcwJyl9OiR7U3RyaW5nKGQuZ2V0VVRDTWludXRlcygpKS5wYWRTdGFydCgyLCAnMCcpfWAKICB9Owp9CgovKiog5Yik5pat5p+Q5LiA5pe25Yi75piv5ZCm6JC95Zyo6auY5bOw5pe25q6144CCICovCmV4cG9ydCBmdW5jdGlvbiBpc1BlYWtBdChhdE1zLCB0YWJsZSA9IERFRkFVTFRfUFJJQ0VfVEFCTEUpIHsKICBjb25zdCBtcyA9IE51bWJlcihhdE1zKTsKICBpZiAoIU51bWJlci5pc0Zpbml0ZShtcykpIHJldHVybiBmYWxzZTsKICBjb25zdCB7IHdlZWtkYXksIGhvdXIsIGRhdGUgfSA9IGJlaWppbmdQYXJ0cyhtcyk7CiAgaWYgKCF0YWJsZS5wZWFrV2Vla2RheXMuaW5jbHVkZXMod2Vla2RheSkpIHJldHVybiBmYWxzZTsKICBjb25zdCBob2xpZGF5cyA9IHRhYmxlLmhvbGlkYXlzIGluc3RhbmNlb2YgU2V0ID8gdGFibGUuaG9saWRheXMgOiBuZXcgU2V0KHRhYmxlLmhvbGlkYXlzID8/IFtdKTsKICBpZiAoaG9saWRheXMuaGFzKGRhdGUpKSByZXR1cm4gZmFsc2U7CiAgcmV0dXJuICh0YWJsZS5wZWFrV2luZG93cyA/PyBbXSkuc29tZSgoW3N0YXJ0LCBlbmRdKSA9PiBOdW1iZXIuaXNGaW5pdGUoc3RhcnQpICYmIE51bWJlci5pc0Zpbml0ZShlbmQpICYmIGhvdXIgPj0gc3RhcnQgJiYgaG91ciA8IGVuZCk7Cn0KCi8qKiDlj5bmn5DmqKHlnovlnKjmn5DkuIDml7bliLvnlJ/mlYjnmoTljZXku7fvvIjlkKvls7DosLfliKTlrprvvInjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIHJhdGVzQXQobW9kZWwsIGF0TXMsIHRhYmxlID0gREVGQVVMVF9QUklDRV9UQUJMRSkgewogIGNvbnN0IGtleSA9IFN0cmluZyhtb2RlbCA/PyAnJykudHJpbSgpOwogIGNvbnN0IGVudHJ5ID0gdGFibGUubW9kZWxzW2tleV07CiAgY29uc3QgY2hvc2VuID0gZW50cnkgPz8gdGFibGUubW9kZWxzW3RhYmxlLmZhbGxiYWNrTW9kZWxdOwogIGNvbnN0IG9mZiA9IGNob3Nlbi5vZmY7CiAgY29uc3QgcGVhayA9IGlzUGVha0F0KGF0TXMsIHRhYmxlKTsKICBjb25zdCBmYWN0b3IgPSBwZWFrID8gdGFibGUucGVha011bHRpcGxpZXIgOiAxOwogIHJldHVybiB7CiAgICBtb2RlbDoga2V5IHx8IHRhYmxlLmZhbGxiYWNrTW9kZWwsCiAgICBsYWJlbDogY2hvc2VuLmxhYmVsLAogICAgdGllcjogcGVhayA/ICdwZWFrJyA6ICdvZmYnLAogICAgdGllckxhYmVsOiBwZWFrID8gJ+mrmOWzsOaXtuautScgOiAn56m66Zey5pe25q61JywKICAgIGN1cnJlbmN5OiB0YWJsZS5jdXJyZW5jeSwKICAgIHN5bWJvbDogdGFibGUuc3ltYm9sLAogICAgdW5pdDogdGFibGUudW5pdCwKICAgIGVzdGltYXRlZDogIWVudHJ5LAogICAgY2FjaGVIaXQ6IG9mZi5jYWNoZUhpdCAqIGZhY3RvciwKICAgIGNhY2hlTWlzczogb2ZmLmNhY2hlTWlzcyAqIGZhY3RvciwKICAgIGNhY2hlV3JpdGU6IChOdW1iZXIuaXNGaW5pdGUob2ZmLmNhY2hlV3JpdGUpID8gb2ZmLmNhY2hlV3JpdGUgOiBvZmYuY2FjaGVNaXNzKSAqIGZhY3RvciwKICAgIG91dHB1dDogb2ZmLm91dHB1dCAqIGZhY3RvcgogIH07Cn0KCi8qKgogKiDmioogdXNhZ2Ug5b2S5LiA5YyW5oiQ5Zub5Liq5LqS5LiN6YeN5Y+g55qE6K6h6LS55qG244CCCiAqCiAqIOWQjOaXtuaOpeWPl+S4pOenjemUruWQje+8jOi/meS4gOeCueaYryoq5b+F6aG7KirnmoTvvJoKICogICAtIERTSCDljp/lp4vlj6PlvoTvvJpgaW5wdXRUb2tlbnNgIC8gYGNhY2hlUmVhZFRva2Vuc2AgLyBgY2FjaGVXcml0ZVRva2Vuc2AgLyBgb3V0cHV0VG9rZW5zYO+8mwogKiAgIC0g6LSm5pys6JC955uY5Y+j5b6E77yaYGNhY2hlTWlzc2AgLyBgY2FjaGVIaXRgIC8gYGNhY2hlV3JpdGVgIC8gYG91dHB1dGDjgIIKICog5Y+q6K6k5LiA56eN5Lya5Zyo44CM5YaZ55uYIOKGkiDph43mlrDovb3lhaXjgI3ml7bmiormobbor7vmiJAgMO+8iOiKsei0ueWHreepuuWwkeS4gOaIqu+8ie+8jOaJgOS7peS4pOenjemDveivu+OAggogKi8KZXhwb3J0IGZ1bmN0aW9uIG5vcm1hbGl6ZVVzYWdlKHVzYWdlKSB7CiAgY29uc3QgcGljayA9ICh2YWx1ZSwgLi4ua2V5cykgPT4gewogICAgZm9yIChjb25zdCBrZXkgb2Yga2V5cykgewogICAgICBjb25zdCB2ID0gTnVtYmVyKHZhbHVlPy5ba2V5XSk7CiAgICAgIGlmIChOdW1iZXIuaXNGaW5pdGUodikgJiYgdiA+IDApIHJldHVybiBNYXRoLnJvdW5kKHYpOwogICAgfQogICAgcmV0dXJuIDA7CiAgfTsKICBpZiAoIXVzYWdlIHx8IHR5cGVvZiB1c2FnZSAhPT0gJ29iamVjdCcpIHsKICAgIHJldHVybiB7IGNhY2hlTWlzczogMCwgY2FjaGVIaXQ6IDAsIGNhY2hlV3JpdGU6IDAsIG91dHB1dDogMCwgcmVhc29uaW5nOiAwIH07CiAgfQogIHJldHVybiB7CiAgICAvLyBEU0gg55qEIGlucHV0VG9rZW5zIOaYr+OAjOacquWRveS4reOAjemDqOWIhu+8jOS4jeaYr+aAu+i+k+WFpeOAggogICAgY2FjaGVNaXNzOiBwaWNrKHVzYWdlLCAnY2FjaGVNaXNzJywgJ3VuY2FjaGVkSW5wdXRUb2tlbnMnLCAnaW5wdXRUb2tlbnMnKSwKICAgIGNhY2hlSGl0OiBwaWNrKHVzYWdlLCAnY2FjaGVIaXQnLCAnY2FjaGVSZWFkVG9rZW5zJyksCiAgICBjYWNoZVdyaXRlOiBwaWNrKHVzYWdlLCAnY2FjaGVXcml0ZScsICdjYWNoZVdyaXRlVG9rZW5zJyksCiAgICBvdXRwdXQ6IHBpY2sodXNhZ2UsICdvdXRwdXQnLCAnb3V0cHV0VG9rZW5zJyksCiAgICByZWFzb25pbmc6IHBpY2sodXNhZ2UsICdyZWFzb25pbmcnLCAncmVhc29uaW5nVG9rZW5zJykKICB9Owp9CgovKiog5Zub5Liq5qG25rGC5ZKM77yIdG9rZW4g5oC76YeP77yJ44CCICovCmV4cG9ydCBmdW5jdGlvbiB0b3RhbFRva2Vuc09mKGJ1Y2tldHMpIHsKICByZXR1cm4gKGJ1Y2tldHM/LmNhY2hlTWlzcyA/PyAwKSArIChidWNrZXRzPy5jYWNoZUhpdCA/PyAwKSArIChidWNrZXRzPy5jYWNoZVdyaXRlID8/IDApICsgKGJ1Y2tldHM/Lm91dHB1dCA/PyAwKTsKfQoKLyoqCiAqIOaMieWNleS7t+aKiiB0b2tlbiDmobbmipjnrpfmiJDph5Hpop3jgIIKICogQHBhcmFtIGJ1Y2tldHMg5b2S5LiA5YyW5ZCO55qE5Zub5Liq5qG2CiAqIEBwYXJhbSByYXRlcyAgIGByYXRlc0F0KClgIOeahOi/lOWbnuWAvAogKiBAcmV0dXJucyDliIbpobnph5Hpop3kuI7lkIjorqHvvIjljZXkvY3lkIwgcmF0ZXMuY3VycmVuY3nvvIkKICovCmV4cG9ydCBmdW5jdGlvbiBjb3N0T2ZCdWNrZXRzKGJ1Y2tldHMsIHJhdGVzKSB7CiAgY29uc3QgYiA9IGJ1Y2tldHMgPz8ge307CiAgY29uc3QgY2FjaGVIaXQgPSAoKGIuY2FjaGVIaXQgPz8gMCkgLyByYXRlcy51bml0KSAqIHJhdGVzLmNhY2hlSGl0OwogIGNvbnN0IGNhY2hlTWlzcyA9ICgoYi5jYWNoZU1pc3MgPz8gMCkgLyByYXRlcy51bml0KSAqIHJhdGVzLmNhY2hlTWlzczsKICBjb25zdCBjYWNoZVdyaXRlID0gKChiLmNhY2hlV3JpdGUgPz8gMCkgLyByYXRlcy51bml0KSAqIHJhdGVzLmNhY2hlV3JpdGU7CiAgY29uc3Qgb3V0cHV0ID0gKChiLm91dHB1dCA/PyAwKSAvIHJhdGVzLnVuaXQpICogcmF0ZXMub3V0cHV0OwogIHJldHVybiB7CiAgICBjYWNoZUhpdCwKICAgIGNhY2hlTWlzcywKICAgIGNhY2hlV3JpdGUsCiAgICBvdXRwdXQsCiAgICB0b3RhbDogY2FjaGVIaXQgKyBjYWNoZU1pc3MgKyBjYWNoZVdyaXRlICsgb3V0cHV0CiAgfTsKfQoKLyoqIOS4gOatpeWIsOS9je+8mue7meahtiArIOaXtumXtCArIOaooeWei++8jOebtOaOpeeul+mSseOAgiAqLwpleHBvcnQgZnVuY3Rpb24gcHJpY2VVc2FnZShidWNrZXRzLCB7IG1vZGVsLCBhdCwgdGFibGUgPSBERUZBVUxUX1BSSUNFX1RBQkxFIH0gPSB7fSkgewogIGNvbnN0IHJhdGVzID0gcmF0ZXNBdChtb2RlbCwgYXQsIHRhYmxlKTsKICByZXR1cm4geyByYXRlcywgY29zdDogY29zdE9mQnVja2V0cyhidWNrZXRzLCByYXRlcykgfTsKfQoKLyoqIOepuuahtuW4uOmHj++8iOmBv+WFjeWQhOWkhOmHjeWkjeWtl+mdoumHj++8ieOAgiAqLwpleHBvcnQgY29uc3QgWkVST19CVUNLRVRTID0gT2JqZWN0LmZyZWV6ZSh7IGNhY2hlTWlzczogMCwgY2FjaGVIaXQ6IDAsIGNhY2hlV3JpdGU6IDAsIG91dHB1dDogMCwgcmVhc29uaW5nOiAwIH0pOwoKLyoqIOahtuebuOWKoOOAgiAqLwpleHBvcnQgZnVuY3Rpb24gYWRkQnVja2V0cyhhLCBiKSB7CiAgcmV0dXJuIHsKICAgIGNhY2hlTWlzczogKGE/LmNhY2hlTWlzcyA/PyAwKSArIChiPy5jYWNoZU1pc3MgPz8gMCksCiAgICBjYWNoZUhpdDogKGE/LmNhY2hlSGl0ID8/IDApICsgKGI/LmNhY2hlSGl0ID8/IDApLAogICAgY2FjaGVXcml0ZTogKGE/LmNhY2hlV3JpdGUgPz8gMCkgKyAoYj8uY2FjaGVXcml0ZSA/PyAwKSwKICAgIG91dHB1dDogKGE/Lm91dHB1dCA/PyAwKSArIChiPy5vdXRwdXQgPz8gMCksCiAgICByZWFzb25pbmc6IChhPy5yZWFzb25pbmcgPz8gMCkgKyAoYj8ucmVhc29uaW5nID8/IDApCiAgfTsKfQoKLyoqIOahtuebuOWHj++8iOeUqOS6juOAjOWfuue6v+S5i+WQjuOAjeeahOWinumHj++8ie+8jOmAkOahtuS4i+mZkOS4uiAw44CCICovCmV4cG9ydCBmdW5jdGlvbiBzdWJCdWNrZXRzKGEsIGIpIHsKICBjb25zdCBzID0gKHgsIHkpID0+IE1hdGgubWF4KDAsICh4ID8/IDApIC0gKHkgPz8gMCkpOwogIHJldHVybiB7CiAgICBjYWNoZU1pc3M6IHMoYT8uY2FjaGVNaXNzLCBiPy5jYWNoZU1pc3MpLAogICAgY2FjaGVIaXQ6IHMoYT8uY2FjaGVIaXQsIGI/LmNhY2hlSGl0KSwKICAgIGNhY2hlV3JpdGU6IHMoYT8uY2FjaGVXcml0ZSwgYj8uY2FjaGVXcml0ZSksCiAgICBvdXRwdXQ6IHMoYT8ub3V0cHV0LCBiPy5vdXRwdXQpLAogICAgcmVhc29uaW5nOiBzKGE/LnJlYXNvbmluZywgYj8ucmVhc29uaW5nKQogIH07Cn0K
+// DeepSeek 官方价目表与峰谷分时判定（桥接侧自行维护）。
+//
+// 为什么放在桥接里：DSH 自身不做任何货币换算（`dsh-llm-pi-ai` 明写 "no consumer reports
+// spend"），provider 只回 token 数。所以「花多少钱」必须由消费方用价目表算。
+//
+// 口径（与官方文档一致，单位：元 / 百万 token）：
+//   扣减费用 = Σ(各桶 token 数 × 对应单价)
+//   桶共三个：输入缓存命中 / 输入缓存未命中 / 输出。
+//   空闲时段单价 = 高峰时段的一半。
+//   高峰时段 = 北京时间周一至周五 9:00-12:00、14:00-18:00，且不含中国法定节假日；
+//   其余时段（含周末与法定节假日全天）均为空闲时段。
+//
+// 注意 `dsh` 报的 token 桶是**互不重叠**的：
+//   计费输入 = inputTokens(未命中) + cacheReadTokens + cacheWriteTokens
+// 所以三个桶要分别计价再相加，不能把 cacheRead 当成 inputTokens 的一部分。
+//
+// 价目来源：https://api-docs.deepseek.com/zh-cn/quick_start/pricing/
+// 节假日来源：国办发明电〔2025〕7 号（2026 年部分节假日安排）。
+
+/** 价目表版本标记，仅用于控制台展示与排障（改了价目表就改这里）。 */
+export const PRICE_TABLE_VERSION = '2026-11-04';
+
+/**
+ * 2026 年中国法定节假日（放假日，含调休连休段）。
+ * 高峰时段判定要排除这些日期；周末（周六/周日）本身已因「非周一至周五」被判为空闲。
+ * 调休上班的周六/周日仍按「非周一至周五」算空闲 —— 官方口径只认周一至周五。
+ */
+export const CN_HOLIDAYS_2026 = [
+  // 元旦：1/1(周四)-1/3(周六)
+  '2026-01-01', '2026-01-02', '2026-01-03',
+  // 春节：2/15(周日)-2/23(周一)
+  '2026-02-15', '2026-02-16', '2026-02-17', '2026-02-18', '2026-02-19',
+  '2026-02-20', '2026-02-21', '2026-02-22', '2026-02-23',
+  // 清明节：4/4(周六)-4/6(周一)
+  '2026-04-04', '2026-04-05', '2026-04-06',
+  // 劳动节：5/1(周五)-5/5(周二)
+  '2026-05-01', '2026-05-02', '2026-05-03', '2026-05-04', '2026-05-05',
+  // 端午节：6/19(周五)-6/21(周日)
+  '2026-06-19', '2026-06-20', '2026-06-21',
+  // 中秋节：9/25(周五)-9/27(周日)
+  '2026-09-25', '2026-09-26', '2026-09-27',
+  // 国庆节：10/1(周四)-10/7(周三)
+  '2026-10-01', '2026-10-02', '2026-10-03', '2026-10-04',
+  '2026-10-05', '2026-10-06', '2026-10-07'
+];
+
+/**
+ * 2027 年法定节假日（国务院办公厅通知，放假调休段）。
+ *
+ * 为什么要预置到 2027：价目表只认这些日期，缺失时的表现是**静默高估**——
+ * 节假日里的调用会被当高峰计价（2 倍），金额看着偏高但不报错。
+ * 春节/国庆这类长假横跨多天，很容易把一年的账单整体抬高几个百分点。
+ * 官方通常在上一年 11 月公布次年安排；公布后按实际日期替换本表即可。
+ */
+export const CN_HOLIDAYS_2027 = [
+  // 元旦：1/1(周五)-1/3(周日)
+  '2027-01-01', '2027-01-02', '2027-01-03',
+  // 春节：2/5(周五，除夕前一天)-2/13(周六)（按农历正月初一 2/6 前后连续放假日推定）
+  '2027-02-05', '2027-02-06', '2027-02-07', '2027-02-08', '2027-02-09',
+  '2027-02-10', '2027-02-11', '2027-02-12', '2027-02-13',
+  // 清明节：4/4(周日)-4/6(周二)
+  '2027-04-04', '2027-04-05', '2027-04-06',
+  // 劳动节：5/1(周六)-5/5(周三)
+  '2027-05-01', '2027-05-02', '2027-05-03', '2027-05-04', '2027-05-05',
+  // 端午节：6/9(周三)-6/11(周五)（按农历五月初五）
+  '2027-06-09', '2027-06-10', '2027-06-11',
+  // 中秋节：9/15(周三)-9/17(周五)（按农历八月十五）
+  '2027-09-15', '2027-09-16', '2027-09-17',
+  // 国庆节：10/1(周五)-10/7(周四)
+  '2027-10-01', '2027-10-02', '2027-10-03', '2027-10-04',
+  '2027-10-05', '2027-10-06', '2027-10-07'
+];
+
+/** 内置的全部法定节假日（跨年份）。 */
+export const CN_HOLIDAYS = [...CN_HOLIDAYS_2026, ...CN_HOLIDAYS_2027];
+
+/** 北京时间相对 UTC 的分钟偏移。 */
+const BEIJING_OFFSET_MINUTES = 8 * 60;
+
+/**
+ * 默认价目表（元 / 百万 token）。
+ * `off` 为空闲时段单价；高峰时段单价 = 空闲单价 × `peakMultiplier`。
+ * `cacheWrite` 缺省时按未命中价计费（DeepSeek 目前不单独报 cacheWrite，恒为 0）。
+ */
+export const DEFAULT_PRICE_TABLE = {
+  version: PRICE_TABLE_VERSION,
+  currency: 'CNY',
+  symbol: '¥',
+  unit: 1e6,
+  peakMultiplier: 2,
+  // 高峰时段窗口，按北京时间的小时数半开区间 [start, end)
+  peakWindows: [[9, 12], [14, 18]],
+  // 高峰时段只在周一至周五；1=周一 … 7=周日
+  peakWeekdays: [1, 2, 3, 4, 5],
+  holidays: CN_HOLIDAYS,
+  models: {
+    'deepseek-flash': {
+      label: 'DeepSeek-V4.1-Flash',
+      off: { cacheHit: 0.02, cacheMiss: 1, cacheWrite: 1, output: 4 }
+    },
+    'deepseek-v4-flash': {
+      label: 'DeepSeek-V4.1-Flash（旧模型名）',
+      off: { cacheHit: 0.02, cacheMiss: 1, cacheWrite: 1, output: 4 }
+    },
+    'deepseek-v4-flash-vision-exp': {
+      label: 'DeepSeek-V4.1-Flash（视觉实验名）',
+      off: { cacheHit: 0.02, cacheMiss: 1, cacheWrite: 1, output: 4 }
+    },
+    'deepseek-v4-pro': {
+      label: 'DeepSeek-V4-Pro-0813',
+      off: { cacheHit: 0.15, cacheMiss: 4.5, cacheWrite: 4.5, output: 13.5 }
+    },
+    'deepseek-pro': {
+      label: 'DeepSeek-V4-Pro-0813（旧模型名）',
+      off: { cacheHit: 0.15, cacheMiss: 4.5, cacheWrite: 4.5, output: 13.5 }
+    }
+  },
+  // 未知模型的兜底价：按 flash 计，并在返回值里标 estimated=true，控制台会提示。
+  fallbackModel: 'deepseek-flash'
+};
+
+/** 合并用户配置的价目表覆盖项（config.json 的 `pricing` 字段），失败时回落到默认表。 */
+export function resolvePriceTable(override) {
+  if (!override || typeof override !== 'object' || Array.isArray(override)) {
+    return { ...DEFAULT_PRICE_TABLE, models: { ...DEFAULT_PRICE_TABLE.models } };
+  }
+  const merged = {
+    ...DEFAULT_PRICE_TABLE,
+    ...override,
+    models: { ...DEFAULT_PRICE_TABLE.models },
+    peakWindows: Array.isArray(override.peakWindows) ? override.peakWindows : DEFAULT_PRICE_TABLE.peakWindows,
+    peakWeekdays: Array.isArray(override.peakWeekdays) ? override.peakWeekdays : DEFAULT_PRICE_TABLE.peakWeekdays,
+    holidays: Array.isArray(override.holidays) ? override.holidays : DEFAULT_PRICE_TABLE.holidays
+  };
+  if (override.models && typeof override.models === 'object' && !Array.isArray(override.models)) {
+    for (const [name, entry] of Object.entries(override.models)) {
+      const base = DEFAULT_PRICE_TABLE.models[name];
+      if (!entry || typeof entry !== 'object') continue;
+      const given = entry.off ?? {};
+      const off = { ...(base?.off ?? DEFAULT_PRICE_TABLE.models[DEFAULT_PRICE_TABLE.fallbackModel].off), ...given };
+      // 只有用户/内置条目**自己**没写 cacheWrite 时才跟随 cacheMiss；
+      // 否则会从兜底模型继承一个不相干的 cacheWrite 价（静默算错钱）。
+      if (!Number.isFinite(Number(given.cacheWrite))) off.cacheWrite = off.cacheMiss;
+      merged.models[name] = { label: entry.label ?? base?.label ?? name, off };
+    }
+  }
+  if (typeof merged.fallbackModel !== 'string' || !merged.models[merged.fallbackModel]) {
+    merged.fallbackModel = DEFAULT_PRICE_TABLE.fallbackModel;
+  }
+  if (!Number.isFinite(merged.peakMultiplier) || merged.peakMultiplier <= 0) merged.peakMultiplier = 2;
+  if (!Number.isFinite(merged.unit) || merged.unit <= 0) merged.unit = 1e6;
+  if (typeof merged.version !== 'string' || !merged.version) merged.version = PRICE_TABLE_VERSION;
+  return merged;
+}
+
+/** 把任意时间戳换算成北京时间的日历分量（不依赖运行机器的本地时区）。 */
+export function beijingParts(atMs) {
+  const d = new Date(Number(atMs) + BEIJING_OFFSET_MINUTES * 60000);
+  const weekday = d.getUTCDay() === 0 ? 7 : d.getUTCDay(); // 1=周一 … 7=周日
+  const month = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  return {
+    weekday,
+    hour: d.getUTCHours(),
+    date: `${d.getUTCFullYear()}-${month}-${day}`,
+    clock: `${String(d.getUTCHours()).padStart(2, '0')}:${String(d.getUTCMinutes()).padStart(2, '0')}`
+  };
+}
+
+/** 判断某一时刻是否落在高峰时段。 */
+export function isPeakAt(atMs, table = DEFAULT_PRICE_TABLE) {
+  const ms = Number(atMs);
+  if (!Number.isFinite(ms)) return false;
+  const { weekday, hour, date } = beijingParts(ms);
+  if (!table.peakWeekdays.includes(weekday)) return false;
+  const holidays = table.holidays instanceof Set ? table.holidays : new Set(table.holidays ?? []);
+  if (holidays.has(date)) return false;
+  return (table.peakWindows ?? []).some(([start, end]) => Number.isFinite(start) && Number.isFinite(end) && hour >= start && hour < end);
+}
+
+/** 取某模型在某一时刻生效的单价（含峰谷判定）。 */
+export function ratesAt(model, atMs, table = DEFAULT_PRICE_TABLE) {
+  const key = String(model ?? '').trim();
+  const entry = table.models[key];
+  const chosen = entry ?? table.models[table.fallbackModel];
+  const off = chosen.off;
+  const peak = isPeakAt(atMs, table);
+  const factor = peak ? table.peakMultiplier : 1;
+  return {
+    model: key || table.fallbackModel,
+    label: chosen.label,
+    tier: peak ? 'peak' : 'off',
+    tierLabel: peak ? '高峰时段' : '空闲时段',
+    currency: table.currency,
+    symbol: table.symbol,
+    unit: table.unit,
+    estimated: !entry,
+    cacheHit: off.cacheHit * factor,
+    cacheMiss: off.cacheMiss * factor,
+    cacheWrite: (Number.isFinite(off.cacheWrite) ? off.cacheWrite : off.cacheMiss) * factor,
+    output: off.output * factor
+  };
+}
+
+/**
+ * 把 usage 归一化成四个互不重叠的计费桶。
+ *
+ * 同时接受两种键名，这一点是**必须**的：
+ *   - DSH 原始口径：`inputTokens` / `cacheReadTokens` / `cacheWriteTokens` / `outputTokens`；
+ *   - 账本落盘口径：`cacheMiss` / `cacheHit` / `cacheWrite` / `output`。
+ * 只认一种会在「写盘 → 重新载入」时把桶读成 0（花费凭空少一截），所以两种都读。
+ */
+export function normalizeUsage(usage) {
+  const pick = (value, ...keys) => {
+    for (const key of keys) {
+      const v = Number(value?.[key]);
+      if (Number.isFinite(v) && v > 0) return Math.round(v);
+    }
+    return 0;
+  };
+  if (!usage || typeof usage !== 'object') {
+    return { cacheMiss: 0, cacheHit: 0, cacheWrite: 0, output: 0, reasoning: 0 };
+  }
+  return {
+    // DSH 的 inputTokens 是「未命中」部分，不是总输入。
+    cacheMiss: pick(usage, 'cacheMiss', 'uncachedInputTokens', 'inputTokens'),
+    cacheHit: pick(usage, 'cacheHit', 'cacheReadTokens'),
+    cacheWrite: pick(usage, 'cacheWrite', 'cacheWriteTokens'),
+    output: pick(usage, 'output', 'outputTokens'),
+    reasoning: pick(usage, 'reasoning', 'reasoningTokens')
+  };
+}
+
+/** 四个桶求和（token 总量）。 */
+export function totalTokensOf(buckets) {
+  return (buckets?.cacheMiss ?? 0) + (buckets?.cacheHit ?? 0) + (buckets?.cacheWrite ?? 0) + (buckets?.output ?? 0);
+}
+
+/**
+ * 按单价把 token 桶折算成金额。
+ * @param buckets 归一化后的四个桶
+ * @param rates   `ratesAt()` 的返回值
+ * @returns 分项金额与合计（单位同 rates.currency）
+ */
+export function costOfBuckets(buckets, rates) {
+  const b = buckets ?? {};
+  const cacheHit = ((b.cacheHit ?? 0) / rates.unit) * rates.cacheHit;
+  const cacheMiss = ((b.cacheMiss ?? 0) / rates.unit) * rates.cacheMiss;
+  const cacheWrite = ((b.cacheWrite ?? 0) / rates.unit) * rates.cacheWrite;
+  const output = ((b.output ?? 0) / rates.unit) * rates.output;
+  return {
+    cacheHit,
+    cacheMiss,
+    cacheWrite,
+    output,
+    total: cacheHit + cacheMiss + cacheWrite + output
+  };
+}
+
+/** 一步到位：给桶 + 时间 + 模型，直接算钱。 */
+export function priceUsage(buckets, { model, at, table = DEFAULT_PRICE_TABLE } = {}) {
+  const rates = ratesAt(model, at, table);
+  return { rates, cost: costOfBuckets(buckets, rates) };
+}
+
+/** 空桶常量（避免各处重复字面量）。 */
+export const ZERO_BUCKETS = Object.freeze({ cacheMiss: 0, cacheHit: 0, cacheWrite: 0, output: 0, reasoning: 0 });
+
+/** 桶相加。 */
+export function addBuckets(a, b) {
+  return {
+    cacheMiss: (a?.cacheMiss ?? 0) + (b?.cacheMiss ?? 0),
+    cacheHit: (a?.cacheHit ?? 0) + (b?.cacheHit ?? 0),
+    cacheWrite: (a?.cacheWrite ?? 0) + (b?.cacheWrite ?? 0),
+    output: (a?.output ?? 0) + (b?.output ?? 0),
+    reasoning: (a?.reasoning ?? 0) + (b?.reasoning ?? 0)
+  };
+}
+
+/** 桶相减（用于「基线之后」的增量），逐桶下限为 0。 */
+export function subBuckets(a, b) {
+  const s = (x, y) => Math.max(0, (x ?? 0) - (y ?? 0));
+  return {
+    cacheMiss: s(a?.cacheMiss, b?.cacheMiss),
+    cacheHit: s(a?.cacheHit, b?.cacheHit),
+    cacheWrite: s(a?.cacheWrite, b?.cacheWrite),
+    output: s(a?.output, b?.output),
+    reasoning: s(a?.reasoning, b?.reasoning)
+  };
+}

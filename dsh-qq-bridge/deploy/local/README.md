@@ -1,1 +1,85 @@
-IyDmnKzlnLDnlLXohJHpg6jnvbLvvIhXaW5kb3dzIC8gbWFjT1MgLyBMaW51eCDmoYzpnaLniYggRFNI77yJCgrmioogUVEgQUkg5py65Zmo5Lq65pW05aWX6LeR5ZyoKirkvaDoh6rlt7HnmoTnlLXohJEqKuS4iu+8mkRTSCDmoYzpnaLniYggKyDmoaXmjqXmj5Lku7bvvIzlhajpg6jmnKzmnLrvvIzkuI3kvp3otZbmiYvmnLrjgIIKCiMjIOaetuaehApgYGAKUVEg576kL+engeiBiiDihpIgU25vd0x1bWEg572R5YWz77yI5LqRIFdpbmRvd3PvvIxRUSDljY/orq7nq6/vvIkKICAgICAgICAgICAgICAgIOKGkyBXZWJTb2NrZXQKICAgICAgICAgICAg55S16ISR5LiK55qEIGRzaC1xcS1icmlkZ2XvvIjmnKzmj5Lku7bvvIkKICAgICAgICAgICAgICAgIOKGkyBIVFRQL+S6i+S7tua1gQogICAgICAgICAgICDnlLXohJHkuIrnmoQgRFNIIOahjOmdoueJiO+8iEFJIOWkp+iEkSArIOW3peWFt++8iQogICAgICAgICAgICAgICAg4oaTCiAgICAgICAgICAgIERlZXBTZWVrIEFQSQpgYGAKCj4gU25vd0x1bWEg5Y+q5pSv5oyBIFdpbmRvd3PjgILlpoLmnpzkvaDnlLXohJHlsLHmmK8gV2luZG93c++8jFNub3dMdW1hIOS5n+WPr+S7peijheWcqOacrOacuu+8mwo+IE1hYy9MaW51eCDnlKjmiLfmioogU25vd0x1bWEg5pS+5Zyo5LqRIFdpbmRvd3Mg5oiW5Y+m5LiA5Y+wIFdpbmRvd3Mg5py65Zmo5LiK44CCCgojIyDlronoo4XvvIjkuInmraXvvIkKCiMjIyAxLiDoo4Xlpb0gU25vd0x1bWHvvIhRUSDljY/orq7nq6/vvIkKLSBXaW5kb3dz77ya5pys5py66KOFCi0gTWFjL0xpbnV477ya5LqRIFdpbmRvd3Mg5oiW5bGA5Z+f572RIFdpbmRvd3Mg6KOFCi0g5byA5ZCvIE9uZUJvdO+8mkhUVFAgMzAwMCAvIFdTIDMwMDHvvIzorr4gYWNjZXNzVG9rZW7vvIzpmLLngavlopnmlL7ooYwKCiMjIyAyLiDlronoo4XmnKzmj5Lku7YKYGBgYmFzaAojIFdpbmRvd3PvvIhQb3dlclNoZWxs77yJCi5cZGVwbG95XGxvY2FsXGluc3RhbGwucHMxCgojIG1hY09TIC8gTGludXgKYmFzaCBkZXBsb3kvbG9jYWwvaW5zdGFsbC5zaApgYGAK6ISa5pys5Lya77yabGluayDmj5Lku7bov5sgRFNIIOKGkiDmm7/mjaLot6/lvoQg4oaSIOeUn+aIkCBjb25maWcuanNvbiDihpIg5ZCv5Yqo5qGl5o6l44CCCgojIyMgMy4g6YWN572uICsg6YeN5ZCvCmBgYGJhc2gKIyDnvJbovpEgY29uZmlnLmpzb27vvIjlv4XloavvvIkKewogICJzbm93bHVtYSI6IHsKICAgICJ3c1VybCI6ICJ3czovL+S9oOeahFNub3dMdW1h5Zyw5Z2AOjMwMDEiLAogICAgImh0dHBVcmwiOiAiaHR0cDovL+S9oOeahFNub3dMdW1h5Zyw5Z2AOjMwMDAiLAogICAgImFjY2Vzc1Rva2VuIjogIuS9oOWcqFNub3dMdW1h6K6+55qEdG9rZW4iCiAgfQp9CmBgYAoxLiDph43lkK8gRFNI77yI5o+S5Lu255Sf5pWI77yJCjIuIOmHjeWQr+WQjioq5p2A5LiA5qyhIE1DUCDov5vnqIsqKu+8iOW3peWFt+WIl+ihqOaJjeS8muWIt+aWsO+8jOWFiemHjeWQr+W8leaTjuS4jeWkn++8iQozLiBEU0gg6K6+572uIOKGkiDmiormoaXmjqXmqKHlvI/liIfliLAgKipyZXNlcnZlZDIqKgo0LiDnvJbovpEgYGJyaWRnZS9yb2xlcy/op5LoibLmqKHmnb8ubWRgIOaIkOS9oOeahOinkuiJsgoKIyMg5bi46am76L+Q6KGMCmBgYGJhc2gKIyDmiYvliqjlkK/liqjvvIjlhbPmnLrkvJrlgZzvvIkKYmFzaCBicmlkZ2Uvc3RhcnR1cC5zaAoKIyDlvIDmnLroh6rlkK/vvIhtYWNPUy9MaW51eO+8iQpjcm9udGFiIC1lICAgIyDliqDkuIDooYzvvJoKQHJlYm9vdCBiYXNoIC9wYXRoL3RvL2RzaC1xcS1icmlkZ2UvYnJpZGdlL3N0YXJ0dXAuc2gKCiMg5byA5py66Ieq5ZCv77yIV2luZG93c++8iQojIOS7u+WKoeiuoeWIkueoi+W6jyDihpIg5paw5bu65Lu75YqhIOKGkiDop6blj5Hlmagi55m75b2V5pe2IiDihpIg5pON5L2c6L+Q6KGMIHN0YXJ0dXAucHMxCmBgYAoKIyMg55uu5b2V6K+05piOCmBgYApkc2gtcXEtYnJpZGdlLwrilJzilIDilIAgY29yZGlzLnBhdGNoLnltbCAgICAgICDmj5Lku7booaXkuIHvvIhNQ1DDlzMgKyDmqKHlvI/lvIDlhbPvvIkK4pSc4pSA4pSAIGxpYi8gICAgICAgICAgICAgICAgICAgRFNIIOaPkuS7tuS7o+eggQrilJzilIDilIAgcHJlc2V0cy8gICAgICAgICAgICAgICBxcS1jaGF0IC8gcXEtY2hhdC12MiDkvJror53pooTorr4K4pSc4pSA4pSAIGJyaWRnZS8gICAgICAgICAgICAgICAg5qGl5o6l5pys5L2T77yI54us56uLIE5vZGUg5pyN5Yqh77yJCuKUgiAgIOKUnOKUgOKUgCBzcmMvICAgICAgICAgICAgICAg6K6w5b+GL+a4heeQhi/mg4Xnu6ov6K+t6Z+zL+e+pOeuoeeQhuWFqOWll+mAu+i+kQrilIIgICDilJzilIDilIAgcm9sZXMvICAgICAgICAgICAgIOS6uuagvOWNoeaUvui/memHjArilIIgICDilJzilIDilIAgY29uZmlnLmpzb24gICAgICAgIOmFjee9rgrilIIgICDilJTilIDilIAgc3RhdGUvICAgICAgICAgICAgIOiusOW/huW6ky/mg4Xnu6ov5Lya6K+d54q25oCB77yI5pWw5o2u55uu5b2V77yJCuKUlOKUgOKUgCBkZXBsb3kvICAgICAgICAgICAgICAgIOacrOebruW9le+8iOmDqOe9suiEmuacrO+8iQpgYGAKCiMjIOW4uOingemXrumimAp8IOmXrumimCB8IOWkhOeQhiB8CnwtLS18LS0tfAp8IE1DUCDlt6XlhbfmsqHlh7rnjrAgfCDmnYAgTUNQIOi/m+eoi+iuqeW8leaTjumHjei/nu+8iOS4jeaYr+mHjeWQr+W8leaTju+8iSB8Cnwg56eB6IGK5LiN5ZueIHwg5qOA5p+lIERTSCDpibTmnYPvvJpgfi8uZHNoLy5jcmVkZW50aWFscy55YW1sYCDlrZjlnKjjgIFjb25maWcuYXV0aFRva2VuIOeVmeepuiB8Cnwg5LiK5LiL5paHIDQwMCB8IOS4iuS4i+aWh+i2hemZkO+8mmF1dG8tY2xlYW4g5Lya6Ieq5Yqo5riF77yI6LaFIDI1IOS4h+W8uuWItu+8iSB8Cnwg5Zu+54mHL+ivremfs+WKn+iDvee8uuWksSB8IOijhSBmZm1wZWfvvIhgYnJldyBpbnN0YWxsIGZmbXBlZ2AgLyBgYXB0IGluc3RhbGwgZmZtcGVnYCAvIFdpbmRvd3Mg5LiL6L295LqM6L+b5Yi277yJIHwK
+# 本地电脑部署（Windows / macOS / Linux 桌面版 DSH）
+
+把 QQ AI 机器人整套跑在**你自己的电脑**上：DSH 桌面版 + 桥接插件，全部本机，不依赖手机。
+
+## 架构
+```
+QQ 群/私聊 → SnowLuma 网关（云 Windows，QQ 协议端）
+                ↓ WebSocket
+            电脑上的 dsh-qq-bridge（本插件）
+                ↓ HTTP/事件流
+            电脑上的 DSH 桌面版（AI 大脑 + 工具）
+                ↓
+            DeepSeek API
+```
+
+> SnowLuma 只支持 Windows。如果你电脑就是 Windows，SnowLuma 也可以装在本机；
+> Mac/Linux 用户把 SnowLuma 放在云 Windows 或另一台 Windows 机器上。
+
+## 安装（三步）
+
+### 1. 装好 SnowLuma（QQ 协议端）
+- Windows：本机装
+- Mac/Linux：云 Windows 或局域网 Windows 装
+- 开启 OneBot：HTTP 3000 / WS 3001，设 accessToken，防火墙放行
+
+### 2. 安装本插件
+```bash
+# Windows（PowerShell）
+.\deploy\local\install.ps1
+
+# macOS / Linux
+bash deploy/local/install.sh
+```
+脚本会：link 插件进 DSH → 替换路径 → 生成 config.json → 启动桥接。
+
+### 3. 配置 + 重启
+```bash
+# 编辑 config.json（必填）
+{
+  "snowluma": {
+    "wsUrl": "ws://你的SnowLuma地址:3001",
+    "httpUrl": "http://你的SnowLuma地址:3000",
+    "accessToken": "你在SnowLuma设的token"
+  }
+}
+```
+1. 重启 DSH（插件生效）
+2. 重启后**杀一次 MCP 进程**（工具列表才会刷新，光重启引擎不够）
+3. DSH 设置 → 把桥接模式切到 **reserved2**
+4. 编辑 `bridge/roles/角色模板.md` 成你的角色
+
+## 常驻运行
+```bash
+# 手动启动（关机会停）
+bash bridge/startup.sh
+
+# 开机自启（macOS/Linux）
+crontab -e   # 加一行：
+@reboot bash /path/to/dsh-qq-bridge/bridge/startup.sh
+
+# 开机自启（Windows）
+# 任务计划程序 → 新建任务 → 触发器"登录时" → 操作运行 startup.ps1
+```
+
+## 目录说明
+```
+dsh-qq-bridge/
+├── cordis.patch.yml       插件补丁（MCP×3 + 模式开关）
+├── lib/                   DSH 插件代码
+├── presets/               qq-chat / qq-chat-v2 会话预设
+├── bridge/                桥接本体（独立 Node 服务）
+│   ├── src/               记忆/清理/情绪/语音/群管理全套逻辑
+│   ├── roles/             人格卡放这里
+│   ├── config.json        配置
+│   └── state/             记忆库/情绪/会话状态（数据目录）
+└── deploy/                本目录（部署脚本）
+```
+
+## 常见问题
+| 问题 | 处理 |
+|---|---|
+| MCP 工具没出现 | 杀 MCP 进程让引擎重连（不是重启引擎） |
+| 私聊不回 | 检查 DSH 鉴权：`~/.dsh/.credentials.yaml` 存在、config.authToken 留空 |
+| 上下文 400 | 上下文超限：auto-clean 会自动清（超 25 万强制） |
+| 图片/语音功能缺失 | 装 ffmpeg（`brew install ffmpeg` / `apt install ffmpeg` / Windows 下载二进制） |

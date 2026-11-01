@@ -1,1 +1,121 @@
-Ly8gc3RhdGUvIOebruW9leadg+mZkOaUtue0p+eahOOAjOWPr+aPkOadg+OAjeWFpeWPo+OAggovLwovLyDkuLrku4DkuYjpnIDopoHljZXni6zkuIDkuKrmlofku7bvvJoKLy8gICBXaW5kb3dzIOS4iuaUtue0pyBBQ0wg6ZyA6KaB5a+56K+l55uu5b2V5pyJIFdSSVRFX0RBQ+OAgioq5q2j5bi45oOF5Ya15LiL55uu5b2V5bGe5Li75pys5p2l5bCx5pyJKirvvIwKLy8gICDmiYDku6Xov5nkuKrohJrmnKzlj6rmmK8i6K6+5LiA5qyh5bCx6LWwIu+8jOS4jeS8muavj+asoeWQr+WKqOmDveW8uSBVQUPvvJvlj6rmnInlvZPns7vnu5/nrZbnlaXmiorlsZ7kuLvmnYPpmZDkuZ/mlLbotbDjgIEKLy8gICDmiJbnm67lvZXlsZ7kuo7liKvnmoTotKbmiLfml7bvvIzmiY3kvJrnlKggU3RhcnQtUHJvY2VzcyAtVmVyYiBSdW5BcyDmj5DmnYPph43or5XkuIDmrKHjgIIKLy8KLy8g6K6+6K6h5Y6f5YiZ77yI5b+F6aG75pivIumbtiBidWcg6aOO6ZmpIueahOmCo+enjeWunueUqOS4u+S5ie+8ie+8mgovLyAgIDEpIOWksei0peWNs+mZjee6p++8muaLv+S4jeWIsOadg+mZkOWwseaJk+WNsOS4gOadoeWPr+WkjeWItueahOWRveS7pOeEtuWQjioq5LulIDAg6YCA5Ye6KirvvIznu53kuI3pmLvmlq3moaXmjqXlkK/liqjjgIIKLy8gICAyKSDkuI3mtojotLnlj4LmlbDvvJrmoaXmjqXov5vnqIvmmK8gYG5vZGUgc3JjL2JyaWRnZS5qc2DvvIzov5nph4znu53kuI3og73norAgcHJvY2Vzcy5hcmd2IOeahOivreS5ieOAggovLyAgIDMpIOi+k+WHuue7meS6uueci++8muS4reaWh+OAgeebtOeZveOAgee7meWHuuS4i+S4gOatpeOAggovLwovLyDimqDvuI8g5YW35L2T55qEIGljYWNscyDpgLvovpEqKuS4jeWcqOacrOaWh+S7tioq77yM6ICM5piv5LiO5qGl5o6l6L+b56iL5YWx55SoIGBzcmMvc3RhdGUtYWNsLm1qc2DjgIIKLy8g6L+Z5aWX6YC76L6R5pu+57uP5Zyo6L+Z6YeM5ZKMIHNyYy9icmlkZ2UuanMg6YeM5ZCE5YaZ5LiA5Lu977yM5Lik5Lu95bim552A5ZCM5LiA5LiqIGJ1Z++8mgovLyBgaWNhY2xzIERJUiAvaW5oZXJpdGFuY2U6ciAvZ3JhbnQ6ciAidTooT0kpKENJKUYiIC9UYCDkvJrmiorlrZDmlofku7YgREFDTCDmuIXnqboKLy8g77yIKE9JKShDSSkg5piv55uu5b2V5LiT55So5qCH5b+X77yM5aWX5Yiw5paH5Lu25LiK5aSx6LSl77yM6ICMIC9pbmhlcml0YW5jZTpyIOW3sue7j+aRmOaOieS6hue7p+aJvyBBQ0XvvInvvIwKLy8g5Yqg5LiK5Zue6K+76Ieq5qOA6KKrIExvdyDlrozmlbTmgKfmoIfnrb7ooYznmoQgKEkpIOivr+WIpO+8jOWvvOiHtCoq5q+P5qyh5ZCv5Yqo6YO96YeN6LeR5LiA5qyh6L+Z5Liq56C05Z2P5oCn5ZG95LukKirjgIIKLy8g5ZCI5bm25oiQ5LiA5Lu977yM5LuO57uT5p6E5LiK5p2c57ud5YaN5qyh5ryC56e744CCCi8vCi8vIOeUqOazle+8mm5vZGUgc2NyaXB0cy9oYXJkZW4tc3RhdGUtYWNsLm1qcyBbLS1xdWlldF0KLy8gICAtLXF1aWV0IOaXtuWPquWcqOecn+ato+WBmuS6huS6i+aDhS/lpLHotKXml7bovpPlh7rvvIhzdGFydC5iYXQg55So6L+Z5Liq5qih5byP77yJ44CCCgppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IHNwYXduU3luYyB9IGZyb20gJ25vZGU6Y2hpbGRfcHJvY2Vzcyc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7IGhhcmRlbkRpciwgaGFyZGVuRmlsZSwgaXNIYXJkZW5lZCwgbWFudWFsRGlyQ29tbWFuZCB9IGZyb20gJy4uL3NyYy9zdGF0ZS1hY2wubWpzJzsKCmNvbnN0IF9fZGlybmFtZSA9IHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBST09UID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uJyk7CmNvbnN0IFNUQVRFX0RJUiA9IHBhdGguam9pbihST09ULCAnc3RhdGUnKTsKY29uc3QgcXVpZXQgPSBwcm9jZXNzLmFyZ3YuaW5jbHVkZXMoJy0tcXVpZXQnKTsKLy8g6KKr6Ieq5bex5o+Q5p2D5ouJ6LW35pe25LiN5bimIC0tcXVpZXTvvIjlrZDov5vnqIvnlKjnmoTmmK8gLS1lbGV2YXRlZCAtLXF1aWV077yJ77yM5bim5LiK6L+Z5Liq5qCH6K6w5Y+v5LulCi8vIOiuqeaPkOadg+WQjueahOi/meS4gOasoSoq5LiN5YaN5bCd6K+V5o+Q5p2DKirvvIzku47nu5PmnoTkuIrmnZznu53pgJLlvZLjgIIKY29uc3QgaXNFbGV2YXRlZFJ1biA9IHByb2Nlc3MuYXJndi5pbmNsdWRlcygnLS1lbGV2YXRlZCcpOwoKZnVuY3Rpb24gc2F5KG1zZykgeyBpZiAoIXF1aWV0KSBjb25zb2xlLmxvZyhtc2cpOyB9CmZ1bmN0aW9uIHNheUFsd2F5cyhtc2cpIHsgY29uc29sZS5sb2cobXNnKTsgfQoKLy8gc3RhdGUvIOS5i+WklueahOWHreaNruaWh+S7tu+8mmNvbmZpZy5qc29uIOmHjOaYr+ecn+WunueahCBTbm93THVtYSBPbmVCb3QgYWNjZXNzVG9rZW4g4oCU4oCUCi8vIOaLv+WIsOWug+etieS6juaLv+WIsCBRUSDotKblj7fnmoTmlLblj5HmjqfliLbmnYPjgILlroPot58gc3RhdGUvIOS4gOagt+WcqOS7k+W6k+agkemHjO+8jOe7p+aJv+adpeeahCBBQ0Ug5ZCM5qC3Ci8vIOWvuSBCVUlMVElOXFVzZXJzIOWPr+ivu++8jOaJgOS7peS4gOW5tuaUtue0p+OAggpjb25zdCBTRUNSRVRfRklMRVMgPSBbJ2NvbmZpZy5qc29uJ10KICAubWFwKChuYW1lKSA9PiBwYXRoLmpvaW4oUk9PVCwgbmFtZSkpCiAgLmZpbHRlcigoZmlsZSkgPT4gZnMuZXhpc3RzU3luYyhmaWxlKSk7CgovKiog55SoIFVBQyDmj5DmnYPot5HkuIDmrKHoh6rlt7HvvIznhLblkI7lm57or7vnoa7orqTjgILov5Tlm54geyBvaywgZGV0YWlsIH3jgIIgKi8KZnVuY3Rpb24gZWxldmF0ZUFuZFJldHJ5KCkgewogIGlmIChwcm9jZXNzLnBsYXRmb3JtICE9PSAnd2luMzInKSByZXR1cm4geyBvazogZmFsc2UsIGRldGFpbDogJ+mdniBXaW5kb3dzIOW5s+WPsOS4jemcgOimgeaPkOadgycgfTsKICBjb25zdCBzY3JpcHQgPSBmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCk7CiAgLy8gLVdhaXQg6K6p54i26L+b56iL562J5Yiw5a2Q6L+b56iL57uT5p2f77yb55So5oi354K5IuWQpiLml7YgU3RhcnQtUHJvY2VzcyDkvJrmipvplJnvvIzov5nph4zopoHlkJ7mjonjgIIKICAvLwogIC8vIOi3r+W+hOe7jyoq546v5aKD5Y+Y6YePKirkvKDlhaXvvIzkuI3mi7zov5sgLUNvbW1hbmQg5a2X56ym5Liy77yaTm9kZSDlronoo4Xot6/lvoTmiJbohJrmnKzot6/lvoTph4zlj6ropoEKICAvLyDmnInkuIDkuKrlj4zlvJXlj7fvvIzlrZfnrKbkuLLmi7zmjqXlsLHkvJrooqvlhpnlh7rlvJXlj7fovrnnlYzvvJvlj43lvJXlj7fmiJYgJCguLi4pIOabtOS8muebtOaOpeWcqAogIC8vICoq5o+Q5p2D5ZCOKirnmoQgUG93ZXJTaGVsbCDph4zmiafooYzjgILnjq/looPlj5jph4/nlLEgUG93ZXJTaGVsbCDlvZPmma7pgJrlrZfnrKbkuLLor7vlj5bvvIwKICAvLyDku47mnoTpgKDkuIrmtojpmaTkuobovazkuYkv5rOo5YWl6Z2i44CCCiAgY29uc3QgcHMgPSBbCiAgICAnJEVycm9yQWN0aW9uUHJlZmVyZW5jZSA9ICJTdG9wIjsnLAogICAgJ3RyeSB7JywKICAgICcgIFN0YXJ0LVByb2Nlc3MgLUZpbGVQYXRoICRlbnY6RFNIX0hBUkRFTl9OT0RFIC1Bcmd1bWVudExpc3QgQCgkZW52OkRTSF9IQVJERU5fU0NSSVBULCItLWVsZXZhdGVkIiwiLS1xdWlldCIpIC1WZXJiIFJ1bkFzIC1XYWl0IC1XaW5kb3dTdHlsZSBIaWRkZW47JywKICAgICcgIGV4aXQgMCcsCiAgICAnfSBjYXRjaCB7IGV4aXQgMiB9JwogIF0uam9pbignICcpOwogIGNvbnN0IHJlcyA9IHNwYXduU3luYygncG93ZXJzaGVsbCcsIFsnLU5vUHJvZmlsZScsICctTm9uSW50ZXJhY3RpdmUnLCAnLUNvbW1hbmQnLCBwc10sIHsKICAgIGVuY29kaW5nOiAndXRmOCcsCiAgICB0aW1lb3V0OiAxMjAwMDAsCiAgICB3aW5kb3dzSGlkZTogdHJ1ZSwKICAgIGVudjogeyAuLi5wcm9jZXNzLmVudiwgRFNIX0hBUkRFTl9OT0RFOiBwcm9jZXNzLmV4ZWNQYXRoLCBEU0hfSEFSREVOX1NDUklQVDogc2NyaXB0IH0KICB9KTsKICBpZiAocmVzLmVycm9yKSByZXR1cm4geyBvazogZmFsc2UsIGRldGFpbDogYOaXoOazleWQr+WKqOaPkOadg+i/m+eoi++8miR7cmVzLmVycm9yLm1lc3NhZ2V9YCB9OwogIGlmIChyZXMuc3RhdHVzID09PSAyKSByZXR1cm4geyBvazogZmFsc2UsIGRldGFpbDogJ+eUqOaIt+WPlua2iOS6hiBVQUMg5o+Q5p2DJyB9OwogIGlmIChpc0hhcmRlbmVkKFNUQVRFX0RJUikpIHJldHVybiB7IG9rOiB0cnVlLCBkZXRhaWw6ICfmj5DmnYPlkI7lt7LmlLbntKcnIH07CiAgcmV0dXJuIHsgb2s6IGZhbHNlLCBkZXRhaWw6IHJlcy5zdGF0dXMgPT09IDAgPyAn5o+Q5p2D6L+b56iL57uT5p2f5L2G5p2D6ZmQ5LuN5pyq5pS257SnJyA6IGDmj5DmnYPov5vnqIvpgIDlh7rnoIEgJHtyZXMuc3RhdHVzfWAgfTsKfQoKLyoqIOaUtue0p+WHreaNruaWh+S7tu+8m+i/lOWbnuS7jeacquaUtue0p+eahOS4quaVsOOAgiAqLwpmdW5jdGlvbiBoYXJkZW5TZWNyZXRGaWxlcygpIHsKICBsZXQgc3RpbGxPcGVuID0gMDsKICBmb3IgKGNvbnN0IGZpbGUgb2YgU0VDUkVUX0ZJTEVTKSB7CiAgICBjb25zdCBsYWJlbCA9IHBhdGgucmVsYXRpdmUoUk9PVCwgZmlsZSk7CiAgICBpZiAoaXNIYXJkZW5lZChmaWxlKSkgeyBzYXkoYFtoYXJkZW4tYWNsXSAke2xhYmVsfSDmnYPpmZDlt7LmlLbntKfvvIzml6DpnIDlpITnkIZgKTsgY29udGludWU7IH0KICAgIGNvbnN0IHJlc3VsdCA9IGhhcmRlbkZpbGUoZmlsZSk7CiAgICBpZiAocmVzdWx0Lm9rKSBzYXlBbHdheXMoYFtoYXJkZW4tYWNsXSDinIUg5bey5pS257SnICR7bGFiZWx9IOadg+mZkO+8iOWPquS/neeVmeW9k+WJjeeUqOaItyAvIFNZU1RFTSAvIEFkbWluaXN0cmF0b3Jz77yJ44CCYCk7CiAgICBlbHNlIHsgc3RpbGxPcGVuICs9IDE7IHNheUFsd2F5cyhgW2hhcmRlbi1hY2xdIOKaoO+4jyDmnKrog73mlLbntKcgJHtsYWJlbH3vvIgke3Jlc3VsdC5kZXRhaWx977yJ44CCYCk7IH0KICB9CiAgcmV0dXJuIHN0aWxsT3BlbjsKfQoKLy8g5Yet5o2u5paH5Lu25pS+5Zyo5omA5pyJIHN0YXRlLyDliIbmlK/kuYvliY3vvJrov5nmoLfljbPkvb8gc3RhdGUvIOW3sue7j+aUtue0p+OAgeiEmuacrOWOn+acrOS8muaPkOWJjSBleGl077yMCi8vIOWug+S7rOS5n+S4gOWumuS8muiiq+aUtuS4gOmBjeOAggpoYXJkZW5TZWNyZXRGaWxlcygpOwoKaWYgKCFmcy5leGlzdHNTeW5jKFNUQVRFX0RJUikpIHsKICBzYXkoYFtoYXJkZW4tYWNsXSBzdGF0ZS8g6L+Y5LiN5a2Y5Zyo77yI6aaW5qyh5ZCv5Yqo5pe25qGl5o6l5Lya5Yib5bu65bm26Ieq6KGM5pS257Sn77yJ77yaJHtTVEFURV9ESVJ9YCk7CiAgcHJvY2Vzcy5leGl0KDApOwp9CgppZiAoaXNIYXJkZW5lZChTVEFURV9ESVIpKSB7CiAgc2F5KGBbaGFyZGVuLWFjbF0gc3RhdGUvIOadg+mZkOW3suaUtue0p++8jOaXoOmcgOWkhOeQhu+8miR7U1RBVEVfRElSfWApOwogIHByb2Nlc3MuZXhpdCgwKTsKfQoKc2F5QWx3YXlzKCdbaGFyZGVuLWFjbF0gc3RhdGUvIOadg+mZkOacquaUtue0p++8muWFtuS4reeahOaOp+WItuWPsOS7pOeJjOOAgVNub3dMdW1hIOS7pOeJjOOAgeWQhOS8muivneS7pOeJjOS4jiBRUSDogYrlpKnorrDlvZXvvIzmnKzmnLrku7vkvZXlt7LnmbvlvZXnlKjmiLfpg73lj6/og73or7vliLDjgIInKTsKc2F5QWx3YXlzKGBbaGFyZGVuLWFjbF0g5q2j5Zyo5bCd6K+V5pS257Sn77yaJHtTVEFURV9ESVJ9YCk7CgpsZXQgcmVzdWx0ID0gaGFyZGVuRGlyKFNUQVRFX0RJUik7CmlmICghcmVzdWx0Lm9rICYmICFpc0VsZXZhdGVkUnVuKSB7CiAgc2F5QWx3YXlzKGBbaGFyZGVuLWFjbF0g55u05o6l5pS257Sn5aSx6LSl77yIJHtyZXN1bHQuZGV0YWlsfe+8ie+8jOaUueeUqOeuoeeQhuWRmOadg+mZkOmHjeivle+8iOS8muW8ueWHuiBVQUMg56Gu6K6k5qGG77yJ4oCmYCk7CiAgcmVzdWx0ID0gZWxldmF0ZUFuZFJldHJ5KCk7Cn0KCmlmIChyZXN1bHQub2spIHsKICBzYXlBbHdheXMoJ1toYXJkZW4tYWNsXSDinIUg5bey5pS257SnIHN0YXRlLyDmnYPpmZDvvIjlj6rkv53nlZnlvZPliY3nlKjmiLcgLyBTWVNURU0gLyBBZG1pbmlzdHJhdG9yc++8ieOAgicpOwogIHByb2Nlc3MuZXhpdCgwKTsKfQoKLy8g5aSx6LSl5pivKirlj6/mjqXlj5cqKueahO+8muahpeaOpeeFp+W4uOWQr+WKqO+8jOWPquaYr+WcqOaOp+WItuWPsOOAjOiuv+mXruS4juWuieWFqOOAjemhteS8muaYvuekuuWRiuitpuOAggpzYXlBbHdheXMoYFtoYXJkZW4tYWNsXSDimqDvuI8g5pyq6IO95pS257Sn77yIJHtyZXN1bHQuZGV0YWlsfe+8ieOAguahpeaOpeS7jeS8muato+W4uOWQr+WKqO+8jOS9hui/meWPsOacuuWZqOS4iueahOWFtuS7lueZu+W9leeUqOaIt+WPr+iDveivu+WIsCBzdGF0ZS8g6YeM55qE5Luk54mM5LiO6IGK5aSp6K6w5b2V44CCYCk7CnNheUFsd2F5cygnW2hhcmRlbi1hY2xdIOS9oOWPr+S7peaJi+WKqOaJp+ihjOS4i+mdoui/meWHoOadoeWRveS7pO+8iOeuoeeQhuWRmOe7iOerr++8jOS4gOasoeWNs+WPr++8ie+8micpOwpzYXlBbHdheXMoYCAgICAgICAgICAgICAke21hbnVhbERpckNvbW1hbmQoU1RBVEVfRElSKX1gKTsKcHJvY2Vzcy5leGl0KDApOwo=
+// state/ 目录权限收紧的「可提权」入口。
+//
+// 为什么需要单独一个文件：
+//   Windows 上收紧 ACL 需要对该目录有 WRITE_DAC。**正常情况下目录属主本来就有**，
+//   所以这个脚本只是"设一次就走"，不会每次启动都弹 UAC；只有当系统策略把属主权限也收走、
+//   或目录属于别的账户时，才会用 Start-Process -Verb RunAs 提权重试一次。
+//
+// 设计原则（必须是"零 bug 风险"的那种实用主义）：
+//   1) 失败即降级：拿不到权限就打印一条可复制的命令然后**以 0 退出**，绝不阻断桥接启动。
+//   2) 不消费参数：桥接进程是 `node src/bridge.js`，这里绝不能碰 process.argv 的语义。
+//   3) 输出给人看：中文、直白、给出下一步。
+//
+// ⚠️ 具体的 icacls 逻辑**不在本文件**，而是与桥接进程共用 `src/state-acl.mjs`。
+// 这套逻辑曾经在这里和 src/bridge.js 里各写一份，两份带着同一个 bug：
+// `icacls DIR /inheritance:r /grant:r "u:(OI)(CI)F" /T` 会把子文件 DACL 清空
+// （(OI)(CI) 是目录专用标志，套到文件上失败，而 /inheritance:r 已经摘掉了继承 ACE），
+// 加上回读自检被 Low 完整性标签行的 (I) 误判，导致**每次启动都重跑一次这个破坏性命令**。
+// 合并成一份，从结构上杜绝再次漂移。
+//
+// 用法：node scripts/harden-state-acl.mjs [--quiet]
+//   --quiet 时只在真正做了事情/失败时输出（start.bat 用这个模式）。
+
+import fs from 'node:fs';
+import path from 'node:path';
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
+import { hardenDir, hardenFile, isHardened, manualDirCommand } from '../src/state-acl.mjs';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+const STATE_DIR = path.join(ROOT, 'state');
+const quiet = process.argv.includes('--quiet');
+// 被自己提权拉起时不带 --quiet（子进程用的是 --elevated --quiet），带上这个标记可以
+// 让提权后的这一次**不再尝试提权**，从结构上杜绝递归。
+const isElevatedRun = process.argv.includes('--elevated');
+
+function say(msg) { if (!quiet) console.log(msg); }
+function sayAlways(msg) { console.log(msg); }
+
+// state/ 之外的凭据文件：config.json 里是真实的 SnowLuma OneBot accessToken ——
+// 拿到它等于拿到 QQ 账号的收发控制权。它跟 state/ 一样在仓库树里，继承来的 ACE 同样
+// 对 BUILTIN\Users 可读，所以一并收紧。
+const SECRET_FILES = ['config.json']
+  .map((name) => path.join(ROOT, name))
+  .filter((file) => fs.existsSync(file));
+
+/** 用 UAC 提权跑一次自己，然后回读确认。返回 { ok, detail }。 */
+function elevateAndRetry() {
+  if (process.platform !== 'win32') return { ok: false, detail: '非 Windows 平台不需要提权' };
+  const script = fileURLToPath(import.meta.url);
+  // -Wait 让父进程等到子进程结束；用户点"否"时 Start-Process 会抛错，这里要吞掉。
+  //
+  // 路径经**环境变量**传入，不拼进 -Command 字符串：Node 安装路径或脚本路径里只要
+  // 有一个双引号，字符串拼接就会被写出引号边界；反引号或 $(...) 更会直接在
+  // **提权后**的 PowerShell 里执行。环境变量由 PowerShell 当普通字符串读取，
+  // 从构造上消除了转义/注入面。
+  const ps = [
+    '$ErrorActionPreference = "Stop";',
+    'try {',
+    '  Start-Process -FilePath $env:DSH_HARDEN_NODE -ArgumentList @($env:DSH_HARDEN_SCRIPT,"--elevated","--quiet") -Verb RunAs -Wait -WindowStyle Hidden;',
+    '  exit 0',
+    '} catch { exit 2 }'
+  ].join(' ');
+  const res = spawnSync('powershell', ['-NoProfile', '-NonInteractive', '-Command', ps], {
+    encoding: 'utf8',
+    timeout: 120000,
+    windowsHide: true,
+    env: { ...process.env, DSH_HARDEN_NODE: process.execPath, DSH_HARDEN_SCRIPT: script }
+  });
+  if (res.error) return { ok: false, detail: `无法启动提权进程：${res.error.message}` };
+  if (res.status === 2) return { ok: false, detail: '用户取消了 UAC 提权' };
+  if (isHardened(STATE_DIR)) return { ok: true, detail: '提权后已收紧' };
+  return { ok: false, detail: res.status === 0 ? '提权进程结束但权限仍未收紧' : `提权进程退出码 ${res.status}` };
+}
+
+/** 收紧凭据文件；返回仍未收紧的个数。 */
+function hardenSecretFiles() {
+  let stillOpen = 0;
+  for (const file of SECRET_FILES) {
+    const label = path.relative(ROOT, file);
+    if (isHardened(file)) { say(`[harden-acl] ${label} 权限已收紧，无需处理`); continue; }
+    const result = hardenFile(file);
+    if (result.ok) sayAlways(`[harden-acl] ✅ 已收紧 ${label} 权限（只保留当前用户 / SYSTEM / Administrators）。`);
+    else { stillOpen += 1; sayAlways(`[harden-acl] ⚠️ 未能收紧 ${label}（${result.detail}）。`); }
+  }
+  return stillOpen;
+}
+
+// 凭据文件放在所有 state/ 分支之前：这样即使 state/ 已经收紧、脚本原本会提前 exit，
+// 它们也一定会被收一遍。
+hardenSecretFiles();
+
+if (!fs.existsSync(STATE_DIR)) {
+  say(`[harden-acl] state/ 还不存在（首次启动时桥接会创建并自行收紧）：${STATE_DIR}`);
+  process.exit(0);
+}
+
+if (isHardened(STATE_DIR)) {
+  say(`[harden-acl] state/ 权限已收紧，无需处理：${STATE_DIR}`);
+  process.exit(0);
+}
+
+sayAlways('[harden-acl] state/ 权限未收紧：其中的控制台令牌、SnowLuma 令牌、各会话令牌与 QQ 聊天记录，本机任何已登录用户都可能读到。');
+sayAlways(`[harden-acl] 正在尝试收紧：${STATE_DIR}`);
+
+let result = hardenDir(STATE_DIR);
+if (!result.ok && !isElevatedRun) {
+  sayAlways(`[harden-acl] 直接收紧失败（${result.detail}），改用管理员权限重试（会弹出 UAC 确认框）…`);
+  result = elevateAndRetry();
+}
+
+if (result.ok) {
+  sayAlways('[harden-acl] ✅ 已收紧 state/ 权限（只保留当前用户 / SYSTEM / Administrators）。');
+  process.exit(0);
+}
+
+// 失败是**可接受**的：桥接照常启动，只是在控制台「访问与安全」页会显示告警。
+sayAlways(`[harden-acl] ⚠️ 未能收紧（${result.detail}）。桥接仍会正常启动，但这台机器上的其他登录用户可能读到 state/ 里的令牌与聊天记录。`);
+sayAlways('[harden-acl] 你可以手动执行下面这几条命令（管理员终端，一次即可）：');
+sayAlways(`             ${manualDirCommand(STATE_DIR)}`);
+process.exit(0);

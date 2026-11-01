@@ -1,1 +1,202 @@
-Ly8gcXFfd2FpdF9mb3JfbWVzc2FnZXMg55qE44CM5ryP5raI5oGv56qX5Y+j44CN5Zue5b2S77yIMjAyNi0xMC0xOCDkv67vvInjgIIKLy8KLy8g55yf5a6e5pWF6Zqc77ya5qih5Z6L5Zyo5oCd6ICDL+WPkea2iOaBr+mCo+WHoOenkumHjOWIsOi+vueahOa2iOaBr++8jOS8muiQvei/m+etieW+heeql+WPo+eahOe8nemHjCDigJTigJQKLy8gICDml6flrp7njrDmjIkgYHNlcSA+IOivt+axguW8gOWni+aXtueahCBsYXN0VW5yZWFkU2VxYCDlj5YgbmV3TWVzc2FnZXPvvIzkuo7mmK/ov5nkupvmtojmga8KLy8gICDikaAg5pys5qyh5LiN6L+U5Zue77yb4pGhIOS4i+asoeivt+axgueahOWfuue6v+W3sue7j+i2iui/h+Wug+S7rCDih5Ig5rC46L+c5LiN5Lya5bGV56S657uZ5qih5Z6L77ybCi8vICAg4pGiIOWPiOWboOS4uiByZWFkVGhyb3VnaFNlcSDmmK/ov57nu63muLjmoIfvvIzlroPku6zkvJrmiormsLTkvY3msLjkuYXpkonkvY/jgIIKLy8g5a6e5rWL5Lya6K+d5pyr5q6177yacmVhZFRocm91Z2hTZXEg5Y2h5ZyoIDE4Ne+8jOiAjOaooeWei+W3sue7j+eci+i/hyAyMDXvvJvmnJ/pl7TmnInkurogQCDkuZ/msqHov5vmnKzlm57lkIjjgIIKLy8KLy8g5pys5paH5Lu26aqM6K+B5L+u5aSN5ZCO55qE5aWR57qm77ya5Yeh5pyq6L+b5rC05L2N55qE5LiA5b6L6KGl5Y+R44CB5LuO5pyA6ICB55qE5byA5aeL44CB6KKr5LiK6ZmQ5oiq5pat5pe2IHBhcnRpYWw9dHJ1ZeOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBodHRwIGZyb20gJ25vZGU6aHR0cCc7CmltcG9ydCB7IGJyaWRnZUhhcm5lc3MgfSBmcm9tICcuL2F1ZGl0LWJyaWRnZS1oYXJuZXNzLm1qcyc7Cgpjb25zdCBLRVkgPSAnZ3JvdXA6NDU2JzsKY29uc3Qgc2VxcyA9IChtZXNzYWdlcykgPT4gQXJyYXkuZnJvbShtZXNzYWdlcywgKG0pID0+IG0uc2VxKTsKbGV0IGZhaWx1cmVzID0gMDsKbGV0IHRlc3RzID0gMDsKCmFzeW5jIGZ1bmN0aW9uIHdpdGhCcmlkZ2UocnVuLCBjb25maWcgPSB7fSkgewogIGNvbnN0IGggPSBhd2FpdCBicmlkZ2VIYXJuZXNzKHsgY29uZmlnOiB7IHNvY2lhbFYyOiB7CiAgICB3YWl0OiB7IG1pbk1zOiAxMDAsIG1heE1zOiAyMDAwLCBtaW5RdWlldEFmdGVyTmV3TXM6IDAgfSwKICAgIC8vIOayieedoeWJjeinguWvn+aYr+WPpuS4gOadoemXuOmXqO+8iHFxX21hcmtfcmVhZCDkvJrlm6DmraQgNDAw77yJ77yb6L+Z6YeM6KaB5rWL55qE5piv5rC05L2N77yM5YWI5YWz5o6J44CCCiAgICB3YWtlOiB7IHByZVNsZWVwV2FpdEVuYWJsZWQ6IGZhbHNlIH0sCiAgICBwcm9hY3RpdmU6IHsgZW5hYmxlZDogZmFsc2UgfSwKICAgIHN0aWNrZXI6IHsgZW5hYmxlZDogZmFsc2UgfSwKICAgIC4uLmNvbmZpZwogIH0gfSB9KTsKICBoLnNldE1vZGUoJ3Jlc2VydmVkMicpOwogIGNvbnN0IHN0ID0gaC5nZXRTb2NpYWxWMlN0YXRlKEtFWSk7CiAgY29uc3Qgc2VydmVyID0gaC5zdGFydENvbnNvbGVTZXJ2ZXIoKTsKICBpZiAoIXNlcnZlci5saXN0ZW5pbmcpIGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXJ2ZXIub25jZSgnbGlzdGVuaW5nJywgcmVzb2x2ZSkpOwogIGNvbnN0IHJlcXVlc3QgPSAocm91dGUsIHsgYm9keSwgdG9rZW4gPSBzdC5hZ2VudFRva2VuLCBrZXkgPSBLRVksIHF1ZXJ5ID0gJycgfSA9IHt9KSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCBoZWFkZXJzID0geyAneC1jb25zb2xlLXRva2VuJzogJ2ZpeHR1cmUtY29uc29sZS10b2tlbicgfTsKICAgIGlmICh0b2tlbikgaGVhZGVyc1sneC1hZ2VudC10b2tlbiddID0gdG9rZW47CiAgICBpZiAoYm9keSAhPT0gdW5kZWZpbmVkKSBoZWFkZXJzWydjb250ZW50LXR5cGUnXSA9ICdhcHBsaWNhdGlvbi9qc29uJzsKICAgIGNvbnN0IHJlcSA9IGh0dHAucmVxdWVzdCh7IGhvc3RuYW1lOiAnMTI3LjAuMC4xJywgcG9ydDogc2VydmVyLmFkZHJlc3MoKS5wb3J0LAogICAgICBwYXRoOiBgJHtyb3V0ZS5zdGFydHNXaXRoKCcvJykgPyByb3V0ZSA6IGAvYXBpL3NvY2lhbFYyLyR7cm91dGV9YH0/a2V5PSR7ZW5jb2RlVVJJQ29tcG9uZW50KGtleSl9JHtxdWVyeX1gLAogICAgICBtZXRob2Q6IGJvZHkgPT09IHVuZGVmaW5lZCA/ICdHRVQnIDogJ1BPU1QnLCBoZWFkZXJzLAogICAgfSwgKHJlcykgPT4gewogICAgICBsZXQgZGF0YSA9ICcnOwogICAgICByZXMuc2V0RW5jb2RpbmcoJ3V0ZjgnKTsKICAgICAgcmVzLm9uKCdkYXRhJywgKGNodW5rKSA9PiB7IGRhdGEgKz0gY2h1bms7IH0pOwogICAgICByZXMub24oJ2VuZCcsICgpID0+IHsKICAgICAgICB0cnkgeyByZXNvbHZlKHsgc3RhdHVzOiByZXMuc3RhdHVzQ29kZSwgZGF0YTogSlNPTi5wYXJzZShkYXRhKSB9KTsgfQogICAgICAgIGNhdGNoIChlcnJvcikgeyByZWplY3QoZXJyb3IpOyB9CiAgICAgIH0pOwogICAgfSk7CiAgICByZXEub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgIHJlcS5zZXRUaW1lb3V0KDYwMDAsICgpID0+IHJlcS5kZXN0cm95KG5ldyBFcnJvcignZml4dHVyZSBIVFRQIHJlcXVlc3QgdGltZWQgb3V0JykpKTsKICAgIHJlcS5lbmQoYm9keSA9PT0gdW5kZWZpbmVkID8gdW5kZWZpbmVkIDogSlNPTi5zdHJpbmdpZnkoeyBrZXksIC4uLmJvZHkgfSkpOwogIH0pOwogIGNvbnN0IGFwcGVuZCA9ICh0ZXh0KSA9PiB7CiAgICBjb25zdCBjdXIgPSBoLmdldFNvY2lhbFYyU3RhdGUoS0VZKTsKICAgIGNvbnN0IHNlcSA9IGN1ci5sYXN0VW5yZWFkU2VxICsgMTsKICAgIGguYXBwZW5kU29jaWFsVjJNZXNzYWdlKEtFWSwgJ2ZpeHR1cmUtcGVyc29uJywgdGV4dCwgdGV4dCwgZmFsc2UsIGZhbHNlLCBgZml4dHVyZS0ke3NlcX1gLCBbXSwgJzc4OScpOwogICAgcmV0dXJuIHNlcTsKICB9OwogIGNvbnN0IHNsZWVwID0gKG1zKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gc2V0VGltZW91dChyZXNvbHZlLCBtcykpOwogIHRyeSB7IGF3YWl0IHJ1bih7IGgsIHN0LCByZXF1ZXN0LCBhcHBlbmQsIHNsZWVwIH0pOyB9CiAgZmluYWxseSB7IGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXJ2ZXIuY2xvc2UocmVzb2x2ZSkpOyBhd2FpdCBoLmNsb3NlKCk7IH0KfQoKYXN5bmMgZnVuY3Rpb24gdGVzdChuYW1lLCBydW4sIGNvbmZpZykgewogIHRlc3RzKys7CiAgdHJ5IHsgYXdhaXQgcnVuKCk7IGNvbnNvbGUubG9nKCdQQVNTJywgbmFtZSk7IH0KICBjYXRjaCAoZXJyb3IpIHsgZmFpbHVyZXMrKzsgY29uc29sZS5lcnJvcignRkFJTCcsIG5hbWUsICfigJQnLCBlcnJvcj8uc3RhY2sgPz8gZXJyb3IpOyB9Cn0KCi8vIOKUgOKUgCAxLiDmoLjlv4PvvJrmgJ3ogIPmnJ/pl7TliLDovr7nmoTmtojmga/lv4XpobvlnKjkuIvmrKHnrYnlvoXph4zooaXkuIog4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmF3YWl0IHRlc3QoJ+aAneiAg+acn+mXtOWIsOi+vueahOa2iOaBr+S4jeWGjea8j++8muetieW+hei/lOWbnuS7juawtOS9jei1t+i/nue7reeahOS4gOautScsIGFzeW5jICgpID0+IHsKICBhd2FpdCB3aXRoQnJpZGdlKGFzeW5jICh7IGgsIHN0LCByZXF1ZXN0LCBhcHBlbmQsIHNsZWVwIH0pID0+IHsKICAgIGFwcGVuZCgn56ys5LiA5p2hJyk7IGFwcGVuZCgn56ys5LqM5p2hJyk7CiAgICAvLyDmqKHlnovmmL7lvI/or7vkuobkuIDmrKEg4oaSIOawtOS9jSAyCiAgICBjb25zdCByZWFkID0gYXdhaXQgcmVxdWVzdCgndW5yZWFkJyk7CiAgICBhc3NlcnQuZXF1YWwocmVhZC5kYXRhLnJlYWRUaHJvdWdoU2VxLCAyKTsKCiAgICAvLyDmqKHlnovlnKjmgJ3ogIMv5Y+R5raI5oGv5pyf6Ze077yM576k5Y+L5Y+I6K+05LqG5Lik5Y+l77yIc2VxIDPjgIE077yJ4oCU4oCUIOi/meS4pOadoeS7peWJjeS8muawuOi/nOa2iOWksQogICAgYXBwZW5kKCfmgJ3ogIPmnJ/pl7TmnaXnmoRBJyk7IGFwcGVuZCgn5oCd6ICD5pyf6Ze05p2l55qEQicpOwoKICAgIC8vIOaooeWei+W8gOWni+etieW+he+8jOetieW+heacn+mXtOWGjeadpeS4gOWPpe+8iHNlcSA177yJ5omN6Kem5Y+RIGFycml2ZWQKICAgIGNvbnN0IHdhaXRpbmcgPSByZXF1ZXN0KCd3YWl0JywgeyBib2R5OiB7IHB1cnBvc2U6ICdtZXNzYWdlcycsIHRpbWVvdXRNczogODAwLCBxdWlldE1zOiAwLCBtaW5OZXdNZXNzYWdlczogMSB9IH0pOwogICAgYXdhaXQgc2xlZXAoNjApOwogICAgYXBwZW5kKCfnrYnlvoXmnJ/pl7TmnaXnmoRDJyk7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCB3YWl0aW5nOwoKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuc3RhdHVzLCAyMDApOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLmFycml2ZWQsIHRydWUpOwogICAgYXNzZXJ0LmRlZXBFcXVhbChzZXFzKHJlc3VsdC5kYXRhLm5ld01lc3NhZ2VzKSwgWzMsIDQsIDVdLCAnMy8077yI5oCd6ICD5pyf6Ze077yJ5b+F6aG75ZKMIDXvvIjnrYnlvoXmnJ/pl7TvvInkuIDotbfooaXlj5EnKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5yZWFkVGhyb3VnaFNlcSwgNSwgJ+awtOS9jeW/hemhu+S4gOasoeaOqOWIsOacgOaWsO+8jOS4jeiDveWNoeWcqCAyJyk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEucGFydGlhbCwgdW5kZWZpbmVkLCAn5rKh6KKr5oiq5pat5pe25LiN6K+l5bimIHBhcnRpYWwnKTsKICAgIC8vIOaUtuWwvuWPr+S7peebtOaOpeaPkOS6pOi/meS4quawtOS9jQogICAgY29uc3QgbWFya2VkID0gYXdhaXQgcmVxdWVzdCgnbWFyay1yZWFkJywgeyBib2R5OiB7IHRocm91Z2hTZXE6IDUgfSB9KTsKICAgIGFzc2VydC5lcXVhbChtYXJrZWQuc3RhdHVzLCAyMDApOwogICAgYXNzZXJ0LmVxdWFsKG1hcmtlZC5kYXRhLnJlYWRUaHJvdWdoU2VxLCA1KTsKICAgIGFzc2VydC5lcXVhbChzdC51bnJlYWQubGVuZ3RoLCAwKTsKICB9KTsKfSk7CgovLyDilIDilIAgMi4g5bCx5piv6YKj5Liq5Y2h5q275Zy65pmv77ya5rC05L2N5LiN6IO95Zug5Li65LiA5p2h57yd6ICM5rC45LmF5YGc5L2PIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphd2FpdCB0ZXN0KCflj43lpI3lh7rnjrDjgIzmgJ3ogIPmnJ/pl7TliLDovr7jgI3kuZ/kuI3kvJrmiormsLTkvY3pkonmrbsnLCBhc3luYyAoKSA9PiB7CiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoeyBoLCByZXF1ZXN0LCBhcHBlbmQsIHNsZWVwIH0pID0+IHsKICAgIGFwcGVuZCgnYScpOyAvLyBzZXEgMQogICAgbGV0IGxhc3RUaHJvdWdoID0gKGF3YWl0IHJlcXVlc3QoJ3VucmVhZCcpKS5kYXRhLnJlYWRUaHJvdWdoU2VxOwogICAgYXNzZXJ0LmVxdWFsKGxhc3RUaHJvdWdoLCAxKTsKICAgIGZvciAobGV0IHJvdW5kID0gMTsgcm91bmQgPD0gMzsgcm91bmQgKz0gMSkgewogICAgICBhcHBlbmQoYOaAneiAg+acny0ke3JvdW5kfWApOwogICAgICBjb25zdCB3YWl0aW5nID0gcmVxdWVzdCgnd2FpdCcsIHsgYm9keTogeyBwdXJwb3NlOiAnbWVzc2FnZXMnLCB0aW1lb3V0TXM6IDgwMCwgcXVpZXRNczogMCwgbWluTmV3TWVzc2FnZXM6IDEgfSB9KTsKICAgICAgYXdhaXQgc2xlZXAoNTApOwogICAgICBhcHBlbmQoYOetieW+heacny0ke3JvdW5kfWApOwogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCB3YWl0aW5nOwogICAgICBjb25zdCBleHBlY3RUaHJvdWdoID0gMSArIHJvdW5kICogMjsKICAgICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLnJlYWRUaHJvdWdoU2VxLCBleHBlY3RUaHJvdWdoLCBg56ysICR7cm91bmR9IOi9ruawtOS9jeW6lOaOqOi/m+WIsCAke2V4cGVjdFRocm91Z2h9YCk7CiAgICAgIGFzc2VydC5vayhyZXN1bHQuZGF0YS5yZWFkVGhyb3VnaFNlcSA+IGxhc3RUaHJvdWdoLCAn5rC05L2N5b+F6aG75Y2V6LCD5YmN6L+bJyk7CiAgICAgIGxhc3RUaHJvdWdoID0gcmVzdWx0LmRhdGEucmVhZFRocm91Z2hTZXE7CiAgICB9CiAgfSk7Cn0pOwoKLy8g4pSA4pSAIDMuIHJlcGx5IOeUqOmAlOWQjOagt+S4jeivpea8jyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKYXdhaXQgdGVzdCgncmVwbHkg55So6YCU5Lmf5oqK5pyq6L+b5rC05L2N55qE5raI5oGv5bim5LiK77yI5Y+q5piv5LiN566X5rKJ552h5YmN6KeC5a+f77yJJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgcmVxdWVzdCwgYXBwZW5kIH0pID0+IHsKICAgIGFwcGVuZCgn56ys5LiA5p2hJyk7CiAgICBhd2FpdCByZXF1ZXN0KCd1bnJlYWQnKTsgLy8g5rC05L2NIDEKICAgIGFwcGVuZCgn5ryP572R5LmL6bG8Jyk7IC8vIHNlcSAyIOacqui/m+awtOS9jQogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgYm9keTogeyBwdXJwb3NlOiAncmVwbHknLCB0aW1lb3V0TXM6IDMwMCwgcXVpZXRNczogMCB9IH0pOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsIDIwMCk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKHNlcXMocmVzdWx0LmRhdGEubmV3TWVzc2FnZXMpLCBbMl0pOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLnB1cnBvc2UsICdyZXBseScpOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLnByZVNsZWVwV2FpdFNhdGlzZmllZCwgZmFsc2UsICdyZXBseSDnlKjpgJTnu53kuI3mjojkuojmsonnnaHliY3op4Llr58nKTsKICB9KTsKfSk7CgovLyDilIDilIAgNC4g5LiK6ZmQ5LiOIHBhcnRpYWzvvJrkuIDmrKHliKvlgJLlpKrlpJrvvIzkvYbkuI3og73ot7PnnYDnu5kg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmF3YWl0IHRlc3QoJ+enr+WOi+i2hei/h+S4iumZkOaXtuS7juacgOiAgeW8gOWni+e7me+8jOW5tuagh+iusCBwYXJ0aWFsJywgYXN5bmMgKCkgPT4gewogIC8vIOivtOaYju+8mnVucmVhZCDnvJPlhrLpu5jorqTlj6rnlZkgMzAg5p2h77yM6KKr5oyk5o6J55qE6ICB5raI5oGv5Lya6KKr5rC05L2N44CM6Lez6L+H44CN77yI5pei5pyJ6K6+6K6h77yaCiAgLy8g5oyk5o6J55qE562J5LqO5LiN5Lya5YaN5bGV56S677yJ44CC5omA5Lul6KaB6K6p6KGl5Y+R55yf55qE6Kem5Yiw5LiK6ZmQ77yM5b6X5YWI5oqK57yT5Yay5byA5aSn44CCCiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoeyBoLCBzdCwgcmVxdWVzdCwgYXBwZW5kLCBzbGVlcCB9KSA9PiB7CiAgICBoLmNmZy5zb2NpYWxWMi5jb250ZXh0LnVucmVhZExpbWl0ID0gNjA7CiAgICBhcHBlbmQoJ+W3suivu+eahOS4gOadoScpOwogICAgYXdhaXQgcmVxdWVzdCgndW5yZWFkJyk7IC8vIOawtOS9jSAxCiAgICBmb3IgKGxldCBpID0gMDsgaSA8IDYwOyBpICs9IDEpIGFwcGVuZChg56ev5Y6LLSR7aX1gKTsgLy8gc2VxIDIuLjYxCiAgICBjb25zdCB3YWl0aW5nID0gcmVxdWVzdCgnd2FpdCcsIHsgYm9keTogeyBwdXJwb3NlOiAnbWVzc2FnZXMnLCB0aW1lb3V0TXM6IDgwMCwgcXVpZXRNczogMCwgbWluTmV3TWVzc2FnZXM6IDEgfSB9KTsKICAgIGF3YWl0IHNsZWVwKDYwKTsKICAgIGFwcGVuZCgn6Kem5Y+R55qE5pyA5ZCO5LiA5p2hJyk7IC8vIHNlcSA2MgogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgd2FpdGluZzsKICAgIGNvbnN0IHNlcUxpc3QgPSBzZXFzKHJlc3VsdC5kYXRhLm5ld01lc3NhZ2VzKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5wYXJ0aWFsLCB0cnVlLCAn6KKr5oiq5pat5b+F6aG75pi+5byP5qCH6K6wJyk7CiAgICBhc3NlcnQuZXF1YWwoc2VxTGlzdC5sZW5ndGgsIDUwLCAn5LiA5qyh5pyA5aSa57uZIHdhaXRDYXAg5p2h77yIbWluKDUwLCBtYXgoMTIsIHVucmVhZExpbWl0KSnvvIknKTsKICAgIGFzc2VydC5vayhzZXFMaXN0WzBdIDwgMTAsIGDlv4Xpobvku47mnIDogIHnmoTpgqPnq6/lvIDlp4vnu5nvvIzlrp7pmYXotbfngrkgJHtzZXFMaXN0WzBdfWApOwogICAgZm9yIChsZXQgaSA9IDE7IGkgPCBzZXFMaXN0Lmxlbmd0aDsgaSArPSAxKSB7CiAgICAgIGFzc2VydC5lcXVhbChzZXFMaXN0W2ldLCBzZXFMaXN0W2kgLSAxXSArIDEsICflv4XpobvmmK/ov57nu63kuIDmrrXvvIjmsLTkvY3mmK/ov57nu63muLjmoIfvvIzot7PnnYDnu5nlsLHljaHkvY/vvIknKTsKICAgIH0KICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5yZWFkVGhyb3VnaFNlcSwgc2VxTGlzdFtzZXFMaXN0Lmxlbmd0aCAtIDFdLCAn5rC05L2N5Y+q5o6o6L+b5Yiw5bey5bGV56S655qE5pyA5ZCO5LiA5p2hJyk7CiAgICBhc3NlcnQub2soc3QudW5yZWFkLmxlbmd0aCA+IDAsICfmsqHlsZXnpLrlroznmoTlv4Xpobvov5jlnKjmnKror7vph4wnKTsKICAgIC8vIOe7reivu++8mmFmdGVyU2VxPXJlYWRUaHJvdWdoU2VxIOaOpeedgOW+gOWQjuaLvwogICAgY29uc3QgcmVzdCA9IGF3YWl0IHJlcXVlc3QoJ3VucmVhZCcsIHsgcXVlcnk6IGAmYWZ0ZXJTZXE9JHtyZXN1bHQuZGF0YS5yZWFkVGhyb3VnaFNlcX1gIH0pOwogICAgYXNzZXJ0LmVxdWFsKHJlc3Quc3RhdHVzLCAyMDApOwogICAgYXNzZXJ0LmVxdWFsKHJlc3QuZGF0YS5tZXNzYWdlc1swXS5zZXEsIHJlc3VsdC5kYXRhLnJlYWRUaHJvdWdoU2VxICsgMSwgJ+e7reivu+imgeS7juawtOS9jeS5i+WQjuW8gOWniycpOwogICAgYXNzZXJ0Lm9rKHJlc3QuZGF0YS5yZWFkVGhyb3VnaFNlcSA+IHJlc3VsdC5kYXRhLnJlYWRUaHJvdWdoU2VxLCAn57ut6K+75ZCO5rC05L2N57un57ut5YmN6L+bJyk7CiAgfSk7Cn0pOwoKLy8g4pSA4pSAIDUuIOaUtuWwvumXuOmXqOeahOeKtuaAgeebtOaOpeWRiuivieaooeWei++8iOWIq+iuqeWug+mdoOeMnO+8jOabtOWIq+eUqOefreetieW+heWOu+WHke+8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphd2FpdCB0ZXN0KCfnn63nrYnlvoXkuI3nrpfmsonnnaHliY3op4Llr5/vvJpjYW5TbGVlcE5vdz1mYWxzZSDkuJQgaGludCDnu5nlh7rmraPnoa7nmoQgdGltZW91dE1zJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgcmVxdWVzdCB9KSA9PiB7CiAgICAvLyDmsonnnaHliY3op4Llr5/pu5jorqTopoEgMTgwc++8m+i/memHjOaVheaEj+eUqCAzMDBtcyDnmoTnn63nrYnlvoXljrsi5YeRIu+8jOmXuOmXqOS4jeivpeiupAogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgYm9keTogeyBwdXJwb3NlOiAnbWVzc2FnZXMnLCB0aW1lb3V0TXM6IDMwMCwgcXVpZXRNczogMCwgbWluTmV3TWVzc2FnZXM6IDEgfSB9KTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuc3RhdHVzLCAyMDApOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLmNhblNsZWVwTm93LCBmYWxzZSwgJ+WImuWPkei/h+a2iOaBr+S4jeWPr+iDveeri+WIu+aUvuihjCcpOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLmNvdW50c0FzT2JzZXJ2YXRpb24sIGZhbHNlLCAndGltZW91dE1zIDwg6KeC5a+f56qX5Y+jIOKHkiDkuI3nrpfop4Llr58nKTsKICAgIGFzc2VydC5tYXRjaChyZXN1bHQuZGF0YS5oaW50LCAvcXFfd2FpdF9mb3JfbWVzc2FnZXNcKHRpbWVvdXRNcz0xODAwMDBcKS8sICflv4Xpobvnu5nlh7ror6Xlj5HnmoTlh4bnoa7lj4LmlbAnKTsKICAgIGFzc2VydC5tYXRjaChyZXN1bHQuZGF0YS5oaW50LCAv5LiN6L6+5qCHLywgJ+imgeeCueaYjuacrOasoeS4jei+vuaghycpOwogICAgYXNzZXJ0Lm1hdGNoKHJlc3VsdC5kYXRhLmhpbnQsIC/ov5jpnIDnuqYgXGQrIOenki8sICfopoHnu5nlh7rov5jlt67lpJrlsJHnp5InKTsKICB9LCB7IHdha2U6IHsgcHJlU2xlZXBXYWl0RW5hYmxlZDogdHJ1ZSwgcHJlU2xlZXBXYWl0TXM6IDE4MDAwMCB9IH0pOwp9KTsKCmF3YWl0IHRlc3QoJ+mXuOmXqOaUvuihjOaXtuaYjuehruivtOOAjOWPr+S7peebtOaOpeaUtuWwvuOAjScsIGFzeW5jICgpID0+IHsKICBhd2FpdCB3aXRoQnJpZGdlKGFzeW5jICh7IHJlcXVlc3QsIGFwcGVuZCwgc2xlZXAgfSkgPT4gewogICAgYXBwZW5kKCfkuIDlj6Xor50nKTsKICAgIGF3YWl0IHNsZWVwKDI2MCk7IC8vIOinguWvn+eql+WPo+mFjeaIkCAyMDBtc++8jOWuiemdmeWkn+S6hgogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgYm9keTogeyBwdXJwb3NlOiAnbWVzc2FnZXMnLCB0aW1lb3V0TXM6IDIwMCwgcXVpZXRNczogMCwgbWluTmV3TWVzc2FnZXM6IDEgfSB9KTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuc3RhdHVzLCAyMDApOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLmNhblNsZWVwTm93LCB0cnVlLCBg5a6J6Z2Z5ruh56qX5Y+j5ZCO5bqU5pS+6KGM77yaJHtKU09OLnN0cmluZ2lmeShyZXN1bHQuZGF0YS5oaW50KX1gKTsKICAgIGFzc2VydC5tYXRjaChyZXN1bHQuZGF0YS5oaW50LCAv5Y+v5Lul55u05o6l5pS25bC+Lyk7CiAgICBhc3NlcnQuZG9lc05vdE1hdGNoKHJlc3VsdC5kYXRhLmhpbnQsIC/ov5jkuI3og73mlLblsL4vKTsKICB9LCB7IHdha2U6IHsgcHJlU2xlZXBXYWl0RW5hYmxlZDogdHJ1ZSwgcHJlU2xlZXBXYWl0TXM6IDIwMCB9IH0pOwp9KTsKCmF3YWl0IHRlc3QoJ3B1cnBvc2U9cmVwbHkg5LiN5bim5pS25bC+6Ze46Zeo5a2X5q6177yI5YWN5b6X6K+v5a+86aaW562U5YmN5bCx5Y67552h77yJJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKHsgcmVxdWVzdCwgYXBwZW5kIH0pID0+IHsKICAgIGFwcGVuZCgn5Zyo5ZCXJyk7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCByZXF1ZXN0KCd3YWl0JywgeyBib2R5OiB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMjAwLCBxdWlldE1zOiAwIH0gfSk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LnN0YXR1cywgMjAwKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5jYW5TbGVlcE5vdywgdW5kZWZpbmVkKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5jb3VudHNBc09ic2VydmF0aW9uLCB1bmRlZmluZWQpOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLmhpbnQsIHVuZGVmaW5lZCk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEucHJlU2xlZXBXYWl0UmVtYWluaW5nTXMsIHVuZGVmaW5lZCk7CiAgfSwgeyB3YWtlOiB7IHByZVNsZWVwV2FpdEVuYWJsZWQ6IHRydWUsIHByZVNsZWVwV2FpdE1zOiAxODAwMDAgfSB9KTsKfSk7Cgpjb25zb2xlLmxvZyhgXG4ke2ZhaWx1cmVzID8gJ0ZBSUxFRCcgOiAnQUxMIFBBU1MnfSAgdGVzdHM9JHt0ZXN0c30gZmFpbHVyZXM9JHtmYWlsdXJlc31gKTsKaWYgKGZhaWx1cmVzKSBwcm9jZXNzLmV4aXQoMSk7Cg==
+// qq_wait_for_messages 的「漏消息窗口」回归（2026-10-18 修）。
+//
+// 真实故障：模型在思考/发消息那几秒里到达的消息，会落进等待窗口的缝里 ——
+//   旧实现按 `seq > 请求开始时的 lastUnreadSeq` 取 newMessages，于是这些消息
+//   ① 本次不返回；② 下次请求的基线已经越过它们 ⇒ 永远不会展示给模型；
+//   ③ 又因为 readThroughSeq 是连续游标，它们会把水位永久钉住。
+// 实测会话末段：readThroughSeq 卡在 185，而模型已经看过 205；期间有人 @ 也没进本回合。
+//
+// 本文件验证修复后的契约：凡未进水位的一律补发、从最老的开始、被上限截断时 partial=true。
+import assert from 'node:assert/strict';
+import http from 'node:http';
+import { bridgeHarness } from './audit-bridge-harness.mjs';
+
+const KEY = 'group:456';
+const seqs = (messages) => Array.from(messages, (m) => m.seq);
+let failures = 0;
+let tests = 0;
+
+async function withBridge(run, config = {}) {
+  const h = await bridgeHarness({ config: { socialV2: {
+    wait: { minMs: 100, maxMs: 2000, minQuietAfterNewMs: 0 },
+    // 沉睡前观察是另一条闸门（qq_mark_read 会因此 400）；这里要测的是水位，先关掉。
+    wake: { preSleepWaitEnabled: false },
+    proactive: { enabled: false },
+    sticker: { enabled: false },
+    ...config
+  } } });
+  h.setMode('reserved2');
+  const st = h.getSocialV2State(KEY);
+  const server = h.startConsoleServer();
+  if (!server.listening) await new Promise((resolve) => server.once('listening', resolve));
+  const request = (route, { body, token = st.agentToken, key = KEY, query = '' } = {}) => new Promise((resolve, reject) => {
+    const headers = { 'x-console-token': 'fixture-console-token' };
+    if (token) headers['x-agent-token'] = token;
+    if (body !== undefined) headers['content-type'] = 'application/json';
+    const req = http.request({ hostname: '127.0.0.1', port: server.address().port,
+      path: `${route.startsWith('/') ? route : `/api/socialV2/${route}`}?key=${encodeURIComponent(key)}${query}`,
+      method: body === undefined ? 'GET' : 'POST', headers,
+    }, (res) => {
+      let data = '';
+      res.setEncoding('utf8');
+      res.on('data', (chunk) => { data += chunk; });
+      res.on('end', () => {
+        try { resolve({ status: res.statusCode, data: JSON.parse(data) }); }
+        catch (error) { reject(error); }
+      });
+    });
+    req.on('error', reject);
+    req.setTimeout(6000, () => req.destroy(new Error('fixture HTTP request timed out')));
+    req.end(body === undefined ? undefined : JSON.stringify({ key, ...body }));
+  });
+  const append = (text) => {
+    const cur = h.getSocialV2State(KEY);
+    const seq = cur.lastUnreadSeq + 1;
+    h.appendSocialV2Message(KEY, 'fixture-person', text, text, false, false, `fixture-${seq}`, [], '789');
+    return seq;
+  };
+  const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+  try { await run({ h, st, request, append, sleep }); }
+  finally { await new Promise((resolve) => server.close(resolve)); await h.close(); }
+}
+
+async function test(name, run, config) {
+  tests++;
+  try { await run(); console.log('PASS', name); }
+  catch (error) { failures++; console.error('FAIL', name, '—', error?.stack ?? error); }
+}
+
+// ── 1. 核心：思考期间到达的消息必须在下次等待里补上 ─────────────────────────
+await test('思考期间到达的消息不再漏：等待返回从水位起连续的一段', async () => {
+  await withBridge(async ({ h, st, request, append, sleep }) => {
+    append('第一条'); append('第二条');
+    // 模型显式读了一次 → 水位 2
+    const read = await request('unread');
+    assert.equal(read.data.readThroughSeq, 2);
+
+    // 模型在思考/发消息期间，群友又说了两句（seq 3、4）—— 这两条以前会永远消失
+    append('思考期间来的A'); append('思考期间来的B');
+
+    // 模型开始等待，等待期间再来一句（seq 5）才触发 arrived
+    const waiting = request('wait', { body: { purpose: 'messages', timeoutMs: 800, quietMs: 0, minNewMessages: 1 } });
+    await sleep(60);
+    append('等待期间来的C');
+    const result = await waiting;
+
+    assert.equal(result.status, 200);
+    assert.equal(result.data.arrived, true);
+    assert.deepEqual(seqs(result.data.newMessages), [3, 4, 5], '3/4（思考期间）必须和 5（等待期间）一起补发');
+    assert.equal(result.data.readThroughSeq, 5, '水位必须一次推到最新，不能卡在 2');
+    assert.equal(result.data.partial, undefined, '没被截断时不该带 partial');
+    // 收尾可以直接提交这个水位
+    const marked = await request('mark-read', { body: { throughSeq: 5 } });
+    assert.equal(marked.status, 200);
+    assert.equal(marked.data.readThroughSeq, 5);
+    assert.equal(st.unread.length, 0);
+  });
+});
+
+// ── 2. 就是那个卡死场景：水位不能因为一条缝而永久停住 ──────────────────────
+await test('反复出现「思考期间到达」也不会把水位钉死', async () => {
+  await withBridge(async ({ h, request, append, sleep }) => {
+    append('a'); // seq 1
+    let lastThrough = (await request('unread')).data.readThroughSeq;
+    assert.equal(lastThrough, 1);
+    for (let round = 1; round <= 3; round += 1) {
+      append(`思考期-${round}`);
+      const waiting = request('wait', { body: { purpose: 'messages', timeoutMs: 800, quietMs: 0, minNewMessages: 1 } });
+      await sleep(50);
+      append(`等待期-${round}`);
+      const result = await waiting;
+      const expectThrough = 1 + round * 2;
+      assert.equal(result.data.readThroughSeq, expectThrough, `第 ${round} 轮水位应推进到 ${expectThrough}`);
+      assert.ok(result.data.readThroughSeq > lastThrough, '水位必须单调前进');
+      lastThrough = result.data.readThroughSeq;
+    }
+  });
+});
+
+// ── 3. reply 用途同样不该漏 ─────────────────────────────────────────────────
+await test('reply 用途也把未进水位的消息带上（只是不算沉睡前观察）', async () => {
+  await withBridge(async ({ request, append }) => {
+    append('第一条');
+    await request('unread'); // 水位 1
+    append('漏网之鱼'); // seq 2 未进水位
+    const result = await request('wait', { body: { purpose: 'reply', timeoutMs: 300, quietMs: 0 } });
+    assert.equal(result.status, 200);
+    assert.deepEqual(seqs(result.data.newMessages), [2]);
+    assert.equal(result.data.purpose, 'reply');
+    assert.equal(result.data.preSleepWaitSatisfied, false, 'reply 用途绝不授予沉睡前观察');
+  });
+});
+
+// ── 4. 上限与 partial：一次别倒太多，但不能跳着给 ──────────────────────────
+await test('积压超过上限时从最老开始给，并标记 partial', async () => {
+  // 说明：unread 缓冲默认只留 30 条，被挤掉的老消息会被水位「跳过」（既有设计：
+  // 挤掉的等于不会再展示）。所以要让补发真的触到上限，得先把缓冲开大。
+  await withBridge(async ({ h, st, request, append, sleep }) => {
+    h.cfg.socialV2.context.unreadLimit = 60;
+    append('已读的一条');
+    await request('unread'); // 水位 1
+    for (let i = 0; i < 60; i += 1) append(`积压-${i}`); // seq 2..61
+    const waiting = request('wait', { body: { purpose: 'messages', timeoutMs: 800, quietMs: 0, minNewMessages: 1 } });
+    await sleep(60);
+    append('触发的最后一条'); // seq 62
+    const result = await waiting;
+    const seqList = seqs(result.data.newMessages);
+    assert.equal(result.data.partial, true, '被截断必须显式标记');
+    assert.equal(seqList.length, 50, '一次最多给 waitCap 条（min(50, max(12, unreadLimit))）');
+    assert.ok(seqList[0] < 10, `必须从最老的那端开始给，实际起点 ${seqList[0]}`);
+    for (let i = 1; i < seqList.length; i += 1) {
+      assert.equal(seqList[i], seqList[i - 1] + 1, '必须是连续一段（水位是连续游标，跳着给就卡住）');
+    }
+    assert.equal(result.data.readThroughSeq, seqList[seqList.length - 1], '水位只推进到已展示的最后一条');
+    assert.ok(st.unread.length > 0, '没展示完的必须还在未读里');
+    // 续读：afterSeq=readThroughSeq 接着往后拿
+    const rest = await request('unread', { query: `&afterSeq=${result.data.readThroughSeq}` });
+    assert.equal(rest.status, 200);
+    assert.equal(rest.data.messages[0].seq, result.data.readThroughSeq + 1, '续读要从水位之后开始');
+    assert.ok(rest.data.readThroughSeq > result.data.readThroughSeq, '续读后水位继续前进');
+  });
+});
+
+// ── 5. 收尾闸门的状态直接告诉模型（别让它靠猜，更别用短等待去凑）─────────────
+await test('短等待不算沉睡前观察：canSleepNow=false 且 hint 给出正确的 timeoutMs', async () => {
+  await withBridge(async ({ request }) => {
+    // 沉睡前观察默认要 180s；这里故意用 300ms 的短等待去"凑"，闸门不该认
+    const result = await request('wait', { body: { purpose: 'messages', timeoutMs: 300, quietMs: 0, minNewMessages: 1 } });
+    assert.equal(result.status, 200);
+    assert.equal(result.data.canSleepNow, false, '刚发过消息不可能立刻放行');
+    assert.equal(result.data.countsAsObservation, false, 'timeoutMs < 观察窗口 ⇒ 不算观察');
+    assert.match(result.data.hint, /qq_wait_for_messages\(timeoutMs=180000\)/, '必须给出该发的准确参数');
+    assert.match(result.data.hint, /不达标/, '要点明本次不达标');
+    assert.match(result.data.hint, /还需约 \d+ 秒/, '要给出还差多少秒');
+  }, { wake: { preSleepWaitEnabled: true, preSleepWaitMs: 180000 } });
+});
+
+await test('闸门放行时明确说「可以直接收尾」', async () => {
+  await withBridge(async ({ request, append, sleep }) => {
+    append('一句话');
+    await sleep(260); // 观察窗口配成 200ms，安静够了
+    const result = await request('wait', { body: { purpose: 'messages', timeoutMs: 200, quietMs: 0, minNewMessages: 1 } });
+    assert.equal(result.status, 200);
+    assert.equal(result.data.canSleepNow, true, `安静满窗口后应放行：${JSON.stringify(result.data.hint)}`);
+    assert.match(result.data.hint, /可以直接收尾/);
+    assert.doesNotMatch(result.data.hint, /还不能收尾/);
+  }, { wake: { preSleepWaitEnabled: true, preSleepWaitMs: 200 } });
+});
+
+await test('purpose=reply 不带收尾闸门字段（免得误导首答前就去睡）', async () => {
+  await withBridge(async ({ request, append }) => {
+    append('在吗');
+    const result = await request('wait', { body: { purpose: 'reply', timeoutMs: 200, quietMs: 0 } });
+    assert.equal(result.status, 200);
+    assert.equal(result.data.canSleepNow, undefined);
+    assert.equal(result.data.countsAsObservation, undefined);
+    assert.equal(result.data.hint, undefined);
+    assert.equal(result.data.preSleepWaitRemainingMs, undefined);
+  }, { wake: { preSleepWaitEnabled: true, preSleepWaitMs: 180000 } });
+});
+
+console.log(`\n${failures ? 'FAILED' : 'ALL PASS'}  tests=${tests} failures=${failures}`);
+if (failures) process.exit(1);

@@ -1,1 +1,22 @@
-Ly8gZHNoLXFxLWJyaWRnZSDmj5Lku7blhaXlj6PvvIhDb3JkaXMg5o+S5Lu277yJCi8vIOiBjOi0o++8muazqOWGjCBxcS1tb2RlIOiuvue9ruWRveWQjeepuumXtO+8iOS+m+ahpeaOpeaKiuaooeW8j+WGmeepv+i/myBEU0gg6K6+572u77yJ44CCCi8vIOahpeaOpeacrOS9k+aYr+eLrOeriyBOb2RlIOacjeWKoe+8iGJyaWRnZS8g55uu5b2V77yJ77yM55Sx6YOo572y6ISa5pys5ouJ6LW377ybCi8vIE1DUCDmnI3liqHkuI4gYWdlbnQgcHJlc2V0cyDpgJrov4cgY29yZGlzLnBhdGNoLnltbCAvIHByZXNldHMvKi5wYXRjaC55bWwg5rOo5YaM44CCCmltcG9ydCB7IENvbnRleHQsIFNjaGVtYSB9IGZyb20gJ2NvcmRpcyc7CgpleHBvcnQgY29uc3QgbmFtZSA9ICdxcS1tb2RlLWNvbnNvbGUnOwpleHBvcnQgY29uc3QgUVFNT0RFX05BTUVTUEFDRSA9ICdxcS1tb2RlJzsKCmV4cG9ydCBjb25zdCBpbmplY3QgPSB7fTsKCmV4cG9ydCBmdW5jdGlvbiBhcHBseShjdHgpIHsKICBjb25zdCBzY2hlbWEgPSBTY2hlbWEub2JqZWN0KHsKICAgIG1vZGU6IFNjaGVtYS51bmlvbignY2hhdCcsICdjbG9zZWQtYWdlbnQnLCAncmVzZXJ2ZWQnLCAncmVzZXJ2ZWQyJykuZGVmYXVsdCgnY2hhdCcpCiAgICAgIC5kZXNjcmlwdGlvbignUVEg5qGl5o6l5qih5byP77yaY2hhdD3mma7pgJrliqnmiYsgLyBjbG9zZWQtYWdlbnQ95bCB6Zet5Luj55CGIC8gcmVzZXJ2ZWQ95L+d5a6IIC8gcmVzZXJ2ZWQyPeS6jOS7o+S7v+ecn++8iOiusOW/hsK35oOF57uqwrfllKTphpLvvIknKSwKICB9KTsKICBjdHguc2V0dGluZygncXEtbW9kZScsIHNjaGVtYSwge30pOwp9CgpleHBvcnQgY29uc3QgQ29uZmlnID0gU2NoZW1hLmludGVyc2VjdChbCiAgU2NoZW1hLm9iamVjdCh7IG1vZGU6IFNjaGVtYS5zdHJpbmcoKS5kZWZhdWx0KCdjaGF0JykgfSksCl0pOwo=
+// dsh-qq-bridge 插件入口（Cordis 插件）
+// 职责：注册 qq-mode 设置命名空间（供桥接把模式写穿进 DSH 设置）。
+// 桥接本体是独立 Node 服务（bridge/ 目录），由部署脚本拉起；
+// MCP 服务与 agent presets 通过 cordis.patch.yml / presets/*.patch.yml 注册。
+import { Context, Schema } from 'cordis';
+
+export const name = 'qq-mode-console';
+export const QQMODE_NAMESPACE = 'qq-mode';
+
+export const inject = {};
+
+export function apply(ctx) {
+  const schema = Schema.object({
+    mode: Schema.union('chat', 'closed-agent', 'reserved', 'reserved2').default('chat')
+      .description('QQ 桥接模式：chat=普通助手 / closed-agent=封闭代理 / reserved=保守 / reserved2=二代仿真（记忆·情绪·唤醒）'),
+  });
+  ctx.setting('qq-mode', schema, {});
+}
+
+export const Config = Schema.intersect([
+  Schema.object({ mode: Schema.string().default('chat') }),
+]);

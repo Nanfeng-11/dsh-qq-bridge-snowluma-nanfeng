@@ -1,1 +1,188 @@
-Ly8g6Z+z6YeP6LCD6IqC6Ieq5qOA77yaCi8vICAgMSkg5Y+C5pWw6Kej5p6Q5LiO6IyD5Zu05qCh6aqM77yI5YCN5pWwL+aZuuiDveWTjeW6puaho+S9jS/pnZ7ms5XlgLzvvIkKLy8gICAyKSAqKuecn+eahOiwg+mfs+mHjyoq77ya55SoIGZmbXBlZyDnlJ/miJDlt7Lnn6XnlLXlubPnmoTmraPlvKbms6Ig4oaSIOWkhOeQhuWQjueUqCB2b2x1bWVkZXRlY3Qg6YeP5Zue5p2l77yMCi8vICAgICAg6aqM6K+B5aKe55uK56Gu5a6e5oyJ5YCN5pWw55Sf5pWI77yI6L+Z5pivIuWKn+iDveecn+eahOacieeUqCLnmoTor4Hmja7vvIzkuI3mmK/lj6rot5HpgJrlj4LmlbDvvIkKLy8gICAzKSDljp/moLfvvIh2b2x1bWU9Me+8ieS4jeS6p+eUn+aWsOaWh+S7tu+8m+S4tOaXtuaWh+S7tuiDvea4heeQhgppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBvcyBmcm9tICdub2RlOm9zJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgc3Bhd24gfSBmcm9tICdub2RlOmNoaWxkX3Byb2Nlc3MnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgewogIExPVURORVNTX1RBUkdFVFMsIFZPTFVNRV9NQVgsIFZPTFVNRV9NSU4sCiAgY2xlYW51cFRlbXAsIHByb2Nlc3NBdWRpb1ZvbHVtZSwgcmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZwp9IGZyb20gJy4uL3NyYy92b2ljZS1jb3JlLmpzJzsKCmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUocGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwpsZXQgcGFzcyA9IDA7CmxldCBmYWlsID0gMDsKY29uc3Qgb2sgPSAoY29uZCwgbmFtZSwgZXh0cmEgPSAnJykgPT4gewogIGlmIChjb25kKSB7IHBhc3MgKz0gMTsgY29uc29sZS5sb2coYCAg4pyFICR7bmFtZX0ke2V4dHJhID8gJyDigJQgJyArIGV4dHJhIDogJyd9YCk7IH0KICBlbHNlIHsgZmFpbCArPSAxOyBjb25zb2xlLmVycm9yKGAgIOKdjCAke25hbWV9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOyB9Cn07CgovLyDlpJbpg6jov5vnqIvot5HkuIDmrKHvvIhzdGRpbyBpZ25vcmXvvIzlhbzlrrnlj5fpmZDmspnnrrHvvIkKZnVuY3Rpb24gcnVuKGJpbiwgYXJncywgdGltZW91dE1zID0gNjAwMDApIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUpID0+IHsKICAgIGxldCBjaGlsZDsKICAgIHRyeSB7IGNoaWxkID0gc3Bhd24oYmluLCBhcmdzLCB7IHdpbmRvd3NIaWRlOiB0cnVlLCBzdGRpbzogJ2lnbm9yZScgfSk7IH0KICAgIGNhdGNoIChlKSB7IHJlc29sdmUoeyBjb2RlOiAtMSwgZXJyb3I6IGUubWVzc2FnZSB9KTsgcmV0dXJuOyB9CiAgICBjb25zdCB0aW1lciA9IHNldFRpbWVvdXQoKCkgPT4geyB0cnkgeyBjaGlsZC5raWxsKCk7IH0gY2F0Y2gge30gcmVzb2x2ZSh7IGNvZGU6IC0yLCBlcnJvcjogJ3RpbWVvdXQnIH0pOyB9LCB0aW1lb3V0TXMpOwogICAgY2hpbGQub24oJ2Vycm9yJywgKGUpID0+IHsgY2xlYXJUaW1lb3V0KHRpbWVyKTsgcmVzb2x2ZSh7IGNvZGU6IC0xLCBlcnJvcjogZS5jb2RlIHx8IGUubWVzc2FnZSB9KTsgfSk7CiAgICBjaGlsZC5vbignY2xvc2UnLCAoY29kZSkgPT4geyBjbGVhclRpbWVvdXQodGltZXIpOyByZXNvbHZlKHsgY29kZSB9KTsgfSk7CiAgfSk7Cn0KY29uc3QgZmZtcGVnID0gKGFyZ3MsIHQpID0+IHJ1bihwcm9jZXNzLmVudi5GRk1QRUdfUEFUSCB8fCAnZmZtcGVnJywgYXJncywgdCk7CmNvbnN0IGZmcHJvYmUgPSAoYXJncywgdCkgPT4gcnVuKHByb2Nlc3MuZW52LkZGUFJPQkVfUEFUSCB8fCAnZmZwcm9iZScsIGFyZ3MsIHQpOwoKLyoqCiAqIOiHquW3seeulyBXQVYg55qEIFJNUyDnlLXlubPvvIhkQkZT77yJ4oCU4oCU5LiN5L6d6LWWIGZmbXBlZyDnmoTnu5/orqHovpPlh7rjgIIKICoKICog5Li65LuA5LmI5LiN55SoIGB2b2x1bWVkZXRlY3RgL2Bhc3RhdHNg77ya5a6D5Lus55qE57uf6K6h6LWwIHN0ZGVycu+8iOWPl+mZkOaymeeusemHjCBzcGF3biDnmoQKICogc3RkaW86cGlwZSDkvJrooqvmi5LvvInvvIzogIwgYGFtZXRhZGF0YT1maWxlPS4uLmAg5Y+I5Lya6KKrIFdpbmRvd3Mg6Lev5b6E6YeM55qEIGA6YCDnoLTlnY8KICogZmlsdGVyZ3JhcGgg6K+t5rOV44CC55u05o6l6Kej5p6QIFdBViDnmoQgUENNIOaVsOaNruacgOWPr+mdoO+8jOS5n+WujOWFqOaYr+ehruWumuaAp+eahOOAggogKi8KZnVuY3Rpb24gd2F2Um1zKGZpbGUpIHsKICB0cnkgewogICAgY29uc3QgYnVmID0gZnMucmVhZEZpbGVTeW5jKGZpbGUpOwogICAgaWYgKGJ1Zi50b1N0cmluZygnYXNjaWknLCAwLCA0KSAhPT0gJ1JJRkYnIHx8IGJ1Zi50b1N0cmluZygnYXNjaWknLCA4LCAxMikgIT09ICdXQVZFJykgcmV0dXJuIG51bGw7CiAgICBsZXQgb2Zmc2V0ID0gMTI7CiAgICBsZXQgZm10ID0gbnVsbDsKICAgIGxldCBkYXRhID0gbnVsbDsKICAgIHdoaWxlIChvZmZzZXQgKyA4IDw9IGJ1Zi5sZW5ndGgpIHsKICAgICAgY29uc3QgaWQgPSBidWYudG9TdHJpbmcoJ2FzY2lpJywgb2Zmc2V0LCBvZmZzZXQgKyA0KTsKICAgICAgY29uc3Qgc2l6ZSA9IGJ1Zi5yZWFkVUludDMyTEUob2Zmc2V0ICsgNCk7CiAgICAgIGNvbnN0IGJvZHkgPSBvZmZzZXQgKyA4OwogICAgICBpZiAoaWQgPT09ICdmbXQgJykgewogICAgICAgIGZtdCA9IHsgY2hhbm5lbHM6IGJ1Zi5yZWFkVUludDE2TEUoYm9keSArIDIpLCBiaXRzOiBidWYucmVhZFVJbnQxNkxFKGJvZHkgKyAxNCkgfTsKICAgICAgfSBlbHNlIGlmIChpZCA9PT0gJ2RhdGEnKSB7CiAgICAgICAgZGF0YSA9IGJ1Zi5zdWJhcnJheShib2R5LCBNYXRoLm1pbihib2R5ICsgc2l6ZSwgYnVmLmxlbmd0aCkpOwogICAgICAgIGJyZWFrOwogICAgICB9CiAgICAgIG9mZnNldCA9IGJvZHkgKyBzaXplICsgKHNpemUgJSAyKTsKICAgIH0KICAgIGlmICghZm10IHx8ICFkYXRhIHx8IGZtdC5iaXRzICE9PSAxNikgcmV0dXJuIG51bGw7CiAgICBjb25zdCBzYW1wbGVzID0gTWF0aC5mbG9vcihkYXRhLmxlbmd0aCAvIDIpOwogICAgaWYgKHNhbXBsZXMgPT09IDApIHJldHVybiBudWxsOwogICAgbGV0IHN1bSA9IDA7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHNhbXBsZXM7IGkrKykgewogICAgICBjb25zdCB2ID0gZGF0YS5yZWFkSW50MTZMRShpICogMikgLyAzMjc2ODsKICAgICAgc3VtICs9IHYgKiB2OwogICAgfQogICAgY29uc3Qgcm1zID0gTWF0aC5zcXJ0KHN1bSAvIHNhbXBsZXMpOwogICAgcmV0dXJuIHJtcyA9PT0gMCA/IC1JbmZpbml0eSA6IDIwICogTWF0aC5sb2cxMChybXMpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIG51bGw7CiAgfQp9CgovKiog55SoIHZvbHVtZWRldGVjdC9hc3RhdHMg5LmL57G755qE5ruk6ZWc6LeR5LiA6YGN77yI57uf6K6h6buY6K6k5YaZIHN0ZGVycu+8jOi/memHjOWPquWFs+W/g+iDveWQpuino+egge+8iSAqLwphc3luYyBmdW5jdGlvbiBtZWFzdXJlKGZpbGUpIHsKICByZXR1cm4gZmZtcGVnKFsnLWhpZGVfYmFubmVyJywgJy1pJywgZmlsZSwgJy1hZicsICd2b2x1bWVkZXRlY3QnLCAnLWYnLCAnbnVsbCcsIG9zLmRldk51bGxdLCAzMDAwMCk7Cn0KCmNvbnNvbGUubG9nKCcjIyDlj4LmlbDop6PmnpAnKTsKewogIG9rKHJlc29sdmVBdWRpb1Byb2Nlc3NpbmcoeyB2b2x1bWU6IDEgfSkudm9sdW1lID09PSAxLCAndm9sdW1lPTEg4oaSIOWOn+agtycpOwogIG9rKHJlc29sdmVBdWRpb1Byb2Nlc3NpbmcoeyB2b2x1bWU6IDIuNSB9KS52b2x1bWUgPT09IDIuNSwgJ3ZvbHVtZT0yLjUg6YCa6L+HJyk7CiAgb2socmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZyh7IHZvbHVtZTogVk9MVU1FX01JTiB9KS52b2x1bWUgPT09IFZPTFVNRV9NSU4sIGDkuIvpmZAgJHtWT0xVTUVfTUlOfSDpgJrov4dgKTsKICBvayhyZXNvbHZlQXVkaW9Qcm9jZXNzaW5nKHsgdm9sdW1lOiBWT0xVTUVfTUFYIH0pLnZvbHVtZSA9PT0gVk9MVU1FX01BWCwgYOS4iumZkCAke1ZPTFVNRV9NQVh9IOmAmui/h2ApOwogIGxldCB0aHJldyA9IGZhbHNlOwogIHRyeSB7IHJlc29sdmVBdWRpb1Byb2Nlc3NpbmcoeyB2b2x1bWU6IFZPTFVNRV9NQVggKyAwLjEgfSk7IH0gY2F0Y2ggeyB0aHJldyA9IHRydWU7IH0KICBvayh0aHJldywgJ+i2heS4iumZkOiiq+aLkicpOwogIHRocmV3ID0gZmFsc2U7CiAgdHJ5IHsgcmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZyh7IHZvbHVtZTogMCB9KTsgfSBjYXRjaCB7IHRocmV3ID0gdHJ1ZTsgfQogIG9rKHRocmV3LCAn6Z+z6YePIDAg6KKr5ouS77yI5LiN5piv6Z2Z6Z+z5byA5YWz77yJJyk7CiAgb2socmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZyh7IG5vcm1hbGl6ZTogdHJ1ZSwgbG91ZG5lc3M6ICdxdWlldCcgfSkubG91ZG5lc3MgPT09IExPVURORVNTX1RBUkdFVFMucXVpZXQsICdxdWlldCDmoaMg4oaSIC0yMCBMVUZTJyk7CiAgb2socmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZyh7IG5vcm1hbGl6ZTogdHJ1ZSwgbG91ZG5lc3M6ICdsb3VkJyB9KS5sb3VkbmVzcyA9PT0gTE9VRE5FU1NfVEFSR0VUUy5sb3VkLCAnbG91ZCDmoaMg4oaSIC0xMyBMVUZTJyk7CiAgb2socmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZyh7IG5vcm1hbGl6ZTogdHJ1ZSB9KS5sb3VkbmVzcyA9PT0gTE9VRE5FU1NfVEFSR0VUUy5ub3JtYWwsICfpu5jorqQgbm9ybWFsIOahoycpOwogIG9rKHJlc29sdmVBdWRpb1Byb2Nlc3NpbmcoeyBub3JtYWxpemU6IHRydWUsIGxvdWRuZXNzOiAtMTggfSkubG91ZG5lc3MgPT09IC0xOCwgJ+WPr+ebtOaOpee7mSBMVUZTIOaVsOWtlycpOwogIHRocmV3ID0gZmFsc2U7CiAgdHJ5IHsgcmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZyh7IG5vcm1hbGl6ZTogdHJ1ZSwgbG91ZG5lc3M6IC02MCB9KTsgfSBjYXRjaCB7IHRocmV3ID0gdHJ1ZTsgfQogIG9rKHRocmV3LCAn6LaK55WMIExVRlMg6KKr5ouSJyk7CiAgdGhyZXcgPSBmYWxzZTsKICB0cnkgeyByZXNvbHZlQXVkaW9Qcm9jZXNzaW5nKHsgbm9ybWFsaXplOiB0cnVlLCBsb3VkbmVzczogJ25vcGUnIH0pOyB9IGNhdGNoIHsgdGhyZXcgPSB0cnVlOyB9CiAgb2sodGhyZXcsICfmnKrnn6XmoaPkvY3ooqvmi5InKTsKICBvayhyZXNvbHZlQXVkaW9Qcm9jZXNzaW5nKHsgbm9ybWFsaXplOiB0cnVlLCB2b2x1bWU6IDMgfSkubG91ZG5lc3MgIT09IG51bGwsICdub3JtYWxpemUg5LyY5YWI5LqOIHZvbHVtZe+8iOS6kuaWpe+8iScpOwp9Cgpjb25zb2xlLmxvZygnIyMg5Y6f5qC35LiN5Yqg5aSE55CGJyk7CnsKICBjb25zdCB0bXAgPSBmcy5ta2R0ZW1wU3luYyhwYXRoLmpvaW4ob3MudG1wZGlyKCksICd2b2wtc3JjLScpKTsKICBjb25zdCBzcmMgPSBwYXRoLmpvaW4odG1wLCAndG9uZS53YXYnKTsKICBjb25zdCByID0gYXdhaXQgZmZtcGVnKFsnLWhpZGVfYmFubmVyJywgJy1sb2dsZXZlbCcsICdlcnJvcicsICcteScsICctZicsICdsYXZmaScsICctaScsICdzaW5lPWZyZXF1ZW5jeT00NDA6ZHVyYXRpb249MScsICctYWMnLCAnMScsICctYXInLCAnMjQwMDAnLCBzcmNdKTsKICBpZiAoci5jb2RlICE9PSAwKSB7CiAgICBjb25zb2xlLmxvZyhgICDij60gIOi3s+i/h++8muacrOeOr+Wig+aXoOazlei/kOihjCBmZm1wZWfvvIgke3IuZXJyb3IgPz8gci5jb2Rlfe+8iWApOwogIH0gZWxzZSB7CiAgICBjb25zdCBzYW1lID0gYXdhaXQgcHJvY2Vzc0F1ZGlvVm9sdW1lKHNyYywgeyB2b2x1bWU6IDEgfSk7CiAgICBvayhzYW1lLmNvbnZlcnRlZCA9PT0gZmFsc2UgJiYgc2FtZS5wYXRoID09PSBzcmMsICd2b2x1bWU9MSDnm7TmjqXlpI3nlKjljp/mlofku7bvvIjkuI3ovaznoIHvvIknKTsKICAgIG9rKHNhbWUubW9kZSA9PT0gJ29yaWdpbmFsJywgJ21vZGU9b3JpZ2luYWwnKTsKCiAgICBjb25zb2xlLmxvZygnIyMg55yf55qE6LCD6Z+z6YeP77yI5a+55q+U5aSE55CG5YmN5ZCO5L2T56ev5LiO5Y+v6Kej56CB5oCn77yJJyk7CiAgICBjb25zdCBsb3VkZXIgPSBhd2FpdCBwcm9jZXNzQXVkaW9Wb2x1bWUoc3JjLCB7IHZvbHVtZTogMywgdG1wRGlyOiB0bXAgfSk7CiAgICBvayhsb3VkZXIuY29udmVydGVkID09PSB0cnVlICYmIGZzLmV4aXN0c1N5bmMobG91ZGVyLnBhdGgpLCAndm9sdW1lPTMg5Lqn5Ye65paw5paH5Lu2JywgcGF0aC5iYXNlbmFtZShsb3VkZXIucGF0aCkpOwogICAgb2sobG91ZGVyLmRldGFpbC5pbmNsdWRlcygnMzAwJScpLCAnZGV0YWlsIOagh+aYjiAzMDAlJywgbG91ZGVyLmRldGFpbCk7CiAgICBjb25zdCBwcm9iZUpzb24gPSBwYXRoLmpvaW4odG1wLCAncC5qc29uJyk7CiAgICBjb25zdCBwcm9iZSA9IGF3YWl0IGZmcHJvYmUoWyctaGlkZV9iYW5uZXInLCAnLXYnLCAnZXJyb3InLCAnLXNob3dfZW50cmllcycsICdmb3JtYXQ9ZHVyYXRpb24nLCAnLW9mJywgJ2pzb24nLCAnLW8nLCBwcm9iZUpzb24sICctaScsIGxvdWRlci5wYXRoXSk7CiAgICBvayhwcm9iZS5jb2RlID09PSAwICYmIGZzLmV4aXN0c1N5bmMocHJvYmVKc29uKSwgJ+WkhOeQhuWQjueahOaWh+S7tuiDveiiqyBmZnByb2JlIOato+W4uOino+aekO+8iOayoeWGmeWdj++8iScpOwogICAgY29uc3QgZHVyID0gcHJvYmUuY29kZSA9PT0gMCA/IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHByb2JlSnNvbiwgJ3V0ZjgnKSkuZm9ybWF0Py5kdXJhdGlvbiA6IG51bGw7CiAgICBvayhkdXIgIT09IG51bGwgJiYgTWF0aC5hYnMoTnVtYmVyKGR1cikgLSAxKSA8IDAuMTUsICfml7bplb/kv53mjIHkuI3lj5gnLCBgJHtkdXJ9c2ApOwoKICAgIGNvbnN0IHF1aWV0ZXIgPSBhd2FpdCBwcm9jZXNzQXVkaW9Wb2x1bWUoc3JjLCB7IHZvbHVtZTogMC4zLCB0bXBEaXI6IHRtcCB9KTsKICAgIG9rKHF1aWV0ZXIuY29udmVydGVkID09PSB0cnVlICYmIGZzLnN0YXRTeW5jKHF1aWV0ZXIucGF0aCkuc2l6ZSA+IDAsICd2b2x1bWU9MC4zIOS5n+S6p+WHuuacieaViOaWh+S7ticpOwoKICAgIGNvbnN0IG5vcm0gPSBhd2FpdCBwcm9jZXNzQXVkaW9Wb2x1bWUoc3JjLCB7IG5vcm1hbGl6ZTogdHJ1ZSwgbG91ZG5lc3M6ICdsb3VkJywgdG1wRGlyOiB0bXAgfSk7CiAgICBvayhub3JtLmNvbnZlcnRlZCA9PT0gdHJ1ZSAmJiBmcy5leGlzdHNTeW5jKG5vcm0ucGF0aCksICfmmbrog73pn7Pph4/vvIhsb3Vkbm9ybe+8ieS6p+WHuuaWh+S7ticpOwogICAgb2sobm9ybS5tb2RlID09PSAnbG91ZG5vcm0nICYmIC/lk43luqblvZLkuIAvLnRlc3Qobm9ybS5kZXRhaWwpLCAnZGV0YWlsIOagh+aYjuWTjeW6puW9kuS4gCcsIG5vcm0uZGV0YWlsKTsKCiAgICBjb25zb2xlLmxvZygnIyMg5aKe55uK5piv5ZCm55yf55qE55Sf5pWI77yI6Ieq566XIFdBViBSTVPvvIknKTsKICAgIGNvbnN0IGJhc2UgPSB3YXZSbXMoc3JjKTsKICAgIGNvbnN0IHVwID0gd2F2Um1zKGxvdWRlci5wYXRoKTsKICAgIGNvbnN0IGRvd24gPSB3YXZSbXMocXVpZXRlci5wYXRoKTsKICAgIGlmIChiYXNlID09PSBudWxsIHx8IHVwID09PSBudWxsIHx8IGRvd24gPT09IG51bGwpIHsKICAgICAgY29uc29sZS5sb2coYCAg4o+tICDot7Pov4fvvJrmi7/kuI3liLAgUENN77yIYmFzZT0ke2Jhc2V9IHVwPSR7dXB9IGRvd249JHtkb3dufe+8iWApOwogICAgfSBlbHNlIHsKICAgICAgLy8gMyDlgI0g4omIICs5LjU0IGRC77ybMC4zIOWAjSDiiYggLTEwLjQ2IGRC44CC57uZIMKxMi41ZEIg5a655beu6KaG55uW6YeN6YeH5qC3L+mHj+WMluivr+W3ruOAggogICAgICBjb25zdCB1cERlbHRhID0gdXAgLSBiYXNlOwogICAgICBjb25zdCBkb3duRGVsdGEgPSBkb3duIC0gYmFzZTsKICAgICAgb2soTWF0aC5hYnModXBEZWx0YSAtIDkuNTQpIDwgMi41LCBgMyDlgI0g4omIICs5LjUgZELvvIjlrp7mtYsgJHt1cERlbHRhLnRvRml4ZWQoMil9IGRC77yJYCwgYCR7YmFzZS50b0ZpeGVkKDIpfSDihpIgJHt1cC50b0ZpeGVkKDIpfSBkQkZTYCk7CiAgICAgIG9rKE1hdGguYWJzKGRvd25EZWx0YSArIDEwLjQ2KSA8IDIuNSwgYDAuMyDlgI0g4omIIC0xMC41IGRC77yI5a6e5rWLICR7ZG93bkRlbHRhLnRvRml4ZWQoMil9IGRC77yJYCwgYCR7YmFzZS50b0ZpeGVkKDIpfSDihpIgJHtkb3duLnRvRml4ZWQoMil9IGRCRlNgKTsKICAgICAgb2sodXAgPiBiYXNlICYmIGJhc2UgPiBkb3duLCAn5Y2V6LCD5oCn77ya6LCD5aSnID4g5Y6f5qC3ID4g6LCD5bCPJyk7CiAgICAgIC8vIDIg5YCN5LiOIDMg5YCN5LmL6Ze055qE55u45a+55YWz57O75Lmf6KaB5a+577yI6Ziy5q2iIuWFtuWunuayoeaMieWAjeaVsOi1sCLvvIkKICAgICAgY29uc3QgdHdvID0gYXdhaXQgcHJvY2Vzc0F1ZGlvVm9sdW1lKHNyYywgeyB2b2x1bWU6IDIsIHRtcERpcjogdG1wIH0pOwogICAgICBjb25zdCB0d29SbXMgPSB3YXZSbXModHdvLnBhdGgpOwogICAgICBpZiAodHdvUm1zICE9PSBudWxsKSB7CiAgICAgICAgb2soTWF0aC5hYnMoKHR3b1JtcyAtIGJhc2UpIC0gNi4wMikgPCAyLCBgMiDlgI0g4omIICs2LjAgZELvvIjlrp7mtYsgJHsodHdvUm1zIC0gYmFzZSkudG9GaXhlZCgyKX0gZELvvIlgKTsKICAgICAgfQogICAgICBjbGVhbnVwVGVtcCh0d28ucGF0aCwgdHdvLmNvbnZlcnRlZCk7CiAgICB9CgogICAgY29uc29sZS5sb2coJyMjIOS4tOaXtuaWh+S7tua4heeQhicpOwogICAgY29uc3QgYmVmb3JlID0gZnMucmVhZGRpclN5bmModG1wKS5sZW5ndGg7CiAgICBjbGVhbnVwVGVtcChsb3VkZXIucGF0aCwgbG91ZGVyLmNvbnZlcnRlZCk7CiAgICBjbGVhbnVwVGVtcChxdWlldGVyLnBhdGgsIHF1aWV0ZXIuY29udmVydGVkKTsKICAgIGNsZWFudXBUZW1wKG5vcm0ucGF0aCwgbm9ybS5jb252ZXJ0ZWQpOwogICAgY29uc3QgYWZ0ZXIgPSBmcy5yZWFkZGlyU3luYyh0bXApLmxlbmd0aDsKICAgIG9rKGFmdGVyIDwgYmVmb3JlLCAnY2xlYW51cFRlbXAg5Yig5o6J5LqG5aSE55CG5Lqn54mpJywgYCR7YmVmb3JlfSDihpIgJHthZnRlcn1gKTsKICAgIC8vIOWOn+S7tuS4jeiDveiiq+ivr+WIoAogICAgY2xlYW51cFRlbXAoc3JjLCBmYWxzZSk7CiAgICBvayhmcy5leGlzdHNTeW5jKHNyYyksICdjbGVhbnVwVGVtcCjpnZ7kuLTml7YpIOS4jeWKqOWOn+aWh+S7ticpOwogICAgZnMucm1TeW5jKHRtcCwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOwogIH0KfQoKY29uc29sZS5sb2coJyMjIOa6kOaWh+S7tuW8guW4uCcpOwp7CiAgY29uc3QgdG1wID0gZnMubWtkdGVtcFN5bmMocGF0aC5qb2luKG9zLnRtcGRpcigpLCAndm9sLWJhZC0nKSk7CiAgY29uc3QganVuayA9IHBhdGguam9pbih0bXAsICdqdW5rLm1wMycpOwogIGZzLndyaXRlRmlsZVN5bmMoanVuaywgQnVmZmVyLmFsbG9jKDIwNDgsIDcpKTsKICBsZXQgdGhyZXcgPSBmYWxzZTsKICBsZXQgbXNnID0gJyc7CiAgdHJ5IHsgYXdhaXQgcHJvY2Vzc0F1ZGlvVm9sdW1lKGp1bmssIHsgdm9sdW1lOiAyLCB0bXBEaXI6IHRtcCB9KTsgfSBjYXRjaCAoZSkgeyB0aHJldyA9IHRydWU7IG1zZyA9IGUubWVzc2FnZTsgfQogIGlmICgvZmZtcGVnLy50ZXN0KG1zZykgfHwgdGhyZXcpIG9rKHRocmV3LCAn5o2f5Z2P6Z+z6aKR6KKr5ouS77yI57uZ5Ye65Y+v6K+76ZSZ6K+v77yJJywgbXNnLnNsaWNlKDAsIDYwKSk7CiAgZWxzZSBvayhmYWxzZSwgJ+aNn+Wdj+mfs+mikeiiq+aLkicsICfnq5/nhLbmiJDlip/kuobvvJ8nKTsKICBmcy5ybVN5bmModG1wLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7Cn0KCmNvbnNvbGUubG9nKGBcbue7k+aenO+8miR7cGFzc30g6YCa6L+H77yMJHtmYWlsfSDlpLHotKVgKTsKaWYgKGZhaWwgPiAwKSBwcm9jZXNzLmV4aXQoMSk7Cg==
+// 音量调节自检：
+//   1) 参数解析与范围校验（倍数/智能响度档位/非法值）
+//   2) **真的调音量**：用 ffmpeg 生成已知电平的正弦波 → 处理后用 volumedetect 量回来，
+//      验证增益确实按倍数生效（这是"功能真的有用"的证据，不是只跑通参数）
+//   3) 原样（volume=1）不产生新文件；临时文件能清理
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { spawn } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
+import {
+  LOUDNESS_TARGETS, VOLUME_MAX, VOLUME_MIN,
+  cleanupTemp, processAudioVolume, resolveAudioProcessing
+} from '../src/voice-core.js';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+let pass = 0;
+let fail = 0;
+const ok = (cond, name, extra = '') => {
+  if (cond) { pass += 1; console.log(`  ✅ ${name}${extra ? ' — ' + extra : ''}`); }
+  else { fail += 1; console.error(`  ❌ ${name}${extra ? ' — ' + extra : ''}`); }
+};
+
+// 外部进程跑一次（stdio ignore，兼容受限沙箱）
+function run(bin, args, timeoutMs = 60000) {
+  return new Promise((resolve) => {
+    let child;
+    try { child = spawn(bin, args, { windowsHide: true, stdio: 'ignore' }); }
+    catch (e) { resolve({ code: -1, error: e.message }); return; }
+    const timer = setTimeout(() => { try { child.kill(); } catch {} resolve({ code: -2, error: 'timeout' }); }, timeoutMs);
+    child.on('error', (e) => { clearTimeout(timer); resolve({ code: -1, error: e.code || e.message }); });
+    child.on('close', (code) => { clearTimeout(timer); resolve({ code }); });
+  });
+}
+const ffmpeg = (args, t) => run(process.env.FFMPEG_PATH || 'ffmpeg', args, t);
+const ffprobe = (args, t) => run(process.env.FFPROBE_PATH || 'ffprobe', args, t);
+
+/**
+ * 自己算 WAV 的 RMS 电平（dBFS）——不依赖 ffmpeg 的统计输出。
+ *
+ * 为什么不用 `volumedetect`/`astats`：它们的统计走 stderr（受限沙箱里 spawn 的
+ * stdio:pipe 会被拒），而 `ametadata=file=...` 又会被 Windows 路径里的 `:` 破坏
+ * filtergraph 语法。直接解析 WAV 的 PCM 数据最可靠，也完全是确定性的。
+ */
+function wavRms(file) {
+  try {
+    const buf = fs.readFileSync(file);
+    if (buf.toString('ascii', 0, 4) !== 'RIFF' || buf.toString('ascii', 8, 12) !== 'WAVE') return null;
+    let offset = 12;
+    let fmt = null;
+    let data = null;
+    while (offset + 8 <= buf.length) {
+      const id = buf.toString('ascii', offset, offset + 4);
+      const size = buf.readUInt32LE(offset + 4);
+      const body = offset + 8;
+      if (id === 'fmt ') {
+        fmt = { channels: buf.readUInt16LE(body + 2), bits: buf.readUInt16LE(body + 14) };
+      } else if (id === 'data') {
+        data = buf.subarray(body, Math.min(body + size, buf.length));
+        break;
+      }
+      offset = body + size + (size % 2);
+    }
+    if (!fmt || !data || fmt.bits !== 16) return null;
+    const samples = Math.floor(data.length / 2);
+    if (samples === 0) return null;
+    let sum = 0;
+    for (let i = 0; i < samples; i++) {
+      const v = data.readInt16LE(i * 2) / 32768;
+      sum += v * v;
+    }
+    const rms = Math.sqrt(sum / samples);
+    return rms === 0 ? -Infinity : 20 * Math.log10(rms);
+  } catch {
+    return null;
+  }
+}
+
+/** 用 volumedetect/astats 之类的滤镜跑一遍（统计默认写 stderr，这里只关心能否解码） */
+async function measure(file) {
+  return ffmpeg(['-hide_banner', '-i', file, '-af', 'volumedetect', '-f', 'null', os.devNull], 30000);
+}
+
+console.log('## 参数解析');
+{
+  ok(resolveAudioProcessing({ volume: 1 }).volume === 1, 'volume=1 → 原样');
+  ok(resolveAudioProcessing({ volume: 2.5 }).volume === 2.5, 'volume=2.5 通过');
+  ok(resolveAudioProcessing({ volume: VOLUME_MIN }).volume === VOLUME_MIN, `下限 ${VOLUME_MIN} 通过`);
+  ok(resolveAudioProcessing({ volume: VOLUME_MAX }).volume === VOLUME_MAX, `上限 ${VOLUME_MAX} 通过`);
+  let threw = false;
+  try { resolveAudioProcessing({ volume: VOLUME_MAX + 0.1 }); } catch { threw = true; }
+  ok(threw, '超上限被拒');
+  threw = false;
+  try { resolveAudioProcessing({ volume: 0 }); } catch { threw = true; }
+  ok(threw, '音量 0 被拒（不是静音开关）');
+  ok(resolveAudioProcessing({ normalize: true, loudness: 'quiet' }).loudness === LOUDNESS_TARGETS.quiet, 'quiet 档 → -20 LUFS');
+  ok(resolveAudioProcessing({ normalize: true, loudness: 'loud' }).loudness === LOUDNESS_TARGETS.loud, 'loud 档 → -13 LUFS');
+  ok(resolveAudioProcessing({ normalize: true }).loudness === LOUDNESS_TARGETS.normal, '默认 normal 档');
+  ok(resolveAudioProcessing({ normalize: true, loudness: -18 }).loudness === -18, '可直接给 LUFS 数字');
+  threw = false;
+  try { resolveAudioProcessing({ normalize: true, loudness: -60 }); } catch { threw = true; }
+  ok(threw, '越界 LUFS 被拒');
+  threw = false;
+  try { resolveAudioProcessing({ normalize: true, loudness: 'nope' }); } catch { threw = true; }
+  ok(threw, '未知档位被拒');
+  ok(resolveAudioProcessing({ normalize: true, volume: 3 }).loudness !== null, 'normalize 优先于 volume（互斥）');
+}
+
+console.log('## 原样不加处理');
+{
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'vol-src-'));
+  const src = path.join(tmp, 'tone.wav');
+  const r = await ffmpeg(['-hide_banner', '-loglevel', 'error', '-y', '-f', 'lavfi', '-i', 'sine=frequency=440:duration=1', '-ac', '1', '-ar', '24000', src]);
+  if (r.code !== 0) {
+    console.log(`  ⏭  跳过：本环境无法运行 ffmpeg（${r.error ?? r.code}）`);
+  } else {
+    const same = await processAudioVolume(src, { volume: 1 });
+    ok(same.converted === false && same.path === src, 'volume=1 直接复用原文件（不转码）');
+    ok(same.mode === 'original', 'mode=original');
+
+    console.log('## 真的调音量（对比处理前后体积与可解码性）');
+    const louder = await processAudioVolume(src, { volume: 3, tmpDir: tmp });
+    ok(louder.converted === true && fs.existsSync(louder.path), 'volume=3 产出新文件', path.basename(louder.path));
+    ok(louder.detail.includes('300%'), 'detail 标明 300%', louder.detail);
+    const probeJson = path.join(tmp, 'p.json');
+    const probe = await ffprobe(['-hide_banner', '-v', 'error', '-show_entries', 'format=duration', '-of', 'json', '-o', probeJson, '-i', louder.path]);
+    ok(probe.code === 0 && fs.existsSync(probeJson), '处理后的文件能被 ffprobe 正常解析（没写坏）');
+    const dur = probe.code === 0 ? JSON.parse(fs.readFileSync(probeJson, 'utf8')).format?.duration : null;
+    ok(dur !== null && Math.abs(Number(dur) - 1) < 0.15, '时长保持不变', `${dur}s`);
+
+    const quieter = await processAudioVolume(src, { volume: 0.3, tmpDir: tmp });
+    ok(quieter.converted === true && fs.statSync(quieter.path).size > 0, 'volume=0.3 也产出有效文件');
+
+    const norm = await processAudioVolume(src, { normalize: true, loudness: 'loud', tmpDir: tmp });
+    ok(norm.converted === true && fs.existsSync(norm.path), '智能音量（loudnorm）产出文件');
+    ok(norm.mode === 'loudnorm' && /响度归一/.test(norm.detail), 'detail 标明响度归一', norm.detail);
+
+    console.log('## 增益是否真的生效（自算 WAV RMS）');
+    const base = wavRms(src);
+    const up = wavRms(louder.path);
+    const down = wavRms(quieter.path);
+    if (base === null || up === null || down === null) {
+      console.log(`  ⏭  跳过：拿不到 PCM（base=${base} up=${up} down=${down}）`);
+    } else {
+      // 3 倍 ≈ +9.54 dB；0.3 倍 ≈ -10.46 dB。给 ±2.5dB 容差覆盖重采样/量化误差。
+      const upDelta = up - base;
+      const downDelta = down - base;
+      ok(Math.abs(upDelta - 9.54) < 2.5, `3 倍 ≈ +9.5 dB（实测 ${upDelta.toFixed(2)} dB）`, `${base.toFixed(2)} → ${up.toFixed(2)} dBFS`);
+      ok(Math.abs(downDelta + 10.46) < 2.5, `0.3 倍 ≈ -10.5 dB（实测 ${downDelta.toFixed(2)} dB）`, `${base.toFixed(2)} → ${down.toFixed(2)} dBFS`);
+      ok(up > base && base > down, '单调性：调大 > 原样 > 调小');
+      // 2 倍与 3 倍之间的相对关系也要对（防止"其实没按倍数走"）
+      const two = await processAudioVolume(src, { volume: 2, tmpDir: tmp });
+      const twoRms = wavRms(two.path);
+      if (twoRms !== null) {
+        ok(Math.abs((twoRms - base) - 6.02) < 2, `2 倍 ≈ +6.0 dB（实测 ${(twoRms - base).toFixed(2)} dB）`);
+      }
+      cleanupTemp(two.path, two.converted);
+    }
+
+    console.log('## 临时文件清理');
+    const before = fs.readdirSync(tmp).length;
+    cleanupTemp(louder.path, louder.converted);
+    cleanupTemp(quieter.path, quieter.converted);
+    cleanupTemp(norm.path, norm.converted);
+    const after = fs.readdirSync(tmp).length;
+    ok(after < before, 'cleanupTemp 删掉了处理产物', `${before} → ${after}`);
+    // 原件不能被误删
+    cleanupTemp(src, false);
+    ok(fs.existsSync(src), 'cleanupTemp(非临时) 不动原文件');
+    fs.rmSync(tmp, { recursive: true, force: true });
+  }
+}
+
+console.log('## 源文件异常');
+{
+  const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'vol-bad-'));
+  const junk = path.join(tmp, 'junk.mp3');
+  fs.writeFileSync(junk, Buffer.alloc(2048, 7));
+  let threw = false;
+  let msg = '';
+  try { await processAudioVolume(junk, { volume: 2, tmpDir: tmp }); } catch (e) { threw = true; msg = e.message; }
+  if (/ffmpeg/.test(msg) || threw) ok(threw, '损坏音频被拒（给出可读错误）', msg.slice(0, 60));
+  else ok(false, '损坏音频被拒', '竟然成功了？');
+  fs.rmSync(tmp, { recursive: true, force: true });
+}
+
+console.log(`\n结果：${pass} 通过，${fail} 失败`);
+if (fail > 0) process.exit(1);

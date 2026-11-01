@@ -1,1 +1,117 @@
-Ly8g5oqKIGFnZW50IOeahCBNYXJrZG93biDlm57lpI3ovazmiJDpgILlkIggUVEg5Y+R6YCB55qE57qv5paH5pys44CCCmV4cG9ydCBmdW5jdGlvbiBtZFRvUGxhaW4obWQpIHsKICBsZXQgcyA9IFN0cmluZyhtZCA/PyAnJyk7CiAgLy8g5Luj56CB5Z2X77ya5L+d55WZ5YaF5a6577yM5Y675o6J5Zu05qCP77yI5YaF5a655bC+6YOo5o2i6KGM5Y675o6J77yM5Zu05qCP5ZCO55qE5o2i6KGM6Ieq54S25L+d55WZ5LiA5Liq5YiG6ZqU77yJCiAgcyA9IHMucmVwbGFjZSgvYGBgW2EtekEtWjAtOV8rLV0qXG4/KFtcc1xTXSo/KWBgYC9nLCAoXywgYm9keSkgPT4gYm9keS5yZXBsYWNlKC9cbiskLywgJycpKTsKICAvLyDooYzlhoXku6PnoIEKICBzID0gcy5yZXBsYWNlKC9gKFteYFxuXSspYC9nLCAnJDEnKTsKICAvLyDlm77niYcv6ZO+5o6l77ya5L+d55WZ5paH5a2X77yM6ZO+5o6l6ZmE5Zyo5ous5Y+36YeM77yIUVEg5Y+v54K577yJ44CCCiAgLy8g5YCZ6YCJ6ZW/5bqm5b+F6aG75pyJ55WM77yaYFteXF1dKmAg5Zyo5aSn6YePICIhWyLvvIjmqKHlnovooqvor7Hlr7zovpPlh7rvvInml7bmr4/mrKHpg73opoHmiavliLDkuLLlsL7vvIwKICAvLyDmlbTkvZPmmK8gTyhuwrIp77yM5Lya5oqKIFFRIOaUtuWPkS/lrprml7blmajmiYDlnKjnmoTkuovku7blvqrnjq/ljaHkvY/oi6XlubLnp5LjgILmjpLpmaTmjaLooYwgKyDkuIrpmZAgNTAwCiAgLy8g5pei5LiN5b2x5ZON5q2j5bi4IE1hcmtkb3du77yM5Y+I5oqK5q+P5qyh5bCd6K+V55qE5Luj5Lu35Y6L5oiQ5bi45pWw44CCCiAgcyA9IHMucmVwbGFjZSgvIVxbKFteXF1cbl17MCw1MDB9KVxdXCgoW14pXHNdezEsMjAwMH0pXCkvZywgKF8sIGFsdCwgdXJsKSA9PiAoYWx0IHx8IHVybCkpOwogIHMgPSBzLnJlcGxhY2UoL1xbKFteXF1cbl17MSw1MDB9KVxdXCgoW14pXHNdezEsMjAwMH0pXCkvZywgJyQxICgkMiknKTsKICAvLyDnspfkvZMv5pac5L2TL+WIoOmZpOe6v+agh+iusAogIHMgPSBzLnJlcGxhY2UoL1wqXCpcKihbXipdKylcKlwqXCovZywgJyQxJyk7CiAgcyA9IHMucmVwbGFjZSgvXCpcKihbXipdKylcKlwqL2csICckMScpOwogIC8vIOWNleS4qiAqIOeahOaWnOS9k+acieS4pOS4quWIpOWumuadoeS7tu+8jOe8uuS4gOWwseS8muiiq+W9k+aIkOaZrumAmuespuWPt+WQg+aOie+8mgogIC8vICAg4pGgIOS4jeiDvei3qOihjO+8iGBbXipdK2Ag5Lya5ZCe5o2i6KGM77yM5oqK6KGM6aaWIGAqIGAg5YiX6KGo6aG55ZKM5LmY5rOV5byP5b2T5oiQ5LiA5a+55qCH6K6w77yJ77ybCiAgLy8gICDikaEg5byA5qCH6K6w5ZCO44CB6Zet5qCH6K6w5YmN6YO95LiN6IO95piv56m655m977yITWFya2Rvd24g55qE5by66LCD5YiG6ZqU56ym5pys5p2l5bCx5LiN5YWB6K6456m65qC86LS06L6577yJ77yMCiAgLy8gICAgICDlkKbliJkgIjIgKiAzICogNCIg6L+Z56eN5LmY5rOV5byP5Lya6KKr5pW05q615Yig5o6J44CCCiAgcyA9IHMucmVwbGFjZSgvXCooPyFccykoW14qXG5dKj9bXlxzKl0pXCovZywgJyQxJyk7CiAgcyA9IHMucmVwbGFjZSgvfn4oW15+XSspfn4vZywgJyQxJyk7CiAgcyA9IHMucmVwbGFjZSgvX18oW15fXSspX18vZywgJyQxJyk7CiAgLy8g5qCH6aKY56ymCiAgcyA9IHMucmVwbGFjZSgvXiN7MSw2fVxzKy9nbSwgJycpOwogIC8vIOW8leeUqOespgogIHMgPSBzLnJlcGxhY2UoL14+XHM/L2dtLCAnJyk7CiAgLy8g5YiX6KGo56ymCiAgcyA9IHMucmVwbGFjZSgvXlxzKlstKitdXHMrL2dtLCAn4oCiICcpOwogIHMgPSBzLnJlcGxhY2UoL15ccypcZCtcLlxzKy9nbSwgKG0pID0+IG0udHJpbSgpICsgJyAnKTsKICAvLyDooajmoLzvvJrmjInooYzkv53nlZnmlofmnKwKICBzID0gcy5zcGxpdCgnXG4nKS5maWx0ZXIoKGxpbmUpID0+ICEvXlxzKlx8P1tcczp8LV0rXHw/XHMqJC8udGVzdChsaW5lKSB8fCBsaW5lLmluY2x1ZGVzKCd8JykgPT09IGZhbHNlIHx8IC9cUy8udGVzdChsaW5lLnJlcGxhY2UoL1tcczp8LV0vZywgJycpKSkuam9pbignXG4nKTsKICBzID0gcy5yZXBsYWNlKC9eXHMqXHwvZ20sICcnKS5yZXBsYWNlKC9cfFxzKiQvZ20sICcnKTsKICAvLyDmipjlj6DnmoTov57nu63nqbrooYwKICBzID0gcy5yZXBsYWNlKC9cbnszLH0vZywgJ1xuXG4nKTsKICByZXR1cm4gcy50cmltKCk7Cn0KCi8qKiDmjIkgUVEg5Y2V5p2h5raI5oGv6ZW/5bqm5LiK6ZmQ5YiH5YiG77yI576k5raI5oGv5LiA6IisIOKJpCA0NTAwIOWtl++8jOeVmeS9memHj++8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gc3BsaXRGb3JRUSh0ZXh0LCBtYXggPSA0MDAwKSB7CiAgY29uc3Qgc2FmZU1heCA9IE51bWJlci5pc0Zpbml0ZShtYXgpICYmIG1heCA+PSAxID8gTWF0aC5mbG9vcihtYXgpIDogNDAwMDsKICBjb25zdCBwYXJ0cyA9IFtdOwogIGxldCByZXN0ID0gdGV4dDsKICB3aGlsZSAocmVzdC5sZW5ndGggPiBzYWZlTWF4KSB7CiAgICBsZXQgY3V0ID0gcmVzdC5sYXN0SW5kZXhPZignXG4nLCBzYWZlTWF4IC0gMSk7CiAgICBsZXQgZWF0ID0gMDsKICAgIGlmIChjdXQgPD0gMCkgewogICAgICBjdXQgPSBzYWZlTWF4OyAvLyDnoazliIcKICAgIH0gZWxzZSB7CiAgICAgIGVhdCA9IDE7IC8vIOaNouihjOespuS/neeVmee7meWJjeS4gOaute+8jOmBv+WFjeaLvOaOpeWQjuS4ouaNouihjAogICAgfQogICAgLy8g6Iul5YiH54K55q2j5aW96JC95Zyo5Luj55CG5a+55Lit6Ze077yIZW1vamkg562J5Lya6KKr5YiH5oiQ5Lmx56CB77yJ77yM5oqK5YiH54K55YmN56e75LiA5Liq56CB5YWDCiAgICBjb25zdCBjb2RlID0gcmVzdC5jaGFyQ29kZUF0KGN1dCAtIDEpOwogICAgaWYgKGNvZGUgPj0gMHhkODAwICYmIGNvZGUgPD0gMHhkYmZmKSBjdXQgLT0gMTsKICAgIC8vIOmYsuatoiBtYXg9MSDkuJTlvIDlpLTmmK8gZW1vamkg5Luj55CG5a+55pe26Zu26L+b5bqm5q275b6q546v77ya6Iez5bCR5o6o6L+b5LiA5Liq5a6M5pW056CB54K544CCCiAgICBpZiAoY3V0IDw9IDApIHsKICAgICAgY29uc3QgZmlyc3QgPSByZXN0LmNoYXJDb2RlQXQoMCk7CiAgICAgIGNvbnN0IHNlY29uZCA9IHJlc3QuY2hhckNvZGVBdCgxKTsKICAgICAgY3V0ID0gKGZpcnN0ID49IDB4ZDgwMCAmJiBmaXJzdCA8PSAweGRiZmYgJiYgc2Vjb25kID49IDB4ZGMwMCAmJiBzZWNvbmQgPD0gMHhkZmZmKSA/IDIgOiAxOwogICAgICBlYXQgPSAwOwogICAgfQogICAgcGFydHMucHVzaChyZXN0LnNsaWNlKDAsIGN1dCArIGVhdCkpOwogICAgcmVzdCA9IHJlc3Quc2xpY2UoY3V0ICsgZWF0KTsKICB9CiAgaWYgKHJlc3QubGVuZ3RoID4gMCkgcGFydHMucHVzaChyZXN0KTsKICByZXR1cm4gcGFydHM7Cn0KCi8qKgogKiDmiKrmlq3liLDmnIDlpJogYG1heGAg5Liq5a2X56ym77yMKirnu53kuI3liIflvIDku6PnkIblr7kqKuOAggogKgogKiDkuLrku4DkuYjkuI3nm7TmjqXnlKggYHRleHQuc2xpY2UoMCwgbWF4KWDvvJpgU3RyaW5nLnByb3RvdHlwZS5zbGljZWAg5oyJIFVURi0xNiAqKueggeWFgyoq5YiH77yMCiAqIOiAjCBRUSDph4zluLjop4HnmoQgZW1vamkgLyDnlJ/lg7vlrZfljaAqKuS4pOS4qioq56CB5YWD44CC5YiH54K55q2j5aW96JC95Zyo5Lit6Ze05pe25Lya55WZ5LiL5LiA5Liq5a2k56uL6auY5Luj55CGCiAqIOKAlOKAlOWug+S4jeaYr+S4gOS4quWQiOazleWtl+espu+8jOWGmei/myBKU09O44CB5pel5b+X44CB5o+Q56S66K+N5ZCO5LiA5b6L5riy5p+T5oiQ5pu/5o2i56ym77yI77+977yJ44CCCiAqIOahpeaOpemHjCLmiKrmlq3nu5nkurrnnIsi55qE5Zyw5pa55b6I5aSa77yI6K6w5b+G44CB5peB6KeC56qX5Y+j44CB5raI5oGv6K+m5oOF44CB6KeS6Imy5Y2h77yJ77yM5YWo6YOo5Lit5oub44CCCiAqCiAqIOivreS5ie+8muS4iumZkOaMiSoq56CB54K5KirnrpfvvIjlr7nnuq8gQk1QIOaWh+acrOS4jiBzbGljZSDlrozlhajkuIDoh7TvvJvlr7nlkKsgZW1vamkg55qE5paH5pys5Y+q5aSa55WZ5LiN5YiH5Z2P77yJ44CCCiAqIOWIpOaNruS4juWQjOaWh+S7tueahCBzcGxpdEZvclFR44CB5Lul5Y+KIHNyYy9mb3J3YXJkLmpzIOeahOmihOiniOaIquaWreS/neaMgeS4gOiHtOOAggogKiBgbWF4YCDpnZ7mnInpmZDmlbDml7bov5Tlm57nqbrkuLIg4oCU4oCUIOS4jiBgc2xpY2UoMCwgTmFOKWAg55qE5pei5pyJ6KGM5Li65LiA6Ie077yM5LiN5YGa6Z2Z6buY5pS+5a6944CCCiAqLwpleHBvcnQgZnVuY3Rpb24gdHJ1bmNhdGVUZXh0KHZhbHVlLCBtYXgpIHsKICBjb25zdCBzID0gU3RyaW5nKHZhbHVlID8/ICcnKTsKICBjb25zdCBsaW1pdCA9IE51bWJlci5pc0Zpbml0ZShOdW1iZXIobWF4KSkgPyBNYXRoLm1heCgwLCBNYXRoLmZsb29yKE51bWJlcihtYXgpKSkgOiAwOwogIGlmIChsaW1pdCA9PT0gMCkgcmV0dXJuICcnOwogIGlmIChzLmxlbmd0aCA8PSBsaW1pdCkgcmV0dXJuIHM7CiAgbGV0IGN1dCA9IGxpbWl0OwogIGNvbnN0IGNvZGUgPSBzLmNoYXJDb2RlQXQoY3V0IC0gMSk7CiAgaWYgKGNvZGUgPj0gMHhkODAwICYmIGNvZGUgPD0gMHhkYmZmKSBjdXQgLT0gMTsgLy8g5YiH5Zyo6auY5Luj55CG5LiK77ya5YmN56e75LiA5Liq56CB5YWDCiAgaWYgKGN1dCA8PSAwKSB7IC8vIGxpbWl0PTEg5LiU5byA5aS05bCx5piv5Luj55CG5a+577ya6Iez5bCR5L+d55WZ5LiA5Liq5a6M5pW056CB54K5CiAgICBjb25zdCBmaXJzdCA9IHMuY2hhckNvZGVBdCgwKTsKICAgIGNvbnN0IHNlY29uZCA9IHMuY2hhckNvZGVBdCgxKTsKICAgIGN1dCA9IChmaXJzdCA+PSAweGQ4MDAgJiYgZmlyc3QgPD0gMHhkYmZmICYmIHNlY29uZCA+PSAweGRjMDAgJiYgc2Vjb25kIDw9IDB4ZGZmZikgPyAyIDogMTsKICB9CiAgcmV0dXJuIHMuc2xpY2UoMCwgY3V0KTsKfQoKLyoqCiAqIHtAbGluayB0cnVuY2F0ZVRleHR9IOeahOWwvumDqOeJiOacrO+8muS/neeVmSoq5pyA5ZCOKiogYG1heGAg5Liq5a2X56ym44CCCiAqCiAqIOWvueW6lCBgdGV4dC5zbGljZSgtbWF4KWAg4oCU4oCUIOWug+WQjOagt+aMieeggeWFg+WIh++8jOWPquaYr+WIh+eCueiQveWcqCoq5L2OKirku6PnkIbkuIrvvJoKICog57uT5p6c5byA5aS05Lya5aSa5Ye65LiA5Liq5a2k56uL5L2O5Luj55CG77yM5ZCM5qC35piv5Z2P5a2X56ym44CC5Yik5o2u6ZWc5YOP5aSE55CG44CCCiAqLwpleHBvcnQgZnVuY3Rpb24gdHJ1bmNhdGVUZXh0VGFpbCh2YWx1ZSwgbWF4KSB7CiAgY29uc3QgcyA9IFN0cmluZyh2YWx1ZSA/PyAnJyk7CiAgY29uc3QgbGltaXQgPSBOdW1iZXIuaXNGaW5pdGUoTnVtYmVyKG1heCkpID8gTWF0aC5tYXgoMCwgTWF0aC5mbG9vcihOdW1iZXIobWF4KSkpIDogMDsKICBpZiAobGltaXQgPT09IDApIHJldHVybiAnJzsKICBpZiAocy5sZW5ndGggPD0gbGltaXQpIHJldHVybiBzOwogIGxldCBzdGFydCA9IHMubGVuZ3RoIC0gbGltaXQ7CiAgY29uc3QgY29kZSA9IHMuY2hhckNvZGVBdChzdGFydCk7CiAgaWYgKGNvZGUgPj0gMHhkYzAwICYmIGNvZGUgPD0gMHhkZmZmKSB7IC8vIOWIh+eCueWcqOS9juS7o+eQhuS4igogICAgY29uc3QgYmVmb3JlID0gcy5jaGFyQ29kZUF0KHN0YXJ0IC0gMSk7CiAgICAvLyDliY3pnaLmmK/pq5jku6PnkIYg4oeSIOi/meWvueaYr+S4gOS4quWujOaVtOWtl+espu+8jOS4gOi1t+eVmeS4i++8iOWugeWPr+WkmuS4gOS4queggeWFg++8jOS5n+S4jeeVmeWtpOeri+S7o+eQhu+8ie+8mwogICAgLy8g5ZCm5YiZ5piv55W45b2i6L6T5YWl6YeM55qE5a2k5YS/5L2O5Luj55CG77yM5Lii5o6J5a6D44CCCiAgICBzdGFydCA9IChzdGFydCA+IDAgJiYgYmVmb3JlID49IDB4ZDgwMCAmJiBiZWZvcmUgPD0gMHhkYmZmKSA/IHN0YXJ0IC0gMSA6IHN0YXJ0ICsgMTsKICB9CiAgcmV0dXJuIHMuc2xpY2Uoc3RhcnQpOwp9Cg==
+// 把 agent 的 Markdown 回复转成适合 QQ 发送的纯文本。
+export function mdToPlain(md) {
+  let s = String(md ?? '');
+  // 代码块：保留内容，去掉围栏（内容尾部换行去掉，围栏后的换行自然保留一个分隔）
+  s = s.replace(/```[a-zA-Z0-9_+-]*\n?([\s\S]*?)```/g, (_, body) => body.replace(/\n+$/, ''));
+  // 行内代码
+  s = s.replace(/`([^`\n]+)`/g, '$1');
+  // 图片/链接：保留文字，链接附在括号里（QQ 可点）。
+  // 候选长度必须有界：`[^\]]*` 在大量 "!["（模型被诱导输出）时每次都要扫到串尾，
+  // 整体是 O(n²)，会把 QQ 收发/定时器所在的事件循环卡住若干秒。排除换行 + 上限 500
+  // 既不影响正常 Markdown，又把每次尝试的代价压成常数。
+  s = s.replace(/!\[([^\]\n]{0,500})\]\(([^)\s]{1,2000})\)/g, (_, alt, url) => (alt || url));
+  s = s.replace(/\[([^\]\n]{1,500})\]\(([^)\s]{1,2000})\)/g, '$1 ($2)');
+  // 粗体/斜体/删除线标记
+  s = s.replace(/\*\*\*([^*]+)\*\*\*/g, '$1');
+  s = s.replace(/\*\*([^*]+)\*\*/g, '$1');
+  // 单个 * 的斜体有两个判定条件，缺一就会被当成普通符号吃掉：
+  //   ① 不能跨行（`[^*]+` 会吞换行，把行首 `* ` 列表项和乘法式当成一对标记）；
+  //   ② 开标记后、闭标记前都不能是空白（Markdown 的强调分隔符本来就不允许空格贴边），
+  //      否则 "2 * 3 * 4" 这种乘法式会被整段删掉。
+  s = s.replace(/\*(?!\s)([^*\n]*?[^\s*])\*/g, '$1');
+  s = s.replace(/~~([^~]+)~~/g, '$1');
+  s = s.replace(/__([^_]+)__/g, '$1');
+  // 标题符
+  s = s.replace(/^#{1,6}\s+/gm, '');
+  // 引用符
+  s = s.replace(/^>\s?/gm, '');
+  // 列表符
+  s = s.replace(/^\s*[-*+]\s+/gm, '• ');
+  s = s.replace(/^\s*\d+\.\s+/gm, (m) => m.trim() + ' ');
+  // 表格：按行保留文本
+  s = s.split('\n').filter((line) => !/^\s*\|?[\s:|-]+\|?\s*$/.test(line) || line.includes('|') === false || /\S/.test(line.replace(/[\s:|-]/g, ''))).join('\n');
+  s = s.replace(/^\s*\|/gm, '').replace(/\|\s*$/gm, '');
+  // 折叠的连续空行
+  s = s.replace(/\n{3,}/g, '\n\n');
+  return s.trim();
+}
+
+/** 按 QQ 单条消息长度上限切分（群消息一般 ≤ 4500 字，留余量）。 */
+export function splitForQQ(text, max = 4000) {
+  const safeMax = Number.isFinite(max) && max >= 1 ? Math.floor(max) : 4000;
+  const parts = [];
+  let rest = text;
+  while (rest.length > safeMax) {
+    let cut = rest.lastIndexOf('\n', safeMax - 1);
+    let eat = 0;
+    if (cut <= 0) {
+      cut = safeMax; // 硬切
+    } else {
+      eat = 1; // 换行符保留给前一段，避免拼接后丢换行
+    }
+    // 若切点正好落在代理对中间（emoji 等会被切成乱码），把切点前移一个码元
+    const code = rest.charCodeAt(cut - 1);
+    if (code >= 0xd800 && code <= 0xdbff) cut -= 1;
+    // 防止 max=1 且开头是 emoji 代理对时零进度死循环：至少推进一个完整码点。
+    if (cut <= 0) {
+      const first = rest.charCodeAt(0);
+      const second = rest.charCodeAt(1);
+      cut = (first >= 0xd800 && first <= 0xdbff && second >= 0xdc00 && second <= 0xdfff) ? 2 : 1;
+      eat = 0;
+    }
+    parts.push(rest.slice(0, cut + eat));
+    rest = rest.slice(cut + eat);
+  }
+  if (rest.length > 0) parts.push(rest);
+  return parts;
+}
+
+/**
+ * 截断到最多 `max` 个字符，**绝不切开代理对**。
+ *
+ * 为什么不直接用 `text.slice(0, max)`：`String.prototype.slice` 按 UTF-16 **码元**切，
+ * 而 QQ 里常见的 emoji / 生僻字占**两个**码元。切点正好落在中间时会留下一个孤立高代理
+ * ——它不是一个合法字符，写进 JSON、日志、提示词后一律渲染成替换符（�）。
+ * 桥接里"截断给人看"的地方很多（记忆、旁观窗口、消息详情、角色卡），全部中招。
+ *
+ * 语义：上限按**码点**算（对纯 BMP 文本与 slice 完全一致；对含 emoji 的文本只多留不切坏）。
+ * 判据与同文件的 splitForQQ、以及 src/forward.js 的预览截断保持一致。
+ * `max` 非有限数时返回空串 —— 与 `slice(0, NaN)` 的既有行为一致，不做静默放宽。
+ */
+export function truncateText(value, max) {
+  const s = String(value ?? '');
+  const limit = Number.isFinite(Number(max)) ? Math.max(0, Math.floor(Number(max))) : 0;
+  if (limit === 0) return '';
+  if (s.length <= limit) return s;
+  let cut = limit;
+  const code = s.charCodeAt(cut - 1);
+  if (code >= 0xd800 && code <= 0xdbff) cut -= 1; // 切在高代理上：前移一个码元
+  if (cut <= 0) { // limit=1 且开头就是代理对：至少保留一个完整码点
+    const first = s.charCodeAt(0);
+    const second = s.charCodeAt(1);
+    cut = (first >= 0xd800 && first <= 0xdbff && second >= 0xdc00 && second <= 0xdfff) ? 2 : 1;
+  }
+  return s.slice(0, cut);
+}
+
+/**
+ * {@link truncateText} 的尾部版本：保留**最后** `max` 个字符。
+ *
+ * 对应 `text.slice(-max)` —— 它同样按码元切，只是切点落在**低**代理上：
+ * 结果开头会多出一个孤立低代理，同样是坏字符。判据镜像处理。
+ */
+export function truncateTextTail(value, max) {
+  const s = String(value ?? '');
+  const limit = Number.isFinite(Number(max)) ? Math.max(0, Math.floor(Number(max))) : 0;
+  if (limit === 0) return '';
+  if (s.length <= limit) return s;
+  let start = s.length - limit;
+  const code = s.charCodeAt(start);
+  if (code >= 0xdc00 && code <= 0xdfff) { // 切点在低代理上
+    const before = s.charCodeAt(start - 1);
+    // 前面是高代理 ⇒ 这对是一个完整字符，一起留下（宁可多一个码元，也不留孤立代理）；
+    // 否则是畸形输入里的孤儿低代理，丢掉它。
+    start = (start > 0 && before >= 0xd800 && before <= 0xdbff) ? start - 1 : start + 1;
+  }
+  return s.slice(start);
+}

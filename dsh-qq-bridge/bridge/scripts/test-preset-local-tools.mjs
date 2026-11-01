@@ -1,1 +1,283 @@
-Ly8g6ZOB5b6LIEw3IOeahOazqOWGjOacn+aWreiogO+8muS7v+ecn+S8muivneeahCBwcmVzZXQgKirkuI3lvpfljIXlkKvmnKzlnLDmiafooYzog73lipsqKuOAggovLwovLyDkuLrku4DkuYjlv4XpobvmnInov5nkuKrmlofku7YKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0KLy8gYFFTSF9QTEFOLm1kYCDCpzAuMSDnmoTnu5PorrrmmK/vvJpRUSDliqjkvZzpl7jpl6jlhajpg6jot5HlnKjmoaXmjqXov5vnqIvlhoXvvIzogIwgT25lQm90IOeahAovLyAxMjcuMC4wLjE6MzAwMCBIVFRQIOaOpeWPo+WPr+iiq+S7u+S9leacrOacuui/m+eoi+eUqCBCZWFyZXIgdG9rZW4g55u05o6l6LCD55So44CC5Zug5q2kCi8vICoqIuS7v+ecn+S8muivneaLv+S4jeWIsCBzaGVsbCLmmK/mlbTkuKrliIblsYLlronlhajmqKHlnovllK/kuIDnmoTnnJ/ovrnnlYwqKuOAggovLwovLyDkvYblnKjmraTkuYvliY3msqHmnInku7vkvZXmlq3oqIDmo4Dmn6Xov4fov5nku7bkuovvvJoKLy8gICDCtyBgdGVzdC1hdWRpdC1zZXR1cC1ndWFyZHMubWpzYCDmiorlt6XlhbflkI0qKuWWgioq57uZIGd1YXJk77yM6aqM6K+B5a6D5ouS57ud4oCU4oCU6L+Z6K+B5piOCi8vICAgICBndWFyZCDpgLvovpHlr7nvvIwqKuS4jeivgeaYjuacrOWcsOW3peWFt+W3suS7juW3peWFt+a4heWNlemHjOmakOiXjyoq77ybCi8vICAgwrcgYHByb2JlLXRvb2xzLm1qc2Ag5Y+q5pat6KiAIuaooeWei+afkOS4gOi9ruayoeacieiwg+eUqOacrOWcsOW3peWFtyLigJTigJQqKuayoeiwg+eUqCDiiaAg5LiN5Zyo5riF5Y2V6YeMKirjgIIKLy8KLy8g5pys5rWL6K+V6KGl5LiK5rOo5YaM5pyf6YKj5LiA5Y2K77ya5LuOKirnnJ/lrp4gcHJlc2V0IOaWh+S7tioq6YeM6Kej5p6Q5Ye6IHByZXNldCDnu4TmiJDvvIzmlq3oqIAKLy8g5bel5YW35a6I5Y2r6KKr5oyC6L2977yM5bm25LiU5a6I5Y2r55qEIHJlc3RyaWN0IOWQjeWNleimhuebluavj+S4gOS4quW3suefpeacrOWcsOaJp+ihjOW3peWFt+OAggovLyDlroPkuI3kvp3otZbov5DooYzkuK3nmoQgRFNI77yM5Zug5q2k5Y+v5Lul6L+bIGBucG0gcnVuIHRlc3Q6YXVkaXRg77yM5q+P5qyh5Zue5b2S6YO96LeR44CCCi8vCi8vIOWPo+W+hOivtOaYju+8mui/memHjOaWreiogOeahOaYryJwcmVzZXQg5aOw5piO5Lya6ZqQ6JePL+aLkue7nei/meS6m+WQjeWtlyLjgILnnJ/mraPnmoTnq6/liLDnq6/mlq3oqIAKLy8g77yI5rOo5YaM5Ye65p2l55qE5riF5Y2V6YeM56Gu5a6e5rKh5pyJ77yJ6ZyA6KaB5rS755qEIERTSO+8jOWxniBgcHJvYmUtdG9vbHMubWpzYCDnmoTojIPnlbTjgIIKCmltcG9ydCBhc3NlcnQgZnJvbSAnbm9kZTphc3NlcnQvc3RyaWN0JzsKaW1wb3J0IHRlc3QgZnJvbSAnbm9kZTp0ZXN0JzsKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBwYXRoVG9GaWxlVVJMIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBjb2xsZWN0RHNoVG9vbE5hbWVzIGFzIGNvbGxlY3REc2hUb29sTmFtZXNTaGFyZWQgfSBmcm9tICcuL2RzaC10b29sLW5hbWVzLm1qcyc7Cgpjb25zdCBST09UID0gZmlsZVVSTFRvUGF0aChuZXcgVVJMKCcuLicsIGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBQUkVTRVRTX0RJUiA9IHBhdGguam9pbihST09ULCAnZHNoJywgJ2FnZW50LXByZXNldHMnKTsKCi8qKiDku7/nnJ/mqKHlvI/kvb/nlKjnmoQgcHJlc2V077yI5LiN5YWB6K645pyJ5Lu75L2V5pys5Zyw5omn6KGM6IO95Yqb77yJ44CCICovCmNvbnN0IFNJTVVMQVRJT05fUFJFU0VUUyA9IFsncXEtY2hhdCcsICdxcS1jaGF0LXYyJ107CgovKiog5bCB6ZetIGFnZW50IOeahCBwcmVzZXTvvJrmjInorr7orqEqKuWFgeiuuCoq5a6M5pW05pys5Zyw5bel5YW36Z2i44CCICovCmNvbnN0IENMT1NFRF9BR0VOVF9QUkVTRVRTID0gWydxc2gtY2xvc2VkJ107CgovKioKICog5pys5Zyw5omn6KGM6IO95Yqb5riF5Y2V44CCCiAqCiAqIOKaoO+4jyDov5nph4wqKuW/hemhuyoq5ZCr5q+P5LiA5Liq6IO95omn6KGM5pys5Zyw5ZG95Luk44CB6K+75YaZ5pys5Zyw5paH5Lu25oiW5rS+55SfIGFnZW50IOeahOW3peWFt+WQjeOAggogKiDlkI3lrZflj5boh6ogRFNIIDAuMS43LXJjLjIg5a6e6ZmF5rOo5YaM55qE5bel5YW377yI6KeBIHFxLXRvb2wtcmVzdHJpY3QubWpzIOeahOazqOmHiu+8ieOAggogKiAyMDI2LTA5LTI3IOeahOWvuei0puabv+aNou+8mmBjb3JkaXNfZGVmaW5lYC9gY29yZGlzX3VuZGVmaW5lYC9gY29yZGlzX3J1bmAvYGNvcmRpc19zdG9wYAogKiDlnKggMC4xLjcg6YeM5bey5LiN5a2Y5Zyo77yIZHNoLXRvb2wtY29yZGlzIOeOsOWcqOWPquazqOWGjCBjb3JkaXNfaW5zcGVjdF9saXN0L3F1ZXJ577yJ77yMCiAqIOWQjOS4gOi9ruihpeS4iiBgbG9hZF93b3Jrc3BhY2VfZGVwZW5kZW5jaWVzYO+8iOiHquW4piBQeXRob24vTm9kZS9wbnBtIOi3r+W+hO+8ieS4jgogKiBgbGlzdF9zdWJhZ2VudF9tb2RlbHNg77yI5rS+55SfIGFnZW50IOWutuaXj++8ieOAggogKgogKiDkuKTnsbvlpLHotKXmqKHlvI/vvIzmnKzmlofku7bpg73opoHpmLLvvJoKICogICDikaAgKirmvI8qKu+8iOacrOWcsOW3peWFt+S4jeWcqOWuiOWNq+WQjeWNlemHjCDih5Ig55WZ5ZyoIHNjaGVtYe+8ieKAlOKAlOeUsSB0ZXN0IDMg5a+56LSmIFJFU1RSSUNURURfVE9PTF9OQU1FUyDpmLLvvJsKICogICDikaEgKirmi7zplJnlgYflkI0qKu+8iOWQjeWtl+agueacrOS4jeWtmOWcqCDih5IgYHRvb2xzLnJlc3RyaWN0YCDmipvplJnooqvlkJ4g4oeSIOmdmem7mOWkseaViO+8ieKAlOKAlAogKiAgICAgIOeUsSB0ZXN0IDYg55So44CM5YGHIHJlc3RyaWN0IOS8muWvueacquefpeWQjeWtl+aKm+mUmeOAjeadpemYsuOAggogKgogKiAyMDI2LTA5LTI5IOmSiOWvuSBEU0ggMC4yLjAtcmMuMiDph43mlrDlr7notKbvvIjnlKggYHNjcmlwdHMvc2Nhbi1kc2gtdG9vbC1uYW1lcy5tanNgCiAqIOS7juWuieijheWMhemHjOaKveecn+WunuW3peWFt+WQjeWPjOWQkeaxguW3ru+8ieOAguaXp+WQjeWtl+WFqOmDqOi/mOWcqO+8iDAg5YGH5ZCN77yJ77yM5paw5aKeIDEzIOS4quWNsemZqeivreS5ieWQjeWtl++8mgogKiAgIMK3IOWFqOWxgOWxgum7mOiupOWQr+eUqOOAgeS7v+ecn+S8muivneecn+eahOS8mue7p+aJv+eahOS4ieS4qiBNQ1Ag6LWE5rqQ5bel5YW3CiAqICAgICDvvIhgZHNoLWJhc2VgIOeahCBgbWNwLXJlc291cmNlc2Ag6KGM5rKh6KKrIGRpc2FibGVk77yJ77ybCiAqICAgwrcg5rS+55SfIGFnZW50IC8g5omn6KGM5aSW6YOo5Luj56CB77yac3ViYWdlbnRfY29kZXggLyBzdWJhZ2VudF9jbGF1ZGVfY29kZSAvCiAqICAgICBzcGF3bl90ZWFtbWF0ZSAvIHRlYW1fdGFza18q77yI546w5Y+q5ZyoIERTSCDoh6rluKYgcHJlc2V0IOmHjOaMgu+8jOWIl+i/m+adpeW9k+WbnuW9kue9ke+8ie+8mwogKiAgIMK3IHBsdWdpbl9tYW5hZ2Vy77yI5o+S5Lu26KOF6L295p2DID0g5Lu75oSP5Luj56CB5omn6KGM77yJ77ybCiAqICAgwrcgc2NoZWR1bGVfKu+8iOaXoOS6uuWAvOWuiOeahOiHquaIkeiwg+W6pu+8ieOAggogKi8KY29uc3QgTE9DQUxfRVhFQ1VUSU9OX1RPT0xTID0gWwogICdwd3NoJywgJ2Jhc2gnLAogICdyZWFkJywgJ3JlYWRfaW1hZ2UnLCAnd3JpdGUnLCAnZWRpdCcsICdzdHJfcmVwbGFjZV9lZGl0b3InLAogICdnbG9iJywgJ2dyZXAnLAogICdsb2FkX3dvcmtzcGFjZV9kZXBlbmRlbmNpZXMnLAogICdzdWJhZ2VudCcsICdzdWJhZ2VudF9mb3JrJywgJ2xpc3Rfc3ViYWdlbnRfbW9kZWxzJywKICAnc2VuZF9tZXNzYWdlJywgJ2ludGVycnVwdF9hZ2VudCcsICdsaXN0X2FnZW50cycsCiAgJ3dvcmtmbG93JywgJ3JhbHBoJywKICAnY29yZGlzX2luc3BlY3RfbGlzdCcsICdjb3JkaXNfaW5zcGVjdF9xdWVyeScsCiAgJ2RzaF9zbmFwc2hvdCcsICdkc2hfcm9sbGJhY2snLCAnaW5jaWRlbnRfcmVzb2x2ZWQnLAogICdqb2JfbGlzdCcsICdqb2Jfb3V0cHV0JywgJ2pvYl9raWxsJywgJ3NraWxsJywgJ3ByZXNlbnQnLAogICdnZXRfZ29hbCcsICdjcmVhdGVfZ29hbCcsICd1cGRhdGVfZ29hbCcsCiAgJ2Rldl9tb2RlX3NldCcsICdkZXZfbW9kZV9zdGF0dXMnLCAnZGV2X21vZGVfc3ViYWdlbnQnLAogIC8vIDAuMi4wIOaWsOWinuWvuei0pgogICdsaXN0X21jcF9yZXNvdXJjZXMnLCAnbGlzdF9tY3BfcmVzb3VyY2VfdGVtcGxhdGVzJywgJ3JlYWRfbWNwX3Jlc291cmNlJywKICAnc3Bhd25fdGVhbW1hdGUnLCAndGVhbV90YXNrX2NyZWF0ZScsICd0ZWFtX3Rhc2tfZ2V0JywgJ3RlYW1fdGFza19saXN0JywgJ3RlYW1fdGFza191cGRhdGUnLAogICdwbHVnaW5fbWFuYWdlcicsCiAgJ3NjaGVkdWxlX2NyZWF0ZScsICdzY2hlZHVsZV9saXN0JywgJ3NjaGVkdWxlX3VwZGF0ZScsICdzY2hlZHVsZV9kZWxldGUnLAogIC8vIDAuMi4xIOaWsOWinuWvuei0pu+8iDIwMjYtMTAtMjLvvInvvJp3b3JraW5nX2RpcmVjdG9yeSDnlLEgZHNoLWJhc2Ug6buY6K6k5oyC6L2977yI5YWo5bGA5bGC57un5om/77yJ77yMCiAgLy8gdGVybWluYWwg5LiA5pePID0gc2hlbGzvvIxzZXNzaW9uXyog6IO96Leo5Lya6K+d6K+75LqL5Lu25q2j5paH77yMcGx1Z2luX21hcmtldCA9IOijhei9veadg+OAggogICd3b3JraW5nX2RpcmVjdG9yeScsCiAgJ3Rlcm1pbmFsX29wZW4nLCAndGVybWluYWxfc2VuZCcsICd0ZXJtaW5hbF9yZWFkJywgJ3Rlcm1pbmFsX3NpZ25hbCcsICd0ZXJtaW5hbF9jbG9zZScsICd0ZXJtaW5hbF9saXN0JywKICAnc2Vzc2lvbl9zZWFyY2gnLCAnc2Vzc2lvbl90cmFjZScsICdzZXNzaW9uX2V2ZW50X3JlYWQnLCAnc2Vzc2lvbl9ldmVudF9zZWFyY2gnLCAnc2Vzc2lvbl9ldmVudF90cmFjZScsCiAgJ3BsdWdpbl9tYXJrZXQnLCAnY3JlYXRlX3dvcmt0cmVlJywgJ3dhaXRfYWdlbnQnLAogIC8vIOaMiemcgOWuieijheeahOWPr+mAiee7hOWQiOWMheaJjeazqOWGjOeahOWQjeWtl++8mjAuMi4xIOi1t+m7mOiupOS4jeWtmOWcqO+8jOS9huS4gOaXpuijheS4iuWwseimgeaMoe+8jAogIC8vIOaJgOS7peS7jeWcqOWQjeWNlemHjO+8m+Wvuei0puaXtuaMieOAjOWPr+mAiemhueOAjeWkhOeQhu+8iOingeS4i+aWuSBPUFRJT05BTF9CVU5ETEVfVE9PTFPvvInjgIIKICAnc3ViYWdlbnRfY29kZXgnLCAnc3ViYWdlbnRfY2xhdWRlX2NvZGUnLApdOwoKLyoqIDAuMi4xIOi1tyBDb2RleCAvIENsYXVkZSBDb2RlIOaUueS4uuaMiemcgOWuieijhe+8mui/mee7hOWQjeWtl+m7mOiupOaJq+S4jeWIsO+8jOS4jeeul+aLvOmUmeWBh+WQjeOAgiAqLwpjb25zdCBPUFRJT05BTF9CVU5ETEVfVE9PTFMgPSBuZXcgU2V0KFsnc3ViYWdlbnRfY29kZXgnLCAnc3ViYWdlbnRfY2xhdWRlX2NvZGUnXSk7CgovKioKICog5bel5YW35ZCNIOKGkiDnnJ/lrp7lrZjlnKjkuI7lkKbjgILmir3lj5blrp7njrDlnKggYHNjcmlwdHMvZHNoLXRvb2wtbmFtZXMubWpzYO+8iOWUr+S4gOWunueOsO+8jAogKiDkuI4gYHNjYW4tZHNoLXRvb2wtbmFtZXMubWpzYCDlhbHnlKjvvInvvIznlKjmnaXmipMi5ou86ZSZ55qE5YGH5ZCNIuOAggogKgogKiDljoblj7LlnZHvvJrmnKzmtYvor5Xov4fljrvoh6rluKbkuIDku70qKuaooeeziioq5oq95Y+W5Zmo77yI5YWo5paH5Lu25Lmx5omrIGBuYW1lOiAneCdgICsg5Y+q6K6k5bCR5pWwCiAqIOWMheWQjeWJjee8gCArIOWPquivu+WMheagueebruW9leeahCBjb3JkaXMucGF0Y2gueW1s77yJ44CCMC4yLjAg5a+56LSm5pe25a6D5oqKIDEwIOS4qioq55yf5a6e5a2Y5ZyoKioKICog55qE5bel5YW35ZCN5oql5oiQ5YGH5ZCN77yaYGRzaC1tY3AtcmVzb3VyY2VzYCAvIGBkc2gtZXhwZXJpbWVudGFsLXRvb2wtYWdlbnQtdGVhbWAg5LiN5Yy56YWNCiAqIOWug+eahOWMheWQjeeZveWQjeWNle+8jGBzdWJhZ2VudF9jb2RleGAg5YaZ5ZyoIGBkc2gtd2ViLWFwcC9wcmVzZXRzLyoucGF0Y2gueW1sYCDogIzpnZ7ljIXmoLnjgIIKICog6K+v5Yik5pa55ZCR5b6I5Y2x6Zmp4oCU4oCU5a6D5Lya6YC85Lq65oqK55yf5ZCN5a2X5LuO5a6I5Y2r5ZCN5Y2V6YeM5Yig5o6J77yM562J5LqO6Ieq5bex5ouG5o6J5a6J5YWo6L6555WM44CCCiAqIOeOsOWcqOWPquS/neeVmeS4gOadoeWunueOsO+8jOS4pOi+ueS4jeWPr+iDveWGjea8guenu+OAggogKi8KZnVuY3Rpb24gY29sbGVjdERzaFRvb2xOYW1lcygpIHsKICBjb25zdCB7IG5hbWVzIH0gPSBjb2xsZWN0RHNoVG9vbE5hbWVzU2hhcmVkKCk7CiAgcmV0dXJuIG5hbWVzLnNpemUgPT09IDAgPyBudWxsIDogbmV3IFNldChuYW1lcy5rZXlzKCkpOwp9Ci8qKiDlhYHorrjlh7rnjrDlnKjlkI3ljZXph4zjgIHkvYbkuI3lsZ7kuo4i5pys5Zyw5omn6KGMIuivreS5ieeahOWQjeWtl++8iOW8gOWPkS/ms6jlhaXlmajvvInjgIIgKi8KY29uc3QgREVWX1RPT0xfUFJFRklYID0gL15kZXZfLzsKCi8qKiDlhYHorrjlh7rnjrDnmoQgTUNQIOWRveWQjeepuumXtOWJjee8gO+8iFFRIOWKqOS9nOmdou+8ieOAgiAqLwpjb25zdCBFWFBFQ1RFRF9TQUZFX1BSRUZJWEVTID0gWwogICdtY3BfX3Nub3dsdW1hX18nLAogICdtY3BfX3Nub3dsdW1hLWhvc3RfXycsCiAgJ21jcF9fd2ViLXNlYXJjaC1zYWZlX18nLApdOwoKZnVuY3Rpb24gcmVhZFByZXNldChpZCkgewogIGNvbnN0IGRpciA9IHBhdGguam9pbihQUkVTRVRTX0RJUiwgaWQpOwogIGFzc2VydC5vayhmcy5leGlzdHNTeW5jKGRpciksIGBwcmVzZXQg55uu5b2V5a2Y5Zyo77yaJHtpZH1gKTsKICBjb25zdCBjb3JkaXMgPSBwYXRoLmpvaW4oZGlyLCAnYWdlbnQuY29yZGlzLnltbCcpOwogIGFzc2VydC5vayhmcy5leGlzdHNTeW5jKGNvcmRpcyksIGBwcmVzZXQg5pyJIGFnZW50LmNvcmRpcy55bWzvvJoke2lkfWApOwogIHJldHVybiB7IGRpciwgeW1sOiBmcy5yZWFkRmlsZVN5bmMoY29yZGlzLCAndXRmOCcpLCBjb3JkaXMgfTsKfQoKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnRlc3QoJ+aooeaLn+S8muivneeahCBwcmVzZXQg6YO95oyC5LqG5bel5YW35a6I5Y2r77yI5ZCm5YiZIEw3IOayoeacieS7u+S9lei9veS9k++8iScsICgpID0+IHsKICBmb3IgKGNvbnN0IGlkIG9mIFNJTVVMQVRJT05fUFJFU0VUUykgewogICAgY29uc3QgeyB5bWwgfSA9IHJlYWRQcmVzZXQoaWQpOwogICAgYXNzZXJ0Lm1hdGNoKAogICAgICB5bWwsCiAgICAgIC9xcS10b29sLXJlc3RyaWN0LywKICAgICAgYCR7aWR9IOW/hemhu+aMgui9vSBxcS10b29sLXJlc3RyaWN077yITDcg55qE6JC954K577yJ77yM5ZCm5YiZ5pys5Zyw5bel5YW35Lya6ZqP5YWo5bGA5bGC57un5om/6L+b5p2lYCwKICAgICk7CiAgICAvLyDmupDmlofku7bph4zku43mmK8gcHJlc2V0IOebruW9leWGheeahOebuOWvueWQje+8m0RTSCAwLjEuNyDkuIvnnJ/mraPoo4Xov5sgRFNIIOeahOaYryBidW5kbGUgcGF0Y2gKICAgIC8vIO+8iHNjcmlwdHMvYnVpbGQtYWdlbnQtcHJlc2V0LXBhdGNoZXMubWpzIOeUn+aIkO+8ie+8jOmCo+mHjOS8muaKiuWug+aUueWGmeaIkOS7jiBwcm9maWxlIOebruW9lQogICAgLy8g5Y+v6Kej5p6Q55qEIGBxcS1hZ2VudC1wcmVzZXRzL3FxLXRvb2wtcmVzdHJpY3QubWpzYOKAlOKAlOi/meadoeaWreiogOmSieeahOaYryLmupDph4zlv4XpobvmnInlrojljavooYwi77yMCiAgICAvLyDmlLnlhpnnu5PmnpznlLEgdGVzdC1hZ2VudC1wcmVzZXQtcGF0Y2hlcy5tanMg6ZKJ5L2P44CCCiAgICBhc3NlcnQubWF0Y2goeW1sLCAvXC5cL3FxLXRvb2wtcmVzdHJpY3RcLm1qcy8sIGAke2lkfSDnmoTlrojljavopoHmjIflkJHmnKznm67lvZXnmoQgLm1qc2ApOwogIH0KfSk7Cgp0ZXN0KCfmqKHmi5/kvJror53nmoQgcHJlc2V0IOS4jeW+l+aMgui9vSB0b29sLXdlYiDnmoQgc2VhcmNoL2ZldGNoJywgKCkgPT4gewogIGZvciAoY29uc3QgaWQgb2YgU0lNVUxBVElPTl9QUkVTRVRTKSB7CiAgICBjb25zdCB7IHltbCB9ID0gcmVhZFByZXNldChpZCk7CiAgICBjb25zdCB3ZWJSb3cgPSAvaWQ6XHMqdG9vbC13ZWJbXHNcU117MCwyMDB9Ly5leGVjKHltbCk7CiAgICBhc3NlcnQub2sod2ViUm93LCBgJHtpZH0g5bqU5pyJIHRvb2wtd2ViIOadoeebrmApOwogICAgYXNzZXJ0Lm1hdGNoKHdlYlJvd1swXSwgL3NlYXJjaDpccypmYWxzZS8sIGAke2lkfTogdG9vbC13ZWIuc2VhcmNoIOW/hemhu+S4uiBmYWxzZWApOwogICAgYXNzZXJ0Lm1hdGNoKHdlYlJvd1swXSwgL2ZldGNoOlxzKmZhbHNlLywgYCR7aWR9OiB0b29sLXdlYi5mZXRjaCDlv4XpobvkuLogZmFsc2VgKTsKICB9Cn0pOwoKdGVzdCgn5a6I5Y2r55qEIHJlc3RyaWN0IOWQjeWNleimhuebluavj+S4gOS4quW3suefpeacrOWcsOaJp+ihjOW3peWFtycsIGFzeW5jICgpID0+IHsKICBmb3IgKGNvbnN0IGlkIG9mIFNJTVVMQVRJT05fUFJFU0VUUykgewogICAgY29uc3QgeyBkaXIgfSA9IHJlYWRQcmVzZXQoaWQpOwogICAgY29uc3QgZ3VhcmRQYXRoID0gcGF0aC5qb2luKGRpciwgJ3FxLXRvb2wtcmVzdHJpY3QubWpzJyk7CiAgICBhc3NlcnQub2soZnMuZXhpc3RzU3luYyhndWFyZFBhdGgpLCBgJHtpZH0g55qE5a6I5Y2r5paH5Lu25a2Y5ZyoYCk7CgogICAgLy8g55So5YGHIHRvb2xzIOacjeWKoeiwg+eUqOecn+WunuWuiOWNq++8jOaNleiOt+Wug+WunumZheS4i+WPkeeahCByZXN0cmljdCDor7fmsYLjgIIKICAgIGNvbnN0IHJlc3RyaWN0ZWQgPSBuZXcgU2V0KCk7CiAgICBjb25zdCBmYWtlVG9vbHMgPSB7CiAgICAgIHJlc3RyaWN0KHsgZGVueSB9KSB7IGZvciAoY29uc3QgbiBvZiBkZW55ID8/IFtdKSByZXN0cmljdGVkLmFkZChuKTsgfSwKICAgICAgZ3VhcmQoZm4pIHsgdGhpcy5fZ3VhcmQgPSBmbjsgfSwKICAgIH07CiAgICBjb25zdCBtb2QgPSBhd2FpdCBpbXBvcnQocGF0aFRvRmlsZVVSTChndWFyZFBhdGgpLmhyZWYpOwogICAgbW9kLmFwcGx5KHsgdG9vbHM6IGZha2VUb29scyB9KTsKCiAgICBjb25zdCB2aW9sYXRpb25zID0gTE9DQUxfRVhFQ1VUSU9OX1RPT0xTLmZpbHRlcigodCkgPT4gIXJlc3RyaWN0ZWQuaGFzKHQpKTsKICAgIGFzc2VydC5kZWVwRXF1YWwoCiAgICAgIHZpb2xhdGlvbnMsIFtdLAogICAgICBgJHtpZH06IOS7peS4i+acrOWcsOaJp+ihjOW3peWFt+acquWHuueOsOWcqCByZXN0cmljdCDlkI3ljZXph4zvvIzkvJrnlZnlnKjmqKHlnovnmoTlt6XlhbfmuIXljZXkuK3vvJpgCiAgICAgICsgYCR7dmlvbGF0aW9ucy5qb2luKCcsICcpfeOAguazqOWGjOacn+makOiXj+Wksei0pSDih5Igwqc1LjIg55qEIEw3IOaWreiogOS4jeaIkOeri+OAgmAsCiAgICApOwoKICAgIC8vIOaJp+ihjOacn+eZveWQjeWNleS5n+W/hemhu+aLkue7neWug+S7rO+8iHJlc3RyaWN0IOS4jiBndWFyZCDmmK/kuKTpgZPvvIzkuI3og73lj6rpnaDkuIDpgZPvvInjgIIKICAgIGFzc2VydC5lcXVhbCh0eXBlb2YgZmFrZVRvb2xzLl9ndWFyZCwgJ2Z1bmN0aW9uJywgYCR7aWR9OiDlrojljavms6jlhozkuobmiafooYzmnJ/nmb3lkI3ljZVgKTsKICAgIGZvciAoY29uc3QgdG9vbCBvZiBMT0NBTF9FWEVDVVRJT05fVE9PTFMpIHsKICAgICAgY29uc3QgdmVyZGljdCA9IGZha2VUb29scy5fZ3VhcmQoeyBuYW1lOiB0b29sIH0pOwogICAgICBhc3NlcnQub2soCiAgICAgICAgdHlwZW9mIHZlcmRpY3QgPT09ICdzdHJpbmcnICYmIHZlcmRpY3QubGVuZ3RoID4gMCwKICAgICAgICBgJHtpZH06IOacrOWcsOW3peWFtyAiJHt0b29sfSIg5b+F6aG75Zyo5omn6KGM5pyf6KKr5ouS57ud77yM5a6e6ZmF6L+U5ZueICR7SlNPTi5zdHJpbmdpZnkodmVyZGljdCl9YCwKICAgICAgKTsKICAgIH0KICB9Cn0pOwoKdGVzdCgn5a6I5Y2r5a+85Ye655qE5ZCN5Y2V5LiO5pys5rWL6K+V55qE5riF5Y2V5LiA6Ie077yI6Ziy5Lik5Lu95ZCN5Y2V5ZCE6Ieq5ryC56e777yJJywgYXN5bmMgKCkgPT4gewogIC8vIOWFiOWJjei/meS4qua1i+ivleWPquaYryLlpI3liLYi5ZCN5Y2V55qE5YmNIDE5IOS4quWQjeWtl++8jOWvvOiHtOWuiOWNq+mHjOWkmuWHuueahCA3IOS4quWQjeWtlwogIC8vIOS7juadpeayoeiiq+aWreiogOi/h+OAgueOsOWcqOaUueS4uioq5a+85YWlKirlrojljavoh6rlt7Hlr7zlh7rnmoTmlbDnu4TvvIzkuKTovrnkuI3lj6/og73mvILnp7vjgIIKICBmb3IgKGNvbnN0IGlkIG9mIFNJTVVMQVRJT05fUFJFU0VUUykgewogICAgY29uc3QgeyBkaXIgfSA9IHJlYWRQcmVzZXQoaWQpOwogICAgY29uc3QgbW9kID0gYXdhaXQgaW1wb3J0KHBhdGhUb0ZpbGVVUkwocGF0aC5qb2luKGRpciwgJ3FxLXRvb2wtcmVzdHJpY3QubWpzJykpLmhyZWYpOwogICAgYXNzZXJ0Lm9rKAogICAgICBBcnJheS5pc0FycmF5KG1vZC5SRVNUUklDVEVEX1RPT0xfTkFNRVMpICYmIG1vZC5SRVNUUklDVEVEX1RPT0xfTkFNRVMubGVuZ3RoID4gMCwKICAgICAgYCR7aWR9OiDlrojljavlv4Xpobvlr7zlh7ogUkVTVFJJQ1RFRF9UT09MX05BTUVT77yM5L6b5rWL6K+V5a+56LSmYCwKICAgICk7CiAgICBjb25zdCBtaXNzaW5nID0gTE9DQUxfRVhFQ1VUSU9OX1RPT0xTLmZpbHRlcigodCkgPT4gIW1vZC5SRVNUUklDVEVEX1RPT0xfTkFNRVMuaW5jbHVkZXModCkpOwogICAgYXNzZXJ0LmRlZXBFcXVhbChtaXNzaW5nLCBbXSwKICAgICAgYCR7aWR9OiDlrojljavlr7zlh7rnmoTlkI3ljZXnvLrlsJHmnKzlnLDmiafooYzlt6XlhbfvvJoke21pc3Npbmcuam9pbignLCAnKX1gKTsKICAgIC8vIOWPjeWQke+8muWQjeWNlemHjOS4jeivpea3t+WFpSLlhYHorrjnmoTml6DlrrPlt6Xlhbci44CCCiAgICBmb3IgKGNvbnN0IGFsbG93ZWQgb2YgWydhc2tfdXNlcl9xdWVzdGlvbicsICd0b2RvX3dyaXRlJ10pIHsKICAgICAgYXNzZXJ0Lm9rKCFtb2QuUkVTVFJJQ1RFRF9UT09MX05BTUVTLmluY2x1ZGVzKGFsbG93ZWQpLAogICAgICAgIGAke2lkfTogJHthbGxvd2VkfSDmmK/ml6DlrrPmqKHlnovkvqflt6XlhbfvvIzkuI3lupTlh7rnjrDlnKggcmVzdHJpY3Qg5ZCN5Y2V6YeM77yI5Lya5LiOIFNBRkVfRVhBQ1Qg6Ieq55u455+b55u+77yJYCk7CiAgICB9CiAgfQp9KTsKCnRlc3QoJ+WuiOWNq+WQjeWNlemHjOeahOavj+S4quWQjeWtl+mDveaYryBEU0gg55yf5a6e5rOo5YaM55qE5bel5YW377yI6Ziy5ou86ZSZ5YGH5ZCN6Z2Z6buY5aSx5pWI77yJJywgYXN5bmMgKCkgPT4gewogIC8vIOS4uuS7gOS5iOW/hemhu+a1i++8mmB0b29scy5yZXN0cmljdCgpYCDlr7nmnKrnn6XlkI3lrZfkvJoqKuaKm+mUmSoq77yM6ICM5a6I5Y2r6YCQ5LiqIHRyeS9jYXRjaAogIC8vIOWPquaJk+aXpeW/lyDih5Ig5ou86ZSZ55qE5ZCN5a2XID0gKirpnZnpu5ggbm8tb3AqKuOAgui/meato+aYr+acrOWQjeWNleWIneeJiOeahOecn+Wunue8uumZt++8mgogIC8vIHB3c2hfcGVyc2lzdGVudCAvIGJhc2hfcGVyc2lzdGVudCAvIGNvcmRpcyAvIGdvYWxfd3JpdGUgLyBnb2FsX3JlYWQg5LqU5Liq5YGH5ZCNCiAgLy8g6K6p5pW05om56ZmQ5Yi25oKE5oKE5bCR55Sf5pWI77yM6ICM5aWX5Lu25b2T5pe25YWo57u/44CCCiAgY29uc3QgZHNoTmFtZXMgPSBjb2xsZWN0RHNoVG9vbE5hbWVzKCk7CiAgaWYgKGRzaE5hbWVzID09PSBudWxsKSB7CiAgICBjb25zb2xlLmxvZygnICDij60gIOi3s+i/h++8muacquaJvuWIsCBEU0gg5bel5YW35YyF77yI6K6+IERTSF9UT09MX1BBQ0tBR0VTIOaMh+WQkSBAZGVlcHNlZWstYWkg55uu5b2V5Y2z5Y+v5ZCv55So77yJJyk7CiAgICByZXR1cm47CiAgfQogIGZvciAoY29uc3QgaWQgb2YgU0lNVUxBVElPTl9QUkVTRVRTKSB7CiAgICBjb25zdCB7IGRpciB9ID0gcmVhZFByZXNldChpZCk7CiAgICBjb25zdCBtb2QgPSBhd2FpdCBpbXBvcnQocGF0aFRvRmlsZVVSTChwYXRoLmpvaW4oZGlyLCAncXEtdG9vbC1yZXN0cmljdC5tanMnKSkuaHJlZik7CiAgICBjb25zdCBmYWJyaWNhdGVkID0gbW9kLlJFU1RSSUNURURfVE9PTF9OQU1FUwogICAgICAuZmlsdGVyKChuKSA9PiAhREVWX1RPT0xfUFJFRklYLnRlc3QobikgJiYgIU9QVElPTkFMX0JVTkRMRV9UT09MUy5oYXMobikgJiYgIWRzaE5hbWVzLmhhcyhuKSk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKGZhYnJpY2F0ZWQsIFtdLAogICAgICBgJHtpZH06IOS7peS4i+WQjeWtl+WcqCBEU0gg5bey5a6J6KOF55qE5bel5YW35YyF6YeM5om+5LiN5YiwIOKHkiByZXN0cmljdCDkvJrmipvplJnlubbooqvlkJ7mjonvvIxgCiAgICAgICsgYOmZkOWItumdmem7mOWkseaViO+8miR7ZmFicmljYXRlZC5qb2luKCcsICcpfWApOwogIH0KfSk7Cgp0ZXN0KCflrojljavku43mlL7ooYwgUVEgTUNQIOWRveWQjeepuumXtOS4juaXoOWus+aooeWei+S+p+W3peWFtycsIGFzeW5jICgpID0+IHsKICBmb3IgKGNvbnN0IGlkIG9mIFNJTVVMQVRJT05fUFJFU0VUUykgewogICAgY29uc3QgeyBkaXIgfSA9IHJlYWRQcmVzZXQoaWQpOwogICAgY29uc3QgZ3VhcmRQYXRoID0gcGF0aC5qb2luKGRpciwgJ3FxLXRvb2wtcmVzdHJpY3QubWpzJyk7CiAgICBjb25zdCBmYWtlVG9vbHMgPSB7IHJlc3RyaWN0KCkge30sIGd1YXJkKGZuKSB7IHRoaXMuX2d1YXJkID0gZm47IH0gfTsKICAgIGNvbnN0IG1vZCA9IGF3YWl0IGltcG9ydChwYXRoVG9GaWxlVVJMKGd1YXJkUGF0aCkuaHJlZik7CiAgICBtb2QuYXBwbHkoeyB0b29sczogZmFrZVRvb2xzIH0pOwoKICAgIGZvciAoY29uc3QgcHJlZml4IG9mIEVYUEVDVEVEX1NBRkVfUFJFRklYRVMpIHsKICAgICAgYXNzZXJ0LmVxdWFsKAogICAgICAgIGZha2VUb29scy5fZ3VhcmQoeyBuYW1lOiBgJHtwcmVmaXh9c29tZV90b29sYCB9KSwgdW5kZWZpbmVkLAogICAgICAgIGAke2lkfTogTUNQIOWJjee8gCAke3ByZWZpeH0g5bqU5pS+6KGMYCwKICAgICAgKTsKICAgIH0KICAgIGZvciAoY29uc3QgbmFtZSBvZiBbJ2Fza191c2VyX3F1ZXN0aW9uJywgJ3RvZG9fd3JpdGUnXSkgewogICAgICBhc3NlcnQuZXF1YWwoZmFrZVRvb2xzLl9ndWFyZCh7IG5hbWUgfSksIHVuZGVmaW5lZCwgYCR7aWR9OiAke25hbWV9IOW6lOaUvuihjGApOwogICAgfQogICAgLy8g5pyq55+l5bel5YW35ZCN5b+F6aG7IGZhaWwtY2xvc2Vk44CCCiAgICBmb3IgKGNvbnN0IG5hbWUgb2YgWycnLCBudWxsLCB1bmRlZmluZWQsICdtY3BfX3Vua25vd25fX3gnLCAndG90YWxseV9uZXdfdG9vbCddKSB7CiAgICAgIGFzc2VydC5vaygKICAgICAgICB0eXBlb2YgZmFrZVRvb2xzLl9ndWFyZCh7IG5hbWUgfSkgPT09ICdzdHJpbmcnLAogICAgICAgIGAke2lkfTog5pyq55+l5bel5YW3ICR7SlNPTi5zdHJpbmdpZnkobmFtZSl9IOW/hemhu+iiq+aLkue7ne+8iGZhaWwtY2xvc2Vk77yJYCwKICAgICAgKTsKICAgIH0KICB9Cn0pOwoKdGVzdCgn5bCB6ZetIGFnZW50IOeahOmihOiuvuWcqOWIm+W7uuWQjuW/hemhu+S4juS7v+ecnyBwcmVzZXQg5piO56Gu5Yy65YiGJywgKCkgPT4gewogIC8vIHFzaC1jbG9zZWQg55SxIEFEUiAwMDAzIOWumuS5ieS4uioq5pWF5oSPKirmi6XmnInlrozmlbTmnKzlnLDlt6XlhbfpnaLvvJrlroPnmoTlrojljavlj6rotJ/otKMKICAvLyAi5ZOq5LqbIFFRIOWKqOS9nOWPr+ingSLvvIzkuI3otJ/otKMi5pys5Zyw5bel5YW35p2D6ZmQ6L6555WMIuOAggogIC8vCiAgLy8g4pqg77iPIOi/meadoeaWreiogOWIneeJiOaYryoq5oGS55yfKirnmoTvvJpxc2gtY2xvc2VkIOi/mOS4jeWtmOWcqO+8jGBpZiAoIWV4aXN0cykgY29udGludWVgCiAgLy8g55u05o6l6Lez6L+H5pW05Liq5Ye95pWw5L2T77yM5rC46L+c5LiN5Lya5aSx6LSl4oCU4oCU5LiA5Liq5rC46L+c5LiN5Lya5aSx6LSl55qE5rWL6K+V5LiN5aaC5rKh5pyJ44CCCiAgLy8g546w5Zyo5pS55Li65pi+5byP6K6w5b2VIuWwmuacquWIm+W7uiLvvIzlubbkuJTkuIDml6bliJvlu7rlsLHmiafooYznnJ/lrp7mlq3oqIDjgIIKICBjb25zdCBwcmVzZW50ID0gQ0xPU0VEX0FHRU5UX1BSRVNFVFMuZmlsdGVyKChpZCkgPT4gZnMuZXhpc3RzU3luYyhwYXRoLmpvaW4oUFJFU0VUU19ESVIsIGlkKSkpOwogIGlmIChwcmVzZW50Lmxlbmd0aCA9PT0gMCkgewogICAgLy8g5LiN5piv5aSx6LSl77yM5L2G5b+F6aG76K6p5Lq655yL6KeBIui/meadoemXuOmXqOi/mOayoeiiq+ecn+ato+imhuebliLjgIIKICAgIGNvbnNvbGUubG9nKCcgIOKPrSAgcXNoLWNsb3NlZCDlsJrmnKrliJvlu7rvvIhBRFIgMDAwMyDlvoXokL3lnLDvvInvvJvmraTpobnopobnm5bmmoLkuLrnqbrvvIzkuI3mmK/pgJrov4fjgIInKTsKICAgIHJldHVybjsKICB9CiAgZm9yIChjb25zdCBpZCBvZiBwcmVzZW50KSB7CiAgICBjb25zdCB5bWwgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFBSRVNFVFNfRElSLCBpZCwgJ2FnZW50LmNvcmRpcy55bWwnKSwgJ3V0ZjgnKTsKICAgIGFzc2VydC5tYXRjaCh5bWwsIC9xcS10b29sLXJlc3RyaWN0LywgYCR7aWR9IOS5n+W6lOaMguWuiOWNq++8iOeUqOS6jiBRUSDliqjkvZzlj6/op4HmgKfvvIlgKTsKICAgIC8vIOS4juS7v+ecnyBwcmVzZXQg55qE5YWz6ZSu5Yy65Yir77ya5bCB6ZetIGFnZW50IOW/hemhu+iDveaLv+WIsOacrOWcsOW3peWFtyDih5IKICAgIC8vIOWug+eahOWuiOWNq+S4jeW+l+aKiuacrOWcsOaJp+ihjOW3peWFt+WGmei/myByZXN0cmljdCDlkI3ljZXjgIIKICAgIGNvbnN0IGd1YXJkID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihQUkVTRVRTX0RJUiwgaWQsICdxcS10b29sLXJlc3RyaWN0Lm1qcycpLCAndXRmOCcpOwogICAgZm9yIChjb25zdCB0b29sIG9mIFsncHdzaCcsICdyZWFkJywgJ3dyaXRlJ10pIHsKICAgICAgYXNzZXJ0Lm9rKAogICAgICAgICFuZXcgUmVnRXhwKGBbJyJdJHt0b29sfVsnIl1gKS50ZXN0KGd1YXJkKSwKICAgICAgICBgJHtpZH06IOWwgemXrSBhZ2VudCDpnIDopoHmnKzlnLDlt6XlhbfvvIzlrojljavkuI3lupTmioogIiR7dG9vbH0iIOWIl+WFpSByZXN0cmljdGAsCiAgICAgICk7CiAgICB9CiAgfQp9KTsK
+// 铁律 L7 的注册期断言：仿真会话的 preset **不得包含本地执行能力**。
+//
+// 为什么必须有这个文件
+// --------------------
+// `QSH_PLAN.md` §0.1 的结论是：QQ 动作闸门全部跑在桥接进程内，而 OneBot 的
+// 127.0.0.1:3000 HTTP 接口可被任何本机进程用 Bearer token 直接调用。因此
+// **"仿真会话拿不到 shell"是整个分层安全模型唯一的真边界**。
+//
+// 但在此之前没有任何断言检查过这件事：
+//   · `test-audit-setup-guards.mjs` 把工具名**喂**给 guard，验证它拒绝——这证明
+//     guard 逻辑对，**不证明本地工具已从工具清单里隐藏**；
+//   · `probe-tools.mjs` 只断言"模型某一轮没有调用本地工具"——**没调用 ≠ 不在清单里**。
+//
+// 本测试补上注册期那一半：从**真实 preset 文件**里解析出 preset 组成，断言
+// 工具守卫被挂载，并且守卫的 restrict 名单覆盖每一个已知本地执行工具。
+// 它不依赖运行中的 DSH，因此可以进 `npm run test:audit`，每次回归都跑。
+//
+// 口径说明：这里断言的是"preset 声明会隐藏/拒绝这些名字"。真正的端到端断言
+// （注册出来的清单里确实没有）需要活的 DSH，属 `probe-tools.mjs` 的范畴。
+
+import assert from 'node:assert/strict';
+import test from 'node:test';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { pathToFileURL } from 'node:url';
+import { collectDshToolNames as collectDshToolNamesShared } from './dsh-tool-names.mjs';
+
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
+const PRESETS_DIR = path.join(ROOT, 'dsh', 'agent-presets');
+
+/** 仿真模式使用的 preset（不允许有任何本地执行能力）。 */
+const SIMULATION_PRESETS = ['qq-chat', 'qq-chat-v2'];
+
+/** 封闭 agent 的 preset：按设计**允许**完整本地工具面。 */
+const CLOSED_AGENT_PRESETS = ['qsh-closed'];
+
+/**
+ * 本地执行能力清单。
+ *
+ * ⚠️ 这里**必须**含每一个能执行本地命令、读写本地文件或派生 agent 的工具名。
+ * 名字取自 DSH 0.1.7-rc.2 实际注册的工具（见 qq-tool-restrict.mjs 的注释）。
+ * 2026-09-27 的对账替换：`cordis_define`/`cordis_undefine`/`cordis_run`/`cordis_stop`
+ * 在 0.1.7 里已不存在（dsh-tool-cordis 现在只注册 cordis_inspect_list/query），
+ * 同一轮补上 `load_workspace_dependencies`（自带 Python/Node/pnpm 路径）与
+ * `list_subagent_models`（派生 agent 家族）。
+ *
+ * 两类失败模式，本文件都要防：
+ *   ① **漏**（本地工具不在守卫名单里 ⇒ 留在 schema）——由 test 3 对账 RESTRICTED_TOOL_NAMES 防；
+ *   ② **拼错假名**（名字根本不存在 ⇒ `tools.restrict` 抛错被吞 ⇒ 静默失效）——
+ *      由 test 6 用「假 restrict 会对未知名字抛错」来防。
+ *
+ * 2026-09-29 针对 DSH 0.2.0-rc.2 重新对账（用 `scripts/scan-dsh-tool-names.mjs`
+ * 从安装包里抽真实工具名双向求差）。旧名字全部还在（0 假名），新增 13 个危险语义名字：
+ *   · 全局层默认启用、仿真会话真的会继承的三个 MCP 资源工具
+ *     （`dsh-base` 的 `mcp-resources` 行没被 disabled）；
+ *   · 派生 agent / 执行外部代码：subagent_codex / subagent_claude_code /
+ *     spawn_teammate / team_task_*（现只在 DSH 自带 preset 里挂，列进来当回归网）；
+ *   · plugin_manager（插件装载权 = 任意代码执行）；
+ *   · schedule_*（无人值守的自我调度）。
+ */
+const LOCAL_EXECUTION_TOOLS = [
+  'pwsh', 'bash',
+  'read', 'read_image', 'write', 'edit', 'str_replace_editor',
+  'glob', 'grep',
+  'load_workspace_dependencies',
+  'subagent', 'subagent_fork', 'list_subagent_models',
+  'send_message', 'interrupt_agent', 'list_agents',
+  'workflow', 'ralph',
+  'cordis_inspect_list', 'cordis_inspect_query',
+  'dsh_snapshot', 'dsh_rollback', 'incident_resolved',
+  'job_list', 'job_output', 'job_kill', 'skill', 'present',
+  'get_goal', 'create_goal', 'update_goal',
+  'dev_mode_set', 'dev_mode_status', 'dev_mode_subagent',
+  // 0.2.0 新增对账
+  'list_mcp_resources', 'list_mcp_resource_templates', 'read_mcp_resource',
+  'spawn_teammate', 'team_task_create', 'team_task_get', 'team_task_list', 'team_task_update',
+  'plugin_manager',
+  'schedule_create', 'schedule_list', 'schedule_update', 'schedule_delete',
+  // 0.2.1 新增对账（2026-10-22）：working_directory 由 dsh-base 默认挂载（全局层继承），
+  // terminal 一族 = shell，session_* 能跨会话读事件正文，plugin_market = 装载权。
+  'working_directory',
+  'terminal_open', 'terminal_send', 'terminal_read', 'terminal_signal', 'terminal_close', 'terminal_list',
+  'session_search', 'session_trace', 'session_event_read', 'session_event_search', 'session_event_trace',
+  'plugin_market', 'create_worktree', 'wait_agent',
+  // 按需安装的可选组合包才注册的名字：0.2.1 起默认不存在，但一旦装上就要挡，
+  // 所以仍在名单里；对账时按「可选项」处理（见下方 OPTIONAL_BUNDLE_TOOLS）。
+  'subagent_codex', 'subagent_claude_code',
+];
+
+/** 0.2.1 起 Codex / Claude Code 改为按需安装：这组名字默认扫不到，不算拼错假名。 */
+const OPTIONAL_BUNDLE_TOOLS = new Set(['subagent_codex', 'subagent_claude_code']);
+
+/**
+ * 工具名 → 真实存在与否。抽取实现在 `scripts/dsh-tool-names.mjs`（唯一实现，
+ * 与 `scan-dsh-tool-names.mjs` 共用），用来抓"拼错的假名"。
+ *
+ * 历史坑：本测试过去自带一份**模糊**抽取器（全文件乱扫 `name: 'x'` + 只认少数
+ * 包名前缀 + 只读包根目录的 cordis.patch.yml）。0.2.0 对账时它把 10 个**真实存在**
+ * 的工具名报成假名：`dsh-mcp-resources` / `dsh-experimental-tool-agent-team` 不匹配
+ * 它的包名白名单，`subagent_codex` 写在 `dsh-web-app/presets/*.patch.yml` 而非包根。
+ * 误判方向很危险——它会逼人把真名字从守卫名单里删掉，等于自己拆掉安全边界。
+ * 现在只保留一条实现，两边不可能再漂移。
+ */
+function collectDshToolNames() {
+  const { names } = collectDshToolNamesShared();
+  return names.size === 0 ? null : new Set(names.keys());
+}
+/** 允许出现在名单里、但不属于"本地执行"语义的名字（开发/注入器）。 */
+const DEV_TOOL_PREFIX = /^dev_/;
+
+/** 允许出现的 MCP 命名空间前缀（QQ 动作面）。 */
+const EXPECTED_SAFE_PREFIXES = [
+  'mcp__snowluma__',
+  'mcp__snowluma-host__',
+  'mcp__web-search-safe__',
+];
+
+function readPreset(id) {
+  const dir = path.join(PRESETS_DIR, id);
+  assert.ok(fs.existsSync(dir), `preset 目录存在：${id}`);
+  const cordis = path.join(dir, 'agent.cordis.yml');
+  assert.ok(fs.existsSync(cordis), `preset 有 agent.cordis.yml：${id}`);
+  return { dir, yml: fs.readFileSync(cordis, 'utf8'), cordis };
+}
+
+// ---------------------------------------------------------------------------
+test('模拟会话的 preset 都挂了工具守卫（否则 L7 没有任何载体）', () => {
+  for (const id of SIMULATION_PRESETS) {
+    const { yml } = readPreset(id);
+    assert.match(
+      yml,
+      /qq-tool-restrict/,
+      `${id} 必须挂载 qq-tool-restrict（L7 的落点），否则本地工具会随全局层继承进来`,
+    );
+    // 源文件里仍是 preset 目录内的相对名；DSH 0.1.7 下真正装进 DSH 的是 bundle patch
+    // （scripts/build-agent-preset-patches.mjs 生成），那里会把它改写成从 profile 目录
+    // 可解析的 `qq-agent-presets/qq-tool-restrict.mjs`——这条断言钉的是"源里必须有守卫行"，
+    // 改写结果由 test-agent-preset-patches.mjs 钉住。
+    assert.match(yml, /\.\/qq-tool-restrict\.mjs/, `${id} 的守卫要指向本目录的 .mjs`);
+  }
+});
+
+test('模拟会话的 preset 不得挂载 tool-web 的 search/fetch', () => {
+  for (const id of SIMULATION_PRESETS) {
+    const { yml } = readPreset(id);
+    const webRow = /id:\s*tool-web[\s\S]{0,200}/.exec(yml);
+    assert.ok(webRow, `${id} 应有 tool-web 条目`);
+    assert.match(webRow[0], /search:\s*false/, `${id}: tool-web.search 必须为 false`);
+    assert.match(webRow[0], /fetch:\s*false/, `${id}: tool-web.fetch 必须为 false`);
+  }
+});
+
+test('守卫的 restrict 名单覆盖每一个已知本地执行工具', async () => {
+  for (const id of SIMULATION_PRESETS) {
+    const { dir } = readPreset(id);
+    const guardPath = path.join(dir, 'qq-tool-restrict.mjs');
+    assert.ok(fs.existsSync(guardPath), `${id} 的守卫文件存在`);
+
+    // 用假 tools 服务调用真实守卫，捕获它实际下发的 restrict 请求。
+    const restricted = new Set();
+    const fakeTools = {
+      restrict({ deny }) { for (const n of deny ?? []) restricted.add(n); },
+      guard(fn) { this._guard = fn; },
+    };
+    const mod = await import(pathToFileURL(guardPath).href);
+    mod.apply({ tools: fakeTools });
+
+    const violations = LOCAL_EXECUTION_TOOLS.filter((t) => !restricted.has(t));
+    assert.deepEqual(
+      violations, [],
+      `${id}: 以下本地执行工具未出现在 restrict 名单里，会留在模型的工具清单中：`
+      + `${violations.join(', ')}。注册期隐藏失败 ⇒ §5.2 的 L7 断言不成立。`,
+    );
+
+    // 执行期白名单也必须拒绝它们（restrict 与 guard 是两道，不能只靠一道）。
+    assert.equal(typeof fakeTools._guard, 'function', `${id}: 守卫注册了执行期白名单`);
+    for (const tool of LOCAL_EXECUTION_TOOLS) {
+      const verdict = fakeTools._guard({ name: tool });
+      assert.ok(
+        typeof verdict === 'string' && verdict.length > 0,
+        `${id}: 本地工具 "${tool}" 必须在执行期被拒绝，实际返回 ${JSON.stringify(verdict)}`,
+      );
+    }
+  }
+});
+
+test('守卫导出的名单与本测试的清单一致（防两份名单各自漂移）', async () => {
+  // 先前这个测试只是"复制"名单的前 19 个名字，导致守卫里多出的 7 个名字
+  // 从来没被断言过。现在改为**导入**守卫自己导出的数组，两边不可能漂移。
+  for (const id of SIMULATION_PRESETS) {
+    const { dir } = readPreset(id);
+    const mod = await import(pathToFileURL(path.join(dir, 'qq-tool-restrict.mjs')).href);
+    assert.ok(
+      Array.isArray(mod.RESTRICTED_TOOL_NAMES) && mod.RESTRICTED_TOOL_NAMES.length > 0,
+      `${id}: 守卫必须导出 RESTRICTED_TOOL_NAMES，供测试对账`,
+    );
+    const missing = LOCAL_EXECUTION_TOOLS.filter((t) => !mod.RESTRICTED_TOOL_NAMES.includes(t));
+    assert.deepEqual(missing, [],
+      `${id}: 守卫导出的名单缺少本地执行工具：${missing.join(', ')}`);
+    // 反向：名单里不该混入"允许的无害工具"。
+    for (const allowed of ['ask_user_question', 'todo_write']) {
+      assert.ok(!mod.RESTRICTED_TOOL_NAMES.includes(allowed),
+        `${id}: ${allowed} 是无害模型侧工具，不应出现在 restrict 名单里（会与 SAFE_EXACT 自相矛盾）`);
+    }
+  }
+});
+
+test('守卫名单里的每个名字都是 DSH 真实注册的工具（防拼错假名静默失效）', async () => {
+  // 为什么必须测：`tools.restrict()` 对未知名字会**抛错**，而守卫逐个 try/catch
+  // 只打日志 ⇒ 拼错的名字 = **静默 no-op**。这正是本名单初版的真实缺陷：
+  // pwsh_persistent / bash_persistent / cordis / goal_write / goal_read 五个假名
+  // 让整批限制悄悄少生效，而套件当时全绿。
+  const dshNames = collectDshToolNames();
+  if (dshNames === null) {
+    console.log('  ⏭  跳过：未找到 DSH 工具包（设 DSH_TOOL_PACKAGES 指向 @deepseek-ai 目录即可启用）');
+    return;
+  }
+  for (const id of SIMULATION_PRESETS) {
+    const { dir } = readPreset(id);
+    const mod = await import(pathToFileURL(path.join(dir, 'qq-tool-restrict.mjs')).href);
+    const fabricated = mod.RESTRICTED_TOOL_NAMES
+      .filter((n) => !DEV_TOOL_PREFIX.test(n) && !OPTIONAL_BUNDLE_TOOLS.has(n) && !dshNames.has(n));
+    assert.deepEqual(fabricated, [],
+      `${id}: 以下名字在 DSH 已安装的工具包里找不到 ⇒ restrict 会抛错并被吞掉，`
+      + `限制静默失效：${fabricated.join(', ')}`);
+  }
+});
+
+test('守卫仍放行 QQ MCP 命名空间与无害模型侧工具', async () => {
+  for (const id of SIMULATION_PRESETS) {
+    const { dir } = readPreset(id);
+    const guardPath = path.join(dir, 'qq-tool-restrict.mjs');
+    const fakeTools = { restrict() {}, guard(fn) { this._guard = fn; } };
+    const mod = await import(pathToFileURL(guardPath).href);
+    mod.apply({ tools: fakeTools });
+
+    for (const prefix of EXPECTED_SAFE_PREFIXES) {
+      assert.equal(
+        fakeTools._guard({ name: `${prefix}some_tool` }), undefined,
+        `${id}: MCP 前缀 ${prefix} 应放行`,
+      );
+    }
+    for (const name of ['ask_user_question', 'todo_write']) {
+      assert.equal(fakeTools._guard({ name }), undefined, `${id}: ${name} 应放行`);
+    }
+    // 未知工具名必须 fail-closed。
+    for (const name of ['', null, undefined, 'mcp__unknown__x', 'totally_new_tool']) {
+      assert.ok(
+        typeof fakeTools._guard({ name }) === 'string',
+        `${id}: 未知工具 ${JSON.stringify(name)} 必须被拒绝（fail-closed）`,
+      );
+    }
+  }
+});
+
+test('封闭 agent 的预设在创建后必须与仿真 preset 明确区分', () => {
+  // qsh-closed 由 ADR 0003 定义为**故意**拥有完整本地工具面：它的守卫只负责
+  // "哪些 QQ 动作可见"，不负责"本地工具权限边界"。
+  //
+  // ⚠️ 这条断言初版是**恒真**的：qsh-closed 还不存在，`if (!exists) continue`
+  // 直接跳过整个函数体，永远不会失败——一个永远不会失败的测试不如没有。
+  // 现在改为显式记录"尚未创建"，并且一旦创建就执行真实断言。
+  const present = CLOSED_AGENT_PRESETS.filter((id) => fs.existsSync(path.join(PRESETS_DIR, id)));
+  if (present.length === 0) {
+    // 不是失败，但必须让人看见"这条闸门还没被真正覆盖"。
+    console.log('  ⏭  qsh-closed 尚未创建（ADR 0003 待落地）；此项覆盖暂为空，不是通过。');
+    return;
+  }
+  for (const id of present) {
+    const yml = fs.readFileSync(path.join(PRESETS_DIR, id, 'agent.cordis.yml'), 'utf8');
+    assert.match(yml, /qq-tool-restrict/, `${id} 也应挂守卫（用于 QQ 动作可见性）`);
+    // 与仿真 preset 的关键区别：封闭 agent 必须能拿到本地工具 ⇒
+    // 它的守卫不得把本地执行工具写进 restrict 名单。
+    const guard = fs.readFileSync(path.join(PRESETS_DIR, id, 'qq-tool-restrict.mjs'), 'utf8');
+    for (const tool of ['pwsh', 'read', 'write']) {
+      assert.ok(
+        !new RegExp(`['"]${tool}['"]`).test(guard),
+        `${id}: 封闭 agent 需要本地工具，守卫不应把 "${tool}" 列入 restrict`,
+      );
+    }
+  }
+});

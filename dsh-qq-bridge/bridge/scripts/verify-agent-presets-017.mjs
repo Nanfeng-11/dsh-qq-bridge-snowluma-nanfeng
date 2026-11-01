@@ -1,1 +1,87 @@
-Ly8g6aqM6K+BIERTSCAwLjEuNyDnmoQgYWdlbnQgcHJlc2V0IOaYr+WQpuecn+eahOijheS4iuS6hu+8iOWPquivu+aOoua1iyArIOaWreiogO+8ieOAggovLwovLyAwLjEuNyDotbcgcHJlc2V0IOS4jeWGjeaYryB+Ly5kc2gvLmFnZW50LXByZXNldHMvIOS4i+eahOebruW9le+8muazqOWGjOihqOaXouS4jeaJq+aPj+ebruW9leS5n+S4jeaOpeWPlwovLyBwcmVzZXQg6Lev5b6E77yMcHJlc2V0IOWPmOaIkOS4gOadoeaZrumAmueahCBsb2FkZXIg6KGM77yIQGRlZXBzZWVrLWFpL2RzaC1hZ2VudC1wcmVzZXTvvInvvIwKLy8g55SxIGJ1bmRsZSDnmoQgcGF0Y2gg5paH5Lu25o+S5YWl44CC5omA5Lul44CM6KOF5LiK5LqG5rKh5pyJ44CN5Y+q6IO95Zyo6L+Q6KGM5Lit55qEIERTSCDkuIrpl67ms6jlhozooajvvJoKLy8gYWdlbnRQcmVzZXRzL2xpc3Qg6L+U5Zue55qE5q+P5LiqIGlkIOmDveS8muW4piBicm9rZW4g5a2X5q6177yI5oyC6L295aSx6LSl5pe255qE6K+K5pat77yJ44CCCi8vCi8vIOeUqOazle+8mm5vZGUgc2NyaXB0cy92ZXJpZnktYWdlbnQtcHJlc2V0cy0wMTcubWpzIFtiYXNlVXJsXQovLwovLyDpgIDlh7rnoIHvvJrlhajpg6jpgJrov4cgMO+8jOS7u+S4gOaWreiogOWksei0pSAx44CCCi8vIOKaoO+4jyDkuI3opoHnlKggcHJvY2Vzcy5leGl0KCnvvJrmiJDlip/ot6/lvoTkuIogdW5kaWNpIOeahCBrZWVwLWFsaXZlIHNvY2tldCDku43lnKjlhbPpl63vvIwKLy8g5by66KGM6YCA5Ye65Lya5ZyoIFdpbmRvd3Mg5LiK6Kem5Y+RIGxpYnV2IOaWreiogO+8iDB4QzAwMDA0MDnvvInvvIzmiormiJDlip/ot5HmiJDpnZ4gMCDpgIDlh7rnoIHjgIIKLy8g6L+Z6YeM5Y+q6K6+IHByb2Nlc3MuZXhpdENvZGXvvIzorqnkuovku7blvqrnjq/oh6rlt7HmjpLnqbrjgIIKaW1wb3J0IHsgZGlzY292ZXJEc2hTZXNzaW9uQ29va2llIH0gZnJvbSAnLi4vc3JjL2RzaC1jbGllbnQuanMnOwoKY29uc3QgQkFTRSA9IHByb2Nlc3MuYXJndlsyXSB8fCBwcm9jZXNzLmVudi5EU0hfQkFTRV9VUkwgfHwgJ2h0dHA6Ly8xMjcuMC4wLjE6MzA4MCc7CmNvbnN0IFdBTlRFRCA9IFsncXEtY2hhdCcsICdxcS1jaGF0LXYyJ107CgpsZXQgZmFpbGVkID0gMDsKZnVuY3Rpb24gY2hlY2sobGFiZWwsIG9rLCBkZXRhaWwgPSAnJykgewogIGNvbnNvbGUubG9nKGAke29rID8gJ+KchScgOiAn4p2MJ30gJHtsYWJlbH0ke2RldGFpbCA/IGAg4oCUICR7ZGV0YWlsfWAgOiAnJ31gKTsKICBpZiAoIW9rKSBmYWlsZWQgKz0gMTsKfQoKYXN5bmMgZnVuY3Rpb24gcnBjKGNvb2tpZSwgbWV0aG9kLCBhcmdzID0ge30pIHsKICBjb25zdCBycGNJZCA9IGB2ZXJpZnktJHtNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zbGljZSgyLCA4KX1gOwogIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0JBU0V9L2FwaS8ke21ldGhvZH1gLCB7CiAgICBtZXRob2Q6ICdQT1NUJywKICAgIGhlYWRlcnM6IHsgY29va2llLCAnY29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHR5cGU6ICdjbGllbnQtcmVxdWVzdCcsIHJwY0lkLCBtZXRob2QsIHBheWxvYWQ6IHsgYXJncyB9IH0pLAogIH0pOwogIGNvbnN0IHRleHQgPSBhd2FpdCByZXMudGV4dCgpOwogIGxldCBib2R5OwogIHRyeSB7IGJvZHkgPSBKU09OLnBhcnNlKHRleHQpOyB9IGNhdGNoIHsgYm9keSA9IG51bGw7IH0KICBpZiAocmVzLnN0YXR1cyAhPT0gMjAwIHx8IChib2R5ICYmIGJvZHkuZXJyb3IpKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoYCR7bWV0aG9kfSDlpLHotKXvvJpIVFRQICR7cmVzLnN0YXR1c30gJHtib2R5Py5lcnJvcj8ubWVzc2FnZSA/PyB0ZXh0LnNsaWNlKDAsIDIwMCl9YCk7CiAgfQogIHJldHVybiBib2R5Py5yZXN1bHQ/LnZhbHVlOwp9Cgphc3luYyBmdW5jdGlvbiBtYWluKCkgewogIGNvbnNvbGUubG9nKGBEU0g6ICR7QkFTRX1gKTsKICBjb25zdCBjb29raWUgPSBkaXNjb3ZlckRzaFNlc3Npb25Db29raWUoQkFTRSk7CiAgaWYgKCFjb29raWUpIHsKICAgIGNvbnNvbGUuZXJyb3IoJ+KdjCDmi7/kuI3liLAgRFNIIOS8muivnSBDb29raWXvvIjor7vkuI3liLDmnKzmnLogYnJvd3NlciBzZXNzaW9uIHNlY3JldO+8iScpOwogICAgZmFpbGVkICs9IDE7CiAgICByZXR1cm47CiAgfQoKICBsZXQgcHJlc2V0czsKICB0cnkgewogICAgY29uc3QgdmFsdWUgPSBhd2FpdCBycGMoY29va2llLCAnYWdlbnRQcmVzZXRzL2xpc3QnKTsKICAgIHByZXNldHMgPSB2YWx1ZT8ucHJlc2V0cyA/PyBbXTsKICB9IGNhdGNoIChlcnJvcikgewogICAgY29uc29sZS5lcnJvcihg4p2MIGFnZW50UHJlc2V0cy9saXN0IOiwg+eUqOWksei0pe+8miR7ZXJyb3IubWVzc2FnZX1gKTsKICAgIGZhaWxlZCArPSAxOwogICAgcmV0dXJuOwogIH0KICBjb25zb2xlLmxvZyhgYWdlbnRQcmVzZXRzL2xpc3Qg4oaSICR7cHJlc2V0cy5tYXAoKHApID0+IHAuaWQpLmpvaW4oJywgJyl9YCk7CiAgZm9yIChjb25zdCBwcmVzZXQgb2YgcHJlc2V0cykgewogICAgaWYgKHByZXNldC5icm9rZW4pIGNvbnNvbGUubG9nKGAgICDimqDvuI8gJHtwcmVzZXQuaWR9IGJyb2tlbjogJHtwcmVzZXQuYnJva2VufWApOwogIH0KICBmb3IgKGNvbnN0IGlkIG9mIFdBTlRFRCkgewogICAgY29uc3QgZm91bmQgPSBwcmVzZXRzLmZpbmQoKHApID0+IHAuaWQgPT09IGlkKTsKICAgIGNoZWNrKGBhZ2VudFByZXNldHMvbGlzdCDlkKsgJHtpZH1gLCBmb3VuZCAhPT0gdW5kZWZpbmVkKTsKICAgIC8vIOazqOWGjOihqOaKiuOAjOihjOWvvOWFpeWksei0pSAvIOacjeWKoeazhOa8j+OAjemDveWGmei/myBicm9rZW7vvJrpnZ7nqbrljbMgcHJlc2V0IOS4jeWPr+eUqO+8iOahpeaOpeS8miBmYWlsLWNsb3NlZCDmi5Lnu53lu7rkvJror53vvInjgIIKICAgIGlmIChmb3VuZCkgY2hlY2soYCR7aWR9IOaMgui9veaXoOmUmeivr++8iGJyb2tlbiDkuLrnqbrvvIlgLCAhZm91bmQuYnJva2VuLCBmb3VuZC5icm9rZW4gPz8gJycpOwogIH0KCiAgLy8g5a2Q6KGM5piv5ZCm55yf55qE6KOF5LiK5LqG77yaYWdlbnRQcmVzZXRzL3JlYWQg5Lya5oqK6K+lIHByZXNldCDnmoTlrZDooYzmuIXljZXmuLLmn5Plm54gWUFNTOOAggogIGZvciAoY29uc3QgaWQgb2YgV0FOVEVEKSB7CiAgICBpZiAoIXByZXNldHMuc29tZSgocCkgPT4gcC5pZCA9PT0gaWQpKSBjb250aW51ZTsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGRvYyA9IGF3YWl0IHJwYyhjb29raWUsICdhZ2VudFByZXNldHMvcmVhZCcsIHsgYWdlbnRQcmVzZXQ6IGlkIH0pOwogICAgICBjb25zdCB0ZXh0ID0gU3RyaW5nKGRvYz8uY29udGVudCA/PyAnJyk7CiAgICAgIGNvbnN0IHJvd3MgPSB0ZXh0LnNwbGl0KCdcbicpLmZpbHRlcigobCkgPT4gL14tIGlkOi8udGVzdChsKSkubWFwKChsKSA9PiBsLnRyaW0oKS5zbGljZSgyKSk7CiAgICAgIGNoZWNrKGAke2lkfSDlj6/or7vlm57lrZDooYzmuIXljZVgLCByb3dzLmxlbmd0aCA+IDAsIHJvd3Muam9pbignIHwgJykpOwogICAgICBjaGVjayhgJHtpZH0g5ZCrIHFxLXRvb2wtcmVzdHJpY3Qg5a6I5Y2r6KGMYCwgdGV4dC5pbmNsdWRlcygncXEtdG9vbC1yZXN0cmljdCcpKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNoZWNrKGAke2lkfSBhZ2VudFByZXNldHMvcmVhZGAsIGZhbHNlLCBlcnJvci5tZXNzYWdlKTsKICAgIH0KICB9Cn0KCmF3YWl0IG1haW4oKTsKY29uc29sZS5sb2coZmFpbGVkID09PSAwID8gJ1xu4pyFIGFnZW50IHByZXNldCDpqozor4HpgJrov4cnIDogYFxu4p2MICR7ZmFpbGVkfSDpobnlpLHotKVgKTsKcHJvY2Vzcy5leGl0Q29kZSA9IGZhaWxlZCA9PT0gMCA/IDAgOiAxOwo=
+// 验证 DSH 0.1.7 的 agent preset 是否真的装上了（只读探测 + 断言）。
+//
+// 0.1.7 起 preset 不再是 ~/.dsh/.agent-presets/ 下的目录：注册表既不扫描目录也不接受
+// preset 路径，preset 变成一条普通的 loader 行（@deepseek-ai/dsh-agent-preset），
+// 由 bundle 的 patch 文件插入。所以「装上了没有」只能在运行中的 DSH 上问注册表：
+// agentPresets/list 返回的每个 id 都会带 broken 字段（挂载失败时的诊断）。
+//
+// 用法：node scripts/verify-agent-presets-017.mjs [baseUrl]
+//
+// 退出码：全部通过 0，任一断言失败 1。
+// ⚠️ 不要用 process.exit()：成功路径上 undici 的 keep-alive socket 仍在关闭，
+// 强行退出会在 Windows 上触发 libuv 断言（0xC0000409），把成功跑成非 0 退出码。
+// 这里只设 process.exitCode，让事件循环自己排空。
+import { discoverDshSessionCookie } from '../src/dsh-client.js';
+
+const BASE = process.argv[2] || process.env.DSH_BASE_URL || 'http://127.0.0.1:3080';
+const WANTED = ['qq-chat', 'qq-chat-v2'];
+
+let failed = 0;
+function check(label, ok, detail = '') {
+  console.log(`${ok ? '✅' : '❌'} ${label}${detail ? ` — ${detail}` : ''}`);
+  if (!ok) failed += 1;
+}
+
+async function rpc(cookie, method, args = {}) {
+  const rpcId = `verify-${Math.random().toString(36).slice(2, 8)}`;
+  const res = await fetch(`${BASE}/api/${method}`, {
+    method: 'POST',
+    headers: { cookie, 'content-type': 'application/json' },
+    body: JSON.stringify({ type: 'client-request', rpcId, method, payload: { args } }),
+  });
+  const text = await res.text();
+  let body;
+  try { body = JSON.parse(text); } catch { body = null; }
+  if (res.status !== 200 || (body && body.error)) {
+    throw new Error(`${method} 失败：HTTP ${res.status} ${body?.error?.message ?? text.slice(0, 200)}`);
+  }
+  return body?.result?.value;
+}
+
+async function main() {
+  console.log(`DSH: ${BASE}`);
+  const cookie = discoverDshSessionCookie(BASE);
+  if (!cookie) {
+    console.error('❌ 拿不到 DSH 会话 Cookie（读不到本机 browser session secret）');
+    failed += 1;
+    return;
+  }
+
+  let presets;
+  try {
+    const value = await rpc(cookie, 'agentPresets/list');
+    presets = value?.presets ?? [];
+  } catch (error) {
+    console.error(`❌ agentPresets/list 调用失败：${error.message}`);
+    failed += 1;
+    return;
+  }
+  console.log(`agentPresets/list → ${presets.map((p) => p.id).join(', ')}`);
+  for (const preset of presets) {
+    if (preset.broken) console.log(`   ⚠️ ${preset.id} broken: ${preset.broken}`);
+  }
+  for (const id of WANTED) {
+    const found = presets.find((p) => p.id === id);
+    check(`agentPresets/list 含 ${id}`, found !== undefined);
+    // 注册表把「行导入失败 / 服务泄漏」都写进 broken：非空即 preset 不可用（桥接会 fail-closed 拒绝建会话）。
+    if (found) check(`${id} 挂载无错误（broken 为空）`, !found.broken, found.broken ?? '');
+  }
+
+  // 子行是否真的装上了：agentPresets/read 会把该 preset 的子行清单渲染回 YAML。
+  for (const id of WANTED) {
+    if (!presets.some((p) => p.id === id)) continue;
+    try {
+      const doc = await rpc(cookie, 'agentPresets/read', { agentPreset: id });
+      const text = String(doc?.content ?? '');
+      const rows = text.split('\n').filter((l) => /^- id:/.test(l)).map((l) => l.trim().slice(2));
+      check(`${id} 可读回子行清单`, rows.length > 0, rows.join(' | '));
+      check(`${id} 含 qq-tool-restrict 守卫行`, text.includes('qq-tool-restrict'));
+    } catch (error) {
+      check(`${id} agentPresets/read`, false, error.message);
+    }
+  }
+}
+
+await main();
+console.log(failed === 0 ? '\n✅ agent preset 验证通过' : `\n❌ ${failed} 项失败`);
+process.exitCode = failed === 0 ? 0 : 1;

@@ -1,1 +1,234 @@
-IyEvc3lzdGVtL2Jpbi9zaAojIOiHquWKqOa4heeQhiBxcS1icmlkZ2Ug5Lya6K+d5LiK5LiL5paH77yI5L+d55WZ6K6w5b+G77yJCiMg5YiG562W55Wl5a6I5oqk77ya576k6IGK5Lil5qC877yI5Y2V54us5a6I5oqk77yM55u05o6l5LuL5YWl77yJ77yM56eB6IGK5a695p2+77yI5Y+v5rex6IGK77yJCiMg55Sx5bi46am76ISa5pysICsg5b6q546v5a6e546wCgoKIyDilIDilIAg5Y+v56e75qSN6Lev5b6E5o6i5rWL77yIZHNoLXFxLWJyaWRnZSDmj5Lku7bnlJ/miJDvvIzli7/liKDvvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyDnlLXohJEgLyDmnI3liqHlmaggLyDlronljZPpgJrnlKjvvJrmoaXmjqXnm67lvZXmjInohJrmnKzoh6rouqvkvY3nva7mjqjlr7zvvIxub2RlIOi1sCBQQVRI77yMCiMgRFNIX0hPTUUg5LyY5YWI5Y+W546v5aKD5Y+Y6YeP77yM5YW25qyh5qGM6Z2iIERTSCDnuqblrprnm67lvZXjgIIKaWYgWyAteiAiJFBPUlRBQkxFX1BBVEhTX0xPQURFRCIgXTsgdGhlbgogIFBPUlRBQkxFX1BBVEhTX0xPQURFRD0xCiAgU0NSSVBUX0RJUj0iJChjZCAiJChkaXJuYW1lICIkMCIpIiAyPi9kZXYvbnVsbCAmJiBwd2QpIgogIEJSSURHRV9ESVI9IiR7QlJJREdFX0RJUjotJFNDUklQVF9ESVJ9IgogIE5PREVfQklOPSIke05PREVfQklOOi0kKGNvbW1hbmQgLXYgbm9kZSAyPi9kZXYvbnVsbCB8fCBlY2hvIG5vZGUpfSIKICBEU0hfSE9NRT0iJHtEU0hfSE9NRTotJEhPTUUvLmRzaH0iCiAgZXhwb3J0IEJSSURHRV9ESVIgTk9ERV9CSU4gRFNIX0hPTUUKZmkKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyBCUklER0VfRElSIOW3sueUseS4iuaWueWPr+enu+akjeaOoua1i+iHquWKqOaOqOWvvApMT0c9IiRCUklER0VfRElSL3N0YXRlL2F1dG8tY2xlYW4ubG9nIgpJTlRFUlZBTD03MjAwICAgICAgICMg5YWc5bqV77ya5pyA6ZW/IDIg5bCP5pe25YWo5riF5LiA5qyhCkNIRUNLPTE4MDAgICAgICAgICAgIyDmr48gMzAg5YiG6ZKf5qOA5p+l5LiA5qyhCiMg576k6IGK5a6I5oqk77yI5Lil5qC877yM55u05o6l5LuL5YWl77yJ77ya576k6IGK5Lq65aSa5Lq65p2C44CB5LiK5LiL5paH5rKh56eB6IGK6YeN6KaB77yM5pSS5LiA54K55bCx5riFCkdST1VQX1RPS0VOX0xJTUlUPTEyMDAwMCAgICMg576k6IGK5LiK5LiL5paH6LaFIDEyIOS4hyB0b2tlbiDmiY3muIXvvIjmlL7lrr3vvIzlsJHmiZPmibDvvIkKR1JPVVBfVFVSTl9MSU1JVD04MCAgICAgICAgIyDnvqTogYrntK/np68gODAg5Zue5ZCI5omN5riFCkdST1VQX01JTl9HQVA9OTAwICAgICAgICAgICMg576k6IGK5pyA5bCP6Ze06ZqUIDE1IOWIhumSnwojIOengeiBiu+8iOWuveadvu+8jOWPr+a3seiBiu+8ie+8muWSjOeIuOeIuOeahOWvueivnei/nue7reaAp+mHjeimge+8jOWkmuaUkuS4gOS6mwpQUklWX1RPS0VOX0xJTUlUPTMwMDAwMCAgICAjIOengeiBiuS4iuS4i+aWhyAzMCDkuIcgdG9rZW4g5omN5riFClBSSVZfVFVSTl9MSU1JVD0zMDAgICAgICAgICMg56eB6IGKIDMwMCDlm57lkIjmiY3muIUKUFJJVl9NSU5fR0FQPTM2MDAgICAgICAgICAgIyDnp4HogYrmnIDlsI/pl7TpmpQgMSDlsI/ml7YKT1ZFUl9GT1JDRT0yNTAwMDAgICAgICAgICAgIyDotoXov4cgMjUg5LiH5pe25peg6KeG5pyq6K+75L+d5oqk77yI56a7IDQwMCDovrnnlYzku43mnIkgMyDlgI3lronlhajot53nprvvvIkKVU5SRUFEX01BWF9IT0xEPTIxNjAwICAgICAgIyDmnKror7vkv53miqTmnIDplb/mjIHnu60gNiDlsI/ml7bvvJrljYrlpJzloIbkuIDloIbmnKror7vkuZ/kuI3og73orqnkuIrkuIvmlofml6DpmZDmtqgKCmNkICIkQlJJREdFX0RJUiIgfHwgZXhpdCAxCgpMQVNUX0ZJTEU9IiRCUklER0VfRElSL3N0YXRlLy5sYXN0LWNsZWFuIgoKd2hpbGUgdHJ1ZTsgZG8KICBOT1c9JChkYXRlICslcykKICBMQVNUX1RTPSQoY2F0ICIkTEFTVF9GSUxFIiAyPi9kZXYvbnVsbCB8fCBlY2hvIDApCiAgY2FzZSAiJExBU1RfVFMiIGluCiAgICAnJ3wqWyEwLTldKikgTEFTVF9UUz0wIDs7CiAgZXNhYwogIEVMQVBTRUQ9JCgoTk9XIC0gTEFTVF9UUykpCgogICMg5pyq5Yiw5YWc5bqV6Ze06ZqU5pe277yM5q+PIDMwIOWIhumSn+WIhuexu+Wei+ajgOafpe+8mue+pOiBiuS4peagvOOAgeengeiBiuWuveadvgogIENMRUFOX01PREU9Im5vbmUiCiAgaWYgWyAiJEVMQVBTRUQiIC1sdCAiJElOVEVSVkFMIiBdOyB0aGVuCiAgICBldmFsICIkKG5vZGUgIiRCUklER0VfRElSL3N0YXRlL3N0YXRzLWJ5LXR5cGUuY2pzIiAiJEJSSURHRV9ESVIvc3RhdGUvdG9rZW4tdXNhZ2UuanNvbmwiICIkTEFTVF9GSUxFIiAyPi9kZXYvbnVsbCkiCiAgICBjYXNlICIkR1JPVVBfVE9LIiBpbiAnJ3wqWyEwLTldKikgR1JPVVBfVE9LPTAgOzsgZXNhYwogICAgY2FzZSAiJEdST1VQX1RVUk5TIiBpbiAnJ3wqWyEwLTldKikgR1JPVVBfVFVSTlM9MCA7OyBlc2FjCiAgICBjYXNlICIkUFJJVl9UT0siIGluICcnfCpbITAtOV0qKSBQUklWX1RPSz0wIDs7IGVzYWMKICAgIGNhc2UgIiRQUklWX1RVUk5TIiBpbiAnJ3wqWyEwLTldKikgUFJJVl9UVVJOUz0wIDs7IGVzYWMKCiAgICAjIOe+pOiBiuWuiOaKpOS8mOWFiOWIpOaWre+8iOebtOaOpeS7i+WFpe+8jOmYiOWAvOS9ju+8iQogICAgaWYgWyAiJEdST1VQX1RPSyIgLWdlICIkR1JPVVBfVE9LRU5fTElNSVQiIF0gfHwgWyAiJEdST1VQX1RVUk5TIiAtZ2UgIiRHUk9VUF9UVVJOX0xJTUlUIiBdOyB0aGVuCiAgICAgIENMRUFOX01PREU9Imdyb3VwcyIKICAgIGVsaWYgWyAiJFBSSVZfVE9LIiAtZ2UgIiRQUklWX1RPS0VOX0xJTUlUIiBdIHx8IFsgIiRQUklWX1RVUk5TIiAtZ2UgIiRQUklWX1RVUk5fTElNSVQiIF07IHRoZW4KICAgICAgQ0xFQU5fTU9ERT0icHJpdmF0ZSIKICAgIGZpCgogICAgaWYgWyAiJENMRUFOX01PREUiID0gIm5vbmUiIF07IHRoZW4KICAgICAgZWNobyAiPT09ICQoZGF0ZSAnKyVZLSVtLSVkICVIOiVNOiVTJykg576kICQoKEdST1VQX1RPSy8xMDAwKSlrLyRHUk9VUF9UVVJOUyDova4gfCDnp4HogYogJCgoUFJJVl9UT0svMTAwMCkpay8kUFJJVl9UVVJOUyDova7vvIzpg73mnKrotoXpmZDvvIwzMCDliIbpkp/lkI7lho3mn6UgPT09IiA+PiAiJExPRyIKICAgICAgc2xlZXAgJENIRUNLCiAgICAgIGNvbnRpbnVlCiAgICBmaQoKICAgICMg5pyA5bCP6Ze06ZqU5Y+q5a+5576k6IGK55Sf5pWI77yIMTUg5YiG6ZKf77yJ77yb56eB6IGK5Y+q566X5Zue5ZCI5pWw77yM5LiN566X5pe26Ze0CiAgICBpZiBbICIkQ0xFQU5fTU9ERSIgPSAiZ3JvdXBzIiBdICYmIFsgIiRFTEFQU0VEIiAtbHQgIiRHUk9VUF9NSU5fR0FQIiBdOyB0aGVuCiAgICAgIGVjaG8gIj09PSAkKGRhdGUgJyslWS0lbS0lZCAlSDolTTolUycpIGdyb3VwcyDotoXmoIfvvIzkvYbot53kuIrmrKHmuIXnkIbku4UgJCgoRUxBUFNFRC82MCkpIOWIhumSn++8iDwxNW1pbu+8ie+8jOWGjeetiSA9PT0iID4+ICIkTE9HIgogICAgICBzbGVlcCAkQ0hFQ0sKICAgICAgY29udGludWUKICAgIGZpCgogICAgIyDmnKror7vkv53miqTvvJrmnInmnKrlpITnkIbmtojmga/lsLHkuI3muIXvvIjotoXov4cgMzAwayDpmaTlpJbigJTigJTkvJogNDAw77yJCiAgICBVTlJFQUQ9JChub2RlICIkQlJJREdFX0RJUi9zdGF0ZS91bnJlYWQtY291bnQuY2pzIiAiJEJSSURHRV9ESVIvc3RhdGUvc29jaWFsLXYyLmpzb24iIDI+L2Rldi9udWxsKQogICAgY2FzZSAiJFVOUkVBRCIgaW4gJyd8KlshMC05XSopIFVOUkVBRD0wIDs7IGVzYWMKICAgIFBFQUtfVE9LPSRQUklWX1RPSwogICAgWyAiJEdST1VQX1RPSyIgLWd0ICIkUEVBS19UT0siIF0gJiYgUEVBS19UT0s9JEdST1VQX1RPSwogICAgaWYgWyAiJFVOUkVBRCIgLWd0IDAgXSAmJiBbICIkUEVBS19UT0siIC1sdCAiJE9WRVJfRk9SQ0UiIF0gJiYgWyAiJEVMQVBTRUQiIC1sdCAiJFVOUkVBRF9NQVhfSE9MRCIgXTsgdGhlbgogICAgICBlY2hvICI9PT0gJChkYXRlICcrJVktJW0tJWQgJUg6JU06JVMnKSAkQ0xFQU5fTU9ERSDotoXmoIfvvIzkvYbmnIkgJFVOUkVBRCDmnaHmnKror7vvvIzmjqjov5/vvIjlt7LnrYkgJCgoRUxBUFNFRC82MCkpIOWIhumSn++8jOS4iumZkCAkKChVTlJFQURfTUFYX0hPTEQvMzYwMCkpIOWwj+aXtu+8iSA9PT0iID4+ICIkTE9HIgogICAgICBzbGVlcCAkQ0hFQ0sKICAgICAgY29udGludWUKICAgIGZpCiAgICBpZiBbICIkVU5SRUFEIiAtZ3QgMCBdICYmIFsgIiRQRUFLX1RPSyIgLWx0ICIkT1ZFUl9GT1JDRSIgXSAmJiBbICIkRUxBUFNFRCIgLWdlICIkVU5SRUFEX01BWF9IT0xEIiBdOyB0aGVuCiAgICAgIGVjaG8gIj09PSAkKGRhdGUgJyslWS0lbS0lZCAlSDolTTolUycpIOKaoO+4jyDmnKror7sgJFVOUkVBRCDmnaHmjIHnu63otoUgJCgoVU5SRUFEX01BWF9IT0xELzM2MDApKSDlsI/ml7bvvIzkv53miqTliLDmnJ/vvIzlvLrliLbmuIXnkIYgPT09IiA+PiAiJExPRyIKICAgIGZpCiAgICBpZiBbICIkVU5SRUFEIiAtZ3QgMCBdICYmIFsgIiRQRUFLX1RPSyIgLWdlICIkT1ZFUl9GT1JDRSIgXTsgdGhlbgogICAgICBlY2hvICI9PT0gJChkYXRlICcrJVktJW0tJWQgJUg6JU06JVMnKSDimqDvuI8g5LiK5LiL5paHICQoKFBFQUtfVE9LLzEwMDApKWsg6YC86L+R5qih5Z6L56qX5Y+j77yINDAwIOmjjumZqe+8ie+8jOaXoOinhiAkVU5SRUFEIOadoeacquivu+W8uuWItua4hSA9PT0iID4+ICIkTE9HIgogICAgZmkKICAgIGVjaG8gIj09PSAkKGRhdGUgJyslWS0lbS0lZCAlSDolTTolUycpICRDTEVBTl9NT0RFIOinpuWPkea4heeQhu+8iOe+pCAkKChHUk9VUF9UT0svMTAwMCkpay8kR1JPVVBfVFVSTlMg6L2u77yM56eB6IGKICQoKFBSSVZfVE9LLzEwMDApKWsvJFBSSVZfVFVSTlMg6L2u77yJPT09IiA+PiAiJExPRyIKICBmaQoKICAjIOa4heeQhuWJjeOAjOiusOW/huaUtuWwvuOAje+8muavj+asoea4heeQhuWJjemDveiuqSBBSSDmiorph43opoHorrDlv4blhpnlhaXorrDlv4blupMKICBDVF9FQVJMWT0kKGNhdCAiJEJSSURHRV9ESVIvc3RhdGUvY29uc29sZS10b2tlbiIgMj4vZGV2L251bGwpCiAgIyDmlLblsL7ojIPlm7QgPSDmnKzmrKHopoHmuIXnkIbnmoTkvJror53vvJrnp4HogYrlkoznvqTogYrnmoTph43opoHorrDlv4bpg73opoHlhpnov5vorrDlv4blupMKICBpZiBbIC1uICIkQ1RfRUFSTFkiIF07IHRoZW4KICAgIGlmIFsgIiRDTEVBTl9NT0RFIiA9ICJncm91cHMiIF07IHRoZW4KICAgICAgV1JBUF9LRVlTPSJncm91cDo8576k5Y+3MT4gZ3JvdXA6POe+pOWPtzM+IGdyb3VwOjznvqTlj7cyPiBncm91cDo8576k5Y+3ND4iCiAgICBlbGlmIFsgIiRDTEVBTl9NT0RFIiA9ICJwcml2YXRlIiBdOyB0aGVuCiAgICAgIFdSQVBfS0VZUz0icHJpdmF0ZTo85Li75Lq6UVHlj7c+IgogICAgZWxzZQogICAgICBXUkFQX0tFWVM9InByaXZhdGU6POS4u+S6ulFR5Y+3PiBncm91cDo8576k5Y+3MT4gZ3JvdXA6POe+pOWPtzM+IGdyb3VwOjznvqTlj7cyPiBncm91cDo8576k5Y+3ND4iCiAgICBmaQogICAgV1JBUFVQX09VVD0kKG5vZGUgIiRCUklER0VfRElSL3N0YXRlL3dyYXB1cC5janMiICIkQ1RfRUFSTFkiICRXUkFQX0tFWVMgMj4mMSkKICAgIGVjaG8gIiRXUkFQVVBfT1VUIiA+PiAiJExPRyIKICAgICMg5pS25bC+5rKh5YaZ5a6M77yI5Zue5ZCI6L+Y5Zyo6LeR77yJ4oaSIOW7tuWQjuS4gOi9ru+8jOS4jeehrOa4hQogICAgY2FzZSAiJFdSQVBVUF9PVVQiIGluCiAgICAgICrmnKrlrozmiJAqKQogICAgICAgIGVjaG8gIiAg4o+zIOaUtuWwvuacquWujOaIkO+8iOWluei/mOWcqOWGmeiusOW/hu+8ie+8jOacrOi9ruW7tuWQju+8jDMwIOWIhumSn+WQjuWGjeivlSIgPj4gIiRMT0ciCiAgICAgICAgc2xlZXAgJENIRUNLCiAgICAgICAgY29udGludWUKICAgICAgICA7OwogICAgZXNhYwogICAgY2FzZSAiJFdSQVBVUF9PVVQiIGluCiAgICAgICrml6DpnIDmlLblsL4qfCrkuI3lrZjlnKgqKQogICAgICAgIGVjaG8gIiAg56eB6IGK5peg5rS75Yqo5Lya6K+d77yM6Lez6L+H5pS25bC+562J5b6FIiA+PiAiJExPRyIKICAgICAgICA7OwogICAgICAqKQogICAgICAgIGVjaG8gIiAg4o+zIOaUtuWwvuWujOaIkO+8iOWbnuWQiOW3sue7k+adn++8ie+8jDMg56eS5ZCO5byA5aeL5riF55CGIiA+PiAiJExPRyIKICAgICAgICBzbGVlcCAzCiAgICAgICAgOzsKICAgIGVzYWMKICBmaQoKICBlY2hvICI9PT0gJChkYXRlICcrJVktJW0tJWQgJUg6JU06JVMnKSDlvIDlp4vmuIXnkIbvvIjmqKHlvI89JENMRUFOX01PREXvvIkgPT09IiA+PiAiJExPRyIKCiAgIyAwLiDlpIfku73orrDlv4bmlofku7bvvIjmr4/mrKHmuIXnkIbliY3lhYjlpIfku73vvIzkv53nlZnmnIDov5EgMTAg5Lu977yJCiAgQkFDS1VQX0RJUj0iJEJSSURHRV9ESVIvc3RhdGUvYmFja3VwIgogIG1rZGlyIC1wICIkQkFDS1VQX0RJUiIKICBTVEFNUD0kKGRhdGUgKyVZJW0lZC0lSCVNJVMpCiAgaWYgWyAtZiAiJEJSSURHRV9ESVIvc3RhdGUvcm9sZS1tZW1vcnkuanNvbiIgXTsgdGhlbgogICAgY3AgIiRCUklER0VfRElSL3N0YXRlL3JvbGUtbWVtb3J5Lmpzb24iICIkQkFDS1VQX0RJUi9yb2xlLW1lbW9yeS0kU1RBTVAuanNvbiIgMj4vZGV2L251bGwgJiYgZWNobyAiICDwn5K+IOW3suWkh+S7vSByb2xlLW1lbW9yeS5qc29uIiA+PiAiJExPRyIKICBmaQogIGlmIFsgLWYgIiRCUklER0VfRElSL3N0YXRlL3NvY2lhbC12Mi5qc29uIiBdOyB0aGVuCiAgICBjcCAiJEJSSURHRV9ESVIvc3RhdGUvc29jaWFsLXYyLmpzb24iICIkQkFDS1VQX0RJUi9zb2NpYWwtdjItJFNUQU1QLmpzb24iIDI+L2Rldi9udWxsICYmIGVjaG8gIiAg8J+SviDlt7LlpIfku70gc29jaWFsLXYyLmpzb24iID4+ICIkTE9HIgogIGZpCiAgbHMgLXQgIiRCQUNLVVBfRElSIi9yb2xlLW1lbW9yeS0qLmpzb24gMj4vZGV2L251bGwgfCB0YWlsIC1uICsxMSB8IHhhcmdzIC1yIHJtIC1mCiAgbHMgLXQgIiRCQUNLVVBfRElSIi9zb2NpYWwtdjItKi5qc29uIDI+L2Rldi9udWxsIHwgdGFpbCAtbiArNiB8IHhhcmdzIC1yIHJtIC1mCgogICMgMS4g5ZCM5q2l6K6w5b+G77yI5LuOIHNvY2lhbC12Mi5qc29uIOW5tuWFpeWFseS6q+iusOW/huW6kyBtZW1vcnkuc2hhcmVk77yJCiAgbm9kZSAtZSAiCmNvbnN0IGZzPXJlcXVpcmUoJ2ZzJyk7CmNvbnN0IE1CPSckQlJJREdFX0RJUi9zdGF0ZS8nOwpjb25zdCBzPUpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKE1CKydzb2NpYWwtdjIuanNvbicsJ3V0ZjgnKSk7CmNvbnN0IG1lbT1KU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhNQisncm9sZS1tZW1vcnkuanNvbicsJ3V0ZjgnKSk7Cm1lbS5tZW1vcnk9bWVtLm1lbW9yeXx8e307CmNvbnN0IHNoYXJlZD1tZW0ubWVtb3J5LnNoYXJlZHx8KG1lbS5tZW1vcnkuc2hhcmVkPXthY3RpdmVUb3BpY3M6W10scGVuZGluZ1Rob3VnaHRzOltdLG1lbWJlckltcHJlc3Npb25zOnt9fSk7CnNoYXJlZC5hY3RpdmVUb3BpY3M9c2hhcmVkLmFjdGl2ZVRvcGljc3x8W107IHNoYXJlZC5wZW5kaW5nVGhvdWdodHM9c2hhcmVkLnBlbmRpbmdUaG91Z2h0c3x8W107IHNoYXJlZC5tZW1iZXJJbXByZXNzaW9ucz1zaGFyZWQubWVtYmVySW1wcmVzc2lvbnN8fHt9OwpsZXQgbj0wOwpmb3IoY29uc3QgW2tleSxjb252XSBvZiBPYmplY3QuZW50cmllcyhzLmNvbnZlcnNhdGlvbnN8fHt9KSl7CiAgaWYoIWNvbnZ8fHR5cGVvZiBjb252IT09J29iamVjdCcpIGNvbnRpbnVlOwogIGZvcihjb25zdCB0IG9mIChjb252LmFjdGl2ZVRvcGljc3x8W10pKXsKICAgIGlmKCF0fHwhdC50ZXh0KSBjb250aW51ZTsKICAgIGNvbnN0IGhpdD1zaGFyZWQuYWN0aXZlVG9waWNzLmZpbmQoeD0+eCYmeC50ZXh0PT09dC50ZXh0KTsKICAgIGlmKCFoaXQpeyBzaGFyZWQuYWN0aXZlVG9waWNzLnB1c2godCk7IG4rKzsgfQogICAgZWxzZSB7IGhpdC5sYXN0TWVudGlvbkF0PU1hdGgubWF4KGhpdC5sYXN0TWVudGlvbkF0fHwwLHQubGFzdE1lbnRpb25BdHx8MCk7IH0KICB9CiAgZm9yKGNvbnN0IHQgb2YgKGNvbnYucGVuZGluZ1Rob3VnaHRzfHxbXSkpewogICAgaWYoIXR8fCF0LnRleHQpIGNvbnRpbnVlOwogICAgaWYoIXNoYXJlZC5wZW5kaW5nVGhvdWdodHMuc29tZSh4PT54JiZ4LnRleHQ9PT10LnRleHQpKXsgc2hhcmVkLnBlbmRpbmdUaG91Z2h0cy5wdXNoKHQpOyBuKys7IH0KICB9CiAgZm9yKGNvbnN0IFtuYW1lLGltXSBvZiBPYmplY3QuZW50cmllcyhjb252Lm1lbWJlckltcHJlc3Npb25zfHx7fSkpewogICAgaWYoIW5hbWV8fCFpbXx8dHlwZW9mIGltIT09J29iamVjdCcpIGNvbnRpbnVlOwogICAgY29uc3QgcHJldj1zaGFyZWQubWVtYmVySW1wcmVzc2lvbnNbbmFtZV07CiAgICBpZighcHJldil7IHNoYXJlZC5tZW1iZXJJbXByZXNzaW9uc1tuYW1lXT1pbTsgbisrOyB9CiAgICBlbHNlIHsKICAgICAgY29uc3QgdHJhaXRzPVsuLi5uZXcgU2V0KFsuLi4ocHJldi50cmFpdHN8fFtdKSwuLi4oaW0udHJhaXRzfHxbXSldKV07CiAgICAgIHNoYXJlZC5tZW1iZXJJbXByZXNzaW9uc1tuYW1lXT17dHJhaXRzLGludGVyYWN0aW9uQ291bnQ6TWF0aC5tYXgocHJldi5pbnRlcmFjdGlvbkNvdW50fHwwLGltLmludGVyYWN0aW9uQ291bnR8fDApLGxhc3RTZWVuQXQ6TWF0aC5tYXgocHJldi5sYXN0U2VlbkF0fHwwLGltLmxhc3RTZWVuQXR8fDApfTsKICAgIH0KICB9Cn0KZm9yKGNvbnN0IGsgb2YgT2JqZWN0LmtleXMobWVtLm1lbW9yeSkpIGlmKGshPT0nc2hhcmVkJykgZGVsZXRlIG1lbS5tZW1vcnlba107CnNoYXJlZC5hY3RpdmVUb3BpY3M9c2hhcmVkLmFjdGl2ZVRvcGljcy5zbGljZSgtMTAwKTsKc2hhcmVkLnBlbmRpbmdUaG91Z2h0cz1zaGFyZWQucGVuZGluZ1Rob3VnaHRzLnNsaWNlKC0xMDApOwptZW0udXBkYXRlZEF0PURhdGUubm93KCk7CmZzLndyaXRlRmlsZVN5bmMoTUIrJ3JvbGUtbWVtb3J5Lmpzb24nLEpTT04uc3RyaW5naWZ5KG1lbSxudWxsLDIpKydcbicpOwpjb25zb2xlLmxvZygn5YWx5Lqr6K6w5b+G5bqT5ZCM5q2l5a6M5oiQ77yI5paw5aKeICcrbisnIOadoe+8iScpOwoiID4+ICIkTE9HIiAyPiYxCgogICMgMi4g5oyJ5qih5byP6YeN572u5Lya6K+d77yI6L+e57utIDMg5qyh5aSx6LSl5ZCO5LiL5LiA6L2u5bimIGZvcmNl77yJCiAgQ1Q9JChjYXQgIiRCUklER0VfRElSL3N0YXRlL2NvbnNvbGUtdG9rZW4iIDI+L2Rldi9udWxsKQogIGlmIFsgLXogIiRDVCIgXTsgdGhlbgogICAgZWNobyAi4p2MIOaOp+WItuWPsOS7pOeJjOS4jeWtmOWcqO+8jOi3s+i/h+mHjee9riIgPj4gIiRMT0ciCiAgZWxzZQogICAgUFJFVl9GQUlMUz0kKGNhdCAiJEJSSURHRV9ESVIvc3RhdGUvLnJlc2V0LWZhaWxzIiAyPi9kZXYvbnVsbCB8fCBlY2hvIDApCiAgICBjYXNlICIkUFJFVl9GQUlMUyIgaW4gJyd8KlshMC05XSopIFBSRVZfRkFJTFM9MCA7OyBlc2FjCiAgICBGT1JDRV9GTEFHPSJmYWxzZSIKICAgIFsgIiRQUkVWX0ZBSUxTIiAtZ2UgMyBdICYmIEZPUkNFX0ZMQUc9InRydWUiCiAgICBDVVJfRkFJTFM9MAogICAgaWYgWyAiJENMRUFOX01PREUiID0gImdyb3VwcyIgXTsgdGhlbgogICAgICBSRVNFVF9LRVlTPSJncm91cDo8576k5Y+3MT4gZ3JvdXA6POe+pOWPtzM+IGdyb3VwOjznvqTlj7cyPiBncm91cDo8576k5Y+3ND4iCiAgICBlbGlmIFsgIiRDTEVBTl9NT0RFIiA9ICJwcml2YXRlIiBdOyB0aGVuCiAgICAgIFJFU0VUX0tFWVM9InByaXZhdGU6POS4u+S6ulFR5Y+3PiIKICAgIGVsc2UKICAgICAgUkVTRVRfS0VZUz0icHJpdmF0ZTo85Li75Lq6UVHlj7c+IGdyb3VwOjznvqTlj7cxPiBncm91cDo8576k5Y+3Mz4gZ3JvdXA6POe+pOWPtzI+IGdyb3VwOjznvqTlj7c0PiIKICAgIGZpCiAgICBmb3Iga2V5IGluICRSRVNFVF9LRVlTOyBkbwogICAgICBSRVM9JChub2RlIC1lICIKZmV0Y2goJ2h0dHA6Ly8xMjcuMC4wLjE6MzEwMC9hcGkvc2Vzc2lvbi9yZXNldD90b2tlbj0kQ1QnLHsKICBtZXRob2Q6J1BPU1QnLGhlYWRlcnM6eydjb250ZW50LXR5cGUnOidhcHBsaWNhdGlvbi9qc29uJ30sCiAgYm9keTpKU09OLnN0cmluZ2lmeSh7a2V5Oicka2V5Jyxmb3JjZTokRk9SQ0VfRkxBR30pLHNpZ25hbDpBYm9ydFNpZ25hbC50aW1lb3V0KDMwMDAwKQp9KS50aGVuKHI9PnIuanNvbigpKS50aGVuKGo9PmNvbnNvbGUubG9nKGoub2s/J29rJzonZmFpbCcpKS5jYXRjaChlPT5jb25zb2xlLmxvZygnZXJyOicrZS5tZXNzYWdlKSk7CiIgMj4mMSkKICAgICAgZWNobyAiICAka2V5IC0+ICRSRVMiID4+ICIkTE9HIgogICAgICBjYXNlICIkUkVTIiBpbiAqZmFpbCopIENVUl9GQUlMUz0kKChDVVJfRkFJTFMrMSkpIDs7IGVzYWMKICAgIGRvbmUKICAgIGVjaG8gIiRDVVJfRkFJTFMiID4gIiRCUklER0VfRElSL3N0YXRlLy5yZXNldC1mYWlscyIgMj4vZGV2L251bGwKICBmaQoKICAjIDMuIOa4heeQhuaXpeW/l++8iOi2hei/hyA1MDAg6KGM5pe25oiq5pat77yJCiAgaWYgWyAtZiAiJExPRyIgXSAmJiBbICQod2MgLWwgPCAiJExPRyIpIC1ndCA1MDAgXTsgdGhlbgogICAgdGFpbCAtMzAwICIkTE9HIiA+ICIkTE9HLnRtcCIgJiYgbXYgIiRMT0cudG1wIiAiJExPRyIKICBmaQoKICAjIOavj+WkqeacgOWkmuaJk+S4gOS7veWFg+elnuWMhQogICIkQlJJREdFX0RJUi9wYWNrLXNvdWwuc2giIC0tZGFpbHkgPj4gIiRMT0ciIDI+JjEKCiAgIyDlraTlhL/kvJror53mlofku7bmuIXnkIYKICBub2RlICIkQlJJREdFX0RJUi9zdGF0ZS9vcnBoYW4tY2xlYW4uY2pzIiA+PiAiJExPRyIgMj4mMQoKICAjIOm7keivneWtpuS5oOS8muivnemHjee9rgogIENUX0RPTkU9JChjYXQgIiRCUklER0VfRElSL3N0YXRlL2NvbnNvbGUtdG9rZW4iIDI+L2Rldi9udWxsKQogIGlmIFsgLW4gIiRDVF9ET05FIiBdOyB0aGVuCiAgICBub2RlIC1lICIKZmV0Y2goJ2h0dHA6Ly8xMjcuMC4wLjE6MzEwMC9hcGkvc29jaWFsVjIvc2xhbmctcmVzZXQ/dG9rZW49Jytwcm9jZXNzLmFyZ3ZbMV0se21ldGhvZDonUE9TVCcsaGVhZGVyczp7J2NvbnRlbnQtdHlwZSc6J2FwcGxpY2F0aW9uL2pzb24nfSxzaWduYWw6QWJvcnRTaWduYWwudGltZW91dCgxNTAwMCl9KQogLnRoZW4ocj0+ci5qc29uKCkpLnRoZW4oaj0+Y29uc29sZS5sb2coJyAg6buR6K+d5a2m5Lmg5Lya6K+d6YeN572uOiAnKyhqLm9rPydvayc6ai5lcnJvcikpKS5jYXRjaChlPT5jb25zb2xlLmxvZygnICDpu5Hor53lrabkuaDkvJror53ph43nva7lpLHotKU6ICcrZS5tZXNzYWdlKSk7CiIgIiRDVF9ET05FIiA+PiAiJExPRyIgMj4mMQogIGZpCgogIGVjaG8gIj09PSAkKGRhdGUgJyslWS0lbS0lZCAlSDolTTolUycpIOa4heeQhuWujOaIkO+8iOaooeW8jz0kQ0xFQU5fTU9ERe+8iSA9PT0iID4+ICIkTE9HIgogIGRhdGUgKyVzID4gIiRMQVNUX0ZJTEUiIDI+L2Rldi9udWxsCiAgc2xlZXAgNjAKZG9uZQo=
+#!/system/bin/sh
+# 自动清理 qq-bridge 会话上下文（保留记忆）
+# 分策略守护：群聊严格（单独守护，直接介入），私聊宽松（可深聊）
+# 由常驻脚本 + 循环实现
+
+
+# ── 可移植路径探测（dsh-qq-bridge 插件生成，勿删）──────────────────
+# 电脑 / 服务器 / 安卓通用：桥接目录按脚本自身位置推导，node 走 PATH，
+# DSH_HOME 优先取环境变量，其次桌面 DSH 约定目录。
+if [ -z "$PORTABLE_PATHS_LOADED" ]; then
+  PORTABLE_PATHS_LOADED=1
+  SCRIPT_DIR="$(cd "$(dirname "$0")" 2>/dev/null && pwd)"
+  BRIDGE_DIR="${BRIDGE_DIR:-$SCRIPT_DIR}"
+  NODE_BIN="${NODE_BIN:-$(command -v node 2>/dev/null || echo node)}"
+  DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+  export BRIDGE_DIR NODE_BIN DSH_HOME
+fi
+# ────────────────────────────────────────────────────────────────────
+# BRIDGE_DIR 已由上方可移植探测自动推导
+LOG="$BRIDGE_DIR/state/auto-clean.log"
+INTERVAL=7200       # 兜底：最长 2 小时全清一次
+CHECK=1800          # 每 30 分钟检查一次
+# 群聊守护（严格，直接介入）：群聊人多人杂、上下文没私聊重要，攒一点就清
+GROUP_TOKEN_LIMIT=120000   # 群聊上下文超 12 万 token 才清（放宽，少打扰）
+GROUP_TURN_LIMIT=80        # 群聊累积 80 回合才清
+GROUP_MIN_GAP=900          # 群聊最小间隔 15 分钟
+# 私聊（宽松，可深聊）：和爸爸的对话连续性重要，多攒一些
+PRIV_TOKEN_LIMIT=300000    # 私聊上下文 30 万 token 才清
+PRIV_TURN_LIMIT=300        # 私聊 300 回合才清
+PRIV_MIN_GAP=3600          # 私聊最小间隔 1 小时
+OVER_FORCE=250000          # 超过 25 万时无视未读保护（离 400 边界仍有 3 倍安全距离）
+UNREAD_MAX_HOLD=21600      # 未读保护最长持续 6 小时：半夜堆一堆未读也不能让上下文无限涨
+
+cd "$BRIDGE_DIR" || exit 1
+
+LAST_FILE="$BRIDGE_DIR/state/.last-clean"
+
+while true; do
+  NOW=$(date +%s)
+  LAST_TS=$(cat "$LAST_FILE" 2>/dev/null || echo 0)
+  case "$LAST_TS" in
+    ''|*[!0-9]*) LAST_TS=0 ;;
+  esac
+  ELAPSED=$((NOW - LAST_TS))
+
+  # 未到兜底间隔时，每 30 分钟分类型检查：群聊严格、私聊宽松
+  CLEAN_MODE="none"
+  if [ "$ELAPSED" -lt "$INTERVAL" ]; then
+    eval "$(node "$BRIDGE_DIR/state/stats-by-type.cjs" "$BRIDGE_DIR/state/token-usage.jsonl" "$LAST_FILE" 2>/dev/null)"
+    case "$GROUP_TOK" in ''|*[!0-9]*) GROUP_TOK=0 ;; esac
+    case "$GROUP_TURNS" in ''|*[!0-9]*) GROUP_TURNS=0 ;; esac
+    case "$PRIV_TOK" in ''|*[!0-9]*) PRIV_TOK=0 ;; esac
+    case "$PRIV_TURNS" in ''|*[!0-9]*) PRIV_TURNS=0 ;; esac
+
+    # 群聊守护优先判断（直接介入，阈值低）
+    if [ "$GROUP_TOK" -ge "$GROUP_TOKEN_LIMIT" ] || [ "$GROUP_TURNS" -ge "$GROUP_TURN_LIMIT" ]; then
+      CLEAN_MODE="groups"
+    elif [ "$PRIV_TOK" -ge "$PRIV_TOKEN_LIMIT" ] || [ "$PRIV_TURNS" -ge "$PRIV_TURN_LIMIT" ]; then
+      CLEAN_MODE="private"
+    fi
+
+    if [ "$CLEAN_MODE" = "none" ]; then
+      echo "=== $(date '+%Y-%m-%d %H:%M:%S') 群 $((GROUP_TOK/1000))k/$GROUP_TURNS 轮 | 私聊 $((PRIV_TOK/1000))k/$PRIV_TURNS 轮，都未超限，30 分钟后再查 ===" >> "$LOG"
+      sleep $CHECK
+      continue
+    fi
+
+    # 最小间隔只对群聊生效（15 分钟）；私聊只算回合数，不算时间
+    if [ "$CLEAN_MODE" = "groups" ] && [ "$ELAPSED" -lt "$GROUP_MIN_GAP" ]; then
+      echo "=== $(date '+%Y-%m-%d %H:%M:%S') groups 超标，但距上次清理仅 $((ELAPSED/60)) 分钟（<15min），再等 ===" >> "$LOG"
+      sleep $CHECK
+      continue
+    fi
+
+    # 未读保护：有未处理消息就不清（超过 300k 除外——会 400）
+    UNREAD=$(node "$BRIDGE_DIR/state/unread-count.cjs" "$BRIDGE_DIR/state/social-v2.json" 2>/dev/null)
+    case "$UNREAD" in ''|*[!0-9]*) UNREAD=0 ;; esac
+    PEAK_TOK=$PRIV_TOK
+    [ "$GROUP_TOK" -gt "$PEAK_TOK" ] && PEAK_TOK=$GROUP_TOK
+    if [ "$UNREAD" -gt 0 ] && [ "$PEAK_TOK" -lt "$OVER_FORCE" ] && [ "$ELAPSED" -lt "$UNREAD_MAX_HOLD" ]; then
+      echo "=== $(date '+%Y-%m-%d %H:%M:%S') $CLEAN_MODE 超标，但有 $UNREAD 条未读，推迟（已等 $((ELAPSED/60)) 分钟，上限 $((UNREAD_MAX_HOLD/3600)) 小时） ===" >> "$LOG"
+      sleep $CHECK
+      continue
+    fi
+    if [ "$UNREAD" -gt 0 ] && [ "$PEAK_TOK" -lt "$OVER_FORCE" ] && [ "$ELAPSED" -ge "$UNREAD_MAX_HOLD" ]; then
+      echo "=== $(date '+%Y-%m-%d %H:%M:%S') ⚠️ 未读 $UNREAD 条持续超 $((UNREAD_MAX_HOLD/3600)) 小时，保护到期，强制清理 ===" >> "$LOG"
+    fi
+    if [ "$UNREAD" -gt 0 ] && [ "$PEAK_TOK" -ge "$OVER_FORCE" ]; then
+      echo "=== $(date '+%Y-%m-%d %H:%M:%S') ⚠️ 上下文 $((PEAK_TOK/1000))k 逼近模型窗口（400 风险），无视 $UNREAD 条未读强制清 ===" >> "$LOG"
+    fi
+    echo "=== $(date '+%Y-%m-%d %H:%M:%S') $CLEAN_MODE 触发清理（群 $((GROUP_TOK/1000))k/$GROUP_TURNS 轮，私聊 $((PRIV_TOK/1000))k/$PRIV_TURNS 轮）===" >> "$LOG"
+  fi
+
+  # 清理前「记忆收尾」：每次清理前都让 AI 把重要记忆写入记忆库
+  CT_EARLY=$(cat "$BRIDGE_DIR/state/console-token" 2>/dev/null)
+  # 收尾范围 = 本次要清理的会话：私聊和群聊的重要记忆都要写进记忆库
+  if [ -n "$CT_EARLY" ]; then
+    if [ "$CLEAN_MODE" = "groups" ]; then
+      WRAP_KEYS="group:<群号1> group:<群号3> group:<群号2> group:<群号4>"
+    elif [ "$CLEAN_MODE" = "private" ]; then
+      WRAP_KEYS="private:<主人QQ号>"
+    else
+      WRAP_KEYS="private:<主人QQ号> group:<群号1> group:<群号3> group:<群号2> group:<群号4>"
+    fi
+    WRAPUP_OUT=$(node "$BRIDGE_DIR/state/wrapup.cjs" "$CT_EARLY" $WRAP_KEYS 2>&1)
+    echo "$WRAPUP_OUT" >> "$LOG"
+    # 收尾没写完（回合还在跑）→ 延后一轮，不硬清
+    case "$WRAPUP_OUT" in
+      *未完成*)
+        echo "  ⏳ 收尾未完成（她还在写记忆），本轮延后，30 分钟后再试" >> "$LOG"
+        sleep $CHECK
+        continue
+        ;;
+    esac
+    case "$WRAPUP_OUT" in
+      *无需收尾*|*不存在*)
+        echo "  私聊无活动会话，跳过收尾等待" >> "$LOG"
+        ;;
+      *)
+        echo "  ⏳ 收尾完成（回合已结束），3 秒后开始清理" >> "$LOG"
+        sleep 3
+        ;;
+    esac
+  fi
+
+  echo "=== $(date '+%Y-%m-%d %H:%M:%S') 开始清理（模式=$CLEAN_MODE） ===" >> "$LOG"
+
+  # 0. 备份记忆文件（每次清理前先备份，保留最近 10 份）
+  BACKUP_DIR="$BRIDGE_DIR/state/backup"
+  mkdir -p "$BACKUP_DIR"
+  STAMP=$(date +%Y%m%d-%H%M%S)
+  if [ -f "$BRIDGE_DIR/state/role-memory.json" ]; then
+    cp "$BRIDGE_DIR/state/role-memory.json" "$BACKUP_DIR/role-memory-$STAMP.json" 2>/dev/null && echo "  💾 已备份 role-memory.json" >> "$LOG"
+  fi
+  if [ -f "$BRIDGE_DIR/state/social-v2.json" ]; then
+    cp "$BRIDGE_DIR/state/social-v2.json" "$BACKUP_DIR/social-v2-$STAMP.json" 2>/dev/null && echo "  💾 已备份 social-v2.json" >> "$LOG"
+  fi
+  ls -t "$BACKUP_DIR"/role-memory-*.json 2>/dev/null | tail -n +11 | xargs -r rm -f
+  ls -t "$BACKUP_DIR"/social-v2-*.json 2>/dev/null | tail -n +6 | xargs -r rm -f
+
+  # 1. 同步记忆（从 social-v2.json 并入共享记忆库 memory.shared）
+  node -e "
+const fs=require('fs');
+const MB='$BRIDGE_DIR/state/';
+const s=JSON.parse(fs.readFileSync(MB+'social-v2.json','utf8'));
+const mem=JSON.parse(fs.readFileSync(MB+'role-memory.json','utf8'));
+mem.memory=mem.memory||{};
+const shared=mem.memory.shared||(mem.memory.shared={activeTopics:[],pendingThoughts:[],memberImpressions:{}});
+shared.activeTopics=shared.activeTopics||[]; shared.pendingThoughts=shared.pendingThoughts||[]; shared.memberImpressions=shared.memberImpressions||{};
+let n=0;
+for(const [key,conv] of Object.entries(s.conversations||{})){
+  if(!conv||typeof conv!=='object') continue;
+  for(const t of (conv.activeTopics||[])){
+    if(!t||!t.text) continue;
+    const hit=shared.activeTopics.find(x=>x&&x.text===t.text);
+    if(!hit){ shared.activeTopics.push(t); n++; }
+    else { hit.lastMentionAt=Math.max(hit.lastMentionAt||0,t.lastMentionAt||0); }
+  }
+  for(const t of (conv.pendingThoughts||[])){
+    if(!t||!t.text) continue;
+    if(!shared.pendingThoughts.some(x=>x&&x.text===t.text)){ shared.pendingThoughts.push(t); n++; }
+  }
+  for(const [name,im] of Object.entries(conv.memberImpressions||{})){
+    if(!name||!im||typeof im!=='object') continue;
+    const prev=shared.memberImpressions[name];
+    if(!prev){ shared.memberImpressions[name]=im; n++; }
+    else {
+      const traits=[...new Set([...(prev.traits||[]),...(im.traits||[])])];
+      shared.memberImpressions[name]={traits,interactionCount:Math.max(prev.interactionCount||0,im.interactionCount||0),lastSeenAt:Math.max(prev.lastSeenAt||0,im.lastSeenAt||0)};
+    }
+  }
+}
+for(const k of Object.keys(mem.memory)) if(k!=='shared') delete mem.memory[k];
+shared.activeTopics=shared.activeTopics.slice(-100);
+shared.pendingThoughts=shared.pendingThoughts.slice(-100);
+mem.updatedAt=Date.now();
+fs.writeFileSync(MB+'role-memory.json',JSON.stringify(mem,null,2)+'\n');
+console.log('共享记忆库同步完成（新增 '+n+' 条）');
+" >> "$LOG" 2>&1
+
+  # 2. 按模式重置会话（连续 3 次失败后下一轮带 force）
+  CT=$(cat "$BRIDGE_DIR/state/console-token" 2>/dev/null)
+  if [ -z "$CT" ]; then
+    echo "❌ 控制台令牌不存在，跳过重置" >> "$LOG"
+  else
+    PREV_FAILS=$(cat "$BRIDGE_DIR/state/.reset-fails" 2>/dev/null || echo 0)
+    case "$PREV_FAILS" in ''|*[!0-9]*) PREV_FAILS=0 ;; esac
+    FORCE_FLAG="false"
+    [ "$PREV_FAILS" -ge 3 ] && FORCE_FLAG="true"
+    CUR_FAILS=0
+    if [ "$CLEAN_MODE" = "groups" ]; then
+      RESET_KEYS="group:<群号1> group:<群号3> group:<群号2> group:<群号4>"
+    elif [ "$CLEAN_MODE" = "private" ]; then
+      RESET_KEYS="private:<主人QQ号>"
+    else
+      RESET_KEYS="private:<主人QQ号> group:<群号1> group:<群号3> group:<群号2> group:<群号4>"
+    fi
+    for key in $RESET_KEYS; do
+      RES=$(node -e "
+fetch('http://127.0.0.1:3100/api/session/reset?token=$CT',{
+  method:'POST',headers:{'content-type':'application/json'},
+  body:JSON.stringify({key:'$key',force:$FORCE_FLAG}),signal:AbortSignal.timeout(30000)
+}).then(r=>r.json()).then(j=>console.log(j.ok?'ok':'fail')).catch(e=>console.log('err:'+e.message));
+" 2>&1)
+      echo "  $key -> $RES" >> "$LOG"
+      case "$RES" in *fail*) CUR_FAILS=$((CUR_FAILS+1)) ;; esac
+    done
+    echo "$CUR_FAILS" > "$BRIDGE_DIR/state/.reset-fails" 2>/dev/null
+  fi
+
+  # 3. 清理日志（超过 500 行时截断）
+  if [ -f "$LOG" ] && [ $(wc -l < "$LOG") -gt 500 ]; then
+    tail -300 "$LOG" > "$LOG.tmp" && mv "$LOG.tmp" "$LOG"
+  fi
+
+  # 每天最多打一份元神包
+  "$BRIDGE_DIR/pack-soul.sh" --daily >> "$LOG" 2>&1
+
+  # 孤儿会话文件清理
+  node "$BRIDGE_DIR/state/orphan-clean.cjs" >> "$LOG" 2>&1
+
+  # 黑话学习会话重置
+  CT_DONE=$(cat "$BRIDGE_DIR/state/console-token" 2>/dev/null)
+  if [ -n "$CT_DONE" ]; then
+    node -e "
+fetch('http://127.0.0.1:3100/api/socialV2/slang-reset?token='+process.argv[1],{method:'POST',headers:{'content-type':'application/json'},signal:AbortSignal.timeout(15000)})
+ .then(r=>r.json()).then(j=>console.log('  黑话学习会话重置: '+(j.ok?'ok':j.error))).catch(e=>console.log('  黑话学习会话重置失败: '+e.message));
+" "$CT_DONE" >> "$LOG" 2>&1
+  fi
+
+  echo "=== $(date '+%Y-%m-%d %H:%M:%S') 清理完成（模式=$CLEAN_MODE） ===" >> "$LOG"
+  date +%s > "$LAST_FILE" 2>/dev/null
+  sleep 60
+done

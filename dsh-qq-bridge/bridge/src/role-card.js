@@ -1,1 +1,123 @@
-Ly8g5Lq65qC85Y2h77yIcm9sZXMvPOWQjeensD4ubWTvvInnmoTop6PmnpDkuI7jgIzmjInku7/nnJ/mqKHlvI/lj5bnlKjjgI3jgIIKLy8KLy8g5Li65LuA5LmI6KaB5YiG5qih5byP77yaCi8vICAg5LiA5Luj5Lu/55yf77yIcmVzZXJ2ZWTvvInnlKjnqbrmoLzliIbmnaHjgIHnlKggW1NJTEVOVF0g6KGo56S65rKJ6buY77ybCi8vICAg5LqM5Luj5Lu/55yf77yIcmVzZXJ2ZWQy77yJ5b+F6aG755So5bel5YW35Y+R6KiA77yIcXFfc2VuZF9tZXNzYWdlIOeahOaVsOe7hOWIhuadoe+8ie+8jOayoeaciSBbU0lMRU5UXeOAggovLyAgIOWQjOS4gOW8oOS6uuagvOWNoeiiq+S4pOenjeaooeW8j+WFseeUqOaXtu+8jOS4gOS7o+S4k+WxnuaMh+S7pOS8muS4juS6jOS7o+W3peWFt+WNj+iuruWGsueqgeOAggovLyDku6XliY3pnaAgY3VycmVudFJvbGVIaW50VjIoKSDlr7nmraPmloflgZrjgIzpgJDooYznjJzmtYsgKyDmraPliJnov4fmu6TjgI3vvIzml6LlrrnmmJPor6/kvKTlj4jor7TkuI3muIXovrnnlYzjgIIKLy8KLy8g546w5Zyo5pS55Li65pi+5byP5qCH6K6w77ya5Zyo5qCH6aKY6YeM5YaZ5qih5byP77yM5qGl5o6l5Y+q5Y+W5b2T5YmN5qih5byP6YCC55So55qE5bCP6IqC44CCCi8vICAgIyMg6KGo5oOF5YyF5L2T57O7IOOAlOS6jOS7o+OAlSAgICAgIOKGkiDlj6rlnKggcmVzZXJ2ZWQyIOazqOWFpQovLyAgICMjIOWIhuadoeaWueW8jyDjgJTkuIDku6PjgJUgICAgICAgIOKGkiDlj6rlnKggcmVzZXJ2ZWQvY2hhdCDms6jlhaUKLy8gICAjIyDkvaDmmK/osIEgICAgICAgICAgICAgICAgICAg4oaSIOS4pOenjeaooeW8j+mDveazqOWFpQovLyDmoIforrDkvJrlnKjms6jlhaXliY3ku47moIfpopjph4zljrvmjonvvIzmqKHlnovnnIvliLDnmoTlp4vnu4jmmK/lubLlh4DnmoTlsI/oioLmoIfpopjjgIIKLy8KLy8gMjAyNi0xMC0yOCDmlrDlop7jgIzmjInpnIDjgI3moIforrDvvJpgIyMg56ug6IqCIOOAlOaMiemcgOOAlWAg5bmz5pe25LiN5rOo5YWl77yM5Y+q5ZyoIHFxX2dldF9wcm9tcHQg55qE5YWo5paH6YeM5Ye6546w44CCCi8vIOeUqOmAlO+8muS6uuagvOWNoeWIhuWxgiDigJTigJQg5q+P5qyh5ZSk6YaS5Y+q5bim5qC45b+D6KeE5YiZ77yI6Lqr5Lu9L+ivreawlC/lupXnur8v6K6w5b+G77yJ77yM5aSn5q6156S65L6L5LiO6IOM5pmv5pWF5LqL5oyJ6ZyA5Y+W55So77yM55yBIHRva2Vu44CB5o+Q6YCf44CCCmV4cG9ydCBjb25zdCBST0xFX0lOSkVDVF9NT0RFUyA9IFsndjEnLCAndjInXTsKCi8vIOaooeW8j+agh+iusO+8mmDjgJTkuozku6PjgJVgIC8gYFt2Ml1gIC8gYO+8iHJlc2VydmVkMu+8iWAg562J5YaZ5rOV6YO96K6k44CCCmNvbnN0IE1PREVfVEFHUyA9IFsKICB7IG1vZGU6ICd2MicsIHJlOiAvW1xb44CU77yIKF1ccyooPzrkuozku6N8MlxzKuS7o3x2MnxyZXNlcnZlZDIpXHMqW1xd44CV77yJKV0vZ2kgfSwKICB7IG1vZGU6ICd2MScsIHJlOiAvW1xb44CU77yIKF1ccyooPzrkuIDku6N8MVxzKuS7o3x2MXxyZXNlcnZlZClccypbXF3jgJXvvIkpXS9naSB9LApdOwoKZnVuY3Rpb24gZGV0ZWN0TW9kZShoZWFkaW5nKSB7CiAgZm9yIChjb25zdCB0YWcgb2YgTU9ERV9UQUdTKSB7CiAgICB0YWcucmUubGFzdEluZGV4ID0gMDsKICAgIGlmICh0YWcucmUudGVzdChoZWFkaW5nKSkgcmV0dXJuIHRhZy5tb2RlOwogIH0KICByZXR1cm4gJ2FsbCc7Cn0KCmNvbnN0IE9OREVNQU5EX1RBR1MgPSAvW1xb44CU77yIKF1ccyooPzrmjInpnIB855So5Yiw5YaN5Y+WfOmcgOimgeaXtilccypbXF3jgJXvvIkpXS9naTsKCmZ1bmN0aW9uIGRldGVjdE9uZGVtYW5kKGhlYWRpbmcpIHsKICByZXR1cm4gT05ERU1BTkRfVEFHUy50ZXN0KFN0cmluZyhoZWFkaW5nID8/ICcnKSk7Cn0KCmZ1bmN0aW9uIHN0cmlwTW9kZVRhZ3MoaGVhZGluZykgewogIE9OREVNQU5EX1RBR1MubGFzdEluZGV4ID0gMDsKICBsZXQgb3V0ID0gU3RyaW5nKGhlYWRpbmcpOwogIGZvciAoY29uc3QgdGFnIG9mIE1PREVfVEFHUykgewogICAgdGFnLnJlLmxhc3RJbmRleCA9IDA7CiAgICBvdXQgPSBvdXQucmVwbGFjZSh0YWcucmUsICcnKTsKICB9CiAgb3V0ID0gb3V0LnJlcGxhY2UoT05ERU1BTkRfVEFHUywgJycpOwogIHJldHVybiBvdXQucmVwbGFjZSgvWyBcdF0rJC8sICcnKS5yZXBsYWNlKC9bIFx0XXsyLH0vZywgJyAnKS50cmltKCk7Cn0KCi8qKgogKiDmjInmoIfpopjmiorkurrmoLzljaHmi4bmiJDlsI/oioLjgIIKICogQHJldHVybnMge3ttb2RlOiAnYWxsJ3wndjEnfCd2MicsIGhlYWRpbmc6IHN0cmluZ3xudWxsLCBsaW5lczogc3RyaW5nW119W119CiAqLwpleHBvcnQgZnVuY3Rpb24gcGFyc2VSb2xlU2VjdGlvbnModGV4dCkgewogIGNvbnN0IHNlY3Rpb25zID0gW107CiAgbGV0IGN1cnJlbnQgPSBudWxsOwogIGZvciAoY29uc3QgbGluZSBvZiBTdHJpbmcodGV4dCA/PyAnJykuc3BsaXQoJ1xuJykpIHsKICAgIGNvbnN0IGhlYWRpbmcgPSAvXigjezEsNn0pXHMrKC4qKSQvLmV4ZWMobGluZSk7CiAgICBpZiAoIWhlYWRpbmcpIHsKICAgICAgaWYgKCFjdXJyZW50KSB7CiAgICAgICAgY3VycmVudCA9IHsgbW9kZTogJ2FsbCcsIGhlYWRpbmc6IG51bGwsIGxpbmVzOiBbXSB9OwogICAgICAgIHNlY3Rpb25zLnB1c2goY3VycmVudCk7CiAgICAgIH0KICAgICAgY3VycmVudC5saW5lcy5wdXNoKGxpbmUpOwogICAgICBjb250aW51ZTsKICAgIH0KICAgIGNvbnN0IHRpdGxlID0gc3RyaXBNb2RlVGFncyhoZWFkaW5nWzJdKTsKICAgIGN1cnJlbnQgPSB7IG1vZGU6IGRldGVjdE1vZGUoaGVhZGluZ1syXSksIG9uZGVtYW5kOiBkZXRlY3RPbmRlbWFuZChoZWFkaW5nWzJdKSwgaGVhZGluZzogdGl0bGUsIGxpbmVzOiBbYCR7aGVhZGluZ1sxXX0gJHt0aXRsZX1gXSB9OwogICAgc2VjdGlvbnMucHVzaChjdXJyZW50KTsKICB9CiAgcmV0dXJuIHNlY3Rpb25zOwp9CgovKioKICog5Y+W5Ye65p+Q5qyh5Lu/55yf55yf5q2j6KaB5rOo5YWl55qE5Lq65qC85paH5pys77yI5bey5Y675o6J5qih5byP5qCH6K6w77yJ44CCCiAqIEBwYXJhbSB7J3YxJ3wndjInfSBtb2RlCiAqLwpleHBvcnQgZnVuY3Rpb24gc2VsZWN0Um9sZVRleHQodGV4dCwgbW9kZSwgb3B0cyA9IHt9KSB7CiAgY29uc3Qgd2FudCA9IG1vZGUgPT09ICd2MScgPyAndjEnIDogJ3YyJzsKICBjb25zdCBleGNsdWRlT25kZW1hbmQgPSBvcHRzLmV4Y2x1ZGVPbmRlbWFuZCAhPT0gZmFsc2U7CiAgcmV0dXJuIHBhcnNlUm9sZVNlY3Rpb25zKHRleHQpCiAgICAuZmlsdGVyKChzZWN0aW9uKSA9PiAoc2VjdGlvbi5tb2RlID09PSAnYWxsJyB8fCBzZWN0aW9uLm1vZGUgPT09IHdhbnQpICYmICghZXhjbHVkZU9uZGVtYW5kIHx8ICFzZWN0aW9uLm9uZGVtYW5kKSkKICAgIC5tYXAoKHNlY3Rpb24pID0+IHNlY3Rpb24ubGluZXMuam9pbignXG4nKSkKICAgIC5qb2luKCdcbicpCiAgICAucmVwbGFjZSgvXG57Myx9L2csICdcblxuJykKICAgIC50cmltKCk7Cn0KCi8qKgogKiDmiqXlkYrmr4/kuKrlsI/oioLlnKjlvZPliY3mqKHlvI/kuIvmmK/lkKbkvJrooqvms6jlhaXvvIzkvpvmjqfliLblj7DpooTop4jjgIIKICogQHBhcmFtIHsndjEnfCd2Mid9IG1vZGUKICovCmV4cG9ydCBmdW5jdGlvbiByb2xlU2VjdGlvblJlcG9ydCh0ZXh0LCBtb2RlKSB7CiAgY29uc3Qgd2FudCA9IG1vZGUgPT09ICd2MScgPyAndjEnIDogJ3YyJzsKICByZXR1cm4gcGFyc2VSb2xlU2VjdGlvbnModGV4dCkubWFwKChzZWN0aW9uKSA9PiAoewogICAgaGVhZGluZzogc2VjdGlvbi5oZWFkaW5nID8/ICco5byA5aS06YOo5YiGKScsCiAgICBtb2RlOiBzZWN0aW9uLm1vZGUsCiAgICBpbmplY3RlZDogc2VjdGlvbi5tb2RlID09PSAnYWxsJyB8fCBzZWN0aW9uLm1vZGUgPT09IHdhbnQsCiAgICBjaGFyczogc2VjdGlvbi5saW5lcy5qb2luKCdcbicpLnRyaW0oKS5sZW5ndGgsCiAgfSkpOwp9CgovKiog57uf6K6h5ZCE5qih5byP55qE5a2X56ym5pWw77yM55So5LqO5o6n5Yi25Y+w5o+Q56S644CM5Y675o6J5Y+m5LiA5qih5byP55qE5LiT5bGe5bCP6IqC5ZCO6L+Y5Ymp5aSa5bCR44CN44CCICovCmV4cG9ydCBmdW5jdGlvbiByb2xlQ2hhclN0YXRzKHRleHQpIHsKICBjb25zdCBzb3VyY2UgPSBTdHJpbmcodGV4dCA/PyAnJyk7CiAgY29uc3Qgc2VjdGlvbnMgPSBwYXJzZVJvbGVTZWN0aW9ucyhzb3VyY2UpOwogIGNvbnN0IHN1bSA9IChsaXN0KSA9PiBsaXN0LnJlZHVjZSgodG90YWwsIHNlY3Rpb24pID0+IHRvdGFsICsgc2VjdGlvbi5saW5lcy5qb2luKCdcbicpLnRyaW0oKS5sZW5ndGgsIDApOwogIHJldHVybiB7CiAgICB0b3RhbDogc291cmNlLmxlbmd0aCwKICAgIGNvbW1vbjogc3VtKHNlY3Rpb25zLmZpbHRlcigoc2VjdGlvbikgPT4gc2VjdGlvbi5tb2RlID09PSAnYWxsJykpLAogICAgdjFPbmx5OiBzdW0oc2VjdGlvbnMuZmlsdGVyKChzZWN0aW9uKSA9PiBzZWN0aW9uLm1vZGUgPT09ICd2MScpKSwKICAgIHYyT25seTogc3VtKHNlY3Rpb25zLmZpbHRlcigoc2VjdGlvbikgPT4gc2VjdGlvbi5tb2RlID09PSAndjInKSksCiAgICBvbmRlbWFuZDogc3VtKHNlY3Rpb25zLmZpbHRlcigoc2VjdGlvbikgPT4gc2VjdGlvbi5vbmRlbWFuZCkpLAogICAgdjE6IHNlbGVjdFJvbGVUZXh0KHNvdXJjZSwgJ3YxJykubGVuZ3RoLAogICAgdjFDb3JlOiBzZWxlY3RSb2xlVGV4dChzb3VyY2UsICd2MScsIHsgZXhjbHVkZU9uZGVtYW5kOiB0cnVlIH0pLmxlbmd0aCwKICAgIHYyOiBzZWxlY3RSb2xlVGV4dChzb3VyY2UsICd2MicpLmxlbmd0aCwKICAgIHYyQ29yZTogc2VsZWN0Um9sZVRleHQoc291cmNlLCAndjInLCB7IGV4Y2x1ZGVPbmRlbWFuZDogdHJ1ZSB9KS5sZW5ndGgsCiAgfTsKfQoKLy8g5LiA5Luj5Lu/55yf6YGX55WZ5oyH5Luk77ya5pyq5Yqg5qih5byP5qCH6K6w5pe277yM6L+Z5Lqb6KGM5Zyo5LqM5Luj5LiL5Lya6KKr5YWc5bqV6L+H5ruk44CCCi8vIOato+ehruWBmuazleaYr+e7meaJgOWcqOWwj+iKguWKoOS4iiDjgJTkuIDku6PjgJUg5qCH6K6w44CCCmV4cG9ydCBjb25zdCBHRU4xX1JPTEVfTElORV9SRSA9IC9cW1NJTEVOVFxdfOepuuagvOWIhumalHzmjInnqbrmoLx855So56m65qC8fOepuuagvOWIhuWPpXznqbrmoLzku6Pooah86Ieq5Yqo6L2s5Y+RfOWbnuWkjeS8muiHquWKqHzovpPlh7pccypcW1NJTEVOVFxdL2k7Cg==
+// 人格卡（roles/<名称>.md）的解析与「按仿真模式取用」。
+//
+// 为什么要分模式：
+//   一代仿真（reserved）用空格分条、用 [SILENT] 表示沉默；
+//   二代仿真（reserved2）必须用工具发言（qq_send_message 的数组分条），没有 [SILENT]。
+//   同一张人格卡被两种模式共用时，一代专属指令会与二代工具协议冲突。
+// 以前靠 currentRoleHintV2() 对正文做「逐行猜测 + 正则过滤」，既容易误伤又说不清边界。
+//
+// 现在改为显式标记：在标题里写模式，桥接只取当前模式适用的小节。
+//   ## 表情包体系 〔二代〕      → 只在 reserved2 注入
+//   ## 分条方式 〔一代〕        → 只在 reserved/chat 注入
+//   ## 你是谁                   → 两种模式都注入
+// 标记会在注入前从标题里去掉，模型看到的始终是干净的小节标题。
+//
+// 2026-10-28 新增「按需」标记：`## 章节 〔按需〕` 平时不注入，只在 qq_get_prompt 的全文里出现。
+// 用途：人格卡分层 —— 每次唤醒只带核心规则（身份/语气/底线/记忆），大段示例与背景故事按需取用，省 token、提速。
+export const ROLE_INJECT_MODES = ['v1', 'v2'];
+
+// 模式标记：`〔二代〕` / `[v2]` / `（reserved2）` 等写法都认。
+const MODE_TAGS = [
+  { mode: 'v2', re: /[\[〔（(]\s*(?:二代|2\s*代|v2|reserved2)\s*[\]〕）)]/gi },
+  { mode: 'v1', re: /[\[〔（(]\s*(?:一代|1\s*代|v1|reserved)\s*[\]〕）)]/gi },
+];
+
+function detectMode(heading) {
+  for (const tag of MODE_TAGS) {
+    tag.re.lastIndex = 0;
+    if (tag.re.test(heading)) return tag.mode;
+  }
+  return 'all';
+}
+
+const ONDEMAND_TAGS = /[\[〔（(]\s*(?:按需|用到再取|需要时)\s*[\]〕）)]/gi;
+
+function detectOndemand(heading) {
+  return ONDEMAND_TAGS.test(String(heading ?? ''));
+}
+
+function stripModeTags(heading) {
+  ONDEMAND_TAGS.lastIndex = 0;
+  let out = String(heading);
+  for (const tag of MODE_TAGS) {
+    tag.re.lastIndex = 0;
+    out = out.replace(tag.re, '');
+  }
+  out = out.replace(ONDEMAND_TAGS, '');
+  return out.replace(/[ \t]+$/, '').replace(/[ \t]{2,}/g, ' ').trim();
+}
+
+/**
+ * 按标题把人格卡拆成小节。
+ * @returns {{mode: 'all'|'v1'|'v2', heading: string|null, lines: string[]}[]}
+ */
+export function parseRoleSections(text) {
+  const sections = [];
+  let current = null;
+  for (const line of String(text ?? '').split('\n')) {
+    const heading = /^(#{1,6})\s+(.*)$/.exec(line);
+    if (!heading) {
+      if (!current) {
+        current = { mode: 'all', heading: null, lines: [] };
+        sections.push(current);
+      }
+      current.lines.push(line);
+      continue;
+    }
+    const title = stripModeTags(heading[2]);
+    current = { mode: detectMode(heading[2]), ondemand: detectOndemand(heading[2]), heading: title, lines: [`${heading[1]} ${title}`] };
+    sections.push(current);
+  }
+  return sections;
+}
+
+/**
+ * 取出某次仿真真正要注入的人格文本（已去掉模式标记）。
+ * @param {'v1'|'v2'} mode
+ */
+export function selectRoleText(text, mode, opts = {}) {
+  const want = mode === 'v1' ? 'v1' : 'v2';
+  const excludeOndemand = opts.excludeOndemand !== false;
+  return parseRoleSections(text)
+    .filter((section) => (section.mode === 'all' || section.mode === want) && (!excludeOndemand || !section.ondemand))
+    .map((section) => section.lines.join('\n'))
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
+/**
+ * 报告每个小节在当前模式下是否会被注入，供控制台预览。
+ * @param {'v1'|'v2'} mode
+ */
+export function roleSectionReport(text, mode) {
+  const want = mode === 'v1' ? 'v1' : 'v2';
+  return parseRoleSections(text).map((section) => ({
+    heading: section.heading ?? '(开头部分)',
+    mode: section.mode,
+    injected: section.mode === 'all' || section.mode === want,
+    chars: section.lines.join('\n').trim().length,
+  }));
+}
+
+/** 统计各模式的字符数，用于控制台提示「去掉另一模式的专属小节后还剩多少」。 */
+export function roleCharStats(text) {
+  const source = String(text ?? '');
+  const sections = parseRoleSections(source);
+  const sum = (list) => list.reduce((total, section) => total + section.lines.join('\n').trim().length, 0);
+  return {
+    total: source.length,
+    common: sum(sections.filter((section) => section.mode === 'all')),
+    v1Only: sum(sections.filter((section) => section.mode === 'v1')),
+    v2Only: sum(sections.filter((section) => section.mode === 'v2')),
+    ondemand: sum(sections.filter((section) => section.ondemand)),
+    v1: selectRoleText(source, 'v1').length,
+    v1Core: selectRoleText(source, 'v1', { excludeOndemand: true }).length,
+    v2: selectRoleText(source, 'v2').length,
+    v2Core: selectRoleText(source, 'v2', { excludeOndemand: true }).length,
+  };
+}
+
+// 一代仿真遗留指令：未加模式标记时，这些行在二代下会被兜底过滤。
+// 正确做法是给所在小节加上 〔一代〕 标记。
+export const GEN1_ROLE_LINE_RE = /\[SILENT\]|空格分隔|按空格|用空格|空格分句|空格代表|自动转发|回复会自动|输出\s*\[SILENT\]/i;

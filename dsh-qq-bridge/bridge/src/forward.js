@@ -1,1 +1,222 @@
-Ly8g5ZCI5bm26L2s5Y+R5raI5oGv77yI5ZCI5bm26IGK5aSp6K6w5b2V77yJ55u45YWz57qv5Ye95pWw77yaCi8vIC0g5LuOIE9uZUJvdCDmtojmga/mrrXkuK3mj5Dlj5blubbmuIXmtJcgZm9yd2FyZCBpZAovLyAtIOaKiiBTbm93THVtYSBgZ2V0X2ZvcndhcmRfbXNnYCDov5Tlm57nu5PmnpzmoLzlvI/ljJbkuLrpgILlkIggQUkg6ZiF6K+755qE57Sn5YeR57uT5p6ECi8vIC0g5pq06Zyy5q+P5p2h5raI5oGv6YeM55qE5Zu+54mHL+ihqOaDheWFg+aVsOaNruS4juW1jOWllyBmb3J3YXJkIGlk77yM5L6b5qGl5o6lL01DUCDov5vkuIDmraXor7vlj5YKLy8KLy8g5a6J5YWo5Y6f5YiZ77yaCi8vIC0gZm9yd2FyZCBpZCDlj6rlhYHorrjlronlhajlrZfnrKbvvIzplb/luqblj5fpmZDvvIzpgb/lhY3miorku7vmhI/lhoXlrrnlvZPlj4LmlbDkvKDnu5kgT25lQm90L+aXpeW/lwovLyAtIOWPquagvOW8j+WMlu+8jOS4jeiuv+mXrue9kee7nO+8m+iwg+eUqOaWuei0n+i0o+KAnGlkIOW/hemhu+adpeiHquW9k+WJjeS8muivneW3suingea2iOaBr+KAneeahOagoemqjAoKaW1wb3J0IHsgdHJ1bmNhdGVUZXh0IH0gZnJvbSAnLi9tZC10by1wbGFpbi5qcyc7CgpleHBvcnQgZnVuY3Rpb24gc2FuaXRpemVGb3J3YXJkSWQodmFsdWUpIHsKICBjb25zdCBzID0gU3RyaW5nKHZhbHVlID8/ICcnKS50cmltKCk7CiAgaWYgKCFzIHx8IHMubGVuZ3RoID4gMjU2KSByZXR1cm4gJyc7CiAgLy8g5LuF55So5LqOIE9uZUJvdCBKU09OIOWPguaVsO+8muWFgeiuuOW4uOingSBRUSDotYTmupAgaWQg5a2X56ym77yM5ouS57ud56m655m9L+aOp+WItuWtl+espuOAggogIGlmICghL15bXHc6LlwtLz0rQF0rJC8udGVzdChzKSkgcmV0dXJuICcnOwogIHJldHVybiBzOwp9CgovLyDku47ljZXkuKogZm9yd2FyZCDmtojmga/mrrUgZGF0YSDkuK3lj5YgaWTvvIzkvpsgc2VnbWVudHNUb1RleHQg5LiOIGV4dHJhY3RGb3J3YXJkSWRzIOWFseeUqOOAggpleHBvcnQgZnVuY3Rpb24gZm9yd2FyZElkRnJvbURhdGEoZGF0YSkgewogIGNvbnN0IGQgPSBkYXRhICYmIHR5cGVvZiBkYXRhID09PSAnb2JqZWN0JyA/IGRhdGEgOiB7fTsKICByZXR1cm4gc2FuaXRpemVGb3J3YXJkSWQoZD8uaWQgPz8gZD8ucmVzX2lkID8/IGQ/LmZpbGVfaWQgPz8gZD8uZm9yd2FyZF9pZCA/PyAnJyk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBleHRyYWN0Rm9yd2FyZElkcyhzZWdtZW50cykgewogIGlmICghQXJyYXkuaXNBcnJheShzZWdtZW50cykpIHJldHVybiBbXTsKICBjb25zdCBvdXQgPSBbXTsKICBmb3IgKGNvbnN0IHNlZyBvZiBzZWdtZW50cykgewogICAgaWYgKCFzZWcgfHwgdHlwZW9mIHNlZyAhPT0gJ29iamVjdCcgfHwgc2VnLnR5cGUgIT09ICdmb3J3YXJkJykgY29udGludWU7CiAgICBjb25zdCBpZCA9IGZvcndhcmRJZEZyb21EYXRhKHNlZy5kYXRhKTsKICAgIGlmIChpZCAmJiAhb3V0LmluY2x1ZGVzKGlkKSkgb3V0LnB1c2goaWQpOwogIH0KICByZXR1cm4gb3V0Owp9CgpmdW5jdGlvbiBzZWdtZW50VGV4dChzZWcpIHsKICBpZiAodHlwZW9mIHNlZyA9PT0gJ3N0cmluZycpIHJldHVybiBzZWc7CiAgaWYgKCFzZWcgfHwgdHlwZW9mIHNlZyAhPT0gJ29iamVjdCcpIHJldHVybiAnJzsKICBjb25zdCBkID0gc2VnLmRhdGEgPz8ge307CiAgc3dpdGNoIChzZWcudHlwZSkgewogICAgY2FzZSAndGV4dCc6IHJldHVybiBTdHJpbmcoZC50ZXh0ID8/ICcnKTsKICAgIGNhc2UgJ2F0JzogcmV0dXJuIGQucXEgPT09ICdhbGwnID8gJ0DlhajkvZPmiJDlkZgnIDogYEAke2QucXEgPz8gJyd9YDsKICAgIGNhc2UgJ2ZhY2UnOiByZXR1cm4gYFvooajmg4Uke2QuaWQgPz8gJyd9XWA7CiAgICBjYXNlICdpbWFnZSc6IHJldHVybiAnW+WbvueJh10nOwogICAgY2FzZSAncmVjb3JkJzogcmV0dXJuICdb6K+t6Z+zXSc7CiAgICBjYXNlICd2aWRlbyc6IHJldHVybiAnW+inhumikV0nOwogICAgY2FzZSAnZmlsZSc6IHJldHVybiBgW+aWh+S7tiR7ZC5uYW1lID8/ICcnfV1gOwogICAgY2FzZSAncmVwbHknOiByZXR1cm4gJ1vlvJXnlKhdJzsKICAgIGNhc2UgJ2ZvcndhcmQnOiByZXR1cm4gJ1vovazlj5FdJzsKICAgIGNhc2UgJ2pzb24nOiByZXR1cm4gJ1vljaHniYfmtojmga9dJzsKICAgIGRlZmF1bHQ6IHJldHVybiBgWyR7c2VnLnR5cGUgPz8gJ+acquefpSd9XWA7CiAgfQp9CgpmdW5jdGlvbiBzYW5pdGl6ZUNxU3RyaW5nKHMpIHsKICAvLyDlpoLmnpwgZ2V0X2ZvcndhcmRfbXNnIOi/lOWbnueahOaYryBDUSDlrZfnrKbkuLLvvIzovazkuLrljaDkvY3nrKbvvIzpgb/lhY3mioogQ1Eg56CB5Y6f5qC35aGe57uZIEFJ44CCCiAgcmV0dXJuIFN0cmluZyhzID8/ICcnKS5yZXBsYWNlKC9cW0NROlteXF1dKlxdL2dpLCAnW+WqkuS9k10nKTsKfQoKZnVuY3Rpb24gY29udGVudFRvVGV4dChjb250ZW50KSB7CiAgaWYgKHR5cGVvZiBjb250ZW50ID09PSAnc3RyaW5nJykgcmV0dXJuIHNhbml0aXplQ3FTdHJpbmcoY29udGVudCk7CiAgaWYgKEFycmF5LmlzQXJyYXkoY29udGVudCkpIHJldHVybiBzYW5pdGl6ZUNxU3RyaW5nKGNvbnRlbnQubWFwKHNlZ21lbnRUZXh0KS5qb2luKCcnKS50cmltKCkpOwogIGlmIChjb250ZW50ICYmIHR5cGVvZiBjb250ZW50ID09PSAnb2JqZWN0JykgewogICAgLy8g5YW85a655Y2V5p2hIHNlZ21lbnQg5a+56LGh77yI5L6L5aaCIHsgdHlwZTondGV4dCcsIGRhdGE6ey4uLn0gfe+8iQogICAgaWYgKGNvbnRlbnQudHlwZSkgcmV0dXJuIHNhbml0aXplQ3FTdHJpbmcoc2VnbWVudFRleHQoY29udGVudCkudHJpbSgpKTsKICAgIGlmICh0eXBlb2YgY29udGVudC50ZXh0ID09PSAnc3RyaW5nJykgcmV0dXJuIHNhbml0aXplQ3FTdHJpbmcoY29udGVudC50ZXh0KTsKICAgIGlmIChBcnJheS5pc0FycmF5KGNvbnRlbnQuY29udGVudCkpIHJldHVybiBzYW5pdGl6ZUNxU3RyaW5nKGNvbnRlbnQuY29udGVudC5tYXAoc2VnbWVudFRleHQpLmpvaW4oJycpLnRyaW0oKSk7CiAgfQogIHJldHVybiAnJzsKfQoKZXhwb3J0IGZ1bmN0aW9uIG5vZGVUZXh0KG5vZGUpIHsKICBpZiAoIW5vZGUgfHwgdHlwZW9mIG5vZGUgIT09ICdvYmplY3QnKSByZXR1cm4gJyc7CiAgLy8g5qCH5YeGIE9uZUJvdCDovazlj5HoioLngrnvvJp7IHR5cGU6J25vZGUnLCBkYXRhOnsgbmFtZSwgdWluLCB0aW1lLCBjb250ZW50IH0gfQogIGNvbnN0IGRhdGEgPSBub2RlLmRhdGEgJiYgdHlwZW9mIG5vZGUuZGF0YSA9PT0gJ29iamVjdCcgPyBub2RlLmRhdGEgOiB7fTsKICBjb25zdCB0b3BDb250ZW50ID0gbm9kZS5tZXNzYWdlID8/IG5vZGUuY29udGVudCA/PyBub2RlLnRleHQ7CiAgY29uc3QgZGF0YUNvbnRlbnQgPSBkYXRhLm1lc3NhZ2UgPz8gZGF0YS5jb250ZW50ID8/IGRhdGEudGV4dDsKICBjb25zdCB0ZXh0ID0gY29udGVudFRvVGV4dCh0b3BDb250ZW50KSB8fCBjb250ZW50VG9UZXh0KGRhdGFDb250ZW50KTsKICByZXR1cm4gdGV4dDsKfQoKZnVuY3Rpb24gc2VuZGVyTmFtZShub2RlKSB7CiAgaWYgKCFub2RlIHx8IHR5cGVvZiBub2RlICE9PSAnb2JqZWN0JykgcmV0dXJuICcnOwogIGNvbnN0IGRhdGEgPSBub2RlLmRhdGEgJiYgdHlwZW9mIG5vZGUuZGF0YSA9PT0gJ29iamVjdCcgPyBub2RlLmRhdGEgOiB7fTsKICBjb25zdCBzZW5kZXIgPSBub2RlLnNlbmRlcjsKICAvLyDnlKggdHJ1bmNhdGVUZXh077ya576k5ZCN54mH6YeM5bimIGVtb2ppIOaXtuaMieeggeWFgyBzbGljZSDkvJrnlZnkuIvlraTnq4vpq5jku6PnkIbjgIIKICBpZiAoc2VuZGVyICYmIHR5cGVvZiBzZW5kZXIgPT09ICdvYmplY3QnKSB7CiAgICBjb25zdCBuYW1lID0gc2VuZGVyLm5pY2tuYW1lIHx8IHNlbmRlci5jYXJkIHx8IHNlbmRlci51c2VyX2lkIHx8ICcnOwogICAgaWYgKG5hbWUpIHJldHVybiB0cnVuY2F0ZVRleHQoU3RyaW5nKG5hbWUpLCAxMDApOwogIH0KICBpZiAodHlwZW9mIHNlbmRlciA9PT0gJ3N0cmluZycgJiYgc2VuZGVyKSByZXR1cm4gdHJ1bmNhdGVUZXh0KFN0cmluZyhzZW5kZXIpLCAxMDApOwogIGNvbnN0IG5hbWUgPSBkYXRhLm5hbWUgfHwgZGF0YS5uaWNrbmFtZSB8fCBkYXRhLmNhcmQgfHwgZGF0YS51aW4gfHwgZGF0YS51c2VyX2lkIHx8IG5vZGUubmFtZSB8fCBub2RlLm5pY2tuYW1lIHx8ICcnOwogIHJldHVybiB0cnVuY2F0ZVRleHQoU3RyaW5nKG5hbWUgPz8gJycpLCAxMDApOwp9CgpmdW5jdGlvbiBzZW5kZXJVc2VySWQobm9kZSkgewogIGlmICghbm9kZSB8fCB0eXBlb2Ygbm9kZSAhPT0gJ29iamVjdCcpIHJldHVybiBudWxsOwogIGNvbnN0IGRhdGEgPSBub2RlLmRhdGEgJiYgdHlwZW9mIG5vZGUuZGF0YSA9PT0gJ29iamVjdCcgPyBub2RlLmRhdGEgOiB7fTsKICBjb25zdCBzZW5kZXIgPSBub2RlLnNlbmRlcjsKICBjb25zdCB1aWQgPSBzZW5kZXIgJiYgdHlwZW9mIHNlbmRlciA9PT0gJ29iamVjdCcgPyBzZW5kZXIudXNlcl9pZCA6IGRhdGEudWluID8/IGRhdGEudXNlcl9pZCA/PyBub2RlLnVpbiA/PyBub2RlLnVzZXJfaWQ7CiAgcmV0dXJuIHVpZCAhPSBudWxsID8gU3RyaW5nKHVpZCkgOiBudWxsOwp9CgpmdW5jdGlvbiBub2RlVGltZShub2RlKSB7CiAgaWYgKCFub2RlIHx8IHR5cGVvZiBub2RlICE9PSAnb2JqZWN0JykgcmV0dXJuIG51bGw7CiAgY29uc3QgZGF0YSA9IG5vZGUuZGF0YSAmJiB0eXBlb2Ygbm9kZS5kYXRhID09PSAnb2JqZWN0JyA/IG5vZGUuZGF0YSA6IHt9OwogIGNvbnN0IHQgPSBub2RlLnRpbWUgPz8gZGF0YS50aW1lOwogIHJldHVybiB0ICE9IG51bGwgPyBOdW1iZXIodCkgOiBudWxsOwp9CgpmdW5jdGlvbiBub2RlTWVzc2FnZUlkKG5vZGUpIHsKICBpZiAoIW5vZGUgfHwgdHlwZW9mIG5vZGUgIT09ICdvYmplY3QnKSByZXR1cm4gbnVsbDsKICBjb25zdCBkYXRhID0gbm9kZS5kYXRhICYmIHR5cGVvZiBub2RlLmRhdGEgPT09ICdvYmplY3QnID8gbm9kZS5kYXRhIDoge307CiAgY29uc3QgaWQgPSBub2RlLm1lc3NhZ2VfaWQgPz8gbm9kZS5tZXNzYWdlSWQgPz8gZGF0YS5tZXNzYWdlX2lkID8/IGRhdGEuaWQgPz8gbnVsbDsKICByZXR1cm4gaWQgIT0gbnVsbCA/IFN0cmluZyhpZCkgOiBudWxsOwp9CgpmdW5jdGlvbiBub2RlTWVzc2FnZVNlcShub2RlKSB7CiAgaWYgKCFub2RlIHx8IHR5cGVvZiBub2RlICE9PSAnb2JqZWN0JykgcmV0dXJuIG51bGw7CiAgY29uc3QgZGF0YSA9IG5vZGUuZGF0YSAmJiB0eXBlb2Ygbm9kZS5kYXRhID09PSAnb2JqZWN0JyA/IG5vZGUuZGF0YSA6IHt9OwogIGNvbnN0IHNlcSA9IG5vZGUubWVzc2FnZV9zZXEgPz8gbm9kZS5tZXNzYWdlU2VxID8/IGRhdGEubWVzc2FnZV9zZXEgPz8gZGF0YS5zZXEgPz8gbnVsbDsKICByZXR1cm4gc2VxICE9IG51bGwgPyBTdHJpbmcoc2VxKSA6IG51bGw7Cn0KCmZ1bmN0aW9uIG5vZGVDb250ZW50KG5vZGUpIHsKICBpZiAoIW5vZGUgfHwgdHlwZW9mIG5vZGUgIT09ICdvYmplY3QnKSByZXR1cm4gW107CiAgY29uc3QgZGF0YSA9IG5vZGUuZGF0YSAmJiB0eXBlb2Ygbm9kZS5kYXRhID09PSAnb2JqZWN0JyA/IG5vZGUuZGF0YSA6IHt9OwogIGNvbnN0IHRvcENvbnRlbnQgPSBub2RlLm1lc3NhZ2UgPz8gbm9kZS5jb250ZW50ID8/IG5vZGUudGV4dDsKICBjb25zdCBkYXRhQ29udGVudCA9IGRhdGEubWVzc2FnZSA/PyBkYXRhLmNvbnRlbnQgPz8gZGF0YS50ZXh0OwogIGNvbnN0IGNvbnRlbnQgPSBBcnJheS5pc0FycmF5KHRvcENvbnRlbnQpID8gdG9wQ29udGVudCA6IEFycmF5LmlzQXJyYXkoZGF0YUNvbnRlbnQpID8gZGF0YUNvbnRlbnQgOiBudWxsOwogIGlmIChjb250ZW50KSByZXR1cm4gY29udGVudDsKICAvLyDkuI4gY29udGVudFRvVGV4dCDkv53mjIHkuIDoh7TvvJrljZXkuKrmtojmga/mrrXkuZ/lj6/og73mib/ovb3lm77niYfmiJbltYzlpZfovazlj5HjgIIKICBmb3IgKGNvbnN0IGNhbmRpZGF0ZSBvZiBbdG9wQ29udGVudCwgZGF0YUNvbnRlbnRdKSB7CiAgICBpZiAoY2FuZGlkYXRlICYmIHR5cGVvZiBjYW5kaWRhdGUgPT09ICdvYmplY3QnKSB7CiAgICAgIGlmIChjYW5kaWRhdGUudHlwZSkgcmV0dXJuIFtjYW5kaWRhdGVdOwogICAgICBpZiAoQXJyYXkuaXNBcnJheShjYW5kaWRhdGUuY29udGVudCkpIHJldHVybiBjYW5kaWRhdGUuY29udGVudDsKICAgIH0KICB9CiAgLy8g5a2X56ym5Liy5YaF5a655rKh5pyJ5Y+v5o+Q5Y+W55qE5aqS5L2TL+W1jOWll+i9rOWPkQogIHJldHVybiBbXTsKfQoKZnVuY3Rpb24gc2VnbWVudE1lZGlhKHNlZykgewogIGlmICghc2VnIHx8IHR5cGVvZiBzZWcgIT09ICdvYmplY3QnKSByZXR1cm4gbnVsbDsKICBjb25zdCBkID0gc2VnLmRhdGEgPz8ge307CiAgaWYgKHNlZy50eXBlID09PSAnaW1hZ2UnKSB7CiAgICBjb25zdCBmaWxlID0gU3RyaW5nKGQuZmlsZSA/PyBkLmZpbGVfaWQgPz8gZC5maWxlbmFtZSA/PyAnJyk7CiAgICBjb25zdCB1cmwgPSBTdHJpbmcoZC51cmwgPz8gZC5zcmMgPz8gJycpOwogICAgaWYgKGZpbGUgfHwgdXJsKSByZXR1cm4geyBraW5kOiAnaW1hZ2UnLCBmaWxlOiBmaWxlIHx8IHVuZGVmaW5lZCwgdXJsOiB1cmwgfHwgdW5kZWZpbmVkIH07CiAgfQogIGlmIChzZWcudHlwZSA9PT0gJ2ZhY2UnKSB7CiAgICBjb25zdCBmYWNlSWQgPSBTdHJpbmcoZC5pZCA/PyBkLmZhY2VfaWQgPz8gJycpOwogICAgaWYgKGZhY2VJZCkgcmV0dXJuIHsga2luZDogJ2ZhY2UnLCBmYWNlSWQgfTsKICB9CiAgcmV0dXJuIG51bGw7Cn0KCmZ1bmN0aW9uIHNlZ21lbnROZXN0ZWRGb3J3YXJkSWQoc2VnKSB7CiAgaWYgKCFzZWcgfHwgdHlwZW9mIHNlZyAhPT0gJ29iamVjdCcgfHwgc2VnLnR5cGUgIT09ICdmb3J3YXJkJykgcmV0dXJuIG51bGw7CiAgcmV0dXJuIGZvcndhcmRJZEZyb21EYXRhKHNlZy5kYXRhKTsKfQoKLy8g5LuO5LiA5q615raI5oGv5YaF5a6577yI5pWw57uE77yJ5Lit5o+Q5Y+W5Zu+54mHL+ihqOaDheS4juW1jOWll+i9rOWPkSBpZOOAggpmdW5jdGlvbiBjb2xsZWN0U2VnbWVudE1ldGEoY29udGVudCkgewogIGNvbnN0IG1lZGlhID0gW107CiAgY29uc3QgbmVzdGVkRm9yd2FyZElkcyA9IFtdOwogIGlmICghQXJyYXkuaXNBcnJheShjb250ZW50KSkgcmV0dXJuIHsgbWVkaWEsIG5lc3RlZEZvcndhcmRJZHMgfTsKICBmb3IgKGNvbnN0IHNlZyBvZiBjb250ZW50KSB7CiAgICBjb25zdCBtID0gc2VnbWVudE1lZGlhKHNlZyk7CiAgICBpZiAobSkgbWVkaWEucHVzaChtKTsKICAgIGNvbnN0IG5lc3RlZCA9IHNlZ21lbnROZXN0ZWRGb3J3YXJkSWQoc2VnKTsKICAgIGlmIChuZXN0ZWQgJiYgIW5lc3RlZEZvcndhcmRJZHMuaW5jbHVkZXMobmVzdGVkKSkgbmVzdGVkRm9yd2FyZElkcy5wdXNoKG5lc3RlZCk7CiAgfQogIHJldHVybiB7IG1lZGlhLCBuZXN0ZWRGb3J3YXJkSWRzIH07Cn0KCmV4cG9ydCBmdW5jdGlvbiBmb3JtYXRGb3J3YXJkUmVzcG9uc2UoZGF0YSwgb3B0aW9ucyA9IHt9KSB7CiAgY29uc3QgbWF4TWVzc2FnZXMgPSBNYXRoLm1heCgxLCBNYXRoLm1pbigxMDAsIE51bWJlcihvcHRpb25zLm1heE1lc3NhZ2VzKSB8fCA1MCkpOwogIGNvbnN0IG1heENoYXJzUGVyTWVzc2FnZSA9IE1hdGgubWF4KDEsIE1hdGgubWluKDIwMDAsIE51bWJlcihvcHRpb25zLm1heENoYXJzUGVyTWVzc2FnZSkgfHwgNTAwKSk7CiAgY29uc3QgcmF3ID0gQXJyYXkuaXNBcnJheShkYXRhKSA/IGRhdGEgOiAoQXJyYXkuaXNBcnJheShkYXRhPy5tZXNzYWdlcykgPyBkYXRhLm1lc3NhZ2VzIDogW10pOwogIGNvbnN0IHRvdGFsID0gcmF3Lmxlbmd0aDsKICBjb25zdCB0cnVuY2F0ZWRCeUNvdW50ID0gdG90YWwgPiBtYXhNZXNzYWdlczsKICBsZXQgdGV4dFRydW5jYXRlZCA9IGZhbHNlOwogIGNvbnN0IG1lc3NhZ2VzID0gcmF3LnNsaWNlKDAsIG1heE1lc3NhZ2VzKS5tYXAoKG5vZGUsIGluZGV4KSA9PiB7CiAgICBjb25zdCBmdWxsVGV4dCA9IG5vZGVUZXh0KG5vZGUpOwogICAgLy8g5YiH54K56JC95Zyo5Luj55CG5a+55Lit6Ze05pe25b+F6aG75YmN56e75LiA5Liq56CB5YWD77yI5Yik5o2u5LiOIG1kLXRvLXBsYWluLmpzIOeahCBzcGxpdEZvclFRIOS4gOiHtO+8ie+8mgogICAgLy8gYHNsaWNlKDAsIG1heClgIOaYr+aMiSBVVEYtMTYg56CB5YWD5YiH55qE77yMZW1vamkv55Sf5YO75a2X5Lya6KKr5YiH5oiQ5a2k56uL6auY5Luj55CG77yMCiAgICAvLyDpgqPljYrkuKrlrZfnrKbml6LkuI3mmK/lkIjms5XmlofmnKzvvIzlhpnov5vmj5DnpLror43miJbml6Xlv5flkI7ov5jkvJrmuLLmn5PmiJDkubHnoIHmiJbmm7/mjaLnrKbjgIIKICAgIGxldCBjdXQgPSBtYXhDaGFyc1Blck1lc3NhZ2U7CiAgICBjb25zdCBjdXRDb2RlID0gZnVsbFRleHQuY2hhckNvZGVBdChjdXQgLSAxKTsKICAgIGlmIChjdXRDb2RlID49IDB4ZDgwMCAmJiBjdXRDb2RlIDw9IDB4ZGJmZikgY3V0IC09IDE7CiAgICAvLyDkuI4gc3BsaXRGb3JRUSDnm7jlkIzvvJrliIfngrnooqvpgLzliLAgMCDml7boh7PlsJHkv53nlZnkuIDkuKrlrozmlbTnoIHngrnvvIwKICAgIC8vIOWQpuWImSBtYXhDaGFyc1Blck1lc3NhZ2U9MSDkuJTlvIDlpLTmmK8gZW1vamkg5Lya6K6p5pW05p2h6aKE6KeI5Y+Y5oiQ56m65Liy44CCCiAgICBpZiAoY3V0ID09PSAwKSB7CiAgICAgIGNvbnN0IGZpcnN0ID0gZnVsbFRleHQuY2hhckNvZGVBdCgwKTsKICAgICAgY29uc3Qgc2Vjb25kID0gZnVsbFRleHQuY2hhckNvZGVBdCgxKTsKICAgICAgY3V0ID0gKGZpcnN0ID49IDB4ZDgwMCAmJiBmaXJzdCA8PSAweGRiZmYgJiYgc2Vjb25kID49IDB4ZGMwMCAmJiBzZWNvbmQgPD0gMHhkZmZmKSA/IDIgOiAxOwogICAgfQogICAgY29uc3QgdGV4dCA9IGZ1bGxUZXh0LnNsaWNlKDAsIGN1dCk7CiAgICBpZiAoZnVsbFRleHQubGVuZ3RoID4gbWF4Q2hhcnNQZXJNZXNzYWdlKSB0ZXh0VHJ1bmNhdGVkID0gdHJ1ZTsKICAgIGNvbnN0IGNvbnRlbnQgPSBub2RlQ29udGVudChub2RlKTsKICAgIGNvbnN0IG1ldGEgPSBjb2xsZWN0U2VnbWVudE1ldGEoY29udGVudCk7CiAgICByZXR1cm4gewogICAgICBpbmRleDogaW5kZXggKyAxLAogICAgICBzZW5kZXI6IHNlbmRlck5hbWUobm9kZSksCiAgICAgIHVzZXJJZDogc2VuZGVyVXNlcklkKG5vZGUpLAogICAgICB0aW1lOiBub2RlVGltZShub2RlKSwKICAgICAgbWVzc2FnZUlkOiBub2RlTWVzc2FnZUlkKG5vZGUpLAogICAgICBtZXNzYWdlU2VxOiBub2RlTWVzc2FnZVNlcShub2RlKSwKICAgICAgdGV4dCwKICAgICAgbWVkaWE6IG1ldGEubWVkaWEsCiAgICAgIG5lc3RlZEZvcndhcmRJZHM6IG1ldGEubmVzdGVkRm9yd2FyZElkcwogICAgfTsKICB9KTsKICByZXR1cm4gewogICAgdG90YWwsCiAgICB0cnVuY2F0ZWQ6IHRydW5jYXRlZEJ5Q291bnQgfHwgdGV4dFRydW5jYXRlZCwKICAgIHRleHRUcnVuY2F0ZWQsCiAgICBtZXNzYWdlcwogIH07Cn0K
+// 合并转发消息（合并聊天记录）相关纯函数：
+// - 从 OneBot 消息段中提取并清洗 forward id
+// - 把 SnowLuma `get_forward_msg` 返回结果格式化为适合 AI 阅读的紧凑结构
+// - 暴露每条消息里的图片/表情元数据与嵌套 forward id，供桥接/MCP 进一步读取
+//
+// 安全原则：
+// - forward id 只允许安全字符，长度受限，避免把任意内容当参数传给 OneBot/日志
+// - 只格式化，不访问网络；调用方负责“id 必须来自当前会话已见消息”的校验
+
+import { truncateText } from './md-to-plain.js';
+
+export function sanitizeForwardId(value) {
+  const s = String(value ?? '').trim();
+  if (!s || s.length > 256) return '';
+  // 仅用于 OneBot JSON 参数：允许常见 QQ 资源 id 字符，拒绝空白/控制字符。
+  if (!/^[\w:.\-/=+@]+$/.test(s)) return '';
+  return s;
+}
+
+// 从单个 forward 消息段 data 中取 id，供 segmentsToText 与 extractForwardIds 共用。
+export function forwardIdFromData(data) {
+  const d = data && typeof data === 'object' ? data : {};
+  return sanitizeForwardId(d?.id ?? d?.res_id ?? d?.file_id ?? d?.forward_id ?? '');
+}
+
+export function extractForwardIds(segments) {
+  if (!Array.isArray(segments)) return [];
+  const out = [];
+  for (const seg of segments) {
+    if (!seg || typeof seg !== 'object' || seg.type !== 'forward') continue;
+    const id = forwardIdFromData(seg.data);
+    if (id && !out.includes(id)) out.push(id);
+  }
+  return out;
+}
+
+function segmentText(seg) {
+  if (typeof seg === 'string') return seg;
+  if (!seg || typeof seg !== 'object') return '';
+  const d = seg.data ?? {};
+  switch (seg.type) {
+    case 'text': return String(d.text ?? '');
+    case 'at': return d.qq === 'all' ? '@全体成员' : `@${d.qq ?? ''}`;
+    case 'face': return `[表情${d.id ?? ''}]`;
+    case 'image': return '[图片]';
+    case 'record': return '[语音]';
+    case 'video': return '[视频]';
+    case 'file': return `[文件${d.name ?? ''}]`;
+    case 'reply': return '[引用]';
+    case 'forward': return '[转发]';
+    case 'json': return '[卡片消息]';
+    default: return `[${seg.type ?? '未知'}]`;
+  }
+}
+
+function sanitizeCqString(s) {
+  // 如果 get_forward_msg 返回的是 CQ 字符串，转为占位符，避免把 CQ 码原样塞给 AI。
+  return String(s ?? '').replace(/\[CQ:[^\]]*\]/gi, '[媒体]');
+}
+
+function contentToText(content) {
+  if (typeof content === 'string') return sanitizeCqString(content);
+  if (Array.isArray(content)) return sanitizeCqString(content.map(segmentText).join('').trim());
+  if (content && typeof content === 'object') {
+    // 兼容单条 segment 对象（例如 { type:'text', data:{...} }）
+    if (content.type) return sanitizeCqString(segmentText(content).trim());
+    if (typeof content.text === 'string') return sanitizeCqString(content.text);
+    if (Array.isArray(content.content)) return sanitizeCqString(content.content.map(segmentText).join('').trim());
+  }
+  return '';
+}
+
+export function nodeText(node) {
+  if (!node || typeof node !== 'object') return '';
+  // 标准 OneBot 转发节点：{ type:'node', data:{ name, uin, time, content } }
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const topContent = node.message ?? node.content ?? node.text;
+  const dataContent = data.message ?? data.content ?? data.text;
+  const text = contentToText(topContent) || contentToText(dataContent);
+  return text;
+}
+
+function senderName(node) {
+  if (!node || typeof node !== 'object') return '';
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const sender = node.sender;
+  // 用 truncateText：群名片里带 emoji 时按码元 slice 会留下孤立高代理。
+  if (sender && typeof sender === 'object') {
+    const name = sender.nickname || sender.card || sender.user_id || '';
+    if (name) return truncateText(String(name), 100);
+  }
+  if (typeof sender === 'string' && sender) return truncateText(String(sender), 100);
+  const name = data.name || data.nickname || data.card || data.uin || data.user_id || node.name || node.nickname || '';
+  return truncateText(String(name ?? ''), 100);
+}
+
+function senderUserId(node) {
+  if (!node || typeof node !== 'object') return null;
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const sender = node.sender;
+  const uid = sender && typeof sender === 'object' ? sender.user_id : data.uin ?? data.user_id ?? node.uin ?? node.user_id;
+  return uid != null ? String(uid) : null;
+}
+
+function nodeTime(node) {
+  if (!node || typeof node !== 'object') return null;
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const t = node.time ?? data.time;
+  return t != null ? Number(t) : null;
+}
+
+function nodeMessageId(node) {
+  if (!node || typeof node !== 'object') return null;
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const id = node.message_id ?? node.messageId ?? data.message_id ?? data.id ?? null;
+  return id != null ? String(id) : null;
+}
+
+function nodeMessageSeq(node) {
+  if (!node || typeof node !== 'object') return null;
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const seq = node.message_seq ?? node.messageSeq ?? data.message_seq ?? data.seq ?? null;
+  return seq != null ? String(seq) : null;
+}
+
+function nodeContent(node) {
+  if (!node || typeof node !== 'object') return [];
+  const data = node.data && typeof node.data === 'object' ? node.data : {};
+  const topContent = node.message ?? node.content ?? node.text;
+  const dataContent = data.message ?? data.content ?? data.text;
+  const content = Array.isArray(topContent) ? topContent : Array.isArray(dataContent) ? dataContent : null;
+  if (content) return content;
+  // 与 contentToText 保持一致：单个消息段也可能承载图片或嵌套转发。
+  for (const candidate of [topContent, dataContent]) {
+    if (candidate && typeof candidate === 'object') {
+      if (candidate.type) return [candidate];
+      if (Array.isArray(candidate.content)) return candidate.content;
+    }
+  }
+  // 字符串内容没有可提取的媒体/嵌套转发
+  return [];
+}
+
+function segmentMedia(seg) {
+  if (!seg || typeof seg !== 'object') return null;
+  const d = seg.data ?? {};
+  if (seg.type === 'image') {
+    const file = String(d.file ?? d.file_id ?? d.filename ?? '');
+    const url = String(d.url ?? d.src ?? '');
+    if (file || url) return { kind: 'image', file: file || undefined, url: url || undefined };
+  }
+  if (seg.type === 'face') {
+    const faceId = String(d.id ?? d.face_id ?? '');
+    if (faceId) return { kind: 'face', faceId };
+  }
+  return null;
+}
+
+function segmentNestedForwardId(seg) {
+  if (!seg || typeof seg !== 'object' || seg.type !== 'forward') return null;
+  return forwardIdFromData(seg.data);
+}
+
+// 从一段消息内容（数组）中提取图片/表情与嵌套转发 id。
+function collectSegmentMeta(content) {
+  const media = [];
+  const nestedForwardIds = [];
+  if (!Array.isArray(content)) return { media, nestedForwardIds };
+  for (const seg of content) {
+    const m = segmentMedia(seg);
+    if (m) media.push(m);
+    const nested = segmentNestedForwardId(seg);
+    if (nested && !nestedForwardIds.includes(nested)) nestedForwardIds.push(nested);
+  }
+  return { media, nestedForwardIds };
+}
+
+export function formatForwardResponse(data, options = {}) {
+  const maxMessages = Math.max(1, Math.min(100, Number(options.maxMessages) || 50));
+  const maxCharsPerMessage = Math.max(1, Math.min(2000, Number(options.maxCharsPerMessage) || 500));
+  const raw = Array.isArray(data) ? data : (Array.isArray(data?.messages) ? data.messages : []);
+  const total = raw.length;
+  const truncatedByCount = total > maxMessages;
+  let textTruncated = false;
+  const messages = raw.slice(0, maxMessages).map((node, index) => {
+    const fullText = nodeText(node);
+    // 切点落在代理对中间时必须前移一个码元（判据与 md-to-plain.js 的 splitForQQ 一致）：
+    // `slice(0, max)` 是按 UTF-16 码元切的，emoji/生僻字会被切成孤立高代理，
+    // 那半个字符既不是合法文本，写进提示词或日志后还会渲染成乱码或替换符。
+    let cut = maxCharsPerMessage;
+    const cutCode = fullText.charCodeAt(cut - 1);
+    if (cutCode >= 0xd800 && cutCode <= 0xdbff) cut -= 1;
+    // 与 splitForQQ 相同：切点被逼到 0 时至少保留一个完整码点，
+    // 否则 maxCharsPerMessage=1 且开头是 emoji 会让整条预览变成空串。
+    if (cut === 0) {
+      const first = fullText.charCodeAt(0);
+      const second = fullText.charCodeAt(1);
+      cut = (first >= 0xd800 && first <= 0xdbff && second >= 0xdc00 && second <= 0xdfff) ? 2 : 1;
+    }
+    const text = fullText.slice(0, cut);
+    if (fullText.length > maxCharsPerMessage) textTruncated = true;
+    const content = nodeContent(node);
+    const meta = collectSegmentMeta(content);
+    return {
+      index: index + 1,
+      sender: senderName(node),
+      userId: senderUserId(node),
+      time: nodeTime(node),
+      messageId: nodeMessageId(node),
+      messageSeq: nodeMessageSeq(node),
+      text,
+      media: meta.media,
+      nestedForwardIds: meta.nestedForwardIds
+    };
+  });
+  return {
+    total,
+    truncated: truncatedByCount || textTruncated,
+    textTruncated,
+    messages
+  };
+}

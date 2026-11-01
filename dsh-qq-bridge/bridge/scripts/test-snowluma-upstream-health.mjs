@@ -1,1 +1,189 @@
-Ly8gU25vd0x1bWEg5LiK5ri45YGl5bq35LiO5a6i5oi356uv5bqT54mI5pys55qE55m76K6w5pyf5Zue5b2S44CCCi8vCi8vIOS4uuS7gOS5iOmcgOimgei/meS4quaWh+S7tgovLyAtLS0tLS0tLS0tLS0tLS0tLS0KLy8g55yf5a6e5Y+R55Sf6L+H55qE6K+v6K+K77yaU25vd0x1bWEg55qE5Y6f55SfIGBbSG9va11gIOaUtuS4jeWIsCBRUSDmlbDmja7ml7bvvIzlroPnmoTov5vnqIvkuI4gT25lQm90Ci8vIFdlYlNvY2tldCAqKumDvei/mOa0u+edgCoq77yM5LqO5piv5qGl5o6l6L+Z6L655LiA5YiH5q2j5bi477yIV2ViU29ja2V0IOmAmuOAgeaXpeW/l+aJk+i/h+OAjFNub3dMdW1hIOW3sui/nuaOpeOAje+8ie+8jAovLyDkvYbnvqTph4zkuIDmnaHmtojmga/pg73kuI3mnaXjgIIqKuahpeaOpeW9k+aXtuWvuei/meS4queKtuaAgeayoeacieS7u+S9leingua1iyoq77ya5rKh5pyJ54q25oCB5a2X5q6144CB5rKh5pyJ55yL6Zeo54uX44CBCi8vIOayoeacieaOp+WItuWPsOaMh+ekuuOAgeaWh+aho+mHjOS5n+ayoeacieWvueW6lOaOkuafpeWIhuaUryDigJTigJQg5LqO5piv5a6D6KKr5oql5oiQ44CMcXEtYnJpZGdlIOazqOWFpeWksei0peOAjeOAggovLwovLyDov5nkuKrmlofku7bmiorjgIzmoaXmjqXlv4Xpobvop4LmtYvkuIrmuLjlgaXlurfjgI3ov5nku7bkuovlm7rlrprkuIvmnaXvvIzlubbnm6/kvY/lh6DlpIQqKuWuueaYk+mdmem7mOmAgOWMlioq55qE5Zyw5pa577yaCi8vICAg4pGgIOWuouaIt+err+W6k+eJiOacrO+8mmBib3Rfc3RhdHVzYCDmmK8gU25vd0x1bWEgMS4xNC4xNyDmiY3mnInnmoTvvIzlupPkvY7kuo7mraTlsLHmsLjov5zmlLbkuI3liLDvvJsKLy8gICDikaEg6K6i6ZiF6Z2i77yaYG9uRXZlbnRgIC8gYG9uQm90U3RhdHVzYCDkuIDml6booqvliKDmjonvvIzpnZnpu5jmo4DmtYvkuI7otKblj7fkuIrkuIvnur/liKTmlq3kvJrml6Dlo7DlpLHmlYjvvJsKLy8gICDikaIg5LiK5oql6Z2i77yaYC9hcGkvc3RhdHVzYCDnmoQgYHNub3dsdW1hYCDlrZfmrrXkuI7mjqfliLblj7DnmoTlkYrorabmnaEv5Y2h54mH77ybCi8vICAg4pGjIOerr+eCueiHquaEiOeahOW8gOWFs++8mmBmb2xsb3dEaXNjb3ZlcmVkRW5kcG9pbnRgIOm7mOiupOW/hemhu+S7jeaYr+OAjOi3n+maj+OAje+8iOS/neaMgeaXouacieihjOS4uu+8ie+8jAovLyAgICAgIOS9huimgeecn+eahOiDveWFs+aOie+8iOWkmuWunuS+iy/lpJrotKblj7flnLrmma/vvIzlrp7mtYvouKnov4fvvJrmjIflkJHmrbvnq6/lj6Pku43ooqvoh6rmhIjmlLnlm57nnJ/lrp7nq6/ngrnvvInjgIIKLy8KLy8g5ZCM5pe25qCh6aqM5LiA5p2hKirkvp3otZblpZHnuqYqKu+8mmBAc25vd2x1bWEvKmAg55qEIG5wbSDlj5HluIPniYjmnIkgRVNNIOaJqeWxleWQjSBidWfvvIzlv4XpobvpnaAKLy8gcG9zdGluc3RhbGwg6KGl5LiB5omN6IO96KKr57qvIE5vZGUgRVNNIOino+aekOOAguS4iua4uOiLpeWTquWkqeS/ruWlveS6hu+8jOi/meS4qua1i+ivleS8muaPkOmGkuaIkeS7rOihpeS4geWPr+S7pemAgOS8keOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCB0ZXN0IGZyb20gJ25vZGU6dGVzdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKCmNvbnN0IFJPT1QgPSBmaWxlVVJMVG9QYXRoKG5ldyBVUkwoJy4uJywgaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IGJyaWRnZSA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgJ3NyYycsICdicmlkZ2UuanMnKSwgJ3V0ZjgnKTsKY29uc3QgY29uc29sZUh0bWwgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdwdWJsaWMnLCAnY29uc29sZS5odG1sJyksICd1dGY4Jyk7CmNvbnN0IHBrZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAncGFja2FnZS5qc29uJyksICd1dGY4JykpOwpjb25zdCBleGFtcGxlID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdjb25maWcuZXhhbXBsZS5qc29uJyksICd1dGY4JykpOwoKLyoqIOWPquimgeWPr+aJp+ihjOS7o+egge+8muazqOmHiumHjOS8muWkp+auteino+mHiui/meS6m+WQjeWtl++8iOebtOaOpeaJq+WOn+aWh+S8muaKiuivtOaYjuW9k+aIkOWunueOsO+8ieOAgiAqLwpjb25zdCBjb2RlT2YgPSAoc3JjKSA9PiBzcmMKICAvLyDpobrluo/lvojph43opoHvvJrlhYjliaXooYzms6jph4rvvIzlho3liaXlnZfms6jph4rjgILooYzms6jph4rph4zlh7rnjrDnmoQgYC8qYO+8iOS+i+WmgiBgL2FwaS9zZW5kLypg77yJCiAgLy8g6Iul5YWI5YGa5Z2X5rOo6YeK5omr5o+P77yM5Lya6KKr5b2T5oiQ5Z2X5rOo6YeK5byA5aS044CB5LiA6Lev5ZCe5Yiw5ZCO6Z2i5p+Q5LiqIGAqL2Ag4oCU4oCUIOWunua1i+WQnuaOiei/hwogIC8vIOS6jOWNgeWkmuS4h+Wtl+espueahOS7o+egge+8jOiuqeacrOaWh+S7tueahOaWreiogOWvueedgCLkuI3lrZjlnKjnmoTmupDnoIEi6K+v5oql44CCCiAgLnNwbGl0KC9ccj9cbi8pLm1hcCgobCkgPT4gbC5yZXBsYWNlKC9cL1wvLiokLywgJycpKS5qb2luKCdcbicpCiAgLnJlcGxhY2UoL1wvXCpbXHNcU10qP1wqXC8vZywgJycpOwpjb25zdCBicmlkZ2VDb2RlID0gY29kZU9mKGJyaWRnZSk7Cgp0ZXN0KCdTbm93THVtYSDlrqLmiLfnq6/lupPkuI3kvY7kuo4gYm90X3N0YXR1cyDlh7rnjrDnmoTniYjmnKzvvIgxLjE0LjE377yJJywgKCkgPT4gewogIC8vIOS9juS6jui/meS4queJiOacrOiuoumYheS4jeWIsCBib3Rfc3RhdHVz77ya6LSm5Y+35o6J57q/L+iiq+mhtuWPt+WwhuayoeacieS7u+S9leS/oeWPt+OAggogIC8vIOWPquavlOi+gyBtaW5vci5wYXRjaCDmlbDlgLzvvIzlpJ/nlKjkuJTkuI3lvJXlhaXor63kuYnljJbniYjmnKzlupPkvp3otZbjgIIKICBjb25zdCBudW0gPSAodikgPT4gewogICAgY29uc3QgbSA9IC9eW1xefl0/KFxkKylcLihcZCspXC4oXGQrKS8uZXhlYyhTdHJpbmcodiA/PyAnJykpOwogICAgcmV0dXJuIG0gPyBOdW1iZXIobVsxXSkgKiAxZTYgKyBOdW1iZXIobVsyXSkgKiAxZTMgKyBOdW1iZXIobVszXSkgOiBudWxsOwogIH07CiAgY29uc3QgbWluID0gbnVtKCcxLjE0LjE3Jyk7CiAgZm9yIChjb25zdCBuYW1lIG9mIFsnQHNub3dsdW1hL3NkaycsICdAc25vd2x1bWEvbWNwJ10pIHsKICAgIGNvbnN0IGRlY2xhcmVkID0gbnVtKHBrZy5kZXBlbmRlbmNpZXM/LltuYW1lXSk7CiAgICBhc3NlcnQub2soZGVjbGFyZWQgIT09IG51bGwsIGAke25hbWV9IOW/hemhu+WcqCBkZXBlbmRlbmNpZXMg6YeM5aOw5piOYCk7CiAgICBhc3NlcnQub2soCiAgICAgIGRlY2xhcmVkID49IG1pbiwKICAgICAgYCR7bmFtZX0g5aOw5piO5Li6ICR7cGtnLmRlcGVuZGVuY2llc1tuYW1lXX3vvIzkvY7kuo4gMS4xNC4xNyDigJTigJQg6YKj5qC36K6i6ZiF5LiN5YiwIGJvdF9zdGF0dXPvvIjotKblj7fkuIrkuIvnur/kuovku7bvvInvvIxgCiAgICAgICsgJ+S4iua4uOWBpeW6t+S8muWwkeS4gOS4quS/oeWPt+OAgicsCiAgICApOwogIH0KfSk7Cgp0ZXN0KCflrqLmiLfnq6/lupPnoa7lrp7lj6/ooqvnuq8gTm9kZSBFU00g6Kej5p6Q77yIcG9zdGluc3RhbGwg6KGl5LiB55qE5oiQ5p6c77yJJywgYXN5bmMgKCkgPT4gewogIC8vIOS4iua4uOaJk+WMhSBidWfvvJpkaXN0IOWGheebuOWvueWvvOWFpee8uiAuanMg5omp5bGV5ZCN77yM57qvIE5vZGUgRVNNIOino+aekOS4jeS6huOAguihpeS4geaYr+iuqeWug+WPryBpbXBvcnQg55qECiAgLy8gKirllK/kuIAqKuS4nOilv++8jOaJgOS7peOAjOiDvSBpbXBvcnTjgI3mnKzouqvlsLHmmK/ooaXkuIHnlJ/mlYjnmoTor4Hmja7vvIjkuI7lronoo4Xpobrluo/ml6DlhbPvvInjgIIKICBjb25zdCBzZGsgPSBhd2FpdCBpbXBvcnQoJ0Bzbm93bHVtYS9zZGsnKTsKICBhc3NlcnQuZXF1YWwodHlwZW9mIHNkay5Tbm93THVtYVdlYlNvY2tldENsaWVudCwgJ2Z1bmN0aW9uJywgJ1Nub3dMdW1hV2ViU29ja2V0Q2xpZW50IOW6lOWPr+WvvOWFpScpOwogIGFzc2VydC5tYXRjaChTdHJpbmcocGtnLnNjcmlwdHM/LnBvc3RpbnN0YWxsID8/ICcnKSwgL3BhdGNoLXNub3dsdW1hLXNkay8sICdwb3N0aW5zdGFsbCDlv4Xpobvku43mjILooaXkuIHohJrmnKwnKTsKCiAgLy8g6aG65bim5oql5ZGKIGRpc3Qg6YeM5piv5ZCm6L+Y5pyJKirmnKrkv64qKueahOebuOWvueWvvOWFpeOAggogIC8vIOKaoO+4jyDov5nph4zliLvmhI8qKuWPquaPkOekuuS4jeaWreiogCoq77ya6KGl5LiB5piv5bCx5Zyw5oqK5omp5bGV5ZCN6KGl5LiK55qE77yM6LeR6L+H5LiA5qyh5LmL5ZCO6Ieq54S25bCxIuayoeaciemcgOimgeS/rueahOS6hiLvvIwKICAvLyAgICDmiYDku6Ui5ZG95LitIDAg5LiqIuaXouWPr+iDveaYr+S4iua4uOS/ruWlveS6huOAgeS5n+WPr+iDveWPquaYr+acrOacuuW3sue7j+ihpei/hyDigJTigJQg5pat6KiA5a6D5Lya6K6p6L+Z5p2h5rWL6K+VCiAgLy8gICAg5L6d6LWW5a6J6KOF6aG65bqP77yI56ys5LiA54mI5bCx5piv6L+Z5LmI5YaZ6ZSZ55qE77yM6KOF5a6M5YaN6LeR5b+F57qi77yJ44CCCiAgY29uc3QgZGlzdCA9IHBhdGguam9pbihST09ULCAnbm9kZV9tb2R1bGVzJywgJ0Bzbm93bHVtYScsICdzZGsnLCAnZGlzdCcpOwogIGxldCB1bnJlc29sdmVkID0gMDsKICBjb25zdCB3YWxrID0gKGRpcikgPT4gewogICAgZm9yIChjb25zdCBlIG9mIGZzLnJlYWRkaXJTeW5jKGRpciwgeyB3aXRoRmlsZVR5cGVzOiB0cnVlIH0pKSB7CiAgICAgIGNvbnN0IGZ1bGwgPSBwYXRoLmpvaW4oZGlyLCBlLm5hbWUpOwogICAgICBpZiAoZS5pc0RpcmVjdG9yeSgpKSB7IHdhbGsoZnVsbCk7IGNvbnRpbnVlOyB9CiAgICAgIGlmICghZnVsbC5lbmRzV2l0aCgnLmpzJykpIGNvbnRpbnVlOwogICAgICBjb25zdCBzcmMgPSBmcy5yZWFkRmlsZVN5bmMoZnVsbCwgJ3V0ZjgnKTsKICAgICAgZm9yIChjb25zdCBtIG9mIHNyYy5tYXRjaEFsbCgvZnJvbVxzKycoXC5cLj9cL1teJ10rKScvZykpIHsKICAgICAgICBjb25zdCBzcGVjID0gbVsxXTsKICAgICAgICBpZiAoc3BlYy5lbmRzV2l0aCgnLmpzJykgfHwgc3BlYy5lbmRzV2l0aCgnLmpzb24nKSkgY29udGludWU7CiAgICAgICAgY29uc3QgdCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZnVsbCksIHNwZWMpOwogICAgICAgIGlmIChmcy5leGlzdHNTeW5jKHQgKyAnLmpzJykgfHwgZnMuZXhpc3RzU3luYyh0ICsgJy5qc29uJykpIHVucmVzb2x2ZWQgKz0gMTsKICAgICAgfQogICAgfQogIH07CiAgaWYgKGZzLmV4aXN0c1N5bmMoZGlzdCkpIHsKICAgIHdhbGsoZGlzdCk7CiAgICBjb25zb2xlLmxvZyh1bnJlc29sdmVkID09PSAwCiAgICAgID8gJyAg4oS577iPICBkaXN0IOS4reayoeacieacquS/rueahOebuOWvueWvvOWFpe+8iOihpeS4geW3sueUn+aViO+8jOaIluS4iua4uOW3suS/ruWlvSDigJTigJQg5Lik56eN5oOF5Ya16YO95LiN6ZyA6KaB5Yqo5L2c77yJJwogICAgICA6IGAgIOKaoO+4jyAgZGlzdCDkuK3ku43mnIkgJHt1bnJlc29sdmVkfSDlpITmnKrkv67nmoTnm7jlr7nlr7zlhaXvvJpwb3N0aW5zdGFsbCDlj6/og73msqHot5HliLDvvIzor7fph43ot5EgbnBtIGluc3RhbGxgKTsKICAgIGFzc2VydC5lcXVhbCh1bnJlc29sdmVkLCAwLCAnZGlzdCDph4zkuI3lupTmrovnlZnmnKrkv67nmoTnm7jlr7nlr7zlhaXvvIjlkKbliJkgcG9zdGluc3RhbGwg5rKh55Sf5pWI77yJJyk7CiAgfSBlbHNlIHsKICAgIGNvbnNvbGUubG9nKCcgIOKPrSAg6Lez6L+HIGRpc3Qg5omr5o+P77yaQHNub3dsdW1hL3NkayDmnKrlronoo4UnKTsKICB9Cn0pOwoKdGVzdCgn5qGl5o6l6K6i6ZiF5LqG44CM5LiK5ri46L+Y5rS7552A44CN55qE6K+B5o2u77yIb25FdmVudO+8iScsICgpID0+IHsKICBhc3NlcnQubWF0Y2goYnJpZGdlQ29kZSwgL2JvdFwub25FdmVudFwoLywgJ+W/hemhu+eUqCBvbkV2ZW50IOaXgei3r+e7n+iuoeS4iua4uOS6i+S7tuWMhe+8iOmdmem7mOajgOa1i+eahOS+neaNru+8iScpOwogIGFzc2VydC5tYXRjaChicmlkZ2VDb2RlLCAvbm90ZVVwc3RyZWFtUGFja2V0XCgvLCAnb25FdmVudCDlm57osIPlv4XpobvorrDotKbliLAgbm90ZVVwc3RyZWFtUGFja2V0Jyk7Cn0pOwoKdGVzdCgn5qGl5o6l6K6i6ZiF5LqGIGJvdF9zdGF0dXPvvIjotKblj7fkuIrkuIvnur/vvInvvIzkuJTlr7nogIHov5DooYzml7bkvJjpm4XpmY3nuqcnLCAoKSA9PiB7CiAgYXNzZXJ0Lm1hdGNoKGJyaWRnZUNvZGUsIC9ib3RcLm9uQm90U3RhdHVzXCgvLCAn5b+F6aG76K6i6ZiFIGJvdF9zdGF0dXMnKTsKICAvLyDogIHov5DooYzml7bkuI3kvJrlj5Hov5nkuKrkuovku7bvvJvorqLpmIXosIPnlKjooqsgdHJ5IOWMheS9j++8jOWksei0peWPquaPkOekuuS4jeiHtOWRvQogIGFzc2VydC5tYXRjaChicmlkZ2VDb2RlLCAvYm90X3N0YXR1cyDorqLpmIXkuI3lj6/nlKgvLCAn6K6i6ZiF5aSx6LSl5b+F6aG75piO56Gu5o+Q56S677yI6ICB6L+Q6KGM5pe25bqU5LyY6ZuF6ZmN57qn77yJJyk7Cn0pOwoKdGVzdCgnZ29vZCDlj5boh6rlv4Pot7Mgc3RhdHVzLmdvb2QgLyBnZXRfc3RhdHVzIOKAlOKAlCDnu53kuI3og73lj5boh6ogZ2V0X2xvZ2luX2luZm8nLCAoKSA9PiB7CiAgLy8g6L+Z5piv5pys5paH5Lu25a2Y5Zyo55qE5pyA6YeN6KaB55CG55Sx44CCU25vd0x1bWEg55qE5a2X5q615YiG5biD77yI5a6e5rWL5qC45a+56L+HIDEuMTQuOSDov5DooYzml7bmupDnoIHvvInvvJoKICAvLyAgIGdldF9sb2dpbl9pbmZvIOKGkiDlj6rmnIkgeyB1c2VyX2lkLCBuaWNrbmFtZSB9CiAgLy8gICBnZXRfc3RhdHVzICAgICDihpIgeyBvbmxpbmUsIGdvb2QgfQogIC8vICAgMzAg56eS5LiA5qyh55qE5b+D6Lez6L296I23IOKGkiBzdGF0dXM6IHsgb25saW5lLCBnb29kOiBvbmxpbmUgJiYgcmVjZWl2ZUhlYWx0aHkgfQogIC8vIOiAjCBTREsgKirlj6rmoKHpqowgc3RhdHVzL3JldGNvZGUg5L+h5bCB44CB5LiN5qCh6aqMIGRhdGEg6L296I23KirvvIzmiYDku6Xlj5bplJnlrZfmrrXkuI3kvJrmiqXplJkg4oCU4oCUCiAgLy8g5a6D5Y+q5Lya6K6pIGdvb2Qg5rC46L+c5YGc5ZyoIG51bGzvvIzmiooi5p2D5aiB5L+h5Y+3IuWPmOaIkOS4gOadoeawuOS4jeinpuWPkeeahOatu+WIhuaUr+OAggogIC8vIOacrOaWh+S7tuesrOS4gOeJiOWwseaYr+i/meS5iOWGmemUmeeahO+8iGhlYWx0aCDku6PnoIHnmoTnrKzkuIDmrKHlrp7njrDmlbTmnaEgZGVhZCBjb2Rl77yJ77yM5pWF56uL5q2k5pat6KiA44CCCiAgYXNzZXJ0Lm1hdGNoKGJyaWRnZUNvZGUsIC9cL2dldF9zdGF0dXMvLCAn5b+F6aG76L2u6K+iIGdldF9zdGF0dXMg5ou/IG9ubGluZS9nb29kJyk7CiAgYXNzZXJ0Lm1hdGNoKGJyaWRnZUNvZGUsIC9ib2R5XC5kYXRhXD9cLmdvb2QvLCAnZ2V0X3N0YXR1cyDnmoQgZ29vZCDlv4Xpobvooqvor7vlj5YnKTsKICAvLyDkuLvkv6Hlj7fvvJrlv4Pot7Pph4znmoQgc3RhdHVzLmdvb2TvvIjlhY3otLnjgIEzMCDnp5LkuIDmrKHjgIHogIHov5DooYzml7bkuZ/mnInvvIkKICBhc3NlcnQubWF0Y2goYnJpZGdlQ29kZSwgL21ldGFfZXZlbnRfdHlwZSA9PT0gJ2hlYXJ0YmVhdCcvLCAn5b+F6aG76K+G5YirIG1ldGFfZXZlbnQvaGVhcnRiZWF0Jyk7CiAgYXNzZXJ0Lm1hdGNoKGJyaWRnZUNvZGUsIC9ldmVudFwuc3RhdHVzXD9cLmdvb2QvLCAn5b+F6aG75LuO5b+D6Lez6L296I236K+7IHN0YXR1cy5nb29k77yI5Li75L+h5Y+377yJJyk7CiAgYXNzZXJ0Lm1hdGNoKGJyaWRnZUNvZGUsIC9ub3RlUmVjZWl2ZUhlYWx0aFwoLywgJ+W/g+i3sy/ova7or6Lpg73lv4Xpobvnu48gbm90ZVJlY2VpdmVIZWFsdGgg5b2S5LiA6K6w5b2VJyk7CiAgLy8g5Y+N6Z2i77ya5LiN5b6X5YaN5LuOIGdldF9sb2dpbl9pbmZvIOWPliBnb29kCiAgY29uc3QgbG9naW5DYWxsID0gYnJpZGdlQ29kZS5zbGljZSgKICAgIE1hdGgubWF4KDAsIGJyaWRnZUNvZGUuaW5kZXhPZignL2dldF9sb2dpbl9pbmZvJykgLSA0MDApLAogICAgYnJpZGdlQ29kZS5pbmRleE9mKCcvZ2V0X2xvZ2luX2luZm8nKSArIDkwMCwKICApOwogIGFzc2VydC5vayhsb2dpbkNhbGwubGVuZ3RoID4gMCwgJ+W6lOiDveWumuS9jSBnZXRfbG9naW5faW5mbyDosIPnlKjngrknKTsKICBhc3NlcnQub2soCiAgICAhL2dvb2QvLnRlc3QobG9naW5DYWxsLnJlcGxhY2UoL1wvXC8uKiQvZ20sICcnKS5yZXBsYWNlKC9cL1wqW1xzXFNdKj9cKlwvL2csICcnKSksCiAgICAnZ2V0X2xvZ2luX2luZm8g55qE6L+U5Zue6YeM5rKh5pyJIGdvb2Qg4oCU4oCUIOS4jeimgeS7juWug+i6q+S4iuWPlu+8iOS8mumdmem7mOWkseaViO+8ieOAgicKICAgICsgJ+iLpeimgeaYteensOWwseeUqOWug++8jOimgSBvbmxpbmUvZ29vZCDlsLHnlKggZ2V0X3N0YXR1cyDmiJblv4Pot7PjgIInLAogICk7Cn0pOwoKdGVzdCgn6Z2Z6buY5qOA5rWL5LiN5b6X5aOw56ew6IO95Yik5patIGhvb2sg5q275rS777yI5b+D6Lez5piv5pys5Zyw55Sf5oiQ55qE77yJJywgKCkgPT4gewogIC8vIFNub3dMdW1hIOeahOW/g+i3s+eUsSoq5a6D6Ieq5bex55qE5a6a5pe25Zmo5peg5p2h5Lu2Kirlj5Hlh7rvvIhIRUFSVEJFQVRfSU5URVJWQUwgPSAzZTTvvInvvIwKICAvLyDkuI3nu4/ov4cgUVEg5LqL5Lu25rWB5rC057q/44CC5omA5Lul44CM5rKh5pyJ5LqL5Lu25YyF44CN5Y+q6IO96K+B5piOIFNub3dMdW1hIOi/m+eoiy9XUyDljaHkvY/kuobvvIwKICAvLyAqKuS4jeiDvSoq6K+B5piO5a6D55qEIFtIb29rXSDmlLbkuI3liLAgUVEg5pWw5o2uIOKAlOKAlCDpgqPkuKrlj6rog73pnaAgc3RhdHVzLmdvb2TjgIIKICAvLyDmjqrovp7oi6XlhpnmiJAi5rKJ6buYPWhvb2sg5q275LqGIu+8jOi/kOe7tOS8muiiq+W8leWIsOmUmeivr+eahOe7k+iuuuS4iuOAggogIGNvbnN0IHNpbGVudEhpbnQgPSBicmlkZ2VDb2RlLnNsaWNlKAogICAgYnJpZGdlQ29kZS5pbmRleE9mKCdlbHNlIGlmIChzaWxlbnQpJyksCiAgICBicmlkZ2VDb2RlLmluZGV4T2YoJ2Vsc2UgaWYgKHNpbGVudCknKSArIDQyMCwKICApOwogIGFzc2VydC5vayhzaWxlbnRIaW50Lmxlbmd0aCA+IDAsICflupTog73lrprkvY3pnZnpu5jliIbmlK/nmoTmj5DnpLrmlofmoYgnKTsKICBhc3NlcnQub2soCiAgICAhL1xbSG9va1xdLy50ZXN0KHNpbGVudEhpbnQpLAogICAgJ+mdmem7mOWIhuaUr+S4jeW+l+aKiue7k+iuuuaMh+WQkSBbSG9va13vvIjlv4Pot7PkvJrkuIDnm7TmnaXvvIzmsonpu5jor7TmmI7nmoTmmK/ov5vnqIsvV1Mg5bGC6Z2i77yJJywKICApOwogIGFzc2VydC5tYXRjaChzaWxlbnRIaW50LCAv5b+D6LezLywgJ+mdmem7mOWIhuaUr+W6lOeCueaYjiLov57lv4Pot7Ppg73msqHmnIki77yM5oqK57uT6K666JC95Zyo6L+b56iLL1dTIOS4iicpOwp9KTsKCnRlc3QoJy9hcGkvc3RhdHVzIOaatOmcsiBzbm93bHVtYSDlgaXlurflv6vnhafvvIzkuJTlj6rnu5nmk43kvZzogIUnLCAoKSA9PiB7CiAgYXNzZXJ0Lm1hdGNoKGJyaWRnZUNvZGUsIC9zbm93bHVtYTogc25vd2x1bWFIZWFsdGhTbmFwc2hvdFwoXCkvLCAnL2FwaS9zdGF0dXMg5b+F6aG75bimIHNub3dsdW1hIOWtl+autScpOwogIC8vIOaZuuiDveS9k+inhuWbvu+8iOW4piB4LWFnZW50LXRva2VuIOeahOmCo+aUr++8ieS4jeW+l+WMheWQq+WugwogIGNvbnN0IGFnZW50QnJhbmNoID0gYnJpZGdlQ29kZS5zbGljZSgKICAgIGJyaWRnZUNvZGUuaW5kZXhPZigicmVxLmhlYWRlcnNbJ3gtYWdlbnQtdG9rZW4nXSB8fCByZXEuaGVhZGVyc1sneC1hZ2VudC1jYWxsJ10gIT09IHVuZGVmaW5lZCIpLAogICAgYnJpZGdlQ29kZS5pbmRleE9mKCdzbm93bHVtYTogc25vd2x1bWFIZWFsdGhTbmFwc2hvdCgpJyksCiAgKTsKICBhc3NlcnQub2soYWdlbnRCcmFuY2gubGVuZ3RoID4gMCwgJ+W6lOiDveWumuS9jeaZuuiDveS9k+WIhuaUr+S4juaTjeS9nOiAheWIhuaUrycpOwogIGFzc2VydC5vaygKICAgICEvc25vd2x1bWFccyo6Ly50ZXN0KGFnZW50QnJhbmNoKSwKICAgICflj5fpmZDnmoTmmbrog73kvZPop4blm77kuI3lvpfluKYgc25vd2x1bWEg6K+K5pat5a2X5q6177yI6YKj5piv566h55CG5L6n6KeC5rWL77yJJywKICApOwp9KTsKCnRlc3QoJ+aOp+WItuWPsOacieWvueW6lOeahOWRiuitpuadoeS4juWNoeeJhycsICgpID0+IHsKICBhc3NlcnQubWF0Y2goY29uc29sZUh0bWwsIC9pZD0ic25vd2x1bWFXYXJuIi8sICfmjqfliLblj7DlupTmnIkgU25vd0x1bWEg5ZGK6K2m5p2hJyk7CiAgYXNzZXJ0Lm1hdGNoKGNvbnNvbGVIdG1sLCAvcmVuZGVyU25vd2x1bWFIZWFsdGhcKC8sICflkYrorabmnaHlv4XpobvooqvmjqXnur/liLAgL2FwaS9zdGF0dXMg55qE5riy5p+T6Lev5b6EJyk7CiAgYXNzZXJ0Lm1hdGNoKGNvbnNvbGVIdG1sLCAvXFtIb29rXF0vLCAn5ZGK6K2m5paH5qGI5b+F6aG75oqK5o6S5p+l5pa55ZCR5oyH5ZCRIFNub3dMdW1hIOeahCBbSG9va10g5pel5b+XJyk7Cn0pOwoKdGVzdCgn56uv54K56Ieq5oSI5Y+v5YWz77yM5LiU6buY6K6k5L+d5oyB44CM6Lef6ZqP44CN77yI5ZCR5ZCO5YW85a6577yJJywgKCkgPT4gewogIGFzc2VydC5tYXRjaCgKICAgIGJyaWRnZUNvZGUsCiAgICAvY2ZnXC5zbm93bHVtYVw/XC5mb2xsb3dEaXNjb3ZlcmVkRW5kcG9pbnQgIT09IGZhbHNlLywKICAgICflv4XpobvmlK/mjIEgc25vd2x1bWEuZm9sbG93RGlzY292ZXJlZEVuZHBvaW50IOWFs+mXreerr+eCuei3n+majycsCiAgKTsKICBhc3NlcnQuZXF1YWwoCiAgICBleGFtcGxlLnNub3dsdW1hPy5mb2xsb3dEaXNjb3ZlcmVkRW5kcG9pbnQsIHRydWUsCiAgICAn56S65L6L6YWN572u6YeM6buY6K6k5YC85b+F6aG75pivIHRydWUg4oCU4oCUIOWFs+mXreS8muaUueWPmOaXouacieiHquaEiOihjOS4uu+8jOS4jeiDveaChOaChOaUuem7mOiupCcsCiAgKTsKICAvLyDlhbPmjonml7bkuI3lvpfmiorlj5HnjrDnmoTnq6/ngrnlhpnlm57mlofku7YKICBhc3NlcnQubWF0Y2goCiAgICBicmlkZ2VDb2RlLAogICAgL1wuXC5cLlwoZm9sbG93RW5kcG9pbnQgXD8gXHsgd3NVcmwsIGh0dHBVcmw6IHJcLmJhc2VVcmwgXH0gOiBce1x9XCkvLAogICAgJ+WFs+mXrei3n+maj+aXtuS4jeW+l+aKiiB3c1VybCDlhpnlm54gY29uZmlnLmpzb27vvIjlkKbliJki5oiR6K6+5LqG5Yir5aSEIuS8muiiq+aMgeS5heWMluaKueaOie+8iScsCiAgKTsKICBhc3NlcnQuZXF1YWwodHlwZW9mIGV4YW1wbGUuc25vd2x1bWE/LnNpbGVuY2VXYXJuTXMsICdudW1iZXInLCAn56S65L6L6YWN572u5bqU6K6w5b2V6Z2Z6buY5ZGK6K2m6ZiI5YC8Jyk7Cn0pOwo=
+// SnowLuma 上游健康与客户端库版本的登记期回归。
+//
+// 为什么需要这个文件
+// ------------------
+// 真实发生过的误诊：SnowLuma 的原生 `[Hook]` 收不到 QQ 数据时，它的进程与 OneBot
+// WebSocket **都还活着**，于是桥接这边一切正常（WebSocket 通、日志打过「SnowLuma 已连接」），
+// 但群里一条消息都不来。**桥接当时对这个状态没有任何观测**：没有状态字段、没有看门狗、
+// 没有控制台指示、文档里也没有对应排查分支 —— 于是它被报成「qq-bridge 注入失败」。
+//
+// 这个文件把「桥接必须观测上游健康」这件事固定下来，并盯住几处**容易静默退化**的地方：
+//   ① 客户端库版本：`bot_status` 是 SnowLuma 1.14.17 才有的，库低于此就永远收不到；
+//   ② 订阅面：`onEvent` / `onBotStatus` 一旦被删掉，静默检测与账号上下线判断会无声失效；
+//   ③ 上报面：`/api/status` 的 `snowluma` 字段与控制台的告警条/卡片；
+//   ④ 端点自愈的开关：`followDiscoveredEndpoint` 默认必须仍是「跟随」（保持既有行为），
+//      但要真的能关掉（多实例/多账号场景，实测踩过：指向死端口仍被自愈改回真实端点）。
+//
+// 同时校验一条**依赖契约**：`@snowluma/*` 的 npm 发布版有 ESM 扩展名 bug，必须靠
+// postinstall 补丁才能被纯 Node ESM 解析。上游若哪天修好了，这个测试会提醒我们补丁可以退休。
+import assert from 'node:assert/strict';
+import test from 'node:test';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
+const bridge = fs.readFileSync(path.join(ROOT, 'src', 'bridge.js'), 'utf8');
+const consoleHtml = fs.readFileSync(path.join(ROOT, 'public', 'console.html'), 'utf8');
+const pkg = JSON.parse(fs.readFileSync(path.join(ROOT, 'package.json'), 'utf8'));
+const example = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.example.json'), 'utf8'));
+
+/** 只要可执行代码：注释里会大段解释这些名字（直接扫原文会把说明当成实现）。 */
+const codeOf = (src) => src
+  // 顺序很重要：先剥行注释，再剥块注释。行注释里出现的 `/*`（例如 `/api/send/*`）
+  // 若先做块注释扫描，会被当成块注释开头、一路吞到后面某个 `*/` —— 实测吞掉过
+  // 二十多万字符的代码，让本文件的断言对着"不存在的源码"误报。
+  .split(/\r?\n/).map((l) => l.replace(/\/\/.*$/, '')).join('\n')
+  .replace(/\/\*[\s\S]*?\*\//g, '');
+const bridgeCode = codeOf(bridge);
+
+test('SnowLuma 客户端库不低于 bot_status 出现的版本（1.14.17）', () => {
+  // 低于这个版本订阅不到 bot_status：账号掉线/被顶号将没有任何信号。
+  // 只比较 minor.patch 数值，够用且不引入语义化版本库依赖。
+  const num = (v) => {
+    const m = /^[\^~]?(\d+)\.(\d+)\.(\d+)/.exec(String(v ?? ''));
+    return m ? Number(m[1]) * 1e6 + Number(m[2]) * 1e3 + Number(m[3]) : null;
+  };
+  const min = num('1.14.17');
+  for (const name of ['@snowluma/sdk', '@snowluma/mcp']) {
+    const declared = num(pkg.dependencies?.[name]);
+    assert.ok(declared !== null, `${name} 必须在 dependencies 里声明`);
+    assert.ok(
+      declared >= min,
+      `${name} 声明为 ${pkg.dependencies[name]}，低于 1.14.17 —— 那样订阅不到 bot_status（账号上下线事件），`
+      + '上游健康会少一个信号。',
+    );
+  }
+});
+
+test('客户端库确实可被纯 Node ESM 解析（postinstall 补丁的成果）', async () => {
+  // 上游打包 bug：dist 内相对导入缺 .js 扩展名，纯 Node ESM 解析不了。补丁是让它可 import 的
+  // **唯一**东西，所以「能 import」本身就是补丁生效的证据（与安装顺序无关）。
+  const sdk = await import('@snowluma/sdk');
+  assert.equal(typeof sdk.SnowLumaWebSocketClient, 'function', 'SnowLumaWebSocketClient 应可导入');
+  assert.match(String(pkg.scripts?.postinstall ?? ''), /patch-snowluma-sdk/, 'postinstall 必须仍挂补丁脚本');
+
+  // 顺带报告 dist 里是否还有**未修**的相对导入。
+  // ⚠️ 这里刻意**只提示不断言**：补丁是就地把扩展名补上的，跑过一次之后自然就"没有需要修的了"，
+  //    所以"命中 0 个"既可能是上游修好了、也可能只是本机已经补过 —— 断言它会让这条测试
+  //    依赖安装顺序（第一版就是这么写错的，装完再跑必红）。
+  const dist = path.join(ROOT, 'node_modules', '@snowluma', 'sdk', 'dist');
+  let unresolved = 0;
+  const walk = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const full = path.join(dir, e.name);
+      if (e.isDirectory()) { walk(full); continue; }
+      if (!full.endsWith('.js')) continue;
+      const src = fs.readFileSync(full, 'utf8');
+      for (const m of src.matchAll(/from\s+'(\.\.?\/[^']+)'/g)) {
+        const spec = m[1];
+        if (spec.endsWith('.js') || spec.endsWith('.json')) continue;
+        const t = path.resolve(path.dirname(full), spec);
+        if (fs.existsSync(t + '.js') || fs.existsSync(t + '.json')) unresolved += 1;
+      }
+    }
+  };
+  if (fs.existsSync(dist)) {
+    walk(dist);
+    console.log(unresolved === 0
+      ? '  ℹ️  dist 中没有未修的相对导入（补丁已生效，或上游已修好 —— 两种情况都不需要动作）'
+      : `  ⚠️  dist 中仍有 ${unresolved} 处未修的相对导入：postinstall 可能没跑到，请重跑 npm install`);
+    assert.equal(unresolved, 0, 'dist 里不应残留未修的相对导入（否则 postinstall 没生效）');
+  } else {
+    console.log('  ⏭  跳过 dist 扫描：@snowluma/sdk 未安装');
+  }
+});
+
+test('桥接订阅了「上游还活着」的证据（onEvent）', () => {
+  assert.match(bridgeCode, /bot\.onEvent\(/, '必须用 onEvent 旁路统计上游事件包（静默检测的依据）');
+  assert.match(bridgeCode, /noteUpstreamPacket\(/, 'onEvent 回调必须记账到 noteUpstreamPacket');
+});
+
+test('桥接订阅了 bot_status（账号上下线），且对老运行时优雅降级', () => {
+  assert.match(bridgeCode, /bot\.onBotStatus\(/, '必须订阅 bot_status');
+  // 老运行时不会发这个事件；订阅调用被 try 包住，失败只提示不致命
+  assert.match(bridgeCode, /bot_status 订阅不可用/, '订阅失败必须明确提示（老运行时应优雅降级）');
+});
+
+test('good 取自心跳 status.good / get_status —— 绝不能取自 get_login_info', () => {
+  // 这是本文件存在的最重要理由。SnowLuma 的字段分布（实测核对过 1.14.9 运行时源码）：
+  //   get_login_info → 只有 { user_id, nickname }
+  //   get_status     → { online, good }
+  //   30 秒一次的心跳载荷 → status: { online, good: online && receiveHealthy }
+  // 而 SDK **只校验 status/retcode 信封、不校验 data 载荷**，所以取错字段不会报错 ——
+  // 它只会让 good 永远停在 null，把"权威信号"变成一条永不触发的死分支。
+  // 本文件第一版就是这么写错的（health 代码的第一次实现整条 dead code），故立此断言。
+  assert.match(bridgeCode, /\/get_status/, '必须轮询 get_status 拿 online/good');
+  assert.match(bridgeCode, /body\.data\?\.good/, 'get_status 的 good 必须被读取');
+  // 主信号：心跳里的 status.good（免费、30 秒一次、老运行时也有）
+  assert.match(bridgeCode, /meta_event_type === 'heartbeat'/, '必须识别 meta_event/heartbeat');
+  assert.match(bridgeCode, /event\.status\?\.good/, '必须从心跳载荷读 status.good（主信号）');
+  assert.match(bridgeCode, /noteReceiveHealth\(/, '心跳/轮询都必须经 noteReceiveHealth 归一记录');
+  // 反面：不得再从 get_login_info 取 good
+  const loginCall = bridgeCode.slice(
+    Math.max(0, bridgeCode.indexOf('/get_login_info') - 400),
+    bridgeCode.indexOf('/get_login_info') + 900,
+  );
+  assert.ok(loginCall.length > 0, '应能定位 get_login_info 调用点');
+  assert.ok(
+    !/good/.test(loginCall.replace(/\/\/.*$/gm, '').replace(/\/\*[\s\S]*?\*\//g, '')),
+    'get_login_info 的返回里没有 good —— 不要从它身上取（会静默失效）。'
+    + '若要昵称就用它，要 online/good 就用 get_status 或心跳。',
+  );
+});
+
+test('静默检测不得声称能判断 hook 死活（心跳是本地生成的）', () => {
+  // SnowLuma 的心跳由**它自己的定时器无条件**发出（HEARTBEAT_INTERVAL = 3e4），
+  // 不经过 QQ 事件流水线。所以「没有事件包」只能证明 SnowLuma 进程/WS 卡住了，
+  // **不能**证明它的 [Hook] 收不到 QQ 数据 —— 那个只能靠 status.good。
+  // 措辞若写成"沉默=hook 死了"，运维会被引到错误的结论上。
+  const silentHint = bridgeCode.slice(
+    bridgeCode.indexOf('else if (silent)'),
+    bridgeCode.indexOf('else if (silent)') + 420,
+  );
+  assert.ok(silentHint.length > 0, '应能定位静默分支的提示文案');
+  assert.ok(
+    !/\[Hook\]/.test(silentHint),
+    '静默分支不得把结论指向 [Hook]（心跳会一直来，沉默说明的是进程/WS 层面）',
+  );
+  assert.match(silentHint, /心跳/, '静默分支应点明"连心跳都没有"，把结论落在进程/WS 上');
+});
+
+test('/api/status 暴露 snowluma 健康快照，且只给操作者', () => {
+  assert.match(bridgeCode, /snowluma: snowlumaHealthSnapshot\(\)/, '/api/status 必须带 snowluma 字段');
+  // 智能体视图（带 x-agent-token 的那支）不得包含它
+  const agentBranch = bridgeCode.slice(
+    bridgeCode.indexOf("req.headers['x-agent-token'] || req.headers['x-agent-call'] !== undefined"),
+    bridgeCode.indexOf('snowluma: snowlumaHealthSnapshot()'),
+  );
+  assert.ok(agentBranch.length > 0, '应能定位智能体分支与操作者分支');
+  assert.ok(
+    !/snowluma\s*:/.test(agentBranch),
+    '受限的智能体视图不得带 snowluma 诊断字段（那是管理侧观测）',
+  );
+});
+
+test('控制台有对应的告警条与卡片', () => {
+  assert.match(consoleHtml, /id="snowlumaWarn"/, '控制台应有 SnowLuma 告警条');
+  assert.match(consoleHtml, /renderSnowlumaHealth\(/, '告警条必须被接线到 /api/status 的渲染路径');
+  assert.match(consoleHtml, /\[Hook\]/, '告警文案必须把排查方向指向 SnowLuma 的 [Hook] 日志');
+});
+
+test('端点自愈可关，且默认保持「跟随」（向后兼容）', () => {
+  assert.match(
+    bridgeCode,
+    /cfg\.snowluma\?\.followDiscoveredEndpoint !== false/,
+    '必须支持 snowluma.followDiscoveredEndpoint 关闭端点跟随',
+  );
+  assert.equal(
+    example.snowluma?.followDiscoveredEndpoint, true,
+    '示例配置里默认值必须是 true —— 关闭会改变既有自愈行为，不能悄悄改默认',
+  );
+  // 关掉时不得把发现的端点写回文件
+  assert.match(
+    bridgeCode,
+    /\.\.\.\(followEndpoint \? \{ wsUrl, httpUrl: r\.baseUrl \} : \{\}\)/,
+    '关闭跟随时不得把 wsUrl 写回 config.json（否则"我设了别处"会被持久化抹掉）',
+  );
+  assert.equal(typeof example.snowluma?.silenceWarnMs, 'number', '示例配置应记录静默告警阈值');
+});

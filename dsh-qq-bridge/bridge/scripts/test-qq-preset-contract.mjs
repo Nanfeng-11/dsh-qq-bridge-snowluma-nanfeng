@@ -1,1 +1,106 @@
-Ly8gcmVzZXJ2ZWQyIOaPkOekuuivjeS4juaPkuS7tui+ueeVjOeahOmdmeaAgeWlkee6pu+8m+S4jeiwg+eUqOaooeWei++8jOS4jeWQkSBRUSDlj5HpgIHmtojmga/jgIIKLy8g6L+Z5Lqb5qOA5p+l5Y+q6IO96Ziy5q2i5YWz6ZSu5Y2P6K6uL+iDveWKm+iiq+ivr+WIoO+8jOS4jeiDveivgeaYjuiBiuWkqei0qOmHj+aXoOaNn+OAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHsgdGVzdCB9IGZyb20gJ25vZGU6dGVzdCc7CmltcG9ydCB5YW1sIGZyb20gJ2pzLXlhbWwnOwoKY29uc3QgcHJlc2V0ID0geWFtbC5sb2FkKGZzLnJlYWRGaWxlU3luYygKICBuZXcgVVJMKCcuLi9kc2gvYWdlbnQtcHJlc2V0cy9xcS1jaGF0LXYyL2FnZW50LmNvcmRpcy55bWwnLCBpbXBvcnQubWV0YS51cmwpLCAndXRmOCcsCikpOwpjb25zdCBwZXJzb25hID0gcHJlc2V0LmZpbmQoKHJvdykgPT4gcm93LmlkID09PSAncGVyc29uYScpOwpjb25zdCBwcmVmaXggPSBwZXJzb25hPy5jb25maWc/LnByZWZpeCA/PyAnJzsKCnRlc3QoJ3Jlc2VydmVkMiBZQU1MIHJlc29sdmVzIHRvIHRoZSBleHBlY3RlZCBwZXJzb25hIGFuZCB0ZW1wbGF0ZSB2YXJpYWJsZXMnLCAoKSA9PiB7CiAgYXNzZXJ0LmVxdWFsKHBlcnNvbmE/Lm5hbWUsICdAZGVlcHNlZWstYWkvZHNoLXBlcnNvbmEnKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAvXHtce21vZGVsXH1cfS8pOwogIC8vIERTSCAwLjIuMSDotbcgYWdlbnQgbG9vcCDlj6rms6jlhowgcHJvdmlkZXIgLyBtb2RlbCDkuKTkuKrmj5DnpLror43lj5jph4/vvIgwLjIuMCDov5jmnIkgY3dk77yJ77yMCiAgLy8g5pyq55+l5Y+Y6YeP5Lya6K6pIHN5c3RlbSBwcm9tcHQg6KOF6YWN55u05o6l5oqb6ZSZIOKHkiDmr4/lm57lkIggZXJyb3LjgIHmqKHlnovkuIDmrKHpg73kuI3ot5HjgIIKICAvLyDov5nph4zpkonkvY/jgIzlj6rnlKjlt7Lms6jlhozlj5jph4/jgI3vvIzogIzkuI3lj6rmmK/jgIzmnIkge3ttb2RlbH1944CN44CCCiAgY29uc3QgdXNlZCA9IFsuLi5KU09OLnN0cmluZ2lmeShwZXJzb25hLmNvbmZpZykubWF0Y2hBbGwoL1x7XHsoW2Etel1bYS16MC05X10qKVx9XH0vZyldLm1hcCgobSkgPT4gbVsxXSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChbLi4ubmV3IFNldCh1c2VkKV0uZmlsdGVyKCh2KSA9PiAhWydwcm92aWRlcicsICdtb2RlbCddLmluY2x1ZGVzKHYpKSwgW10pOwogIGFzc2VydC5lcXVhbChPYmplY3QuaGFzT3duKHBlcnNvbmEuY29uZmlnLCAndGV4dCcpLCBmYWxzZSk7Cn0pOwoKdGVzdCgnbG9jYWwvYWRtaW4gdG9vbCByZXN0cmljdGlvbnMgYW5kIGV4aXN0aW5nIGNvbXBhY3Rpb24gYnVkZ2V0cyBzdGF5IGludGFjdCcsICgpID0+IHsKICBhc3NlcnQuZGVlcEVxdWFsKHByZXNldC5tYXAoKHJvdykgPT4gcm93LmlkKSwgWwogICAgJ3BlcnNvbmEnLCAndG9vbC13ZWInLCAndG9vbC1hc2stdXNlcicsICd0b29sLXRvZG8nLCAncXEtdG9vbC1yZXN0cmljdCcsICdjb21wYWN0aW9uJywKICBdKTsKICBhc3NlcnQuZGVlcEVxdWFsKHByZXNldC5maW5kKChyb3cpID0+IHJvdy5pZCA9PT0gJ3Rvb2wtd2ViJykuY29uZmlnLCB7IHNlYXJjaDogZmFsc2UsIGZldGNoOiBmYWxzZSB9KTsKICBhc3NlcnQuZXF1YWwocHJlc2V0LmZpbmQoKHJvdykgPT4gcm93LmlkID09PSAncXEtdG9vbC1yZXN0cmljdCcpLm5hbWUsICcuL3FxLXRvb2wtcmVzdHJpY3QubWpzJyk7CiAgY29uc3QgY29tcGFjdGlvbiA9IHByZXNldC5maW5kKChyb3cpID0+IHJvdy5pZCA9PT0gJ2NvbXBhY3Rpb24nKTsKICBhc3NlcnQuZGVlcEVxdWFsKGNvbXBhY3Rpb24uaXNvbGF0ZSwgeyBjb21wYWN0aW9uOiB0cnVlLCB0b29sUmVzdWx0UHJ1bmVyOiB0cnVlIH0pOwogIGFzc2VydC5kZWVwRXF1YWwoY29tcGFjdGlvbi5jb25maWcuZmluZCgocm93KSA9PiByb3cuaWQgPT09ICd0b29sLXJlc3VsdC1wcnVuZXInKS5jb25maWcsIHsKICAgIHRocmVzaG9sZENoYXJzOiA1MDAwMCwgaGVhZENoYXJzOiA0NTAwMCwgdGFpbENoYXJzOiAyMDAwLAogIH0pOwogIGZvciAoY29uc3QgdGV4dCBvZiBbJ+S9oOayoeacieacrOWcsOW3peWFtycsICfnvqTlj4vmsqHmnInnrqHnkIbmnYPpmZAnLCAnQVBJIOS7pOeJjCcsICfop5LoibLnlLHmoaXmjqXms6jlhaUnXSkgewogICAgYXNzZXJ0Lm9rKHByZWZpeC5pbmNsdWRlcyh0ZXh0KSwgYG1pc3Npbmcgc2FmZXR5IHJ1bGU6ICR7dGV4dH1gKTsKICB9Cn0pOwoKdGVzdCgnc25hcHNob3RzIGFyZSBvcHRpb25hbCwgcGFydGlhbCBzbmFwc2hvdHMgcmVxdWlyZSByZWFkaW5nLCBhbmQgd2F0ZXJtYXJrcyBhcmUgbm90IG1lc3NhZ2UgSURzJywgKCkgPT4gewogIGFzc2VydC5tYXRjaChwcmVmaXgsIC/lj6/og73pmYTluKbjgJDmnKzmrKHmtojmga/lv6vnhafjgJEvKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAvcGFydGlhbD10cnVlW17jgIJdKue7p+e7reivu+WPli8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC9yZWFkVGhyb3VnaFNlcSDmmK/moaXmjqXmnKzlnLDnmoQgc2Vx77yM5LiN5pivIFFRIG1lc3NhZ2VJZC8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC/msqHmnInmsLTkvY1bXuOAgl0q55yB55WlIHRocm91Z2hTZXEvKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAv6aaW5qyh6L+b5YWl5Lya6K+d44CB6KeS6Imy5Y+Y5YyWW17jgIJdKnFxX2dldF9wcm9tcHQvKTsKfSk7Cgp0ZXN0KCdvbmUgY2xvc2luZyBhY3Rpb24gY2FuIGFja25vd2xlZGdlIHRoZSByZWFkIHdhdGVybWFyayBhZnRlciB0aGUgZnVsbCBvYnNlcnZhdGlvbicsICgpID0+IHsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAvcXFfbWFya19yZWFkXCh0aHJvdWdoU2VxPS8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC9xcV9zZXRfd2FrZV9jb25maWdcKGNvbmZpZz1bXildKnRocm91Z2hTZXE9Lyk7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgL+S4jemcgOWFiCBtYXJrX3JlYWQvKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAvcXFfd2FpdF9mb3JfbWVzc2FnZXNcKHRpbWVvdXRNcz0zMDAwMDBcKS8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC/nn63nrYnlvoXkuI3og73ku6Pmm78vKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAvcHJlU2xlZXBXYWl0UmVtYWluaW5nTXNbXuOAgl0q57un57ut562J5b6FLyk7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgL+iLpeS9oOWPguS4juWbnuWkjVte44CCXSrph43mlrDop4Llr58vKTsKfSk7Cgp0ZXN0KCdwcmUtcmVwbHkgcXVpZXQgY2hlY2tzLCB3YWl0aW5nIGZvciByZXBsaWVzIGFuZCBwcmUtc2xlZXAgb2JzZXJ2YXRpb24gaGF2ZSBkaXN0aW5jdCBpbnN0cnVjdGlvbnMnLCAoKSA9PiB7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgL+WFiOeQhuino+W5tuWkhOeQhuW9k+WJjea2iOaBry8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC/jgJDpppbnrZTliY3jgJFbXlxuXSpxcV93YWl0X2Zvcl9tZXNzYWdlc1wocHVycG9zZT0icmVwbHkiLCBxdWlldE1zPTEwMDAwXCkvKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAv6K+75Y+W5ZKM5oCd6ICD6Iqx5o6J55qE5pe26Ze05Lmf566X77yM5bey5a6J6Z2Z6Laz5aSf5bCx56uL5Y2z6L+U5ZueLyk7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgL+S4jeimgeWGjemHjeW8gOS4gOasoeaZrumAmumVv+etieW+hS8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC/pooTnrpfliLDkvYYgcXVpZXQ9ZmFsc2Ug5LiN562J5LqO5a+55pa56K+05a6MLyk7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgL+OAkOetieS4i+aWh+OAkVteXG5dKnB1cnBvc2U9Im1lc3NhZ2VzIiwgdGltZW91dE1zPTYwMDAwfjEyMDAwMC8pOwogIGFzc2VydC5tYXRjaChwcmVmaXgsIC/jgJDlm57lpI3lkI7jgJFbXlxuXSpxcV93YWl0X2Zvcl9tZXNzYWdlc1wocHVycG9zZT0ibWVzc2FnZXMiXCkvKTsKICBhc3NlcnQubWF0Y2gocHJlZml4LCAv55+t6Z2Z6buY5LiN566X5rKJ552h5YmN6KeC5a+fLyk7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgLzUg5YiG6ZKf6KeC5a+f5LiN5piv5Zue5aSN55qE5YmN572u5p2h5Lu2Lyk7CiAgYXNzZXJ0Lm1hdGNoKHByZWZpeCwgL+WPquacieWHhuWkh+aUtuWwvuaXtlte44CCXSpwcmVTbGVlcFdhaXRSZW1haW5pbmdNcy8pOwp9KTsKCnRlc3QoJ3NvY2lhbCBhdXRvbm9teSBhbmQgdmlzdWFsLCBmb3J3YXJkaW5nLCBzdGlja2VyIGFuZCB3ZWIgY2FwYWJpbGl0aWVzIHJlbWFpbiBkZXNjcmliZWQnLCAoKSA9PiB7CiAgZm9yIChjb25zdCB0ZXh0IG9mIFsKICAgICfjgJDlj40gQUkg5ZGz77ya5ouS57ud5pyJ5rGC5b+F5bqU44CRJywgJ+OAkOS/neaMgeS4u+S9k+aAp+OAkScsICfjgJDlrabkuaDnvqTlj4vnrZbnlaXjgJEnLAogICAgJ+OAkOS4jeimgeW9k+e+pOeuoeWuti/kuLvmjIHkurrjgJEnLCAn5pmu6YCa5a+56K+d6buY6K6kIDEg5p2h77yM5pyA5aSaIDIg5p2hJywgJ+S4jeimgeeUqOepuuagvOaWreWPpScsCiAgICAn5LiN5Lya6Ieq5Yqo5Y+R6YCB5YiwIFFRJywgJ3FxX2dldF9tZXNzYWdlX2ltYWdlcycsICdxcV9nZXRfZm9yd2FyZF9tc2cnLCAnbmVzdGVkRm9yd2FyZElkcycsCiAgICAncXFfc2VuZF9wb2tlJywgJ3FxX2xpc3Rfc3RpY2tlcnMnLCAncXFfZ2V0X3N0aWNrZXJfaW1hZ2UnLCAncXFfc2VuZF9zdGlja2VyJywKICAgICdxcV9jb2xsZWN0X3N0aWNrZXInLCAncXFfc3RpY2tlcl9ub3RlJywgJ3FxX2dldF9zZWxmX2ltYWdlJywKICAgICdxcV9zZXRfc3RpY2tlcl9yZW1hcmsnLCAn5Y+q5pyJ566h55CG56uv5piO56Gu5byA5ZCv5ZCO5omN6IO955SoJywKICAgICdxcV9saXN0X3ZvaWNlcycsICdxcV9zZW5kX3ZvaWNlJywgJ3ZlcmlmaWVkPXRydWUg5omN5Luj6KGo6L+Z5p2h6K+t6Z+z56Gu5a6e6JC95ZywJywKICAgICfor63pn7MqKum7mOiupOaYr+WFs+mXreeahCoqJywgJ+S4jeimgeWBh+ijheWPkeS6huivremfsycsCiAgICAnbWNwX193ZWItc2VhcmNoLXNhZmVfX3dlYl9zZWFyY2gnLCAnbWNwX193ZWItc2VhcmNoLXNhZmVfX3dlYl9mZXRjaCcsCiAgXSkgYXNzZXJ0Lm9rKHByZWZpeC5pbmNsdWRlcyh0ZXh0KSwgYG1pc3NpbmcgY2FwYWJpbGl0eSBvciB2b2ljZSBydWxlOiAke3RleHR9YCk7Cn0pOwoKdGVzdCgnYXV0b25vbXkgbGltaXRzIGFuZCB0aGUgb2JzZXJ2YXRpb24gZXNjYXBlIGhhdGNoIHN0YXkgZGVzY3JpYmVkJywgKCkgPT4gewogIC8vIFRoZXNlIHJ1bGVzIHdlcmUgcHJldmlvdXNseSB1bmd1YXJkZWQ6IGRlbGV0aW5nIGFueSBvZiB0aGVtIGxlZnQgZXZlcnkgdGVzdCBncmVlbi4KICBmb3IgKGNvbnN0IHRleHQgb2YgWwogICAgLy8g5rKJ552h5YmN6KeC5a+f5ZSv5LiA55qE6YCD55Sf5Y+j77ya5piO56Gu57uT5p2f6K+t5Y+v5Lul6Lez6L+HIDUg5YiG6ZKf562J5b6F44CCCiAgICAn6Zmk6Z2e5a+55pa55piO56Gu4oCc5LiN6IGK5LqGL+aZmuWuiS/kuIvkuoYv5ouc5ouc4oCd562J57uT5p2f6K+tJywKICAgIC8vIFtTSUxFTlRdIOaYr+ahpeaOpeeahOmAgOWHuuagh+iusO+8jOivr+eUqOS8mumdmem7mOWQnuaOieWbnuWkjeOAggogICAgJ+S4jeimgeeUqCBbU0lMRU5UXScsCiAgICAvLyDorrDlv4bpnaIKICAgICfjgJDorrDlv4bljavnlJ/jgJEnLCAncXFfbWVtb3J5X2FwcGVuZCcsICdxcV9tZW1vcnlfcXVlcnknLCAncXFfbWVtb3J5X3JlbW92ZScsICdxcV9tZW1vcnlfY2xlYXInLAogICAgLy8g6buR6K+d6Z2iCiAgICAncXFfc2xhbmdfcXVlcnknLCAncXFfc2xhbmdfc3VibWl0JywgJ+S4jemHjeWkjeaPkOS6pCcsCiAgICAvLyDpopHnjofkuIrpmZAKICAgICfmma7pgJrpl7LogYrnuqYgM341IOi9ruS4gOW8oCcsICfliKvliLflsY8nLCAn5q+P5p2h5Y+q6IO95LiA5byg77yM5LiN6IO96ZmE5bim5paH5a2XJywgJ+S4jeimgemikee5geaLjScsCiAgICAvLyDkvJror53ku6TniYzmmK/noazliY3nva7vvIzmvI/kvKDkvJrooqvmi5Lnu53jgIIKICAgICfkvZzkuLogdG9rZW4g5Y+C5pWw5Lyg5YWlJywKICAgIC8vIOaMh+WumuaIkOWRmOWUpOmGkgogICAgJ3RyaWdnZXJzLnNwZWFrZXJJZHMnLCAn5LiN5Yet6K6w5b+G5Lmx5aGrJywKICBdKSBhc3NlcnQub2socHJlZml4LmluY2x1ZGVzKHRleHQpLCBgbWlzc2luZyBydWxlOiAke3RleHR9YCk7Cn0pOwoKY29uc29sZS5sb2coYHJlc2VydmVkMiBwZXJzb25hIHByZWZpeDogJHtwcmVmaXgubGVuZ3RofSBjaGFyYWN0ZXJzIChub3QgYSBtb2RlbC10b2tlbiBlc3RpbWF0ZSlgKTsK
+// reserved2 提示词与插件边界的静态契约；不调用模型，不向 QQ 发送消息。
+// 这些检查只能防止关键协议/能力被误删，不能证明聊天质量无损。
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import { test } from 'node:test';
+import yaml from 'js-yaml';
+
+const preset = yaml.load(fs.readFileSync(
+  new URL('../dsh/agent-presets/qq-chat-v2/agent.cordis.yml', import.meta.url), 'utf8',
+));
+const persona = preset.find((row) => row.id === 'persona');
+const prefix = persona?.config?.prefix ?? '';
+
+test('reserved2 YAML resolves to the expected persona and template variables', () => {
+  assert.equal(persona?.name, '@deepseek-ai/dsh-persona');
+  assert.match(prefix, /\{\{model\}\}/);
+  // DSH 0.2.1 起 agent loop 只注册 provider / model 两个提示词变量（0.2.0 还有 cwd），
+  // 未知变量会让 system prompt 装配直接抛错 ⇒ 每回合 error、模型一次都不跑。
+  // 这里钉住「只用已注册变量」，而不只是「有 {{model}}」。
+  const used = [...JSON.stringify(persona.config).matchAll(/\{\{([a-z][a-z0-9_]*)\}\}/g)].map((m) => m[1]);
+  assert.deepEqual([...new Set(used)].filter((v) => !['provider', 'model'].includes(v)), []);
+  assert.equal(Object.hasOwn(persona.config, 'text'), false);
+});
+
+test('local/admin tool restrictions and existing compaction budgets stay intact', () => {
+  assert.deepEqual(preset.map((row) => row.id), [
+    'persona', 'tool-web', 'tool-ask-user', 'tool-todo', 'qq-tool-restrict', 'compaction',
+  ]);
+  assert.deepEqual(preset.find((row) => row.id === 'tool-web').config, { search: false, fetch: false });
+  assert.equal(preset.find((row) => row.id === 'qq-tool-restrict').name, './qq-tool-restrict.mjs');
+  const compaction = preset.find((row) => row.id === 'compaction');
+  assert.deepEqual(compaction.isolate, { compaction: true, toolResultPruner: true });
+  assert.deepEqual(compaction.config.find((row) => row.id === 'tool-result-pruner').config, {
+    thresholdChars: 50000, headChars: 45000, tailChars: 2000,
+  });
+  for (const text of ['你没有本地工具', '群友没有管理权限', 'API 令牌', '角色由桥接注入']) {
+    assert.ok(prefix.includes(text), `missing safety rule: ${text}`);
+  }
+});
+
+test('snapshots are optional, partial snapshots require reading, and watermarks are not message IDs', () => {
+  assert.match(prefix, /可能附带【本次消息快照】/);
+  assert.match(prefix, /partial=true[^。]*继续读取/);
+  assert.match(prefix, /readThroughSeq 是桥接本地的 seq，不是 QQ messageId/);
+  assert.match(prefix, /没有水位[^。]*省略 throughSeq/);
+  assert.match(prefix, /首次进入会话、角色变化[^。]*qq_get_prompt/);
+});
+
+test('one closing action can acknowledge the read watermark after the full observation', () => {
+  assert.match(prefix, /qq_mark_read\(throughSeq=/);
+  assert.match(prefix, /qq_set_wake_config\(config=[^)]*throughSeq=/);
+  assert.match(prefix, /不需先 mark_read/);
+  assert.match(prefix, /qq_wait_for_messages\(timeoutMs=300000\)/);
+  assert.match(prefix, /短等待不能代替/);
+  assert.match(prefix, /preSleepWaitRemainingMs[^。]*继续等待/);
+  assert.match(prefix, /若你参与回复[^。]*重新观察/);
+});
+
+test('pre-reply quiet checks, waiting for replies and pre-sleep observation have distinct instructions', () => {
+  assert.match(prefix, /先理解并处理当前消息/);
+  assert.match(prefix, /【首答前】[^\n]*qq_wait_for_messages\(purpose="reply", quietMs=10000\)/);
+  assert.match(prefix, /读取和思考花掉的时间也算，已安静足够就立即返回/);
+  assert.match(prefix, /不要再重开一次普通长等待/);
+  assert.match(prefix, /预算到但 quiet=false 不等于对方说完/);
+  assert.match(prefix, /【等下文】[^\n]*purpose="messages", timeoutMs=60000~120000/);
+  assert.match(prefix, /【回复后】[^\n]*qq_wait_for_messages\(purpose="messages"\)/);
+  assert.match(prefix, /短静默不算沉睡前观察/);
+  assert.match(prefix, /5 分钟观察不是回复的前置条件/);
+  assert.match(prefix, /只有准备收尾时[^。]*preSleepWaitRemainingMs/);
+});
+
+test('social autonomy and visual, forwarding, sticker and web capabilities remain described', () => {
+  for (const text of [
+    '【反 AI 味：拒绝有求必应】', '【保持主体性】', '【学习群友策略】',
+    '【不要当群管家/主持人】', '普通对话默认 1 条，最多 2 条', '不要用空格断句',
+    '不会自动发送到 QQ', 'qq_get_message_images', 'qq_get_forward_msg', 'nestedForwardIds',
+    'qq_send_poke', 'qq_list_stickers', 'qq_get_sticker_image', 'qq_send_sticker',
+    'qq_collect_sticker', 'qq_sticker_note', 'qq_get_self_image',
+    'qq_set_sticker_remark', '只有管理端明确开启后才能用',
+    'qq_list_voices', 'qq_send_voice', 'verified=true 才代表这条语音确实落地',
+    '语音**默认是关闭的**', '不要假装发了语音',
+    'mcp__web-search-safe__web_search', 'mcp__web-search-safe__web_fetch',
+  ]) assert.ok(prefix.includes(text), `missing capability or voice rule: ${text}`);
+});
+
+test('autonomy limits and the observation escape hatch stay described', () => {
+  // These rules were previously unguarded: deleting any of them left every test green.
+  for (const text of [
+    // 沉睡前观察唯一的逃生口：明确结束语可以跳过 5 分钟等待。
+    '除非对方明确“不聊了/晚安/下了/拜拜”等结束语',
+    // [SILENT] 是桥接的退出标记，误用会静默吞掉回复。
+    '不要用 [SILENT]',
+    // 记忆面
+    '【记忆卫生】', 'qq_memory_append', 'qq_memory_query', 'qq_memory_remove', 'qq_memory_clear',
+    // 黑话面
+    'qq_slang_query', 'qq_slang_submit', '不重复提交',
+    // 频率上限
+    '普通闲聊约 3~5 轮一张', '别刷屏', '每条只能一张，不能附带文字', '不要频繁拍',
+    // 会话令牌是硬前置，漏传会被拒绝。
+    '作为 token 参数传入',
+    // 指定成员唤醒
+    'triggers.speakerIds', '不凭记忆乱填',
+  ]) assert.ok(prefix.includes(text), `missing rule: ${text}`);
+});
+
+console.log(`reserved2 persona prefix: ${prefix.length} characters (not a model-token estimate)`);

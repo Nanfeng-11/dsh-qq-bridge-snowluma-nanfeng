@@ -1,1 +1,385 @@
-Ly8g5Y+q6K+7IEhUVFAoUykg5a6J5YWo5oqT5Y+W5bel5YW377ya5L6bIHFxLWJyaWRnZSAvIE1DUCDlhbHnlKjjgIIKLy8g6K6+6K6h55uu5qCH5LiOIG1jcC13ZWItc2VhcmNoLXNhZmUg5LiA6Ie077yaCi8vIC0g5LuFIGh0dHAvaHR0cHMKLy8gLSDnpoHmraIgbG9jYWxob3N0IC8gLmxvY2FsIC8g56eB5pyJIElQIC8g546v5ZueIC8g6ZO+6Lev5pys5ZywIC8gQ0dOQVQg562J5YaF572R5Zyw5Z2ACi8vIC0g5Z+f5ZCN5YWIIEROUyDop6PmnpDlubbmo4Dmn6Xlhajpg6jop6PmnpDnu5PmnpzvvIzpgb/lhY0gRE5TIHJlYmluZGluZwovLyAtIOaJi+WKqOi3n+maj+mHjeWumuWQke+8jOavj+S4gOi3s+mHjeaWsOagoemqjAovLyAtIOWTjeW6lOS9k+mZkOmHj+ivu+WPlu+8jOavj+asoeivt+axguacieWMheWQq+WTjeW6lOS9k+eahOaAu+aXtumZkAppbXBvcnQgZG5zIGZyb20gJ25vZGU6ZG5zJzsKaW1wb3J0IG5ldCBmcm9tICdub2RlOm5ldCc7CmltcG9ydCBodHRwIGZyb20gJ25vZGU6aHR0cCc7CmltcG9ydCBodHRwcyBmcm9tICdub2RlOmh0dHBzJzsKaW1wb3J0IHsgU3RyaW5nRGVjb2RlciB9IGZyb20gJ25vZGU6c3RyaW5nX2RlY29kZXInOwoKY29uc3QgZG5zTG9va3VwID0gZG5zLnByb21pc2VzLmxvb2t1cDsKCmZ1bmN0aW9uIHdpdGhUaW1lb3V0KHByb21pc2UsIG1zLCBsYWJlbCkgewogIGxldCB0aW1lcjsKICBjb25zdCB0aW1lb3V0ID0gbmV3IFByb21pc2UoKF8sIHJlamVjdCkgPT4gewogICAgdGltZXIgPSBzZXRUaW1lb3V0KCgpID0+IHJlamVjdChuZXcgRXJyb3IoYOaTjeS9nOi2heaXtigke21zfW1zKe+8miR7bGFiZWx9YCkpLCBtcyk7CiAgfSk7CiAgcmV0dXJuIFByb21pc2UucmFjZShbcHJvbWlzZSwgdGltZW91dF0pLmZpbmFsbHkoKCkgPT4gY2xlYXJUaW1lb3V0KHRpbWVyKSk7Cn0KCmZ1bmN0aW9uIGlwdjRGcm9tTGFzdDMyKGxvd2VyKSB7CiAgY29uc3QgcGFydHMgPSBTdHJpbmcobG93ZXIgfHwgJycpLnNwbGl0KCc6Jyk7CiAgaWYgKHBhcnRzLmxlbmd0aCA8IDIpIHJldHVybiBudWxsOwogIGNvbnN0IGxhc3QgPSBwYXJ0c1twYXJ0cy5sZW5ndGggLSAxXTsKICBjb25zdCBzZWNvbmRMYXN0ID0gcGFydHNbcGFydHMubGVuZ3RoIC0gMl07CiAgaWYgKC9eXGQrXC5cZCtcLlxkK1wuXGQrJC8udGVzdChsYXN0KSkgcmV0dXJuIGxhc3Q7CiAgaWYgKC9eWzAtOWEtZl17MSw0fSQvLnRlc3Qoc2Vjb25kTGFzdCkgJiYgL15bMC05YS1mXXsxLDR9JC8udGVzdChsYXN0KSkgewogICAgY29uc3QgbnVtID0gKHBhcnNlSW50KHNlY29uZExhc3QsIDE2KSA8PCAxNikgKyBwYXJzZUludChsYXN0LCAxNik7CiAgICByZXR1cm4gYCR7KG51bSA+Pj4gMjQpICYgMjU1fS4keyhudW0gPj4+IDE2KSAmIDI1NX0uJHsobnVtID4+PiA4KSAmIDI1NX0uJHtudW0gJiAyNTV9YDsKICB9CiAgcmV0dXJuIG51bGw7Cn0KCmZ1bmN0aW9uIHBhcnNlRW1iZWRkZWRJcHY0KGgpIHsKICBjb25zdCBsb3dlciA9IFN0cmluZyhoIHx8ICcnKS50b0xvd2VyQ2FzZSgpLnJlcGxhY2UoL15cW3xcXSQvZywgJycpOwogIGlmICghbG93ZXIuaW5jbHVkZXMoJzonKSkgcmV0dXJuIG51bGw7CiAgY29uc3QgZG90dGVkID0gbG93ZXIubWF0Y2goLyhcZCtcLlxkK1wuXGQrXC5cZCspJC8pOwogIGlmIChkb3R0ZWQpIHJldHVybiBkb3R0ZWRbMV07CiAgY29uc3QgbSA9IGxvd2VyLm1hdGNoKC9eOjooPzpmZmZmOik/KFswLTlhLWZdezEsNH0pOihbMC05YS1mXXsxLDR9KSQvaSk7CiAgaWYgKG0pIHsKICAgIGNvbnN0IG51bSA9IChwYXJzZUludChtWzFdLCAxNikgPDwgMTYpICsgcGFyc2VJbnQobVsyXSwgMTYpOwogICAgcmV0dXJuIGAkeyhudW0gPj4+IDI0KSAmIDI1NX0uJHsobnVtID4+PiAxNikgJiAyNTV9LiR7KG51bSA+Pj4gOCkgJiAyNTV9LiR7bnVtICYgMjU1fWA7CiAgfQogIC8vIOWFvOWuuSA6OmZmZmY6MDo3ZjAwOjHjgIE6OmZmZmY6MDpjMGE4OjEwMeOAgTo6YzBhODoxMDEg562J6Z2e6KeE6IyDIElQdjQtbWFwcGVkL2NvbXBhdGlibGUg5YaZ5rOV44CCCiAgaWYgKGxvd2VyLnN0YXJ0c1dpdGgoJzo6ZmZmZjonKSB8fCBsb3dlci5zdGFydHNXaXRoKCc6OicpKSB7CiAgICBjb25zdCBlbWJlZGRlZCA9IGlwdjRGcm9tTGFzdDMyKGxvd2VyKTsKICAgIGlmIChlbWJlZGRlZCkgcmV0dXJuIGVtYmVkZGVkOwogIH0KICAvLyBOQVQ2NCDliY3nvIDvvIg2NDpmZjliOjovOTYg5LiOIDY0OmZmOWI6MTo6LzQ477yJ5YaF5bWMIElQdjTvvIzkvovlpoIgNjQ6ZmY5Yjo6YzBhODoxMDEgLT4gMTkyLjE2OC4xLjEKICBpZiAobG93ZXIuc3RhcnRzV2l0aCgnNjQ6ZmY5YicpKSB7CiAgICBjb25zdCBlbWJlZGRlZCA9IGlwdjRGcm9tTGFzdDMyKGxvd2VyKTsKICAgIGlmIChlbWJlZGRlZCkgcmV0dXJuIGVtYmVkZGVkOwogIH0KICBjb25zdCBuYXQ2NCA9IGxvd2VyLm1hdGNoKC9eNjQ6ZmY5YjooPzo6Oik/KD86KFswLTlhLWZdezEsNH0pOihbMC05YS1mXXsxLDR9KXwoXGQrXC5cZCtcLlxkK1wuXGQrKSkkL2kpOwogIGlmIChuYXQ2NCkgewogICAgaWYgKG5hdDY0WzNdKSByZXR1cm4gbmF0NjRbM107CiAgICBjb25zdCBudW0gPSAocGFyc2VJbnQobmF0NjRbMV0sIDE2KSA8PCAxNikgKyBwYXJzZUludChuYXQ2NFsyXSwgMTYpOwogICAgcmV0dXJuIGAkeyhudW0gPj4+IDI0KSAmIDI1NX0uJHsobnVtID4+PiAxNikgJiAyNTV9LiR7KG51bSA+Pj4gOCkgJiAyNTV9LiR7bnVtICYgMjU1fWA7CiAgfQogIHJldHVybiBudWxsOwp9CgpleHBvcnQgZnVuY3Rpb24gaXNQcml2YXRlSXAoaXApIHsKICBsZXQgaCA9IFN0cmluZyhpcCB8fCAnJykudG9Mb3dlckNhc2UoKS5yZXBsYWNlKC9eXFt8XF0kL2csICcnKTsKICBjb25zdCBmYW1pbHkgPSBuZXQuaXNJUChoKTsKICAvLyBETlMg6L+U5Zue5YC85Lmf5b+F6aG75piv5pyJ5pWIIElQ77yb5LiN6IO95oqK6Z2e5rOV5Zyw5Z2A5b2T5oiQ5YWs572R5Zyw5Z2A44CCCiAgaWYgKCFmYW1pbHkgfHwgaC5pbmNsdWRlcygnJScpKSByZXR1cm4gdHJ1ZTsKICBpZiAoZmFtaWx5ID09PSA2KSBoID0gbmV3IFVSTChgaHR0cDovL1ske2h9XS9gKS5ob3N0bmFtZS5zbGljZSgxLCAtMSk7CgogIGlmIChuZXQuaXNJUChoKSA9PT0gNCkgewogICAgY29uc3QgcGFydHMgPSBoLnNwbGl0KCcuJykubWFwKE51bWJlcik7CiAgICBpZiAocGFydHNbMF0gPT09IDEwKSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA9PT0gMTI3KSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA9PT0gMCkgcmV0dXJuIHRydWU7CiAgICBpZiAocGFydHNbMF0gPT09IDE2OSAmJiBwYXJ0c1sxXSA9PT0gMjU0KSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA9PT0gMTcyICYmIHBhcnRzWzFdID49IDE2ICYmIHBhcnRzWzFdIDw9IDMxKSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA9PT0gMTkyICYmIHBhcnRzWzFdID09PSAxNjgpIHJldHVybiB0cnVlOwogICAgaWYgKHBhcnRzWzBdID09PSAxMDAgJiYgcGFydHNbMV0gPj0gNjQgJiYgcGFydHNbMV0gPD0gMTI3KSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA9PT0gMTk4ICYmIHBhcnRzWzFdID49IDE4ICYmIHBhcnRzWzFdIDw9IDE5KSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA9PT0gMTkyICYmIHBhcnRzWzFdID09PSAwICYmIHBhcnRzWzJdID09PSAwKSByZXR1cm4gdHJ1ZTsKICAgIGlmIChwYXJ0c1swXSA+PSAyMjQpIHJldHVybiB0cnVlOwogICAgcmV0dXJuIGZhbHNlOwogIH0KCiAgaWYgKG5ldC5pc0lQKGgpID09PSA2KSB7CiAgICBpZiAoaCA9PT0gJzo6JyB8fCBoID09PSAnOjoxJykgcmV0dXJuIHRydWU7CiAgICBpZiAoaC5zdGFydHNXaXRoKCdmYycpIHx8IGguc3RhcnRzV2l0aCgnZmQnKSkgcmV0dXJuIHRydWU7CiAgICBpZiAoL15mZVs4OWFiXS8udGVzdChoKSkgcmV0dXJuIHRydWU7CiAgICBpZiAoaC5zdGFydHNXaXRoKCdmZWMnKSB8fCBoLnN0YXJ0c1dpdGgoJ2ZlZCcpIHx8IGguc3RhcnRzV2l0aCgnZmVlJykgfHwgaC5zdGFydHNXaXRoKCdmZWYnKSkgcmV0dXJuIHRydWU7CiAgICAvLyDmnKzlnLAgTkFUNjQg5YmN57yA55qEIElQdjQg5L2N5biD5bGA5LiN562J5ZCMIC85Nu+8m+aVtOS4quacrOWcsOWJjee8gOWdh+S4jeWPr+S+m+WFrOe9keaKk+WPluOAggogICAgaWYgKGguc3RhcnRzV2l0aCgnNjQ6ZmY5YjoxOicpKSByZXR1cm4gdHJ1ZTsKICAgIGNvbnN0IGVtYmVkZGVkID0gcGFyc2VFbWJlZGRlZElwdjQoaCk7CiAgICBpZiAoZW1iZWRkZWQpIHJldHVybiBpc1ByaXZhdGVJcChlbWJlZGRlZCk7CiAgICBpZiAoaC5zdGFydHNXaXRoKCcyMDAxOmRiOCcpKSByZXR1cm4gdHJ1ZTsKICAgIGlmIChoLnN0YXJ0c1dpdGgoJzIwMDE6MjonKSB8fCBoLnN0YXJ0c1dpdGgoJzIwMDE6MTA6JykgfHwgaC5zdGFydHNXaXRoKCcyMDAxOjIwOicpKSByZXR1cm4gdHJ1ZTsKICAgIGNvbnN0IHNpeHRoNCA9IGgubWF0Y2goL14yMDAyOihbMC05YS1mXXsxLDR9KTooWzAtOWEtZl17MSw0fSk6L2kpOwogICAgaWYgKHNpeHRoNCkgewogICAgICBjb25zdCBudW0gPSAocGFyc2VJbnQoc2l4dGg0WzFdLCAxNikgPDwgMTYpICsgcGFyc2VJbnQoc2l4dGg0WzJdLCAxNik7CiAgICAgIGNvbnN0IGlwdjQgPSBgJHsobnVtID4+PiAyNCkgJiAyNTV9LiR7KG51bSA+Pj4gMTYpICYgMjU1fS4keyhudW0gPj4+IDgpICYgMjU1fS4ke251bSAmIDI1NX1gOwogICAgICBpZiAoaXNQcml2YXRlSXAoaXB2NCkpIHJldHVybiB0cnVlOwogICAgfQogICAgaWYgKGguc3RhcnRzV2l0aCgnZmYnKSkgcmV0dXJuIHRydWU7CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICByZXR1cm4gdHJ1ZTsKfQoKLyoqCiAqIOaKiuagoemqjOi/h+eahOWcsOWdgOaOkuaIkOOAjOWwneivlemhuuW6j+OAjeOAggogKgogKiDkuLrku4DkuYjkuI3og73lj6rlj5bnrKzkuIDkuKrvvJpETlMg6L+U5Zue6aG65bqP5pivKirova7ovawv5LiN56Gu5a6aKirnmoTvvIzogIzmnKzmnLrluLjluLjlj6rmnIkgSVB2NCDlh7rlj6PjgIIKICogUVEg55qE6KGo5oOFIENETu+8iGd4aC52aXAucXEuY29tIC8gcC5xcGljLmNuIC8gbXVsdGltZWRpYS5udC5xcS5jb20uY27vvInlkowKICogcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSDpg73lkIzml7bmnIkgQUFBQS9BIOiusOW9lSDigJTigJQg5oqi5Yiw56ys5LiA5LiqIEFBQUEg55qE6YKj5qyh6K+35rGC5Lya5LiA6LevCiAqIOi/nuWIsCAyMCDnp5LotoXml7bvvIzlhbbkvZnor7fmsYLmraPluLjvvIzkuo7mmK/ooajnjrDkuLrjgIwqKumDqOWIhioq6KGo5oOF5YyFL+WbvueJhy/nvZHpobXml7blpb3ml7blnY/jgI3jgIIKICog6L+Z6YeM5LyY5YWIIElQdjTvvIzlubbmiorkuKTkuKrml4/kuqTmm7/mjpLluIPvvJp2NCDlhajpg6jkuI3lj6/nlKjml7bov5jog73or5UgdjbvvIh2Ni1vbmx5IOS4u+acuuWQjOeQhu+8ieOAggogKiBAcGFyYW0ge3thZGRyZXNzOiBzdHJpbmcsIGZhbWlseTogbnVtYmVyfVtdfSBhZGRyZXNzZXMKICogQHJldHVybnMge3N0cmluZ1tdfSDlnLDlnYDlrZfnrKbkuLLvvIjlt7LmjInlsJ3or5Xpobrluo/mjpLliJfvvIkKICovCmZ1bmN0aW9uIG9yZGVyQWRkcmVzc2VzKGFkZHJlc3NlcykgewogIGNvbnN0IHY0ID0gYWRkcmVzc2VzLmZpbHRlcigoaXRlbSkgPT4gTnVtYmVyKGl0ZW0/LmZhbWlseSkgPT09IDQpLm1hcCgoaXRlbSkgPT4gaXRlbS5hZGRyZXNzKTsKICBjb25zdCB2NiA9IGFkZHJlc3Nlcy5maWx0ZXIoKGl0ZW0pID0+IE51bWJlcihpdGVtPy5mYW1pbHkpID09PSA2KS5tYXAoKGl0ZW0pID0+IGl0ZW0uYWRkcmVzcyk7CiAgY29uc3Qgb3JkZXJlZCA9IFtdOwogIGNvbnN0IG1heCA9IE1hdGgubWF4KHY0Lmxlbmd0aCwgdjYubGVuZ3RoKTsKICBmb3IgKGxldCBpID0gMDsgaSA8IG1heDsgaSArPSAxKSB7CiAgICBpZiAodjRbaV0pIG9yZGVyZWQucHVzaCh2NFtpXSk7CiAgICBpZiAodjZbaV0pIG9yZGVyZWQucHVzaCh2NltpXSk7CiAgfQogIHJldHVybiBvcmRlcmVkOwp9CgovKiog6Kej5p6Q5Li75py65ZCN5bm25qCh6aqMKirlhajpg6gqKuino+aekOe7k+aenO+8jOi/lOWbnuWPr+WwneivleeahOWcsOWdgOWIl+ihqO+8iElQdjQg5LyY5YWI77yJ44CCICovCmV4cG9ydCBhc3luYyBmdW5jdGlvbiByZXNvbHZlU2FmZUFkZHJlc3Nlcyhob3N0bmFtZSkgewogIGNvbnN0IGggPSBTdHJpbmcoaG9zdG5hbWUgfHwgJycpLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgvXlxbfFxdJC9nLCAnJykucmVwbGFjZSgvXC4kLywgJycpOwogIGlmICghaCkgdGhyb3cgbmV3IEVycm9yKCfkuLvmnLrlkI3kuLrnqbonKTsKICBpZiAoaCA9PT0gJ2xvY2FsaG9zdCcgfHwgaC5lbmRzV2l0aCgnLmxvY2FsaG9zdCcpIHx8IGguZW5kc1dpdGgoJy5sb2NhbCcpKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ+emgeatouiuv+mXruWGhee9kS/mnKzmnLrlnLDlnYAnKTsKICB9CiAgaWYgKG5ldC5pc0lQKGgpKSB7CiAgICBpZiAoaXNQcml2YXRlSXAoaCkpIHRocm93IG5ldyBFcnJvcign56aB5q2i6K6/6Zeu5YaF572RL+acrOacuuWcsOWdgCcpOwogICAgcmV0dXJuIFtoXTsKICB9CiAgbGV0IGFkZHJlc3NlczsKICB0cnkgewogICAgYWRkcmVzc2VzID0gYXdhaXQgd2l0aFRpbWVvdXQoZG5zTG9va3VwKGgsIHsgYWxsOiB0cnVlLCB2ZXJiYXRpbTogdHJ1ZSB9KSwgNTAwMCwgYEROUyDop6PmnpAgJHtofWApOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoYOWfn+WQjeino+aekOWksei0pe+8miR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J9YCk7CiAgfQogIGlmICghYWRkcmVzc2VzLmxlbmd0aCkgdGhyb3cgbmV3IEVycm9yKCfln5/lkI3msqHmnInop6PmnpDnu5PmnpwnKTsKICBmb3IgKGNvbnN0IHsgYWRkcmVzcyB9IG9mIGFkZHJlc3NlcykgewogICAgaWYgKGlzUHJpdmF0ZUlwKGFkZHJlc3MpKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcign5Z+f5ZCN6Kej5p6Q5Yiw5YaF572RL+acrOacuuWcsOWdgO+8jOW3sumYu+atoicpOwogICAgfQogIH0KICBjb25zdCBvcmRlcmVkID0gb3JkZXJBZGRyZXNzZXMoYWRkcmVzc2VzKTsKICByZXR1cm4gb3JkZXJlZC5sZW5ndGggPyBvcmRlcmVkIDogW2FkZHJlc3Nlc1swXS5hZGRyZXNzXTsKfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlc29sdmVTYWZlSG9zdChob3N0bmFtZSkgewogIGNvbnN0IFtmaXJzdF0gPSBhd2FpdCByZXNvbHZlU2FmZUFkZHJlc3Nlcyhob3N0bmFtZSk7CiAgcmV0dXJuIGZpcnN0Owp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gdmFsaWRhdGVGZXRjaFVybChyYXcpIHsKICBsZXQgdXJsOwogIHRyeSB7CiAgICB1cmwgPSBuZXcgVVJMKFN0cmluZyhyYXcgPz8gJycpLnRyaW0oKSk7CiAgfSBjYXRjaCB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ1VSTCDml6DmlYgnKTsKICB9CiAgaWYgKCFbJ2h0dHA6JywgJ2h0dHBzOiddLmluY2x1ZGVzKHVybC5wcm90b2NvbCkpIHRocm93IG5ldyBFcnJvcign5LuF5YWB6K64IGh0dHAvaHR0cHMnKTsKICBpZiAodXJsLnVzZXJuYW1lIHx8IHVybC5wYXNzd29yZCkgdGhyb3cgbmV3IEVycm9yKCdVUkwg5LiN6IO95YyF5ZCr5Yet5o2uJyk7CiAgY29uc3QgYWRkcmVzc2VzID0gYXdhaXQgcmVzb2x2ZVNhZmVBZGRyZXNzZXModXJsLmhvc3RuYW1lKTsKICByZXR1cm4geyB1cmwsIGlwOiBhZGRyZXNzZXNbMF0sIGFkZHJlc3NlcyB9Owp9Cgpjb25zdCBSRVFVRVNUX1RJTUVPVVRfTVMgPSAyMDAwMDsKLy8g5aSa5Zyw5Z2A5pe255qE5Y2V5qyh5bCd6K+V6aKE566X77ya5aSf5LiA5qyhIFRDUCtUTFMr6aaW5a2X6IqC77yM5Y+I5LiN6Iez5LqO6K6p44CM56ys5LiA5Liq5Zyw5Z2A5piv5Z2P55qEIElQdjbjgI0KLy8g5oqK5pW05LiqIDIwIOenkuaAu+mihOeul+iAl+WFieOAggpjb25zdCBBVFRFTVBUX1RJTUVPVVRfTVMgPSA4MDAwOwpjb25zdCBNQVhfQUREUkVTU19BVFRFTVBUUyA9IDQ7CmNvbnN0IFJFRElSRUNUX1NUQVRVU0VTID0gbmV3IFNldChbMzAxLCAzMDIsIDMwMywgMzA3LCAzMDhdKTsKCmZ1bmN0aW9uIHZhbGlkYXRlTGltaXQodmFsdWUsIG5hbWUpIHsKICBpZiAoIU51bWJlci5pc1NhZmVJbnRlZ2VyKHZhbHVlKSB8fCB2YWx1ZSA8PSAwKSB0aHJvdyBuZXcgRXJyb3IoYCR7bmFtZX0g5b+F6aG75Li65q2j5pW05pWwYCk7Cn0KCi8qKgogKiDnlKgqKuS4gOS4qioq5bey5qCh6aqM55qE5Zyw5Z2A5Y+R6LW35LiA5qyh5bCd6K+V77yM5L+d55WZ5Y6f5aeLIEhvc3QvU05J77yI56aB5q2i6YeN5paw6Kej5p6QIEROU++8ieOAggogKiDov5Tlm54gYHtvazp0cnVlLHJlc3VsdH1gIOaIliBge29rOmZhbHNlLGVycm9yLHJldHJ5YWJsZX1g77ybcmV0cnlhYmxlIOWPquagh+iusOe9kee7nOWxguWksei0pQogKiDvvIjov57mjqXlpLHotKUv6LaF5pe2L+ato+aWh+S4reaWre+8ie+8jOWkp+Wwj+S4juWbvueJh+etvuWQjeetieetlueVpeaAp+aLkue7neS4jemHjeivleOAggogKi8KZnVuY3Rpb24gYXR0ZW1wdE9uY2UodXJsLCBhZGRyZXNzLCBsaW1pdCwgYmluYXJ5LCBidWRnZXRNcykgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewogICAgbGV0IHNldHRsZWQgPSBmYWxzZTsKICAgIGxldCByZXE7CiAgICBsZXQgcmVzcG9uc2U7CiAgICBjb25zdCBzZXR0bGUgPSAob3V0Y29tZSkgPT4gewogICAgICBpZiAoc2V0dGxlZCkgcmV0dXJuOwogICAgICBzZXR0bGVkID0gdHJ1ZTsKICAgICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgICAgcmVzb2x2ZShvdXRjb21lKTsKICAgIH07CiAgICBjb25zdCBmYWlsID0gKGVycm9yLCByZXRyeWFibGUpID0+IHNldHRsZSh7IG9rOiBmYWxzZSwgZXJyb3IsIHJldHJ5YWJsZTogcmV0cnlhYmxlID09PSB0cnVlIH0pOwogICAgY29uc3QgZG9uZSA9IChyZXN1bHQpID0+IHNldHRsZSh7IG9rOiB0cnVlLCByZXN1bHQgfSk7CiAgICBjb25zdCB0aW1lciA9IHNldFRpbWVvdXQoKCkgPT4gewogICAgICBjb25zdCBlcnJvciA9IG5ldyBFcnJvcihg6K+35rGC6LaF5pe277yaJHt1cmwuaG9zdG5hbWV9YCk7CiAgICAgIGZhaWwoZXJyb3IsIHRydWUpOwogICAgICByZXE/LmRlc3Ryb3koZXJyb3IpOwogICAgICByZXNwb25zZT8uZGVzdHJveSgpOwogICAgfSwgYnVkZ2V0TXMpOwogICAgY29uc3QgbW9kID0gdXJsLnByb3RvY29sID09PSAnaHR0cHM6JyA/IGh0dHBzIDogaHR0cDsKICAgIGNvbnN0IGhvc3RuYW1lID0gdXJsLmhvc3RuYW1lLnJlcGxhY2UoL15cW3xcXSQvZywgJycpOwogICAgdHJ5IHsKICAgICAgcmVxID0gbW9kLnJlcXVlc3QoewogICAgICAgIGhvc3RuYW1lOiBhZGRyZXNzLAogICAgICAgIHBvcnQ6IHVybC5wb3J0IHx8ICh1cmwucHJvdG9jb2wgPT09ICdodHRwczonID8gNDQzIDogODApLAogICAgICAgIHBhdGg6IHVybC5wYXRobmFtZSArIHVybC5zZWFyY2gsCiAgICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICBob3N0OiB1cmwuaG9zdCwKICAgICAgICAgICd1c2VyLWFnZW50JzogJ01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjIuMCBTYWZhcmkvNTM3LjM2JywKICAgICAgICAgIGFjY2VwdDogYmluYXJ5ID8gJ2ltYWdlLyosKi8qO3E9MC44JyA6ICd0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSwqLyo7cT0wLjgnLAogICAgICAgICAgJ2FjY2VwdC1sYW5ndWFnZSc6ICd6aC1DTix6aDtxPTAuOScsCiAgICAgICAgfSwKICAgICAgICBzZXJ2ZXJuYW1lOiB1cmwucHJvdG9jb2wgPT09ICdodHRwczonICYmICFuZXQuaXNJUChob3N0bmFtZSkgPyBob3N0bmFtZSA6IHVuZGVmaW5lZCwKICAgICAgICByZWplY3RVbmF1dGhvcml6ZWQ6IHVybC5wcm90b2NvbCA9PT0gJ2h0dHBzOicsCiAgICAgICAgdGltZW91dDogYnVkZ2V0TXMsCiAgICAgIH0sIChyZXMpID0+IHsKICAgICAgICByZXNwb25zZSA9IHJlczsKICAgICAgICByZXMub24oJ2Vycm9yJywgKGVycm9yKSA9PiBmYWlsKGVycm9yLCB0cnVlKSk7CiAgICAgICAgcmVzLm9uKCdhYm9ydGVkJywgKCkgPT4gZmFpbChuZXcgRXJyb3IoJ+WTjeW6lOS9k+ivu+WPluS4reaWrScpLCB0cnVlKSk7CiAgICAgICAgcmVzLm9uKCdjbG9zZScsICgpID0+IHsKICAgICAgICAgIGlmICghcmVzLmNvbXBsZXRlKSBmYWlsKG5ldyBFcnJvcign5ZON5bqU5L2T6K+75Y+W5Lit5patJyksIHRydWUpOwogICAgICAgIH0pOwogICAgICAgIGlmIChzZXR0bGVkKSB7IHJlcy5kZXN0cm95KCk7IHJldHVybjsgfQogICAgICAgIGNvbnN0IHN0YXR1c0NvZGUgPSByZXMuc3RhdHVzQ29kZSB8fCAwOwogICAgICAgIGlmIChSRURJUkVDVF9TVEFUVVNFUy5oYXMoc3RhdHVzQ29kZSkpIHsKICAgICAgICAgIGRvbmUoeyBzdGF0dXNDb2RlLCByZWRpcmVjdDogU3RyaW5nKHJlcy5oZWFkZXJzLmxvY2F0aW9uIHx8ICcnKSB9KTsKICAgICAgICAgIC8vIOS4jeS4i+i9vemHjeWumuWQkeato+aWh++8muaUu+WHu+iAheWPr+S7peWPkemAgeaXoOmZkOato+aWh+a2iOiAl+i/nuaOpeWSjOW4puWuveOAggogICAgICAgICAgcmVzLmRlc3Ryb3koKTsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgY29uc3QgY2h1bmtzID0gW107CiAgICAgICAgY29uc3QgZGVjb2RlciA9IGJpbmFyeSA/IG51bGwgOiBuZXcgU3RyaW5nRGVjb2RlcigndXRmOCcpOwogICAgICAgIGxldCBzaXplID0gMDsKICAgICAgICBjb25zdCBhcHBlbmRUZXh0ID0gKHRleHQpID0+IHsKICAgICAgICAgIGNvbnN0IHBvaW50cyA9IEFycmF5LmZyb20odGV4dCk7CiAgICAgICAgICBjb25zdCByZW1haW5pbmcgPSBsaW1pdCAtIHNpemU7CiAgICAgICAgICBjaHVua3MucHVzaChwb2ludHMuc2xpY2UoMCwgcmVtYWluaW5nKS5qb2luKCcnKSk7CiAgICAgICAgICBzaXplICs9IE1hdGgubWluKHBvaW50cy5sZW5ndGgsIHJlbWFpbmluZyk7CiAgICAgICAgICBpZiAoc2l6ZSA+PSBsaW1pdCkgewogICAgICAgICAgICBkb25lKHsgc3RhdHVzQ29kZSwgYm9keTogY2h1bmtzLmpvaW4oJycpLCB0cnVuY2F0ZWQ6IHRydWUgfSk7CiAgICAgICAgICAgIHJlcy5kZXN0cm95KCk7CiAgICAgICAgICB9CiAgICAgICAgfTsKICAgICAgICByZXMub24oJ2RhdGEnLCAoY2h1bmspID0+IHsKICAgICAgICAgIGlmIChzZXR0bGVkKSByZXR1cm47CiAgICAgICAgICBpZiAoIWJpbmFyeSkgeyBhcHBlbmRUZXh0KGRlY29kZXIud3JpdGUoY2h1bmspKTsgcmV0dXJuOyB9CiAgICAgICAgICBzaXplICs9IGNodW5rLmxlbmd0aDsKICAgICAgICAgIGlmIChzaXplID4gbGltaXQpIHsKICAgICAgICAgICAgZmFpbChuZXcgRXJyb3IoYOWbvueJh+i2hei/h+Wkp+Wwj+mZkOWItu+8iCR7bGltaXR9IOWtl+iKgu+8iWApLCBmYWxzZSk7CiAgICAgICAgICAgIHJlcy5kZXN0cm95KCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgIH0KICAgICAgICAgIGNodW5rcy5wdXNoKGNodW5rKTsKICAgICAgICB9KTsKICAgICAgICByZXMub24oJ2VuZCcsICgpID0+IHsKICAgICAgICAgIGlmIChzZXR0bGVkKSByZXR1cm47CiAgICAgICAgICBpZiAoYmluYXJ5KSBkb25lKHsgc3RhdHVzQ29kZSwgYnVmZmVyOiBCdWZmZXIuY29uY2F0KGNodW5rcykgfSk7CiAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgYXBwZW5kVGV4dChkZWNvZGVyLmVuZCgpKTsKICAgICAgICAgICAgZG9uZSh7IHN0YXR1c0NvZGUsIGJvZHk6IGNodW5rcy5qb2luKCcnKSwgdHJ1bmNhdGVkOiBmYWxzZSB9KTsKICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgfSk7CiAgICAgIHJlcS5vbigndGltZW91dCcsICgpID0+IHsKICAgICAgICBjb25zdCBlcnJvciA9IG5ldyBFcnJvcihg6K+35rGC6LaF5pe277yaJHt1cmwuaG9zdG5hbWV9YCk7CiAgICAgICAgZmFpbChlcnJvciwgdHJ1ZSk7CiAgICAgICAgcmVxLmRlc3Ryb3koZXJyb3IpOwogICAgICAgIHJlc3BvbnNlPy5kZXN0cm95KCk7CiAgICAgIH0pOwogICAgICByZXEub24oJ2Vycm9yJywgKGVycm9yKSA9PiBmYWlsKGVycm9yLCB0cnVlKSk7CiAgICAgIHJlcS5lbmQoKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGZhaWwoZXJyb3IsIHRydWUpOwogICAgICByZXE/LmRlc3Ryb3koKTsKICAgIH0KICB9KTsKfQoKLyoqCiAqIOS+neasoeWwneivleW3suagoemqjOeahOWcsOWdgO+8iElQdjQg5LyY5YWI77yM6KeBIG9yZGVyQWRkcmVzc2Vz77yJ44CCCiAqCiAqIOWNleWcsOWdgOaXtuayv+eUqOWOn+adpeeahOOAjOaVtOS4qiAyMCDnp5LmgLvpooTnrpfjgI3vvIzlpJrlnLDlnYDml7bmiY3lkK/nlKjljZXmrKHlsJ3or5XpooTnrpfkuI7lpLHotKXliIfmjaLvvJoKICog6L+Z5qC344CM5Y+q5pyJ5LiA5Liq5Zyw5Z2A44CB5a+55pa55oWi5oWi5ru05rWB44CN5LuN54S25Lya562J5ruh5oC75pe26ZmQ77yI55Sx5oC7IGRlYWRsaW5lIOWFnOW6le+8ie+8jAogKiDogIzjgIznrKzkuIDkuKrlnLDlnYDmmK/lnY/nmoQgSVB2NuOAjeS4jeS8muWGjeeZveetiSAyMCDnp5LjgIIKICog5omA5pyJ5Zyw5Z2A6YO95aSx6LSl5pe25oqb5pyA5ZCO5LiA5Liq6ZSZ6K+v77yI5L+d55WZ5Y6f5aeL6ZSZ6K+v5paH5qGI77yM5L6/5LqO5pel5b+X5o6S5p+l77yJ44CCCiAqLwphc3luYyBmdW5jdGlvbiByZXF1ZXN0T25jZSh1cmwsIGFkZHJlc3NlcywgbGltaXQsIGJpbmFyeSA9IGZhbHNlKSB7CiAgY29uc3QgbGlzdCA9IChBcnJheS5pc0FycmF5KGFkZHJlc3NlcykgPyBhZGRyZXNzZXMgOiBbYWRkcmVzc2VzXSkuZmlsdGVyKEJvb2xlYW4pOwogIGlmICghbGlzdC5sZW5ndGgpIHRocm93IG5ldyBFcnJvcihg5rKh5pyJ5Y+v55So5Zyw5Z2A77yaJHt1cmwuaG9zdG5hbWV9YCk7CiAgY29uc3QgZGVhZGxpbmUgPSBEYXRlLm5vdygpICsgUkVRVUVTVF9USU1FT1VUX01TOwogIGxldCBsYXN0RXJyb3IgPSBudWxsOwogIGNvbnN0IGF0dGVtcHRzID0gTWF0aC5taW4obGlzdC5sZW5ndGgsIE1BWF9BRERSRVNTX0FUVEVNUFRTKTsKICBmb3IgKGxldCBpID0gMDsgaSA8IGF0dGVtcHRzOyBpICs9IDEpIHsKICAgIGNvbnN0IHJlbWFpbmluZyA9IGRlYWRsaW5lIC0gRGF0ZS5ub3coKTsKICAgIGlmIChyZW1haW5pbmcgPD0gMjUwKSBicmVhazsKICAgIGNvbnN0IGJ1ZGdldCA9IGxpc3QubGVuZ3RoID09PSAxCiAgICAgID8gUkVRVUVTVF9USU1FT1VUX01TCiAgICAgIDogTWF0aC5taW4oQVRURU1QVF9USU1FT1VUX01TLCByZW1haW5pbmcpOwogICAgY29uc3Qgb3V0Y29tZSA9IGF3YWl0IGF0dGVtcHRPbmNlKHVybCwgbGlzdFtpXSwgbGltaXQsIGJpbmFyeSwgYnVkZ2V0KTsKICAgIGlmIChvdXRjb21lLm9rKSByZXR1cm4gb3V0Y29tZS5yZXN1bHQ7CiAgICBsYXN0RXJyb3IgPSBvdXRjb21lLmVycm9yOwogICAgaWYgKCFvdXRjb21lLnJldHJ5YWJsZSkgdGhyb3cgb3V0Y29tZS5lcnJvcjsKICAgIGlmIChpIDwgYXR0ZW1wdHMgLSAxKSB7CiAgICAgIC8vIOaNouWcsOWdgOmHjeivle+8muWPquaNoui/nuaOpeebruagh++8jEhvc3QvU05JL+i3r+W+hOWFqOmDqOS4jeWPmO+8iOWQjOS4gOS4quermeeCue+8ieOAggogICAgICBjb250aW51ZTsKICAgIH0KICB9CiAgaWYgKGxhc3RFcnJvciAmJiBhdHRlbXB0cyA+IDEpIHsKICAgIGxhc3RFcnJvci5tZXNzYWdlID0gYCR7bGFzdEVycm9yLm1lc3NhZ2V977yI5bey5bCd6K+VICR7YXR0ZW1wdHN9IOS4quWcsOWdgO+8iWA7CiAgfQogIHRocm93IGxhc3RFcnJvciA/PyBuZXcgRXJyb3IoYOivt+axguWksei0pe+8miR7dXJsLmhvc3RuYW1lfWApOwp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc2FmZUZldGNoKHVybFN0cmluZywgbWF4Q2hhcnMgPSA1MDAwMCkgewogIHZhbGlkYXRlTGltaXQobWF4Q2hhcnMsICdtYXhDaGFycycpOwogIGNvbnN0IE1BWF9SRURJUkVDVFMgPSA1OwogIGxldCB7IHVybCwgYWRkcmVzc2VzIH0gPSBhd2FpdCB2YWxpZGF0ZUZldGNoVXJsKHVybFN0cmluZyk7CiAgZm9yIChsZXQgaSA9IDA7IGkgPD0gTUFYX1JFRElSRUNUUzsgaSsrKSB7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCByZXF1ZXN0T25jZSh1cmwsIGFkZHJlc3NlcywgbWF4Q2hhcnMpOwogICAgaWYgKFszMDEsIDMwMiwgMzAzLCAzMDcsIDMwOF0uaW5jbHVkZXMocmVzdWx0LnN0YXR1c0NvZGUpKSB7CiAgICAgIGlmICghcmVzdWx0LnJlZGlyZWN0KSB0aHJvdyBuZXcgRXJyb3IoYOmHjeWumuWQkee8uuWwkSBMb2NhdGlvbjogJHtyZXN1bHQuc3RhdHVzQ29kZX1gKTsKICAgICAgY29uc3QgbmV4dCA9IG5ldyBVUkwocmVzdWx0LnJlZGlyZWN0LCB1cmwpLnRvU3RyaW5nKCk7CiAgICAgICh7IHVybCwgYWRkcmVzc2VzIH0gPSBhd2FpdCB2YWxpZGF0ZUZldGNoVXJsKG5leHQpKTsKICAgICAgY29udGludWU7CiAgICB9CiAgICBjb25zdCBib2R5ID0gcmVzdWx0LmJvZHkgfHwgJyc7CiAgICByZXR1cm4gewogICAgICB1cmw6IHVybC50b1N0cmluZygpLAogICAgICBzdGF0dXNDb2RlOiByZXN1bHQuc3RhdHVzQ29kZSwKICAgICAgdHJ1bmNhdGVkOiByZXN1bHQudHJ1bmNhdGVkLAogICAgICBib2R5LAogICAgfTsKICB9CiAgdGhyb3cgbmV3IEVycm9yKCfph43lrprlkJHmrKHmlbDov4flpJrvvIzlt7LlgZzmraInKTsKfQoKLyoqIOS7heaOpeWPlyBEU0gg5pSv5oyB55qE5Zub56eN5Zu+54mH5qC85byP77yaUE5HL0pQRUcvR0lGL1dlYlDjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIGxvb2tzTGlrZUltYWdlQnVmZmVyKGJ1ZikgewogIGlmICghYnVmIHx8IGJ1Zi5sZW5ndGggPCAxMikgcmV0dXJuIGZhbHNlOwogIGlmIChidWZbMF0gPT09IDB4ODkgJiYgYnVmWzFdID09PSAweDUwICYmIGJ1ZlsyXSA9PT0gMHg0ZSAmJiBidWZbM10gPT09IDB4NDcpIHJldHVybiB0cnVlOwogIGlmIChidWZbMF0gPT09IDB4ZmYgJiYgYnVmWzFdID09PSAweGQ4ICYmIGJ1ZlsyXSA9PT0gMHhmZikgcmV0dXJuIHRydWU7CiAgaWYgKGJ1Zi50b1N0cmluZygnYXNjaWknLCAwLCA2KSA9PT0gJ0dJRjg3YScgfHwgYnVmLnRvU3RyaW5nKCdhc2NpaScsIDAsIDYpID09PSAnR0lGODlhJykgcmV0dXJuIHRydWU7CiAgaWYgKGJ1ZlswXSA9PT0gMHg1MiAmJiBidWZbMV0gPT09IDB4NDkgJiYgYnVmWzJdID09PSAweDQ2ICYmIGJ1ZlszXSA9PT0gMHg0NiAmJiBidWZbOF0gPT09IDB4NTcgJiYgYnVmWzldID09PSAweDQ1ICYmIGJ1ZlsxMF0gPT09IDB4NDIgJiYgYnVmWzExXSA9PT0gMHg1MCkgcmV0dXJuIHRydWU7CiAgcmV0dXJuIGZhbHNlOwp9CgovKiog5oqT5Y+W5Zu+54mH5a2X6IqC5bm26L+U5ZueIEJ1ZmZlcu+8iOW4piBTU1JGIOmYsuaKpO+8jOS4lOagoemqjOehruWunuS4uuWbvueJh++8ieOAgiAqLwpleHBvcnQgYXN5bmMgZnVuY3Rpb24gc2FmZUZldGNoQnVmZmVyKHVybFN0cmluZywgbWF4Qnl0ZXMgPSA4ICogMTAyNCAqIDEwMjQpIHsKICB2YWxpZGF0ZUxpbWl0KG1heEJ5dGVzLCAnbWF4Qnl0ZXMnKTsKICBjb25zdCBNQVhfUkVESVJFQ1RTID0gNTsKICBsZXQgeyB1cmwsIGFkZHJlc3NlcyB9ID0gYXdhaXQgdmFsaWRhdGVGZXRjaFVybCh1cmxTdHJpbmcpOwogIGZvciAobGV0IGkgPSAwOyBpIDw9IE1BWF9SRURJUkVDVFM7IGkrKykgewogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdE9uY2UodXJsLCBhZGRyZXNzZXMsIG1heEJ5dGVzLCB0cnVlKTsKICAgIGlmIChbMzAxLCAzMDIsIDMwMywgMzA3LCAzMDhdLmluY2x1ZGVzKHJlc3VsdC5zdGF0dXNDb2RlKSkgewogICAgICBpZiAoIXJlc3VsdC5yZWRpcmVjdCkgdGhyb3cgbmV3IEVycm9yKGDph43lrprlkJHnvLrlsJEgTG9jYXRpb246ICR7cmVzdWx0LnN0YXR1c0NvZGV9YCk7CiAgICAgIGNvbnN0IG5leHQgPSBuZXcgVVJMKHJlc3VsdC5yZWRpcmVjdCwgdXJsKS50b1N0cmluZygpOwogICAgICAoeyB1cmwsIGFkZHJlc3NlcyB9ID0gYXdhaXQgdmFsaWRhdGVGZXRjaFVybChuZXh0KSk7CiAgICAgIGNvbnRpbnVlOwogICAgfQogICAgaWYgKHJlc3VsdC5zdGF0dXNDb2RlIDwgMjAwIHx8IHJlc3VsdC5zdGF0dXNDb2RlID49IDMwMCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYOWbvueJh+aKk+WPluWksei0pe+8mkhUVFAgJHtyZXN1bHQuc3RhdHVzQ29kZX1gKTsKICAgIH0KICAgIGlmICghbG9va3NMaWtlSW1hZ2VCdWZmZXIocmVzdWx0LmJ1ZmZlcikpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGDmipPlj5blhoXlrrnkuI3mmK/mnInmlYjlm77niYfvvIhQTkcvSlBFRy9HSUYvV2ViUO+8iWApOwogICAgfQogICAgcmV0dXJuIHsgdXJsOiB1cmwudG9TdHJpbmcoKSwgc3RhdHVzQ29kZTogcmVzdWx0LnN0YXR1c0NvZGUsIGJ1ZmZlcjogcmVzdWx0LmJ1ZmZlciB9OwogIH0KICB0aHJvdyBuZXcgRXJyb3IoJ+mHjeWumuWQkeasoeaVsOi/h+Wkmu+8jOW3suWBnOatoicpOwp9Cg==
+// 只读 HTTP(S) 安全抓取工具：供 qq-bridge / MCP 共用。
+// 设计目标与 mcp-web-search-safe 一致：
+// - 仅 http/https
+// - 禁止 localhost / .local / 私有 IP / 环回 / 链路本地 / CGNAT 等内网地址
+// - 域名先 DNS 解析并检查全部解析结果，避免 DNS rebinding
+// - 手动跟随重定向，每一跳重新校验
+// - 响应体限量读取，每次请求有包含响应体的总时限
+import dns from 'node:dns';
+import net from 'node:net';
+import http from 'node:http';
+import https from 'node:https';
+import { StringDecoder } from 'node:string_decoder';
+
+const dnsLookup = dns.promises.lookup;
+
+function withTimeout(promise, ms, label) {
+  let timer;
+  const timeout = new Promise((_, reject) => {
+    timer = setTimeout(() => reject(new Error(`操作超时(${ms}ms)：${label}`)), ms);
+  });
+  return Promise.race([promise, timeout]).finally(() => clearTimeout(timer));
+}
+
+function ipv4FromLast32(lower) {
+  const parts = String(lower || '').split(':');
+  if (parts.length < 2) return null;
+  const last = parts[parts.length - 1];
+  const secondLast = parts[parts.length - 2];
+  if (/^\d+\.\d+\.\d+\.\d+$/.test(last)) return last;
+  if (/^[0-9a-f]{1,4}$/.test(secondLast) && /^[0-9a-f]{1,4}$/.test(last)) {
+    const num = (parseInt(secondLast, 16) << 16) + parseInt(last, 16);
+    return `${(num >>> 24) & 255}.${(num >>> 16) & 255}.${(num >>> 8) & 255}.${num & 255}`;
+  }
+  return null;
+}
+
+function parseEmbeddedIpv4(h) {
+  const lower = String(h || '').toLowerCase().replace(/^\[|\]$/g, '');
+  if (!lower.includes(':')) return null;
+  const dotted = lower.match(/(\d+\.\d+\.\d+\.\d+)$/);
+  if (dotted) return dotted[1];
+  const m = lower.match(/^::(?:ffff:)?([0-9a-f]{1,4}):([0-9a-f]{1,4})$/i);
+  if (m) {
+    const num = (parseInt(m[1], 16) << 16) + parseInt(m[2], 16);
+    return `${(num >>> 24) & 255}.${(num >>> 16) & 255}.${(num >>> 8) & 255}.${num & 255}`;
+  }
+  // 兼容 ::ffff:0:7f00:1、::ffff:0:c0a8:101、::c0a8:101 等非规范 IPv4-mapped/compatible 写法。
+  if (lower.startsWith('::ffff:') || lower.startsWith('::')) {
+    const embedded = ipv4FromLast32(lower);
+    if (embedded) return embedded;
+  }
+  // NAT64 前缀（64:ff9b::/96 与 64:ff9b:1::/48）内嵌 IPv4，例如 64:ff9b::c0a8:101 -> 192.168.1.1
+  if (lower.startsWith('64:ff9b')) {
+    const embedded = ipv4FromLast32(lower);
+    if (embedded) return embedded;
+  }
+  const nat64 = lower.match(/^64:ff9b:(?:::)?(?:([0-9a-f]{1,4}):([0-9a-f]{1,4})|(\d+\.\d+\.\d+\.\d+))$/i);
+  if (nat64) {
+    if (nat64[3]) return nat64[3];
+    const num = (parseInt(nat64[1], 16) << 16) + parseInt(nat64[2], 16);
+    return `${(num >>> 24) & 255}.${(num >>> 16) & 255}.${(num >>> 8) & 255}.${num & 255}`;
+  }
+  return null;
+}
+
+export function isPrivateIp(ip) {
+  let h = String(ip || '').toLowerCase().replace(/^\[|\]$/g, '');
+  const family = net.isIP(h);
+  // DNS 返回值也必须是有效 IP；不能把非法地址当成公网地址。
+  if (!family || h.includes('%')) return true;
+  if (family === 6) h = new URL(`http://[${h}]/`).hostname.slice(1, -1);
+
+  if (net.isIP(h) === 4) {
+    const parts = h.split('.').map(Number);
+    if (parts[0] === 10) return true;
+    if (parts[0] === 127) return true;
+    if (parts[0] === 0) return true;
+    if (parts[0] === 169 && parts[1] === 254) return true;
+    if (parts[0] === 172 && parts[1] >= 16 && parts[1] <= 31) return true;
+    if (parts[0] === 192 && parts[1] === 168) return true;
+    if (parts[0] === 100 && parts[1] >= 64 && parts[1] <= 127) return true;
+    if (parts[0] === 198 && parts[1] >= 18 && parts[1] <= 19) return true;
+    if (parts[0] === 192 && parts[1] === 0 && parts[2] === 0) return true;
+    if (parts[0] >= 224) return true;
+    return false;
+  }
+
+  if (net.isIP(h) === 6) {
+    if (h === '::' || h === '::1') return true;
+    if (h.startsWith('fc') || h.startsWith('fd')) return true;
+    if (/^fe[89ab]/.test(h)) return true;
+    if (h.startsWith('fec') || h.startsWith('fed') || h.startsWith('fee') || h.startsWith('fef')) return true;
+    // 本地 NAT64 前缀的 IPv4 位布局不等同 /96；整个本地前缀均不可供公网抓取。
+    if (h.startsWith('64:ff9b:1:')) return true;
+    const embedded = parseEmbeddedIpv4(h);
+    if (embedded) return isPrivateIp(embedded);
+    if (h.startsWith('2001:db8')) return true;
+    if (h.startsWith('2001:2:') || h.startsWith('2001:10:') || h.startsWith('2001:20:')) return true;
+    const sixth4 = h.match(/^2002:([0-9a-f]{1,4}):([0-9a-f]{1,4}):/i);
+    if (sixth4) {
+      const num = (parseInt(sixth4[1], 16) << 16) + parseInt(sixth4[2], 16);
+      const ipv4 = `${(num >>> 24) & 255}.${(num >>> 16) & 255}.${(num >>> 8) & 255}.${num & 255}`;
+      if (isPrivateIp(ipv4)) return true;
+    }
+    if (h.startsWith('ff')) return true;
+    return false;
+  }
+
+  return true;
+}
+
+/**
+ * 把校验过的地址排成「尝试顺序」。
+ *
+ * 为什么不能只取第一个：DNS 返回顺序是**轮转/不确定**的，而本机常常只有 IPv4 出口。
+ * QQ 的表情 CDN（gxh.vip.qq.com / p.qpic.cn / multimedia.nt.qq.com.cn）和
+ * raw.githubusercontent.com 都同时有 AAAA/A 记录 —— 抢到第一个 AAAA 的那次请求会一路
+ * 连到 20 秒超时，其余请求正常，于是表现为「**部分**表情包/图片/网页时好时坏」。
+ * 这里优先 IPv4，并把两个族交替排布：v4 全部不可用时还能试 v6（v6-only 主机同理）。
+ * @param {{address: string, family: number}[]} addresses
+ * @returns {string[]} 地址字符串（已按尝试顺序排列）
+ */
+function orderAddresses(addresses) {
+  const v4 = addresses.filter((item) => Number(item?.family) === 4).map((item) => item.address);
+  const v6 = addresses.filter((item) => Number(item?.family) === 6).map((item) => item.address);
+  const ordered = [];
+  const max = Math.max(v4.length, v6.length);
+  for (let i = 0; i < max; i += 1) {
+    if (v4[i]) ordered.push(v4[i]);
+    if (v6[i]) ordered.push(v6[i]);
+  }
+  return ordered;
+}
+
+/** 解析主机名并校验**全部**解析结果，返回可尝试的地址列表（IPv4 优先）。 */
+export async function resolveSafeAddresses(hostname) {
+  const h = String(hostname || '').toLowerCase().replace(/^\[|\]$/g, '').replace(/\.$/, '');
+  if (!h) throw new Error('主机名为空');
+  if (h === 'localhost' || h.endsWith('.localhost') || h.endsWith('.local')) {
+    throw new Error('禁止访问内网/本机地址');
+  }
+  if (net.isIP(h)) {
+    if (isPrivateIp(h)) throw new Error('禁止访问内网/本机地址');
+    return [h];
+  }
+  let addresses;
+  try {
+    addresses = await withTimeout(dnsLookup(h, { all: true, verbatim: true }), 5000, `DNS 解析 ${h}`);
+  } catch (error) {
+    throw new Error(`域名解析失败：${error?.message ?? error}`);
+  }
+  if (!addresses.length) throw new Error('域名没有解析结果');
+  for (const { address } of addresses) {
+    if (isPrivateIp(address)) {
+      throw new Error('域名解析到内网/本机地址，已阻止');
+    }
+  }
+  const ordered = orderAddresses(addresses);
+  return ordered.length ? ordered : [addresses[0].address];
+}
+
+export async function resolveSafeHost(hostname) {
+  const [first] = await resolveSafeAddresses(hostname);
+  return first;
+}
+
+export async function validateFetchUrl(raw) {
+  let url;
+  try {
+    url = new URL(String(raw ?? '').trim());
+  } catch {
+    throw new Error('URL 无效');
+  }
+  if (!['http:', 'https:'].includes(url.protocol)) throw new Error('仅允许 http/https');
+  if (url.username || url.password) throw new Error('URL 不能包含凭据');
+  const addresses = await resolveSafeAddresses(url.hostname);
+  return { url, ip: addresses[0], addresses };
+}
+
+const REQUEST_TIMEOUT_MS = 20000;
+// 多地址时的单次尝试预算：够一次 TCP+TLS+首字节，又不至于让「第一个地址是坏的 IPv6」
+// 把整个 20 秒总预算耗光。
+const ATTEMPT_TIMEOUT_MS = 8000;
+const MAX_ADDRESS_ATTEMPTS = 4;
+const REDIRECT_STATUSES = new Set([301, 302, 303, 307, 308]);
+
+function validateLimit(value, name) {
+  if (!Number.isSafeInteger(value) || value <= 0) throw new Error(`${name} 必须为正整数`);
+}
+
+/**
+ * 用**一个**已校验的地址发起一次尝试，保留原始 Host/SNI（禁止重新解析 DNS）。
+ * 返回 `{ok:true,result}` 或 `{ok:false,error,retryable}`；retryable 只标记网络层失败
+ * （连接失败/超时/正文中断），大小与图片签名等策略性拒绝不重试。
+ */
+function attemptOnce(url, address, limit, binary, budgetMs) {
+  return new Promise((resolve) => {
+    let settled = false;
+    let req;
+    let response;
+    const settle = (outcome) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      resolve(outcome);
+    };
+    const fail = (error, retryable) => settle({ ok: false, error, retryable: retryable === true });
+    const done = (result) => settle({ ok: true, result });
+    const timer = setTimeout(() => {
+      const error = new Error(`请求超时：${url.hostname}`);
+      fail(error, true);
+      req?.destroy(error);
+      response?.destroy();
+    }, budgetMs);
+    const mod = url.protocol === 'https:' ? https : http;
+    const hostname = url.hostname.replace(/^\[|\]$/g, '');
+    try {
+      req = mod.request({
+        hostname: address,
+        port: url.port || (url.protocol === 'https:' ? 443 : 80),
+        path: url.pathname + url.search,
+        method: 'GET',
+        headers: {
+          host: url.host,
+          'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36',
+          accept: binary ? 'image/*,*/*;q=0.8' : 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+          'accept-language': 'zh-CN,zh;q=0.9',
+        },
+        servername: url.protocol === 'https:' && !net.isIP(hostname) ? hostname : undefined,
+        rejectUnauthorized: url.protocol === 'https:',
+        timeout: budgetMs,
+      }, (res) => {
+        response = res;
+        res.on('error', (error) => fail(error, true));
+        res.on('aborted', () => fail(new Error('响应体读取中断'), true));
+        res.on('close', () => {
+          if (!res.complete) fail(new Error('响应体读取中断'), true);
+        });
+        if (settled) { res.destroy(); return; }
+        const statusCode = res.statusCode || 0;
+        if (REDIRECT_STATUSES.has(statusCode)) {
+          done({ statusCode, redirect: String(res.headers.location || '') });
+          // 不下载重定向正文：攻击者可以发送无限正文消耗连接和带宽。
+          res.destroy();
+          return;
+        }
+        const chunks = [];
+        const decoder = binary ? null : new StringDecoder('utf8');
+        let size = 0;
+        const appendText = (text) => {
+          const points = Array.from(text);
+          const remaining = limit - size;
+          chunks.push(points.slice(0, remaining).join(''));
+          size += Math.min(points.length, remaining);
+          if (size >= limit) {
+            done({ statusCode, body: chunks.join(''), truncated: true });
+            res.destroy();
+          }
+        };
+        res.on('data', (chunk) => {
+          if (settled) return;
+          if (!binary) { appendText(decoder.write(chunk)); return; }
+          size += chunk.length;
+          if (size > limit) {
+            fail(new Error(`图片超过大小限制（${limit} 字节）`), false);
+            res.destroy();
+            return;
+          }
+          chunks.push(chunk);
+        });
+        res.on('end', () => {
+          if (settled) return;
+          if (binary) done({ statusCode, buffer: Buffer.concat(chunks) });
+          else {
+            appendText(decoder.end());
+            done({ statusCode, body: chunks.join(''), truncated: false });
+          }
+        });
+      });
+      req.on('timeout', () => {
+        const error = new Error(`请求超时：${url.hostname}`);
+        fail(error, true);
+        req.destroy(error);
+        response?.destroy();
+      });
+      req.on('error', (error) => fail(error, true));
+      req.end();
+    } catch (error) {
+      fail(error, true);
+      req?.destroy();
+    }
+  });
+}
+
+/**
+ * 依次尝试已校验的地址（IPv4 优先，见 orderAddresses）。
+ *
+ * 单地址时沿用原来的「整个 20 秒总预算」，多地址时才启用单次尝试预算与失败切换：
+ * 这样「只有一个地址、对方慢慢滴流」仍然会等满总时限（由总 deadline 兜底），
+ * 而「第一个地址是坏的 IPv6」不会再白等 20 秒。
+ * 所有地址都失败时抛最后一个错误（保留原始错误文案，便于日志排查）。
+ */
+async function requestOnce(url, addresses, limit, binary = false) {
+  const list = (Array.isArray(addresses) ? addresses : [addresses]).filter(Boolean);
+  if (!list.length) throw new Error(`没有可用地址：${url.hostname}`);
+  const deadline = Date.now() + REQUEST_TIMEOUT_MS;
+  let lastError = null;
+  const attempts = Math.min(list.length, MAX_ADDRESS_ATTEMPTS);
+  for (let i = 0; i < attempts; i += 1) {
+    const remaining = deadline - Date.now();
+    if (remaining <= 250) break;
+    const budget = list.length === 1
+      ? REQUEST_TIMEOUT_MS
+      : Math.min(ATTEMPT_TIMEOUT_MS, remaining);
+    const outcome = await attemptOnce(url, list[i], limit, binary, budget);
+    if (outcome.ok) return outcome.result;
+    lastError = outcome.error;
+    if (!outcome.retryable) throw outcome.error;
+    if (i < attempts - 1) {
+      // 换地址重试：只换连接目标，Host/SNI/路径全部不变（同一个站点）。
+      continue;
+    }
+  }
+  if (lastError && attempts > 1) {
+    lastError.message = `${lastError.message}（已尝试 ${attempts} 个地址）`;
+  }
+  throw lastError ?? new Error(`请求失败：${url.hostname}`);
+}
+
+export async function safeFetch(urlString, maxChars = 50000) {
+  validateLimit(maxChars, 'maxChars');
+  const MAX_REDIRECTS = 5;
+  let { url, addresses } = await validateFetchUrl(urlString);
+  for (let i = 0; i <= MAX_REDIRECTS; i++) {
+    const result = await requestOnce(url, addresses, maxChars);
+    if ([301, 302, 303, 307, 308].includes(result.statusCode)) {
+      if (!result.redirect) throw new Error(`重定向缺少 Location: ${result.statusCode}`);
+      const next = new URL(result.redirect, url).toString();
+      ({ url, addresses } = await validateFetchUrl(next));
+      continue;
+    }
+    const body = result.body || '';
+    return {
+      url: url.toString(),
+      statusCode: result.statusCode,
+      truncated: result.truncated,
+      body,
+    };
+  }
+  throw new Error('重定向次数过多，已停止');
+}
+
+/** 仅接受 DSH 支持的四种图片格式：PNG/JPEG/GIF/WebP。 */
+export function looksLikeImageBuffer(buf) {
+  if (!buf || buf.length < 12) return false;
+  if (buf[0] === 0x89 && buf[1] === 0x50 && buf[2] === 0x4e && buf[3] === 0x47) return true;
+  if (buf[0] === 0xff && buf[1] === 0xd8 && buf[2] === 0xff) return true;
+  if (buf.toString('ascii', 0, 6) === 'GIF87a' || buf.toString('ascii', 0, 6) === 'GIF89a') return true;
+  if (buf[0] === 0x52 && buf[1] === 0x49 && buf[2] === 0x46 && buf[3] === 0x46 && buf[8] === 0x57 && buf[9] === 0x45 && buf[10] === 0x42 && buf[11] === 0x50) return true;
+  return false;
+}
+
+/** 抓取图片字节并返回 Buffer（带 SSRF 防护，且校验确实为图片）。 */
+export async function safeFetchBuffer(urlString, maxBytes = 8 * 1024 * 1024) {
+  validateLimit(maxBytes, 'maxBytes');
+  const MAX_REDIRECTS = 5;
+  let { url, addresses } = await validateFetchUrl(urlString);
+  for (let i = 0; i <= MAX_REDIRECTS; i++) {
+    const result = await requestOnce(url, addresses, maxBytes, true);
+    if ([301, 302, 303, 307, 308].includes(result.statusCode)) {
+      if (!result.redirect) throw new Error(`重定向缺少 Location: ${result.statusCode}`);
+      const next = new URL(result.redirect, url).toString();
+      ({ url, addresses } = await validateFetchUrl(next));
+      continue;
+    }
+    if (result.statusCode < 200 || result.statusCode >= 300) {
+      throw new Error(`图片抓取失败：HTTP ${result.statusCode}`);
+    }
+    if (!looksLikeImageBuffer(result.buffer)) {
+      throw new Error(`抓取内容不是有效图片（PNG/JPEG/GIF/WebP）`);
+    }
+    return { url: url.toString(), statusCode: result.statusCode, buffer: result.buffer };
+  }
+  throw new Error('重定向次数过多，已停止');
+}

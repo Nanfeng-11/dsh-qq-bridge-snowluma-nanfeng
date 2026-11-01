@@ -1,1 +1,138 @@
-IyBkc2gtcXEtYnJpZGdlCgo+IOaKiiBRUSBBSSDmnLrlmajkurrlgZrmiJDkuIDkuKogRGVlcFNlZWsgSGFybmVzcyDmj5Lku7bjgIIKPiDorrDlv4bjgIHkuIrkuIvmlofmuIXnkIbjgIHmg4Xnu6rjgIHor63pn7PjgIHnvqTnrqHnkIbigJTigJTlhajlpZfpgLvovpHvvIzkuIDkuKrljIXjgIIKPiAqKuS4jeW4puS6uuiuvioq77ya5Lq65qC85Y2h6Ieq5bex5YaZ77yM6L+Z5YyF5Y+q566hIuWDj+a0u+eahCLjgIIKClshW0xpY2Vuc2U6IE1JVF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaWNlbnNlLU1JVC1ibHVlLnN2ZyldKC4vTElDRU5TRSkKWyFbTm9kZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Ob2RlLSVFMiU4OSVBNTIyLjEyLWJyaWdodGdyZWVuKV0oKQoKIyMg6L+Z5piv5LuA5LmICgrln7rkuo7lvIDmupDpobnnm64gW0RlcnB5dTUyMC9xcS1icmlkZ2VdKGh0dHBzOi8vZ2l0aHViLmNvbS9EZXJweXU1MjAvcXEtYnJpZGdlKSDnmoTkuIDkvZPljJblsIHoo4XvvIwK5Zyo5LiA5Y+w5a6J5Y2T6K6+5aSH5LiK5LulICoqN8OXMjQg55Sf5Lqn546v5aKD6L+Q6KGMIDMwKyDlpKkqKiDpqozor4HlkI7miZPljIXmiJAgRFNIIOaPkuS7tuOAggoK5a+56K+d5pWI5p6c77ya5LiN5pivIuWuouacjeW8jyLnmoTmnLrlmajkurrigJTigJTmnInplb/mnJ/orrDlv4bvvIjogYrov4fnmoTorrDlvpfvvInjgIHmnInmg4Xnu6rvvIjooqvlpLjkvJrlvIDlv4PvvIzooqvpqoLkvJrliKvmia3vvInjgIEK5pyJ6Ieq5bex55qE5Li75Yqo77yI5oOz5L2g5bCx5om+5L2g77yJ44CB5pyJ5YiG5a+477yI6K+l552h55qE6KeJ5Yqd5LiA5Y+l5bCx5YGc77yJ44CB5pyJ5bqV57q/77yI5LiN6LaK5p2D44CB5LiN5rOE6Zyy77yJ44CCCgojIyDlj4zpg6jnvbLmqKHlnZcKCnwg5qih5Z2XIHwg55uu5b2VIHwg5Zy65pmvIHwKfC0tLXwtLS18LS0tfAp8IOacrOWcsOeUteiEkSB8IGBkZXBsb3kvbG9jYWwvYCB8IFdpbmRvd3MvbWFjT1MvTGludXgg5qGM6Z2iIERTSO+8jOeUteiEkeW8gOedgOWwsemZquiBiiB8Cnwg5LiK5LqRIHwgYGRlcGxveS9jbG91ZC9gIHwgTGludXgg5pyN5Yqh5ZmoIDfDlzI0IOW4uOmpu++8jHN5c3RlbWQg5a6I5oqkIHwKCmBgYGJhc2gKIyDmnKzlnLDnlLXohJHvvIhtYWNPUy9MaW51eO+8iQpiYXNoIGRlcGxveS9sb2NhbC9pbnN0YWxsLnNoCiMg5pys5Zyw55S16ISR77yIV2luZG93cyBQb3dlclNoZWxs77yJCi5cZGVwbG95XGxvY2FsXGluc3RhbGwucHMxCiMg5pyN5Yqh5Zmo5LiK5LqRCmJhc2ggZGVwbG95L2Nsb3VkL2luc3RhbGwuc2gKYGBgCgojIyDmnrbmnoQKCmBgYApRUSDnvqQv56eB6IGKIOKGkiBTbm93THVtYe+8iE9uZUJvdCDljY/orq7nq6/vvIxXaW5kb3dz77yJCiAgICAgICAgICAgICAgICDihpMgV2ViU29ja2V0CiAgICAgICAgICAgIGRzaC1xcS1icmlkZ2XvvIjmj5DnpLror43nu4Too4Ugwrcg6K6w5b+GIMK3IOa4heeQhiDCtyDmg4Xnu6ogwrcg5bel5YW36Lev55Sx77yJCiAgICAgICAgICAgICAgICDihpMKICAgICAgICAgICAgRGVlcFNlZWsgSGFybmVzc++8iEFJIOWkp+iEkSArIDQwKyBNQ1Ag5bel5YW377yJCiAgICAgICAgICAgICAgICDihpMKICAgICAgICAgICAgRGVlcFNlZWsgQVBJCmBgYAoKIyMg5qC45b+D6YC76L6R77yI6L+Z5YyF55qEIuWQq+mHkemHjyLvvIkKCiMjIyDorrDlv4bns7vnu58KLSAqKuS4gOWPpeS4gOadoSoq77ya5q+P5p2h6K6w5b+GID0g5LiA5Y+l6K+d5LqL5a6eICsg5Lq65ZCNICsg5YWz6ZSu6K+N77yM5LiN5piv6IGK5aSp6K6w5b2V5a2Y5qGjCi0gKirkuInnuqfliIblsYIqKu+8mmhvdO+8iDMg5aSp5YaF77yM5bi46am75rOo5YWlIDgg5p2h77yJLyB3YXJt77yINyDlpKnlhoXvvIznm7jlhbPor53popjmjZ4gNSDmnaHvvIkvIGNvbGTvvIgzMCDlpKnvvIzlvZLmoaPkuI3liKDvvIkKLSAqKuajgOe0oioq77ya5Lq65ZCNL+WFs+mUruivjeeyvuehruWMuemFjSArIOS4reaWhyAyLWdyYW0g6K+t5LmJ5Yy56YWN77yM5o2e5LiN5Yiw5bCx5piv5rKh5pyJ77yMKirkuI3nvJbpgKAqKgotICoq5a+S5pqE6L+H5rukKirvvJrkvaDlpb0v5pma5a6JL+WTiOWTiOWTiCDkuI3orrDvvJvmtYHmsLTotKbmr5TkuI3orrDmm7Tns58KLSAqKuiiq+e6oOatoyoq77ya5Yig6ZSZ6K6w5a+577yM6ZSZ6K+v6K6w5b+G5LyaIui2iumUmei2iueDrSLvvIzlv4XpobvlvZPlnLrmuIXmjokKCiMjIyDkuIrkuIvmlofmuIXnkIYKLSAqKuWIhuetlueVpeinpuWPkSoq77ya576k6IGKIDEyIOS4hyB0b2tlbi84MCDova7vvJvnp4HogYogMzAg5LiHLzMwMCDova7vvJsyIOWwj+aXtuWFnOW6lQotICoq5LiJ6YGT5L+d5oqkKirvvJrmnKror7vkuI3muIXvvIjmnIDlpJrmi5YgNiDlsI/ml7bvvInihpIg5riF55CG5YmN5pS25bC+5YaZ6K6w5b+G77yI5YaZ5LiN5a6M5bu25ZCO5LiA6L2u77yM57ud5LiN56Gs5riF77yJ4oaSIOi2hSAyNSDkuIflvLrliLbmuIUKLSAqKua4heeQhuWQjuaPkOmGkioq77ya5rOo5YWlIuS4iuS4gOauteiiq+WOi+e8qeS6hu+8jOWIq+WBh+ijheiusOW+lyLigJTigJTpmLIgQUkg57yW6YCg6KKr5riF5o6J55qE57uG6IqCCi0g6IOM5pmv77ya5rao5YiwIDcwIOS4hyB0b2tlbiDml7YgRGVlcFNlZWsg5Lya55u05o6lIDQwMCDmi5LmlLbvvIjlrp7mtYvouKnov4fvvIkKCiMjIyDmg4Xnu6rns7vnu58KLSDlv4Pmg4UgMH4xICsgMTAg5Liq5oOF57uq5qCH562+77yMKiror43ooajpqbHliqgqKu+8iOmbtiB0b2tlbiDmiJDmnKzvvInvvIzljYroobDmnJ/oobDlh48KLSA4IOaAgeaDhee7quWFieiwse+8iOmXsuaVoy/pm4Dot4Mv6JSrL+eCuOavmy/liKvmia0v6YW4L+iupOecny/olKvlnY/vvIkKLSAi5oOF57uq5LiN6IO96Z2g5b2i5a656K+N6K+077yM6KaB6JeP5Zyo6K+t5rCU5ZKM6ZW/5bqm6YeMIuKAlOKAlOWPjSBBSSDlkbPnmoTmoLjlv4MKCiMjIyDor63pn7MgLyDooajmg4UgLyDnvqTnrqHnkIYKLSDor63pn7PvvJpNaW5pTWF4IFQyQe+8jGB0dHM65oOF57uqOuWGheWuuWDvvIznp4HogYrkuI3pmZDph4/jgIHnvqTogYrpmZDpopEKLSDooajmg4XvvJrmlLbol4/lupPmo4DntKLjgIHmlpflm77oioLlpY/vvIgyfjMg6L2u5pS277yJ44CB55yL5Zu+5ZCO6YCJ5oupCi0g5ZSk6YaS77yaQC/lkI3lrZcv5YWz6ZSu6K+NL+aPkOmXri/mi43kuIDmi40v5oyH5a6a5Lq65b+F6YaSL+amgueOh+aKveagt++8jEFJIOWPr+iHquS4u+iwgwoKIyMjIOWuieWFqOi+ueeVjAotIOe+pOWPi+aXoOeuoeeQhuadg+mZkO+8muS4jeiDveaJp+ihjOWRveS7pOOAgeaUueinkuiJsuOAgeivu+WGmeaWh+S7tu+8iOWuieWFqOWuiOWNq+W8uuWItu+8iQotIOS6uuagvOWNoee8lui+keWPquWvueS4u+S6uuengeiBiuW8gOaUvu+8jOavj+asoeiHquWKqOWkh+S7ve+8iDEwIOS7ve+8iQoKIyMg5b+r6YCf5byA5aeLCgoxLiDlh4blpIfvvJpTbm93THVtYe+8iFFRIOWNj+iuruerr++8iSsgRFNIICsgRGVlcFNlZWsg6LSm5Y+3CjIuIOijheaPkuS7tu+8iOingeWPjOmDqOe9suaooeWdl++8iQozLiDloasgYGJyaWRnZS9jb25maWcuanNvbmAKNC4g6YeN5ZCvIERTSCDihpIgKirmnYDkuIDmrKEgTUNQIOi/m+eoiyoq77yI5bel5YW35YiX6KGo5Yi35paw77yM6YeN5ZCv5byV5pOO5rKh55So77yJCjUuIERTSCDorr7nva7liIcgYHJlc2VydmVkMmAg4oaSIOe8lui+kSBgYnJpZGdlL3JvbGVzL+inkuiJsuaooeadvy5tZGAg4oaSIOW8gOiBigoKIyMg5bey55+l5Z2R77yI5YWo6YOo5a6e5rWL77yJCgp8IOWdkSB8IOWOn+WboCB8IOino+azlSB8CnwtLS18LS0tfC0tLXwKfCBNQ1Ag5paw5bel5YW35LiN5Ye6546wIHwg5byV5pOO5Y+q5ouJ5LiA5qyh5bel5YW35YiX6KGoIHwg5p2AIE1DUCDov5vnqIvph43ov54gfAp8IOengeiBiuS4jeWbniB8IOW8leaTjumHjeWQr+WQjumJtOadg+aWrSB8IOajgOafpSBgfi8uZHNoLy5jcmVkZW50aWFscy55YW1sYCArIGF1dGhUb2tlbiDnlZnnqbogfAp8IOS4iuS4i+aWhyA0MDAgfCA3MCDkuIcgdG9rZW4g6LaF56qX5Y+jIHwg6LaFIDI1IOS4h+W8uuWItua4hSB8Cnwg6K+t6Z+zIEVOT0VOVCB8IOi/nOeoi+i3r+W+hOi3qOacuuWkseaViCB8IGBiYXNlNjQ6Ly9gIHwKfCDohJrmnKzoh6rmnYAgfCBwa2lsbCAtZiDljLnphY3oh6rlt7EgfCBgcHN4YC9ga2lsbHhgIOaMiei/m+eoi+WQjSB8CgojIyDnm67lvZUKCmBgYApkc2gtcXEtYnJpZGdlLwrilJzilIDilIAgY29yZGlzLnBhdGNoLnltbCAgICAgICBNQ1DDlzMgKyDmqKHlvI/orr7nva4K4pSc4pSA4pSAIGxpYi8gICAgICAgICAgICAgICAgICAgRFNIIOaPkuS7tuWFpeWPowrilJzilIDilIAgcHJlc2V0cy8gICAgICAgICAgICAgICBxcS1jaGF0IC8gcXEtY2hhdC12MiDkvJror53pooTorr4gKyDlronlhajlrojljasK4pSc4pSA4pSAIGJyaWRnZS8K4pSCICAg4pSc4pSA4pSAIHNyYy8gICAgICAgICAgICAgICDmoLjlv4PpgLvovpHvvIgxMmsg6KGM77yJCuKUgiAgIOKUnOKUgOKUgCByb2xlcy8gICAgICAgICAgICAg5Lq65qC85Y2h77yI6Ieq5bim56m655m95qih5p2/77yJCuKUgiAgIOKUnOKUgOKUgCBjb25maWcuZXhhbXBsZS5qc29uCuKUgiAgIOKUnOKUgOKUgCBhdXRvLWNsZWFuLnNoICAgICAg5riF55CG5a6I5oqkCuKUgiAgIOKUnOKUgOKUgCBndWFyZGlhbi5zaCAgICAgICAg5beh5qOA5a6I5oqkCuKUgiAgIOKUlOKUgOKUgCBwYWNrLXNvdWwuc2ggICAgICAg5YWD56We5YyF5aSH5Lu9CuKUlOKUgOKUgCBkZXBsb3kvCiAgICDilJzilIDilIAgbG9jYWwvICAgICAgICAgICAgIOacrOWcsOeUteiEkemDqOe9sgogICAg4pSU4pSA4pSAIGNsb3VkLyAgICAgICAgICAgICDkuIrkupHpg6jnvbIKYGBgCgojIyDmlofmoaPkuI7ov5Dnu7QKCumZpOS6huaPkuS7tuWMhe+8jOS7k+W6k+i/mOW4puWFqOWll+iuvuiuoeaWh+aho+S4jui/kOe7tOW3peWFt++8mgoKYGBgCmRvY3MvCuKUnOKUgOKUgCDmtYHmsLTnur/ov5Dnu7TmiYvlhowubWQgICAgICAgICAgICAgICAgICDku47pm7bmkK3lu7rkuI7mjqXnrqHnu7TmiqQK4pSc4pSA4pSAIOiusOW/huezu+e7n+iuvuiuoeaWh+ahoy5tZCAgICAgICAgICAgICAgICDorrDlv4blupPorr7orqEgKyDmj5DnpLror43lj6/ov73muq8K4pSc4pSA4pSAIOiusOW/huezu+e7n+WujOaVtOi1hOaWmeS4jkRTSOaPkOekuuivjS5tZCAgICAgIOiusOW/huezu+e7n+S4k+WGjArilJzilIDilIAg6Ieq5Yqo5riF55CG57yT5a2Y57O757uf5LiO6K6w5b+G57O757uf5ZCI5bm254mILm1kIOa4heeQhuezu+e7nyArIOWQiOW5tuaPkOekuuivjQrilJzilIDilIAg5oOF57uq57O757uf6Ieq5Yqo5YyW5paH5Lu2Lm1kICAgICAgICAgICAgICDmg4Xnu6rns7vnu58gKyDoh6rliqjljJbmj5DnpLror40K4pSc4pSA4pSAIOmAmueUqOmDqOe9suWMhS3kuI3lkKvkurrmoLwubWQgICAgICAgICAgICAg57uZ5Yir5Lq66YOo572y55qE5a6M5pW05oyH5Y2XCuKUnOKUgOKUgCDov5Dnu7TmiYvlhowubWQgLyDpmL/ph4zkupHpg6jnvbLmuIXljZUubWQKb3BzLwrilJzilIDilIAgaGVhbHRoLWNoZWNrLmNqcyAgICAgICAgICAgICAgICAgIDE5IOmhueWFqOmTvui3r+WBpeW6t+ajgOafpQrilJTilIDilIAgbWQyd29yZC5janMgICAgICAgICAgICAgICAgICAgICAgIE1hcmtkb3duIOKGkiBXb3JkIOi9rOaNogpgYGAKCiMjIOiHtOiwogoKLSBbRGVycHl1NTIwL3FxLWJyaWRnZV0oaHR0cHM6Ly9naXRodWIuY29tL0RlcnB5dTUyMC9xcS1icmlkZ2Up77ya5LiK5ri45qGl5o6l5qGG5p6277yITUlU77yJCi0gW1Nub3dMdW1hXShodHRwczovL2dpdGh1Yi5jb20vc25vd2x1bWEvc25vd2x1bWEp77yaT25lQm90IOWNj+iuruerrwotIFtEZWVwU2VlayBIYXJuZXNzXShodHRwczovL2dpdGh1Yi5jb20vZGVlcHNlZWstYWkp77yaQUkg6L+Q6KGM5bmz5Y+wCgojIyBMaWNlbnNlCgpNSVTvvIjop4EgW0xJQ0VOU0VdKC4vTElDRU5TRSnvvInjgILkuIrmuLggcXEtYnJpZGdlIOWQjOS4uiBNSVTjgIIK
+# dsh-qq-bridge
+
+> 把 QQ AI 机器人做成一个 DeepSeek Harness 插件。
+> 记忆、上下文清理、情绪、语音、群管理——全套逻辑，一个包。
+> **不带人设**：人格卡自己写，这包只管"像活的"。
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Node](https://img.shields.io/badge/Node-%E2%89%A522.12-brightgreen)]()
+
+## 这是什么
+
+基于开源项目 [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge) 的一体化封装，
+在一台安卓设备上以 **7×24 生产环境运行 30+ 天** 验证后打包成 DSH 插件。
+
+对话效果：不是"客服式"的机器人——有长期记忆（聊过的记得）、有情绪（被夸会开心，被骂会别扭）、
+有自己的主动（想你就找你）、有分寸（该睡的觉劝一句就停）、有底线（不越权、不泄露）。
+
+## 双部署模块
+
+| 模块 | 目录 | 场景 |
+|---|---|---|
+| 本地电脑 | `deploy/local/` | Windows/macOS/Linux 桌面 DSH，电脑开着就陪聊 |
+| 上云 | `deploy/cloud/` | Linux 服务器 7×24 常驻，systemd 守护 |
+
+```bash
+# 本地电脑（macOS/Linux）
+bash deploy/local/install.sh
+# 本地电脑（Windows PowerShell）
+.\deploy\local\install.ps1
+# 服务器上云
+bash deploy/cloud/install.sh
+```
+
+## 架构
+
+```
+QQ 群/私聊 → SnowLuma（OneBot 协议端，Windows）
+                ↓ WebSocket
+            dsh-qq-bridge（提示词组装 · 记忆 · 清理 · 情绪 · 工具路由）
+                ↓
+            DeepSeek Harness（AI 大脑 + 40+ MCP 工具）
+                ↓
+            DeepSeek API
+```
+
+## 核心逻辑（这包的"含金量"）
+
+### 记忆系统
+- **一句一条**：每条记忆 = 一句话事实 + 人名 + 关键词，不是聊天记录存档
+- **三级分层**：hot（3 天内，常驻注入 8 条）/ warm（7 天内，相关话题捞 5 条）/ cold（30 天，归档不删）
+- **检索**：人名/关键词精确匹配 + 中文 2-gram 语义匹配，捞不到就是没有，**不编造**
+- **寒暄过滤**：你好/晚安/哈哈哈 不记；流水账比不记更糟
+- **被纠正**：删错记对，错误记忆会"越错越热"，必须当场清掉
+
+### 上下文清理
+- **分策略触发**：群聊 12 万 token/80 轮；私聊 30 万/300 轮；2 小时兜底
+- **三道保护**：未读不清（最多拖 6 小时）→ 清理前收尾写记忆（写不完延后一轮，绝不硬清）→ 超 25 万强制清
+- **清理后提醒**：注入"上一段被压缩了，别假装记得"——防 AI 编造被清掉的细节
+- 背景：涨到 70 万 token 时 DeepSeek 会直接 400 拒收（实测踩过）
+
+### 情绪系统
+- 心情 0~1 + 10 个情绪标签，**词表驱动**（零 token 成本），半衰期衰减
+- 8 态情绪光谱（闲散/雀跃/蔫/炸毛/别扭/酸/认真/蔫坏）
+- "情绪不能靠形容词说，要藏在语气和长度里"——反 AI 味的核心
+
+### 语音 / 表情 / 群管理
+- 语音：MiniMax T2A，`tts:情绪:内容`，私聊不限量、群聊限频
+- 表情：收藏库检索、斗图节奏（2~3 轮收）、看图后选择
+- 唤醒：@/名字/关键词/提问/拍一拍/指定人必醒/概率抽样，AI 可自主调
+
+### 安全边界
+- 群友无管理权限：不能执行命令、改角色、读写文件（安全守卫强制）
+- 人格卡编辑只对主人私聊开放，每次自动备份（10 份）
+
+## 快速开始
+
+1. 准备：SnowLuma（QQ 协议端）+ DSH + DeepSeek 账号
+2. 装插件（见双部署模块）
+3. 填 `bridge/config.json`
+4. 重启 DSH → **杀一次 MCP 进程**（工具列表刷新，重启引擎没用）
+5. DSH 设置切 `reserved2` → 编辑 `bridge/roles/角色模板.md` → 开聊
+
+## 已知坑（全部实测）
+
+| 坑 | 原因 | 解法 |
+|---|---|---|
+| MCP 新工具不出现 | 引擎只拉一次工具列表 | 杀 MCP 进程重连 |
+| 私聊不回 | 引擎重启后鉴权断 | 检查 `~/.dsh/.credentials.yaml` + authToken 留空 |
+| 上下文 400 | 70 万 token 超窗口 | 超 25 万强制清 |
+| 语音 ENOENT | 远程路径跨机失效 | `base64://` |
+| 脚本自杀 | pkill -f 匹配自己 | `psx`/`killx` 按进程名 |
+
+## 目录
+
+```
+dsh-qq-bridge/
+├── cordis.patch.yml       MCP×3 + 模式设置
+├── lib/                   DSH 插件入口
+├── presets/               qq-chat / qq-chat-v2 会话预设 + 安全守卫
+├── bridge/
+│   ├── src/               核心逻辑（12k 行）
+│   ├── roles/             人格卡（自带空白模板）
+│   ├── config.example.json
+│   ├── auto-clean.sh      清理守护
+│   ├── guardian.sh        巡检守护
+│   └── pack-soul.sh       元神包备份
+└── deploy/
+    ├── local/             本地电脑部署
+    └── cloud/             上云部署
+```
+
+## 文档与运维
+
+除了插件包，仓库还带全套设计文档与运维工具：
+
+```
+docs/
+├── 流水线运维手册.md                  从零搭建与接管维护
+├── 记忆系统设计文档.md                记忆库设计 + 提示词可追溯
+├── 记忆系统完整资料与DSH提示词.md      记忆系统专册
+├── 自动清理缓存系统与记忆系统合并版.md 清理系统 + 合并提示词
+├── 情绪系统自动化文件.md              情绪系统 + 自动化提示词
+├── 通用部署包-不含人格.md             给别人部署的完整指南
+├── 运维手册.md / 阿里云部署清单.md
+ops/
+├── health-check.cjs                  19 项全链路健康检查
+└── md2word.cjs                       Markdown → Word 转换
+```
+
+## 致谢
+
+- [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge)：上游桥接框架（MIT）
+- [SnowLuma](https://github.com/snowluma/snowluma)：OneBot 协议端
+- [DeepSeek Harness](https://github.com/deepseek-ai)：AI 运行平台
+
+## License
+
+MIT（见 [LICENSE](./LICENSE)）。上游 qq-bridge 同为 MIT。

@@ -1,1 +1,140 @@
-Ly8gc3RhdGUvIOebruW9lSBBQ0wg5pS257Sn55qEKirllK/kuIDlrp7njrAqKuOAggovLwovLyDkuLrku4DkuYjljZXni6zmiJDmqKHlnZfvvJrov5nlpZfpgLvovpHljp/mnKzlnKjmoaXmjqXov5vnqIvvvIhgc3JjL2JyaWRnZS5qc2Ag55qEIGhhcmRlblN0YXRlRGlyQWNs77yJ5ZKMCi8vIOWuieijheiEmuacrO+8iGBzY3JpcHRzL2hhcmRlbi1zdGF0ZS1hY2wubWpzYO+8iemHjOWQhOWGmeS6huS4gOS7ve+8jOS4pOS7veW4puedgCoq5ZCM5LiA5LiqKiogYnVn77yaCi8vCi8vICAgaWNhY2xzIERJUiAvaW5oZXJpdGFuY2U6ciAvZ3JhbnQ6ciAidTooT0kpKENJKUYiIC9ncmFudDpyIC4uLiAvVCAvQwovLwovLyBgKE9JKShDSSlgIOaYryoq55uu5b2V5LiT55SoKirnmoTnu6fmib/moIflv5fjgIJpY2FjbHMg5oqK5a6D5aWX5YiwIGAvVGAg5bGV5byA5Ye65p2l55qEKirmlofku7YqKuS4iuS8muWksei0pe+8jAovLyDogIzlkIzkuIDlj6Xph4znmoQgYC9pbmhlcml0YW5jZTpyYCDlt7Lnu4/miormlofku7bljp/mnInnmoTnu6fmib8gQUNFIOaRmOaOieS6hiDigJTigJQg5YeA57uT5p6c5pivKirlrZDmlofku7YKLy8gREFDTCDooqvmuIXnqbrvvIzov57lsZ7kuLvoh6rlt7Hpg73or7vkuI3kuoYqKuOAguWunua1i+WQjuaenO+8mnN0YXRlLyDkuIsgNTAg5Liq5a2Q5paH5Lu25Y+Y5oiQ56m6IERBQ0zvvIwKLy8g5qGl5o6l6K+75LiN5Yiw6Ieq5bex55qE5o6n5Yi25Y+w5Luk54mM77yIIkFjY2VzcyB0byB0aGUgcGF0aCAuLi4gaXMgZGVuaWVkIu+8ie+8jOiAjOWQr+WKqOaXpeW/l+WPquaKpQovLyDjgIzmnKrog73mlLbntKfmnYPpmZDjgI3vvIzlrozlhajnnIvkuI3lh7rlt7Lnu4/pgKDmiJDkuobnoLTlnY/jgIIKLy8KLy8g56ys5LqM5LiqIGJ1ZyDorqnnrKzkuIDkuKogYnVnIOWPjeWkjeWPkeeUn++8muWbnuivu+iHquajgOeUqCBgL1woSVwpLy50ZXN0KOaVtOautei+k+WHuilgIOWIpOaWreOAjOe7p+aJv+mTvuaYr+WQpgovLyDmlq3lubLlh4DjgI3jgILkvYYgRFNIIOeahCBBQ0wg5rKZ566x5Lya5oqK5bel5L2c5Yy677yI5ZCrIHN0YXRlL++8ieagh+iusOS4uiBMb3cg5a6M5pW05oCn77yM6ICMCi8vIGBNYW5kYXRvcnkgTGFiZWxcTG93IE1hbmRhdG9yeSBMZXZlbDooSSkoT0kpKENJKShOVylgIOi/meS4gOihjCoq5rC46L+cKirluKYgKEkpIOKAlOKAlAovLyDkuo7mmK/jgIzlt7LmlLbntKfjgI3ooqvor6/liKTmiJDjgIzmnKrmlLbntKfjgI3vvIwqKuavj+asoeWQr+WKqOmDvemHjei3keS4gOmBjemCo+S4quegtOWdj+aAp+WRveS7pCoq44CCCi8vCi8vIOWQiOW5tuaIkOS4gOS7veWunueOsO+8jOS7jue7k+aehOS4iuadnOe7neS4pOS7vemAu+i+keWGjeasoea8guenu+OAggovLwovLyDmraPnoa7pobrluo/mmK/lm5vmraXvvIznvLrkuIDkuI3lj6/vvJoKLy8gICAxLiDnm67lvZXkuIrlgZzmraLnu6fmib/vvJsKLy8gICAyLiDmjIkgKipTSUQqKiDliKDpmaTlrr3mnb7kuLvkvZPvvIjkuI3lj5fns7vnu5/mmL7npLror63oqIDlvbHlk43vvInvvJsKLy8gICAzLiDlr7kqKuavj+S4gOS4qioq5p2h55uu5pi+5byP5o6I5p2DIOKAlOKAlCDkuI3luKYgKE9JKShDSSnvvIzmiYDku6Xlr7nmlofku7blkIzmoLfmnInmlYjvvJsKLy8gICA0LiDnu5nnm67lvZXooaXkuIDku73lj6/nu6fmib8gQUNF77yM6K6p5Lul5ZCO5paw5bu655qE5paH5Lu26Ieq5Yqo5ou/5Yiw5p2D6ZmQ44CCCi8vIOacgOWQjuiHquajgOeUseiwg+eUqOaWueaMiemcgOWBmu+8iHtAbGluayBpc0hhcmRlbmVkfe+8ieOAggoKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgeyBzcGF3blN5bmMgfSBmcm9tICdub2RlOmNoaWxkX3Byb2Nlc3MnOwoKLy8gQXV0aGVudGljYXRlZCBVc2Vycz1TLTEtNS0xMSwgQlVJTFRJTlxVc2Vycz1TLTEtNS0zMi01NDUsIEV2ZXJ5b25lPVMtMS0xLTAKY29uc3QgUEVSTUlTU0lWRV9TSURTID0gWycqUy0xLTUtMTEnLCAnKlMtMS01LTMyLTU0NScsICcqUy0xLTEtMCddOwoKLyoqIGljYWNscyDnmoTlj6/miafooYzlsIHoo4XvvIjnu5/kuIDotoXml7bkuI7pmpDol4/nqpflj6PvvInjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIGljYWNscyhhcmdzLCB0aW1lb3V0ID0gMzAwMDApIHsKICByZXR1cm4gc3Bhd25TeW5jKCdpY2FjbHMnLCBhcmdzLCB7IGVuY29kaW5nOiAndXRmOCcsIHRpbWVvdXQsIHdpbmRvd3NIaWRlOiB0cnVlIH0pOwp9CgovKioKICogaWNhY2xzIOi+k+WHuumHjOaYr+WQpui/mOaciSoq57un5om/5p2l55qE5p2D6ZmQKiogQUNF44CCCiAqCiAqIOW/hemhu+aOkumZpCBNYW5kYXRvcnkgTGFiZWwg6KGM77ya6YKj5LiN5piv5p2D6ZmQ77yM6ICM5LiUIERTSCDmspnnrrHmiZPov4cgTG93IOagh+etvuWQjuWug+awuOi/nOW4piAoSSnjgIIKICog55So5YWo5paHIGAvXChJXCkvYCDmiavmj4/kvJrmiorjgIzlt7LmlLbntKfjgI3liKTmiJDjgIzmnKrmlLbntKfjgI3vvIzov5vogIzorqnosIPnlKjmlrnlj43lpI3ph43ot5HnoLTlnY/mgKflkb3ku6TjgIIKICovCmV4cG9ydCBmdW5jdGlvbiBoYXNJbmhlcml0ZWRQZXJtaXNzaW9uQWNlKGljYWNsc091dHB1dCkgewogIHJldHVybiBTdHJpbmcoaWNhY2xzT3V0cHV0ID8/ICcnKQogICAgLnNwbGl0KC9ccj9cbi8pCiAgICAuZmlsdGVyKChsaW5lKSA9PiAhL01hbmRhdG9yeSBMYWJlbC9pLnRlc3QobGluZSkpCiAgICAuc29tZSgobGluZSkgPT4gL1woSVwpLy50ZXN0KGxpbmUpKTsKfQoKLyoqIOaYr+WQpui/mOacieacrOacuuS7u+aEj+eUqOaIt+WPr+ivu+eahOWuveadvuS4u+S9k+aOiOadg+OAgiAqLwpleHBvcnQgZnVuY3Rpb24gaGFzUGVybWlzc2l2ZVRydXN0ZWUoaWNhY2xzT3V0cHV0KSB7CiAgcmV0dXJuIC9BdXRoZW50aWNhdGVkIFVzZXJzfEJVSUxUSU5cXFVzZXJzfFxiRXZlcnlvbmVcYi9pLnRlc3QoU3RyaW5nKGljYWNsc091dHB1dCA/PyAnJykpOwp9CgovKioKICog55uu5qCH6Lev5b6E55qE5p2D6ZmQ5piv5ZCm5bey5pS257Sn77ya5pei5rKh5pyJ57un5om/5p2l55qE5p2D6ZmQIEFDRe+8jOS5n+ayoeacieWuveadvuS4u+S9k+OAggogKiBAcGFyYW0ge3N0cmluZ30gdGFyZ2V0IC0g55uu5b2V5oiW5paH5Lu26Lev5b6E44CCCiAqLwpleHBvcnQgZnVuY3Rpb24gaXNIYXJkZW5lZCh0YXJnZXQpIHsKICBpZiAocHJvY2Vzcy5wbGF0Zm9ybSAhPT0gJ3dpbjMyJykgewogICAgdHJ5IHsgcmV0dXJuIChmcy5zdGF0U3luYyh0YXJnZXQpLm1vZGUgJiAwbzA3NykgPT09IDA7IH0gY2F0Y2ggeyByZXR1cm4gZmFsc2U7IH0KICB9CiAgY29uc3QgcmVzID0gaWNhY2xzKFt0YXJnZXRdLCAxMDAwMCk7CiAgaWYgKHJlcy5lcnJvciB8fCByZXMuc3RhdHVzICE9PSAwKSByZXR1cm4gZmFsc2U7CiAgY29uc3Qgb3V0ID0gcmVzLnN0ZG91dCA/PyAnJzsKICByZXR1cm4gIWhhc0luaGVyaXRlZFBlcm1pc3Npb25BY2Uob3V0KSAmJiAhaGFzUGVybWlzc2l2ZVRydXN0ZWUob3V0KTsKfQoKLyoqCiAqIOaUtue0p+S4gOS4qioq55uu5b2VKirlj4rlhbbmlbTmo7XlrZDmoJHnmoTmnYPpmZDjgIIKICogQHBhcmFtIHtzdHJpbmd9IGRpciAtIOebruagh+ebruW9leOAggogKiBAcmV0dXJucyB7e29rOiBib29sZWFuLCBkZXRhaWw6IHN0cmluZ319CiAqLwpleHBvcnQgZnVuY3Rpb24gaGFyZGVuRGlyKGRpcikgewogIGlmIChwcm9jZXNzLnBsYXRmb3JtICE9PSAnd2luMzInKSB7CiAgICB0cnkgeyBmcy5jaG1vZFN5bmMoZGlyLCAwbzcwMCk7IHJldHVybiB7IG9rOiB0cnVlLCBkZXRhaWw6ICdjaG1vZCA3MDAnIH07IH0KICAgIGNhdGNoIChlcnJvcikgeyByZXR1cm4geyBvazogZmFsc2UsIGRldGFpbDogZXJyb3I/Lm1lc3NhZ2UgPz8gU3RyaW5nKGVycm9yKSB9OyB9CiAgfQogIGNvbnN0IHVzZXIgPSBwcm9jZXNzLmVudi5VU0VSTkFNRTsKICBpZiAoIXVzZXIpIHJldHVybiB7IG9rOiBmYWxzZSwgZGV0YWlsOiAn5peg5rOV56Gu5a6a5b2T5YmN55So5oi35ZCN77yIJVVTRVJOQU1FJSDkuLrnqbrvvIknIH07CiAgY29uc3Qgc3RlcHMgPSBbCiAgICBbZGlyLCAnL2luaGVyaXRhbmNlOnInLCAnL0MnLCAnL1EnXSwKICAgIFtkaXIsICcvcmVtb3ZlOmcnLCAuLi5QRVJNSVNTSVZFX1NJRFMsICcvVCcsICcvQycsICcvUSddLAogICAgW2RpciwgJy9UJywgJy9DJywgJy9RJywgJy9ncmFudCcsIGAke3VzZXJ9OkZgLCAnL2dyYW50JywgJ1NZU1RFTTpGJywgJy9ncmFudCcsICdBZG1pbmlzdHJhdG9yczpGJ10sCiAgICBbZGlyLCAnL1EnLCAnL2dyYW50JywgYCR7dXNlcn06KE9JKShDSSlGYCwgJy9ncmFudCcsICdTWVNURU06KE9JKShDSSlGJywgJy9ncmFudCcsICdBZG1pbmlzdHJhdG9yczooT0kpKENJKUYnXQogIF07CiAgZm9yIChjb25zdCBhcmdzIG9mIHN0ZXBzKSB7CiAgICBjb25zdCByZXMgPSBpY2FjbHMoYXJncyk7CiAgICBjb25zdCBvdXQgPSBgJHtyZXMuc3Rkb3V0ID8/ICcnfSR7cmVzLnN0ZGVyciA/PyAnJ31gOwogICAgaWYgKHJlcy5lcnJvcikgcmV0dXJuIHsgb2s6IGZhbHNlLCBkZXRhaWw6IHJlcy5lcnJvci5tZXNzYWdlIH07CiAgICAvLyAvQyDkvJrorqkgaWNhY2xzIOe7p+e7reWkhOeQhuWJqeS9meaWh+S7tuOAgeWNs+S9v+WFqOWksei0pemAgOWHuueggeS7jeaYryAw77yM5omA5Lul5b+F6aG755yL6L6T5Ye644CCCiAgICBpZiAoL2FjY2VzcyBpcyBkZW5pZWQvaS50ZXN0KG91dCkpIHsKICAgICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBkZXRhaWw6IG91dC5zcGxpdCgnXG4nKS5maWx0ZXIoQm9vbGVhbikuc2xpY2UoLTMpLmpvaW4oJyAvICcpIH07CiAgICB9CiAgfQogIC8vIOiHquajgO+8muWxnuS4u+W/hemhu+S7jeiDveivu+WIsOebruW9leWGheWuue+8iOmYsuatouaKiiBEQUNMIOa4heepuui/meenjSLmiJDlip8i55qE56C05Z2P77yJ44CCCiAgdHJ5IHsgZnMucmVhZGRpclN5bmMoZGlyKTsgfQogIGNhdGNoIChlcnJvcikgeyByZXR1cm4geyBvazogZmFsc2UsIGRldGFpbDogYOaUtue0p+WQjuebruW9leW3suS4jeWPr+ivu++8jOivt+ajgOafpSBBQ0zvvIgke2Vycm9yPy5tZXNzYWdlID8/IGVycm9yfe+8iWAgfTsgfQogIHJldHVybiB7IG9rOiB0cnVlLCBkZXRhaWw6ICdpY2FjbHMnIH07Cn0KCi8qKgogKiDmlLbntKfkuIDkuKoqKuaWh+S7tioq55qE5p2D6ZmQ77yI5Yet5o2u5paH5Lu255So77yb5paH5Lu25LiN6IO95bimIChPSSkoQ0kp77yJ44CCCiAqIEBwYXJhbSB7c3RyaW5nfSBmaWxlIC0g55uu5qCH5paH5Lu244CCCiAqIEByZXR1cm5zIHt7b2s6IGJvb2xlYW4sIGRldGFpbDogc3RyaW5nfX0KICovCmV4cG9ydCBmdW5jdGlvbiBoYXJkZW5GaWxlKGZpbGUpIHsKICBpZiAocHJvY2Vzcy5wbGF0Zm9ybSAhPT0gJ3dpbjMyJykgewogICAgdHJ5IHsgZnMuY2htb2RTeW5jKGZpbGUsIDBvNjAwKTsgcmV0dXJuIHsgb2s6IHRydWUsIGRldGFpbDogJ2NobW9kIDYwMCcgfTsgfQogICAgY2F0Y2ggKGVycm9yKSB7IHJldHVybiB7IG9rOiBmYWxzZSwgZGV0YWlsOiBlcnJvcj8ubWVzc2FnZSA/PyBTdHJpbmcoZXJyb3IpIH07IH0KICB9CiAgY29uc3QgdXNlciA9IHByb2Nlc3MuZW52LlVTRVJOQU1FOwogIGlmICghdXNlcikgcmV0dXJuIHsgb2s6IGZhbHNlLCBkZXRhaWw6ICfml6Dms5Xnoa7lrprlvZPliY3nlKjmiLflkI3vvIglVVNFUk5BTUUlIOS4uuepuu+8iScgfTsKICBjb25zdCByZXMgPSBpY2FjbHMoW2ZpbGUsICcvaW5oZXJpdGFuY2U6cicsCiAgICAnL2dyYW50OnInLCBgJHt1c2VyfTpGYCwgJy9ncmFudDpyJywgJ1NZU1RFTTpGJywgJy9ncmFudDpyJywgJ0FkbWluaXN0cmF0b3JzOkYnLCAnL0MnLCAnL1EnXSk7CiAgY29uc3Qgb3V0ID0gYCR7cmVzLnN0ZG91dCA/PyAnJ30ke3Jlcy5zdGRlcnIgPz8gJyd9YDsKICBpZiAocmVzLmVycm9yKSByZXR1cm4geyBvazogZmFsc2UsIGRldGFpbDogcmVzLmVycm9yLm1lc3NhZ2UgfTsKICBpZiAoL2FjY2VzcyBpcyBkZW5pZWQvaS50ZXN0KG91dCkpIHsKICAgIHJldHVybiB7IG9rOiBmYWxzZSwgZGV0YWlsOiBvdXQuc3BsaXQoJ1xuJykuZmlsdGVyKEJvb2xlYW4pLnNsaWNlKC0yKS5qb2luKCcgLyAnKSB9OwogIH0KICByZXR1cm4geyBvazogdHJ1ZSwgZGV0YWlsOiAnaWNhY2xzJyB9Owp9CgovKioKICog57uZ5Lq655yL55qE5omL5Yqo5pS257Sn5ZG95Luk77yI5aSx6LSl6ZmN57qn5pe25omT5Y2w77yJ44CCCiAqCiAqIOW/hemhu+aYryoq5a6J5YWoKirnmoTpgqPkuIDniYjvvJrmioogKE9JKShDSSkg5o6I5p2D5ZKMIC9UIOa3t+WcqOWQjOS4gOWPpemHjOS8muaKiuWtkOaWh+S7tiBEQUNMIOa4heepuuOAggogKi8KZXhwb3J0IGZ1bmN0aW9uIG1hbnVhbERpckNvbW1hbmQoZGlyKSB7CiAgaWYgKHByb2Nlc3MucGxhdGZvcm0gIT09ICd3aW4zMicpIHJldHVybiBgY2htb2QgLVIgZ28tcnd4ICIke2Rpcn0iYDsKICBjb25zdCBkID0gYCIke2Rpcn0iYDsKICByZXR1cm4gWwogICAgYGljYWNscyAke2R9IC9pbmhlcml0YW5jZTpyIC9DIC9RYCwKICAgIGBpY2FjbHMgJHtkfSAvcmVtb3ZlOmcgIipTLTEtNS0xMSIgIipTLTEtNS0zMi01NDUiICIqUy0xLTEtMCIgL1QgL0MgL1FgLAogICAgYGljYWNscyAke2R9IC9UIC9DIC9RIC9ncmFudCAiJVVTRVJOQU1FJTpGIiAvZ3JhbnQgIlNZU1RFTTpGIiAvZ3JhbnQgIkFkbWluaXN0cmF0b3JzOkYiYCwKICAgIGBpY2FjbHMgJHtkfSAvUSAvZ3JhbnQgIiVVU0VSTkFNRSU6KE9JKShDSSlGIiAvZ3JhbnQgIlNZU1RFTTooT0kpKENJKUYiIC9ncmFudCAiQWRtaW5pc3RyYXRvcnM6KE9JKShDSSlGImAKICBdLmpvaW4oJ1xuICAgICAgICAgICAgICcpOwp9Cg==
+// state/ 目录 ACL 收紧的**唯一实现**。
+//
+// 为什么单独成模块：这套逻辑原本在桥接进程（`src/bridge.js` 的 hardenStateDirAcl）和
+// 安装脚本（`scripts/harden-state-acl.mjs`）里各写了一份，两份带着**同一个** bug：
+//
+//   icacls DIR /inheritance:r /grant:r "u:(OI)(CI)F" /grant:r ... /T /C
+//
+// `(OI)(CI)` 是**目录专用**的继承标志。icacls 把它套到 `/T` 展开出来的**文件**上会失败，
+// 而同一句里的 `/inheritance:r` 已经把文件原有的继承 ACE 摘掉了 —— 净结果是**子文件
+// DACL 被清空，连属主自己都读不了**。实测后果：state/ 下 50 个子文件变成空 DACL，
+// 桥接读不到自己的控制台令牌（"Access to the path ... is denied"），而启动日志只报
+// 「未能收紧权限」，完全看不出已经造成了破坏。
+//
+// 第二个 bug 让第一个 bug 反复发生：回读自检用 `/\(I\)/.test(整段输出)` 判断「继承链是否
+// 断干净」。但 DSH 的 ACL 沙箱会把工作区（含 state/）标记为 Low 完整性，而
+// `Mandatory Label\Low Mandatory Level:(I)(OI)(CI)(NW)` 这一行**永远**带 (I) ——
+// 于是「已收紧」被误判成「未收紧」，**每次启动都重跑一遍那个破坏性命令**。
+//
+// 合并成一份实现，从结构上杜绝两份逻辑再次漂移。
+//
+// 正确顺序是四步，缺一不可：
+//   1. 目录上停止继承；
+//   2. 按 **SID** 删除宽松主体（不受系统显示语言影响）；
+//   3. 对**每一个**条目显式授权 —— 不带 (OI)(CI)，所以对文件同样有效；
+//   4. 给目录补一份可继承 ACE，让以后新建的文件自动拿到权限。
+// 最后自检由调用方按需做（{@link isHardened}）。
+
+import fs from 'node:fs';
+import { spawnSync } from 'node:child_process';
+
+// Authenticated Users=S-1-5-11, BUILTIN\Users=S-1-5-32-545, Everyone=S-1-1-0
+const PERMISSIVE_SIDS = ['*S-1-5-11', '*S-1-5-32-545', '*S-1-1-0'];
+
+/** icacls 的可执行封装（统一超时与隐藏窗口）。 */
+export function icacls(args, timeout = 30000) {
+  return spawnSync('icacls', args, { encoding: 'utf8', timeout, windowsHide: true });
+}
+
+/**
+ * icacls 输出里是否还有**继承来的权限** ACE。
+ *
+ * 必须排除 Mandatory Label 行：那不是权限，而且 DSH 沙箱打过 Low 标签后它永远带 (I)。
+ * 用全文 `/\(I\)/` 扫描会把「已收紧」判成「未收紧」，进而让调用方反复重跑破坏性命令。
+ */
+export function hasInheritedPermissionAce(icaclsOutput) {
+  return String(icaclsOutput ?? '')
+    .split(/\r?\n/)
+    .filter((line) => !/Mandatory Label/i.test(line))
+    .some((line) => /\(I\)/.test(line));
+}
+
+/** 是否还有本机任意用户可读的宽松主体授权。 */
+export function hasPermissiveTrustee(icaclsOutput) {
+  return /Authenticated Users|BUILTIN\\Users|\bEveryone\b/i.test(String(icaclsOutput ?? ''));
+}
+
+/**
+ * 目标路径的权限是否已收紧：既没有继承来的权限 ACE，也没有宽松主体。
+ * @param {string} target - 目录或文件路径。
+ */
+export function isHardened(target) {
+  if (process.platform !== 'win32') {
+    try { return (fs.statSync(target).mode & 0o077) === 0; } catch { return false; }
+  }
+  const res = icacls([target], 10000);
+  if (res.error || res.status !== 0) return false;
+  const out = res.stdout ?? '';
+  return !hasInheritedPermissionAce(out) && !hasPermissiveTrustee(out);
+}
+
+/**
+ * 收紧一个**目录**及其整棵子树的权限。
+ * @param {string} dir - 目标目录。
+ * @returns {{ok: boolean, detail: string}}
+ */
+export function hardenDir(dir) {
+  if (process.platform !== 'win32') {
+    try { fs.chmodSync(dir, 0o700); return { ok: true, detail: 'chmod 700' }; }
+    catch (error) { return { ok: false, detail: error?.message ?? String(error) }; }
+  }
+  const user = process.env.USERNAME;
+  if (!user) return { ok: false, detail: '无法确定当前用户名（%USERNAME% 为空）' };
+  const steps = [
+    [dir, '/inheritance:r', '/C', '/Q'],
+    [dir, '/remove:g', ...PERMISSIVE_SIDS, '/T', '/C', '/Q'],
+    [dir, '/T', '/C', '/Q', '/grant', `${user}:F`, '/grant', 'SYSTEM:F', '/grant', 'Administrators:F'],
+    [dir, '/Q', '/grant', `${user}:(OI)(CI)F`, '/grant', 'SYSTEM:(OI)(CI)F', '/grant', 'Administrators:(OI)(CI)F']
+  ];
+  for (const args of steps) {
+    const res = icacls(args);
+    const out = `${res.stdout ?? ''}${res.stderr ?? ''}`;
+    if (res.error) return { ok: false, detail: res.error.message };
+    // /C 会让 icacls 继续处理剩余文件、即使全失败退出码仍是 0，所以必须看输出。
+    if (/access is denied/i.test(out)) {
+      return { ok: false, detail: out.split('\n').filter(Boolean).slice(-3).join(' / ') };
+    }
+  }
+  // 自检：属主必须仍能读到目录内容（防止把 DACL 清空这种"成功"的破坏）。
+  try { fs.readdirSync(dir); }
+  catch (error) { return { ok: false, detail: `收紧后目录已不可读，请检查 ACL（${error?.message ?? error}）` }; }
+  return { ok: true, detail: 'icacls' };
+}
+
+/**
+ * 收紧一个**文件**的权限（凭据文件用；文件不能带 (OI)(CI)）。
+ * @param {string} file - 目标文件。
+ * @returns {{ok: boolean, detail: string}}
+ */
+export function hardenFile(file) {
+  if (process.platform !== 'win32') {
+    try { fs.chmodSync(file, 0o600); return { ok: true, detail: 'chmod 600' }; }
+    catch (error) { return { ok: false, detail: error?.message ?? String(error) }; }
+  }
+  const user = process.env.USERNAME;
+  if (!user) return { ok: false, detail: '无法确定当前用户名（%USERNAME% 为空）' };
+  const res = icacls([file, '/inheritance:r',
+    '/grant:r', `${user}:F`, '/grant:r', 'SYSTEM:F', '/grant:r', 'Administrators:F', '/C', '/Q']);
+  const out = `${res.stdout ?? ''}${res.stderr ?? ''}`;
+  if (res.error) return { ok: false, detail: res.error.message };
+  if (/access is denied/i.test(out)) {
+    return { ok: false, detail: out.split('\n').filter(Boolean).slice(-2).join(' / ') };
+  }
+  return { ok: true, detail: 'icacls' };
+}
+
+/**
+ * 给人看的手动收紧命令（失败降级时打印）。
+ *
+ * 必须是**安全**的那一版：把 (OI)(CI) 授权和 /T 混在同一句里会把子文件 DACL 清空。
+ */
+export function manualDirCommand(dir) {
+  if (process.platform !== 'win32') return `chmod -R go-rwx "${dir}"`;
+  const d = `"${dir}"`;
+  return [
+    `icacls ${d} /inheritance:r /C /Q`,
+    `icacls ${d} /remove:g "*S-1-5-11" "*S-1-5-32-545" "*S-1-1-0" /T /C /Q`,
+    `icacls ${d} /T /C /Q /grant "%USERNAME%:F" /grant "SYSTEM:F" /grant "Administrators:F"`,
+    `icacls ${d} /Q /grant "%USERNAME%:(OI)(CI)F" /grant "SYSTEM:(OI)(CI)F" /grant "Administrators:(OI)(CI)F"`
+  ].join('\n             ');
+}

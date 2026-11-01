@@ -1,1 +1,275 @@
-Ly8gRXhlcmNpc2UgTUNQIGNhbGxiYWNrcyB3aXRoIGEgZmFrZSB0cmFuc3BvcnQ6IG5vIG5ldHdvcmssIGNvbmZpZyBvciBzdGRpbyBzZXJ2ZXIuCmltcG9ydCBhc3NlcnQgZnJvbSAnbm9kZTphc3NlcnQvc3RyaWN0JzsKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgdm0gZnJvbSAnbm9kZTp2bSc7CmltcG9ydCB7IHRlc3QgfSBmcm9tICdub2RlOnRlc3QnOwppbXBvcnQgeyB6IH0gZnJvbSAnem9kJzsKCmZ1bmN0aW9uIGxvYWRXZWJUb29scyh7IHNhZmVGZXRjaCwgd2ViU2VhcmNoIH0pIHsKICBjb25zdCB0b29scyA9IG5ldyBNYXAoKTsKICBjb25zdCBzb3VyY2UgPSBmcy5yZWFkRmlsZVN5bmMobmV3IFVSTCgnLi4vc3JjL21jcC13ZWItc2VhcmNoLXNhZmUuanMnLCBpbXBvcnQubWV0YS51cmwpLCAndXRmOCcpCiAgICAucmVwbGFjZSgvXmltcG9ydCAuKjtccj9cbi9nbSwgJycpCiAgICAucmVwbGFjZSgnYXdhaXQgc2VydmVyLmNvbm5lY3QobmV3IFN0ZGlvU2VydmVyVHJhbnNwb3J0KCkpOycsICdzZXJ2ZXIuY29ubmVjdChuZXcgU3RkaW9TZXJ2ZXJUcmFuc3BvcnQoKSk7Jyk7CiAgY2xhc3MgTWNwU2VydmVyIHsKICAgIHRvb2wobmFtZSwgZGVzY3JpcHRpb24sIHNjaGVtYSwgY2FsbGJhY2spIHsgdG9vbHMuc2V0KG5hbWUsIHsgc2NoZW1hLCBjYWxsYmFjayB9KTsgfQogICAgY29ubmVjdCgpIHt9CiAgfQogIHZtLnJ1bkluTmV3Q29udGV4dChzb3VyY2UsIHsKICAgIHNhZmVGZXRjaCwKICAgIHdlYlNlYXJjaCwKICAgIE1jcFNlcnZlciwKICAgIFN0ZGlvU2VydmVyVHJhbnNwb3J0OiBjbGFzcyB7fSwKICAgIHosCiAgICBVUkwsCiAgICBwYXRoLAogICAgcHJvY2VzcywKICB9KTsKICByZXR1cm4gYXN5bmMgKG5hbWUsIGFyZ3VtZW50c18pID0+IHsKICAgIGNvbnN0IHRvb2wgPSB0b29scy5nZXQobmFtZSk7CiAgICByZXR1cm4gdG9vbC5jYWxsYmFjayh6Lm9iamVjdCh0b29sLnNjaGVtYSkucGFyc2UoYXJndW1lbnRzXykpOwogIH07Cn0KCnRlc3QoJ01DUCBzZWFyY2ggc2FuaXRpemVzIHRoZSBxdWVyeSBhbmQgZGVsZWdhdGVzIHRvIHRoZSBzaGFyZWQgd2ViLXNlYXJjaCBtb2R1bGUnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgY2FsbHMgPSBbXTsKICBjb25zdCBjYWxsVG9vbCA9IGxvYWRXZWJUb29scyh7CiAgICBzYWZlRmV0Y2g6IGFzeW5jICgpID0+IHsgYXNzZXJ0LmZhaWwoJ3dlYl9zZWFyY2gg5LiN5bqU57uV5byAIHdlYlNlYXJjaCgpIOebtOaOpeaKkyBCaW5nJyk7IH0sCiAgICB3ZWJTZWFyY2g6IGFzeW5jIChxdWVyeSwgb3B0aW9ucykgPT4gewogICAgICBjYWxscy5wdXNoKHsgcXVlcnksIG9wdGlvbnMgfSk7CiAgICAgIHJldHVybiB7IHF1ZXJ5LCBwcm92aWRlcjogJ2RlZXBzZWVrJywgcmVzdWx0czogW3sgdGl0bGU6ICdGaXh0dXJlIHRpdGxlJywgdXJsOiAnaHR0cHM6Ly9leGFtcGxlLmNvbS8nLCBzbmlwcGV0OiAnRml4dHVyZSBzdW1tYXJ5JyB9XSB9OwogICAgfQogIH0pOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGNhbGxUb29sKCd3ZWJfc2VhcmNoJywgeyBxdWVyeTogJyAgZml4dHVyZSBbQ1E6YXQscXE9MV1cbiBwaHJhc2UgICcgfSk7CiAgY29uc3QgcGFyc2VkID0gSlNPTi5wYXJzZShyZXN1bHQuY29udGVudFswXS50ZXh0KTsKICBhc3NlcnQuZXF1YWwocGFyc2VkLnF1ZXJ5LCAnZml4dHVyZSBwaHJhc2UnKTsKICBhc3NlcnQuZXF1YWwocGFyc2VkLnByb3ZpZGVyLCAnZGVlcHNlZWsnKTsKICBhc3NlcnQuZXF1YWwocGFyc2VkLnJlc3VsdHNbMF0udGl0bGUsICdGaXh0dXJlIHRpdGxlJyk7CiAgYXNzZXJ0LmVxdWFsKGNhbGxzLmxlbmd0aCwgMSk7CiAgYXNzZXJ0LmVxdWFsKGNhbGxzWzBdLnF1ZXJ5LCAnZml4dHVyZSBwaHJhc2UnLCAn5p+l6K+i6K+N5b+F6aG75YWI5riF5rSX5YaN5Lqk57uZ5pCc57Si5qih5Z2XJyk7CiAgYXNzZXJ0Lm9rKGNhbGxzWzBdLm9wdGlvbnM/LnJvb3QsICflv4Xpobvmiorpobnnm67moLnnm67lvZXkvKDnu5nmkJzntKLmqKHlnZfvvIjnlKjkuo7or7sgY29uZmlnLmpzb27vvIknKTsKfSk7Cgp0ZXN0KCdNQ1AgZmV0Y2ggdXNlcyBzaGFyZWQgdHJhbnNwb3J0IGFuZCBleHBvc2VzIHJlamVjdGlvbiBhcyBhIHRvb2wgZXJyb3InLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgY2FsbFRvb2wgPSBsb2FkV2ViVG9vbHMoewogICAgc2FmZUZldGNoOiBhc3luYyAoKSA9PiB7IHRocm93IG5ldyBFcnJvcignZml4dHVyZTogaW50ZXJuYWwgcmVkaXJlY3QgcmVqZWN0ZWQnKTsgfSwKICAgIHdlYlNlYXJjaDogYXN5bmMgKCkgPT4geyB0aHJvdyBuZXcgRXJyb3IoJ2ZpeHR1cmU6IGludGVybmFsIHJlZGlyZWN0IHJlamVjdGVkJyk7IH0sCiAgfSk7CiAgZm9yIChjb25zdCBbbmFtZSwgYXJnc10gb2YgW1snd2ViX2ZldGNoJywgeyB1cmw6ICdodHRwOi8vZXhhbXBsZS5jb20nIH1dLCBbJ3dlYl9zZWFyY2gnLCB7IHF1ZXJ5OiAnZml4dHVyZScgfV1dKSB7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBjYWxsVG9vbChuYW1lLCBhcmdzKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuaXNFcnJvciwgdHJ1ZSk7CiAgICBhc3NlcnQubWF0Y2gocmVzdWx0LmNvbnRlbnRbMF0udGV4dCwgL2ludGVybmFsIHJlZGlyZWN0IHJlamVjdGVkLyk7CiAgfQp9KTsKCnRlc3QoJ2VtcHR5IHNlYXJjaGVzIGFyZSByZWplY3RlZCB3aXRob3V0IGNhbGxpbmcgdGhlIHRyYW5zcG9ydCcsIGFzeW5jICgpID0+IHsKICBjb25zdCBjYWxsVG9vbCA9IGxvYWRXZWJUb29scyh7CiAgICBzYWZlRmV0Y2g6IGFzeW5jICgpID0+IHsgYXNzZXJ0LmZhaWwoJ1VuZXhwZWN0ZWQgdHJhbnNwb3J0IGNhbGwnKTsgfSwKICAgIHdlYlNlYXJjaDogYXN5bmMgKCkgPT4geyBhc3NlcnQuZmFpbCgnVW5leHBlY3RlZCBzZWFyY2ggY2FsbCcpOyB9LAogIH0pOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGNhbGxUb29sKCd3ZWJfc2VhcmNoJywgeyBxdWVyeTogJ1tDUTphdCxxcT0xXVxuICcgfSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5pc0Vycm9yLCB0cnVlKTsKfSk7CgovKioKICog55So5YGHIHRyYW5zcG9ydCDliqDovb0gbWNwLXNub3dsdW1hLXNhZmUuanPvvIzmi7/liLDlroPnmoTlt6Xlhbflm57osIPjgIIKICog5Y+q6ZyA6KaB5oqKIGZldGNo77yI5qGl5o6lIEFQSSAvIE9uZUJvdCBIVFRQ77yJ44CBaHR0cO+8iOmVv+i9ruivou+8ieOAgU1jcFNlcnZlcuOAgXpvZOOAgeS4pOS4quacrOWcsOe6r+aooeWdl+Whnui/m+S4iuS4i+aWh+OAggogKi8KZnVuY3Rpb24gbG9hZFNub3dsdW1hVG9vbHMoZmV0Y2hJbXBsLCBmaXh0dXJlQ29uZmlnID0gbnVsbCwgaHR0cEltcGwgPSBudWxsLCBmaXh0dXJlTW9kZSA9ICdjbG9zZWQtYWdlbnQnKSB7CiAgY29uc3QgdG9vbHMgPSBuZXcgTWFwKCk7CiAgLy8gdm0g6YeM5rKh5pyJIEVTTSDnmoQgaW1wb3J0Lm1ldGHvvIzmiormqKHlnZfpobbpg6jnmoQgX19kaXJuYW1lIOaOqOWvvOaVtOauteabv+aNouaIkOWbuuWumuWAvOOAggogIGNvbnN0IHNvdXJjZSA9IGZzLnJlYWRGaWxlU3luYyhuZXcgVVJMKCcuLi9zcmMvbWNwLXNub3dsdW1hLXNhZmUuanMnLCBpbXBvcnQubWV0YS51cmwpLCAndXRmOCcpCiAgICAucmVwbGFjZSgvXmltcG9ydCAuKjtccj9cbi9nbSwgJycpCiAgICAucmVwbGFjZSgiY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7IiwgImNvbnN0IF9fZGlybmFtZSA9ICcvZml4dHVyZS9zcmMnOyIpCiAgICAucmVwbGFjZSgnYXdhaXQgc2VydmVyLmNvbm5lY3QobmV3IFN0ZGlvU2VydmVyVHJhbnNwb3J0KCkpOycsICdzZXJ2ZXIuY29ubmVjdChuZXcgU3RkaW9TZXJ2ZXJUcmFuc3BvcnQoKSk7Jyk7CiAgY2xhc3MgTWNwU2VydmVyIHsKICAgIGNvbnN0cnVjdG9yKCkgeyB0aGlzLnRvb2wgPSAobmFtZSwgZGVzY3JpcHRpb24sIHNjaGVtYSwgY2FsbGJhY2spID0+IHRvb2xzLnNldChuYW1lLCB7IHNjaGVtYSwgY2FsbGJhY2sgfSk7IH0KICAgIGNvbm5lY3QoKSB7fQogIH0KICBjb25zdCBmaXh0dXJlRnMgPSBmaXh0dXJlQ29uZmlnID09PSBudWxsID8gZnMgOiB7CiAgICAuLi5mcywKICAgIHJlYWRGaWxlU3luYyhmaWxlLCAuLi5hcmdzKSB7CiAgICAgIGlmIChwYXRoLmJhc2VuYW1lKFN0cmluZyhmaWxlKSkgPT09ICdjb25maWcuanNvbicgJiYgU3RyaW5nKGZpbGUpLmluY2x1ZGVzKCdmaXh0dXJlJykpIHsKICAgICAgICByZXR1cm4gSlNPTi5zdHJpbmdpZnkoZml4dHVyZUNvbmZpZyk7CiAgICAgIH0KICAgICAgcmV0dXJuIGZzLnJlYWRGaWxlU3luYyhmaWxlLCAuLi5hcmdzKTsKICAgIH0sCiAgfTsKICAvLyDml6flj6ror7vlt6XlhbflnKgqKuazqOWGjOacnyoq5bCx5oyJ5qGl5o6l5qih5byP5pS25pWb77yI6KeBIG1jcC1zbm93bHVtYS1zYWZlLmpzIOmhtumDqOeahOivtOaYju+8ieOAggogIC8vIOazqOWGjOWPkeeUn+WcqOaooeWdl+WKoOi9veacn++8jOaJgOS7pei/memHjOW/hemhu+aKiiBzdGF0ZS9tb2RlLmpzb24g5Lmf5qGp5o6JIOKAlOKAlCDlkKbliJnmtYvor5XkvJrot5/nnYAKICAvLyDlvIDlj5HogIXmnKzmnLrlvZPliY3mqKHlvI/mvILnp7vvvIjmnKzmnLrluLjpqbsgcmVzZXJ2ZWQy77yM5Lya5oqK5pW05om55pen5bel5YW35pat6KiA5Y+Y5oiQIuayoeazqOWGjCLvvInjgIIKICBjb25zdCBtb2RlQXdhcmVGcyA9IHsKICAgIC4uLmZpeHR1cmVGcywKICAgIHJlYWRGaWxlU3luYyhmaWxlLCAuLi5hcmdzKSB7CiAgICAgIGlmIChwYXRoLmJhc2VuYW1lKFN0cmluZyhmaWxlKSkgPT09ICdtb2RlLmpzb24nKSByZXR1cm4gSlNPTi5zdHJpbmdpZnkoeyBtb2RlOiBmaXh0dXJlTW9kZSB9KTsKICAgICAgcmV0dXJuIGZpeHR1cmVGcy5yZWFkRmlsZVN5bmMoZmlsZSwgLi4uYXJncyk7CiAgICB9LAogIH07CiAgdm0ucnVuSW5OZXdDb250ZXh0KHNvdXJjZSwgewogICAgTWNwU2VydmVyLAogICAgU3RkaW9TZXJ2ZXJUcmFuc3BvcnQ6IGNsYXNzIHt9LAogICAgeiwKICAgIFVSTCwKICAgIFVSTFNlYXJjaFBhcmFtcywKICAgIGZldGNoOiBmZXRjaEltcGwsCiAgICBBYm9ydFNpZ25hbCwKICAgIGh0dHA6IGh0dHBJbXBsID8/IHsgcmVxdWVzdDogKCkgPT4geyB0aHJvdyBuZXcgRXJyb3IoJ3Rlc3QgZGlkIG5vdCBpbmplY3QgaHR0cCcpOyB9IH0sCiAgICBwcm9jZXNzLAogICAgc2V0VGltZW91dCwKICAgIGNsZWFyVGltZW91dCwKICAgIGNvbnNvbGUsCiAgICBCdWZmZXIsCiAgICBwYXRoLAogICAgZnM6IG1vZGVBd2FyZUZzLAogICAgU0VOU0lUSVZFX1JFOiB7IHRlc3Q6ICgpID0+IGZhbHNlIH0sCiAgICBzZXJpYWxpemVNb2RlbERhdGE6ICh2YWx1ZSkgPT4gSlNPTi5zdHJpbmdpZnkodmFsdWUpLAogIH0pOwogIGNvbnN0IGNhbGxUb29sID0gYXN5bmMgKG5hbWUsIGFyZ3VtZW50c18gPSB7fSkgPT4gewogICAgY29uc3QgdG9vbCA9IHRvb2xzLmdldChuYW1lKTsKICAgIGFzc2VydC5vayh0b29sLCBgdG9vbCAke25hbWV9IHNob3VsZCBiZSByZWdpc3RlcmVkYCk7CiAgICByZXR1cm4gdG9vbC5jYWxsYmFjayh6Lm9iamVjdCh0b29sLnNjaGVtYSkucGFyc2UoYXJndW1lbnRzXykpOwogIH07CiAgLyoqIOivpeaooeW8j+S4i+afkOW3peWFt+aYr+WQpuecn+eahOazqOWGjOi/m+S6hiBzY2hlbWHvvIjms6jlhozmnJ/mlLbmlZvnmoTmlq3oqIDlhaXlj6PvvInjgIIgKi8KICBjYWxsVG9vbC5oYXMgPSAobmFtZSkgPT4gdG9vbHMuaGFzKG5hbWUpOwogIHJldHVybiBjYWxsVG9vbDsKfQoKLy8g5Zue5b2S77yIaXNzdWUgIzI077yJ77yaYHFxX3dhaXRfZm9yX21lc3NhZ2VzYCDku6XliY3otbDlhajlsYAgZmV0Y2jvvIh1bmRpY2kg6Ieq5bimIDMwMHMgaGVhZGVyc1RpbWVvdXTvvInvvIwKLy8g6ICM5rKJ552h5YmN6KeC5a+f55qE6aKE566X5bCx5pivIDMwMHMg4oCU4oCUIOesrCAzMDEg56eS5b+F54S2IGBmZXRjaCBmYWlsZWRg77yM5qGl5o6l5L6n5Y206L+Y5Zyo6LeR5ruh6aKE566X5Y2g552ACi8vIGFjdGl2ZVdhaXRz77yMQUkg5Y+q6IO96YeN6K+V54OnIHRva2Vu44CC546w5Zyo5b+F6aG76LWwIG5vZGU6aHR0cCDplb/ova7or6LvvIjmsqHmnInpu5jorqTlk43lupTotoXml7bvvInjgIIKdGVzdCgncXFfd2FpdF9mb3JfbWVzc2FnZXMgdXNlcyB0aGUgbm9kZTpodHRwIGxvbmctcG9sbCBjaGFubmVsLCBub3QgZmV0Y2gnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgeyBFdmVudEVtaXR0ZXIgfSA9IGF3YWl0IGltcG9ydCgnbm9kZTpldmVudHMnKTsKICBjb25zdCB7IFBhc3NUaHJvdWdoIH0gPSBhd2FpdCBpbXBvcnQoJ25vZGU6c3RyZWFtJyk7CiAgbGV0IHJlcXVlc3RlZCA9IG51bGw7CiAgY29uc3QgZmFrZUh0dHAgPSB7CiAgICByZXF1ZXN0KG9wdGlvbnMsIGNhbGxiYWNrKSB7CiAgICAgIHJlcXVlc3RlZCA9IG9wdGlvbnM7CiAgICAgIGNvbnN0IHJlcSA9IG5ldyBFdmVudEVtaXR0ZXIoKTsKICAgICAgcmVxLmRlc3Ryb3kgPSAoKSA9PiB7fTsKICAgICAgcmVxLmVuZCA9IChib2R5KSA9PiB7CiAgICAgICAgcmVxdWVzdGVkLmJvZHkgPSBib2R5OwogICAgICAgIHF1ZXVlTWljcm90YXNrKCgpID0+IHsKICAgICAgICAgIGNvbnN0IHJlcyA9IG5ldyBQYXNzVGhyb3VnaCgpOwogICAgICAgICAgcmVzLnN0YXR1c0NvZGUgPSAyMDA7CiAgICAgICAgICByZXMuY29tcGxldGUgPSBmYWxzZTsKICAgICAgICAgIGNhbGxiYWNrKHJlcyk7CiAgICAgICAgICByZXMuZW5kKEpTT04uc3RyaW5naWZ5KHsgb2s6IHRydWUsIG5ld01lc3NhZ2VzOiBbXSwgcmVhZFRocm91Z2hTZXE6IDcgfSkpOwogICAgICAgIH0pOwogICAgICB9OwogICAgICByZXR1cm4gcmVxOwogICAgfQogIH07CiAgY29uc3QgY2FsbFRvb2wgPSBsb2FkU25vd2x1bWFUb29scygKICAgIGFzeW5jICgpID0+IHsgYXNzZXJ0LmZhaWwoJ3dhaXQg5LiN5b6X5YaN6LWwIGZldGNo77yI5Lya6KKrIHVuZGljaSDnmoQgMzAwcyBoZWFkZXJzVGltZW91dCDmjpDmlq3vvIknKTsgfSwKICAgIG51bGwsCiAgICBmYWtlSHR0cAogICk7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgY2FsbFRvb2woJ3FxX3dhaXRfZm9yX21lc3NhZ2VzJywgeyBrZXk6ICdncm91cDoxJywgdG9rZW46ICdmaXh0dXJlLXRva2VuJywgdGltZW91dE1zOiAzMDAwMDAsIHF1aWV0TXM6IDEwMDAwIH0pOwogIGFzc2VydC5ub3RFcXVhbChyZXN1bHQuaXNFcnJvciwgdHJ1ZSwgcmVzdWx0LmNvbnRlbnQ/LlswXT8udGV4dCk7CiAgYXNzZXJ0Lm9rKHJlcXVlc3RlZCwgJ+W/hemhu+ecn+eahOWPkei1tyBodHRwLnJlcXVlc3QnKTsKICBhc3NlcnQuZXF1YWwocmVxdWVzdGVkLnBhdGgsICcvYXBpL3NvY2lhbFYyL3dhaXQnKTsKICBhc3NlcnQuZXF1YWwocmVxdWVzdGVkLm1ldGhvZCwgJ1BPU1QnKTsKICBhc3NlcnQuZXF1YWwocmVxdWVzdGVkLmhvc3RuYW1lLCAnMTI3LjAuMC4xJyk7CiAgYXNzZXJ0Lm9rKE51bWJlcihyZXF1ZXN0ZWQucG9ydCkgPiAwLCAn5b+F6aG75omT5Yiw5o6n5Yi25Y+w56uv5Y+jJyk7CiAgYXNzZXJ0Lm1hdGNoKFN0cmluZyhyZXF1ZXN0ZWQuYm9keSksIC8idGltZW91dE1zIjozMDAwMDAvKTsKICBhc3NlcnQuZXF1YWwoSlNPTi5wYXJzZShyZXN1bHQuY29udGVudFswXS50ZXh0KS5yZWFkVGhyb3VnaFNlcSwgNywgJ+mVv+i9ruivouWTjeW6lOW/hemhu+WOn+agt+i/lOWbnue7meaooeWeiycpOwp9KTsKCi8vIOWbnuW9ku+8muahpeaOpeS4quWIq+WIhuaUr+S8muaKiiBlcnJvciDlm57miJAqKuWvueixoSoq44CC55u05o6lIGBuZXcgRXJyb3Iob2JqKWAg5Lya5Y+Y5oiQCi8vICJbb2JqZWN0IE9iamVjdF0i77yIcjMg55qE5bey55+l5pyq5L+u6aG56YeM5bCx5pyJ5LiA5p2h57q/5LiK6K6w5b2V77yacXFfd2FpdF9mb3JfbWVzc2FnZXMg5oqlCi8vIGBlcnJvcjogIlwiRXJyb3I6IFtvYmplY3QgT2JqZWN0XVwiImDvvInjgILlv4Xpobvluo/liJfljJbmiJDlj6/or7vmlofmnKzjgIIKdGVzdCgnb2JqZWN0LXNoYXBlZCBicmlkZ2UgZXJyb3JzIGFyZSByZW5kZXJlZCByZWFkYWJseSwgbm90IGFzIFtvYmplY3QgT2JqZWN0XScsIGFzeW5jICgpID0+IHsKICBjb25zdCBjYWxsVG9vbCA9IGxvYWRTbm93bHVtYVRvb2xzKGFzeW5jICgpID0+IFJlc3BvbnNlLmpzb24oCiAgICB7IG9rOiBmYWxzZSwgZXJyb3I6IHsgY29kZTogJ3NlbmQvcmVqZWN0ZWQnLCBtZXNzYWdlOiAn5raI5oGv5ZCr5pWP5oSf5L+h5oGv77yM5bey6Zi75q2i5Y+R6YCBJyB9IH0sCiAgICB7IHN0YXR1czogMjAwIH0sCiAgKSk7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgY2FsbFRvb2woJ3FxX3NlbmRfZ3JvdXBfbWVzc2FnZScsIHsgZ3JvdXBJZDogJzQ1NicsIG1lc3NhZ2U6ICdmaXh0dXJlJyB9KTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmlzRXJyb3IsIHRydWUpOwogIGNvbnN0IHRleHQgPSBTdHJpbmcocmVzdWx0LmNvbnRlbnRbMF0udGV4dCk7CiAgYXNzZXJ0Lm9rKCEvXFtvYmplY3QgT2JqZWN0XF0vLnRlc3QodGV4dCksIGDplJnor6/mlofmnKzkuI3lvpfmmK/kuI3lj6/or7vnmoTlr7nosaHvvJoke3RleHR9YCk7CiAgYXNzZXJ0Lm1hdGNoKHRleHQsIC9zZW5kXC9yZWplY3RlZHzpmLvmraLlj5HpgIEvLCBg5bqU5bim5Ye65a+56LGh6YeM55qE5Y6f5Zug77yaJHt0ZXh0fWApOwp9KTsKCi8vIOWbnuW9ku+8muahpeaOpeeUqCAyMDAgKyB7b2s6ZmFsc2V9IOihqOi+vuS4muWKoeWksei0pe+8iOS+i+WmguWPkemAgeiiq+WuieWFqOWuoeiuoeaLpuaIqu+8ieOAggovLyBhZ2VudEFwaSDoi6XkuI3mo4Dmn6UgYm9keS5va++8jOWwseS8muaKiuOAjOiiq+aLpuaIquOAjeW9k+aIkOOAjOWPkemAgeaIkOWKn+OAjeaKpee7meaooeWeiyDigJTigJQKLy8g5qih5Z6L5o2u5q2k6K6k5Li65raI5oGv5bey5Y+R5Ye677yM5pei5LiN5YaN6YeN6K+V5Lmf5LiN5ZGK6K+J55So5oi377yM5piv5YW45Z6L55qE6Z2Z6buY6ZSZ6K+v44CCCnRlc3QoJ2EgYnJpZGdlIDIwMCB3aXRoIG9rOmZhbHNlIGlzIHJlcG9ydGVkIHRvIHRoZSBtb2RlbCBhcyBhIGZhaWx1cmUnLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgY2FsbFRvb2wgPSBsb2FkU25vd2x1bWFUb29scyhhc3luYyAoKSA9PiBSZXNwb25zZS5qc29uKAogICAgeyBvazogZmFsc2UsIGVycm9yOiAn5raI5oGv5ZCr5pWP5oSf5L+h5oGv77yM5bey6Zi75q2i5Y+R6YCBJyB9LAogICAgeyBzdGF0dXM6IDIwMCB9LAogICkpOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGNhbGxUb29sKCdxcV9zZW5kX2dyb3VwX21lc3NhZ2UnLCB7IGdyb3VwSWQ6ICc0NTYnLCBtZXNzYWdlOiAnZml4dHVyZScgfSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5pc0Vycm9yLCB0cnVlLCAnb2s6ZmFsc2Ug5b+F6aG75L2c5Li65bel5YW36ZSZ6K+v6L+U5ZueJyk7CiAgYXNzZXJ0Lm1hdGNoKHJlc3VsdC5jb250ZW50WzBdLnRleHQsIC/pmLvmraLlj5HpgIEvKTsKfSk7CgovLyDlm57lvZLvvJrml6flj6ror7vlt6XlhbfmsqHmnInkvJror53ku6TniYzvvIzlj6rog73nlKjlnKjlsIHpl60gYWdlbnTvvIjnrqHnkIblkZjnp4HogYrvvInph4zjgIIKLy8g5qGl5o6l55qEIC9hcGkvc3RhdHVzIOWvueOAjOW4piBhZ2VudCDku6TniYzjgI3nmoTosIPnlKjov5Tlm57mnIDlsI/lr7nosaHvvIjkuI3lkKsgbW9kZSDlrZfmrrXvvInvvIwKLy8g5LqO5piv44CM55yL5YiwIHJlc2VydmVkMiDmiY3mi5Lnu53jgI3nmoTpu5HlkI3ljZXlhpnms5XkvJrliKTlrprkuLrlgYcg4oeSIOWcqOS6jOS7o+S7v+ecn+aooeW8j+S4i+aUvuihjO+8jAovLyDmiornmb3lkI3ljZXnvqTlkI3jgIHnvqTmiJDlkZjlkI3ljZXms6jlhaXmqKHlnovkuIrkuIvmlofjgIIKdGVzdCgnbGVnYWN5IHJlYWQgdG9vbHMgZmFpbCBjbG9zZWQgdW5sZXNzIHRoZSBicmlkZ2UgcmVwb3J0cyBjbG9zZWQtYWdlbnQnLCBhc3luYyAoKSA9PiB7CiAgLy8g5rOo5YaM5pyf5qih5byPID0gY2xvc2VkLWFnZW5077yI5bel5YW356Gu5a6e5a2Y5Zyo77yJ77yM6L+Q6KGM5pyf5qih5byP6KKr5o2i5o6JIOKGkiDlv4XpobsgZmFpbCBjbG9zZWTjgIIKICBmb3IgKGNvbnN0IHN0YXR1cyBvZiBbCiAgICB7IG1vZGU6ICdyZXNlcnZlZDInIH0sIHsgbW9kZTogJ2NoYXQnIH0sIHsgbW9kZTogJ3Jlc2VydmVkJyB9LAogICAge30sICAgICAgICAgICAgICAgICAgICAgICAvLyDml6AgbW9kZSDlrZfmrrXvvIjmoaXmjqXlr7kgYWdlbnQg5rWB6YeP6L+U5Zue55qE5pyA5bCP54q25oCB77yJCiAgXSkgewogICAgY29uc3QgY2FsbFRvb2wgPSBsb2FkU25vd2x1bWFUb29scyhhc3luYyAoKSA9PiBSZXNwb25zZS5qc29uKHN0YXR1cyksIG51bGwsIG51bGwsICdjbG9zZWQtYWdlbnQnKTsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGNhbGxUb29sKCdxcV9saXN0X2dyb3VwcycsIHt9KTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuaXNFcnJvciwgdHJ1ZSwgYG1vZGU9JHtzdGF0dXMubW9kZSA/PyAnKOe8uuWksSknfSDml7bml6flj6ror7vlt6Xlhbflv4Xpobvmi5Lnu51gKTsKICB9CiAgLy8g5Y+q5pyJ56Gu6K6k5pivIGNsb3NlZC1hZ2VudCDmiY3mlL7ooYwKICBjb25zdCBjYWxsVG9vbCA9IGxvYWRTbm93bHVtYVRvb2xzKGFzeW5jICh1cmwpID0+IHsKICAgIGlmIChTdHJpbmcodXJsKS5pbmNsdWRlcygnL2FwaS9zdGF0dXMnKSkgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyBtb2RlOiAnY2xvc2VkLWFnZW50JyB9KTsKICAgIHJldHVybiBSZXNwb25zZS5qc29uKHsgc3RhdHVzOiAnb2snLCByZXRjb2RlOiAwLCBkYXRhOiBbeyBncm91cF9pZDogNDU2LCBncm91cF9uYW1lOiAnZml4dHVyZScgfV0gfSk7CiAgfSwgbnVsbCwgbnVsbCwgJ2Nsb3NlZC1hZ2VudCcpOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGNhbGxUb29sKCdxcV9saXN0X2dyb3VwcycsIHt9KTsKICBhc3NlcnQubm90RXF1YWwocmVzdWx0LmlzRXJyb3IsIHRydWUsICdjbG9zZWQtYWdlbnQg5LiL5bqU5pS+6KGMJyk7Cn0pOwoKLy8g5paw5aKe77ya5pen5Y+q6K+75bel5YW35b+F6aG75ZyoKirms6jlhozmnJ8qKuWwseaMieahpeaOpeaooeW8j+aUtuaVm++8iOWPquW9seWTjSBzY2hlbWEg5oiQ5pys77yM5LiN5b2x5ZON5a6J5YWo6L6555WM77yJ44CCCi8vIOiDjOaZr++8muWunua1i+S4gOS7vSByZXNlcnZlZDIg5Lya6K+d55qE6K+35rGC5aS05pyJIDU4IOS4quW3peWFtyAvIDQ1LjUgS0Igc2NoZW1h77yM5YW25LitIDMg5Liq5pen5Y+q6K+75bel5YW3Ci8vIOW/heeEtiA0MDMg5Y2054Wn5qC35Y2g5L2N77yM6L+Y6K+x5a+85qih5Z6L6K+v6LCD77yIdHVybjEwIOi4qei/h+S4gOasoe+8ieOAggp0ZXN0KCdsZWdhY3kgcmVhZCB0b29scyBhcmUgbm90IHJlZ2lzdGVyZWQgYXQgYWxsIG91dHNpZGUgY2xvc2VkLWFnZW50JywgYXN5bmMgKCkgPT4gewogIGZvciAoY29uc3QgbW9kZSBvZiBbJ3Jlc2VydmVkMicsICdjaGF0JywgJ3Jlc2VydmVkJ10pIHsKICAgIGNvbnN0IGNhbGxUb29sID0gbG9hZFNub3dsdW1hVG9vbHMoYXN5bmMgKCkgPT4gUmVzcG9uc2UuanNvbih7IG1vZGUgfSksIG51bGwsIG51bGwsIG1vZGUpOwogICAgYXNzZXJ0LmVxdWFsKGNhbGxUb29sLmhhcygncXFfbGlzdF9ncm91cHMnKSwgZmFsc2UsIGAke21vZGV9IOS4i+S4jeivpeazqOWGjCBxcV9saXN0X2dyb3Vwc2ApOwogICAgYXNzZXJ0LmVxdWFsKGNhbGxUb29sLmhhcygncXFfZ2V0X2dyb3VwX2hpc3RvcnknKSwgZmFsc2UsIGAke21vZGV9IOS4i+S4jeivpeazqOWGjCBxcV9nZXRfZ3JvdXBfaGlzdG9yeWApOwogICAgLy8g5bim5Luk54mM55qEIHYyIOivu+W3peWFt+WcqOS7u+S9leaooeW8j+S4i+mDveivpeWcqAogICAgYXNzZXJ0LmVxdWFsKGNhbGxUb29sLmhhcygncXFfZ2V0X2dyb3VwX21lbWJlcnMnKSwgdHJ1ZSwgYCR7bW9kZX0g5LiLIHYyIOe+pOaIkOWRmOW3peWFt+W/hemhu+WPr+eUqGApOwogICAgYXNzZXJ0LmVxdWFsKGNhbGxUb29sLmhhcygncXFfZ2V0X2FjdGl2ZV9tZW1iZXJzJyksIHRydWUpOwogIH0KICBjb25zdCBjbG9zZWQgPSBsb2FkU25vd2x1bWFUb29scyhhc3luYyAoKSA9PiBSZXNwb25zZS5qc29uKHsgbW9kZTogJ2Nsb3NlZC1hZ2VudCcgfSksIG51bGwsIG51bGwsICdjbG9zZWQtYWdlbnQnKTsKICBhc3NlcnQuZXF1YWwoY2xvc2VkLmhhcygncXFfbGlzdF9ncm91cHMnKSwgdHJ1ZSwgJ2Nsb3NlZC1hZ2VudCDkuIvml6flj6ror7vlt6Xlhbflv4XpobvlrZjlnKgnKTsKfSk7CgovLyDmi5Lnu53ml7bnu53kuI3og73mioogY29uZmlnLmpzb24g55qE576k55m95ZCN5Y2V5Zue5ZCQ57uZ5qih5Z6L44CCCi8vIOimhuebluS4pOadoei3r++8mnYyIOe+pOaIkOWRmOW3peWFt++8iOahpeaOpSA0MDPvvInkuI7ml6flj6ror7vljoblj7Llt6XlhbfvvIhjbG9zZWQtYWdlbnQg5LiL5omN5rOo5YaM77yJ44CCCnRlc3QoJ2RlbmllZCBncm91cCByZWFkcyBuZXZlciByZXZlYWwgdGhlIGdyb3VwIGFsbG93bGlzdCcsIGFzeW5jICgpID0+IHsKICBjb25zdCBmaXh0dXJlQ29uZmlnID0geyBhbGxvdzogeyBncm91cHM6IFsnMTExMTExJywgJzIyMjIyMiddIH0gfTsKICBmb3IgKGNvbnN0IG1vZGUgb2YgWydyZXNlcnZlZDInLCAnY2xvc2VkLWFnZW50J10pIHsKICAgIGNvbnN0IGNhbGxzID0gW107CiAgICBjb25zdCBjYWxsVG9vbCA9IGxvYWRTbm93bHVtYVRvb2xzKGFzeW5jICh1cmwpID0+IHsKICAgICAgY2FsbHMucHVzaChTdHJpbmcodXJsKSk7CiAgICAgIGlmIChTdHJpbmcodXJsKS5pbmNsdWRlcygnL2FwaS9zdGF0dXMnKSkgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyBtb2RlIH0pOwogICAgICAvLyB2MiDnvqTmiJDlkZjnq6/ngrnvvJrotormnYPml7blj6rlm57kuIDlj6XpgJrnlKjmi5Lnu53vvIzkuI3luKbnmb3lkI3ljZUKICAgICAgaWYgKFN0cmluZyh1cmwpLmluY2x1ZGVzKCcvYXBpL3NvY2lhbFYyL2dyb3VwLW1lbWJlcnMnKSkgewogICAgICAgIHJldHVybiBSZXNwb25zZS5qc29uKHsgb2s6IGZhbHNlLCBlcnJvcjogJ+ebruagh+S4jeWcqOW9k+WJjeaooeW8j+WFgeiuuOiMg+WbtOWGhScgfSwgeyBzdGF0dXM6IDQwMyB9KTsKICAgICAgfQogICAgICBhc3NlcnQuZmFpbCgnZGVuaWVkIGdyb3VwIHJlYWQgbXVzdCBub3QgY2FsbCBPbmVCb3QnKTsKICAgIH0sIGZpeHR1cmVDb25maWcsIG51bGwsIG1vZGUpOwoKICAgIGNvbnN0IHYyID0gYXdhaXQgY2FsbFRvb2woJ3FxX2dldF9ncm91cF9tZW1iZXJzJywgeyBrZXk6ICdncm91cDo5OTk5OTknLCB0b2tlbjogJ2ZpeHR1cmUtYWdlbnQtdG9rZW4nIH0pOwogICAgYXNzZXJ0LmVxdWFsKHYyLmlzRXJyb3IsIHRydWUsIGB2MiDnvqTmiJDlkZjlt6XlhbflnKggJHttb2RlfSDkuIvlv4XpobvlpLHotKVgKTsKICAgIGFzc2VydC5kb2VzTm90TWF0Y2godjIuY29udGVudFswXS50ZXh0LCAvMTExMTExfDIyMjIyMi8pOwoKICAgIGlmIChtb2RlID09PSAnY2xvc2VkLWFnZW50JykgewogICAgICBjb25zdCBsZWdhY3kgPSBhd2FpdCBjYWxsVG9vbCgncXFfZ2V0X2dyb3VwX2hpc3RvcnknLCB7IGdyb3VwSWQ6ICc5OTk5OTknIH0pOwogICAgICBhc3NlcnQuZXF1YWwobGVnYWN5LmlzRXJyb3IsIHRydWUsICdjbG9zZWQtYWdlbnQg5LiL6Z2e55m95ZCN5Y2V576k5b+F6aG75ouS57udJyk7CiAgICAgIGFzc2VydC5kb2VzTm90TWF0Y2gobGVnYWN5LmNvbnRlbnRbMF0udGV4dCwgLzExMTExMXwyMjIyMjIvKTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIHJlc2VydmVkMiDkuIvml6flj6ror7vlt6XlhbfmoLnmnKzmsqHms6jlhozvvJrov54i6KKr5ouS57udIueahOacuuS8mumDveS4jee7mQogICAgICBhc3NlcnQuZXF1YWwoY2FsbFRvb2wuaGFzKCdxcV9nZXRfZ3JvdXBfaGlzdG9yeScpLCBmYWxzZSk7CiAgICB9CiAgICBhc3NlcnQub2soY2FsbHMubGVuZ3RoID49IDEsICflupTlvZPlj6rnu4/ov4fmoaXmjqXnmoTpibTmnYMv5ouS57ud6Lev5b6EJyk7CiAgfQp9KTsK
+// Exercise MCP callbacks with a fake transport: no network, config or stdio server.
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import vm from 'node:vm';
+import { test } from 'node:test';
+import { z } from 'zod';
+
+function loadWebTools({ safeFetch, webSearch }) {
+  const tools = new Map();
+  const source = fs.readFileSync(new URL('../src/mcp-web-search-safe.js', import.meta.url), 'utf8')
+    .replace(/^import .*;\r?\n/gm, '')
+    .replace('await server.connect(new StdioServerTransport());', 'server.connect(new StdioServerTransport());');
+  class McpServer {
+    tool(name, description, schema, callback) { tools.set(name, { schema, callback }); }
+    connect() {}
+  }
+  vm.runInNewContext(source, {
+    safeFetch,
+    webSearch,
+    McpServer,
+    StdioServerTransport: class {},
+    z,
+    URL,
+    path,
+    process,
+  });
+  return async (name, arguments_) => {
+    const tool = tools.get(name);
+    return tool.callback(z.object(tool.schema).parse(arguments_));
+  };
+}
+
+test('MCP search sanitizes the query and delegates to the shared web-search module', async () => {
+  const calls = [];
+  const callTool = loadWebTools({
+    safeFetch: async () => { assert.fail('web_search 不应绕开 webSearch() 直接抓 Bing'); },
+    webSearch: async (query, options) => {
+      calls.push({ query, options });
+      return { query, provider: 'deepseek', results: [{ title: 'Fixture title', url: 'https://example.com/', snippet: 'Fixture summary' }] };
+    }
+  });
+  const result = await callTool('web_search', { query: '  fixture [CQ:at,qq=1]\n phrase  ' });
+  const parsed = JSON.parse(result.content[0].text);
+  assert.equal(parsed.query, 'fixture phrase');
+  assert.equal(parsed.provider, 'deepseek');
+  assert.equal(parsed.results[0].title, 'Fixture title');
+  assert.equal(calls.length, 1);
+  assert.equal(calls[0].query, 'fixture phrase', '查询词必须先清洗再交给搜索模块');
+  assert.ok(calls[0].options?.root, '必须把项目根目录传给搜索模块（用于读 config.json）');
+});
+
+test('MCP fetch uses shared transport and exposes rejection as a tool error', async () => {
+  const callTool = loadWebTools({
+    safeFetch: async () => { throw new Error('fixture: internal redirect rejected'); },
+    webSearch: async () => { throw new Error('fixture: internal redirect rejected'); },
+  });
+  for (const [name, args] of [['web_fetch', { url: 'http://example.com' }], ['web_search', { query: 'fixture' }]]) {
+    const result = await callTool(name, args);
+    assert.equal(result.isError, true);
+    assert.match(result.content[0].text, /internal redirect rejected/);
+  }
+});
+
+test('empty searches are rejected without calling the transport', async () => {
+  const callTool = loadWebTools({
+    safeFetch: async () => { assert.fail('Unexpected transport call'); },
+    webSearch: async () => { assert.fail('Unexpected search call'); },
+  });
+  const result = await callTool('web_search', { query: '[CQ:at,qq=1]\n ' });
+  assert.equal(result.isError, true);
+});
+
+/**
+ * 用假 transport 加载 mcp-snowluma-safe.js，拿到它的工具回调。
+ * 只需要把 fetch（桥接 API / OneBot HTTP）、http（长轮询）、McpServer、zod、两个本地纯模块塞进上下文。
+ */
+function loadSnowlumaTools(fetchImpl, fixtureConfig = null, httpImpl = null, fixtureMode = 'closed-agent') {
+  const tools = new Map();
+  // vm 里没有 ESM 的 import.meta，把模块顶部的 __dirname 推导整段替换成固定值。
+  const source = fs.readFileSync(new URL('../src/mcp-snowluma-safe.js', import.meta.url), 'utf8')
+    .replace(/^import .*;\r?\n/gm, '')
+    .replace("const __dirname = path.dirname(fileURLToPath(import.meta.url));", "const __dirname = '/fixture/src';")
+    .replace('await server.connect(new StdioServerTransport());', 'server.connect(new StdioServerTransport());');
+  class McpServer {
+    constructor() { this.tool = (name, description, schema, callback) => tools.set(name, { schema, callback }); }
+    connect() {}
+  }
+  const fixtureFs = fixtureConfig === null ? fs : {
+    ...fs,
+    readFileSync(file, ...args) {
+      if (path.basename(String(file)) === 'config.json' && String(file).includes('fixture')) {
+        return JSON.stringify(fixtureConfig);
+      }
+      return fs.readFileSync(file, ...args);
+    },
+  };
+  // 旧只读工具在**注册期**就按桥接模式收敛（见 mcp-snowluma-safe.js 顶部的说明）。
+  // 注册发生在模块加载期，所以这里必须把 state/mode.json 也桩掉 —— 否则测试会跟着
+  // 开发者本机当前模式漂移（本机常驻 reserved2，会把整批旧工具断言变成"没注册"）。
+  const modeAwareFs = {
+    ...fixtureFs,
+    readFileSync(file, ...args) {
+      if (path.basename(String(file)) === 'mode.json') return JSON.stringify({ mode: fixtureMode });
+      return fixtureFs.readFileSync(file, ...args);
+    },
+  };
+  vm.runInNewContext(source, {
+    McpServer,
+    StdioServerTransport: class {},
+    z,
+    URL,
+    URLSearchParams,
+    fetch: fetchImpl,
+    AbortSignal,
+    http: httpImpl ?? { request: () => { throw new Error('test did not inject http'); } },
+    process,
+    setTimeout,
+    clearTimeout,
+    console,
+    Buffer,
+    path,
+    fs: modeAwareFs,
+    SENSITIVE_RE: { test: () => false },
+    serializeModelData: (value) => JSON.stringify(value),
+  });
+  const callTool = async (name, arguments_ = {}) => {
+    const tool = tools.get(name);
+    assert.ok(tool, `tool ${name} should be registered`);
+    return tool.callback(z.object(tool.schema).parse(arguments_));
+  };
+  /** 该模式下某工具是否真的注册进了 schema（注册期收敛的断言入口）。 */
+  callTool.has = (name) => tools.has(name);
+  return callTool;
+}
+
+// 回归（issue #24）：`qq_wait_for_messages` 以前走全局 fetch（undici 自带 300s headersTimeout），
+// 而沉睡前观察的预算就是 300s —— 第 301 秒必然 `fetch failed`，桥接侧却还在跑满预算占着
+// activeWaits，AI 只能重试烧 token。现在必须走 node:http 长轮询（没有默认响应超时）。
+test('qq_wait_for_messages uses the node:http long-poll channel, not fetch', async () => {
+  const { EventEmitter } = await import('node:events');
+  const { PassThrough } = await import('node:stream');
+  let requested = null;
+  const fakeHttp = {
+    request(options, callback) {
+      requested = options;
+      const req = new EventEmitter();
+      req.destroy = () => {};
+      req.end = (body) => {
+        requested.body = body;
+        queueMicrotask(() => {
+          const res = new PassThrough();
+          res.statusCode = 200;
+          res.complete = false;
+          callback(res);
+          res.end(JSON.stringify({ ok: true, newMessages: [], readThroughSeq: 7 }));
+        });
+      };
+      return req;
+    }
+  };
+  const callTool = loadSnowlumaTools(
+    async () => { assert.fail('wait 不得再走 fetch（会被 undici 的 300s headersTimeout 掐断）'); },
+    null,
+    fakeHttp
+  );
+  const result = await callTool('qq_wait_for_messages', { key: 'group:1', token: 'fixture-token', timeoutMs: 300000, quietMs: 10000 });
+  assert.notEqual(result.isError, true, result.content?.[0]?.text);
+  assert.ok(requested, '必须真的发起 http.request');
+  assert.equal(requested.path, '/api/socialV2/wait');
+  assert.equal(requested.method, 'POST');
+  assert.equal(requested.hostname, '127.0.0.1');
+  assert.ok(Number(requested.port) > 0, '必须打到控制台端口');
+  assert.match(String(requested.body), /"timeoutMs":300000/);
+  assert.equal(JSON.parse(result.content[0].text).readThroughSeq, 7, '长轮询响应必须原样返回给模型');
+});
+
+// 回归：桥接个别分支会把 error 回成**对象**。直接 `new Error(obj)` 会变成
+// "[object Object]"（r3 的已知未修项里就有一条线上记录：qq_wait_for_messages 报
+// `error: "\"Error: [object Object]\""`）。必须序列化成可读文本。
+test('object-shaped bridge errors are rendered readably, not as [object Object]', async () => {
+  const callTool = loadSnowlumaTools(async () => Response.json(
+    { ok: false, error: { code: 'send/rejected', message: '消息含敏感信息，已阻止发送' } },
+    { status: 200 },
+  ));
+  const result = await callTool('qq_send_group_message', { groupId: '456', message: 'fixture' });
+  assert.equal(result.isError, true);
+  const text = String(result.content[0].text);
+  assert.ok(!/\[object Object\]/.test(text), `错误文本不得是不可读的对象：${text}`);
+  assert.match(text, /send\/rejected|阻止发送/, `应带出对象里的原因：${text}`);
+});
+
+// 回归：桥接用 200 + {ok:false} 表达业务失败（例如发送被安全审计拦截）。
+// agentApi 若不检查 body.ok，就会把「被拦截」当成「发送成功」报给模型 ——
+// 模型据此认为消息已发出，既不再重试也不告诉用户，是典型的静默错误。
+test('a bridge 200 with ok:false is reported to the model as a failure', async () => {
+  const callTool = loadSnowlumaTools(async () => Response.json(
+    { ok: false, error: '消息含敏感信息，已阻止发送' },
+    { status: 200 },
+  ));
+  const result = await callTool('qq_send_group_message', { groupId: '456', message: 'fixture' });
+  assert.equal(result.isError, true, 'ok:false 必须作为工具错误返回');
+  assert.match(result.content[0].text, /阻止发送/);
+});
+
+// 回归：旧只读工具没有会话令牌，只能用在封闭 agent（管理员私聊）里。
+// 桥接的 /api/status 对「带 agent 令牌」的调用返回最小对象（不含 mode 字段），
+// 于是「看到 reserved2 才拒绝」的黑名单写法会判定为假 ⇒ 在二代仿真模式下放行，
+// 把白名单群名、群成员名单注入模型上下文。
+test('legacy read tools fail closed unless the bridge reports closed-agent', async () => {
+  // 注册期模式 = closed-agent（工具确实存在），运行期模式被换掉 → 必须 fail closed。
+  for (const status of [
+    { mode: 'reserved2' }, { mode: 'chat' }, { mode: 'reserved' },
+    {},                       // 无 mode 字段（桥接对 agent 流量返回的最小状态）
+  ]) {
+    const callTool = loadSnowlumaTools(async () => Response.json(status), null, null, 'closed-agent');
+    const result = await callTool('qq_list_groups', {});
+    assert.equal(result.isError, true, `mode=${status.mode ?? '(缺失)'} 时旧只读工具必须拒绝`);
+  }
+  // 只有确认是 closed-agent 才放行
+  const callTool = loadSnowlumaTools(async (url) => {
+    if (String(url).includes('/api/status')) return Response.json({ mode: 'closed-agent' });
+    return Response.json({ status: 'ok', retcode: 0, data: [{ group_id: 456, group_name: 'fixture' }] });
+  }, null, null, 'closed-agent');
+  const result = await callTool('qq_list_groups', {});
+  assert.notEqual(result.isError, true, 'closed-agent 下应放行');
+});
+
+// 新增：旧只读工具必须在**注册期**就按桥接模式收敛（只影响 schema 成本，不影响安全边界）。
+// 背景：实测一份 reserved2 会话的请求头有 58 个工具 / 45.5 KB schema，其中 3 个旧只读工具
+// 必然 403 却照样占位，还诱导模型误调（turn10 踩过一次）。
+test('legacy read tools are not registered at all outside closed-agent', async () => {
+  for (const mode of ['reserved2', 'chat', 'reserved']) {
+    const callTool = loadSnowlumaTools(async () => Response.json({ mode }), null, null, mode);
+    assert.equal(callTool.has('qq_list_groups'), false, `${mode} 下不该注册 qq_list_groups`);
+    assert.equal(callTool.has('qq_get_group_history'), false, `${mode} 下不该注册 qq_get_group_history`);
+    // 带令牌的 v2 读工具在任何模式下都该在
+    assert.equal(callTool.has('qq_get_group_members'), true, `${mode} 下 v2 群成员工具必须可用`);
+    assert.equal(callTool.has('qq_get_active_members'), true);
+  }
+  const closed = loadSnowlumaTools(async () => Response.json({ mode: 'closed-agent' }), null, null, 'closed-agent');
+  assert.equal(closed.has('qq_list_groups'), true, 'closed-agent 下旧只读工具必须存在');
+});
+
+// 拒绝时绝不能把 config.json 的群白名单回吐给模型。
+// 覆盖两条路：v2 群成员工具（桥接 403）与旧只读历史工具（closed-agent 下才注册）。
+test('denied group reads never reveal the group allowlist', async () => {
+  const fixtureConfig = { allow: { groups: ['111111', '222222'] } };
+  for (const mode of ['reserved2', 'closed-agent']) {
+    const calls = [];
+    const callTool = loadSnowlumaTools(async (url) => {
+      calls.push(String(url));
+      if (String(url).includes('/api/status')) return Response.json({ mode });
+      // v2 群成员端点：越权时只回一句通用拒绝，不带白名单
+      if (String(url).includes('/api/socialV2/group-members')) {
+        return Response.json({ ok: false, error: '目标不在当前模式允许范围内' }, { status: 403 });
+      }
+      assert.fail('denied group read must not call OneBot');
+    }, fixtureConfig, null, mode);
+
+    const v2 = await callTool('qq_get_group_members', { key: 'group:999999', token: 'fixture-agent-token' });
+    assert.equal(v2.isError, true, `v2 群成员工具在 ${mode} 下必须失败`);
+    assert.doesNotMatch(v2.content[0].text, /111111|222222/);
+
+    if (mode === 'closed-agent') {
+      const legacy = await callTool('qq_get_group_history', { groupId: '999999' });
+      assert.equal(legacy.isError, true, 'closed-agent 下非白名单群必须拒绝');
+      assert.doesNotMatch(legacy.content[0].text, /111111|222222/);
+    } else {
+      // reserved2 下旧只读工具根本没注册：连"被拒绝"的机会都不给
+      assert.equal(callTool.has('qq_get_group_history'), false);
+    }
+    assert.ok(calls.length >= 1, '应当只经过桥接的鉴权/拒绝路径');
+  }
+});

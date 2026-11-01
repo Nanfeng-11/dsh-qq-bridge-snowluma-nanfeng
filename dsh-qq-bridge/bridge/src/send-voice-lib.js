@@ -1,1 +1,30 @@
-Ly8g6K+t6Z+z5Y+R6YCB5YWx5Lqr5bqTIOKAlOKAlCDoloTovazlj5HlsYLvvIjllK/kuIDlrp7njrDlnKggdm9pY2UtY29yZS5qc++8ieOAggovLwovLyDkuLrku4DkuYjkv53nlZnov5nkuKrmlofku7bvvJpzcmMvYnJpZGdlLmpzIOS4juiLpeW5sua1i+ivlemDvSBpbXBvcnQg5a6D44CC6K6p5ZCE5qih5Z2XKirlhbHnlKjlkIzkuIDku70qKgovLyDpn7PpopHop6PmnpDkuI4gZmZwcm9iZSDmjqLmtYvpgLvovpHvvIzpgb/lhY0i5Lik5Lu95a6e546w5ZCE6Ieq5ryU5YyWIuKAlOKAlOmCo+ato+aYr+ihjOS4uua8guenu+eahOmrmOWPkeWMuuOAggovLyDni6znq4vlt6XlhbfvvIjkuIrnuqcgdm9pY2UtdG9vbC8g6YeM55qEIHZvaWNlLWd1aS5tanMg5LiOIHZvaWNlLWNsaS5tanPvvInnu48KLy8gYC4uL3FxLWJyaWRnZS9zcmMvdm9pY2UtY29yZS5qc2Ag5byV5ZCM5LiA5Lu95a6e546w77yM5ZCM5qC35LiN5aSN5Yi25Luj56CB44CCCmV4cG9ydCB7CiAgQVVESU9fRVhUUywKICBERUZBVUxUX01BWF9CWVRFUywKICBERUZBVUxUX01BWF9TRUNPTkRTLAogIGlzQXVkaW9GaWxlLAogIGZvcm1hdEJ5dGVzLAogIGZvcm1hdER1cmF0aW9uLAogIGxpc3RBdWRpb0ZpbGVzLAogIHJlc29sdmVBdWRpb1NvdXJjZSwKICBzYWZlSm9pbkxpYnJhcnksCiAgcHJvYmVBdWRpbywKICBpbnNwZWN0QXVkaW8sCiAgZGVzY3JpYmVBdWRpbywKICBwYXJzZVRhcmdldEtleSwKICBzYW5pdGl6ZVVwbG9hZE5hbWUsCiAgdW5pcXVlTGlicmFyeVBhdGgsCiAgVk9MVU1FX01JTiwKICBWT0xVTUVfTUFYLAogIExPVURORVNTX1RBUkdFVFMsCiAgcmVzb2x2ZUF1ZGlvUHJvY2Vzc2luZywKICByZXNvbHZlRmZtcGVnLAogIHByb2Nlc3NBdWRpb1ZvbHVtZSwKICBjbGVhbnVwVGVtcAp9IGZyb20gJy4vdm9pY2UtY29yZS5qcyc7
+// 语音发送共享库 —— 薄转发层（唯一实现在 voice-core.js）。
+//
+// 为什么保留这个文件：src/bridge.js 与若干测试都 import 它。让各模块**共用同一份**
+// 音频解析与 ffprobe 探测逻辑，避免"两份实现各自演化"——那正是行为漂移的高发区。
+// 独立工具（上级 voice-tool/ 里的 voice-gui.mjs 与 voice-cli.mjs）经
+// `../qq-bridge/src/voice-core.js` 引同一份实现，同样不复制代码。
+export {
+  AUDIO_EXTS,
+  DEFAULT_MAX_BYTES,
+  DEFAULT_MAX_SECONDS,
+  isAudioFile,
+  formatBytes,
+  formatDuration,
+  listAudioFiles,
+  resolveAudioSource,
+  safeJoinLibrary,
+  probeAudio,
+  inspectAudio,
+  describeAudio,
+  parseTargetKey,
+  sanitizeUploadName,
+  uniqueLibraryPath,
+  VOLUME_MIN,
+  VOLUME_MAX,
+  LOUDNESS_TARGETS,
+  resolveAudioProcessing,
+  resolveFfmpeg,
+  processAudioVolume,
+  cleanupTemp
+} from './voice-core.js';

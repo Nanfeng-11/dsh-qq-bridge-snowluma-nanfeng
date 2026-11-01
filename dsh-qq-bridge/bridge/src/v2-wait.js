@@ -1,1 +1,27 @@
-Ly8g5LqM5Luj5Lu/55yf5qih5byP77ya562J5b6FL+e7k+adn+WbnuWQiOebuOWFs+eahOi9u+mHj+WIpOaWreW3peWFt+OAggovLyDov5nkupvmmK/igJzmj5DnpLov6L2v5L+h5Y+34oCd77yM5LiN5piv56Gs6KeE5YiZ77yb5pyA57uI5piv5ZCm562J5b6F44CB5piv5ZCm5Y+R5YKs6K+d5LuN55SxIEFJIOiHquS4u+WGs+WumuOAggoKLy8g5bi46KeB4oCc6K+d6K+05LiA5Y2KL+ayoeivtOWujOKAneeahOe7k+WwvueJueW+geOAggpjb25zdCBVTkZJTklTSEVEX1RBSUxfUkUgPSAvKD865L2g55+l6YGTfOetieS4gOS4i3zmiJHot5/kvaDorrJ85YW25a6e5ZCnfOS9huaYr3zmiYDku6Xor7R854S25ZCOfOmCo+S4qnzlsLHmmK985oiR5oOz6K+0fOWvueS6hnznrYnmiJF8562J562JfOaIkeeci+eci3zov5jmnIl85YaN6K+0fOS4u+imgeaYr3zmr5Xnq5985Zug5Li6fOaJgOS7pXzkvYbmmK/lkKd85Zue5aS0fOWbnuWktOivtHzlvoXkvJp85pma54K5fOetieS8mnzlho3or7TlkKcpJC87CgovLyDku6XkuK3mlofpgJflj7cv6aG/5Y+3L+WIhuWPty/lhpLlj7fnrYnigJzpnZ7nu4jmraLmoIfngrnigJ3nu5PlsL7vvIzkuZ/luLjooajnpLrov5jmsqHor7TlrozjgIIKY29uc3QgVU5GSU5JU0hFRF9QVU5DVF9SRSA9IC9b77yM44CB77yb77yaLDs6XSQvOwoKLy8g5piO56Gu5Lul57uI5q2i5qCH54K5L+ecgeeVpeWPt+e7k+WwvueahOa2iOaBr+inhuS4uuivtOWujOOAggpjb25zdCBGSU5JU0hFRF9UQUlMX1JFID0gL1vjgILvvIHvvJ8hP+KApu+9nn5dKyQvOwoKZXhwb3J0IGZ1bmN0aW9uIGxvb2tzTGlrZVVuZmluaXNoZWQodGV4dCkgewogIGNvbnN0IHMgPSBTdHJpbmcodGV4dCA/PyAnJykudHJpbSgpOwogIGlmICghcykgcmV0dXJuIGZhbHNlOwogIGlmIChGSU5JU0hFRF9UQUlMX1JFLnRlc3QocykpIHJldHVybiBmYWxzZTsKICBpZiAoVU5GSU5JU0hFRF9UQUlMX1JFLnRlc3QocykpIHJldHVybiB0cnVlOwogIGlmIChVTkZJTklTSEVEX1BVTkNUX1JFLnRlc3QocykpIHJldHVybiB0cnVlOwogIHJldHVybiBmYWxzZTsKfQoKLy8gQUkg562J5LiN5Yiw5LiL5paH5pe25Y+v5Lul55So55qE4oCc5YKs6K+d4oCd55+t5Y+l44CCCmV4cG9ydCBjb25zdCBVTkZJTklTSEVEX1BST01QVF9SRVBMSUVTID0gWyfku4DkuYgnLCAn5ZWlJywgJ+S9oOivtOWViicsICfnhLblkI7lkaInLCAn77yfJ107CgovLyDlu7rorq7nmoTigJznu5PmnZ/liY3lho3nrYnkuIDova7igJ3nmoTnrYnlvoXml7bplb/ojIPlm7TvvIjmr6vnp5LvvInjgIIKZXhwb3J0IGNvbnN0IEVORF9ST1VORF9XQUlUX01JTl9NUyA9IDUgKiA2MCAqIDEwMDA7CmV4cG9ydCBjb25zdCBFTkRfUk9VTkRfV0FJVF9NQVhfTVMgPSAxMCAqIDYwICogMTAwMDsK
+// 二代仿真模式：等待/结束回合相关的轻量判断工具。
+// 这些是“提示/软信号”，不是硬规则；最终是否等待、是否发催话仍由 AI 自主决定。
+
+// 常见“话说一半/没说完”的结尾特征。
+const UNFINISHED_TAIL_RE = /(?:你知道|等一下|我跟你讲|其实吧|但是|所以说|然后|那个|就是|我想说|对了|等我|等等|我看看|还有|再说|主要是|毕竟|因为|所以|但是吧|回头|回头说|待会|晚点|等会|再说吧)$/;
+
+// 以中文逗号/顿号/分号/冒号等“非终止标点”结尾，也常表示还没说完。
+const UNFINISHED_PUNCT_RE = /[，、；：,;:]$/;
+
+// 明确以终止标点/省略号结尾的消息视为说完。
+const FINISHED_TAIL_RE = /[。！？!?…～~]+$/;
+
+export function looksLikeUnfinished(text) {
+  const s = String(text ?? '').trim();
+  if (!s) return false;
+  if (FINISHED_TAIL_RE.test(s)) return false;
+  if (UNFINISHED_TAIL_RE.test(s)) return true;
+  if (UNFINISHED_PUNCT_RE.test(s)) return true;
+  return false;
+}
+
+// AI 等不到下文时可以用的“催话”短句。
+export const UNFINISHED_PROMPT_REPLIES = ['什么', '啥', '你说啊', '然后呢', '？'];
+
+// 建议的“结束前再等一轮”的等待时长范围（毫秒）。
+export const END_ROUND_WAIT_MIN_MS = 5 * 60 * 1000;
+export const END_ROUND_WAIT_MAX_MS = 10 * 60 * 1000;

@@ -1,1 +1,118 @@
-Ly8g6Ieq5rWL6ISa5pys77ya5LiN5L6d6LWWIFNub3dMdW1hIC8gUVHvvIzlj6rpqozor4EgRFNIIOS+p+mTvui3r+KAlOKAlAovLyAgIDEuIOi/nuaOpSBEU0ggV2ViIEFQSQovLyAgIDIuIOWIm+W7uuS4gOS4queLrOeri+a1i+ivleS8muivne+8iOS4jeS8mueisOeOsOacieS8muivne+8iQovLyAgIDMuIOmAmui/hyBldmVudHMubXV4IOiuoumYheS6i+S7tua1gQovLyAgIDQuIHNlc3Npb24ucHJvbXB0IOazqOWFpeS4gOadoea2iOaBrwovLyAgIDUuIOetiSBhZ2VudCDlm57lpI3vvIh0dXJuL2VuZO+8ieW5tuaJk+WNsAovLyDnlKjms5XvvJpub2RlIHNyYy9zZWxmLXRlc3QuanMgW2Jhc2VVcmxdCmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCBvcyBmcm9tICdub2RlOm9zJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgeyBOb2RlQXBpQ2xpZW50LCB1bndyYXAsIGNyZWF0ZVR1cm5Db2xsZWN0b3IsIGRpc2NvdmVyRHNoTGF1bmNoVG9rZW4gfSBmcm9tICcuL2RzaC1jbGllbnQuanMnOwoKY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKCi8vIOiHqua1i+S8muivneeahOa4heeQhuWPpeafhO+8iOingSBjbGVhbnVwU2VsZlRlc3RTZXNzaW9u77yJ44CCCmxldCBzZWxmVGVzdEFwaSA9IG51bGw7CmxldCBzZWxmVGVzdFNlc3Npb25JZCA9IG51bGw7CgovKioKICog5b2S5qGj6Ieq5rWL5Lya6K+d44CC5pys6ISa5pys5Yi75oSP5LiN5oyH5a6aIGFnZW50UHJlc2V0IOKAlOKAlCDlroPlv4XpobvlnKjot5Hov4cgc2V0dXAtZHNoLm1qcyDkuYvliY0KICog5Lmf6IO955So5p2l6K+K5patIERTSCDpk77ot6/vvJvmraPlm6DlpoLmraTov5nkuKrkvJror53kvJrluKbkuIogRFNIIOm7mOiupCBwcmVzZXTvvIjlkKsgYmFzaC/mlofku7blt6XlhbfvvInvvIwKICog5pu05LiN6IO955WZ5Zyo55So5oi355qEIERTSCDph4zntK/np6/jgIIKICovCmFzeW5jIGZ1bmN0aW9uIGNsZWFudXBTZWxmVGVzdFNlc3Npb24oKSB7CiAgaWYgKCFzZWxmVGVzdEFwaSB8fCAhc2VsZlRlc3RTZXNzaW9uSWQpIHJldHVybjsKICBjb25zdCBzaWQgPSBzZWxmVGVzdFNlc3Npb25JZDsKICBzZWxmVGVzdFNlc3Npb25JZCA9IG51bGw7CiAgdHJ5IHsKICAgIGF3YWl0IHNlbGZUZXN0QXBpLndvcmtzcGFjZS5hcmNoaXZlU2Vzc2lvbih7IHNlc3Npb25JZDogc2lkIH0pOwogICAgY29uc29sZS5sb2coJ/Cfp7kg5bey5b2S5qGj6Ieq5rWL5Lya6K+dOicsIHNpZCk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUubG9nKCfimqDvuI8g6Ieq5rWL5Lya6K+d5b2S5qGj5aSx6LSl77yI5Y+v5ZyoIERTSCDph4zmiYvliqjliKDpmaTvvIk6Jywgc2lkLCBlcnJvcj8ubWVzc2FnZSA/PyBlcnJvcik7CiAgfQp9Cgphc3luYyBmdW5jdGlvbiBtYWluKCkgewogIGNvbnN0IGJhc2VVcmwgPSBwcm9jZXNzLmFyZ3ZbMl0gPz8gJ2h0dHA6Ly8xMjcuMC4wLjE6MzA4MCc7CiAgbGV0IGF1dGg7CiAgdHJ5IHsKICAgIGNvbnN0IGNmZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CiAgICBhdXRoID0gewogICAgICB0b2tlbjogY2ZnLmRzaD8uYXV0aFRva2VuIHx8IGRpc2NvdmVyRHNoTGF1bmNoVG9rZW4oKSwKICAgICAgaGVhZGVyOiBjZmcuZHNoPy5hdXRoSGVhZGVyLAogICAgICBwcmVmaXg6IGNmZy5kc2g/LmF1dGhQcmVmaXgKICAgIH07CiAgfSBjYXRjaCB7fQogIGNvbnN0IGFwaSA9IG5ldyBOb2RlQXBpQ2xpZW50KGJhc2VVcmwsIHVuZGVmaW5lZCwgYXV0aCk7CiAgc2VsZlRlc3RBcGkgPSBhcGk7CiAgY29uc3QgcHJvbXB0VGV4dCA9IHByb2Nlc3MuYXJndlszXSA/PyAn5Y+q5Zue5aSN5Lik5Liq5a2X77ya5pS25YiwJzsKCiAgY29uc3QgZGVzYyA9IHVud3JhcChhd2FpdCBhcGkuc2V0dGluZ3MuZGVzY3JpYmUoe30pLCAnc2V0dGluZ3MuZGVzY3JpYmUnKTsKICBjb25zb2xlLmxvZygn4pyFIERTSCDov57mjqXmiJDlip86JywgSlNPTi5zdHJpbmdpZnkoZGVzYykuc2xpY2UoMCwgMjAwKSk7CgogIC8vIOeLrOeri+a1i+ivleS8muivne+8jGN3ZCDnlKgqKuezu+e7n+S4tOaXtuebruW9lSoq77yI5LiN5piv5LuT5bqT55qEIHN0YXRlL++8ie+8mgogIC8vIHN0YXRlLyDooqsgc2NyaXB0cy9oYXJkZW4tc3RhdGUtYWNsLm1qcyDmlLbntKfkuoYgQUNM77yI5Y675o6J57un5om/IEFDRe+8jOWPqueVmeW9k+WJjeeUqOaItyAvCiAgLy8gU1lTVEVNIC8gQWRtaW5pc3RyYXRvcnPvvInvvIxEU0gg5rKZ566x55qE6IO95YqbIFNJRCDkuI3lnKggQUNMIOmHjCDih5Ig5Zyo5rKZ566x5YaF6LeR6Ieq5qOACiAgLy8g5Lya55u05o6lIEVQRVJNIOW7uuebruW9leOAguiHquajgOaYr+S4gOasoeaAp+aOoumSiO+8jOS6p+eJqeacrOadpeS5n+S4jeivpeiQvei/m+S7k+W6k+eKtuaAgeebruW9leOAggogIGNvbnN0IGN3ZCA9IHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3FxLWJyaWRnZS1zZWxmLXRlc3QnKTsKICBmcy5ta2RpclN5bmMoY3dkLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICBjb25zdCBjcmVhdGVkID0gdW53cmFwKGF3YWl0IGFwaS5zZXNzaW9ucy5jcmVhdGUoeyBjd2QgfSksICdzZXNzaW9uLmNyZWF0ZScpOwogIGNvbnN0IHNlc3Npb25JZCA9IGNyZWF0ZWQuc2Vzc2lvbklkOwogIHNlbGZUZXN0U2Vzc2lvbklkID0gc2Vzc2lvbklkOwogIGNvbnNvbGUubG9nKCfinIUg5rWL6K+V5Lya6K+d5bey5Yib5bu6OicsIHNlc3Npb25JZCk7CgogIC8vIOWFiOiuoumYheS6i+S7tua1ge+8iOWcqCBwcm9tcHQg5LmL5YmN77yJ77yM5YaN5rOo5YWl5raI5oGv44CCCiAgLy8g5b+F6aG7562JIFdlYlNvY2tldCDnnJ/mraMgb3BlbiDlkI7lho0gcHJvbXB077yM5ZCm5YiZIHR1cm4g5LqL5Lu25Y+v6IO95Zyo6L+e5o6l5bu656uL5YmN5Lqn55Sf6ICM6KKr5ryP5o6J44CCCiAgY29uc3QgY29sbGVjdG9yID0gY3JlYXRlVHVybkNvbGxlY3RvcigpOwogIGxldCByZXNvbHZlT3BlbmVkOwogIGxldCBvcGVuVGltZXI7CiAgY29uc3Qgb3BlbmVkID0gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgb3BlblRpbWVyID0gc2V0VGltZW91dCgoKSA9PiByZWplY3QobmV3IEVycm9yKCfnrYnlvoUgV2ViU29ja2V0IG9wZW4g6LaF5pe277yIMTBz77yJJykpLCAxMF8wMDApOwogICAgcmVzb2x2ZU9wZW5lZCA9ICgpID0+IHsgY2xlYXJUaW1lb3V0KG9wZW5UaW1lcik7IHJlc29sdmUoKTsgfTsKICB9KTsKICBjb25zdCBzdHJlYW0gPSBhcGkuZXZlbnRzLm11eCh7fSwgdW5kZWZpbmVkLCAoKSA9PiByZXNvbHZlT3BlbmVkKCkpOwogIGNvbnN0IGRvbmUgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCB0aW1lciA9IHNldFRpbWVvdXQoKCkgPT4gcmVqZWN0KG5ldyBFcnJvcign562J5b6F5Zue5aSN6LaF5pe277yINjBz77yJJykpLCA2MF8wMDApOwogICAgKGFzeW5jICgpID0+IHsKICAgICAgZm9yIGF3YWl0IChjb25zdCBlbnZlbG9wZSBvZiBzdHJlYW0pIHsKICAgICAgICBjb25zdCBmcmFtZSA9IGVudmVsb3BlLnBheWxvYWQ7CiAgICAgICAgaWYgKGZyYW1lLnR5cGUgPT09ICdzZXNzaW9uL2V2ZW50JyAmJiBmcmFtZS5zZXNzaW9uSWQgPT09IHNlc3Npb25JZCkgewogICAgICAgICAgY29uc3QgZW5kZWQgPSBjb2xsZWN0b3IucHVzaChmcmFtZS5ldmVudCk7CiAgICAgICAgICBpZiAoZW5kZWQpIHsKICAgICAgICAgICAgY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgICAgICAgICAgcmVzb2x2ZShlbmRlZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKGZyYW1lLnR5cGUgPT09ICdzdHJlYW0vZXJyb3InKSB7CiAgICAgICAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgICAgICAgcmVqZWN0KG5ldyBFcnJvcign5LqL5Lu25rWB6ZSZ6K+vOiAnICsgSlNPTi5zdHJpbmdpZnkoZnJhbWUuZXJyb3IpKSk7CiAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICB9CiAgICB9KSgpLmNhdGNoKChlcnJvcikgPT4geyBjbGVhclRpbWVvdXQodGltZXIpOyByZWplY3QoZXJyb3IpOyB9KTsKICB9KTsKICBhd2FpdCBvcGVuZWQ7CiAgLy8g5paw54mIIERTSCDpnIDopoHmmL7lvI8gZm9sbG93IOivpeS8muivne+8jOS6i+S7tuaJjeS8mumAmui/hyByZW1vdGUubXV4IOaOqOi/h+adpeOAggogIHN0cmVhbS5mb2xsb3coc2Vzc2lvbklkKTsKCiAgY29uc3QgYWNjZXB0ZWQgPSB1bndyYXAoYXdhaXQgYXBpLnNlc3Npb25zLnByb21wdCh7IHNlc3Npb25JZCwgbW9kZTogJ3F1ZXVlJywgY29udGVudDogW3sgdHlwZTogJ3RleHQnLCB0ZXh0OiBwcm9tcHRUZXh0IH1dIH0pLCAnc2Vzc2lvbi5wcm9tcHQnKTsKICBjb25zb2xlLmxvZygn4pyFIHByb21wdCDlt7LmjqXlj5c6JywgSlNPTi5zdHJpbmdpZnkoYWNjZXB0ZWQpKTsKCiAgY29uc3QgZW5kZWQgPSBhd2FpdCBkb25lOwogIGNvbnNvbGUubG9nKCfinIUg5Zue5ZCI57uT5p2fIHJlYXNvbiA9JywgZW5kZWQucmVhc29uLmtpbmQpOwogIGNvbnNvbGUubG9nKCfwn6SWIGFnZW50IOWbnuWkjTonKTsKICBjb25zb2xlLmxvZyhlbmRlZC50ZXh0IHx8ICfvvIjml6DmlofmnKzvvIknKTsKICBhd2FpdCBjbGVhbnVwU2VsZlRlc3RTZXNzaW9uKCk7CiAgY29uc29sZS5sb2coJ/Cfjokg6Ieq5rWL6YCa6L+HIOKAlOKAlCBEU0gg5L6n6ZO+6Lev5Y+v55SoJyk7CiAgcHJvY2Vzcy5leGl0KDApOwp9CgptYWluKCkuY2F0Y2goYXN5bmMgKGVycm9yKSA9PiB7CiAgY29uc29sZS5lcnJvcign4p2MIOiHqua1i+Wksei0pTonLCBlcnJvcj8ubWVzc2FnZSA/PyBlcnJvcik7CiAgYXdhaXQgY2xlYW51cFNlbGZUZXN0U2Vzc2lvbigpOwogIHByb2Nlc3MuZXhpdCgxKTsKfSk7Cg==
+// 自测脚本：不依赖 SnowLuma / QQ，只验证 DSH 侧链路——
+//   1. 连接 DSH Web API
+//   2. 创建一个独立测试会话（不会碰现有会话）
+//   3. 通过 events.mux 订阅事件流
+//   4. session.prompt 注入一条消息
+//   5. 等 agent 回复（turn/end）并打印
+// 用法：node src/self-test.js [baseUrl]
+import { fileURLToPath } from 'node:url';
+import os from 'node:os';
+import path from 'node:path';
+import fs from 'node:fs';
+import { NodeApiClient, unwrap, createTurnCollector, discoverDshLaunchToken } from './dsh-client.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+// 自测会话的清理句柄（见 cleanupSelfTestSession）。
+let selfTestApi = null;
+let selfTestSessionId = null;
+
+/**
+ * 归档自测会话。本脚本刻意不指定 agentPreset —— 它必须在跑过 setup-dsh.mjs 之前
+ * 也能用来诊断 DSH 链路；正因如此这个会话会带上 DSH 默认 preset（含 bash/文件工具），
+ * 更不能留在用户的 DSH 里累积。
+ */
+async function cleanupSelfTestSession() {
+  if (!selfTestApi || !selfTestSessionId) return;
+  const sid = selfTestSessionId;
+  selfTestSessionId = null;
+  try {
+    await selfTestApi.workspace.archiveSession({ sessionId: sid });
+    console.log('🧹 已归档自测会话:', sid);
+  } catch (error) {
+    console.log('⚠️ 自测会话归档失败（可在 DSH 里手动删除）:', sid, error?.message ?? error);
+  }
+}
+
+async function main() {
+  const baseUrl = process.argv[2] ?? 'http://127.0.0.1:3080';
+  let auth;
+  try {
+    const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+    auth = {
+      token: cfg.dsh?.authToken || discoverDshLaunchToken(),
+      header: cfg.dsh?.authHeader,
+      prefix: cfg.dsh?.authPrefix
+    };
+  } catch {}
+  const api = new NodeApiClient(baseUrl, undefined, auth);
+  selfTestApi = api;
+  const promptText = process.argv[3] ?? '只回复两个字：收到';
+
+  const desc = unwrap(await api.settings.describe({}), 'settings.describe');
+  console.log('✅ DSH 连接成功:', JSON.stringify(desc).slice(0, 200));
+
+  // 独立测试会话，cwd 用**系统临时目录**（不是仓库的 state/）：
+  // state/ 被 scripts/harden-state-acl.mjs 收紧了 ACL（去掉继承 ACE，只留当前用户 /
+  // SYSTEM / Administrators），DSH 沙箱的能力 SID 不在 ACL 里 ⇒ 在沙箱内跑自检
+  // 会直接 EPERM 建目录。自检是一次性探针，产物本来也不该落进仓库状态目录。
+  const cwd = path.join(os.tmpdir(), 'qq-bridge-self-test');
+  fs.mkdirSync(cwd, { recursive: true });
+  const created = unwrap(await api.sessions.create({ cwd }), 'session.create');
+  const sessionId = created.sessionId;
+  selfTestSessionId = sessionId;
+  console.log('✅ 测试会话已创建:', sessionId);
+
+  // 先订阅事件流（在 prompt 之前），再注入消息。
+  // 必须等 WebSocket 真正 open 后再 prompt，否则 turn 事件可能在连接建立前产生而被漏掉。
+  const collector = createTurnCollector();
+  let resolveOpened;
+  let openTimer;
+  const opened = new Promise((resolve, reject) => {
+    openTimer = setTimeout(() => reject(new Error('等待 WebSocket open 超时（10s）')), 10_000);
+    resolveOpened = () => { clearTimeout(openTimer); resolve(); };
+  });
+  const stream = api.events.mux({}, undefined, () => resolveOpened());
+  const done = new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error('等待回复超时（60s）')), 60_000);
+    (async () => {
+      for await (const envelope of stream) {
+        const frame = envelope.payload;
+        if (frame.type === 'session/event' && frame.sessionId === sessionId) {
+          const ended = collector.push(frame.event);
+          if (ended) {
+            clearTimeout(timer);
+            resolve(ended);
+            return;
+          }
+        }
+        if (frame.type === 'stream/error') {
+          clearTimeout(timer);
+          reject(new Error('事件流错误: ' + JSON.stringify(frame.error)));
+          return;
+        }
+      }
+    })().catch((error) => { clearTimeout(timer); reject(error); });
+  });
+  await opened;
+  // 新版 DSH 需要显式 follow 该会话，事件才会通过 remote.mux 推过来。
+  stream.follow(sessionId);
+
+  const accepted = unwrap(await api.sessions.prompt({ sessionId, mode: 'queue', content: [{ type: 'text', text: promptText }] }), 'session.prompt');
+  console.log('✅ prompt 已接受:', JSON.stringify(accepted));
+
+  const ended = await done;
+  console.log('✅ 回合结束 reason =', ended.reason.kind);
+  console.log('🤖 agent 回复:');
+  console.log(ended.text || '（无文本）');
+  await cleanupSelfTestSession();
+  console.log('🎉 自测通过 —— DSH 侧链路可用');
+  process.exit(0);
+}
+
+main().catch(async (error) => {
+  console.error('❌ 自测失败:', error?.message ?? error);
+  await cleanupSelfTestSession();
+  process.exit(1);
+});

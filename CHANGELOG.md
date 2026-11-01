@@ -1,1 +1,45 @@
-IyDmm7TmlrDml6Xlv5cKCiMjIDAuMy4w77yIMjAyNi0xMS0wMu+8iemmluasoeW8gOa6kOWPkeW4gwoKKirku44gMzAg5aSp5a6J5Y2T55Sf5Lqn546v5aKD5o+Q54K85oiQ5o+S5Lu244CCKioKCiMjIyDmlrDlop7vvJrorrDlv4bns7vnu58KLSDkuIDlj6XkuIDmnaHnu5PmnoTljJborrDlv4bvvIh0ZXh0L3Blb3BsZS9rZXl3b3Jkcy9oZWF0L2xldmVs77yJCi0gaG90L3dhcm0vY29sZCDkuInnuqfliIblsYLvvIwzLzcvMzAg5aSp6ZmN57qn77yM5rC45LiN5Yig6ZmkCi0g5Lit5paHIDItZ3JhbSDor63kuYnmo4DntKIgKyDmjIflrprkurrliqDmnYMKLSDlr5LmmoTov4fmu6TjgIHlkIzmlofljrvph43jgIHooqvnuqDmraPml7bliKDplJnorrDlr7kKLSDnm7jlpITnu4/pqozliIbnsbvvvIjpm7fljLov5YGP5aW9L+ivneacr++8iQoKIyMjIOaWsOWinu+8muS4iuS4i+aWh+a4heeQhuezu+e7nwotIOWIhuetlueVpeinpuWPke+8mue+pOiBiuS4peagvO+8iDEyIOS4hyB0b2tlbi84MCDova7vvInjgIHnp4HogYrlrr3mnb7vvIgzMCDkuIcvMzAwIOi9ru+8iQotIOa4heeQhuWJjeiusOW/huaUtuWwvu+8iOWGmeS4jeWujOW7tuWQjuS4gOi9ru+8jOe7neS4jeehrOa4he+8iQotIOacquivu+S/neaKpO+8iOS4iumZkCA2IOWwj+aXtu+8iSsg6LaFIDI1IOS4h+W8uuWItua4he+8iOmYsiA0MDDvvIkKLSDmuIXnkIblkI7mj5DnpLoi5LiK5LiA5q616KKr5Y6L57ypIu+8iOmYsue8lumAoO+8iQotIOWtpOWEv+S8muivneWbnuaUtuOAgeavj+aXpeWFg+elnuWMheWkh+S7vQoKIyMjIOaWsOWinu+8muaDhee7quezu+e7nwotIOacieeKtuaAgeW/g+aDhe+8iDB+MSArIDEwIOagh+etvu+8ieOAgeivjeihqOmpseWKqOmbtuaIkOacrOOAgeWNiuihsOacn+ihsOWHjwotIDgg5oCB5oOF57uq5YWJ6LCxICsg5oOF57uq6KGo6L6+6KeE5YiZ77yI6JeP5Zyo6K+t5rCU6YeM77yM5LiN5oql54q25oCB77yJCgojIyMg5paw5aKe77ya6K+t5oSf5LiO6K+t6Z+zCi0g6K+t5oSf54m55b6B57uf6K6h77yI5Y+l6ZW/L+agh+eCuS/or63msJTor43vvIkKLSBNaW5pTWF4IFQyQSDor63pn7PvvIjmg4Xnu6rmmKDlsITjgIFiYXNlNjQg5Y+R6YCB44CB576k6IGK6ZmQ6aKR77yJCgojIyMg5paw5aKe77ya576k566h55CG5LiO5bel5YW3Ci0g5q+P5Lya6K+d54us56uL5ZSk6YaS6YWN572u77yIQC/lkI3lrZcv5YWz6ZSu6K+NL+aPkOmXri/mi43kuIDmi40v5oyH5a6a5Lq6L+amgueOh++8iQotIEFJIOiHquS4u+iwg+S4u+WKqOmikeeOhwotIDQwKyBNQ1Ag5bel5YW3Ci0g5Lq65qC85Y2h5Y+X5o6n57yW6L6R77yI5LuF5Li75Lq656eB6IGKICsg6Ieq5Yqo5aSH5Lu977yJCi0gUVEg5paH5pys5paH5Lu26K+75Y+W77yILm1kLy50eHQg562J77yJCgojIyMg5bel56iL5YyWCi0g5Y+M6YOo572y5qih5Z2X77yI5pys5Zyw55S16ISRIGluc3RhbGwuc2gvaW5zdGFsbC5wczEgKyDkuIrkupEgc3lzdGVtZO+8iQotIOi3qOW5s+WPsOi3r+W+hOenu+akje+8iOWuieWNk+ehrOe8lueggSDihpIg6Ieq5Yqo5o6i5rWL77yJCi0g5beh5qOA5a6I5oqk44CB5bSp5rqD6Ieq5oSI44CB6L+b56iL55m95ZCN5Y2VCgotLS0KCiMjIOS4iua4uOa8lOi/m++8iHFxLWJyaWRnZSAwLjIuMS1yMSDln7rnur/vvIkKCuWfuuS6jiBbRGVycHl1NTIwL3FxLWJyaWRnZV0oaHR0cHM6Ly9naXRodWIuY29tL0RlcnB5dTUyMC9xcS1icmlkZ2UpIHYwLjIuMS1yMSDkuYvkuIrmnoTlu7rjgIIK
+# 更新日志
+
+## 0.3.0（2026-11-02）首次开源发布
+
+**从 30 天安卓生产环境提炼成插件。**
+
+### 新增：记忆系统
+- 一句一条结构化记忆（text/people/keywords/heat/level）
+- hot/warm/cold 三级分层，3/7/30 天降级，永不删除
+- 中文 2-gram 语义检索 + 指定人加权
+- 寒暄过滤、同文去重、被纠正时删错记对
+- 相处经验分类（雷区/偏好/话术）
+
+### 新增：上下文清理系统
+- 分策略触发：群聊严格（12 万 token/80 轮）、私聊宽松（30 万/300 轮）
+- 清理前记忆收尾（写不完延后一轮，绝不硬清）
+- 未读保护（上限 6 小时）+ 超 25 万强制清（防 400）
+- 清理后提示"上一段被压缩"（防编造）
+- 孤儿会话回收、每日元神包备份
+
+### 新增：情绪系统
+- 有状态心情（0~1 + 10 标签）、词表驱动零成本、半衰期衰减
+- 8 态情绪光谱 + 情绪表达规则（藏在语气里，不报状态）
+
+### 新增：语感与语音
+- 语感特征统计（句长/标点/语气词）
+- MiniMax T2A 语音（情绪映射、base64 发送、群聊限频）
+
+### 新增：群管理与工具
+- 每会话独立唤醒配置（@/名字/关键词/提问/拍一拍/指定人/概率）
+- AI 自主调主动频率
+- 40+ MCP 工具
+- 人格卡受控编辑（仅主人私聊 + 自动备份）
+- QQ 文本文件读取（.md/.txt 等）
+
+### 工程化
+- 双部署模块（本地电脑 install.sh/install.ps1 + 上云 systemd）
+- 跨平台路径移植（安卓硬编码 → 自动探测）
+- 巡检守护、崩溃自愈、进程白名单
+
+---
+
+## 上游演进（qq-bridge 0.2.1-r1 基线）
+
+基于 [Derpyu520/qq-bridge](https://github.com/Derpyu520/qq-bridge) v0.2.1-r1 之上构建。

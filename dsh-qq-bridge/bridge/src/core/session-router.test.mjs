@@ -1,1 +1,353 @@
-aW1wb3J0IGFzc2VydCBmcm9tICdub2RlOmFzc2VydC9zdHJpY3QnOwppbXBvcnQgdGVzdCBmcm9tICdub2RlOnRlc3QnOwppbXBvcnQgewogIGNhbm9uaWNhbENvbnZlcnNhdGlvbktleSwKICBjcmVhdGVJbml0aWFsQ29udmVyc2F0aW9uU3RhdGUsCiAgbWlncmF0ZUxlZ2FjeU1vZGUsCiAgU2Vzc2lvblJvdXRlciwKfSBmcm9tICcuL3Nlc3Npb24tcm91dGVyLm1qcyc7Cgpjb25zdCBvd25lclFRID0gNDI7IC8vIFN5bnRoZXRpYyB0ZXN0IGlkZW50aXR5Lgpjb25zdCBvd25lcktleSA9IGBwcml2YXRlOiR7b3duZXJRUX1gOwoKZnVuY3Rpb24gc3RhdGVXaXRoKGtleSwgcG9saWN5KSB7CiAgY29uc3Qgc3RhdGUgPSBjcmVhdGVJbml0aWFsQ29udmVyc2F0aW9uU3RhdGUob3duZXJRUSwgeyBjbG9zZWRBZ2VudEVuYWJsZWQ6IGZhbHNlIH0pOwogIHN0YXRlLmNvbnZlcnNhdGlvbnNba2V5XSA9IHsgdXBkYXRlZEJ5OiAnY29uc29sZScsIC4uLnBvbGljeSB9OwogIHJldHVybiBzdGF0ZTsKfQoKdGVzdCgnY29udmVyc2F0aW9uIGtleXMgcmVtb3ZlIGxlYWRpbmcgemVyb3MgYW5kIHN1cnJvdW5kaW5nIHdoaXRlc3BhY2UnLCAoKSA9PiB7CiAgYXNzZXJ0LmVxdWFsKGNhbm9uaWNhbENvbnZlcnNhdGlvbktleSgnICBwcml2YXRlOjAwMDQyICAnKSwgb3duZXJLZXkpOwogIGFzc2VydC5lcXVhbChjYW5vbmljYWxDb252ZXJzYXRpb25LZXkoJ2dyb3VwOjAwMDQyJyksICdncm91cDo0MicpOwp9KTsKCnRlc3QoJ2ludmFsaWQsIHplcm8sIGFuZCB1bnNhZmUgaW50ZWdlciBrZXlzIG5ldmVyIGJlY29tZSBjb252ZXJzYXRpb25zJywgKCkgPT4gewogIGZvciAoY29uc3Qga2V5IG9mIFsncHJpdmF0ZTowJywgJ2dyb3VwOi0xJywgJ2dyb3VwOjEuNScsICdHcm91cDoxJywKICAgICdwcml2YXRlOjkwMDcxOTkyNTQ3NDA5OTInLCAncHJpdmF0ZToxOjInLCBudWxsXSkgewogICAgYXNzZXJ0LmVxdWFsKGNhbm9uaWNhbENvbnZlcnNhdGlvbktleShrZXkpLCBudWxsLCBTdHJpbmcoa2V5KSk7CiAgfQp9KTsKCnRlc3QoJ2luaXRpYWwgb3duZXIgcHJpdmF0ZSBpcyBjbG9zZWQtYWdlbnQgYW5kIGFsbCBvdGhlciBjaGFubmVscyBzaW11bGF0ZScsICgpID0+IHsKICBjb25zdCByb3V0ZXIgPSBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEgfSk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5tb2RlRm9yKG93bmVyS2V5KSwgJ2Nsb3NlZC1hZ2VudCcpOwogIGFzc2VydC5lcXVhbChyb3V0ZXIucHJlc2V0Rm9yKG93bmVyS2V5KSwgJ3FzaC1jbG9zZWQnKTsKICBhc3NlcnQuZXF1YWwocm91dGVyLm1vZGVGb3IoJ3ByaXZhdGU6OScpLCAnc2ltdWxhdGlvbicpOwogIGFzc2VydC5lcXVhbChyb3V0ZXIubW9kZUZvcignZ3JvdXA6OScpLCAnc2ltdWxhdGlvbicpOwogIGFzc2VydC5lcXVhbChyb3V0ZXIucHJlc2V0Rm9yKCdncm91cDo5JyksICdxc2gtc2ltJyk7CiAgLy8gV2hhdGV2ZXIgdGhpcyBjb25zdHJ1Y3RvciBlbWl0cyBtdXN0IGJlIGxvYWRhYmxlIGJ5IGl0LiBLZWVwaW5nIHRoZSByYXcKICAvLyBsZWdhY3kgYHJlc2VydmVkMmAgc3BlbGxpbmcgaW4gYGRlZmF1bHRzLm1vZGVgIG5leHQgdG8gdGhlIGNhbm9uaWNhbAogIC8vIGBxc2gtc2ltYCBwcmVzZXQgcHJvZHVjZXMgYSBzdGF0ZSB0aGlzIHZlcnkgbG9hZGVyIHJlamVjdHMgKHRoZSBsZWdhY3kKICAvLyBzcGVsbGluZyBvbmx5IGFjY2VwdHMgdGhlIGxlZ2FjeSBwcmVzZXQpLCBzbyB0aGUgcGVyc2lzdGVkIGRlZmF1bHQgaXMKICAvLyBjYW5vbmljYWxpc2VkIG9uIHRoZSB3YXkgb3V0LgogIGNvbnN0IHJlbG9hZGVkID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZTogcm91dGVyLnNuYXBzaG90KCkgfSk7CiAgYXNzZXJ0LmVxdWFsKHJlbG9hZGVkLmRlZmF1bHRNb2RlLCByb3V0ZXIuZGVmYXVsdE1vZGUpOwogIGFzc2VydC5lcXVhbChyZWxvYWRlZC5wcmVzZXRGb3IoJ2dyb3VwOjknKSwgJ3FzaC1zaW0nKTsKICBhc3NlcnQuZXF1YWwocmVsb2FkZWQucG9saWN5RmluZ2VycHJpbnQoJ2dyb3VwOjknKSwgcm91dGVyLnBvbGljeUZpbmdlcnByaW50KCdncm91cDo5JykpOwp9KTsKCnRlc3QoJ21pc3Npbmcgb3duZXJRUSBrZWVwcyBldmVyeSBjb252ZXJzYXRpb24gaW4gc2ltdWxhdGlvbicsICgpID0+IHsKICBjb25zdCByb3V0ZXIgPSBuZXcgU2Vzc2lvblJvdXRlcigpOwogIGFzc2VydC5lcXVhbChyb3V0ZXIub3duZXJRUSwgbnVsbCk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5tb2RlRm9yKG93bmVyS2V5KSwgJ3NpbXVsYXRpb24nKTsKICBhc3NlcnQuZXF1YWwocm91dGVyLm1vZGVGb3IoJ2dyb3VwOjknKSwgJ3NpbXVsYXRpb24nKTsKfSk7Cgp0ZXN0KCdvd25lciBtYXkgZXhwbGljaXRseSBkaXNhYmxlIGNsb3NlZC1hZ2VudCBhdCBmaXJzdCBydW4nLCAoKSA9PiB7CiAgY29uc3Qgc3RhdGUgPSBjcmVhdGVJbml0aWFsQ29udmVyc2F0aW9uU3RhdGUob3duZXJRUSwgeyBjbG9zZWRBZ2VudEVuYWJsZWQ6IGZhbHNlIH0pOwogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgc3RhdGUgfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChzdGF0ZS5jb252ZXJzYXRpb25zLCB7fSk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5tb2RlRm9yKG93bmVyS2V5KSwgJ3NpbXVsYXRpb24nKTsKfSk7Cgp0ZXN0KCdpbnZhbGlkIG93bmVyUVEgaXMgcmVqZWN0ZWQgcmF0aGVyIHRoYW4gc2lsZW50bHkgdHJ1c3RlZCcsICgpID0+IHsKICBmb3IgKGNvbnN0IGludmFsaWQgb2YgWzAsIC0xLCAnYWJjJywgJzkwMDcxOTkyNTQ3NDA5OTInXSkgewogICAgYXNzZXJ0LnRocm93cygoKSA9PiBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVE6IGludmFsaWQgfSksIC9vd25lclFRLyk7CiAgfQp9KTsKCnRlc3QoJ2Nsb3NlZC1hZ2VudCBjYW5ub3QgYmUgdGhlIGdsb2JhbCBkZWZhdWx0JywgKCkgPT4gewogIGNvbnN0IHN0YXRlID0gY3JlYXRlSW5pdGlhbENvbnZlcnNhdGlvblN0YXRlKG93bmVyUVEpOwogIHN0YXRlLmRlZmF1bHRzID0geyBtb2RlOiAnY2xvc2VkLWFnZW50JywgcHJlc2V0OiAncXNoLWNsb3NlZCcgfTsKICBhc3NlcnQudGhyb3dzKCgpID0+IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgc3RhdGUgfSksIC9kZWZhdWx0cyBtdXN0IHJlbWFpbiBzaW11bGF0aW9uLyk7Cn0pOwoKdGVzdCgnY2xvc2VkLWFnZW50IGNhbm5vdCBiZSBhc3NpZ25lZCB0byBhIGdyb3VwJywgKCkgPT4gewogIGNvbnN0IHN0YXRlID0gc3RhdGVXaXRoKCdncm91cDo4JywgeyBtb2RlOiAnY2xvc2VkLWFnZW50JywgcHJlc2V0OiAncXNoLWNsb3NlZCcgfSk7CiAgYXNzZXJ0LnRocm93cygoKSA9PiBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEsIHN0YXRlIH0pLCAvcmVzdHJpY3RlZCB0byB0aGUgb3duZXIvKTsKfSk7Cgp0ZXN0KCdjbG9zZWQtYWdlbnQgY2Fubm90IGJlIGFzc2lnbmVkIHRvIGFub3RoZXIgcHJpdmF0ZSBjb252ZXJzYXRpb24nLCAoKSA9PiB7CiAgY29uc3Qgc3RhdGUgPSBzdGF0ZVdpdGgoJ3ByaXZhdGU6OCcsIHsgbW9kZTogJ2Nsb3NlZC1hZ2VudCcsIHByZXNldDogJ3FzaC1jbG9zZWQnIH0pOwogIGFzc2VydC50aHJvd3MoKCkgPT4gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZSB9KSwgL3Jlc3RyaWN0ZWQgdG8gdGhlIG93bmVyLyk7Cn0pOwoKdGVzdCgnY2xvc2VkLWFnZW50IGlzIHJlamVjdGVkIHdoZW4gbm8gb3duZXIgaXMgY29uZmlndXJlZCcsICgpID0+IHsKICBjb25zdCBzdGF0ZSA9IHN0YXRlV2l0aChvd25lcktleSwgeyBtb2RlOiAnY2xvc2VkLWFnZW50JywgcHJlc2V0OiAncXNoLWNsb3NlZCcgfSk7CiAgYXNzZXJ0LnRocm93cygoKSA9PiBuZXcgU2Vzc2lvblJvdXRlcih7IHN0YXRlIH0pLCAvcmVzdHJpY3RlZCB0byB0aGUgb3duZXIvKTsKfSk7Cgp0ZXN0KCdtaXNzaW5nIGFuZCB1bmtub3duIG1vZGVzIGZhaWwgY2xvc2VkIGF0IGxvYWQnLCAoKSA9PiB7CiAgZm9yIChjb25zdCBwb2xpY3kgb2YgWwogICAgeyBwcmVzZXQ6ICdxc2gtc2ltJyB9LAogICAgeyBtb2RlOiAncmVzZXJ2ZWQyJywgcHJlc2V0OiAncXNoLXNpbScgfSwKICAgIHsgbW9kZTogJ215c3RlcnknLCBwcmVzZXQ6ICdxc2gtc2ltJyB9LAogICAgeyBtb2RlOiB7IHRvU3RyaW5nOiAoKSA9PiAnY2xvc2VkLWFnZW50JyB9LCBwcmVzZXQ6ICdxc2gtY2xvc2VkJyB9LAogIF0pIHsKICAgIGFzc2VydC50aHJvd3MoKCkgPT4gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZTogc3RhdGVXaXRoKCdncm91cDo4JywgcG9saWN5KSB9KSk7CiAgfQp9KTsKCnRlc3QoJ21pc3NpbmcsIG51bGwsIHVua25vd24sIGFuZCBjcm9zcy1tb2RlIHByZXNldHMgZmFpbCBjbG9zZWQnLCAoKSA9PiB7CiAgZm9yIChjb25zdCBwb2xpY3kgb2YgWwogICAgeyBtb2RlOiAnc2ltdWxhdGlvbicgfSwKICAgIHsgbW9kZTogJ3NpbXVsYXRpb24nLCBwcmVzZXQ6IG51bGwgfSwKICAgIHsgbW9kZTogJ3NpbXVsYXRpb24nLCBwcmVzZXQ6ICdzdGFuZGFyZCcgfSwKICAgIHsgbW9kZTogJ3NpbXVsYXRpb24nLCBwcmVzZXQ6ICdxc2gtY2xvc2VkJyB9LAogIF0pIHsKICAgIGFzc2VydC50aHJvd3MoKCkgPT4gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZTogc3RhdGVXaXRoKCdncm91cDo4JywgcG9saWN5KSB9KSk7CiAgfQogIGFzc2VydC50aHJvd3MoKCkgPT4gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLAogICAgc3RhdGU6IHN0YXRlV2l0aChvd25lcktleSwgeyBtb2RlOiAnY2xvc2VkLWFnZW50JywgcHJlc2V0OiAncXNoLXNpbScgfSkgfSkpOwp9KTsKCnRlc3QoJ2RlZmF1bHRzIGFsc28gcmVxdWlyZSBrbm93biBtb2RlIGFuZCBwcmVzZXQnLCAoKSA9PiB7CiAgZm9yIChjb25zdCBkZWZhdWx0cyBvZiBbCiAgICB7IHByZXNldDogJ3FzaC1zaW0nIH0sCiAgICB7IG1vZGU6ICdzaW11bGF0aW9uJyB9LAogICAgeyBtb2RlOiAnc2ltdWxhdGlvbicsIHByZXNldDogJ3N0YW5kYXJkJyB9LAogIF0pIHsKICAgIGNvbnN0IHN0YXRlID0gY3JlYXRlSW5pdGlhbENvbnZlcnNhdGlvblN0YXRlKG93bmVyUVEpOwogICAgc3RhdGUuZGVmYXVsdHMgPSBkZWZhdWx0czsKICAgIGFzc2VydC50aHJvd3MoKCkgPT4gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZSB9KSk7CiAgfQp9KTsKCnRlc3QoJ21vZGUsIHByZXNldCwgbW9kZWwsIGFuZCBlZmZvcnQgcmVzb2x2ZSBpbmRlcGVuZGVudGx5IHBlciBjb252ZXJzYXRpb24nLCAoKSA9PiB7CiAgY29uc3Qgc3RhdGUgPSBjcmVhdGVJbml0aWFsQ29udmVyc2F0aW9uU3RhdGUob3duZXJRUSk7CiAgc3RhdGUuZGVmYXVsdHMubW9kZWwgPSAnZGVmYXVsdC1tb2RlbCc7CiAgc3RhdGUuZGVmYXVsdHMucmVhc29uaW5nRWZmb3J0ID0gJ2xvdyc7CiAgc3RhdGUuY29udmVyc2F0aW9uc1tvd25lcktleV0ubW9kZWwgPSAnb3duZXItbW9kZWwnOwogIHN0YXRlLmNvbnZlcnNhdGlvbnNbb3duZXJLZXldLnJlYXNvbmluZ0VmZm9ydCA9ICdoaWdoJzsKICBzdGF0ZS5jb252ZXJzYXRpb25zWydncm91cDo4J10gPSB7CiAgICBtb2RlOiAnc2ltdWxhdGlvbicsIHByZXNldDogJ3FzaC1zaW0tdjInLCBtb2RlbDogbnVsbCwgdXBkYXRlZEJ5OiAnY29uc29sZScsCiAgfTsKICBjb25zdCByb3V0ZXIgPSBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEsIHN0YXRlIH0pOwogIGFzc2VydC5kZWVwRXF1YWwoW3JvdXRlci5tb2RlRm9yKG93bmVyS2V5KSwgcm91dGVyLnByZXNldEZvcihvd25lcktleSksCiAgICByb3V0ZXIubW9kZWxGb3Iob3duZXJLZXkpLCByb3V0ZXIuZWZmb3J0Rm9yKG93bmVyS2V5KV0sCiAgWydjbG9zZWQtYWdlbnQnLCAncXNoLWNsb3NlZCcsICdvd25lci1tb2RlbCcsICdoaWdoJ10pOwogIGFzc2VydC5kZWVwRXF1YWwoW3JvdXRlci5tb2RlRm9yKCdncm91cDo4JyksIHJvdXRlci5wcmVzZXRGb3IoJ2dyb3VwOjgnKSwKICAgIHJvdXRlci5tb2RlbEZvcignZ3JvdXA6OCcpLCByb3V0ZXIuZWZmb3J0Rm9yKCdncm91cDo4JyldLAogIFsnc2ltdWxhdGlvbicsICdxc2gtc2ltLXYyJywgbnVsbCwgJ2xvdyddKTsKICBhc3NlcnQuZXF1YWwocm91dGVyLm1vZGVsRm9yKCdwcml2YXRlOjgnKSwgJ2RlZmF1bHQtbW9kZWwnKTsKfSk7Cgp0ZXN0KCdzaW11bGF0aW9uIHBlcm1pc3Npb25zIGRlbnkgbG9jYWwgdG9vbHMgYW5kIGFkbWluIGNvbW1hbmRzJywgKCkgPT4gewogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5wZXJtaXNzaW9uc0ZvcignZ3JvdXA6OCcpLCB7CiAgICBsb2NhbEV4ZWN1dGlvbjogZmFsc2UsIGxvY2FsRmlsZXM6IGZhbHNlLCBhZG1pbkNvbW1hbmRzOiBmYWxzZSwKICB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5wZXJtaXNzaW9uc0ZvcigncHJpdmF0ZTo4JyksIHJvdXRlci5wZXJtaXNzaW9uc0ZvcignZ3JvdXA6OCcpKTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5wZXJtaXNzaW9uc0Zvcihvd25lcktleSksIHsKICAgIGxvY2FsRXhlY3V0aW9uOiB0cnVlLCBsb2NhbEZpbGVzOiB0cnVlLCBhZG1pbkNvbW1hbmRzOiB0cnVlLAogIH0pOwp9KTsKCnRlc3QoJ2ludmFsaWQgY2FsbGVyIGtleSBpcyByZWplY3RlZCBpbnN0ZWFkIG9mIHJlY2VpdmluZyBkZWZhdWx0IHByaXZpbGVnZXMnLCAoKSA9PiB7CiAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRIH0pOwogIGFzc2VydC50aHJvd3MoKCkgPT4gcm91dGVyLm1vZGVGb3IoJ2dyb3VwOjAnKSwgL0ludmFsaWQgY29udmVyc2F0aW9uIGtleS8pOwogIGFzc2VydC50aHJvd3MoKCkgPT4gcm91dGVyLnBlcm1pc3Npb25zRm9yKCdwcml2YXRlOjkwMDcxOTkyNTQ3NDA5OTInKSwgL0ludmFsaWQgY29udmVyc2F0aW9uIGtleS8pOwp9KTsKCnRlc3QoJ2EgcG9saWN5IGNoYW5nZSByZXBvcnRzIG9ubHkgaXRzIGNhbm9uaWNhbCBjb252ZXJzYXRpb24ga2V5JywgKCkgPT4gewogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSB9KTsKICBjb25zdCBvd25lckJlZm9yZSA9IHJvdXRlci5wb2xpY3lGaW5nZXJwcmludChvd25lcktleSk7CiAgY29uc3Qgb3RoZXJCZWZvcmUgPSByb3V0ZXIucG9saWN5RmluZ2VycHJpbnQoJ2dyb3VwOjknKTsKICBjb25zdCByZXN1bHQgPSByb3V0ZXIuc2V0Q29udmVyc2F0aW9uKCdncm91cDowMDA4JywgewogICAgbW9kZTogJ3NpbXVsYXRpb24nLCBwcmVzZXQ6ICdxc2gtc2ltLXYyJywgbW9kZWw6ICdzbWFsbCcsIHJlYXNvbmluZ0VmZm9ydDogJ2xvdycsCiAgICB1cGRhdGVkQnk6ICdjb25zb2xlJywKICB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKHJlc3VsdC5jaGFuZ2VkS2V5cywgWydncm91cDo4J10pOwogIGFzc2VydC5lcXVhbChyb3V0ZXIucG9saWN5RmluZ2VycHJpbnQob3duZXJLZXkpLCBvd25lckJlZm9yZSk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5wb2xpY3lGaW5nZXJwcmludCgnZ3JvdXA6OScpLCBvdGhlckJlZm9yZSk7CiAgYXNzZXJ0Lm5vdEVxdWFsKHJvdXRlci5wb2xpY3lGaW5nZXJwcmludCgnZ3JvdXA6OCcpLCBvdGhlckJlZm9yZSk7Cn0pOwoKdGVzdCgnbW9kZWwgYW5kIGVmZm9ydCBlZGl0cyBlYWNoIGNoYW5nZSBvbmx5IHRoYXQgY29udmVyc2F0aW9uIGZpbmdlcnByaW50JywgKCkgPT4gewogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSB9KTsKICBjb25zdCBncm91cEJlZm9yZSA9IHJvdXRlci5wb2xpY3lGaW5nZXJwcmludCgnZ3JvdXA6OCcpOwogIGNvbnN0IGZpcnN0ID0gcm91dGVyLnNldENvbnZlcnNhdGlvbihvd25lcktleSwgewogICAgbW9kZTogJ2Nsb3NlZC1hZ2VudCcsIHByZXNldDogJ3FzaC1jbG9zZWQnLCBtb2RlbDogJ20xJywgcmVhc29uaW5nRWZmb3J0OiBudWxsLAogICAgdXBkYXRlZEJ5OiAnY29tbWFuZDonICsgb3duZXJLZXksCiAgfSk7CiAgY29uc3QgYWZ0ZXJNb2RlbCA9IHJvdXRlci5wb2xpY3lGaW5nZXJwcmludChvd25lcktleSk7CiAgY29uc3Qgc2Vjb25kID0gcm91dGVyLnNldENvbnZlcnNhdGlvbihvd25lcktleSwgewogICAgbW9kZTogJ2Nsb3NlZC1hZ2VudCcsIHByZXNldDogJ3FzaC1jbG9zZWQnLCBtb2RlbDogJ20xJywgcmVhc29uaW5nRWZmb3J0OiAnaGlnaCcsCiAgICB1cGRhdGVkQnk6ICdjb25zb2xlJywKICB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGZpcnN0LmNoYW5nZWRLZXlzLCBbb3duZXJLZXldKTsKICBhc3NlcnQuZGVlcEVxdWFsKHNlY29uZC5jaGFuZ2VkS2V5cywgW293bmVyS2V5XSk7CiAgYXNzZXJ0Lm5vdEVxdWFsKGFmdGVyTW9kZWwsIHJvdXRlci5wb2xpY3lGaW5nZXJwcmludChvd25lcktleSkpOwogIGFzc2VydC5lcXVhbChyb3V0ZXIucG9saWN5RmluZ2VycHJpbnQoJ2dyb3VwOjgnKSwgZ3JvdXBCZWZvcmUpOwp9KTsKCnRlc3QoJ21ldGFkYXRhLW9ubHkgZWRpdHMgZG8gbm90IHJlc3RhcnQgYSBjb252ZXJzYXRpb24nLCAoKSA9PiB7CiAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRIH0pOwogIGNvbnN0IGZpbmdlcnByaW50ID0gcm91dGVyLnBvbGljeUZpbmdlcnByaW50KG93bmVyS2V5KTsKICBjb25zdCByZXN1bHQgPSByb3V0ZXIuc2V0Q29udmVyc2F0aW9uKG93bmVyS2V5LCB7CiAgICBtb2RlOiAnY2xvc2VkLWFnZW50JywgcHJlc2V0OiAncXNoLWNsb3NlZCcsIG1vZGVsOiBudWxsLAogICAgcmVhc29uaW5nRWZmb3J0OiBudWxsLCB1cGRhdGVkQnk6ICdjb25zb2xlJywgbm90ZTogJ3JlbmFtZWQnLAogIH0pOwogIGFzc2VydC5kZWVwRXF1YWwocmVzdWx0LmNoYW5nZWRLZXlzLCBbXSk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5wb2xpY3lGaW5nZXJwcmludChvd25lcktleSksIGZpbmdlcnByaW50KTsKfSk7Cgp0ZXN0KCdyZWplY3RlZCB1cGRhdGUgbGVhdmVzIGFsbCBjb252ZXJzYXRpb24gcG9saWNpZXMgdW5jaGFuZ2VkJywgKCkgPT4gewogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSB9KTsKICBjb25zdCBiZWZvcmUgPSByb3V0ZXIuc25hcHNob3QoKTsKICBhc3NlcnQudGhyb3dzKCgpID0+IHJvdXRlci5zZXRDb252ZXJzYXRpb24oJ2dyb3VwOjgnLCB7CiAgICBtb2RlOiAnY2xvc2VkLWFnZW50JywgcHJlc2V0OiAncXNoLWNsb3NlZCcsIHVwZGF0ZWRCeTogJ2NvbnNvbGUnLAogIH0pLCAvcmVzdHJpY3RlZCB0byB0aGUgb3duZXIvKTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5zbmFwc2hvdCgpLCBiZWZvcmUpOwp9KTsKCnRlc3QoJ3JlbW92aW5nIG93bmVyIG92ZXJyaWRlIHJldHVybnMgb25seSBvd25lciB0byBzaW11bGF0aW9uJywgKCkgPT4gewogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSB9KTsKICBjb25zdCBncm91cEJlZm9yZSA9IHJvdXRlci5wb2xpY3lGaW5nZXJwcmludCgnZ3JvdXA6OCcpOwogIGFzc2VydC5kZWVwRXF1YWwocm91dGVyLmRlbGV0ZUNvbnZlcnNhdGlvbihvd25lcktleSwgeyB1cGRhdGVkQnk6ICdjb25zb2xlJyB9KS5jaGFuZ2VkS2V5cywgW293bmVyS2V5XSk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5tb2RlRm9yKG93bmVyS2V5KSwgJ3NpbXVsYXRpb24nKTsKICBhc3NlcnQuZXF1YWwocm91dGVyLnBvbGljeUZpbmdlcnByaW50KCdncm91cDo4JyksIGdyb3VwQmVmb3JlKTsKfSk7Cgp0ZXN0KCdsZWdhY3kgY2hhdCwgcmVzZXJ2ZWQsIGFuZCByZXNlcnZlZDIgbWlncmF0ZSBleHBsaWNpdGx5IHdpdGggYXVkaXQgZXZlbnRzJywgKCkgPT4gewogIGZvciAoY29uc3QgbW9kZSBvZiBbJ2NoYXQnLCAncmVzZXJ2ZWQnLCAncmVzZXJ2ZWQyJ10pIHsKICAgIGNvbnN0IHsgc3RhdGUsIGV2ZW50cyB9ID0gbWlncmF0ZUxlZ2FjeU1vZGUoeyBtb2RlLCBvd25lclFRIH0pOwogICAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZSB9KTsKICAgIGFzc2VydC5lcXVhbChyb3V0ZXIubW9kZUZvcihvd25lcktleSksICdzaW11bGF0aW9uJyk7CiAgICBhc3NlcnQuZXF1YWwocm91dGVyLm1vZGVGb3IoJ2dyb3VwOjgnKSwgJ3NpbXVsYXRpb24nKTsKICAgIGFzc2VydC5lcXVhbChldmVudHMubGVuZ3RoLCAxKTsKICAgIGFzc2VydC5lcXVhbChldmVudHNbMF0uZnJvbSwgbW9kZSk7CiAgICBhc3NlcnQuZXF1YWwoZXZlbnRzWzBdLnR5cGUsICdsZWdhY3ktbW9kZS1taWdyYXRlZCcpOwogIH0KfSk7Cgp0ZXN0KCdsZWdhY3kgY2xvc2VkLWFnZW50IG1pZ3JhdGVzIG9ubHkgdG8gb3duZXIgcHJpdmF0ZScsICgpID0+IHsKICBjb25zdCB7IHN0YXRlLCBldmVudHMgfSA9IG1pZ3JhdGVMZWdhY3lNb2RlKHsgbW9kZTogJ2Nsb3NlZC1hZ2VudCcsIG93bmVyUVEgfSk7CiAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBzdGF0ZSB9KTsKICBhc3NlcnQuZXF1YWwocm91dGVyLm1vZGVGb3Iob3duZXJLZXkpLCAnY2xvc2VkLWFnZW50Jyk7CiAgYXNzZXJ0LmVxdWFsKHJvdXRlci5tb2RlRm9yKCdncm91cDo4JyksICdzaW11bGF0aW9uJyk7CiAgYXNzZXJ0LmVxdWFsKHN0YXRlLmNvbnZlcnNhdGlvbnNbb3duZXJLZXldLnVwZGF0ZWRCeSwgJ21pZ3JhdGlvbicpOwogIGFzc2VydC5lcXVhbChldmVudHNbMF0ub3duZXJLZXksIG93bmVyS2V5KTsKfSk7Cgp0ZXN0KCdsZWdhY3kgY2xvc2VkLWFnZW50IHdpdGhvdXQgb3duZXIgaXMgZG93bmdyYWRlZCBhbmQgYXVkaXRlZCcsICgpID0+IHsKICBjb25zdCB7IHN0YXRlLCBldmVudHMgfSA9IG1pZ3JhdGVMZWdhY3lNb2RlKHsgbW9kZTogJ2Nsb3NlZC1hZ2VudCcgfSk7CiAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBzdGF0ZSB9KTsKICBhc3NlcnQuZXF1YWwocm91dGVyLm1vZGVGb3Iob3duZXJLZXkpLCAnc2ltdWxhdGlvbicpOwogIGFzc2VydC5tYXRjaChldmVudHNbMF0ucmVhc29uLCAvbWlzc2luZyBvd25lclFRLyk7Cn0pOwoKdGVzdCgndW5rbm93biBsZWdhY3kgbW9kZSBhbmQgdW5zdXBwb3J0ZWQgc3RhdGUgdmVyc2lvbnMgZmFpbCBjbG9zZWQnLCAoKSA9PiB7CiAgYXNzZXJ0LnRocm93cygoKSA9PiBtaWdyYXRlTGVnYWN5TW9kZSh7IG1vZGU6ICdhZG1pbmlzdHJhdG9yJywgb3duZXJRUSB9KSwgL1Vua25vd24gbGVnYWN5IG1vZGUvKTsKICBhc3NlcnQudGhyb3dzKCgpID0+IG1pZ3JhdGVMZWdhY3lNb2RlKHsgb3duZXJRUSB9KSwgL1Vua25vd24gbGVnYWN5IG1vZGUvKTsKICBjb25zdCBzdGF0ZSA9IGNyZWF0ZUluaXRpYWxDb252ZXJzYXRpb25TdGF0ZShvd25lclFRKTsKICBzdGF0ZS52ZXJzaW9uID0gMjsKICBhc3NlcnQudGhyb3dzKCgpID0+IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgc3RhdGUgfSksIC92ZXJzaW9uIDEvKTsKfSk7Cgp0ZXN0KCdhbGlhc2VkIGR1cGxpY2F0ZSBrZXlzIGFyZSByZWplY3RlZCByYXRoZXIgdGhhbiBvdmVyd3JpdGluZyBwb2xpY3knLCAoKSA9PiB7CiAgY29uc3Qgc3RhdGUgPSBjcmVhdGVJbml0aWFsQ29udmVyc2F0aW9uU3RhdGUob3duZXJRUSk7CiAgc3RhdGUuY29udmVyc2F0aW9uc1sncHJpdmF0ZTowNDInXSA9IHsKICAgIG1vZGU6ICdzaW11bGF0aW9uJywgcHJlc2V0OiAncXNoLXNpbScsIHVwZGF0ZWRCeTogJ2NvbnNvbGUnLAogIH07CiAgYXNzZXJ0LnRocm93cygoKSA9PiBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEsIHN0YXRlIH0pLCAvRHVwbGljYXRlIGNvbnZlcnNhdGlvbiBrZXkvKTsKfSk7CgoKdGVzdCgnZXhwbGljaXQgbnVsbCBvciBkYW1hZ2VkIHN0YXRlIG5ldmVyIHRyaWdnZXJzIG93bmVyIGZpcnN0LXJ1biBwcml2aWxlZ2VzJywgKCkgPT4gewogIGFzc2VydC5lcXVhbChuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEsIHN0YXRlOiB1bmRlZmluZWQgfSkubW9kZUZvcihvd25lcktleSksICdjbG9zZWQtYWdlbnQnKTsKICBmb3IgKGNvbnN0IHN0YXRlIG9mIFtudWxsLCBmYWxzZSwge30sIHsgdmVyc2lvbjogMSwgZGVmYXVsdHM6IG51bGwsIGNvbnZlcnNhdGlvbnM6IHt9IH1dKSB7CiAgICBhc3NlcnQudGhyb3dzKCgpID0+IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgc3RhdGUgfSksIC9jb252ZXJzYXRpb24gc3RhdGV8ZGVmYXVsdHMvKTsKICB9Cn0pOwoKdGVzdCgncGVyc2lzdGVkIGNvbnZlcnNhdGlvbiB3aXRob3V0IGEgdmFsaWQgdXBkYXRlZEJ5IGlzIHJlamVjdGVkJywgKCkgPT4gewogIGNvbnN0IHN0YXRlID0gY3JlYXRlSW5pdGlhbENvbnZlcnNhdGlvblN0YXRlKG93bmVyUVEsIHsgY2xvc2VkQWdlbnRFbmFibGVkOiBmYWxzZSB9KTsKICBzdGF0ZS5jb252ZXJzYXRpb25zWydncm91cDo4J10gPSB7IG1vZGU6ICdzaW11bGF0aW9uJywgcHJlc2V0OiAncXNoLXNpbScgfTsKICBhc3NlcnQudGhyb3dzKCgpID0+IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgc3RhdGUgfSksIC91cGRhdGVkQnkvKTsKICBzdGF0ZS5jb252ZXJzYXRpb25zWydncm91cDo4J10udXBkYXRlZEJ5ID0gJ2NvbW1hbmQ6cHJpdmF0ZTo4JzsKICBhc3NlcnQudGhyb3dzKCgpID0+IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgc3RhdGUgfSksIC91cGRhdGVkQnkvKTsKfSk7Cgp0ZXN0KCdzZXRDb252ZXJzYXRpb24gcmVxdWlyZXMgYSBsaXZlIGFjdG9yIGFuZCBsZWF2ZXMgc3RhdGUgdW50b3VjaGVkIG9uIHJlamVjdGlvbicsICgpID0+IHsKICBjb25zdCByb3V0ZXIgPSBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEgfSk7CiAgY29uc3QgYmVmb3JlID0gcm91dGVyLnNuYXBzaG90KCk7CiAgZm9yIChjb25zdCB1cGRhdGVkQnkgb2YgW3VuZGVmaW5lZCwgJycsICdtaWdyYXRpb24nLCAnZmlyc3QtcnVuJywgJ2NvbW1hbmQ6cHJpdmF0ZTo4J10pIHsKICAgIGFzc2VydC50aHJvd3MoKCkgPT4gcm91dGVyLnNldENvbnZlcnNhdGlvbignZ3JvdXA6OCcsIHsKICAgICAgbW9kZTogJ3NpbXVsYXRpb24nLCBwcmVzZXQ6ICdxc2gtc2ltLXYyJywgdXBkYXRlZEJ5LAogICAgfSksIC91cGRhdGVkQnkvKTsKICAgIGFzc2VydC5kZWVwRXF1YWwocm91dGVyLnNuYXBzaG90KCksIGJlZm9yZSk7CiAgfQp9KTsKCnRlc3QoJ3NldENvbnZlcnNhdGlvbiByZXR1cm5zIGFjdG9yLCB0aW1lLCBhbmQgYmVmb3JlL2FmdGVyIGZvciBhIHZhbGlkIG93bmVyIGNvbW1hbmQnLCAoKSA9PiB7CiAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBub3c6ICgpID0+IDFfNzUwXzAwMF8wMDBfMDAwIH0pOwogIGNvbnN0IGJlZm9yZSA9IHJvdXRlci5wb2xpY3lGb3Iob3duZXJLZXkpOwogIGNvbnN0IHJlc3VsdCA9IHJvdXRlci5zZXRDb252ZXJzYXRpb24ob3duZXJLZXksIHsKICAgIG1vZGU6ICdzaW11bGF0aW9uJywgcHJlc2V0OiAncXNoLXNpbScsIHVwZGF0ZWRCeTogJ2NvbW1hbmQ6JyArIG93bmVyS2V5LAogIH0pOwogIGFzc2VydC5kZWVwRXF1YWwocmVzdWx0LmNoYW5nZWRLZXlzLCBbb3duZXJLZXldKTsKICBhc3NlcnQuZGVlcEVxdWFsKHJlc3VsdC5hdWRpdEV2ZW50LCB7CiAgICB0eXBlOiAnY29udmVyc2F0aW9uLXNldCcsIGtleTogb3duZXJLZXksCiAgICB1cGRhdGVkQnk6ICdjb21tYW5kOicgKyBvd25lcktleSwKICAgIGF0OiAxXzc1MF8wMDBfMDAwXzAwMCwgYmVmb3JlLCBhZnRlcjogcm91dGVyLnBvbGljeUZvcihvd25lcktleSksCiAgICBoYWRPdmVycmlkZTogdHJ1ZSwgcG9saWN5Q2hhbmdlZDogdHJ1ZSwKICB9KTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmF1ZGl0RXZlbnQuYmVmb3JlLm1vZGUsICdjbG9zZWQtYWdlbnQnKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmF1ZGl0RXZlbnQuYWZ0ZXIubW9kZSwgJ3NpbXVsYXRpb24nKTsKfSk7Cgp0ZXN0KCdkZWxldGVDb252ZXJzYXRpb24gcmVxdWlyZXMgYW4gYWN0b3IgYW5kIHJldHVybnMgYSBzdHJ1Y3R1cmVkIGF1ZGl0IGV2ZW50JywgKCkgPT4gewogIGNvbnN0IHJvdXRlciA9IG5ldyBTZXNzaW9uUm91dGVyKHsgb3duZXJRUSwgbm93OiAoKSA9PiAxXzc1MF8wMDBfMDAwXzAwMSB9KTsKICBjb25zdCBiZWZvcmVQb2xpY3kgPSByb3V0ZXIucG9saWN5Rm9yKG93bmVyS2V5KTsKICBjb25zdCBiZWZvcmUgPSByb3V0ZXIuc25hcHNob3QoKTsKICBhc3NlcnQudGhyb3dzKCgpID0+IHJvdXRlci5kZWxldGVDb252ZXJzYXRpb24ob3duZXJLZXkpLCAvdXBkYXRlZEJ5Lyk7CiAgYXNzZXJ0LnRocm93cygoKSA9PiByb3V0ZXIuZGVsZXRlQ29udmVyc2F0aW9uKG93bmVyS2V5LCB7CiAgICB1cGRhdGVkQnk6ICdjb21tYW5kOnByaXZhdGU6OCcsCiAgfSksIC91cGRhdGVkQnkvKTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5zbmFwc2hvdCgpLCBiZWZvcmUpOwogIGNvbnN0IHJlc3VsdCA9IHJvdXRlci5kZWxldGVDb252ZXJzYXRpb24ob3duZXJLZXksIHsgdXBkYXRlZEJ5OiAnY29uc29sZScgfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChyZXN1bHQuY2hhbmdlZEtleXMsIFtvd25lcktleV0pOwogIGFzc2VydC5kZWVwRXF1YWwocmVzdWx0LmF1ZGl0RXZlbnQsIHsKICAgIHR5cGU6ICdjb252ZXJzYXRpb24tZGVsZXRlZCcsIGtleTogb3duZXJLZXksCiAgICB1cGRhdGVkQnk6ICdjb25zb2xlJywgYXQ6IDFfNzUwXzAwMF8wMDBfMDAxLAogICAgYmVmb3JlOiBiZWZvcmVQb2xpY3ksIGFmdGVyOiByb3V0ZXIucG9saWN5Rm9yKG93bmVyS2V5KSwKICAgIGhhZE92ZXJyaWRlOiB0cnVlLCBub09wOiBmYWxzZSwgcG9saWN5Q2hhbmdlZDogdHJ1ZSwKICB9KTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmF1ZGl0RXZlbnQuYmVmb3JlLm1vZGUsICdjbG9zZWQtYWdlbnQnKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmF1ZGl0RXZlbnQuYWZ0ZXIubW9kZSwgJ3NpbXVsYXRpb24nKTsKfSk7CgoKdGVzdCgnZGVsZXRpbmcgYW4gYWJzZW50IG92ZXJyaWRlIGlzIHZpc2libHkgYSBuby1vcCcsICgpID0+IHsKICBjb25zdCByb3V0ZXIgPSBuZXcgU2Vzc2lvblJvdXRlcih7IG93bmVyUVEsIG5vdzogKCkgPT4gMV83NTBfMDAwXzAwMF8wMDIgfSk7CiAgY29uc3QgYmVmb3JlID0gcm91dGVyLnBvbGljeUZvcignZ3JvdXA6OCcpOwogIGNvbnN0IHJlc3VsdCA9IHJvdXRlci5kZWxldGVDb252ZXJzYXRpb24oJ2dyb3VwOjgnLCB7IHVwZGF0ZWRCeTogJ2NvbnNvbGUnIH0pOwogIGFzc2VydC5kZWVwRXF1YWwocmVzdWx0LmNoYW5nZWRLZXlzLCBbXSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChyZXN1bHQuYXVkaXRFdmVudCwgewogICAgdHlwZTogJ2NvbnZlcnNhdGlvbi1kZWxldGVkJywga2V5OiAnZ3JvdXA6OCcsIHVwZGF0ZWRCeTogJ2NvbnNvbGUnLAogICAgYXQ6IDFfNzUwXzAwMF8wMDBfMDAyLCBiZWZvcmUsIGFmdGVyOiByb3V0ZXIucG9saWN5Rm9yKCdncm91cDo4JyksCiAgICBoYWRPdmVycmlkZTogZmFsc2UsIG5vT3A6IHRydWUsIHBvbGljeUNoYW5nZWQ6IGZhbHNlLAogIH0pOwp9KTsKCnRlc3QoJ2ludmFsaWQgYXVkaXQgY2xvY2sgY2Fubm90IGNvbW1pdCBhIHBvbGljeSBjaGFuZ2UnLCAoKSA9PiB7CiAgY29uc3Qgcm91dGVyID0gbmV3IFNlc3Npb25Sb3V0ZXIoeyBvd25lclFRLCBub3c6ICgpID0+IE51bWJlci5OYU4gfSk7CiAgY29uc3QgYmVmb3JlID0gcm91dGVyLnNuYXBzaG90KCk7CiAgYXNzZXJ0LnRocm93cygoKSA9PiByb3V0ZXIuc2V0Q29udmVyc2F0aW9uKG93bmVyS2V5LCB7CiAgICBtb2RlOiAnc2ltdWxhdGlvbicsIHByZXNldDogJ3FzaC1zaW0nLCB1cGRhdGVkQnk6ICdjb25zb2xlJywKICB9KSwgL2F1ZGl0IHRpbWUvKTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5zbmFwc2hvdCgpLCBiZWZvcmUpOwogIGFzc2VydC50aHJvd3MoKCkgPT4gcm91dGVyLmRlbGV0ZUNvbnZlcnNhdGlvbihvd25lcktleSwgeyB1cGRhdGVkQnk6ICdjb25zb2xlJyB9KSwgL2F1ZGl0IHRpbWUvKTsKICBhc3NlcnQuZGVlcEVxdWFsKHJvdXRlci5zbmFwc2hvdCgpLCBiZWZvcmUpOwp9KTsK
+import assert from 'node:assert/strict';
+import test from 'node:test';
+import {
+  canonicalConversationKey,
+  createInitialConversationState,
+  migrateLegacyMode,
+  SessionRouter,
+} from './session-router.mjs';
+
+const ownerQQ = 42; // Synthetic test identity.
+const ownerKey = `private:${ownerQQ}`;
+
+function stateWith(key, policy) {
+  const state = createInitialConversationState(ownerQQ, { closedAgentEnabled: false });
+  state.conversations[key] = { updatedBy: 'console', ...policy };
+  return state;
+}
+
+test('conversation keys remove leading zeros and surrounding whitespace', () => {
+  assert.equal(canonicalConversationKey('  private:00042  '), ownerKey);
+  assert.equal(canonicalConversationKey('group:00042'), 'group:42');
+});
+
+test('invalid, zero, and unsafe integer keys never become conversations', () => {
+  for (const key of ['private:0', 'group:-1', 'group:1.5', 'Group:1',
+    'private:9007199254740992', 'private:1:2', null]) {
+    assert.equal(canonicalConversationKey(key), null, String(key));
+  }
+});
+
+test('initial owner private is closed-agent and all other channels simulate', () => {
+  const router = new SessionRouter({ ownerQQ });
+  assert.equal(router.modeFor(ownerKey), 'closed-agent');
+  assert.equal(router.presetFor(ownerKey), 'qsh-closed');
+  assert.equal(router.modeFor('private:9'), 'simulation');
+  assert.equal(router.modeFor('group:9'), 'simulation');
+  assert.equal(router.presetFor('group:9'), 'qsh-sim');
+  // Whatever this constructor emits must be loadable by it. Keeping the raw
+  // legacy `reserved2` spelling in `defaults.mode` next to the canonical
+  // `qsh-sim` preset produces a state this very loader rejects (the legacy
+  // spelling only accepts the legacy preset), so the persisted default is
+  // canonicalised on the way out.
+  const reloaded = new SessionRouter({ ownerQQ, state: router.snapshot() });
+  assert.equal(reloaded.defaultMode, router.defaultMode);
+  assert.equal(reloaded.presetFor('group:9'), 'qsh-sim');
+  assert.equal(reloaded.policyFingerprint('group:9'), router.policyFingerprint('group:9'));
+});
+
+test('missing ownerQQ keeps every conversation in simulation', () => {
+  const router = new SessionRouter();
+  assert.equal(router.ownerQQ, null);
+  assert.equal(router.modeFor(ownerKey), 'simulation');
+  assert.equal(router.modeFor('group:9'), 'simulation');
+});
+
+test('owner may explicitly disable closed-agent at first run', () => {
+  const state = createInitialConversationState(ownerQQ, { closedAgentEnabled: false });
+  const router = new SessionRouter({ ownerQQ, state });
+  assert.deepEqual(state.conversations, {});
+  assert.equal(router.modeFor(ownerKey), 'simulation');
+});
+
+test('invalid ownerQQ is rejected rather than silently trusted', () => {
+  for (const invalid of [0, -1, 'abc', '9007199254740992']) {
+    assert.throws(() => new SessionRouter({ ownerQQ: invalid }), /ownerQQ/);
+  }
+});
+
+test('closed-agent cannot be the global default', () => {
+  const state = createInitialConversationState(ownerQQ);
+  state.defaults = { mode: 'closed-agent', preset: 'qsh-closed' };
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /defaults must remain simulation/);
+});
+
+test('closed-agent cannot be assigned to a group', () => {
+  const state = stateWith('group:8', { mode: 'closed-agent', preset: 'qsh-closed' });
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /restricted to the owner/);
+});
+
+test('closed-agent cannot be assigned to another private conversation', () => {
+  const state = stateWith('private:8', { mode: 'closed-agent', preset: 'qsh-closed' });
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /restricted to the owner/);
+});
+
+test('closed-agent is rejected when no owner is configured', () => {
+  const state = stateWith(ownerKey, { mode: 'closed-agent', preset: 'qsh-closed' });
+  assert.throws(() => new SessionRouter({ state }), /restricted to the owner/);
+});
+
+test('missing and unknown modes fail closed at load', () => {
+  for (const policy of [
+    { preset: 'qsh-sim' },
+    { mode: 'reserved2', preset: 'qsh-sim' },
+    { mode: 'mystery', preset: 'qsh-sim' },
+    { mode: { toString: () => 'closed-agent' }, preset: 'qsh-closed' },
+  ]) {
+    assert.throws(() => new SessionRouter({ ownerQQ, state: stateWith('group:8', policy) }));
+  }
+});
+
+test('missing, null, unknown, and cross-mode presets fail closed', () => {
+  for (const policy of [
+    { mode: 'simulation' },
+    { mode: 'simulation', preset: null },
+    { mode: 'simulation', preset: 'standard' },
+    { mode: 'simulation', preset: 'qsh-closed' },
+  ]) {
+    assert.throws(() => new SessionRouter({ ownerQQ, state: stateWith('group:8', policy) }));
+  }
+  assert.throws(() => new SessionRouter({ ownerQQ,
+    state: stateWith(ownerKey, { mode: 'closed-agent', preset: 'qsh-sim' }) }));
+});
+
+test('defaults also require known mode and preset', () => {
+  for (const defaults of [
+    { preset: 'qsh-sim' },
+    { mode: 'simulation' },
+    { mode: 'simulation', preset: 'standard' },
+  ]) {
+    const state = createInitialConversationState(ownerQQ);
+    state.defaults = defaults;
+    assert.throws(() => new SessionRouter({ ownerQQ, state }));
+  }
+});
+
+test('mode, preset, model, and effort resolve independently per conversation', () => {
+  const state = createInitialConversationState(ownerQQ);
+  state.defaults.model = 'default-model';
+  state.defaults.reasoningEffort = 'low';
+  state.conversations[ownerKey].model = 'owner-model';
+  state.conversations[ownerKey].reasoningEffort = 'high';
+  state.conversations['group:8'] = {
+    mode: 'simulation', preset: 'qsh-sim-v2', model: null, updatedBy: 'console',
+  };
+  const router = new SessionRouter({ ownerQQ, state });
+  assert.deepEqual([router.modeFor(ownerKey), router.presetFor(ownerKey),
+    router.modelFor(ownerKey), router.effortFor(ownerKey)],
+  ['closed-agent', 'qsh-closed', 'owner-model', 'high']);
+  assert.deepEqual([router.modeFor('group:8'), router.presetFor('group:8'),
+    router.modelFor('group:8'), router.effortFor('group:8')],
+  ['simulation', 'qsh-sim-v2', null, 'low']);
+  assert.equal(router.modelFor('private:8'), 'default-model');
+});
+
+test('simulation permissions deny local tools and admin commands', () => {
+  const router = new SessionRouter({ ownerQQ });
+  assert.deepEqual(router.permissionsFor('group:8'), {
+    localExecution: false, localFiles: false, adminCommands: false,
+  });
+  assert.deepEqual(router.permissionsFor('private:8'), router.permissionsFor('group:8'));
+  assert.deepEqual(router.permissionsFor(ownerKey), {
+    localExecution: true, localFiles: true, adminCommands: true,
+  });
+});
+
+test('invalid caller key is rejected instead of receiving default privileges', () => {
+  const router = new SessionRouter({ ownerQQ });
+  assert.throws(() => router.modeFor('group:0'), /Invalid conversation key/);
+  assert.throws(() => router.permissionsFor('private:9007199254740992'), /Invalid conversation key/);
+});
+
+test('a policy change reports only its canonical conversation key', () => {
+  const router = new SessionRouter({ ownerQQ });
+  const ownerBefore = router.policyFingerprint(ownerKey);
+  const otherBefore = router.policyFingerprint('group:9');
+  const result = router.setConversation('group:0008', {
+    mode: 'simulation', preset: 'qsh-sim-v2', model: 'small', reasoningEffort: 'low',
+    updatedBy: 'console',
+  });
+  assert.deepEqual(result.changedKeys, ['group:8']);
+  assert.equal(router.policyFingerprint(ownerKey), ownerBefore);
+  assert.equal(router.policyFingerprint('group:9'), otherBefore);
+  assert.notEqual(router.policyFingerprint('group:8'), otherBefore);
+});
+
+test('model and effort edits each change only that conversation fingerprint', () => {
+  const router = new SessionRouter({ ownerQQ });
+  const groupBefore = router.policyFingerprint('group:8');
+  const first = router.setConversation(ownerKey, {
+    mode: 'closed-agent', preset: 'qsh-closed', model: 'm1', reasoningEffort: null,
+    updatedBy: 'command:' + ownerKey,
+  });
+  const afterModel = router.policyFingerprint(ownerKey);
+  const second = router.setConversation(ownerKey, {
+    mode: 'closed-agent', preset: 'qsh-closed', model: 'm1', reasoningEffort: 'high',
+    updatedBy: 'console',
+  });
+  assert.deepEqual(first.changedKeys, [ownerKey]);
+  assert.deepEqual(second.changedKeys, [ownerKey]);
+  assert.notEqual(afterModel, router.policyFingerprint(ownerKey));
+  assert.equal(router.policyFingerprint('group:8'), groupBefore);
+});
+
+test('metadata-only edits do not restart a conversation', () => {
+  const router = new SessionRouter({ ownerQQ });
+  const fingerprint = router.policyFingerprint(ownerKey);
+  const result = router.setConversation(ownerKey, {
+    mode: 'closed-agent', preset: 'qsh-closed', model: null,
+    reasoningEffort: null, updatedBy: 'console', note: 'renamed',
+  });
+  assert.deepEqual(result.changedKeys, []);
+  assert.equal(router.policyFingerprint(ownerKey), fingerprint);
+});
+
+test('rejected update leaves all conversation policies unchanged', () => {
+  const router = new SessionRouter({ ownerQQ });
+  const before = router.snapshot();
+  assert.throws(() => router.setConversation('group:8', {
+    mode: 'closed-agent', preset: 'qsh-closed', updatedBy: 'console',
+  }), /restricted to the owner/);
+  assert.deepEqual(router.snapshot(), before);
+});
+
+test('removing owner override returns only owner to simulation', () => {
+  const router = new SessionRouter({ ownerQQ });
+  const groupBefore = router.policyFingerprint('group:8');
+  assert.deepEqual(router.deleteConversation(ownerKey, { updatedBy: 'console' }).changedKeys, [ownerKey]);
+  assert.equal(router.modeFor(ownerKey), 'simulation');
+  assert.equal(router.policyFingerprint('group:8'), groupBefore);
+});
+
+test('legacy chat, reserved, and reserved2 migrate explicitly with audit events', () => {
+  for (const mode of ['chat', 'reserved', 'reserved2']) {
+    const { state, events } = migrateLegacyMode({ mode, ownerQQ });
+    const router = new SessionRouter({ ownerQQ, state });
+    assert.equal(router.modeFor(ownerKey), 'simulation');
+    assert.equal(router.modeFor('group:8'), 'simulation');
+    assert.equal(events.length, 1);
+    assert.equal(events[0].from, mode);
+    assert.equal(events[0].type, 'legacy-mode-migrated');
+  }
+});
+
+test('legacy closed-agent migrates only to owner private', () => {
+  const { state, events } = migrateLegacyMode({ mode: 'closed-agent', ownerQQ });
+  const router = new SessionRouter({ ownerQQ, state });
+  assert.equal(router.modeFor(ownerKey), 'closed-agent');
+  assert.equal(router.modeFor('group:8'), 'simulation');
+  assert.equal(state.conversations[ownerKey].updatedBy, 'migration');
+  assert.equal(events[0].ownerKey, ownerKey);
+});
+
+test('legacy closed-agent without owner is downgraded and audited', () => {
+  const { state, events } = migrateLegacyMode({ mode: 'closed-agent' });
+  const router = new SessionRouter({ state });
+  assert.equal(router.modeFor(ownerKey), 'simulation');
+  assert.match(events[0].reason, /missing ownerQQ/);
+});
+
+test('unknown legacy mode and unsupported state versions fail closed', () => {
+  assert.throws(() => migrateLegacyMode({ mode: 'administrator', ownerQQ }), /Unknown legacy mode/);
+  assert.throws(() => migrateLegacyMode({ ownerQQ }), /Unknown legacy mode/);
+  const state = createInitialConversationState(ownerQQ);
+  state.version = 2;
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /version 1/);
+});
+
+test('aliased duplicate keys are rejected rather than overwriting policy', () => {
+  const state = createInitialConversationState(ownerQQ);
+  state.conversations['private:042'] = {
+    mode: 'simulation', preset: 'qsh-sim', updatedBy: 'console',
+  };
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /Duplicate conversation key/);
+});
+
+
+test('explicit null or damaged state never triggers owner first-run privileges', () => {
+  assert.equal(new SessionRouter({ ownerQQ, state: undefined }).modeFor(ownerKey), 'closed-agent');
+  for (const state of [null, false, {}, { version: 1, defaults: null, conversations: {} }]) {
+    assert.throws(() => new SessionRouter({ ownerQQ, state }), /conversation state|defaults/);
+  }
+});
+
+test('persisted conversation without a valid updatedBy is rejected', () => {
+  const state = createInitialConversationState(ownerQQ, { closedAgentEnabled: false });
+  state.conversations['group:8'] = { mode: 'simulation', preset: 'qsh-sim' };
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /updatedBy/);
+  state.conversations['group:8'].updatedBy = 'command:private:8';
+  assert.throws(() => new SessionRouter({ ownerQQ, state }), /updatedBy/);
+});
+
+test('setConversation requires a live actor and leaves state untouched on rejection', () => {
+  const router = new SessionRouter({ ownerQQ });
+  const before = router.snapshot();
+  for (const updatedBy of [undefined, '', 'migration', 'first-run', 'command:private:8']) {
+    assert.throws(() => router.setConversation('group:8', {
+      mode: 'simulation', preset: 'qsh-sim-v2', updatedBy,
+    }), /updatedBy/);
+    assert.deepEqual(router.snapshot(), before);
+  }
+});
+
+test('setConversation returns actor, time, and before/after for a valid owner command', () => {
+  const router = new SessionRouter({ ownerQQ, now: () => 1_750_000_000_000 });
+  const before = router.policyFor(ownerKey);
+  const result = router.setConversation(ownerKey, {
+    mode: 'simulation', preset: 'qsh-sim', updatedBy: 'command:' + ownerKey,
+  });
+  assert.deepEqual(result.changedKeys, [ownerKey]);
+  assert.deepEqual(result.auditEvent, {
+    type: 'conversation-set', key: ownerKey,
+    updatedBy: 'command:' + ownerKey,
+    at: 1_750_000_000_000, before, after: router.policyFor(ownerKey),
+    hadOverride: true, policyChanged: true,
+  });
+  assert.equal(result.auditEvent.before.mode, 'closed-agent');
+  assert.equal(result.auditEvent.after.mode, 'simulation');
+});
+
+test('deleteConversation requires an actor and returns a structured audit event', () => {
+  const router = new SessionRouter({ ownerQQ, now: () => 1_750_000_000_001 });
+  const beforePolicy = router.policyFor(ownerKey);
+  const before = router.snapshot();
+  assert.throws(() => router.deleteConversation(ownerKey), /updatedBy/);
+  assert.throws(() => router.deleteConversation(ownerKey, {
+    updatedBy: 'command:private:8',
+  }), /updatedBy/);
+  assert.deepEqual(router.snapshot(), before);
+  const result = router.deleteConversation(ownerKey, { updatedBy: 'console' });
+  assert.deepEqual(result.changedKeys, [ownerKey]);
+  assert.deepEqual(result.auditEvent, {
+    type: 'conversation-deleted', key: ownerKey,
+    updatedBy: 'console', at: 1_750_000_000_001,
+    before: beforePolicy, after: router.policyFor(ownerKey),
+    hadOverride: true, noOp: false, policyChanged: true,
+  });
+  assert.equal(result.auditEvent.before.mode, 'closed-agent');
+  assert.equal(result.auditEvent.after.mode, 'simulation');
+});
+
+
+test('deleting an absent override is visibly a no-op', () => {
+  const router = new SessionRouter({ ownerQQ, now: () => 1_750_000_000_002 });
+  const before = router.policyFor('group:8');
+  const result = router.deleteConversation('group:8', { updatedBy: 'console' });
+  assert.deepEqual(result.changedKeys, []);
+  assert.deepEqual(result.auditEvent, {
+    type: 'conversation-deleted', key: 'group:8', updatedBy: 'console',
+    at: 1_750_000_000_002, before, after: router.policyFor('group:8'),
+    hadOverride: false, noOp: true, policyChanged: false,
+  });
+});
+
+test('invalid audit clock cannot commit a policy change', () => {
+  const router = new SessionRouter({ ownerQQ, now: () => Number.NaN });
+  const before = router.snapshot();
+  assert.throws(() => router.setConversation(ownerKey, {
+    mode: 'simulation', preset: 'qsh-sim', updatedBy: 'console',
+  }), /audit time/);
+  assert.deepEqual(router.snapshot(), before);
+  assert.throws(() => router.deleteConversation(ownerKey, { updatedBy: 'console' }), /audit time/);
+  assert.deepEqual(router.snapshot(), before);
+});

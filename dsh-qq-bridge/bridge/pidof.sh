@@ -1,1 +1,36 @@
-IyEvc3lzdGVtL2Jpbi9zaAojIOaJk+WNsOWMuemFjSBjbWRsaW5lIOWFs+mUruWtl+eahOi/m+eoiyBQSUQKIyDnlKjms5U6IHBpZG9mLnNoIDxjbWRsaW5l5YWz6ZSu5a2XPgojIOi+k+WHujog5q+P6KGM5LiA5LiqIFBJRO+8m+aXoOWMuemFjei+k+WHuuepugojIOazqOaEj++8muS4jeeUqCAkKCApIOWRveS7pOabv+aNou+8jOmBv+WFjSB0b3lib3ggc2gg55qE5q276ZSB77yI6KeBIGlzX3J1bm5pbmcuc2gg5rOo6YeK77yJ44CCCgoKIyDilIDilIAg5Y+v56e75qSN6Lev5b6E5o6i5rWL77yIZHNoLXFxLWJyaWRnZSDmj5Lku7bnlJ/miJDvvIzli7/liKDvvInilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKIyDnlLXohJEgLyDmnI3liqHlmaggLyDlronljZPpgJrnlKjvvJrmoaXmjqXnm67lvZXmjInohJrmnKzoh6rouqvkvY3nva7mjqjlr7zvvIxub2RlIOi1sCBQQVRI77yMCiMgRFNIX0hPTUUg5LyY5YWI5Y+W546v5aKD5Y+Y6YeP77yM5YW25qyh5qGM6Z2iIERTSCDnuqblrprnm67lvZXjgIIKaWYgWyAteiAiJFBPUlRBQkxFX1BBVEhTX0xPQURFRCIgXTsgdGhlbgogIFBPUlRBQkxFX1BBVEhTX0xPQURFRD0xCiAgU0NSSVBUX0RJUj0iJChjZCAiJChkaXJuYW1lICIkMCIpIiAyPi9kZXYvbnVsbCAmJiBwd2QpIgogIEJSSURHRV9ESVI9IiR7QlJJREdFX0RJUjotJFNDUklQVF9ESVJ9IgogIE5PREVfQklOPSIke05PREVfQklOOi0kKGNvbW1hbmQgLXYgbm9kZSAyPi9kZXYvbnVsbCB8fCBlY2hvIG5vZGUpfSIKICBEU0hfSE9NRT0iJHtEU0hfSE9NRTotJEhPTUUvLmRzaH0iCiAgZXhwb3J0IEJSSURHRV9ESVIgTk9ERV9CSU4gRFNIX0hPTUUKZmkKIyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKS0VZPSIkMSIKWyAteiAiJEtFWSIgXSAmJiBleGl0IDEKClNFTEY9JCQKCmZvciBmIGluIC9wcm9jL1swLTldKi9jbWRsaW5lOyBkbwogIHBpZD0ke2YjL3Byb2MvfQogIHBpZD0ke3BpZCUvY21kbGluZX0KICBbICIkcGlkIiA9ICIkU0VMRiIgXSAmJiBjb250aW51ZQogIFsgLXIgIiRmIiBdIHx8IGNvbnRpbnVlCiAgZ3JlcCAtcWEgLS0gIiRLRVkiICIkZiIgMj4vZGV2L251bGwgfHwgY29udGludWUKICBncmVwIC1xYSAiaXNfcnVubmluZy5zaCIgIiRmIiAyPi9kZXYvbnVsbCAmJiBjb250aW51ZQogIGdyZXAgLXFhICJwaWRvZi5zaCIgIiRmIiAyPi9kZXYvbnVsbCAmJiBjb250aW51ZQogIGdyZXAgLXFhICJiYXNoIC1jIiAiJGYiIDI+L2Rldi9udWxsICYmIGNvbnRpbnVlCiAgZ3JlcCAtcWEgInNoIC1jIiAiJGYiIDI+L2Rldi9udWxsICYmIGNvbnRpbnVlCiAgZWNobyAiJHBpZCIKZG9uZQo=
+#!/system/bin/sh
+# 打印匹配 cmdline 关键字的进程 PID
+# 用法: pidof.sh <cmdline关键字>
+# 输出: 每行一个 PID；无匹配输出空
+# 注意：不用 $( ) 命令替换，避免 toybox sh 的死锁（见 is_running.sh 注释）。
+
+
+# ── 可移植路径探测（dsh-qq-bridge 插件生成，勿删）──────────────────
+# 电脑 / 服务器 / 安卓通用：桥接目录按脚本自身位置推导，node 走 PATH，
+# DSH_HOME 优先取环境变量，其次桌面 DSH 约定目录。
+if [ -z "$PORTABLE_PATHS_LOADED" ]; then
+  PORTABLE_PATHS_LOADED=1
+  SCRIPT_DIR="$(cd "$(dirname "$0")" 2>/dev/null && pwd)"
+  BRIDGE_DIR="${BRIDGE_DIR:-$SCRIPT_DIR}"
+  NODE_BIN="${NODE_BIN:-$(command -v node 2>/dev/null || echo node)}"
+  DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+  export BRIDGE_DIR NODE_BIN DSH_HOME
+fi
+# ────────────────────────────────────────────────────────────────────
+KEY="$1"
+[ -z "$KEY" ] && exit 1
+
+SELF=$$
+
+for f in /proc/[0-9]*/cmdline; do
+  pid=${f#/proc/}
+  pid=${pid%/cmdline}
+  [ "$pid" = "$SELF" ] && continue
+  [ -r "$f" ] || continue
+  grep -qa -- "$KEY" "$f" 2>/dev/null || continue
+  grep -qa "is_running.sh" "$f" 2>/dev/null && continue
+  grep -qa "pidof.sh" "$f" 2>/dev/null && continue
+  grep -qa "bash -c" "$f" 2>/dev/null && continue
+  grep -qa "sh -c" "$f" 2>/dev/null && continue
+  echo "$pid"
+done

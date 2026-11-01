@@ -1,1 +1,40 @@
-Ly8g5ZCR5oyH5a6a5ZCN56ew55qEIFFRIOe+pOWPkemAgeS4gOadoea1i+ivlea2iOaBr++8iOS7juahpeaOpeS+p+S4u+WKqOWPkemAge+8jOmqjOivgSDnvqTogYog5pa55ZCR77yJ44CCCi8vIOeUqOazle+8mm5vZGUgc2NyaXB0cy9zZW5kLXRlc3QtZ3JvdXAubWpzIDznvqTlkI3lhbPplK7or40+IFvmtojmga/lhoXlrrldCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKaW1wb3J0IHsgU25vd0x1bWFXZWJTb2NrZXRDbGllbnQsIHRleHQgfSBmcm9tICdAc25vd2x1bWEvc2RrJzsKCmNvbnN0IF9fZGlybmFtZSA9IHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBjZmcgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nLCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CmNvbnN0IHsgd3NVcmwsIGFjY2Vzc1Rva2VuIH0gPSBjZmcuc25vd2x1bWE7Cgpjb25zdCBrZXl3b3JkID0gcHJvY2Vzcy5hcmd2WzJdID8/ICfmnLrlmajkurrmtYvor5UnOwpjb25zdCBtZXNzYWdlID0gcHJvY2Vzcy5hcmd2WzNdID8/ICfjgJDmoaXmjqXmtYvor5XjgJHmiJHmmK8gRFNIIGFnZW5077yM6YCa6L+HIFNub3dMdW1hIOahpeaOpeaOpeWFpeacrOe+pOOAguaUtuWIsOivt+WbnuWkje+9nic7Cgpjb25zdCBib3QgPSBuZXcgU25vd0x1bWFXZWJTb2NrZXRDbGllbnQoeyB1cmw6IHdzVXJsLCBhY2Nlc3NUb2tlbjogYWNjZXNzVG9rZW4gfHwgdW5kZWZpbmVkLCByZWNvbm5lY3Q6IGZhbHNlIH0pOwpjb25zdCB0aW1lb3V0ID0gbmV3IFByb21pc2UoKF8sIHJlaikgPT4gc2V0VGltZW91dCgoKSA9PiByZWoobmV3IEVycm9yKCfotoXml7YnKSksIDEwXzAwMCkpOwoKdHJ5IHsKICBhd2FpdCBQcm9taXNlLnJhY2UoW2JvdC5jb25uZWN0KCksIHRpbWVvdXRdKTsKICBjb25zb2xlLmxvZygn4pyFIOW3sui/nuaOpee9keWFsycpOwoKICBjb25zdCBncm91cHMgPSBhd2FpdCBib3QucmF3KCdnZXRfZ3JvdXBfbGlzdCcsIHt9KTsKICBjb25zdCBsaXN0ID0gQXJyYXkuaXNBcnJheShncm91cHMpID8gZ3JvdXBzIDogKGdyb3Vwcz8uZGF0YSA/PyBbXSk7CiAgY29uc29sZS5sb2coYOWFsSAke2xpc3QubGVuZ3RofSDkuKrnvqTvvJpgLCBsaXN0Lm1hcCgoZykgPT4gYCR7Zy5ncm91cF9pZH0oJHtnLmdyb3VwX25hbWV9KWApLmpvaW4oJ+OAgScpKTsKCiAgY29uc3QgdGFyZ2V0ID0gbGlzdC5maW5kKChnKSA9PiBTdHJpbmcoZy5ncm91cF9uYW1lID8/ICcnKS5pbmNsdWRlcyhrZXl3b3JkKSk7CiAgaWYgKCF0YXJnZXQpIHsKICAgIGNvbnNvbGUuZXJyb3IoYOKdjCDmnKrmib7liLDlkI3np7DljIXlkKvjgIwke2tleXdvcmR944CN55qE576kYCk7CiAgICBwcm9jZXNzLmV4aXQoMSk7CiAgfQoKICBjb25zdCByZXN1bHQgPSBhd2FpdCBib3Quc2VuZEdyb3VwTWVzc2FnZSh0YXJnZXQuZ3JvdXBfaWQsIHRleHQobWVzc2FnZSkpOwogIGNvbnNvbGUubG9nKGDinIUg5bey5Y+R6YCB5Yiw576kICR7dGFyZ2V0Lmdyb3VwX2lkfe+8iCR7dGFyZ2V0Lmdyb3VwX25hbWV977yJOiAke21lc3NhZ2V9YCk7CiAgY29uc29sZS5sb2coJyAg5ZON5bqUOicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCkpOwp9IGNhdGNoIChlcnJvcikgewogIGNvbnNvbGUuZXJyb3IoJ+KdjCDlj5HpgIHlpLHotKU6JywgZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3IpOwogIHByb2Nlc3MuZXhpdCgxKTsKfSBmaW5hbGx5IHsKICB0cnkgeyBib3QuY2xvc2UoKTsgfSBjYXRjaCB7fQp9Cg==
+// 向指定名称的 QQ 群发送一条测试消息（从桥接侧主动发送，验证 群聊 方向）。
+// 用法：node scripts/send-test-group.mjs <群名关键词> [消息内容]
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { SnowLumaWebSocketClient, text } from '@snowluma/sdk';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const cfg = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'config.json'), 'utf8'));
+const { wsUrl, accessToken } = cfg.snowluma;
+
+const keyword = process.argv[2] ?? '机器人测试';
+const message = process.argv[3] ?? '【桥接测试】我是 DSH agent，通过 SnowLuma 桥接接入本群。收到请回复～';
+
+const bot = new SnowLumaWebSocketClient({ url: wsUrl, accessToken: accessToken || undefined, reconnect: false });
+const timeout = new Promise((_, rej) => setTimeout(() => rej(new Error('超时')), 10_000));
+
+try {
+  await Promise.race([bot.connect(), timeout]);
+  console.log('✅ 已连接网关');
+
+  const groups = await bot.raw('get_group_list', {});
+  const list = Array.isArray(groups) ? groups : (groups?.data ?? []);
+  console.log(`共 ${list.length} 个群：`, list.map((g) => `${g.group_id}(${g.group_name})`).join('、'));
+
+  const target = list.find((g) => String(g.group_name ?? '').includes(keyword));
+  if (!target) {
+    console.error(`❌ 未找到名称包含「${keyword}」的群`);
+    process.exit(1);
+  }
+
+  const result = await bot.sendGroupMessage(target.group_id, text(message));
+  console.log(`✅ 已发送到群 ${target.group_id}（${target.group_name}）: ${message}`);
+  console.log('  响应:', JSON.stringify(result));
+} catch (error) {
+  console.error('❌ 发送失败:', error?.message ?? error);
+  process.exit(1);
+} finally {
+  try { bot.close(); } catch {}
+}

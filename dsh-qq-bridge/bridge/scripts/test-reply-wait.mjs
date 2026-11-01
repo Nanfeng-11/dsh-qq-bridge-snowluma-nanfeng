@@ -1,1 +1,203 @@
-Ly8gRmlyc3QtcmVwbHkgcXVpZXQtd2luZG93IHJlZ3Jlc3Npb25zLiBSZWFsIGJyaWRnZSBoYW5kbGVycywgZml4dHVyZSBwZWVycyBvbmx5LgppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBodHRwIGZyb20gJ25vZGU6aHR0cCc7CmltcG9ydCB7IHRlc3QgfSBmcm9tICdub2RlOnRlc3QnOwppbXBvcnQgeyBicmlkZ2VIYXJuZXNzIH0gZnJvbSAnLi9hdWRpdC1icmlkZ2UtaGFybmVzcy5tanMnOwoKYXN5bmMgZnVuY3Rpb24gZml4dHVyZShydW4sIGNmZyA9IHt9KSB7CiAgY29uc3QgaCA9IGF3YWl0IGJyaWRnZUhhcm5lc3MoeyBjb25maWc6IHsgc29jaWFsVjI6IHsKICAgIHdha2U6IHsgcHJlU2xlZXBXYWl0RW5hYmxlZDogdHJ1ZSwgcHJlU2xlZXBXYWl0TXM6IDMwMDAwMCB9LAogICAgd2FpdDogeyBtaW5NczogMTAwLCBtYXhNczogNjAwMDAwLCBtaW5RdWlldEFmdGVyTmV3TXM6IDEwMCB9LAogICAgcHJvYWN0aXZlOiB7IGVuYWJsZWQ6IGZhbHNlIH0sIHN0aWNrZXI6IHsgZW5hYmxlZDogZmFsc2UgfSwKICAgIC4uLmNmZywKICB9IH0gfSk7CiAgaC5zZXRNb2RlKCdyZXNlcnZlZDInKTsKICBjb25zdCBrZXkgPSAnZ3JvdXA6NDU2JzsKICBjb25zdCBzdCA9IGguZ2V0U29jaWFsVjJTdGF0ZShrZXkpOwogIGNvbnN0IHNlcnZlciA9IGguc3RhcnRDb25zb2xlU2VydmVyKCk7CiAgaWYgKCFzZXJ2ZXIubGlzdGVuaW5nKSBhd2FpdCBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHNlcnZlci5vbmNlKCdsaXN0ZW5pbmcnLCByZXNvbHZlKSk7CiAgY29uc3QgcmVxdWVzdCA9IChyb3V0ZSwgYm9keSkgPT4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgY29uc3QgcmVxID0gaHR0cC5yZXF1ZXN0KHsgaG9zdG5hbWU6ICcxMjcuMC4wLjEnLCBwb3J0OiBzZXJ2ZXIuYWRkcmVzcygpLnBvcnQsCiAgICAgIHBhdGg6IGAvYXBpL3NvY2lhbFYyLyR7cm91dGV9P2tleT0ke2VuY29kZVVSSUNvbXBvbmVudChrZXkpfWAsCiAgICAgIG1ldGhvZDogYm9keSA9PT0gdW5kZWZpbmVkID8gJ0dFVCcgOiAnUE9TVCcsCiAgICAgIGhlYWRlcnM6IHsgJ3gtY29uc29sZS10b2tlbic6ICdmaXh0dXJlLWNvbnNvbGUtdG9rZW4nLCAneC1hZ2VudC10b2tlbic6IHN0LmFnZW50VG9rZW4sICdjb250ZW50LXR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwKICAgIH0sIHJlcyA9PiB7CiAgICAgIGxldCByYXcgPSAnJzsKICAgICAgcmVzLm9uKCdkYXRhJywgY2h1bmsgPT4geyByYXcgKz0gY2h1bms7IH0pOwogICAgICByZXMub24oJ2VuZCcsICgpID0+IHJlc29sdmUoeyBzdGF0dXM6IHJlcy5zdGF0dXNDb2RlLCBkYXRhOiBKU09OLnBhcnNlKHJhdykgfSkpOwogICAgfSk7CiAgICByZXEub24oJ2Vycm9yJywgcmVqZWN0KTsKICAgIHJlcS5zZXRUaW1lb3V0KDUwMDAsICgpID0+IHJlcS5kZXN0cm95KG5ldyBFcnJvcignRml4dHVyZSByZXF1ZXN0IHRpbWVkIG91dCcpKSk7CiAgICByZXEuZW5kKGJvZHkgPT09IHVuZGVmaW5lZCA/IHVuZGVmaW5lZCA6IEpTT04uc3RyaW5naWZ5KHsga2V5LCAuLi5ib2R5IH0pKTsKICB9KTsKICAvLyBHRVQgcm91dGVzIGNhcnJ5IHRoZWlyIG9wdGlvbnMgaW4gdGhlIHF1ZXJ5IHN0cmluZywgbm90IHRoZSBib2R5LgogIGNvbnN0IGdldCA9IChyb3V0ZSwgcXVlcnkgPSAnJykgPT4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgY29uc3QgcmVxID0gaHR0cC5yZXF1ZXN0KHsgaG9zdG5hbWU6ICcxMjcuMC4wLjEnLCBwb3J0OiBzZXJ2ZXIuYWRkcmVzcygpLnBvcnQsCiAgICAgIHBhdGg6IGAvYXBpL3NvY2lhbFYyLyR7cm91dGV9P2tleT0ke2VuY29kZVVSSUNvbXBvbmVudChrZXkpfSR7cXVlcnl9YCwKICAgICAgbWV0aG9kOiAnR0VUJywKICAgICAgaGVhZGVyczogeyAneC1jb25zb2xlLXRva2VuJzogJ2ZpeHR1cmUtY29uc29sZS10b2tlbicsICd4LWFnZW50LXRva2VuJzogc3QuYWdlbnRUb2tlbiB9LAogICAgfSwgcmVzID0+IHsKICAgICAgbGV0IHJhdyA9ICcnOwogICAgICByZXMub24oJ2RhdGEnLCBjaHVuayA9PiB7IHJhdyArPSBjaHVuazsgfSk7CiAgICAgIHJlcy5vbignZW5kJywgKCkgPT4gcmVzb2x2ZSh7IHN0YXR1czogcmVzLnN0YXR1c0NvZGUsIGRhdGE6IEpTT04ucGFyc2UocmF3KSB9KSk7CiAgICB9KTsKICAgIHJlcS5vbignZXJyb3InLCByZWplY3QpOwogICAgcmVxLnNldFRpbWVvdXQoNTAwMCwgKCkgPT4gcmVxLmRlc3Ryb3kobmV3IEVycm9yKCdGaXh0dXJlIHJlcXVlc3QgdGltZWQgb3V0JykpKTsKICAgIHJlcS5lbmQoKTsKICB9KTsKICBjb25zdCBhcHBlbmQgPSB0ZXh0ID0+IGguYXBwZW5kU29jaWFsVjJNZXNzYWdlKGtleSwgJ2ZpeHR1cmUtcGVyc29uJywgdGV4dCwgdGV4dCwgZmFsc2UsIGZhbHNlLCBgZml4dHVyZS0ke3N0Lmxhc3RVbnJlYWRTZXEgKyAxfWAsIFtdLCAnNzg5JywgW10pOwogIHRyeSB7IGF3YWl0IHJ1bih7IGgsIGtleSwgc3QsIHJlcXVlc3QsIGdldCwgYXBwZW5kIH0pOyB9CiAgZmluYWxseSB7IGF3YWl0IG5ldyBQcm9taXNlKHJlc29sdmUgPT4gc2VydmVyLmNsb3NlKHJlc29sdmUpKTsgYXdhaXQgaC5jbG9zZSgpOyB9Cn0KCnRlc3QoJ2ZpcnN0IHJlcGx5IGRvZXMgbm90IHdhaXQgb3V0IHRpbWVvdXQgd2hlbiB0aGUgc25hcHNob3QgbWVzc2FnZSBpcyBhbHJlYWR5IHF1aWV0JywgKCkgPT4gZml4dHVyZShhc3luYyAoeyBoLCBrZXksIHN0LCByZXF1ZXN0LCBhcHBlbmQgfSkgPT4gewogIGFwcGVuZCgnYSBjb21wbGV0ZSBmaXJzdCBtZXNzYWdlJyk7CiAgc3QubGFzdEluY29taW5nQXQgPSBEYXRlLm5vdygpIC0gMTAwMDA7IC8vIGJhdGNoaW5nIGFuZCBtb2RlbCByZWFkaW5nIGFscmVhZHkgY29uc3VtZWQgdGhlIHF1aWV0IHdpbmRvdwogIGF3YWl0IGguc2VuZFdha2VQcm9tcHRWMihrZXksICdxdWVzdGlvbicpOwogIGNvbnN0IHN0YXJ0ZWQgPSBEYXRlLm5vdygpOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMTIwMCwgcXVpZXRNczogMTAwIH0pOwogIGFzc2VydC5lcXVhbChyZXN1bHQuc3RhdHVzLCAyMDApOwogIGFzc2VydC5vayhEYXRlLm5vdygpIC0gc3RhcnRlZCA8IDYwMCwgYGFscmVhZHktcXVpZXQgbWVzc2FnZSB3YWl0ZWQgJHtyZXN1bHQuZGF0YS53YWl0ZWRNc31tc2ApOwogIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5xdWlldCwgdHJ1ZSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLnRpbWVvdXQsIGZhbHNlKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEuYXJyaXZlZCwgZmFsc2UpOwogIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5wcmVTbGVlcFdhaXRPYnNlcnZlZCwgZmFsc2UpOwogIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5wcmVTbGVlcFdhaXRTYXRpc2ZpZWQsIGZhbHNlKTsKICBhc3NlcnQuZXF1YWwoJ3ByZVNsZWVwV2FpdFJlbWFpbmluZ01zJyBpbiByZXN1bHQuZGF0YSwgZmFsc2UsICdmaXJzdCByZXBseSBtdXN0IG5vdCBiZSBwcmVzZW50ZWQgYXMgYW4gdW5maW5pc2hlZCBzbGVlcCBjb3VudGRvd24nKTsKfSkpOwoKdGVzdCgncmVwbHkgd2FpdHMgb25seSBmb3IgdGhlIHJlbWFpbmluZyBxdWlldCB0aW1lIGFmdGVyIG1vZGVsIHJlYWRpbmcnLCAoKSA9PiBmaXh0dXJlKGFzeW5jICh7IGgsIGtleSwgc3QsIHJlcXVlc3QsIGFwcGVuZCB9KSA9PiB7CiAgYXBwZW5kKCdjb21wbGV0ZSBtZXNzYWdlJyk7CiAgYXdhaXQgaC5zZW5kV2FrZVByb21wdFYyKGtleSwgJ3F1ZXN0aW9uJyk7CiAgc3QubGFzdEluY29taW5nQXQgPSBEYXRlLm5vdygpIC0gNjAwOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMTUwMCwgcXVpZXRNczogODAwIH0pOwogIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5xdWlldCwgdHJ1ZSk7CiAgYXNzZXJ0Lm9rKHJlc3VsdC5kYXRhLndhaXRlZE1zID49IDEwMCAmJiByZXN1bHQuZGF0YS53YWl0ZWRNcyA8IDYwMCwgYHJlbWFpbmluZyB3YWl0IHdhcyAke3Jlc3VsdC5kYXRhLndhaXRlZE1zfW1zYCk7Cn0pKTsKCnRlc3QoJ2EgbWVzc2FnZSBiZXR3ZWVuIHNuYXBzaG90IGFuZCB3YWl0IGlzIHJldHVybmVkIHdpdGhvdXQgZHVwbGljYXRlIHNuYXBzaG90IGNvbnRlbnQnLCAoKSA9PiBmaXh0dXJlKGFzeW5jICh7IGgsIGtleSwgc3QsIHJlcXVlc3QsIGFwcGVuZCB9KSA9PiB7CiAgYXBwZW5kKCdpbiBzbmFwc2hvdCcpOwogIGF3YWl0IGguc2VuZFdha2VQcm9tcHRWMihrZXksICdxdWVzdGlvbicpOwogIGFwcGVuZCgnYXJyaXZlZCB3aGlsZSBtb2RlbCB3YXMgdGhpbmtpbmcnKTsKICBzdC5sYXN0SW5jb21pbmdBdCA9IERhdGUubm93KCkgLSAxMDAwOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMTIwMCwgcXVpZXRNczogMTAwLCBtaW5OZXdNZXNzYWdlczogMjAgfSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLmFycml2ZWQsIHRydWUpOwogIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5xdWlldCwgdHJ1ZSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChyZXN1bHQuZGF0YS5uZXdNZXNzYWdlcy5tYXAobSA9PiBtLnNlcSksIFsyXSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5kYXRhLnJlYWRUaHJvdWdoU2VxLCAyKTsKICBhc3NlcnQuZXF1YWwoc3QudW5yZWFkLmxlbmd0aCwgMiwgJ3Zpc2liaWxpdHkgbmV2ZXIgYWNrbm93bGVkZ2VzIG1lc3NhZ2VzJyk7Cn0pKTsKCnRlc3QoJ2VhY2ggc3VwcGxlbWVudCByZXN0YXJ0cyBxdWlldCBmcm9tIGl0cyBhY3R1YWwgYXJyaXZhbCwgYW5kIGFwcGVhcnMgZXhhY3RseSBvbmNlJywgKCkgPT4gZml4dHVyZShhc3luYyAoeyBzdCwgcmVxdWVzdCwgYXBwZW5kIH0pID0+IHsKICBhcHBlbmQoJ2ZpcnN0Jyk7CiAgYXdhaXQgcmVxdWVzdCgndW5yZWFkJyk7CiAgc3QubGFzdEluY29taW5nQXQgPSBEYXRlLm5vdygpOwogIGNvbnN0IHRpbWVycyA9IFtzZXRUaW1lb3V0KCgpID0+IGFwcGVuZCgnc2Vjb25kJyksIDEyMCksIHNldFRpbWVvdXQoKCkgPT4gYXBwZW5kKCd0aGlyZCcpLCAyNDApXTsKICB0cnkgewogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgcHVycG9zZTogJ3JlcGx5JywgdGltZW91dE1zOiAxNTAwLCBxdWlldE1zOiAzMDAgfSk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEucXVpZXQsIHRydWUpOwogICAgYXNzZXJ0Lm9rKHJlc3VsdC5kYXRhLndhaXRlZE1zID49IDUwMCAmJiByZXN1bHQuZGF0YS53YWl0ZWRNcyA8IDEyMDApOwogICAgYXNzZXJ0LmRlZXBFcXVhbChyZXN1bHQuZGF0YS5uZXdNZXNzYWdlcy5tYXAobSA9PiBtLnNlcSksIFsyLCAzXSk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEucmVhZFRocm91Z2hTZXEsIDMpOwogIH0gZmluYWxseSB7IHRpbWVycy5mb3JFYWNoKGNsZWFyVGltZW91dCk7IH0KfSkpOwoKdGVzdCgncmVwbHkgdGltZW91dCBpcyBhIGhhcmQgYnVkZ2V0IGFuZCBjYW5ub3QgZ3JhbnQgc2xlZXAgb2JzZXJ2YXRpb24sIGV2ZW4gd2l0aCBhIGxvbmcgcmVxdWVzdGVkIGJ1ZGdldCcsICgpID0+IGZpeHR1cmUoYXN5bmMgKHsgaCwgc3QsIHJlcXVlc3QsIGFwcGVuZCB9KSA9PiB7CiAgaC5jZmcuc29jaWFsVjIud2FrZS5wcmVTbGVlcFdhaXRNcyA9IDIwMDsKICBhcHBlbmQoJ2ZpcnN0Jyk7CiAgYXdhaXQgcmVxdWVzdCgndW5yZWFkJyk7CiAgY29uc3QgdGltZXIgPSBzZXRUaW1lb3V0KCgpID0+IGFwcGVuZCgnc3VwcGxlbWVudCBuZWFyIGRlYWRsaW5lJyksIDIyMCk7CiAgdHJ5IHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMzAwLCBxdWlldE1zOiA2MDAgfSk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEudGltZW91dCwgdHJ1ZSk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEucXVpZXQsIGZhbHNlKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5zcGVha2VyTGlrZWx5RG9uZSwgZmFsc2UpOwogICAgYXNzZXJ0Lm9rKHJlc3VsdC5kYXRhLndhaXRlZE1zID49IDMwMCAmJiByZXN1bHQuZGF0YS53YWl0ZWRNcyA8IDkwMCk7CiAgICBhc3NlcnQuZXF1YWwocmVzdWx0LmRhdGEucHJlU2xlZXBXYWl0T2JzZXJ2ZWQsIGZhbHNlKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5wcmVTbGVlcFdhaXRTYXRpc2ZpZWQsIGZhbHNlKTsKICAgIGFzc2VydC5lcXVhbChzdC5wcmVTbGVlcFdhaXRPYnNlcnZlZEF0LCAwKTsKICAgIGFzc2VydC5lcXVhbChzdC5wcmVTbGVlcFdhaXRTYXRpc2ZpZWRBdCwgMCk7CiAgfSBmaW5hbGx5IHsgY2xlYXJUaW1lb3V0KHRpbWVyKTsgfQp9KSk7Cgp0ZXN0KCdvcmRpbmFyeSBhbmQgb21pdHRlZCBwdXJwb3NlIGtlZXAgd2FpdGluZyBmb3IgZnV0dXJlIG1lc3NhZ2VzJywgKCkgPT4gZml4dHVyZShhc3luYyAoeyBzdCwgcmVxdWVzdCwgYXBwZW5kIH0pID0+IHsKICBhcHBlbmQoJ2FscmVhZHkga25vd24nKTsKICBhd2FpdCByZXF1ZXN0KCd1bnJlYWQnKTsKICBzdC5sYXN0SW5jb21pbmdBdCA9IERhdGUubm93KCkgLSAxMDAwMDsKICBmb3IgKGNvbnN0IHB1cnBvc2Ugb2YgW3VuZGVmaW5lZCwgJ21lc3NhZ2VzJ10pIHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2UsIHRpbWVvdXRNczogNjAwLCBxdWlldE1zOiAxMDAgfSk7CiAgICBhc3NlcnQub2socmVzdWx0LmRhdGEud2FpdGVkTXMgPj0gNjAwKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS50aW1lb3V0LCB0cnVlKTsKICAgIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5xdWlldCwgZmFsc2UpOwogICAgYXNzZXJ0LmRlZXBFcXVhbChyZXN1bHQuZGF0YS5uZXdNZXNzYWdlcywgW10pOwogIH0KfSkpOwoKdGVzdCgncmVwbHkgbW9kZSByZWplY3RzIGEgc2Vzc2lvbiBwZXJtaXNzaW9uIGNoYW5nZSBkdXJpbmcgaXRzIHJlbWFpbmluZyBxdWlldCB3aW5kb3cnLCAoKSA9PiBmaXh0dXJlKGFzeW5jICh7IGgsIHN0LCByZXF1ZXN0LCBhcHBlbmQgfSkgPT4gewogIGFwcGVuZCgnc3RpbGwgZnJlc2gnKTsKICBjb25zdCB0aW1lciA9IHNldFRpbWVvdXQoKCkgPT4gaC5zZXRNb2RlKCdjaGF0JyksIDEwMCk7CiAgdHJ5IHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMTAwMCwgcXVpZXRNczogMzAwIH0pOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsIDQwMyk7CiAgICBhc3NlcnQuZXF1YWwoc3QubW9kZWxTZWVuU2Vxcy5zaXplLCAwKTsKICAgIGFzc2VydC5lcXVhbChzdC5wcmVTbGVlcFdhaXRPYnNlcnZlZEF0LCAwKTsKICB9IGZpbmFsbHkgeyBjbGVhclRpbWVvdXQodGltZXIpOyB9Cn0pKTsKCnRlc3QoJ3JlcGx5IG1vZGUgY2Fubm90IGV4cG9zZSBoaXN0b3JpY2FsIG1lc3NhZ2VzIHdoZW4gYm90aCBoaXN0b3J5IHRvb2xzIGFyZSBkaXNhYmxlZCcsICgpID0+IGZpeHR1cmUoYXN5bmMgKHsgaCwgc3QsIHJlcXVlc3QsIGFwcGVuZCB9KSA9PiB7CiAgaC5jZmcuc29jaWFsVjIudG9vbHMuZ2V0VW5yZWFkID0gZmFsc2U7CiAgaC5jZmcuc29jaWFsVjIudG9vbHMuZ2V0UmVjZW50ID0gZmFsc2U7CiAgYXBwZW5kKCdoaWRkZW4gaGlzdG9yaWNhbCBtZXNzYWdlJyk7CiAgc3QubGFzdEluY29taW5nQXQgPSBEYXRlLm5vdygpIC0gMTAwMDA7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgcHVycG9zZTogJ3JlcGx5JywgdGltZW91dE1zOiAxMDAwLCBxdWlldE1zOiAxMDAgfSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsIDIwMCk7CiAgYXNzZXJ0LmRlZXBFcXVhbChyZXN1bHQuZGF0YS5uZXdNZXNzYWdlcywgW10pOwogIGFzc2VydC5lcXVhbChyZXN1bHQuZGF0YS5yZWFkVGhyb3VnaFNlcSwgMCk7Cn0pKTsKCnRlc3QoJ2ludmFsaWQgcHVycG9zZSBpcyByZWplY3RlZCB3aXRob3V0IGF1dGhvcml6aW5nIGhpc3Rvcnkgb3Igb2JzZXJ2YXRpb24nLCAoKSA9PiBmaXh0dXJlKGFzeW5jICh7IHN0LCByZXF1ZXN0LCBhcHBlbmQgfSkgPT4gewogIGFwcGVuZCgncGVuZGluZyBtZXNzYWdlJyk7CiAgZm9yIChjb25zdCBwdXJwb3NlIG9mIFsncXVpZXQnLCAnJywgbnVsbCwgMV0pIHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2UsIHRpbWVvdXRNczogMTAwMCwgcXVpZXRNczogMTAwIH0pOwogICAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5zdGF0dXMsIDQwMCk7CiAgfQogIGFzc2VydC5lcXVhbChzdC5tb2RlbFNlZW5TZXFzLnNpemUsIDApOwogIGFzc2VydC5lcXVhbChzdC5wcmVTbGVlcFdhaXRPYnNlcnZlZEF0LCAwKTsKICBhc3NlcnQuZXF1YWwoc3QudW5yZWFkLmxlbmd0aCwgMSk7Cn0pKTsKCnRlc3QoJ2VhY2ggcmVwbHktd2FpdCBidWZmZXIgb2JleXMgaXRzIG93biB0b29sIHN3aXRjaCwgbmV2ZXIgdGhlIG90aGVyIG9uZScsICgpID0+IGZpeHR1cmUoYXN5bmMgKHsgaCwgc3QsIHJlcXVlc3QsIGdldCwgYXBwZW5kIH0pID0+IHsKICBoLmNmZy5zb2NpYWxWMi5jb250ZXh0LnJlY2VudExpbWl0ID0gNTsKICBoLmNmZy5zb2NpYWxWMi5jb250ZXh0LnVucmVhZExpbWl0ID0gMzA7CiAgZm9yIChsZXQgaSA9IDE7IGkgPD0gMzsgaSsrKSBhcHBlbmQoYG0ke2l9YCk7CiAgY29uc3QgcmVhZCA9IGF3YWl0IGdldCgndW5yZWFkJywgJyZsaW1pdD0zMCcpOwogIGFzc2VydC5lcXVhbChyZWFkLmRhdGEucmVhZFRocm91Z2hTZXEsIDMpOwoKICAvLyBnZXRSZWNlbnQgb2ZmLiBPbmx5IGdldFVucmVhZCBtYXkgZmVlZCB0aGUgcmVwbHkgcGF0aC4gQSBtZXNzYWdlIHRoYXQgYXJyaXZlZAogIC8vIGFmdGVyIHRoZSBtb2RlbCdzIGxhc3QgcmVhZCBpcyBleGFjdGx5IHdoYXQgdGhpcyBwdXJwb3NlIGV4aXN0cyB0byBzdXJmYWNlLCBidXQKICAvLyB0aGUgYnVmZmVyIHRoZSBjbG9zZWQgc3dpdGNoIGdvdmVybnMgbXVzdCBzdGF5IG91dCBvZiBpdC4KICBoLmNmZy5zb2NpYWxWMi50b29scy5nZXRSZWNlbnQgPSBmYWxzZTsKICBhcHBlbmQoJ2Fycml2ZWQgYWZ0ZXIgdGhlIGxhc3QgcmVhZCcpOwogIHN0Lmxhc3RJbmNvbWluZ0F0ID0gRGF0ZS5ub3coKSAtIDEwMDAwOwogIGNvbnN0IHIxID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgcHVycG9zZTogJ3JlcGx5JywgdGltZW91dE1zOiAxMjAwLCBxdWlldE1zOiAxMDAgfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChyMS5kYXRhLm5ld01lc3NhZ2VzLm1hcCgobSkgPT4gbS5zZXEpLCBbNF0sICd0aGUgZW5hYmxlZCBnZXRVbnJlYWQgc3RpbGwgcmVwb3J0cyB0aGUgYXJyaXZhbCcpOwogIGFzc2VydC5lcXVhbChyMS5kYXRhLnJlYWRUaHJvdWdoU2VxLCA0KTsKICBhc3NlcnQuZXF1YWwoSlNPTi5zdHJpbmdpZnkoc3QudW5yZWFkLm1hcCgobSkgPT4gbS5zZXEpKSwgJ1sxLDIsMyw0XScsIGBhIHJlcGx5IHdhaXQgbmV2ZXIgY29uc3VtZXMgdW5yZWFkOyBnb3QgJHtKU09OLnN0cmluZ2lmeShzdC51bnJlYWQubWFwKChtKSA9PiBtLnNlcSkpfWApOwoKICAvLyBnZXRVbnJlYWQgb2ZmOiB0aGUgZW5hYmxlZCBnZXRSZWNlbnQgc3RpbGwgY2FycmllcyBhcnJpdmFscywgYW5kIHRoZSB1bnJlYWQKICAvLyBidWZmZXIgbXVzdCBub3QgYmUgdGhlIG9uZSBhbnN3ZXJpbmcuCiAgaC5jZmcuc29jaWFsVjIudG9vbHMuZ2V0UmVjZW50ID0gdHJ1ZTsKICBoLmNmZy5zb2NpYWxWMi50b29scy5nZXRVbnJlYWQgPSBmYWxzZTsKICBhcHBlbmQoJ3doaWxlIGdldFVucmVhZCBpcyBjbG9zZWQnKTsKICBzdC5sYXN0SW5jb21pbmdBdCA9IERhdGUubm93KCkgLSAxMDAwMDsKICBjb25zdCByMiA9IGF3YWl0IHJlcXVlc3QoJ3dhaXQnLCB7IHB1cnBvc2U6ICdyZXBseScsIHRpbWVvdXRNczogMTIwMCwgcXVpZXRNczogMTAwIH0pOwogIGFzc2VydC5kZWVwRXF1YWwocjIuZGF0YS5uZXdNZXNzYWdlcy5tYXAoKG0pID0+IG0uc2VxKSwgWzVdKTsKCiAgLy8gQm90aCBzd2l0Y2hlcyBvZmY6IG5vdGhpbmcgbWF5IGJlIGV4cG9zZWQgb3IgYXV0aG9yaXNlZCwgd2hhdGV2ZXIgaXMgYnVmZmVyZWQuCiAgaC5jZmcuc29jaWFsVjIudG9vbHMuZ2V0UmVjZW50ID0gZmFsc2U7CiAgYXBwZW5kKCd3aGlsZSBldmVyeXRoaW5nIGlzIGNsb3NlZCcpOwogIHN0Lmxhc3RJbmNvbWluZ0F0ID0gRGF0ZS5ub3coKSAtIDEwMDAwOwogIGNvbnN0IHIzID0gYXdhaXQgcmVxdWVzdCgnd2FpdCcsIHsgcHVycG9zZTogJ3JlcGx5JywgdGltZW91dE1zOiAxMjAwLCBxdWlldE1zOiAxMDAgfSk7CiAgYXNzZXJ0LmRlZXBFcXVhbChyMy5kYXRhLm5ld01lc3NhZ2VzLCBbXSk7CiAgYXNzZXJ0LmVxdWFsKHIzLmRhdGEucmVhZFRocm91Z2hTZXEsIDUsICdhIG1lc3NhZ2Ugbm9ib2R5IHdhcyBhbGxvd2VkIHRvIHNlZSBtYXkgbm90IGFkdmFuY2UgdGhlIHdhdGVybWFyaycpOwp9KSk7Cg==
+// First-reply quiet-window regressions. Real bridge handlers, fixture peers only.
+import assert from 'node:assert/strict';
+import http from 'node:http';
+import { test } from 'node:test';
+import { bridgeHarness } from './audit-bridge-harness.mjs';
+
+async function fixture(run, cfg = {}) {
+  const h = await bridgeHarness({ config: { socialV2: {
+    wake: { preSleepWaitEnabled: true, preSleepWaitMs: 300000 },
+    wait: { minMs: 100, maxMs: 600000, minQuietAfterNewMs: 100 },
+    proactive: { enabled: false }, sticker: { enabled: false },
+    ...cfg,
+  } } });
+  h.setMode('reserved2');
+  const key = 'group:456';
+  const st = h.getSocialV2State(key);
+  const server = h.startConsoleServer();
+  if (!server.listening) await new Promise(resolve => server.once('listening', resolve));
+  const request = (route, body) => new Promise((resolve, reject) => {
+    const req = http.request({ hostname: '127.0.0.1', port: server.address().port,
+      path: `/api/socialV2/${route}?key=${encodeURIComponent(key)}`,
+      method: body === undefined ? 'GET' : 'POST',
+      headers: { 'x-console-token': 'fixture-console-token', 'x-agent-token': st.agentToken, 'content-type': 'application/json' },
+    }, res => {
+      let raw = '';
+      res.on('data', chunk => { raw += chunk; });
+      res.on('end', () => resolve({ status: res.statusCode, data: JSON.parse(raw) }));
+    });
+    req.on('error', reject);
+    req.setTimeout(5000, () => req.destroy(new Error('Fixture request timed out')));
+    req.end(body === undefined ? undefined : JSON.stringify({ key, ...body }));
+  });
+  // GET routes carry their options in the query string, not the body.
+  const get = (route, query = '') => new Promise((resolve, reject) => {
+    const req = http.request({ hostname: '127.0.0.1', port: server.address().port,
+      path: `/api/socialV2/${route}?key=${encodeURIComponent(key)}${query}`,
+      method: 'GET',
+      headers: { 'x-console-token': 'fixture-console-token', 'x-agent-token': st.agentToken },
+    }, res => {
+      let raw = '';
+      res.on('data', chunk => { raw += chunk; });
+      res.on('end', () => resolve({ status: res.statusCode, data: JSON.parse(raw) }));
+    });
+    req.on('error', reject);
+    req.setTimeout(5000, () => req.destroy(new Error('Fixture request timed out')));
+    req.end();
+  });
+  const append = text => h.appendSocialV2Message(key, 'fixture-person', text, text, false, false, `fixture-${st.lastUnreadSeq + 1}`, [], '789', []);
+  try { await run({ h, key, st, request, get, append }); }
+  finally { await new Promise(resolve => server.close(resolve)); await h.close(); }
+}
+
+test('first reply does not wait out timeout when the snapshot message is already quiet', () => fixture(async ({ h, key, st, request, append }) => {
+  append('a complete first message');
+  st.lastIncomingAt = Date.now() - 10000; // batching and model reading already consumed the quiet window
+  await h.sendWakePromptV2(key, 'question');
+  const started = Date.now();
+  const result = await request('wait', { purpose: 'reply', timeoutMs: 1200, quietMs: 100 });
+  assert.equal(result.status, 200);
+  assert.ok(Date.now() - started < 600, `already-quiet message waited ${result.data.waitedMs}ms`);
+  assert.equal(result.data.quiet, true);
+  assert.equal(result.data.timeout, false);
+  assert.equal(result.data.arrived, false);
+  assert.equal(result.data.preSleepWaitObserved, false);
+  assert.equal(result.data.preSleepWaitSatisfied, false);
+  assert.equal('preSleepWaitRemainingMs' in result.data, false, 'first reply must not be presented as an unfinished sleep countdown');
+}));
+
+test('reply waits only for the remaining quiet time after model reading', () => fixture(async ({ h, key, st, request, append }) => {
+  append('complete message');
+  await h.sendWakePromptV2(key, 'question');
+  st.lastIncomingAt = Date.now() - 600;
+  const result = await request('wait', { purpose: 'reply', timeoutMs: 1500, quietMs: 800 });
+  assert.equal(result.data.quiet, true);
+  assert.ok(result.data.waitedMs >= 100 && result.data.waitedMs < 600, `remaining wait was ${result.data.waitedMs}ms`);
+}));
+
+test('a message between snapshot and wait is returned without duplicate snapshot content', () => fixture(async ({ h, key, st, request, append }) => {
+  append('in snapshot');
+  await h.sendWakePromptV2(key, 'question');
+  append('arrived while model was thinking');
+  st.lastIncomingAt = Date.now() - 1000;
+  const result = await request('wait', { purpose: 'reply', timeoutMs: 1200, quietMs: 100, minNewMessages: 20 });
+  assert.equal(result.data.arrived, true);
+  assert.equal(result.data.quiet, true);
+  assert.deepEqual(result.data.newMessages.map(m => m.seq), [2]);
+  assert.equal(result.data.readThroughSeq, 2);
+  assert.equal(st.unread.length, 2, 'visibility never acknowledges messages');
+}));
+
+test('each supplement restarts quiet from its actual arrival, and appears exactly once', () => fixture(async ({ st, request, append }) => {
+  append('first');
+  await request('unread');
+  st.lastIncomingAt = Date.now();
+  const timers = [setTimeout(() => append('second'), 120), setTimeout(() => append('third'), 240)];
+  try {
+    const result = await request('wait', { purpose: 'reply', timeoutMs: 1500, quietMs: 300 });
+    assert.equal(result.data.quiet, true);
+    assert.ok(result.data.waitedMs >= 500 && result.data.waitedMs < 1200);
+    assert.deepEqual(result.data.newMessages.map(m => m.seq), [2, 3]);
+    assert.equal(result.data.readThroughSeq, 3);
+  } finally { timers.forEach(clearTimeout); }
+}));
+
+test('reply timeout is a hard budget and cannot grant sleep observation, even with a long requested budget', () => fixture(async ({ h, st, request, append }) => {
+  h.cfg.socialV2.wake.preSleepWaitMs = 200;
+  append('first');
+  await request('unread');
+  const timer = setTimeout(() => append('supplement near deadline'), 220);
+  try {
+    const result = await request('wait', { purpose: 'reply', timeoutMs: 300, quietMs: 600 });
+    assert.equal(result.data.timeout, true);
+    assert.equal(result.data.quiet, false);
+    assert.equal(result.data.speakerLikelyDone, false);
+    assert.ok(result.data.waitedMs >= 300 && result.data.waitedMs < 900);
+    assert.equal(result.data.preSleepWaitObserved, false);
+    assert.equal(result.data.preSleepWaitSatisfied, false);
+    assert.equal(st.preSleepWaitObservedAt, 0);
+    assert.equal(st.preSleepWaitSatisfiedAt, 0);
+  } finally { clearTimeout(timer); }
+}));
+
+test('ordinary and omitted purpose keep waiting for future messages', () => fixture(async ({ st, request, append }) => {
+  append('already known');
+  await request('unread');
+  st.lastIncomingAt = Date.now() - 10000;
+  for (const purpose of [undefined, 'messages']) {
+    const result = await request('wait', { purpose, timeoutMs: 600, quietMs: 100 });
+    assert.ok(result.data.waitedMs >= 600);
+    assert.equal(result.data.timeout, true);
+    assert.equal(result.data.quiet, false);
+    assert.deepEqual(result.data.newMessages, []);
+  }
+}));
+
+test('reply mode rejects a session permission change during its remaining quiet window', () => fixture(async ({ h, st, request, append }) => {
+  append('still fresh');
+  const timer = setTimeout(() => h.setMode('chat'), 100);
+  try {
+    const result = await request('wait', { purpose: 'reply', timeoutMs: 1000, quietMs: 300 });
+    assert.equal(result.status, 403);
+    assert.equal(st.modelSeenSeqs.size, 0);
+    assert.equal(st.preSleepWaitObservedAt, 0);
+  } finally { clearTimeout(timer); }
+}));
+
+test('reply mode cannot expose historical messages when both history tools are disabled', () => fixture(async ({ h, st, request, append }) => {
+  h.cfg.socialV2.tools.getUnread = false;
+  h.cfg.socialV2.tools.getRecent = false;
+  append('hidden historical message');
+  st.lastIncomingAt = Date.now() - 10000;
+  const result = await request('wait', { purpose: 'reply', timeoutMs: 1000, quietMs: 100 });
+  assert.equal(result.status, 200);
+  assert.deepEqual(result.data.newMessages, []);
+  assert.equal(result.data.readThroughSeq, 0);
+}));
+
+test('invalid purpose is rejected without authorizing history or observation', () => fixture(async ({ st, request, append }) => {
+  append('pending message');
+  for (const purpose of ['quiet', '', null, 1]) {
+    const result = await request('wait', { purpose, timeoutMs: 1000, quietMs: 100 });
+    assert.equal(result.status, 400);
+  }
+  assert.equal(st.modelSeenSeqs.size, 0);
+  assert.equal(st.preSleepWaitObservedAt, 0);
+  assert.equal(st.unread.length, 1);
+}));
+
+test('each reply-wait buffer obeys its own tool switch, never the other one', () => fixture(async ({ h, st, request, get, append }) => {
+  h.cfg.socialV2.context.recentLimit = 5;
+  h.cfg.socialV2.context.unreadLimit = 30;
+  for (let i = 1; i <= 3; i++) append(`m${i}`);
+  const read = await get('unread', '&limit=30');
+  assert.equal(read.data.readThroughSeq, 3);
+
+  // getRecent off. Only getUnread may feed the reply path. A message that arrived
+  // after the model's last read is exactly what this purpose exists to surface, but
+  // the buffer the closed switch governs must stay out of it.
+  h.cfg.socialV2.tools.getRecent = false;
+  append('arrived after the last read');
+  st.lastIncomingAt = Date.now() - 10000;
+  const r1 = await request('wait', { purpose: 'reply', timeoutMs: 1200, quietMs: 100 });
+  assert.deepEqual(r1.data.newMessages.map((m) => m.seq), [4], 'the enabled getUnread still reports the arrival');
+  assert.equal(r1.data.readThroughSeq, 4);
+  assert.equal(JSON.stringify(st.unread.map((m) => m.seq)), '[1,2,3,4]', `a reply wait never consumes unread; got ${JSON.stringify(st.unread.map((m) => m.seq))}`);
+
+  // getUnread off: the enabled getRecent still carries arrivals, and the unread
+  // buffer must not be the one answering.
+  h.cfg.socialV2.tools.getRecent = true;
+  h.cfg.socialV2.tools.getUnread = false;
+  append('while getUnread is closed');
+  st.lastIncomingAt = Date.now() - 10000;
+  const r2 = await request('wait', { purpose: 'reply', timeoutMs: 1200, quietMs: 100 });
+  assert.deepEqual(r2.data.newMessages.map((m) => m.seq), [5]);
+
+  // Both switches off: nothing may be exposed or authorised, whatever is buffered.
+  h.cfg.socialV2.tools.getRecent = false;
+  append('while everything is closed');
+  st.lastIncomingAt = Date.now() - 10000;
+  const r3 = await request('wait', { purpose: 'reply', timeoutMs: 1200, quietMs: 100 });
+  assert.deepEqual(r3.data.newMessages, []);
+  assert.equal(r3.data.readThroughSeq, 5, 'a message nobody was allowed to see may not advance the watermark');
+}));

@@ -1,1 +1,48 @@
-Ly8g5L+u5aSNIEBzbm93bHVtYSDns7vliJcgbnBtIOWMheeahOWPkeW4g+aJk+WMhSBidWfvvJpkaXN0IOWGheeahOebuOWvueWvvOWFpee8uuWwkSAuanMg5omp5bGV5ZCN77yMCi8vIOe6ryBOb2RlIEVTTSDml6Dms5Xop6PmnpDvvIhidW5kbGVyIOWPr+S7pe+8ieOAgnBvc3RpbnN0YWxsIOaXtuWvueavj+S4quWMhSBkaXN0IOS4i+aJgOaciSAuanMKLy8g5paH5Lu25YGa5py65qKw5L+u6KGl77ya5LuF5b2T55uu5qCH5paH5Lu25a2Y5Zyo5pe25omN6KGl5omp5bGV5ZCN77yM5ZCm5YiZ5L+d5oyB5Y6f5qC344CCCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKCmNvbnN0IF9fZGlybmFtZSA9IHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBST09UID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJy4uJyk7Cgpjb25zdCBUQVJHRVRTID0gWydAc25vd2x1bWEvc2RrJywgJ0Bzbm93bHVtYS9tY3AnXTsKCmZ1bmN0aW9uIHdhbGsoZGlyLCBvdXQgPSBbXSkgewogIGZvciAoY29uc3QgZW50cnkgb2YgZnMucmVhZGRpclN5bmMoZGlyLCB7IHdpdGhGaWxlVHlwZXM6IHRydWUgfSkpIHsKICAgIGNvbnN0IGZ1bGwgPSBwYXRoLmpvaW4oZGlyLCBlbnRyeS5uYW1lKTsKICAgIGlmIChlbnRyeS5pc0RpcmVjdG9yeSgpKSB3YWxrKGZ1bGwsIG91dCk7CiAgICBlbHNlIG91dC5wdXNoKGZ1bGwpOwogIH0KICByZXR1cm4gb3V0Owp9CgpsZXQgdG90YWwgPSAwOwpmb3IgKGNvbnN0IHBrZyBvZiBUQVJHRVRTKSB7CiAgY29uc3QgZGlzdFJvb3QgPSBwYXRoLmpvaW4oUk9PVCwgJ25vZGVfbW9kdWxlcycsIHBrZywgJ2Rpc3QnKTsKICBpZiAoIWZzLmV4aXN0c1N5bmMoZGlzdFJvb3QpKSB7CiAgICBjb25zb2xlLmxvZyhgW3BhdGNoLXNub3dsdW1hXSAke3BrZ306IGRpc3Qg5LiN5a2Y5Zyo77yM6Lez6L+HYCk7CiAgICBjb250aW51ZTsKICB9CiAgbGV0IHBhdGNoZWQgPSAwOwogIGZvciAoY29uc3QgZmlsZSBvZiB3YWxrKGRpc3RSb290KSkgewogICAgaWYgKCFmaWxlLmVuZHNXaXRoKCcuanMnKSkgY29udGludWU7CiAgICBjb25zdCBzcmMgPSBmcy5yZWFkRmlsZVN5bmMoZmlsZSwgJ3V0ZjgnKTsKICAgIGNvbnN0IG5leHQgPSBzcmMucmVwbGFjZSgvZnJvbVxzKycoXC5bXiddKyknL2csIChtLCBzcGVjKSA9PiB7CiAgICAgIGlmIChzcGVjLmVuZHNXaXRoKCcuanMnKSB8fCBzcGVjLmVuZHNXaXRoKCcuanNvbicpKSByZXR1cm4gbTsKICAgICAgY29uc3QgdGFyZ2V0ID0gcGF0aC5yZXNvbHZlKHBhdGguZGlybmFtZShmaWxlKSwgc3BlYyk7CiAgICAgIGlmIChmcy5leGlzdHNTeW5jKHRhcmdldCArICcuanMnKSkgcmV0dXJuIG0ucmVwbGFjZShzcGVjLCBzcGVjICsgJy5qcycpOwogICAgICBpZiAoZnMuZXhpc3RzU3luYyh0YXJnZXQgKyAnLmpzb24nKSkgcmV0dXJuIG0ucmVwbGFjZShzcGVjLCBzcGVjICsgJy5qc29uJyk7CiAgICAgIHJldHVybiBtOwogICAgfSk7CiAgICBpZiAobmV4dCAhPT0gc3JjKSB7CiAgICAgIGZzLndyaXRlRmlsZVN5bmMoZmlsZSwgbmV4dCk7CiAgICAgIHBhdGNoZWQgKz0gMTsKICAgIH0KICB9CiAgY29uc29sZS5sb2coYFtwYXRjaC1zbm93bHVtYV0gJHtwa2d9OiDkv67ooaXkuoYgJHtwYXRjaGVkfSDkuKrmlofku7ZgKTsKICB0b3RhbCArPSBwYXRjaGVkOwp9CmNvbnNvbGUubG9nKGBbcGF0Y2gtc25vd2x1bWFdIOWQiOiuoSAke3RvdGFsfSDkuKrmlofku7ZgKTsK
+// 修复 @snowluma 系列 npm 包的发布打包 bug：dist 内的相对导入缺少 .js 扩展名，
+// 纯 Node ESM 无法解析（bundler 可以）。postinstall 时对每个包 dist 下所有 .js
+// 文件做机械修补：仅当目标文件存在时才补扩展名，否则保持原样。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+const TARGETS = ['@snowluma/sdk', '@snowluma/mcp'];
+
+function walk(dir, out = []) {
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) walk(full, out);
+    else out.push(full);
+  }
+  return out;
+}
+
+let total = 0;
+for (const pkg of TARGETS) {
+  const distRoot = path.join(ROOT, 'node_modules', pkg, 'dist');
+  if (!fs.existsSync(distRoot)) {
+    console.log(`[patch-snowluma] ${pkg}: dist 不存在，跳过`);
+    continue;
+  }
+  let patched = 0;
+  for (const file of walk(distRoot)) {
+    if (!file.endsWith('.js')) continue;
+    const src = fs.readFileSync(file, 'utf8');
+    const next = src.replace(/from\s+'(\.[^']+)'/g, (m, spec) => {
+      if (spec.endsWith('.js') || spec.endsWith('.json')) return m;
+      const target = path.resolve(path.dirname(file), spec);
+      if (fs.existsSync(target + '.js')) return m.replace(spec, spec + '.js');
+      if (fs.existsSync(target + '.json')) return m.replace(spec, spec + '.json');
+      return m;
+    });
+    if (next !== src) {
+      fs.writeFileSync(file, next);
+      patched += 1;
+    }
+  }
+  console.log(`[patch-snowluma] ${pkg}: 修补了 ${patched} 个文件`);
+  total += patched;
+}
+console.log(`[patch-snowluma] 合计 ${total} 个文件`);

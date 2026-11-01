@@ -1,1 +1,52 @@
-Ly8gbWQtdG8tcGxhaW4g57qv5Ye95pWw5Zue5b2S5rWL6K+V77yI5LiN5L6d6LWWIFNub3dMdW1hIC8gRFNIIC8gUVHvvInjgIIKLy8g55So5rOV77yabm9kZSBzY3JpcHRzL3Rlc3QtbWQtdG8tcGxhaW4ubWpzCmltcG9ydCB7IG1kVG9QbGFpbiwgc3BsaXRGb3JRUSB9IGZyb20gJy4uL3NyYy9tZC10by1wbGFpbi5qcyc7CgpsZXQgZmFpbGVkID0gMDsKY29uc3QgYXNzZXJ0ID0gKG5hbWUsIGNvbmQsIGV4dHJhID0gJycpID0+IHsKICBpZiAoIWNvbmQpIGZhaWxlZCArPSAxOwogIGNvbnNvbGUubG9nKGAke2NvbmQgPyAn4pyFJyA6ICfinYwnfSAke25hbWV9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOwp9OwoKLy8g4pSA4pSAIG1kVG9QbGFpbiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKYXNzZXJ0KCfku6PnoIHlnZfljrvlm7TmoI/vvIjlkKvor63oqIDmoIfms6jvvIknLCBtZFRvUGxhaW4oJ2FcbmBgYGpzXG5jb25zb2xlLmxvZygxKVxuYGBgXG5iJykgPT09ICdhXG5jb25zb2xlLmxvZygxKVxuYicpOwphc3NlcnQoJ+ihjOWGheS7o+eggScsIG1kVG9QbGFpbigndXNlIGBucG0gaWAgbm93JykgPT09ICd1c2UgbnBtIGkgbm93Jyk7CmFzc2VydCgn6ZO+5o6l5L+d55WZ5paH5a2XK+WcsOWdgCcsIG1kVG9QbGFpbignW2RvY3NdKGh0dHBzOi8veC5jb20vYSknKSA9PT0gJ2RvY3MgKGh0dHBzOi8veC5jb20vYSknKTsKYXNzZXJ0KCflm77niYfkv53nlZnmm7/ku6PmloflrZcnLCBtZFRvUGxhaW4oJyFbbG9nb10oaHR0cHM6Ly94LmNvbS9sLnBuZyknKSA9PT0gJ2xvZ28nKTsKYXNzZXJ0KCfnspfkvZMv5pac5L2TL+WIoOmZpOe6vycsIG1kVG9QbGFpbignKipib2xkKiogKml0KiB+fmRlbH5+JykgPT09ICdib2xkIGl0IGRlbCcpOwphc3NlcnQoJ+agh+mimOespicsIG1kVG9QbGFpbignIyDmoIfpophcbiMjIOS6jOe6pycpID09PSAn5qCH6aKYXG7kuoznuqcnKTsKYXNzZXJ0KCflvJXnlKjnrKYnLCBtZFRvUGxhaW4oJz4g5byV55SoJykgPT09ICflvJXnlKgnKTsKYXNzZXJ0KCfliJfooajnrKYnLCBtZFRvUGxhaW4oJy0g55SyXG4tIOS5mVxuMS4g5LiZJykgPT09ICfigKIg55SyXG7igKIg5LmZXG4xLiDkuJknKTsKCi8vIOKUgOKUgCBzcGxpdEZvclFRIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAovLyDplb8gZW1vamkg5paH5pys77ya5LiN5YWB6K645YiH5pat5Luj55CG5a+5CmNvbnN0IGVtb2ppID0gJ/CfmIAnLnJlcGVhdCgzMDAwKTsKY29uc3QgcGFydHMgPSBzcGxpdEZvclFRKGVtb2ppLCA0MDAwKTsKYXNzZXJ0KCdlbW9qaSDplb/mlofmnKzooqvliIfliIYnLCBwYXJ0cy5sZW5ndGggPiAxKTsKYXNzZXJ0KCdlbW9qaSDml6Dmlq3oo4Lku6PnkIblr7knLCBwYXJ0cy5ldmVyeSgocCkgPT4gewogIGZvciAobGV0IGkgPSAwOyBpIDwgcC5sZW5ndGg7IGkrKykgewogICAgY29uc3QgYyA9IHAuY2hhckNvZGVBdChpKTsKICAgIGlmIChjID49IDB4RDgwMCAmJiBjIDw9IDB4REJGRikgcmV0dXJuIGkgKyAxIDwgcC5sZW5ndGggJiYgcC5jaGFyQ29kZUF0KGkgKyAxKSA+PSAweERDMDAgJiYgcC5jaGFyQ29kZUF0KGkgKyAxKSA8PSAweERGRkY7CiAgfQogIHJldHVybiB0cnVlOwp9KSk7CmFzc2VydCgnZW1vamkg5YaF5a655a6M5pW05L+d55WZJywgcGFydHMuam9pbignJykgPT09IGVtb2ppKTsKCi8vIOmVv+ihjOaWh+acrO+8muaNouihjOWkhOWIh+aWreaXtuaNouihjOespuW/hemhu+S/neeVme+8iOaLvOaOpeWQjuS4juWOn+aWh+S4gOiHtO+8iQpjb25zdCBsaW5lcyA9ICdhYmNcbicucmVwZWF0KDIwMDApOwpjb25zdCBwYXJ0czIgPSBzcGxpdEZvclFRKGxpbmVzLCA0MDAwKTsKYXNzZXJ0KCfmjaLooYzliIfliIYnLCBwYXJ0czIubGVuZ3RoID4gMSk7CmFzc2VydCgn5o2i6KGM5YaF5a655a6M5pW05L+d55WZJywgcGFydHMyLmpvaW4oJycpID09PSBsaW5lcyk7CgovLyDmt7flkIjlhoXlrrkKY29uc3QgbWl4ZWQgPSAoJ+esrOS4gOihjOWGheWuufCfmIBcbuesrOS6jOihjOWGheWuufCfgIRcbicucmVwZWF0KDEwMDApKSArICflsL7pg6gnOwphc3NlcnQoJ+a3t+WQiOWGheWuueWujOaVtOS/neeVmScsIHNwbGl0Rm9yUVEobWl4ZWQsIDQwMDApLmpvaW4oJycpID09PSBtaXhlZCk7CgovLyDnn63mlofmnKzkuI3liIcKYXNzZXJ0KCfnn63mlofmnKzkuI3liIfliIYnLCBzcGxpdEZvclFRKCfkvaDlpb3kuJbnlYwnLCA0MDAwKS5sZW5ndGggPT09IDEpOwoKaWYgKGZhaWxlZCA+IDApIHsKICBjb25zb2xlLmxvZyhgXG7inYwgJHtmYWlsZWR9IOmhueWksei0pWApOwogIHByb2Nlc3MuZXhpdCgxKTsKfQpjb25zb2xlLmxvZygnXG7wn46JIG1kLXRvLXBsYWluIOWFqOmDqOmAmui/hycpOwo=
+// md-to-plain 纯函数回归测试（不依赖 SnowLuma / DSH / QQ）。
+// 用法：node scripts/test-md-to-plain.mjs
+import { mdToPlain, splitForQQ } from '../src/md-to-plain.js';
+
+let failed = 0;
+const assert = (name, cond, extra = '') => {
+  if (!cond) failed += 1;
+  console.log(`${cond ? '✅' : '❌'} ${name}${extra ? ' — ' + extra : ''}`);
+};
+
+// ── mdToPlain ────────────────────────────────────────────────────────────
+assert('代码块去围栏（含语言标注）', mdToPlain('a\n```js\nconsole.log(1)\n```\nb') === 'a\nconsole.log(1)\nb');
+assert('行内代码', mdToPlain('use `npm i` now') === 'use npm i now');
+assert('链接保留文字+地址', mdToPlain('[docs](https://x.com/a)') === 'docs (https://x.com/a)');
+assert('图片保留替代文字', mdToPlain('![logo](https://x.com/l.png)') === 'logo');
+assert('粗体/斜体/删除线', mdToPlain('**bold** *it* ~~del~~') === 'bold it del');
+assert('标题符', mdToPlain('# 标题\n## 二级') === '标题\n二级');
+assert('引用符', mdToPlain('> 引用') === '引用');
+assert('列表符', mdToPlain('- 甲\n- 乙\n1. 丙') === '• 甲\n• 乙\n1. 丙');
+
+// ── splitForQQ ───────────────────────────────────────────────────────────
+// 长 emoji 文本：不允许切断代理对
+const emoji = '😀'.repeat(3000);
+const parts = splitForQQ(emoji, 4000);
+assert('emoji 长文本被切分', parts.length > 1);
+assert('emoji 无断裂代理对', parts.every((p) => {
+  for (let i = 0; i < p.length; i++) {
+    const c = p.charCodeAt(i);
+    if (c >= 0xD800 && c <= 0xDBFF) return i + 1 < p.length && p.charCodeAt(i + 1) >= 0xDC00 && p.charCodeAt(i + 1) <= 0xDFFF;
+  }
+  return true;
+}));
+assert('emoji 内容完整保留', parts.join('') === emoji);
+
+// 长行文本：换行处切断时换行符必须保留（拼接后与原文一致）
+const lines = 'abc\n'.repeat(2000);
+const parts2 = splitForQQ(lines, 4000);
+assert('换行切分', parts2.length > 1);
+assert('换行内容完整保留', parts2.join('') === lines);
+
+// 混合内容
+const mixed = ('第一行内容😀\n第二行内容🀄\n'.repeat(1000)) + '尾部';
+assert('混合内容完整保留', splitForQQ(mixed, 4000).join('') === mixed);
+
+// 短文本不切
+assert('短文本不切分', splitForQQ('你好世界', 4000).length === 1);
+
+if (failed > 0) {
+  console.log(`\n❌ ${failed} 项失败`);
+  process.exit(1);
+}
+console.log('\n🎉 md-to-plain 全部通过');

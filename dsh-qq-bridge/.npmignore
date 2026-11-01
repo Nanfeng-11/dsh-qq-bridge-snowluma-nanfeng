@@ -1,1 +1,21 @@
-IyDmnKzlnLDov5DooYzphY3nva7kuI7kuKrkurrmlbDmja4g4oCU4oCUIOawuOS4jei/m+WFpeWPkeW4g+WMhQpicmlkZ2UvY29uZmlnLmpzb24KYnJpZGdlL3N0YXRlLyouanNvbgpicmlkZ2Uvc3RhdGUvY29uc29sZS10b2tlbgpicmlkZ2Uvc3RhdGUvYnJpZGdlLmxvZwpicmlkZ2Uvc3RhdGUvYnJpZGdlLmxvZy4qCmJyaWRnZS9hdWRpby8KYnJpZGdlL2JhY2t1cHMvCmJyaWRnZS9zb3VsLXBhY2tzLwoKIyDlpIfku73mlofku7YKKiovKi5iYWstKgoKIyDlvIDlj5Ev5rWL6K+V6ISa5pys5LiO5Zu65Lu2CmJyaWRnZS9zY3JpcHRzLwpicmlkZ2UvYmluL2ZmbXBlZwoKIyDplIHmlofku7bkuI7kvp3otZbnm67lvZUKcG5wbS1sb2NrLnlhbWwKYnJpZGdlL3BucG0tbG9jay55YW1sCm5vZGVfbW9kdWxlcy8K
+# 本地运行配置与个人数据 —— 永不进入发布包
+bridge/config.json
+bridge/state/*.json
+bridge/state/console-token
+bridge/state/bridge.log
+bridge/state/bridge.log.*
+bridge/audio/
+bridge/backups/
+bridge/soul-packs/
+
+# 备份文件
+**/*.bak-*
+
+# 开发/测试脚本与固件
+bridge/scripts/
+bridge/bin/ffmpeg
+
+# 锁文件与依赖目录
+pnpm-lock.yaml
+bridge/pnpm-lock.yaml
+node_modules/

@@ -1,1 +1,130 @@
-Ly8gc2V0dXAtZHNoLm1qcyDluYLnrYnmgKfmtYvor5XvvJrlnKjkuIDkuKrkuLTml7YgRFNIX0hPTUUg6YeM6L+e6LeR5Lik5qyh77yMCi8vIOaWreiogOS4jeS8muS6p+eUn+mHjeWkjeeahCBNQ1Ag5p2h55uuIGlk77yIRFNIIOmBh+WIsOmHjeWkjSBsb2FkZXIgZW50cnkgaWQg5Lya5ZCv5Yqo5bSp5rqD77yJ44CCCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IG9zIGZyb20gJ25vZGU6b3MnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBzcGF3blN5bmMgfSBmcm9tICdub2RlOmNoaWxkX3Byb2Nlc3MnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoLCBwYXRoVG9GaWxlVVJMIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBkc2hNb2R1bGVzRGlyIH0gZnJvbSAnLi9kc2gtbW9kdWxlcy5tanMnOwoKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7Ci8vIOWkueWFt+aUvuezu+e7n+S4tOaXtuebruW9le+8jCoq5LiN6KaBKirmlL7ku5PlupPnmoQgc3RhdGUv77yaaGFyZGVuLXN0YXRlLWFjbC5tanMg5Lya5oqKIHN0YXRlLyDnmoQKLy8g57un5om/IEFDRSDljrvmjonvvIjlj6rnlZnlvZPliY3nlKjmiLcgLyBTWVNURU0gLyBBZG1pbmlzdHJhdG9yc++8ie+8jOS6juaYryBEU0gg5rKZ566x55qE6IO95YqbIFNJRAovLyDkuI3lnKggQUNMIOmHjO+8jOWcqOaymeeuseWGhei3kei/meS4qua1i+ivleS8muebtOaOpSBFUEVSTSDlu7rnm67lvZXjgIIKY29uc3QgdG1wSG9tZSA9IHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3FxLWJyaWRnZS1zZXR1cC10ZXN0LWhvbWUnKTsKZnMucm1TeW5jKHRtcEhvbWUsIHsgcmVjdXJzaXZlOiB0cnVlLCBmb3JjZTogdHJ1ZSB9KTsKZnMubWtkaXJTeW5jKHBhdGguam9pbih0bXBIb21lLCAncHJvZmlsZXMnLCAnd2ViJyksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwpmcy5ta2RpclN5bmMocGF0aC5qb2luKHRtcEhvbWUsICdwbHVnaW5zJyksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOwoKLy8g6aKE572u5LiA5Liq44CM5Y6G5Y+y54mI5pys44CNcGF0Y2jvvJrml6AgQkVHSU4vRU5EIOagh+iusOOAgeWQq+epuueahCBbXSDmoLnoioLngrnjgIHlj6rmjILkuoYgMiDkuKogTUNQCmNvbnN0IGxlZ2FjeVBhdGNoID0gYCMgbGVnYWN5IHByb2ZpbGUgcGF0Y2gKW10KLSBpbnNlcnQ6CiAgICAtIGlkOiBtY3Atc25vd2x1bWEKICAgICAgbmFtZTogJ0BkZWVwc2Vlay1haS9kc2gtbWNwLWNsaWVudCcKICAgICAgY29uZmlnOgogICAgICAgIHNlcnZlck5hbWU6IHNub3dsdW1hCiAgICAgICAgdHJhbnNwb3J0OiBzdGRpbwogICAgICAgIGNvbW1hbmQ6IG5vZGUKICAgICAgICBhcmdzOgogICAgICAgICAgLSAnb2xkL3BhdGgvbWNwLXNub3dsdW1hLXNhZmUuanMnCgotIGluc2VydDoKICAgIC0gaWQ6IG1jcC1zbm93bHVtYS1ob3N0CiAgICAgIG5hbWU6ICdAZGVlcHNlZWstYWkvZHNoLW1jcC1jbGllbnQnCiAgICAgIGNvbmZpZzoKICAgICAgICBzZXJ2ZXJOYW1lOiBzbm93bHVtYS1ob3N0CiAgICAgICAgdHJhbnNwb3J0OiBzdGRpbwogICAgICAgIGNvbW1hbmQ6IG5vZGUKICAgICAgICBhcmdzOgogICAgICAgICAgLSAnb2xkL3BhdGgvbWNwLWhvc3Qtc2VydmVyLmpzJwpgOwpmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbih0bXBIb21lLCAncHJvZmlsZXMnLCAnd2ViJywgJ2NvcmRpcy5wYXRjaC55bWwnKSwgbGVnYWN5UGF0Y2gsICd1dGY4Jyk7CmZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKHRtcEhvbWUsICdwcm9maWxlcycsICd3ZWInLCAncGFja2FnZS5qc29uJyksIEpTT04uc3RyaW5naWZ5KHsKICBuYW1lOiAnZHNoLXByb2ZpbGUtd2ViJywgcHJpdmF0ZTogdHJ1ZSwKICBkZXBlbmRlbmNpZXM6IHsgJ2RzaC1hcHByb3ZhbC10b2FzdCc6ICdmaWxlOkM6L3gvZHNoLWFwcHJvdmFsLXRvYXN0JyB9LAogIGRzaDogeyBwcm9maWxlOiB7IGJ1bmRsZXM6IFsnQGRlZXBzZWVrLWFpL2RzaC1iYXNlJywgJ0BkZWVwc2Vlay1haS9kc2gtd2ViLWFwcCcsICdkc2gtYXBwcm92YWwtdG9hc3QnXSB9IH0sCn0sIG51bGwsIDIpLCAndXRmOCcpOwoKLy8g55So5oyH5ZCR5pys5LuT5bqT5o+S5Lu255qEIGp1bmN0aW9uIOWGkuWFheS4iuS4gOi9ruW3suWuieijheeahOaPkuS7tumTvuaOpe+8iOS4juecn+WunuWuieijheW9ouaAgeS4gOiHtO+8ie+8jAovLyDov5nmoLfohJrmnKzkvJrotbDjgIzlt7LlrZjlnKjkuJTmjIflkJHmnKzku5PlupMg4oaSIOi3s+i/h+OAjeeahOato+W4uOWIhuaUr+OAggpmcy5zeW1saW5rU3luYyhwYXRoLmpvaW4oUk9PVCwgJ3BsdWdpbnMnLCAncXEtbW9kZS1jb25zb2xlJyksIHBhdGguam9pbih0bXBIb21lLCAncGx1Z2lucycsICdxcS1tb2RlLWNvbnNvbGUnKSwgJ2p1bmN0aW9uJyk7CgpmdW5jdGlvbiBydW5TZXR1cChsYWJlbCkgewogIGNvbnN0IHIgPSBzcGF3blN5bmMocHJvY2Vzcy5leGVjUGF0aCwgW3BhdGguam9pbihST09ULCAnc2NyaXB0cycsICdzZXR1cC1kc2gubWpzJyksICd3ZWInXSwgewogICAgLy8g5L+d55WZ5pyA5bCPIFBBVEjvvIjov5vnqIvlkK/liqjpnIDopoHvvInvvIzkvYbmioogZHNoIENMSSDmjpLpmaTlnKjlpJYg4oaSIOi3s+i/h+iHquWKqCBwbnBtIOWuieijhemCo+S4gOatpQogICAgZW52OiB7IC4uLnByb2Nlc3MuZW52LCBEU0hfSE9NRTogdG1wSG9tZSwgUEFUSDogcGF0aC5kaXJuYW1lKHByb2Nlc3MuZXhlY1BhdGgpIH0sCiAgICBlbmNvZGluZzogJ3V0ZjgnLAogICAgY3dkOiBST09ULAogIH0pOwogIGNvbnNvbGUubG9nKGBcbi0tLSAke2xhYmVsfSAoZXhpdD0ke3Iuc3RhdHVzfSR7ci5lcnJvciA/ICcgZXJyPScgKyByLmVycm9yLm1lc3NhZ2UgOiAnJ30pIC0tLWApOwogIGNvbnNvbGUubG9nKChyLnN0ZG91dCB8fCAnJykudHJpbSgpIHx8ICcobm8gc3Rkb3V0KScpOwogIGlmIChyLnN0ZGVycj8udHJpbSgpKSBjb25zb2xlLmxvZygnU1RERVJSOicsIHIuc3RkZXJyLnRyaW0oKSk7CiAgcmV0dXJuIHI7Cn0KCnJ1blNldHVwKCfnrKwgMSDmrKHov5DooYwnKTsKcnVuU2V0dXAoJ+esrCAyIOasoei/kOihjCcpOwoKY29uc3QgZmluYWxQYXRjaCA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4odG1wSG9tZSwgJ3Byb2ZpbGVzJywgJ3dlYicsICdjb3JkaXMucGF0Y2gueW1sJyksICd1dGY4Jyk7CgovLyDmlq3oqIAgMe+8muavj+S4quaJmOeuoSBpZCDmgbDlpb3lh7rnjrDkuIDmrKEKbGV0IGZhaWxlZCA9IDA7CmZvciAoY29uc3QgaWQgb2YgWydtY3Atc25vd2x1bWEnLCAnbWNwLXNub3dsdW1hLWhvc3QnLCAnbWNwLXdlYi1zZWFyY2gtc2FmZSddKSB7CiAgY29uc3QgbiA9IGZpbmFsUGF0Y2guc3BsaXQoJ1xuJykuZmlsdGVyKChsKSA9PiBuZXcgUmVnRXhwKGBeXFxzKi1cXHMqaWQ6XFxzKiR7aWR9XFxzKiRgKS50ZXN0KGwpKS5sZW5ndGg7CiAgY29uc3Qgb2sgPSBuID09PSAxOwogIGlmICghb2spIGZhaWxlZCArPSAxOwogIGNvbnNvbGUubG9nKGAke29rID8gJ+KchScgOiAn4p2MJ30gaWQgJHtpZH0g5Ye6546wICR7bn0g5qyh77yI5pyf5pybIDHvvIlgKTsKfQoKLy8g5pat6KiAIDLvvJrml6fot6/lvoTlt7Looqvmm7/mjaLkuLrmnKzku5PlupPot6/lvoQKY29uc3QgaGFzT2xkUGF0aCA9IGZpbmFsUGF0Y2guaW5jbHVkZXMoJ29sZC9wYXRoLycpOwpjb25zb2xlLmxvZyhgJHtoYXNPbGRQYXRoID8gJ+KdjCcgOiAn4pyFJ30g5pen6ISa5pys6Lev5b6E5bey5riF6Zmk77yIb2xkL3BhdGgg5Ye6546wPSR7aGFzT2xkUGF0aH3vvIlgKTsKaWYgKGhhc09sZFBhdGgpIGZhaWxlZCArPSAxOwoKLy8g5pat6KiAIDPvvJrni6znq4vmiJDooYznmoQgW10g5bey6KKr5Yml56a7CmNvbnN0IGhhc0JhcmVBcnJheSA9IC9eWyBcdF0qXFtcXVsgXHRdKiQvbS50ZXN0KGZpbmFsUGF0Y2gpOwpjb25zb2xlLmxvZyhgJHtoYXNCYXJlQXJyYXkgPyAn4p2MJyA6ICfinIUnfSDml6Dni6znq4vmiJDooYznmoTnqbrmlbDnu4QgW11gKTsKaWYgKGhhc0JhcmVBcnJheSkgZmFpbGVkICs9IDE7CgovLyDmlq3oqIAgNO+8mllBTUwg5Y+v6Kej5p6Q5LiU6aG25bGC5piv5pWw57uECmNvbnN0IFlBTUwgPSBhd2FpdCBpbXBvcnQocGF0aFRvRmlsZVVSTChwYXRoLmpvaW4oZHNoTW9kdWxlc0RpcigpLCAnanMteWFtbC9pbmRleC5qcycpKS5ocmVmKTsKY29uc3QgeWFtbCA9IFlBTUwuZGVmYXVsdCA/PyBZQU1MOwpsZXQgZG9jOwp0cnkgeyBkb2MgPSB5YW1sLmxvYWQoZmluYWxQYXRjaCk7IH0gY2F0Y2ggKGUpIHsKICBjb25zb2xlLmxvZyhg4p2MIFlBTUwg6Kej5p6Q5aSx6LSlOiAke2UubWVzc2FnZX1gKTsgZmFpbGVkICs9IDE7Cn0KaWYgKGRvYykgewogIGNvbnN0IG9rID0gQXJyYXkuaXNBcnJheShkb2MpOwogIGNvbnNvbGUubG9nKGAke29rID8gJ+KchScgOiAn4p2MJ30gWUFNTCDpobblsYLkuLrmlbDnu4TvvIgke0FycmF5LmlzQXJyYXkoZG9jKSA/IGRvYy5sZW5ndGggKyAnIOmhuScgOiB0eXBlb2YgZG9jfe+8iWApOwogIGlmICghb2spIGZhaWxlZCArPSAxOwogIGNvbnN0IGlkcyA9IGRvYy5maWx0ZXIoKGUpID0+IGU/Lmluc2VydCkuZmxhdE1hcCgoZSkgPT4gZS5pbnNlcnQubWFwKCh4KSA9PiB4LmlkKSk7CiAgY29uc29sZS5sb2coYCAgIOino+aekOWHuueahCBNQ1AgaWQ6ICR7aWRzLmpvaW4oJywgJyl9YCk7Cn0KCi8vIOaWreiogCA177yacHJvZmlsZSBwYWNrYWdlLmpzb24g5ZCr5Lik5LiqIGJ1bmRsZe+8iHFxLW1vZGUtY29uc29sZSArIHFxLWFnZW50LXByZXNldHPvvInvvIzkuJTmnKrnoLTlnY/lhbbku5YgYnVuZGxlCmNvbnN0IHBrZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbih0bXBIb21lLCAncHJvZmlsZXMnLCAnd2ViJywgJ3BhY2thZ2UuanNvbicpLCAndXRmOCcpKTsKY29uc3QgYnVuZGxlcyA9IHBrZy5kc2gucHJvZmlsZS5idW5kbGVzOwpjb25zdCBva0J1bmRsZSA9IGJ1bmRsZXMuaW5jbHVkZXMoJ3FxLW1vZGUtY29uc29sZScpICYmIGJ1bmRsZXMuaW5jbHVkZXMoJ3FxLWFnZW50LXByZXNldHMnKSAmJiBidW5kbGVzLmluY2x1ZGVzKCdkc2gtYXBwcm92YWwtdG9hc3QnKTsKY29uc29sZS5sb2coYCR7b2tCdW5kbGUgPyAn4pyFJyA6ICfinYwnfSBwcm9maWxlIGJ1bmRsZXMg5q2j56GuOiAke2J1bmRsZXMuam9pbignLCAnKX1gKTsKaWYgKCFva0J1bmRsZSkgZmFpbGVkICs9IDE7CmNvbnN0IGRlcE9rID0gU3RyaW5nKHBrZy5kZXBlbmRlbmNpZXNbJ3FxLWFnZW50LXByZXNldHMnXSA/PyAnJykuc3RhcnRzV2l0aCgnbGluazonKQogICYmIFN0cmluZyhwa2cuZGVwZW5kZW5jaWVzWydxcS1tb2RlLWNvbnNvbGUnXSA/PyAnJykuc3RhcnRzV2l0aCgnbGluazonKTsKY29uc29sZS5sb2coYCR7ZGVwT2sgPyAn4pyFJyA6ICfinYwnfSBsaW5rOiDkvp3otZblt7LnmbvorrDvvIhwcmVzZXQg5a2Q6KGM55qE6KO46K+05piO56ym6Z2g5a6D6Kej5p6Q77yJYCk7CmlmICghZGVwT2spIGZhaWxlZCArPSAxOwoKLy8g5pat6KiAIDbvvJpEU0ggMC4xLjcg5py65Yi2IOKAlOKAlCBwcmVzZXQg55SxIHFxLWFnZW50LXByZXNldHMgYnVuZGxlIOeahCBwYXRjaCDlsYLoo4XphY3vvIwKLy8g5pen55uu5b2VIH4vLmRzaC8uYWdlbnQtcHJlc2V0cyDkuI3lho3lhpnlhaXvvIjkuZ/kuI3liKDpmaTnlKjmiLfmlbDmja7vvInjgIIKZm9yIChjb25zdCBwIG9mIFsncXEtY2hhdCcsICdxcS1jaGF0LXYyJ10pIHsKICBjb25zdCBwYXRjaEZpbGUgPSBwYXRoLmpvaW4oUk9PVCwgJ3BsdWdpbnMnLCAncXEtYWdlbnQtcHJlc2V0cycsICdwcmVzZXRzJywgYCR7cH0ucGF0Y2gueW1sYCk7CiAgY29uc3QgdGV4dCA9IGZzLmV4aXN0c1N5bmMocGF0Y2hGaWxlKSA/IGZzLnJlYWRGaWxlU3luYyhwYXRjaEZpbGUsICd1dGY4JykgOiAnJzsKICBjb25zdCBvayA9IHRleHQuaW5jbHVkZXMoJ0BkZWVwc2Vlay1haS9kc2gtYWdlbnQtcHJlc2V0JykgJiYgbmV3IFJlZ0V4cChgXlxccytpZDogJHtwfSRgLCAnbScpLnRlc3QodGV4dCk7CiAgY29uc29sZS5sb2coYCR7b2sgPyAn4pyFJyA6ICfinYwnfSBwcmVzZXQgJHtwfSDnmoQgcGF0Y2gg5bGC5bCx57uq77yI5ZCrIEBkZWVwc2Vlay1haS9kc2gtYWdlbnQtcHJlc2V0IOihjCArIGNvbmZpZy5pZO+8iWApOwogIGlmICghb2spIGZhaWxlZCArPSAxOwp9CmNvbnN0IGxlZ2FjeURpciA9IHBhdGguam9pbih0bXBIb21lLCAnLmFnZW50LXByZXNldHMnKTsKY29uc29sZS5sb2coYCR7bGVnYWN5RGlyICYmICFmcy5leGlzdHNTeW5jKGxlZ2FjeURpcikgPyAn4pyFJyA6ICfinYwnfSDmnKrliJvlu7ogMC4xLjcg5bey5bqf5byD55qEIH4vLmRzaC8uYWdlbnQtcHJlc2V0c2ApOwppZiAoZnMuZXhpc3RzU3luYyhsZWdhY3lEaXIpKSBmYWlsZWQgKz0gMTsKCmNvbnNvbGUubG9nKGZhaWxlZCA9PT0gMCA/ICdcbuKchSBzZXR1cC1kc2gubWpzIOW5guetieaAp+a1i+ivlemAmui/hycgOiBgXG7inYwgJHtmYWlsZWR9IOmhueWksei0pWApOwpwcm9jZXNzLmV4aXQoZmFpbGVkID09PSAwID8gMCA6IDEpOwo=
+// setup-dsh.mjs 幂等性测试：在一个临时 DSH_HOME 里连跑两次，
+// 断言不会产生重复的 MCP 条目 id（DSH 遇到重复 loader entry id 会启动崩溃）。
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import { dshModulesDir } from './dsh-modules.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+// 夹具放系统临时目录，**不要**放仓库的 state/：harden-state-acl.mjs 会把 state/ 的
+// 继承 ACE 去掉（只留当前用户 / SYSTEM / Administrators），于是 DSH 沙箱的能力 SID
+// 不在 ACL 里，在沙箱内跑这个测试会直接 EPERM 建目录。
+const tmpHome = path.join(os.tmpdir(), 'qq-bridge-setup-test-home');
+fs.rmSync(tmpHome, { recursive: true, force: true });
+fs.mkdirSync(path.join(tmpHome, 'profiles', 'web'), { recursive: true });
+fs.mkdirSync(path.join(tmpHome, 'plugins'), { recursive: true });
+
+// 预置一个「历史版本」patch：无 BEGIN/END 标记、含空的 [] 根节点、只挂了 2 个 MCP
+const legacyPatch = `# legacy profile patch
+[]
+- insert:
+    - id: mcp-snowluma
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: snowluma
+        transport: stdio
+        command: node
+        args:
+          - 'old/path/mcp-snowluma-safe.js'
+
+- insert:
+    - id: mcp-snowluma-host
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: snowluma-host
+        transport: stdio
+        command: node
+        args:
+          - 'old/path/mcp-host-server.js'
+`;
+fs.writeFileSync(path.join(tmpHome, 'profiles', 'web', 'cordis.patch.yml'), legacyPatch, 'utf8');
+fs.writeFileSync(path.join(tmpHome, 'profiles', 'web', 'package.json'), JSON.stringify({
+  name: 'dsh-profile-web', private: true,
+  dependencies: { 'dsh-approval-toast': 'file:C:/x/dsh-approval-toast' },
+  dsh: { profile: { bundles: ['@deepseek-ai/dsh-base', '@deepseek-ai/dsh-web-app', 'dsh-approval-toast'] } },
+}, null, 2), 'utf8');
+
+// 用指向本仓库插件的 junction 冒充上一轮已安装的插件链接（与真实安装形态一致），
+// 这样脚本会走「已存在且指向本仓库 → 跳过」的正常分支。
+fs.symlinkSync(path.join(ROOT, 'plugins', 'qq-mode-console'), path.join(tmpHome, 'plugins', 'qq-mode-console'), 'junction');
+
+function runSetup(label) {
+  const r = spawnSync(process.execPath, [path.join(ROOT, 'scripts', 'setup-dsh.mjs'), 'web'], {
+    // 保留最小 PATH（进程启动需要），但把 dsh CLI 排除在外 → 跳过自动 pnpm 安装那一步
+    env: { ...process.env, DSH_HOME: tmpHome, PATH: path.dirname(process.execPath) },
+    encoding: 'utf8',
+    cwd: ROOT,
+  });
+  console.log(`\n--- ${label} (exit=${r.status}${r.error ? ' err=' + r.error.message : ''}) ---`);
+  console.log((r.stdout || '').trim() || '(no stdout)');
+  if (r.stderr?.trim()) console.log('STDERR:', r.stderr.trim());
+  return r;
+}
+
+runSetup('第 1 次运行');
+runSetup('第 2 次运行');
+
+const finalPatch = fs.readFileSync(path.join(tmpHome, 'profiles', 'web', 'cordis.patch.yml'), 'utf8');
+
+// 断言 1：每个托管 id 恰好出现一次
+let failed = 0;
+for (const id of ['mcp-snowluma', 'mcp-snowluma-host', 'mcp-web-search-safe']) {
+  const n = finalPatch.split('\n').filter((l) => new RegExp(`^\\s*-\\s*id:\\s*${id}\\s*$`).test(l)).length;
+  const ok = n === 1;
+  if (!ok) failed += 1;
+  console.log(`${ok ? '✅' : '❌'} id ${id} 出现 ${n} 次（期望 1）`);
+}
+
+// 断言 2：旧路径已被替换为本仓库路径
+const hasOldPath = finalPatch.includes('old/path/');
+console.log(`${hasOldPath ? '❌' : '✅'} 旧脚本路径已清除（old/path 出现=${hasOldPath}）`);
+if (hasOldPath) failed += 1;
+
+// 断言 3：独立成行的 [] 已被剥离
+const hasBareArray = /^[ \t]*\[\][ \t]*$/m.test(finalPatch);
+console.log(`${hasBareArray ? '❌' : '✅'} 无独立成行的空数组 []`);
+if (hasBareArray) failed += 1;
+
+// 断言 4：YAML 可解析且顶层是数组
+const YAML = await import(pathToFileURL(path.join(dshModulesDir(), 'js-yaml/index.js')).href);
+const yaml = YAML.default ?? YAML;
+let doc;
+try { doc = yaml.load(finalPatch); } catch (e) {
+  console.log(`❌ YAML 解析失败: ${e.message}`); failed += 1;
+}
+if (doc) {
+  const ok = Array.isArray(doc);
+  console.log(`${ok ? '✅' : '❌'} YAML 顶层为数组（${Array.isArray(doc) ? doc.length + ' 项' : typeof doc}）`);
+  if (!ok) failed += 1;
+  const ids = doc.filter((e) => e?.insert).flatMap((e) => e.insert.map((x) => x.id));
+  console.log(`   解析出的 MCP id: ${ids.join(', ')}`);
+}
+
+// 断言 5：profile package.json 含两个 bundle（qq-mode-console + qq-agent-presets），且未破坏其他 bundle
+const pkg = JSON.parse(fs.readFileSync(path.join(tmpHome, 'profiles', 'web', 'package.json'), 'utf8'));
+const bundles = pkg.dsh.profile.bundles;
+const okBundle = bundles.includes('qq-mode-console') && bundles.includes('qq-agent-presets') && bundles.includes('dsh-approval-toast');
+console.log(`${okBundle ? '✅' : '❌'} profile bundles 正确: ${bundles.join(', ')}`);
+if (!okBundle) failed += 1;
+const depOk = String(pkg.dependencies['qq-agent-presets'] ?? '').startsWith('link:')
+  && String(pkg.dependencies['qq-mode-console'] ?? '').startsWith('link:');
+console.log(`${depOk ? '✅' : '❌'} link: 依赖已登记（preset 子行的裸说明符靠它解析）`);
+if (!depOk) failed += 1;
+
+// 断言 6：DSH 0.1.7 机制 —— preset 由 qq-agent-presets bundle 的 patch 层装配，
+// 旧目录 ~/.dsh/.agent-presets 不再写入（也不删除用户数据）。
+for (const p of ['qq-chat', 'qq-chat-v2']) {
+  const patchFile = path.join(ROOT, 'plugins', 'qq-agent-presets', 'presets', `${p}.patch.yml`);
+  const text = fs.existsSync(patchFile) ? fs.readFileSync(patchFile, 'utf8') : '';
+  const ok = text.includes('@deepseek-ai/dsh-agent-preset') && new RegExp(`^\\s+id: ${p}$`, 'm').test(text);
+  console.log(`${ok ? '✅' : '❌'} preset ${p} 的 patch 层就绪（含 @deepseek-ai/dsh-agent-preset 行 + config.id）`);
+  if (!ok) failed += 1;
+}
+const legacyDir = path.join(tmpHome, '.agent-presets');
+console.log(`${legacyDir && !fs.existsSync(legacyDir) ? '✅' : '❌'} 未创建 0.1.7 已废弃的 ~/.dsh/.agent-presets`);
+if (fs.existsSync(legacyDir)) failed += 1;
+
+console.log(failed === 0 ? '\n✅ setup-dsh.mjs 幂等性测试通过' : `\n❌ ${failed} 项失败`);
+process.exit(failed === 0 ? 0 : 1);

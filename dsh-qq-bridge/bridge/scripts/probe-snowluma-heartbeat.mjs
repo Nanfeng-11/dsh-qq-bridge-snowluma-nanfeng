@@ -1,1 +1,70 @@
-Ly8g5Y+q6K+75o6i6ZKI77ya6L+eIFNub3dMdW1hIOeahCBPbmVCb3QgV2ViU29ja2V077yM562J5LiA5LiqIGhlYXJ0YmVhdO+8jOaJk+WNsOi9veiNt+mHjOeahAovLyBgc3RhdHVzLm9ubGluZWAgLyBgc3RhdHVzLmdvb2Rg44CCCi8vCi8vIOS4uuS7gOS5iOmcgOimgeWug++8muahpeaOpeeahOOAjOS4iua4uOWBpeW6t+OAjeS4u+S/oeWPt+WwseaYr+W/g+i3s+mHjOeahCBgc3RhdHVzLmdvb2Rg77yIU25vd0x1bWEg5a+5Ci8vIOOAjFFRIOKGkiDljp/nlJ8gaG9vayDihpIg5oiR44CN6L+Z5p2h5o6l5pS26ZO+6Lev55qE6Ieq6K+E77yJ44CC6L+Z5p2h5L+h5Y+35piv5ZCm5a2Y5Zyo44CB5a2X5q615ZCN5a+55LiN5a+577yMCi8vIOWPquiDveaLvyoq55yf5a6e6L+Q6KGM5pe2Kirpqozor4Eg4oCU4oCUIOS7o+eggemHjOWGmemUmeWtl+auteWQjeaYr+S4jeS8muaKpemUmeeahO+8iFNESyDlj6rmoKHpqozkv6HlsIHvvInjgIIKLy8KLy8g5pys5o6i6ZKI77ya5Y+q6L+e5o6l44CB5Y+q6K+75Y+W44CB5omT5Y2w5ZCO56uL5Yi76YCA5Ye677ybKirkuI3lj5HpgIHku7vkvZXmtojmga/jgIHkuI3liJvlu7rku7vkvZXkvJror50qKuOAggovLyDnlKjms5XvvJpub2RlIHNjcmlwdHMvcHJvYmUtc25vd2x1bWEtaGVhcnRiZWF0Lm1qcyBb6LaF5pe256eS5pWwXQppbXBvcnQgeyBTbm93THVtYVdlYlNvY2tldENsaWVudCB9IGZyb20gJ0Bzbm93bHVtYS9zZGsnOwppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7IGRpc2NvdmVyU25vd0x1bWFDb25uZWN0aW9uIH0gZnJvbSAnLi4vc3JjL3Nub3dsdW1hLWNvbm4uanMnOwoKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmNvbnN0IGNmZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CmNvbnN0IHRpbWVvdXRNcyA9IChOdW1iZXIocHJvY2Vzcy5hcmd2WzJdKSB8fCA0NSkgKiAxMDAwOwoKLy8g55So6aG555uu6Ieq5bex55qE6Ieq5Y+R546w5ou/44CM5b2T5YmN55yf5q2j5Y+v55So44CN55qEIHRva2VuIOS4juerr+eCueOAggovLyDkuI3og73nm7TmjqXnlKggY29uZmlnLmpzb24g6YeM55qE5YC877ya5o2i6L+H6LSm5Y+35ZCO5a6D5piv5pen55qE77yI6L+e5LiK5Y675Y+q5LyaIDEwMDYg5YWz6Zet77yJ77yMCi8vIOahpeaOpeeUn+S6p+S7o+eggei1sOeahOS5n+aYr+i/meadoei3r++8iGhlYWxUb2tlbklmU3RhbGUg4oaSIGRpc2NvdmVyU25vd0x1bWFDb25uZWN0aW9u77yJ44CCCmNvbnN0IGRpc2MgPSBhd2FpdCBkaXNjb3ZlclNub3dMdW1hQ29ubmVjdGlvbih7IGNmZywgdGltZW91dE1zOiA1MDAwIH0pOwppZiAoIWRpc2Mub2spIHsKICBjb25zb2xlLmxvZyhg4p2MIOaXoOazleWPkeeOsOWPr+eUqOeahCBTbm93THVtYSDov57mjqXvvJoke2Rpc2MuZXJyb3J9YCk7CiAgcHJvY2Vzcy5leGl0KDIpOwp9CmNvbnNvbGUubG9nKGDlt7Llj5HnjrDnq6/ngrkgJHtkaXNjLndzVXJsfe+8iHRva2VuICR7U3RyaW5nKGRpc2Mud3NUb2tlbiB8fCBkaXNjLnRva2VuKS5zbGljZSgwLCA0KX3igKbvvIzmnaXmupAgJHtkaXNjLnNvdXJjZX3vvIlgKTsKCmNvbnN0IGJvdCA9IG5ldyBTbm93THVtYVdlYlNvY2tldENsaWVudCh7CiAgdXJsOiBkaXNjLndzVXJsLAogIGFjY2Vzc1Rva2VuOiBkaXNjLndzVG9rZW4gfHwgZGlzYy50b2tlbiB8fCB1bmRlZmluZWQsCiAgcmVjb25uZWN0OiBmYWxzZSwKfSk7Cgpjb25zdCBzZWVuID0gbmV3IE1hcCgpOwpsZXQgZG9uZSA9IGZhbHNlOwpjb25zdCBmaW5pc2ggPSAod2h5KSA9PiB7CiAgaWYgKGRvbmUpIHJldHVybjsKICBkb25lID0gdHJ1ZTsKICBjb25zb2xlLmxvZyhgXG49PT0g57uT5p6c77yIJHt3aHl977yJPT09YCk7CiAgY29uc29sZS5sb2coJ+aUtuWIsOeahOS6i+S7tuexu+Wei++8micpOwogIGZvciAoY29uc3QgW2ssIG5dIG9mIFsuLi5zZWVuXS5zb3J0KCkpIGNvbnNvbGUubG9nKGAgICR7a30geCR7bn1gKTsKICB0cnkgeyBib3QuY2xvc2UoKTsgfSBjYXRjaCB7fQogIHByb2Nlc3MuZXhpdCgwKTsKfTsKCmJvdC5vbkV2ZW50KChldmVudCkgPT4gewogIGNvbnN0IHBvc3QgPSBTdHJpbmcoZXZlbnQ/LnBvc3RfdHlwZSA/PyAnPycpOwogIGNvbnN0IHN1YiA9IGV2ZW50Py5tZXRhX2V2ZW50X3R5cGUgPyBgJHtwb3N0fS8ke2V2ZW50Lm1ldGFfZXZlbnRfdHlwZX1gIDogKGV2ZW50Py5ub3RpY2VfdHlwZSA/IGAke3Bvc3R9LyR7ZXZlbnQubm90aWNlX3R5cGV9YCA6IHBvc3QpOwogIHNlZW4uc2V0KHN1YiwgKHNlZW4uZ2V0KHN1YikgPz8gMCkgKyAxKTsKCiAgaWYgKHBvc3QgPT09ICdtZXRhX2V2ZW50JyAmJiBldmVudD8ubWV0YV9ldmVudF90eXBlID09PSAnaGVhcnRiZWF0JykgewogICAgY29uc29sZS5sb2coJ+KchSDmlLbliLAgaGVhcnRiZWF0IOKAlOKAlCDlv4Pot7PmmK8qKuacrOWcsOWumuaXtuWZqCoq5Y+R55qE77yM5LiOIFFRIOaYr+WQpuaciea2iOaBr+aXoOWFsycpOwogICAgY29uc29sZS5sb2coJyAgIHN0YXR1cyA9JywgSlNPTi5zdHJpbmdpZnkoZXZlbnQuc3RhdHVzKSk7CiAgICBjb25zb2xlLmxvZygnICAgaW50ZXJ2YWwgPScsIGV2ZW50LmludGVydmFsKTsKICAgIGNvbnNvbGUubG9nKGAgICDihpIgc3RhdHVzLmdvb2QgPSAke0pTT04uc3RyaW5naWZ5KGV2ZW50LnN0YXR1cz8uZ29vZCl9YCArCiAgICAgICh0eXBlb2YgZXZlbnQuc3RhdHVzPy5nb29kID09PSAnYm9vbGVhbicKICAgICAgICA/ICcgIOKchSDlrZfmrrXlrZjlnKjvvIjmoaXmjqXnmoTkuIrmuLjlgaXlurfkuLvkv6Hlj7flj6/nlKjvvIknCiAgICAgICAgOiAnICDinYwg5a2X5q6157y65aSxL+mdnuW4g+WwlCDigJTigJQg5qGl5o6l55qEIGdvb2Qg5Lya5LiA55u05YGc5ZyoIG51bGzvvIEnKSk7CiAgICBjb25zb2xlLmxvZyhgICAg4oaSIHN0YXR1cy5vbmxpbmUgPSAke0pTT04uc3RyaW5naWZ5KGV2ZW50LnN0YXR1cz8ub25saW5lKX1gKTsKICAgIGZpbmlzaCgn5ou/5Yiw5b+D6LezJyk7CiAgfQp9KTsKCmJvdC5vbignZXJyb3InLCAoZSkgPT4gY29uc29sZS5sb2coJyAgd3MgZXJyb3I6JywgZT8ubWVzc2FnZSA/PyBlKSk7CmJvdC5jb25uZWN0KCkudGhlbigoKSA9PiBjb25zb2xlLmxvZyhg5bey6L+e5o6lICR7Y2ZnLnNub3dsdW1hLndzVXJsfe+8iOWPquivu++8jOS4jeWPkea2iOaBr++8ie+8jOetieW/g+i3s+KApmApKQogIC5jYXRjaCgoZSkgPT4geyBjb25zb2xlLmxvZygn6L+e5o6l5aSx6LSlOicsIGU/Lm1lc3NhZ2UgPz8gZSk7IGZpbmlzaCgn6L+e5o6l5aSx6LSlJyk7IH0pOwoKc2V0VGltZW91dCgoKSA9PiBmaW5pc2goJ+i2heaXticpLCB0aW1lb3V0TXMpOwo=
+// 只读探针：连 SnowLuma 的 OneBot WebSocket，等一个 heartbeat，打印载荷里的
+// `status.online` / `status.good`。
+//
+// 为什么需要它：桥接的「上游健康」主信号就是心跳里的 `status.good`（SnowLuma 对
+// 「QQ → 原生 hook → 我」这条接收链路的自评）。这条信号是否存在、字段名对不对，
+// 只能拿**真实运行时**验证 —— 代码里写错字段名是不会报错的（SDK 只校验信封）。
+//
+// 本探针：只连接、只读取、打印后立刻退出；**不发送任何消息、不创建任何会话**。
+// 用法：node scripts/probe-snowluma-heartbeat.mjs [超时秒数]
+import { SnowLumaWebSocketClient } from '@snowluma/sdk';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { discoverSnowLumaConnection } from '../src/snowluma-conn.js';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+const timeoutMs = (Number(process.argv[2]) || 45) * 1000;
+
+// 用项目自己的自发现拿「当前真正可用」的 token 与端点。
+// 不能直接用 config.json 里的值：换过账号后它是旧的（连上去只会 1006 关闭），
+// 桥接生产代码走的也是这条路（healTokenIfStale → discoverSnowLumaConnection）。
+const disc = await discoverSnowLumaConnection({ cfg, timeoutMs: 5000 });
+if (!disc.ok) {
+  console.log(`❌ 无法发现可用的 SnowLuma 连接：${disc.error}`);
+  process.exit(2);
+}
+console.log(`已发现端点 ${disc.wsUrl}（token ${String(disc.wsToken || disc.token).slice(0, 4)}…，来源 ${disc.source}）`);
+
+const bot = new SnowLumaWebSocketClient({
+  url: disc.wsUrl,
+  accessToken: disc.wsToken || disc.token || undefined,
+  reconnect: false,
+});
+
+const seen = new Map();
+let done = false;
+const finish = (why) => {
+  if (done) return;
+  done = true;
+  console.log(`\n=== 结果（${why}）===`);
+  console.log('收到的事件类型：');
+  for (const [k, n] of [...seen].sort()) console.log(`  ${k} x${n}`);
+  try { bot.close(); } catch {}
+  process.exit(0);
+};
+
+bot.onEvent((event) => {
+  const post = String(event?.post_type ?? '?');
+  const sub = event?.meta_event_type ? `${post}/${event.meta_event_type}` : (event?.notice_type ? `${post}/${event.notice_type}` : post);
+  seen.set(sub, (seen.get(sub) ?? 0) + 1);
+
+  if (post === 'meta_event' && event?.meta_event_type === 'heartbeat') {
+    console.log('✅ 收到 heartbeat —— 心跳是**本地定时器**发的，与 QQ 是否有消息无关');
+    console.log('   status =', JSON.stringify(event.status));
+    console.log('   interval =', event.interval);
+    console.log(`   → status.good = ${JSON.stringify(event.status?.good)}` +
+      (typeof event.status?.good === 'boolean'
+        ? '  ✅ 字段存在（桥接的上游健康主信号可用）'
+        : '  ❌ 字段缺失/非布尔 —— 桥接的 good 会一直停在 null！'));
+    console.log(`   → status.online = ${JSON.stringify(event.status?.online)}`);
+    finish('拿到心跳');
+  }
+});
+
+bot.on('error', (e) => console.log('  ws error:', e?.message ?? e));
+bot.connect().then(() => console.log(`已连接 ${cfg.snowluma.wsUrl}（只读，不发消息），等心跳…`))
+  .catch((e) => { console.log('连接失败:', e?.message ?? e); finish('连接失败'); });
+
+setTimeout(() => finish('超时'), timeoutMs);

@@ -1,1 +1,108 @@
-Ly8g5Lq65qC85Y2h5oyJ5Lu/55yf5qih5byP5Y+W55So77yIc3JjL3JvbGUtY2FyZC5qc++8ieeahOemu+e6v+WNlea1i+OAggovLyDkv53or4HvvJrmqKHlvI/moIforrDog73ooqvmraPnoa7or4bliKvkuI7liaXnprvjgIHmnKrmoIforrDnmoTogIHljaHniYfooYzkuLrkuI3lj5jjgIHnnJ/lrp7kurrmoLzljaHlj6/nlKjjgIIKaW1wb3J0IGFzc2VydCBmcm9tICdub2RlOmFzc2VydC9zdHJpY3QnOwppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCB7IHRlc3QgfSBmcm9tICdub2RlOnRlc3QnOwppbXBvcnQgeyBwYXJzZVJvbGVTZWN0aW9ucywgcm9sZUNoYXJTdGF0cywgcm9sZVNlY3Rpb25SZXBvcnQsIHNlbGVjdFJvbGVUZXh0IH0gZnJvbSAnLi4vc3JjL3JvbGUtY2FyZC5qcyc7Cgpjb25zdCBDQVJEID0gWwogICcjIOinkuiJsuWNoe+8mua1i+ivlScsCiAgJycsCiAgJyMjIOS4gOOAgeS9oOaYr+iwgScsCiAgJy0g5L2g5piv576k6YeM55qE5rWL6K+V6KeS6Imy44CCJywKICAnJywKICAnIyMg5LqM44CB5YiG5p2h5pa55byPIOOAlOS4gOS7o+OAlScsCiAgJy0g5oOz5YiG5p2h5bCx55So56m65qC85YiG6ZqU77yb5oOz5rKJ6buY5bCx6L6T5Ye6IFtTSUxFTlRd44CCJywKICAnJywKICAnIyMg5LiJ44CB5Y+R6KiA5pa55byPIOOAlOS6jOS7o+OAlScsCiAgJy0g55SoIHFxX3NlbmRfbWVzc2FnZSDnmoTmlbDnu4TliIbmnaHvvIzmvZzmsLTotbAgcXFfbWFya19yZWFk44CCJywKICAnJywKICAnIyMg5Zub44CB6K+06K+d6aOO5qC8JywKICAnLSDnroDnn63jgIHlj6Por63ljJbjgIInLApdLmpvaW4oJ1xuJyk7Cgp0ZXN0KCfmqKHlvI/moIforrDog73ooqvor4bliKvvvIzmnKrmoIforrDnmoTlsI/oioLkuKTnp43mqKHlvI/pg73ms6jlhaUnLCAoKSA9PiB7CiAgY29uc3Qgc2VjdGlvbnMgPSBwYXJzZVJvbGVTZWN0aW9ucyhDQVJEKTsKICBjb25zdCBieUhlYWRpbmcgPSBPYmplY3QuZnJvbUVudHJpZXMoc2VjdGlvbnMuZmlsdGVyKChzKSA9PiBzLmhlYWRpbmcpLm1hcCgocykgPT4gW3MuaGVhZGluZywgcy5tb2RlXSkpOwogIGFzc2VydC5lcXVhbChieUhlYWRpbmdbJ+S4gOOAgeS9oOaYr+iwgSddLCAnYWxsJyk7CiAgYXNzZXJ0LmVxdWFsKGJ5SGVhZGluZ1sn5LqM44CB5YiG5p2h5pa55byPJ10sICd2MScpOwogIGFzc2VydC5lcXVhbChieUhlYWRpbmdbJ+S4ieOAgeWPkeiogOaWueW8jyddLCAndjInKTsKICBhc3NlcnQuZXF1YWwoYnlIZWFkaW5nWyflm5vjgIHor7Tor53po47moLwnXSwgJ2FsbCcpOwp9KTsKCnRlc3QoJ+aMieaooeW8j+etm+mAie+8muWPquS/neeVmeWFrOWFseWwj+iKgiArIOivpeaooeW8j+S4k+WxnuWwj+iKgicsICgpID0+IHsKICBjb25zdCB2MSA9IHNlbGVjdFJvbGVUZXh0KENBUkQsICd2MScpOwogIGNvbnN0IHYyID0gc2VsZWN0Um9sZVRleHQoQ0FSRCwgJ3YyJyk7CiAgLy8g5YWs5YWx5YaF5a655Lik6L656YO95pyJCiAgZm9yIChjb25zdCB0ZXh0IG9mIFt2MSwgdjJdKSB7CiAgICBhc3NlcnQubWF0Y2godGV4dCwgL+S9oOaYr+e+pOmHjOeahOa1i+ivleinkuiJsi8pOwogICAgYXNzZXJ0Lm1hdGNoKHRleHQsIC/nroDnn63jgIHlj6Por63ljJYvKTsKICB9CiAgLy8g5LiT5bGe5YaF5a655LqS5LiN5Liy5Zy6CiAgYXNzZXJ0Lm1hdGNoKHYxLCAv56m65qC85YiG6ZqULyk7CiAgYXNzZXJ0LmRvZXNOb3RNYXRjaCh2MSwgL3FxX3NlbmRfbWVzc2FnZS8pOwogIGFzc2VydC5tYXRjaCh2MiwgL3FxX3NlbmRfbWVzc2FnZS8pOwogIGFzc2VydC5kb2VzTm90TWF0Y2godjIsIC9cW1NJTEVOVFxdLyk7Cn0pOwoKdGVzdCgn5rOo5YWl5paH5pys6YeM5LiN5YaN5q6L55WZ5qih5byP5qCH6K6wJywgKCkgPT4gewogIGFzc2VydC5kb2VzTm90TWF0Y2goc2VsZWN0Um9sZVRleHQoQ0FSRCwgJ3YxJyksIC/jgJTkuIDku6PjgJV844CU5LqM5Luj44CVLyk7CiAgYXNzZXJ0LmRvZXNOb3RNYXRjaChzZWxlY3RSb2xlVGV4dChDQVJELCAndjInKSwgL+OAlOS4gOS7o+OAlXzjgJTkuozku6PjgJUvKTsKICAvLyDmoIfpopjkv53nlZnkvYblt7LmuIXmtJcKICBhc3NlcnQubWF0Y2goc2VsZWN0Um9sZVRleHQoQ0FSRCwgJ3YyJyksIC8jIyDkuInjgIHlj5HoqIDmlrnlvI9cbi8pOwp9KTsKCnRlc3QoJ+Wkmuenjeagh+iusOWGmeazlemDveiupO+8iFt2MV0gLyDvvIhyZXNlcnZlZDLvvIkgLyAyIOS7o++8iScsICgpID0+IHsKICBjb25zdCBjYXJkID0gWwogICAgJyMjIEEgW3YxXScsICctIGEnLAogICAgJyMjIEIg77yIcmVzZXJ2ZWQy77yJJywgJy0gYicsCiAgICAnIyMgQyDjgJQyIOS7o+OAlScsICctIGMnLAogICAgJyMjIEQgW+S4gOS7o10nLCAnLSBkJywKICBdLmpvaW4oJ1xuJyk7CiAgY29uc3QgdjEgPSBzZWxlY3RSb2xlVGV4dChjYXJkLCAndjEnKTsKICBjb25zdCB2MiA9IHNlbGVjdFJvbGVUZXh0KGNhcmQsICd2MicpOwogIGFzc2VydC5tYXRjaCh2MSwgLy0gYS8pOyBhc3NlcnQubWF0Y2godjEsIC8tIGQvKTsKICBhc3NlcnQuZG9lc05vdE1hdGNoKHYxLCAvLSBiLyk7IGFzc2VydC5kb2VzTm90TWF0Y2godjEsIC8tIGMvKTsKICBhc3NlcnQubWF0Y2godjIsIC8tIGIvKTsgYXNzZXJ0Lm1hdGNoKHYyLCAvLSBjLyk7CiAgYXNzZXJ0LmRvZXNOb3RNYXRjaCh2MiwgLy0gYS8pOyBhc3NlcnQuZG9lc05vdE1hdGNoKHYyLCAvLSBkLyk7Cn0pOwoKdGVzdCgn5rKh5pyJ5qih5byP5qCH6K6w55qE6ICB5Y2h54mH77ya5Lik56eN5qih5byP6YO95a6M5pW05rOo5YWl77yI5ZCR5ZCO5YW85a6577yJJywgKCkgPT4gewogIGNvbnN0IGxlZ2FjeSA9ICcjIOiAgeWNoVxuXG4tIOaAp+agvO+8muWCsuWoh1xuLSDor7Tor53po47moLzvvJrnroDnn60nOwogIGFzc2VydC5lcXVhbChzZWxlY3RSb2xlVGV4dChsZWdhY3ksICd2MScpLCBsZWdhY3kpOwogIGFzc2VydC5lcXVhbChzZWxlY3RSb2xlVGV4dChsZWdhY3ksICd2MicpLCBsZWdhY3kpOwp9KTsKCnRlc3QoJ+agh+mimOS5i+WklueahOWGheWuue+8iOWJjeiogO+8ieS4jeWPl+W9seWTjScsICgpID0+IHsKICBjb25zdCBjYXJkID0gJ+W8gOWktOS4gOWPpeivnVxuXG4jIyBYIOOAlOS4gOS7o+OAlVxuLSB4XG5cbiMjIFlcbi0geSc7CiAgYXNzZXJ0Lm1hdGNoKHNlbGVjdFJvbGVUZXh0KGNhcmQsICd2MicpLCAv5byA5aS05LiA5Y+l6K+dLyk7CiAgYXNzZXJ0LmRvZXNOb3RNYXRjaChzZWxlY3RSb2xlVGV4dChjYXJkLCAndjInKSwgLy0geC8pOwogIGFzc2VydC5tYXRjaChzZWxlY3RSb2xlVGV4dChjYXJkLCAndjInKSwgLy0geS8pOwp9KTsKCnRlc3QoJ+e7n+iuoeS4juWwj+iKguaKpeWRiuWPr+eUqOS6juaOp+WItuWPsOmihOiniCcsICgpID0+IHsKICBjb25zdCBzdGF0cyA9IHJvbGVDaGFyU3RhdHMoQ0FSRCk7CiAgYXNzZXJ0Lm9rKHN0YXRzLnYxT25seSA+IDAgJiYgc3RhdHMudjJPbmx5ID4gMCwgJ+W6lOiDvee7n+iuoeWHuuS4pOS7o+WQhOiHquS4k+WxnueahOWtl+espuaVsCcpOwogIGFzc2VydC5vayhzdGF0cy52MSA8IHN0YXRzLnRvdGFsICYmIHN0YXRzLnYyIDwgc3RhdHMudG90YWwsICfnrZvpgInlkI7lupTnn63kuo7ljp/mlocnKTsKICBhc3NlcnQubm90RXF1YWwoc3RhdHMudjEsIHN0YXRzLnYyLCAn5Lik5Luj5YaF5a655LiN5ZCM77yM6ZW/5bqm5LiN5bqU55u4562JJyk7CiAgY29uc3QgcmVwb3J0ID0gcm9sZVNlY3Rpb25SZXBvcnQoQ0FSRCwgJ3YxJyk7CiAgY29uc3QgdjJTZWN0aW9uID0gcmVwb3J0LmZpbmQoKHIpID0+IHIuaGVhZGluZyA9PT0gJ+S4ieOAgeWPkeiogOaWueW8jycpOwogIGFzc2VydC5lcXVhbCh2MlNlY3Rpb24uaW5qZWN0ZWQsIGZhbHNlLCAn5LqM5Luj5LiT5bGe5bCP6IqC5Zyo5LiA5Luj5LiL5bqU5qCH5Li65LiN5rOo5YWlJyk7CiAgY29uc3QgY29tbW9uID0gcmVwb3J0LmZpbmQoKHIpID0+IHIuaGVhZGluZyA9PT0gJ+S4gOOAgeS9oOaYr+iwgScpOwogIGFzc2VydC5lcXVhbChjb21tb24uaW5qZWN0ZWQsIHRydWUpOwp9KTsKCnRlc3QoJ+ecn+WunuS6uuagvOWNoeWPr+eUqO+8jOS4lOetm+mAieS4jeS4ouWFrOWFseWGheWuuScsICgpID0+IHsKICBjb25zdCBmaWxlID0gbmV3IFVSTCgnLi4vcm9sZXMv5bCP6bK46bG8Lm1kJywgaW1wb3J0Lm1ldGEudXJsKTsKICBjb25zdCByYXcgPSBmcy5yZWFkRmlsZVN5bmMoZmlsZSwgJ3V0ZjgnKTsKICBjb25zdCB2MiA9IHNlbGVjdFJvbGVUZXh0KHJhdywgJ3YyJyk7CiAgY29uc3QgdjEgPSBzZWxlY3RSb2xlVGV4dChyYXcsICd2MScpOwogIGFzc2VydC5vayh2Mi5sZW5ndGggPiAwICYmIHYxLmxlbmd0aCA+IDApOwogIC8vIOS6uuiuvumDqOWIhuS4pOenjeaooeW8j+mDveW/hemhu+S/neeVmQogIGZvciAoY29uc3QgdGV4dCBvZiBbdjEsIHYyXSkgewogICAgYXNzZXJ0Lm1hdGNoKHRleHQsIC/lsI/psrjpsbwvKTsKICAgIGFzc2VydC5tYXRjaCh0ZXh0LCAvQUkg5ZGzfOWOuyBBSSDlkbMvKTsKICB9CiAgLy8g5LqM5Luj5rOo5YWl55qE5paH5pys6YeM5LiN5bqU5YaN5Ye6546w5LiA5Luj55qE5YiG5p2h5py65Yi2CiAgYXNzZXJ0LmRvZXNOb3RNYXRjaCh2MiwgL+epuuagvOWIhumalO+8iOS+i+WmgnxcW1NJTEVOVFxdLyk7Cn0pOwo=
+// 人格卡按仿真模式取用（src/role-card.js）的离线单测。
+// 保证：模式标记能被正确识别与剥离、未标记的老卡片行为不变、真实人格卡可用。
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import { test } from 'node:test';
+import { parseRoleSections, roleCharStats, roleSectionReport, selectRoleText } from '../src/role-card.js';
+
+const CARD = [
+  '# 角色卡：测试',
+  '',
+  '## 一、你是谁',
+  '- 你是群里的测试角色。',
+  '',
+  '## 二、分条方式 〔一代〕',
+  '- 想分条就用空格分隔；想沉默就输出 [SILENT]。',
+  '',
+  '## 三、发言方式 〔二代〕',
+  '- 用 qq_send_message 的数组分条，潜水走 qq_mark_read。',
+  '',
+  '## 四、说话风格',
+  '- 简短、口语化。',
+].join('\n');
+
+test('模式标记能被识别，未标记的小节两种模式都注入', () => {
+  const sections = parseRoleSections(CARD);
+  const byHeading = Object.fromEntries(sections.filter((s) => s.heading).map((s) => [s.heading, s.mode]));
+  assert.equal(byHeading['一、你是谁'], 'all');
+  assert.equal(byHeading['二、分条方式'], 'v1');
+  assert.equal(byHeading['三、发言方式'], 'v2');
+  assert.equal(byHeading['四、说话风格'], 'all');
+});
+
+test('按模式筛选：只保留公共小节 + 该模式专属小节', () => {
+  const v1 = selectRoleText(CARD, 'v1');
+  const v2 = selectRoleText(CARD, 'v2');
+  // 公共内容两边都有
+  for (const text of [v1, v2]) {
+    assert.match(text, /你是群里的测试角色/);
+    assert.match(text, /简短、口语化/);
+  }
+  // 专属内容互不串场
+  assert.match(v1, /空格分隔/);
+  assert.doesNotMatch(v1, /qq_send_message/);
+  assert.match(v2, /qq_send_message/);
+  assert.doesNotMatch(v2, /\[SILENT\]/);
+});
+
+test('注入文本里不再残留模式标记', () => {
+  assert.doesNotMatch(selectRoleText(CARD, 'v1'), /〔一代〕|〔二代〕/);
+  assert.doesNotMatch(selectRoleText(CARD, 'v2'), /〔一代〕|〔二代〕/);
+  // 标题保留但已清洗
+  assert.match(selectRoleText(CARD, 'v2'), /## 三、发言方式\n/);
+});
+
+test('多种标记写法都认（[v1] / （reserved2） / 2 代）', () => {
+  const card = [
+    '## A [v1]', '- a',
+    '## B （reserved2）', '- b',
+    '## C 〔2 代〕', '- c',
+    '## D [一代]', '- d',
+  ].join('\n');
+  const v1 = selectRoleText(card, 'v1');
+  const v2 = selectRoleText(card, 'v2');
+  assert.match(v1, /- a/); assert.match(v1, /- d/);
+  assert.doesNotMatch(v1, /- b/); assert.doesNotMatch(v1, /- c/);
+  assert.match(v2, /- b/); assert.match(v2, /- c/);
+  assert.doesNotMatch(v2, /- a/); assert.doesNotMatch(v2, /- d/);
+});
+
+test('没有模式标记的老卡片：两种模式都完整注入（向后兼容）', () => {
+  const legacy = '# 老卡\n\n- 性格：傲娇\n- 说话风格：简短';
+  assert.equal(selectRoleText(legacy, 'v1'), legacy);
+  assert.equal(selectRoleText(legacy, 'v2'), legacy);
+});
+
+test('标题之外的内容（前言）不受影响', () => {
+  const card = '开头一句话\n\n## X 〔一代〕\n- x\n\n## Y\n- y';
+  assert.match(selectRoleText(card, 'v2'), /开头一句话/);
+  assert.doesNotMatch(selectRoleText(card, 'v2'), /- x/);
+  assert.match(selectRoleText(card, 'v2'), /- y/);
+});
+
+test('统计与小节报告可用于控制台预览', () => {
+  const stats = roleCharStats(CARD);
+  assert.ok(stats.v1Only > 0 && stats.v2Only > 0, '应能统计出两代各自专属的字符数');
+  assert.ok(stats.v1 < stats.total && stats.v2 < stats.total, '筛选后应短于原文');
+  assert.notEqual(stats.v1, stats.v2, '两代内容不同，长度不应相等');
+  const report = roleSectionReport(CARD, 'v1');
+  const v2Section = report.find((r) => r.heading === '三、发言方式');
+  assert.equal(v2Section.injected, false, '二代专属小节在一代下应标为不注入');
+  const common = report.find((r) => r.heading === '一、你是谁');
+  assert.equal(common.injected, true);
+});
+
+test('真实人格卡可用，且筛选不丢公共内容', () => {
+  const file = new URL('../roles/小鲸鱼.md', import.meta.url);
+  const raw = fs.readFileSync(file, 'utf8');
+  const v2 = selectRoleText(raw, 'v2');
+  const v1 = selectRoleText(raw, 'v1');
+  assert.ok(v2.length > 0 && v1.length > 0);
+  // 人设部分两种模式都必须保留
+  for (const text of [v1, v2]) {
+    assert.match(text, /小鲸鱼/);
+    assert.match(text, /AI 味|去 AI 味/);
+  }
+  // 二代注入的文本里不应再出现一代的分条机制
+  assert.doesNotMatch(v2, /空格分隔（例如|\[SILENT\]/);
+});

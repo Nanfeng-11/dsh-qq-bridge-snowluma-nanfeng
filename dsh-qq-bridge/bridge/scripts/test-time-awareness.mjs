@@ -1,1 +1,180 @@
-Ly8g5pe26Ze06KeC5b+15Zue5b2S77ya5rKJ552h5b6I5LmF5ZCO6KKr5ZSk6YaS77yM5qih5Z6L5b+F6aG755yL5b6X5Ye644CM6L+Z5p2h5piv5pen6LSm44CN44CCCi8vCi8vIOecn+WunuaVhemanO+8iOaTjeS9nOiAheaKpeWRiiArIOS8muivneWunuivge+8ie+8mgovLyAgIOacieS6uuWPkea2iOaBr+aXtiBBSSDmraPlnKjmsonnnaHvvJvlvojkuYXku6XlkI7ooqvllKTphpLvvIznnIvliLDpgqPmnaHml6fmtojmga/ku43nhLblvZPmiJAi5Yia5Y+R55qEIuWOu+WbnuWkje+8jAovLyAgIOeUmuiHs+aKoui/m+aXqeW3suaVo+WcuueahOivnemimOOAguS4pOS4quagueWboO+8mgovLyAgICAg4pGgIOaooeWei+eci+WIsOeahOaXtumXtOaYr+ijuCBlcG9jaO+8iGB0aW1lOjE3OTIyOTQ1Mjk0NzFg77yJ77yM566X5LiN5Ye6Iui/meaYryAzOCDliIbpkp/liY0i77ybCi8vICAgICDikaEg5o+Q56S66K+N6YeM5rKh5pyJ5LiA5p2h6KeE5YiZ6K+0IuaXp+a2iOaBr+S4jeivpeaMieWunuaXtuWvueivneaOpSLjgIIKLy8KLy8g5pys5paH5Lu26aqM6K+B5L+u5aSN5ZCO55qE5aWR57qm77yaYXQvYWdvIOWtl+auteOAgeaPkOekuuivjemHjOeahOaXtumXtOaEn+WIhuaho+OAgeWUpOmGkuWOn+WboOeahOW5tOm+hOOAge+/ve+/ve+/veeFp+WktOeahOaXtumXtOOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCB7IGJyaWRnZUhhcm5lc3MgfSBmcm9tICcuL2F1ZGl0LWJyaWRnZS1oYXJuZXNzLm1qcyc7CmltcG9ydCB7IGNvbXBhY3RNb2RlbE1lc3NhZ2UsIGNvbXBhY3RNb2RlbERhdGEsIGRlc2NyaWJlQWdlLCBzZXJpYWxpemVNb2RlbERhdGEgfSBmcm9tICcuLi9zcmMvcXEtbW9kZWwtdmlldy5qcyc7Cgpjb25zdCBLRVkgPSAnZ3JvdXA6NDU2JzsKY29uc3QgTUlOID0gNjAwMDA7CmxldCBmYWlsdXJlcyA9IDA7CmxldCB0ZXN0cyA9IDA7CmFzeW5jIGZ1bmN0aW9uIHRlc3QobmFtZSwgcnVuKSB7CiAgdGVzdHMrKzsKICB0cnkgeyBhd2FpdCBydW4oKTsgY29uc29sZS5sb2coJ1BBU1MnLCBuYW1lKTsgfQogIGNhdGNoIChlcnJvcikgeyBmYWlsdXJlcysrOyBjb25zb2xlLmVycm9yKCdGQUlMJywgbmFtZSwgJ+KAlCcsIGVycm9yPy5zdGFjayA/PyBlcnJvcik7IH0KfQoKLy8g5Zu65a6aIG5vdyDkvr/kuo7mlq3oqIDvvJoyMDI2LTEwLTE4IDExOjMxOjA1IOacrOWcsOaXtumXtApjb25zdCBOT1cgPSBuZXcgRGF0ZSgyMDI2LCA5LCAxOCwgMTEsIDMxLCA1KS5nZXRUaW1lKCk7CgovLyDilIDilIAgMS4g5qih5Z6L6KeG5Zu+77yaZXBvY2gg4oaSIGF0IC8gYWdvIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphd2FpdCB0ZXN0KCdjb21wYWN0TW9kZWxNZXNzYWdlIOaKiiBlcG9jaCDmjaLmiJAgYXQvYWdv77yM5bm25Y675o6J6KO4IHRpbWUnLCAoKSA9PiB7CiAgY29uc3QgY29tcGFjdCA9IGNvbXBhY3RNb2RlbE1lc3NhZ2UoCiAgICB7IHNlcTogNywgc2VuZGVyOiAn5bCP5piOJywgdGV4dDogJ+WcqOWQlycsIHRpbWU6IE5PVyAtIDM4ICogTUlOIH0sCiAgICB7IG5vdzogTk9XIH0KICApOwogIGFzc2VydC5lcXVhbChjb21wYWN0LnRpbWUsIHVuZGVmaW5lZCwgJ+ijuCBlcG9jaCDkuI3or6Xlho3lh7rnjrDlnKjmqKHlnovop4blm77ph4wnKTsKICBhc3NlcnQuZXF1YWwoY29tcGFjdC5hZ28sICczOG0nKTsKICBhc3NlcnQuZXF1YWwoY29tcGFjdC5hdCwgJzEwOjUzJyk7CiAgYXNzZXJ0LmVxdWFsKGNvbXBhY3QudGV4dCwgJ+WcqOWQlycpOwp9KTsKCmF3YWl0IHRlc3QoJ2FnbyDljZXkvY3vvJrnp5Iv5YiGL+aXti/lpKnvvIzmnKrmnaXml7bpl7TlpLnliLAgMHMnLCAoKSA9PiB7CiAgYXNzZXJ0LmVxdWFsKGRlc2NyaWJlQWdlKE5PVyAtIDMwMDAsIE5PVyksICczcycpOwogIGFzc2VydC5lcXVhbChkZXNjcmliZUFnZShOT1cgLSA1OSAqIDEwMDAsIE5PVyksICc1OXMnKTsKICBhc3NlcnQuZXF1YWwoZGVzY3JpYmVBZ2UoTk9XIC0gMTggKiBNSU4sIE5PVyksICcxOG0nKTsKICBhc3NlcnQuZXF1YWwoZGVzY3JpYmVBZ2UoTk9XIC0gNSAqIDYwICogTUlOLCBOT1cpLCAnNWgnKTsKICBhc3NlcnQuZXF1YWwoZGVzY3JpYmVBZ2UoTk9XIC0gMyAqIDI0ICogNjAgKiBNSU4sIE5PVyksICczZCcpOwogIGFzc2VydC5lcXVhbChkZXNjcmliZUFnZShOT1cgKyA1ICogTUlOLCBOT1cpLCAnMHMnLCAn5pyq5p2l5pe26Ze05LiN6IO95pi+56S65oiQ6LSf5pWwJyk7Cn0pOwoKYXdhaXQgdGVzdCgn6Leo5aSp55qE5raI5oGvIGF0IOW4puaXpeacn++8iOWQpuWImSIyMzo0MCLkvJrooqvor6/or7vmiJDku4rlpKnvvIknLCAoKSA9PiB7CiAgY29uc3QgY29tcGFjdCA9IGNvbXBhY3RNb2RlbE1lc3NhZ2UoeyB0ZXh0OiAn5pma5a6JJywgdGltZTogbmV3IERhdGUoMjAyNiwgOSwgMTYsIDIzLCA0MCkuZ2V0VGltZSgpIH0sIHsgbm93OiBOT1cgfSk7CiAgYXNzZXJ0LmVxdWFsKGNvbXBhY3QuYXQsICcxMC0xNiAyMzo0MCcpOwogIC8vIDEwLTE2IDIzOjQwIOKGkiAxMC0xOCAxMTozMSDnuqYgMzYg5bCP5pe277yM5oyJ5aSp5ZCR5LiL5Y+W5pW0ID0gMWQKICBhc3NlcnQuZXF1YWwoY29tcGFjdC5hZ28sICcxZCcpOwp9KTsKCmF3YWl0IHRlc3QoJ3RpbWUg57y65aSxL+S4uiAwIOaXtuS/neaMgeWOn+agt++8iOS4jeaKiiLmsqHmnInml7bpl7Qi5Lyq6KOF5oiQIuWImuWImiLvvIknLCAoKSA9PiB7CiAgYXNzZXJ0LmRlZXBFcXVhbChjb21wYWN0TW9kZWxNZXNzYWdlKHsgdGV4dDogJ+WlvScsIHRpbWU6IDAgfSwgeyBub3c6IE5PVyB9KSwgeyB0ZXh0OiAn5aW9JywgdGltZTogMCB9KTsKICBhc3NlcnQuZGVlcEVxdWFsKGNvbXBhY3RNb2RlbE1lc3NhZ2UoeyB0ZXh0OiAn5aW9JyB9LCB7IG5vdzogTk9XIH0pLCB7IHRleHQ6ICflpb0nIH0pOwp9KTsKCmF3YWl0IHRlc3QoJ+S4gOasoeW6j+WIl+WMluWFseeUqOS4gOS4qiBub3fvvJrlkIzmibnmtojmga/nmoQgYWdvIOS4jeS8mui3qOWIhumSn+iHquebuOefm+ebvicsICgpID0+IHsKICBjb25zdCBkYXRhID0gewogICAgbWVzc2FnZXM6IFsKICAgICAgeyBzZXE6IDEsIHRleHQ6ICdhJywgdGltZTogTk9XIC0gNzAgKiAxMDAwIH0sCiAgICAgIHsgc2VxOiAyLCB0ZXh0OiAnYicsIHRpbWU6IE5PVyAtIDEwICogMTAwMCB9CiAgICBdCiAgfTsKICBjb25zdCBvdXQgPSBKU09OLnBhcnNlKHNlcmlhbGl6ZU1vZGVsRGF0YShkYXRhLCB7IG5vdzogTk9XIH0pKTsKICBhc3NlcnQuZXF1YWwob3V0Lm1lc3NhZ2VzWzBdLmFnbywgJzFtJyk7CiAgYXNzZXJ0LmVxdWFsKG91dC5tZXNzYWdlc1sxXS5hZ28sICcxMHMnKTsKICAvLyBjb21wYWN0TW9kZWxEYXRhIOS5n+imgeaKiiBub3cg6YCP5Lyg5LiL5Y67CiAgYXNzZXJ0LmVxdWFsKGNvbXBhY3RNb2RlbERhdGEoZGF0YSwgeyBub3c6IE5PVyB9KS5tZXNzYWdlc1sxXS5hZ28sICcxMHMnKTsKfSk7CgovLyDilIDilIAgMi4g5ZSk6YaS5o+Q56S677ya5pe26Ze05oSf6KeE5YiZICsg5YW35L2T5pWw5a2XIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphc3luYyBmdW5jdGlvbiB3aXRoQnJpZGdlKHJ1biwgY29uZmlnID0ge30pIHsKICBjb25zdCBoID0gYXdhaXQgYnJpZGdlSGFybmVzcyh7IGNvbmZpZzogeyBzb2NpYWxWMjogeyBzdGlja2VyOiB7IGVuYWJsZWQ6IGZhbHNlIH0sIC4uLmNvbmZpZyB9IH0gfSk7CiAgaC5zZXRNb2RlKCdyZXNlcnZlZDInKTsKICB0cnkgeyBhd2FpdCBydW4oaCk7IH0gZmluYWxseSB7IGF3YWl0IGguY2xvc2UoKTsgfQp9Cgpjb25zdCBhcHBlbmQgPSAoaCwgdGV4dCwgeyBhZ2VNcyA9IDAsIHNlbmRlciA9ICflsI/mmI4nIH0gPSB7fSkgPT4gewogIGNvbnN0IHN0ID0gaC5nZXRTb2NpYWxWMlN0YXRlKEtFWSk7CiAgY29uc3Qgc2VxID0gc3QubGFzdFVucmVhZFNlcSArIDE7CiAgaC5hcHBlbmRTb2NpYWxWMk1lc3NhZ2UoS0VZLCBzZW5kZXIsIHRleHQsIHRleHQsIGZhbHNlLCBmYWxzZSwgYGZpeHR1cmUtJHtzZXF9YCwgW10sICc3ODknKTsKICBpZiAoYWdlTXMgPiAwKSB7CiAgICAvLyDmqKHmi58i5raI5oGv5pivIDQwIOWIhumSn+WJjeWPkeeahCLvvJrmiorlrZjlgqjlsYLnmoTml7bpl7TmiLPlvoDliY3mjqjvvIjmqKHmi5/msonnnaHmnJ/pl7TloIbnp6/vvIkKICAgIGNvbnN0IHN0b3JlZCA9IHN0LnVucmVhZC5maW5kKChtKSA9PiBtLnNlcSA9PT0gc2VxKTsKICAgIGlmIChzdG9yZWQpIHN0b3JlZC50aW1lID0gRGF0ZS5ub3coKSAtIGFnZU1zOwogIH0KICByZXR1cm4gc2VxOwp9OwoKYXdhaXQgdGVzdCgn5paw5raI5oGv77yI5Yeg56eS5YmN77yJ5LiN6Kem5Y+R5pen6LSm6K2m5ZGKJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKGgpID0+IHsKICAgIGFwcGVuZChoLCAn5Zyo5ZCXJyk7CiAgICBjb25zdCBwcm9tcHQgPSBoLmJ1aWxkV2FrZVByb21wdFYyKEtFWSwgJ2F0TWVudGlvbkBzZXExJyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAv44CQ5pe26Ze05oSfLyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAv5pyA5paw5LiA5p2h5p2l6Ieq44CM5bCP5piO44CNLyk7CiAgICBhc3NlcnQuZG9lc05vdE1hdGNoKHByb21wdCwgL+aXp+i0pi8sICfliJrlj5HnmoTmtojmga/kuI3or6XooqvliKTmiJDml6fotKYnKTsKICB9KTsKfSk7Cgphd2FpdCB0ZXN0KCc0MCDliIbpkp/liY3nmoTmtojmga/vvJrmj5DnpLror43nu5nlh7ogYWdvIOW5tuaYjuehruagh+iusOOAjOaXp+i0puOAjScsIGFzeW5jICgpID0+IHsKICBhd2FpdCB3aXRoQnJpZGdlKGFzeW5jIChoKSA9PiB7CiAgICBhcHBlbmQoaCwgJ+aZmuS4iuW8gOm7keWQlycsIHsgYWdlTXM6IDQwICogTUlOIH0pOwogICAgY29uc3QgcHJvbXB0ID0gaC5idWlsZFdha2VQcm9tcHRWMihLRVksICdhdE1lbnRpb25Ac2VxMScpOwogICAgYXNzZXJ0Lm1hdGNoKHByb21wdCwgLzQwbSDkuYvliY3lj5HnmoQvLCAn5pyA5paw5LiA5p2h55qE5bm06b6E6KaB5YaZ6L+b5o+Q56S66K+NJyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAv5pen6LSmLywgJ+i2hei/hyBzdGFsZUNoYXRNaW51dGVzIOW/hemhu+aJk+OAjOaXp+i0puOAjeitpuWRiicpOwogICAgYXNzZXJ0Lm1hdGNoKHByb21wdCwgL+S4jeimgeeUqOenkuWbnuivreawlC8sICfopoHnu5nlh7rlj6/miafooYznmoTmm7/ku6PliqjkvZwnKTsKICAgIGFzc2VydC5tYXRjaChwcm9tcHQsIC/op6blj5Hov5nmnaHmmK8gNDBtIOWJjeWPkeeahC8sICfllKTphpLljp/lm6DpgqPmnaHnmoTlubTpvoTkuZ/opoHlhpnmuIXmpZonKTsKICB9KTsKfSk7Cgphd2FpdCB0ZXN0KCfotoXov4cgc3RhbGVTaWxlbnRNaW51dGVz77ya6KeE5YiZ6KaB5rGC6buY6K6k5LiN5Zue44CB55u05o6l5pS25bC+JywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKGgpID0+IHsKICAgIGFwcGVuZChoLCAn5pyJ5Lq65ZCXJywgeyBhZ2VNczogNSAqIDYwICogTUlOIH0pOwogICAgY29uc3QgcHJvbXB0ID0gaC5idWlsZFdha2VQcm9tcHRWMihLRVksICdrZXl3b3JkOuS9oOeahOinkuiJskBzZXExJyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAvNWgg5LmL5YmN5Y+R55qELyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAv6buY6K6k5LiN5Zue77yM55u05o6lIHFxX21hcmtfcmVhZCDmlLblsL4vKTsKICAgIGFzc2VydC5tYXRjaChwcm9tcHQsIC/otoXov4cgMTIwIOWIhumSny8sICfpu5jorqTpmIjlgLzlupTlhpnov5vorablkYrph4wnKTsKICB9KTsKfSk7Cgphd2FpdCB0ZXN0KCfpmIjlgLzlj6/nlLEgY29uZmlnIOiwg+aVtO+8iHN0YWxlQ2hhdE1pbnV0ZXMgLyBzdGFsZVNpbGVudE1pbnV0ZXPvvIknLCBhc3luYyAoKSA9PiB7CiAgLy8g6buY6K6k6ZiI5YC877yIMTAgLyAxMjAg5YiG6ZKf77yJ77yaMTIg5YiG6ZKf5bey566X5pen6LSmCiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoaCkgPT4gewogICAgYXBwZW5kKGgsICfliJrliJrpgqPmnaEnLCB7IGFnZU1zOiAxMiAqIE1JTiB9KTsKICAgIGFzc2VydC5tYXRjaChoLmJ1aWxkV2FrZVByb21wdFYyKEtFWSwgJ2F0TWVudGlvbkBzZXExJyksIC/ml6fotKYvKTsKICB9KTsKICAvLyDmiqzpq5jliLAgNjAg5YiG6ZKf77yaMTIg5YiG6ZKf5LiN6K+l566X5pen6LSm77yM5YiG5qGj5paH5pys6KaB6Lef552A5Y+YCiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoaCkgPT4gewogICAgYXBwZW5kKGgsICfliJrliJrpgqPmnaEnLCB7IGFnZU1zOiAxMiAqIE1JTiB9KTsKICAgIGNvbnN0IHByb21wdCA9IGguYnVpbGRXYWtlUHJvbXB0VjIoS0VZLCAnYXRNZW50aW9uQHNlcTEnKTsKICAgIGFzc2VydC5kb2VzTm90TWF0Y2gocHJvbXB0LCAv5pen6LSmLyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAvNjAg5YiG6ZKf5Lul5YaF77ya5q2j5bi45o6lLyk7CiAgfSwgeyB3YWtlOiB7IHN0YWxlQ2hhdE1pbnV0ZXM6IDYwIH0gfSk7CiAgLy8gc2lsZW50TWludXRlcyDkvY7kuo4gY2hhdE1pbnV0ZXMg5pe25b+F6aG76KKr5oqs5bmz77ya5ZCm5YiZ5Lit6Ze05qGj5Lya5YaZ5oiQ6Ieq55u455+b55u+55qE44CMNjDvvZ42MCDliIbpkp/jgI0KICBhd2FpdCB3aXRoQnJpZGdlKGFzeW5jIChoKSA9PiB7CiAgICBhcHBlbmQoaCwgJ+WImuWImumCo+adoScsIHsgYWdlTXM6IDEyICogTUlOIH0pOwogICAgY29uc3QgcHJvbXB0ID0gaC5idWlsZFdha2VQcm9tcHRWMihLRVksICdhdE1lbnRpb25Ac2VxMScpOwogICAgYXNzZXJ0LmRvZXNOb3RNYXRjaChwcm9tcHQsIC82MO+9njYwLyk7CiAgICBhc3NlcnQubWF0Y2gocHJvbXB0LCAv6LaF6L+HIDYwIOWIhumSny8pOwogIH0sIHsgd2FrZTogeyBzdGFsZUNoYXRNaW51dGVzOiA2MCwgc3RhbGVTaWxlbnRNaW51dGVzOiAxNSB9IH0pOwp9KTsKCmF3YWl0IHRlc3QoJ+WumuaXti/lvJXlr7zllKTphpLkuI3og4zml7bpl7TmhJ/pgqPmrrXvvIjmsqHmnInlj6/liKTmlq3nmoTmtojmga/ml7bvvIknLCBhc3luYyAoKSA9PiB7CiAgYXdhaXQgd2l0aEJyaWRnZShhc3luYyAoaCkgPT4gewogICAgY29uc3QgcHJvbXB0ID0gaC5idWlsZFdha2VQcm9tcHRWMihLRVksICdib290c3RyYXAnKTsKICAgIGFzc2VydC5kb2VzTm90TWF0Y2gocHJvbXB0LCAv44CQ5pe26Ze05oSfLywgJ+ayoeaciea2iOaBr+aXtuS4jeivpeazqOWFpeaXtumXtOaEn+inhOWImScpOwogIH0pOwp9KTsKCi8vIOKUgOKUgCAzLiDllKTphpLlv6vnhafvvJpub3cgLyBuZXdlc3RBZ28gLyDmr4/mnaEgYXQtYWdvIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAphd2FpdCB0ZXN0KCflv6vnhaflpLTpg6jluKYgbm93IOS4jiBuZXdlc3RBZ2/vvIzmtojmga/kvZPluKYgYXQvYWdvIOS4lOS4jeWGjeacieijuCB0aW1lJywgYXN5bmMgKCkgPT4gewogIGF3YWl0IHdpdGhCcmlkZ2UoYXN5bmMgKGgpID0+IHsKICAgIGFwcGVuZChoLCAn56ys5LiA5p2hJyk7CiAgICBhcHBlbmQoaCwgJ+esrOS6jOadoScsIHsgYWdlTXM6IDI1ICogTUlOIH0pOwogICAgY29uc3Qgc25hcHNob3QgPSBoLmJ1aWxkV2FrZVNuYXBzaG90VjIoS0VZKTsKICAgIGFzc2VydC5tYXRjaChzbmFwc2hvdC5ub3csIC9eXGR7Mn06XGR7Mn0kLyk7CiAgICBhc3NlcnQuZXF1YWwoc25hcHNob3QubmV3ZXN0QWdvLCAnMjVtJyk7CiAgICBmb3IgKGNvbnN0IG1lc3NhZ2Ugb2Ygc25hcHNob3QubWVzc2FnZXMpIHsKICAgICAgYXNzZXJ0LmVxdWFsKG1lc3NhZ2UudGltZSwgdW5kZWZpbmVkLCAn5b+r54Wn6YeM5LiN6K+l5YaN5pyJ6KO4IGVwb2NoJyk7CiAgICAgIGFzc2VydC5tYXRjaChtZXNzYWdlLmF0LCAvXlxkezJ9OlxkezJ9JC8pOwogICAgICBhc3NlcnQubWF0Y2gobWVzc2FnZS5hZ28sIC9eXGQrW3NtaGRdJC8pOwogICAgfQogICAgYXNzZXJ0LmVxdWFsKHNuYXBzaG90Lm1lc3NhZ2VzWzFdLmFnbywgJzI1bScpOwogIH0pOwp9KTsKCi8vIOKUgOKUgCA0LiDlt6Xlhbfnu5PmnpzkuZ/otbDlkIzkuIDlpZfop4blm77vvIhNQ1Ag5LiO5qGl5o6l5YWx55SoIHFxLW1vZGVsLXZpZXfvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACmF3YWl0IHRlc3QoJ3NlcmlhbGl6ZU1vZGVsRGF0YSDlr7kgbWVzc2FnZXMvbmV3TWVzc2FnZXMg5ZCM5pe255Sf5pWI77yI5bel5YW357uT5p6c5ZCM5Y+j5b6E77yJJywgKCkgPT4gewogIGNvbnN0IGRhdGEgPSB7IG9rOiB0cnVlLCB1bnJlYWRDb3VudDogMSwgbWVzc2FnZXM6IFt7IHNlcTogMywgdGV4dDogJ3gnLCB0aW1lOiBOT1cgLSA5MCAqIDEwMDAgfV0sIG5ld01lc3NhZ2VzOiBbeyBzZXE6IDQsIHRleHQ6ICd5JywgdGltZTogTk9XIC0gNSAqIE1JTiB9XSB9OwogIGNvbnN0IG91dCA9IEpTT04ucGFyc2Uoc2VyaWFsaXplTW9kZWxEYXRhKGRhdGEsIHsgbm93OiBOT1cgfSkpOwogIGFzc2VydC5lcXVhbChvdXQubWVzc2FnZXNbMF0uYWdvLCAnMW0nKTsKICBhc3NlcnQuZXF1YWwob3V0Lm5ld01lc3NhZ2VzWzBdLmFnbywgJzVtJyk7CiAgYXNzZXJ0LmVxdWFsKG91dC51bnJlYWRDb3VudCwgMSwgJ+S/oeWwgeWtl+auteS4jeWPl+W9seWTjScpOwp9KTsKCmNvbnNvbGUubG9nKGBcbiR7ZmFpbHVyZXMgPyAnRkFJTEVEJyA6ICdBTEwgUEFTUyd9ICB0ZXN0cz0ke3Rlc3RzfSBmYWlsdXJlcz0ke2ZhaWx1cmVzfWApOwppZiAoZmFpbHVyZXMpIHByb2Nlc3MuZXhpdCgxKTsK
+// 时间观念回归：沉睡很久后被唤醒，模型必须看得出「这条是旧账」。
+//
+// 真实故障（操作者报告 + 会话实证）：
+//   有人发消息时 AI 正在沉睡；很久以后被唤醒，看到那条旧消息仍然当成"刚发的"去回复，
+//   甚至抢进早已散场的话题。两个根因：
+//     ① 模型看到的时间是裸 epoch（`time:1792294529471`），算不出"这是 38 分钟前"；
+//     ② 提示词里没有一条规则说"旧消息不该按实时对话接"。
+//
+// 本文件验证修复后的契约：at/ago 字段、提示词里的时间感分档、唤醒原因的年龄、���照头的时间。
+import assert from 'node:assert/strict';
+import { bridgeHarness } from './audit-bridge-harness.mjs';
+import { compactModelMessage, compactModelData, describeAge, serializeModelData } from '../src/qq-model-view.js';
+
+const KEY = 'group:456';
+const MIN = 60000;
+let failures = 0;
+let tests = 0;
+async function test(name, run) {
+  tests++;
+  try { await run(); console.log('PASS', name); }
+  catch (error) { failures++; console.error('FAIL', name, '—', error?.stack ?? error); }
+}
+
+// 固定 now 便于断言：2026-10-18 11:31:05 本地时间
+const NOW = new Date(2026, 9, 18, 11, 31, 5).getTime();
+
+// ── 1. 模型视图：epoch → at / ago ───────────────────────────────────────────
+await test('compactModelMessage 把 epoch 换成 at/ago，并去掉裸 time', () => {
+  const compact = compactModelMessage(
+    { seq: 7, sender: '小明', text: '在吗', time: NOW - 38 * MIN },
+    { now: NOW }
+  );
+  assert.equal(compact.time, undefined, '裸 epoch 不该再出现在模型视图里');
+  assert.equal(compact.ago, '38m');
+  assert.equal(compact.at, '10:53');
+  assert.equal(compact.text, '在吗');
+});
+
+await test('ago 单位：秒/分/时/天，未来时间夹到 0s', () => {
+  assert.equal(describeAge(NOW - 3000, NOW), '3s');
+  assert.equal(describeAge(NOW - 59 * 1000, NOW), '59s');
+  assert.equal(describeAge(NOW - 18 * MIN, NOW), '18m');
+  assert.equal(describeAge(NOW - 5 * 60 * MIN, NOW), '5h');
+  assert.equal(describeAge(NOW - 3 * 24 * 60 * MIN, NOW), '3d');
+  assert.equal(describeAge(NOW + 5 * MIN, NOW), '0s', '未来时间不能显示成负数');
+});
+
+await test('跨天的消息 at 带日期（否则"23:40"会被误读成今天）', () => {
+  const compact = compactModelMessage({ text: '晚安', time: new Date(2026, 9, 16, 23, 40).getTime() }, { now: NOW });
+  assert.equal(compact.at, '10-16 23:40');
+  // 10-16 23:40 → 10-18 11:31 约 36 小时，按天向下取整 = 1d
+  assert.equal(compact.ago, '1d');
+});
+
+await test('time 缺失/为 0 时保持原样（不把"没有时间"伪装成"刚刚"）', () => {
+  assert.deepEqual(compactModelMessage({ text: '好', time: 0 }, { now: NOW }), { text: '好', time: 0 });
+  assert.deepEqual(compactModelMessage({ text: '好' }, { now: NOW }), { text: '好' });
+});
+
+await test('一次序列化共用一个 now：同批消息的 ago 不会跨分钟自相矛盾', () => {
+  const data = {
+    messages: [
+      { seq: 1, text: 'a', time: NOW - 70 * 1000 },
+      { seq: 2, text: 'b', time: NOW - 10 * 1000 }
+    ]
+  };
+  const out = JSON.parse(serializeModelData(data, { now: NOW }));
+  assert.equal(out.messages[0].ago, '1m');
+  assert.equal(out.messages[1].ago, '10s');
+  // compactModelData 也要把 now 透传下去
+  assert.equal(compactModelData(data, { now: NOW }).messages[1].ago, '10s');
+});
+
+// ── 2. 唤醒提示：时间感规则 + 具体数字 ─────────────────────────────────────
+async function withBridge(run, config = {}) {
+  const h = await bridgeHarness({ config: { socialV2: { sticker: { enabled: false }, ...config } } });
+  h.setMode('reserved2');
+  try { await run(h); } finally { await h.close(); }
+}
+
+const append = (h, text, { ageMs = 0, sender = '小明' } = {}) => {
+  const st = h.getSocialV2State(KEY);
+  const seq = st.lastUnreadSeq + 1;
+  h.appendSocialV2Message(KEY, sender, text, text, false, false, `fixture-${seq}`, [], '789');
+  if (ageMs > 0) {
+    // 模拟"消息是 40 分钟前发的"：把存储层的时间戳往前推（模拟沉睡期间堆积）
+    const stored = st.unread.find((m) => m.seq === seq);
+    if (stored) stored.time = Date.now() - ageMs;
+  }
+  return seq;
+};
+
+await test('新消息（几秒前）不触发旧账警告', async () => {
+  await withBridge(async (h) => {
+    append(h, '在吗');
+    const prompt = h.buildWakePromptV2(KEY, 'atMention@seq1');
+    assert.match(prompt, /【时间感/);
+    assert.match(prompt, /最新一条来自「小明」/);
+    assert.doesNotMatch(prompt, /旧账/, '刚发的消息不该被判成旧账');
+  });
+});
+
+await test('40 分钟前的消息：提示词给出 ago 并明确标记「旧账」', async () => {
+  await withBridge(async (h) => {
+    append(h, '晚上开黑吗', { ageMs: 40 * MIN });
+    const prompt = h.buildWakePromptV2(KEY, 'atMention@seq1');
+    assert.match(prompt, /40m 之前发的/, '最新一条的年龄要写进提示词');
+    assert.match(prompt, /旧账/, '超过 staleChatMinutes 必须打「旧账」警告');
+    assert.match(prompt, /不要用秒回语气/, '要给出可执行的替代动作');
+    assert.match(prompt, /触发这条是 40m 前发的/, '唤醒原因那条的年龄也要写清楚');
+  });
+});
+
+await test('超过 staleSilentMinutes：规则要求默认不回、直接收尾', async () => {
+  await withBridge(async (h) => {
+    append(h, '有人吗', { ageMs: 5 * 60 * MIN });
+    const prompt = h.buildWakePromptV2(KEY, 'keyword:你的角色@seq1');
+    assert.match(prompt, /5h 之前发的/);
+    assert.match(prompt, /默认不回，直接 qq_mark_read 收尾/);
+    assert.match(prompt, /超过 120 分钟/, '默认阈值应写进警告里');
+  });
+});
+
+await test('阈值可由 config 调整（staleChatMinutes / staleSilentMinutes）', async () => {
+  // 默认阈值（10 / 120 分钟）：12 分钟已算旧账
+  await withBridge(async (h) => {
+    append(h, '刚刚那条', { ageMs: 12 * MIN });
+    assert.match(h.buildWakePromptV2(KEY, 'atMention@seq1'), /旧账/);
+  });
+  // 抬高到 60 分钟：12 分钟不该算旧账，分档文本要跟着变
+  await withBridge(async (h) => {
+    append(h, '刚刚那条', { ageMs: 12 * MIN });
+    const prompt = h.buildWakePromptV2(KEY, 'atMention@seq1');
+    assert.doesNotMatch(prompt, /旧账/);
+    assert.match(prompt, /60 分钟以内：正常接/);
+  }, { wake: { staleChatMinutes: 60 } });
+  // silentMinutes 低于 chatMinutes 时必须被抬平：否则中间档会写成自相矛盾的「60～60 分钟」
+  await withBridge(async (h) => {
+    append(h, '刚刚那条', { ageMs: 12 * MIN });
+    const prompt = h.buildWakePromptV2(KEY, 'atMention@seq1');
+    assert.doesNotMatch(prompt, /60～60/);
+    assert.match(prompt, /超过 60 分钟/);
+  }, { wake: { staleChatMinutes: 60, staleSilentMinutes: 15 } });
+});
+
+await test('定时/引导唤醒不背时间感那段（没有可判断的消息时）', async () => {
+  await withBridge(async (h) => {
+    const prompt = h.buildWakePromptV2(KEY, 'bootstrap');
+    assert.doesNotMatch(prompt, /【时间感/, '没有消息时不该注入时间感规则');
+  });
+});
+
+// ── 3. 唤醒快照：now / newestAgo / 每条 at-ago ─────────────────────────────
+await test('快照头部带 now 与 newestAgo，消息体带 at/ago 且不再有裸 time', async () => {
+  await withBridge(async (h) => {
+    append(h, '第一条');
+    append(h, '第二条', { ageMs: 25 * MIN });
+    const snapshot = h.buildWakeSnapshotV2(KEY);
+    assert.match(snapshot.now, /^\d{2}:\d{2}$/);
+    assert.equal(snapshot.newestAgo, '25m');
+    for (const message of snapshot.messages) {
+      assert.equal(message.time, undefined, '快照里不该再有裸 epoch');
+      assert.match(message.at, /^\d{2}:\d{2}$/);
+      assert.match(message.ago, /^\d+[smhd]$/);
+    }
+    assert.equal(snapshot.messages[1].ago, '25m');
+  });
+});
+
+// ── 4. 工具结果也走同一套视图（MCP 与桥接共用 qq-model-view） ───────────────
+await test('serializeModelData 对 messages/newMessages 同时生效（工具结果同口径）', () => {
+  const data = { ok: true, unreadCount: 1, messages: [{ seq: 3, text: 'x', time: NOW - 90 * 1000 }], newMessages: [{ seq: 4, text: 'y', time: NOW - 5 * MIN }] };
+  const out = JSON.parse(serializeModelData(data, { now: NOW }));
+  assert.equal(out.messages[0].ago, '1m');
+  assert.equal(out.newMessages[0].ago, '5m');
+  assert.equal(out.unreadCount, 1, '信封字段不受影响');
+});
+
+console.log(`\n${failures ? 'FAILED' : 'ALL PASS'}  tests=${tests} failures=${failures}`);
+if (failures) process.exit(1);

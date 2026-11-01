@@ -1,1 +1,42 @@
-aW1wb3J0IGFzc2VydCBmcm9tICdub2RlOmFzc2VydC9zdHJpY3QnOwppbXBvcnQgeyBmaW5kU3RpY2tlciwgbWVyZ2VTdGlja2VyTGlicmFyeSB9IGZyb20gJy4uL3NyYy9zdGlja2VyLWxpYi5qcyc7CmltcG9ydCB7IHNwbGl0Rm9yUVEgfSBmcm9tICcuLi9zcmMvbWQtdG8tcGxhaW4uanMnOwppbXBvcnQgeyBmb3JtYXRGb3J3YXJkUmVzcG9uc2UgfSBmcm9tICcuLi9zcmMvZm9yd2FyZC5qcyc7CgpsZXQgZmFpbGVkID0gMDsKZnVuY3Rpb24gdGVzdChuYW1lLCBmbikgewogIHRyeSB7IGZuKCk7IGNvbnNvbGUubG9nKGBQQVNTICR7bmFtZX1gKTsgfQogIGNhdGNoIChlcnJvcikgeyBmYWlsZWQgKz0gMTsgY29uc29sZS5lcnJvcihgRkFJTCAke25hbWV9OiAke2Vycm9yLm1lc3NhZ2V9YCk7IH0KfQp0ZXN0KCdhIHNob3J0IHJlZiBjYW5ub3Qgc2VsZWN0IGFuIHVucmVsYXRlZCBzdGlja2VyIFVSTCBiZWZvcmUgYW4gZXhhY3QgaWQnLCAoKSA9PiB7CiAgY29uc3QgZW50cmllcyA9IFt7IGlkOiAnb3RoZXInLCB1cmw6ICdodHRwczovL2V4YW1wbGUuaW52YWxpZC9hLnBuZycgfSwgeyBpZDogJ2EnLCB1cmw6ICdodHRwczovL2V4YW1wbGUuaW52YWxpZC9iLnBuZycgfV07CiAgYXNzZXJ0LmVxdWFsKGZpbmRTdGlja2VyKGVudHJpZXMsICdhJyk/LmlkLCAnYScpOwogIGFzc2VydC5lcXVhbChmaW5kU3RpY2tlcihlbnRyaWVzLCAncG5nJyksIG51bGwpOwp9KTsKdGVzdCgnc3RpY2tlciBVUkwgZXF1YWxpdHkgaWdub3JlcyByZW5ld2VkIHF1ZXJ5IHRva2VucyB3aXRob3V0IHN1YnN0cmluZyBtYXRjaGluZycsICgpID0+IHsKICBjb25zdCBlbnRyaWVzID0gW3sgaWQ6ICdhJywgdXJsOiAnaHR0cHM6Ly9leGFtcGxlLmludmFsaWQvYS5wbmc/dG9rZW49b2xkJyB9XTsKICBhc3NlcnQuZXF1YWwoZmluZFN0aWNrZXIoZW50cmllcywgJ2h0dHBzOi8vZXhhbXBsZS5pbnZhbGlkL2EucG5nP3Rva2VuPW5ldycpPy5pZCwgJ2EnKTsKICBhc3NlcnQuZXF1YWwoZmluZFN0aWNrZXIoZW50cmllcywgJ2h0dHBzOi8vZXZpbC5pbnZhbGlkL2h0dHBzOi8vZXhhbXBsZS5pbnZhbGlkL2EucG5nP3Rva2VuPW9sZCcpLCBudWxsKTsKfSk7CnRlc3QoJ3BhcnRpYWwgc3RpY2tlciByZWZyZXNoIHByZXNlcnZlcyBsZWFybmVkIHJlY29yZHMgb3V0c2lkZSB0aGUgZmV0Y2hlZCBwYWdlJywgKCkgPT4gewogIGNvbnN0IGVudHJpZXMgPSBbeyBpZDogJ2EnLCBzb3VyY2U6ICdxcScgfSwgeyBpZDogJ2InLCBzb3VyY2U6ICdxcScsIGxvY2FsTm90ZTogJ2xlYXJuZWQnLCB1c2VDb3VudDogNyB9XTsKICBjb25zdCByZXN1bHQgPSBtZXJnZVN0aWNrZXJMaWJyYXJ5KGVudHJpZXMsIFt7IGlkOiAnYScsIGRlc2M6ICduZXcnIH1dLCB7IGNvbXBsZXRlOiBmYWxzZSB9KTsKICBhc3NlcnQuZXF1YWwocmVzdWx0Lmxlbmd0aCwgMik7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5maW5kKChlbnRyeSkgPT4gZW50cnkuaWQgPT09ICdiJykubG9jYWxOb3RlLCAnbGVhcm5lZCcpOwogIGFzc2VydC5lcXVhbChtZXJnZVN0aWNrZXJMaWJyYXJ5KGVudHJpZXMsIFt7IGlkOiAnYScgfV0pLmxlbmd0aCwgMSk7Cn0pOwp0ZXN0KCdRUSBuZXdsaW5lIHNwbGl0dGluZyByZXNwZWN0cyB0aGUgc3RhdGVkIHBlci1tZXNzYWdlIGxpbWl0JywgKCkgPT4gewogIGNvbnN0IHRleHQgPSAnYWJjXG5kZWZcbmdoaSc7CiAgY29uc3QgcGFydHMgPSBzcGxpdEZvclFRKHRleHQsIDMpOwogIGFzc2VydC5lcXVhbChwYXJ0cy5qb2luKCcnKSwgdGV4dCk7CiAgYXNzZXJ0Lm9rKHBhcnRzLmV2ZXJ5KChwYXJ0KSA9PiBwYXJ0Lmxlbmd0aCA8PSAzKSk7Cn0pOwp0ZXN0KCdzaW5nbGUtc2VnbWVudCBmb3J3YXJkZWQgbWVzc2FnZXMgcmV0YWluIG1lZGlhIGFuZCBuZXN0ZWQgZm9yd2FyZCBtZXRhZGF0YScsICgpID0+IHsKICBjb25zdCByZXN1bHQgPSBmb3JtYXRGb3J3YXJkUmVzcG9uc2UoeyBtZXNzYWdlczogWwogICAgeyBtZXNzYWdlOiB7IHR5cGU6ICdpbWFnZScsIGRhdGE6IHsgdXJsOiAnaHR0cHM6Ly9leGFtcGxlLmludmFsaWQvaW1hZ2UucG5nJyB9IH0gfSwKICAgIHsgY29udGVudDogeyB0eXBlOiAnZm9yd2FyZCcsIGRhdGE6IHsgaWQ6ICduZXN0ZWQtaWQnIH0gfSB9LAogIF0gfSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3VsdC5tZXNzYWdlc1swXS5tZWRpYS5sZW5ndGgsIDEpOwogIGFzc2VydC5kZWVwRXF1YWwocmVzdWx0Lm1lc3NhZ2VzWzFdLm5lc3RlZEZvcndhcmRJZHMsIFsnbmVzdGVkLWlkJ10pOwp9KTsKcHJvY2Vzcy5leGl0Q29kZSA9IGZhaWxlZCA/IDEgOiAwOwo=
+import assert from 'node:assert/strict';
+import { findSticker, mergeStickerLibrary } from '../src/sticker-lib.js';
+import { splitForQQ } from '../src/md-to-plain.js';
+import { formatForwardResponse } from '../src/forward.js';
+
+let failed = 0;
+function test(name, fn) {
+  try { fn(); console.log(`PASS ${name}`); }
+  catch (error) { failed += 1; console.error(`FAIL ${name}: ${error.message}`); }
+}
+test('a short ref cannot select an unrelated sticker URL before an exact id', () => {
+  const entries = [{ id: 'other', url: 'https://example.invalid/a.png' }, { id: 'a', url: 'https://example.invalid/b.png' }];
+  assert.equal(findSticker(entries, 'a')?.id, 'a');
+  assert.equal(findSticker(entries, 'png'), null);
+});
+test('sticker URL equality ignores renewed query tokens without substring matching', () => {
+  const entries = [{ id: 'a', url: 'https://example.invalid/a.png?token=old' }];
+  assert.equal(findSticker(entries, 'https://example.invalid/a.png?token=new')?.id, 'a');
+  assert.equal(findSticker(entries, 'https://evil.invalid/https://example.invalid/a.png?token=old'), null);
+});
+test('partial sticker refresh preserves learned records outside the fetched page', () => {
+  const entries = [{ id: 'a', source: 'qq' }, { id: 'b', source: 'qq', localNote: 'learned', useCount: 7 }];
+  const result = mergeStickerLibrary(entries, [{ id: 'a', desc: 'new' }], { complete: false });
+  assert.equal(result.length, 2);
+  assert.equal(result.find((entry) => entry.id === 'b').localNote, 'learned');
+  assert.equal(mergeStickerLibrary(entries, [{ id: 'a' }]).length, 1);
+});
+test('QQ newline splitting respects the stated per-message limit', () => {
+  const text = 'abc\ndef\nghi';
+  const parts = splitForQQ(text, 3);
+  assert.equal(parts.join(''), text);
+  assert.ok(parts.every((part) => part.length <= 3));
+});
+test('single-segment forwarded messages retain media and nested forward metadata', () => {
+  const result = formatForwardResponse({ messages: [
+    { message: { type: 'image', data: { url: 'https://example.invalid/image.png' } } },
+    { content: { type: 'forward', data: { id: 'nested-id' } } },
+  ] });
+  assert.equal(result.messages[0].media.length, 1);
+  assert.deepEqual(result.messages[1].nestedForwardIds, ['nested-id']);
+});
+process.exitCode = failed ? 1 : 0;

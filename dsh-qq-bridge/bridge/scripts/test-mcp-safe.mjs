@@ -1,1 +1,91 @@
-Ly8g5rWL6K+V5a6J5YWo54mIIFFRIE1DUCBzZXJ2ZXLvvJrlt6XlhbfmuIXljZUgKyDnmb3lkI3ljZXlj5HpgIHmoKHpqowKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBDbGllbnQgfSBmcm9tICdAbW9kZWxjb250ZXh0cHJvdG9jb2wvc2RrL2NsaWVudC9pbmRleC5qcyc7CmltcG9ydCB7IFN0ZGlvQ2xpZW50VHJhbnNwb3J0IH0gZnJvbSAnQG1vZGVsY29udGV4dHByb3RvY29sL3Nkay9jbGllbnQvc3RkaW8uanMnOwoKY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKZnVuY3Rpb24gY3VycmVudE1vZGUoKSB7CiAgdHJ5IHsKICAgIHJldHVybiBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgJ3N0YXRlJywgJ21vZGUuanNvbicpLCAndXRmOCcpKS5tb2RlOwogIH0gY2F0Y2ggewogICAgcmV0dXJuICdjaGF0JzsKICB9Cn0KY29uc3QgTU9ERSA9IGN1cnJlbnRNb2RlKCk7CmNvbnN0IFJFU0VSVkVEMiA9IE1PREUgPT09ICdyZXNlcnZlZDInOwoKY29uc3QgZW50cnkgPSBmaWxlVVJMVG9QYXRoKG5ldyBVUkwoJy4uL3NyYy9tY3Atc25vd2x1bWEtc2FmZS5qcycsIGltcG9ydC5tZXRhLnVybCkpOwoKY29uc3QgdHJhbnNwb3J0ID0gbmV3IFN0ZGlvQ2xpZW50VHJhbnNwb3J0KHsgY29tbWFuZDogcHJvY2Vzcy5leGVjUGF0aCwgYXJnczogW2VudHJ5XSB9KTsKY29uc3QgY2xpZW50ID0gbmV3IENsaWVudCh7IG5hbWU6ICdicmlkZ2UtdGVzdCcsIHZlcnNpb246ICcwLjEuMCcgfSk7Cgp0cnkgewogIGF3YWl0IGNsaWVudC5jb25uZWN0KHRyYW5zcG9ydCk7CiAgY29uc29sZS5sb2coJ+KchSDlronlhaggTUNQIOi/nuaOpeaIkOWKnycpOwogIGNvbnN0IHRvb2xzID0gYXdhaXQgY2xpZW50Lmxpc3RUb29scygpOwogIGNvbnNvbGUubG9nKCflt6Xlhbc6JywgdG9vbHMudG9vbHMubWFwKCh0KSA9PiB0Lm5hbWUpLmpvaW4oJywgJykpOwoKICBjb25zdCBzdGF0dXMgPSBhd2FpdCBjbGllbnQuY2FsbFRvb2woeyBuYW1lOiAncXFfc3RhdHVzJywgYXJndW1lbnRzOiB7fSB9KTsKICBjb25zb2xlLmxvZygn4pyFIHFxX3N0YXR1czonLCBzdGF0dXMuY29udGVudD8uWzBdPy50ZXh0Py5zbGljZSgwLCAxNTApKTsKCiAgY29uc3QgZ3JvdXBzID0gYXdhaXQgY2xpZW50LmNhbGxUb29sKHsgbmFtZTogJ3FxX2xpc3RfZ3JvdXBzJywgYXJndW1lbnRzOiB7fSB9KTsKICBjb25zb2xlLmxvZygn4pyFIHFxX2xpc3RfZ3JvdXBzOicsIGdyb3Vwcy5jb250ZW50Py5bMF0/LnRleHQ/LnNsaWNlKDAsIDIwMCkpOwoKICBjb25zdCBoaXN0b3J5ID0gYXdhaXQgY2xpZW50LmNhbGxUb29sKHsgbmFtZTogJ3FxX2dldF9ncm91cF9oaXN0b3J5JywgYXJndW1lbnRzOiB7IGdyb3VwSWQ6IDEyMzQ1Njc4OSB9IH0pOwogIGNvbnN0IGhpc3RUZXh0ID0gaGlzdG9yeS5jb250ZW50Py5bMF0/LnRleHQgPz8gJyc7CiAgaWYgKFJFU0VSVkVEMikgewogICAgY29uc29sZS5sb2coJ/CfmqsgcmVzZXJ2ZWQyIOS4i+aXp+WPquivu+W3peWFt+S4jeWPr+eUqDonLCBoaXN0b3J5LmlzRXJyb3IgPyAn6KKr5ouS57udIOKckycgOiAn4pqg77iPIOacquiiq+aLkue7ne+8iOW8guW4uO+8ge+8iScsIGhpc3RUZXh0LnNsaWNlKDAsIDEyMCkpOwogIH0gZWxzZSB7CiAgICBjb25zb2xlLmxvZygn4pyFIHFxX2dldF9ncm91cF9oaXN0b3J5IOWQqyBtZXNzYWdlX2lkOicsIC9tZXNzYWdlX2lkLy50ZXN0KGhpc3RUZXh0KSA/ICfmmK8g4pyTJyA6ICflkKYg4pyXJyk7CiAgfQoKICAvLyDnmb3lkI3ljZXlpJblj5HpgIHvvJrlupTooqvmi5Lnu53vvIhpc0Vycm9y77yJCiAgY29uc3QgZGVuaWVkID0gYXdhaXQgY2xpZW50LmNhbGxUb29sKHsgbmFtZTogJ3FxX3NlbmRfZ3JvdXBfbWVzc2FnZScsIGFyZ3VtZW50czogeyBncm91cElkOiAxMDAwMDMsIG1lc3NhZ2U6ICfmtYvor5UnIH0gfSk7CiAgY29uc29sZS5sb2coJ/Cfmqsg55m95ZCN5Y2V5aSW5Y+R6YCB57uT5p6cOicsIGRlbmllZC5pc0Vycm9yID8gJ+iiq+aLkue7nSDinJMnIDogJ+KaoO+4jyDmnKrooqvmi5Lnu53vvIjlvILluLjvvIHvvIknLCBkZW5pZWQuY29udGVudD8uWzBdPy50ZXh0Py5zbGljZSgwLCAxMjApKTsKCiAgLy8g5paw6IO95Yqb77ya5Y+R6YCB5bel5YW35bqU5pq06Zyy5Y+v6YCJIHJlcGx5VG9NZXNzYWdlSWQKICBjb25zdCB0b29sczIgPSBhd2FpdCBjbGllbnQubGlzdFRvb2xzKCk7CiAgY29uc3Qgc2VuZFRvb2wgPSB0b29sczIudG9vbHMuZmluZCgodCkgPT4gdC5uYW1lID09PSAncXFfc2VuZF9ncm91cF9tZXNzYWdlJyk7CiAgY29uc3Qgc2NoZW1hVGV4dCA9IEpTT04uc3RyaW5naWZ5KHNlbmRUb29sPy5pbnB1dFNjaGVtYSA/PyB7fSk7CiAgY29uc29sZS5sb2coJ+KchSByZXBseVRvTWVzc2FnZUlkIOWPguaVsDonLCBzY2hlbWFUZXh0LmluY2x1ZGVzKCdyZXBseVRvTWVzc2FnZUlkJykgPyAn5a2Y5ZyoIOKckycgOiAn57y65aSxIOKclycpOwogIGNvbnNvbGUubG9nKCfinIUgcXFfcmVwbHkg5bel5YW3OicsIHRvb2xzMi50b29scy5zb21lKCh0KSA9PiB0Lm5hbWUgPT09ICdxcV9yZXBseScpID8gJ+WtmOWcqCDinJMnIDogJ+e8uuWksSDinJcnKTsKICBjb25zb2xlLmxvZygn4pyFIHFxX3NsYW5nX3F1ZXJ5IOW3peWFtzonLCB0b29sczIudG9vbHMuc29tZSgodCkgPT4gdC5uYW1lID09PSAncXFfc2xhbmdfcXVlcnknKSA/ICflrZjlnKgg4pyTJyA6ICfnvLrlpLEg4pyXJyk7CiAgY29uc29sZS5sb2coJ+KchSBxcV9zbGFuZ19zdWJtaXQg5bel5YW3OicsIHRvb2xzMi50b29scy5zb21lKCh0KSA9PiB0Lm5hbWUgPT09ICdxcV9zbGFuZ19zdWJtaXQnKSA/ICflrZjlnKgg4pyTJyA6ICfnvLrlpLEg4pyXJyk7CgogIC8vIOeZveWQjeWNleWGheS9hiByZXBseVRvTWVzc2FnZUlkIOmdnuazle+8muW6lOWcqOWPkemAgeWJjeiiq+WPguaVsOagoemqjOaLkue7ne+8iOS4jeS8muecn+WunuWPkea2iOaBr++8iQogIGNvbnN0IGludmFsaWRSZXBseSA9IGF3YWl0IGNsaWVudC5jYWxsVG9vbCh7CiAgICBuYW1lOiAncXFfc2VuZF9ncm91cF9tZXNzYWdlJywKICAgIGFyZ3VtZW50czogeyBncm91cElkOiAxMjM0NTY3ODksIG1lc3NhZ2U6ICfmtYvor5UnLCByZXBseVRvTWVzc2FnZUlkOiAnYWJjJyB9CiAgfSk7CiAgY29uc29sZS5sb2coJ/Cfmqsg6Z2e5rOV5byV55SoIGlkKGFiYykg57uT5p6cOicsIGludmFsaWRSZXBseS5pc0Vycm9yID8gJ+iiq+aLkue7nSDinJMnIDogJ+KaoO+4jyDmnKrooqvmi5Lnu53vvIjlvILluLjvvIHvvIknLCBpbnZhbGlkUmVwbHkuY29udGVudD8uWzBdPy50ZXh0Py5zbGljZSgwLCAxMjApKTsKCiAgY29uc3QgemVyb1JlcGx5ID0gYXdhaXQgY2xpZW50LmNhbGxUb29sKHsKICAgIG5hbWU6ICdxcV9zZW5kX2dyb3VwX21lc3NhZ2UnLAogICAgYXJndW1lbnRzOiB7IGdyb3VwSWQ6IDEyMzQ1Njc4OSwgbWVzc2FnZTogJ+a1i+ivlScsIHJlcGx5VG9NZXNzYWdlSWQ6IDAgfQogIH0pOwogIGNvbnNvbGUubG9nKCfwn5qrIOmdnuazleW8leeUqCBpZCgwKSDnu5Pmnpw6JywgemVyb1JlcGx5LmlzRXJyb3IgPyAn6KKr5ouS57udIOKckycgOiAn4pqg77iPIOacquiiq+aLkue7ne+8iOW8guW4uO+8ge+8iScsIHplcm9SZXBseS5jb250ZW50Py5bMF0/LnRleHQ/LnNsaWNlKDAsIDEyMCkpOwoKICAvLyDnnJ/lrp4gUVEg5raI5oGvIGlkIOWPr+iDveaYr+i0n+aVsO+8m+i0n+aVsOW6lOmAmui/h+WPguaVsOagoemqjO+8iOi/memHjOeUqOeZveWQjeWNleWklue+pO+8jOW6lOiiq+eZveWQjeWNleaLpuaIquiAjOmdnuWPguaVsOaLpuaIqu+8iQogIGNvbnN0IG5lZ2F0aXZlUmVwbHkgPSBhd2FpdCBjbGllbnQuY2FsbFRvb2woewogICAgbmFtZTogJ3FxX3NlbmRfZ3JvdXBfbWVzc2FnZScsCiAgICBhcmd1bWVudHM6IHsgZ3JvdXBJZDogMTAwMDAzLCBtZXNzYWdlOiAn5rWL6K+VJywgcmVwbHlUb01lc3NhZ2VJZDogLTEyMzQ1Njc4OSB9CiAgfSk7CiAgY29uc3QgbmVnVGV4dCA9IG5lZ2F0aXZlUmVwbHkuY29udGVudD8uWzBdPy50ZXh0ID8/ICcnOwogIGNvbnNvbGUubG9nKCfwn5qrIOi0nyBpZCArIOeZveWQjeWNleWkliDnu5Pmnpw6JywgbmVnYXRpdmVSZXBseS5pc0Vycm9yID8gJ+iiq+aLkue7nSDinJMnIDogJ+KaoO+4jyDmnKrooqvmi5Lnu53vvIjlvILluLjvvIHvvIknLCBuZWdUZXh0LnNsaWNlKDAsIDEyMCksICd8IOagoemqjOmYtuautTonLCBuZWdUZXh0LmluY2x1ZGVzKCfnmb3lkI3ljZUnKSA/ICfnmb3lkI3ljZXvvIjlj4LmlbDlt7LpgJrov4fvvIknIDogKFJFU0VSVkVEMiA/ICd0b2tlbi/mqKHlvI/vvIhyZXNlcnZlZDIg6KaB5rGCIGFnZW50IHRva2Vu77yJJyA6ICflj4LmlbAnKSk7CgogIC8vIOS4k+eUqOW8leeUqOW3peWFtyBxcV9yZXBsee+8mueZveWQjeWNleWkliArIOi0nyBpZCDlupTooqvnmb3lkI3ljZXmi6bmiKrvvIjlj4LmlbDlt7LpgJrov4fvvIkKICBjb25zdCByZXBseURlbmllZCA9IGF3YWl0IGNsaWVudC5jYWxsVG9vbCh7CiAgICBuYW1lOiAncXFfcmVwbHknLAogICAgYXJndW1lbnRzOiB7IGdyb3VwSWQ6IDEwMDAwMywgcmVwbHlUb01lc3NhZ2VJZDogLTEyMzQ1Njc4OSwgbWVzc2FnZTogJ+a1i+ivlScgfQogIH0pOwogIGNvbnN0IHJlcGx5VGV4dCA9IHJlcGx5RGVuaWVkLmNvbnRlbnQ/LlswXT8udGV4dCA/PyAnJzsKICBjb25zb2xlLmxvZygn8J+aqyBxcV9yZXBseSDnmb3lkI3ljZXlpJYg57uT5p6cOicsIHJlcGx5RGVuaWVkLmlzRXJyb3IgPyAn6KKr5ouS57udIOKckycgOiAn4pqg77iPIOacquiiq+aLkue7ne+8iOW8guW4uO+8ge+8iScsIHJlcGx5VGV4dC5zbGljZSgwLCAxMjApLCAnfCDmoKHpqozpmLbmrrU6JywgcmVwbHlUZXh0LmluY2x1ZGVzKCfnmb3lkI3ljZUnKSA/ICfnmb3lkI3ljZXvvIjlj4LmlbDlt7LpgJrov4fvvIknIDogKFJFU0VSVkVEMiA/ICd0b2tlbi/mqKHlvI/vvIhyZXNlcnZlZDIg6KaB5rGCIGFnZW50IHRva2Vu77yJJyA6ICflj4LmlbAnKSk7CgogIHByb2Nlc3MuZXhpdCgwKTsKfSBjYXRjaCAoZXJyb3IpIHsKICBjb25zb2xlLmVycm9yKCfinYwg5rWL6K+V5aSx6LSlOicsIGVycm9yPy5tZXNzYWdlID8/IGVycm9yKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0K
+// 测试安全版 QQ MCP server：工具清单 + 白名单发送校验
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { Client } from '@modelcontextprotocol/sdk/client/index.js';
+import { StdioClientTransport } from '@modelcontextprotocol/sdk/client/stdio.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+function currentMode() {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(ROOT, 'state', 'mode.json'), 'utf8')).mode;
+  } catch {
+    return 'chat';
+  }
+}
+const MODE = currentMode();
+const RESERVED2 = MODE === 'reserved2';
+
+const entry = fileURLToPath(new URL('../src/mcp-snowluma-safe.js', import.meta.url));
+
+const transport = new StdioClientTransport({ command: process.execPath, args: [entry] });
+const client = new Client({ name: 'bridge-test', version: '0.1.0' });
+
+try {
+  await client.connect(transport);
+  console.log('✅ 安全 MCP 连接成功');
+  const tools = await client.listTools();
+  console.log('工具:', tools.tools.map((t) => t.name).join(', '));
+
+  const status = await client.callTool({ name: 'qq_status', arguments: {} });
+  console.log('✅ qq_status:', status.content?.[0]?.text?.slice(0, 150));
+
+  const groups = await client.callTool({ name: 'qq_list_groups', arguments: {} });
+  console.log('✅ qq_list_groups:', groups.content?.[0]?.text?.slice(0, 200));
+
+  const history = await client.callTool({ name: 'qq_get_group_history', arguments: { groupId: 123456789 } });
+  const histText = history.content?.[0]?.text ?? '';
+  if (RESERVED2) {
+    console.log('🚫 reserved2 下旧只读工具不可用:', history.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', histText.slice(0, 120));
+  } else {
+    console.log('✅ qq_get_group_history 含 message_id:', /message_id/.test(histText) ? '是 ✓' : '否 ✗');
+  }
+
+  // 白名单外发送：应被拒绝（isError）
+  const denied = await client.callTool({ name: 'qq_send_group_message', arguments: { groupId: 100003, message: '测试' } });
+  console.log('🚫 白名单外发送结果:', denied.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', denied.content?.[0]?.text?.slice(0, 120));
+
+  // 新能力：发送工具应暴露可选 replyToMessageId
+  const tools2 = await client.listTools();
+  const sendTool = tools2.tools.find((t) => t.name === 'qq_send_group_message');
+  const schemaText = JSON.stringify(sendTool?.inputSchema ?? {});
+  console.log('✅ replyToMessageId 参数:', schemaText.includes('replyToMessageId') ? '存在 ✓' : '缺失 ✗');
+  console.log('✅ qq_reply 工具:', tools2.tools.some((t) => t.name === 'qq_reply') ? '存在 ✓' : '缺失 ✗');
+  console.log('✅ qq_slang_query 工具:', tools2.tools.some((t) => t.name === 'qq_slang_query') ? '存在 ✓' : '缺失 ✗');
+  console.log('✅ qq_slang_submit 工具:', tools2.tools.some((t) => t.name === 'qq_slang_submit') ? '存在 ✓' : '缺失 ✗');
+
+  // 白名单内但 replyToMessageId 非法：应在发送前被参数校验拒绝（不会真实发消息）
+  const invalidReply = await client.callTool({
+    name: 'qq_send_group_message',
+    arguments: { groupId: 123456789, message: '测试', replyToMessageId: 'abc' }
+  });
+  console.log('🚫 非法引用 id(abc) 结果:', invalidReply.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', invalidReply.content?.[0]?.text?.slice(0, 120));
+
+  const zeroReply = await client.callTool({
+    name: 'qq_send_group_message',
+    arguments: { groupId: 123456789, message: '测试', replyToMessageId: 0 }
+  });
+  console.log('🚫 非法引用 id(0) 结果:', zeroReply.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', zeroReply.content?.[0]?.text?.slice(0, 120));
+
+  // 真实 QQ 消息 id 可能是负数；负数应通过参数校验（这里用白名单外群，应被白名单拦截而非参数拦截）
+  const negativeReply = await client.callTool({
+    name: 'qq_send_group_message',
+    arguments: { groupId: 100003, message: '测试', replyToMessageId: -123456789 }
+  });
+  const negText = negativeReply.content?.[0]?.text ?? '';
+  console.log('🚫 负 id + 白名单外 结果:', negativeReply.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', negText.slice(0, 120), '| 校验阶段:', negText.includes('白名单') ? '白名单（参数已通过）' : (RESERVED2 ? 'token/模式（reserved2 要求 agent token）' : '参数'));
+
+  // 专用引用工具 qq_reply：白名单外 + 负 id 应被白名单拦截（参数已通过）
+  const replyDenied = await client.callTool({
+    name: 'qq_reply',
+    arguments: { groupId: 100003, replyToMessageId: -123456789, message: '测试' }
+  });
+  const replyText = replyDenied.content?.[0]?.text ?? '';
+  console.log('🚫 qq_reply 白名单外 结果:', replyDenied.isError ? '被拒绝 ✓' : '⚠️ 未被拒绝（异常！）', replyText.slice(0, 120), '| 校验阶段:', replyText.includes('白名单') ? '白名单（参数已通过）' : (RESERVED2 ? 'token/模式（reserved2 要求 agent token）' : '参数'));
+
+  process.exit(0);
+} catch (error) {
+  console.error('❌ 测试失败:', error?.message ?? error);
+  process.exit(1);
+}

@@ -1,1 +1,92 @@
-Ly8g5a6J5YWo54mIIFdlYiBTZWFyY2ggLyBGZXRjaCBNQ1Agc2VydmVy77yIc3RkaW/vvInjgILnlLEgRFNIIOeahCBNQ1Ag5a6i5oi356uvIHNwYXdu44CCCi8vCi8vIOWuieWFqOiuvuiuoe+8mgovLyAtIOWPquaatOmcsuWPquivu+W3peWFtyBgd2ViX3NlYXJjaGAg5LiOIGB3ZWJfZmV0Y2hg77ya5p+l572R57uc55So6K+tL+aily/pu5Hor53jgIHmipPlj5bnvZHpobXmraPmlofjgIIKLy8gLSDkuI3mmrTpnLLku7vkvZXmnKzlnLDmlofku7bjgIHlkb3ku6TmiafooYzjgIHlhpnmk43kvZzjgIIKLy8gLSDmn6Xor6Lor43lgZrln7rnoYDmuIXmtJfvvJrljrsgQ1Eg56CB44CB5o6n5Yi25a2X56ym44CB6LaF6ZW/5oiq5pat44CCCi8vIC0g5pCc57Si77ya5LyY5YWI6LWwICoqRFNIIOWQjOS4gOi3ryBEZWVwU2VlayDogZTnvZHmkJzntKIqKu+8iHNyYy93ZWItc2VhcmNoLmpz77ya5ZCM5LiA56uv54K5L+aooeWeiy8KLy8gICDmnI3liqHnq68gd2ViX3NlYXJjaCDlt6XlhbfvvIzlh63mja7lj5YgY29uZmlnL2Vudi9EU0gg55qEIC5jcmVkZW50aWFscy55YW1s77yJ77yMCi8vICAg5LiN5Y+v55So5pe25Zue6YCAIEJpbmfvvIhSU1Mg5LyY5YWI77yJ44CC5pCc57Si6K+N5LiN5YaN6buY6K6k5Y+R57uZIEJpbmfjgIIKLy8gLSBgd2ViX2ZldGNoYCDku4XlhYHorrggaHR0cC9odHRwc++8mgovLyAgIC0g56aB5q2iIFVSTCDlhoXltYzlh63mja7vvJsKLy8gICAtIOemgeatoiBsb2NhbGhvc3QgLyAubG9jYWwgLyDnp4HmnIkgSVAgLyDnjq/lm54gLyDpk77ot6/mnKzlnLAgLyBDR05BVCDnrYnlhoXnvZHlnLDlnYDvvJsKLy8gICAtIOWfn+WQjeS8muWFiOWBmiBETlMg6Kej5p6Q5bm25qOA5p+l5YWo6YOo6Kej5p6Q57uT5p6c77yM6YG/5YWN6Kej5p6Q5Yiw5YaF572R77ybCi8vICAgLSDmiYvliqjot5/pmo/ph43lrprlkJHvvIzmr4/kuIDot7Ppg73ph43mlrDmoKHpqozvvJsKLy8gICAtIOWTjeW6lOS9k+aMieWtl+iKgua1gemZkOmHj+ivu+WPlu+8jOmBv+WFjei2heWkp+WTjeW6lOaLluWerui/m+eoi+OAggovLyAtIOaQnOe0oue7k+aenC/mipPlj5bnu5Pmnpzku4XkvZzkuLrigJzlgJnpgInop6Pph4rigJ3vvIzmnIDnu4jmmK/lkKblhaXlupPku43nlLHmjqfliLblj7Dkurrlt6Xnoa7orqTjgIIKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgc2FmZUZldGNoIH0gZnJvbSAnLi9zYWZlLWZldGNoLmpzJzsKaW1wb3J0IHsgd2ViU2VhcmNoIH0gZnJvbSAnLi93ZWItc2VhcmNoLmpzJzsKaW1wb3J0IHsgTWNwU2VydmVyIH0gZnJvbSAnQG1vZGVsY29udGV4dHByb3RvY29sL3Nkay9zZXJ2ZXIvbWNwLmpzJzsKaW1wb3J0IHsgU3RkaW9TZXJ2ZXJUcmFuc3BvcnQgfSBmcm9tICdAbW9kZWxjb250ZXh0cHJvdG9jb2wvc2RrL3NlcnZlci9zdGRpby5qcyc7CmltcG9ydCB7IHogfSBmcm9tICd6b2QnOwoKLyoqCiAqIOmhueebruagueebruW9le+8iOeUqOS6juivuyBjb25maWcuanNvbiDnmoQgd2ViU2VhcmNoIOaute+8ieOAggogKgogKiDkuI3og73nlKggYGltcG9ydC5tZXRhLnVybGDvvJrnprvnur/mtYvor5XkvJrmiormnKzmlofku7bloZ7ov5sgdm0g5LiK5LiL5paH5omn6KGM77yI6YKj6YeM5rKh5pyJIGltcG9ydC5tZXRh77yMCiAqIOebtOaOpeaYr+ivreazlemUmeivr++8ieOAgkRTSCDku6UgYG5vZGUgPOacrOaWh+S7tue7neWvuei3r+W+hD5gIOWQr+WKqCBNQ1DvvIzmiYDku6UgYXJndlsxXSDlsLHmmK/mnKzmlofku7bvvJsKICog5Y+W5a6D55qE5LiK5LiA57qnIGBzcmMvYCDnmoTniLbnm67lvZXljbPlj6/jgILlj5bkuI3liLDml7bpgIDlm54gY3dk77yI5rWL6K+V546v5aKD5q2j5aW95LuO5LuT5bqT5qC56L+Q6KGM77yJ44CCCiAqLwpmdW5jdGlvbiBwcm9qZWN0Um9vdCgpIHsKICB0cnkgewogICAgY29uc3QgZW50cnkgPSBTdHJpbmcocHJvY2Vzcy5hcmd2WzFdID8/ICcnKTsKICAgIGlmIChlbnRyeSkgewogICAgICBjb25zdCBkaXIgPSBwYXRoLmRpcm5hbWUocGF0aC5yZXNvbHZlKGVudHJ5KSk7CiAgICAgIGlmIChwYXRoLmJhc2VuYW1lKGRpcikgPT09ICdzcmMnKSByZXR1cm4gcGF0aC5kaXJuYW1lKGRpcik7CiAgICB9CiAgfSBjYXRjaCB7fQogIHJldHVybiBwcm9jZXNzLmN3ZCgpOwp9CgpmdW5jdGlvbiBzYW5pdGl6ZVF1ZXJ5KHF1ZXJ5KSB7CiAgcmV0dXJuIFN0cmluZyhxdWVyeSA/PyAnJykKICAgIC8vIOWOu+aOiSBDUSDnoIHvvIhbQ1E6eHh4Xe+8iQogICAgLnJlcGxhY2UoL1xbQ1E6W15cXV0qXF0vZ2ksICcgJykKICAgIC5yZXBsYWNlKC9bXHUwMDAwLVx1MDAxZlx1MDA3Zl0vZywgJyAnKQogICAgLnJlcGxhY2UoL1xzKy9nLCAnICcpCiAgICAudHJpbSgpCiAgICAuc2xpY2UoMCwgMTIwKTsKfQoKY29uc3Qgc2VydmVyID0gbmV3IE1jcFNlcnZlcih7IG5hbWU6ICd3ZWItc2VhcmNoLXNhZmUnLCB2ZXJzaW9uOiAnMC4yLjEtcjEnIH0pOwoKc2VydmVyLnRvb2woCiAgJ3dlYl9zZWFyY2gnLAogICflj6ror7vogZTnvZHmkJzntKLvvJrkvJjlhYjkvb/nlKjkuI4gRFNIIOebuOWQjOeahCBEZWVwU2VlayDogZTnvZHmkJzntKLvvIjnu5Pmnpzmm7Tlh4bjgIHkuI3miornvqTph4znmoTor43lj5Hnu5nmkJzntKLlvJXmk47lub/lkYrnvZHnu5zvvInvvIzkuI3lj6/nlKjml7boh6rliqjlm57pgIAgQmluZ+OAgui/lOWbnuagh+mimC9VUkwv5pGY6KaB77yM5LiN5omn6KGM5Lu75L2V5pys5Zyw5pON5L2c44CC6YCC5ZCI5p+l572R57uc55So6K+t44CB5qKX44CB5LqL5a6e5oCn6Zeu6aKY5ZKM54Ot54K544CCJywKICB7IHF1ZXJ5OiB6LnN0cmluZygpLmRlc2NyaWJlKCfopoHmkJzntKLnoa7orqTnmoTnvZHnu5znlKjor60v6buR6K+dL+aily/kuovlrp7mgKfpl67popgnKSB9LAogIGFzeW5jICh7IHF1ZXJ5IH0pID0+IHsKICAgIGNvbnN0IGNsZWFuID0gc2FuaXRpemVRdWVyeShxdWVyeSk7CiAgICBpZiAoIWNsZWFuKSB7CiAgICAgIHJldHVybiB7IGNvbnRlbnQ6IFt7IHR5cGU6ICd0ZXh0JywgdGV4dDogJ+afpeivouivjeS4uuepuu+8jOW3suaLkue7neOAgicgfV0sIGlzRXJyb3I6IHRydWUgfTsKICAgIH0KICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHdlYlNlYXJjaChjbGVhbiwgeyByb290OiBwcm9qZWN0Um9vdCgpIH0pOwogICAgICByZXR1cm4geyBjb250ZW50OiBbeyB0eXBlOiAndGV4dCcsIHRleHQ6IEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikgfV0gfTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgY29udGVudDogW3sgdHlwZTogJ3RleHQnLCB0ZXh0OiBg5pCc57Si5aSx6LSl77yaJHtlcnJvcj8ubWVzc2FnZSA/PyBlcnJvcn1gIH1dLAogICAgICAgIGlzRXJyb3I6IHRydWUsCiAgICAgIH07CiAgICB9CiAgfQopOwoKc2VydmVyLnRvb2woCiAgJ3dlYl9mZXRjaCcsCiAgJ+WPquivu+aKk+WPliBIVFRQKFMpIOe9kemhteato+aWh++8jOi/lOWbnue6r+aWh+acrC9IVE1MIOWJjSA1MDAwMCDlrZfnrKbjgILnpoHmraLorr/pl67lhoXnvZEv5pys5py65Zyw5Z2A77yM5LiN5omn6KGM5Lu75L2V5pys5Zyw5pON5L2c44CCJywKICB7IHVybDogei5zdHJpbmcoKS5kZXNjcmliZSgn6KaB5oqT5Y+W55qEIGh0dHAocykgVVJMJykgfSwKICBhc3luYyAoeyB1cmwgfSkgPT4gewogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2FmZUZldGNoKHVybCk7CiAgICAgIHJldHVybiB7IGNvbnRlbnQ6IFt7IHR5cGU6ICd0ZXh0JywgdGV4dDogSlNPTi5zdHJpbmdpZnkocmVzdWx0LCBudWxsLCAyKSB9XSB9OwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBjb250ZW50OiBbeyB0eXBlOiAndGV4dCcsIHRleHQ6IGDmipPlj5blpLHotKXvvJoke2Vycm9yPy5tZXNzYWdlID8/IGVycm9yfWAgfV0sCiAgICAgICAgaXNFcnJvcjogdHJ1ZSwKICAgICAgfTsKICAgIH0KICB9Cik7Cgphd2FpdCBzZXJ2ZXIuY29ubmVjdChuZXcgU3RkaW9TZXJ2ZXJUcmFuc3BvcnQoKSk7Cg==
+// 安全版 Web Search / Fetch MCP server（stdio）。由 DSH 的 MCP 客户端 spawn。
+//
+// 安全设计：
+// - 只暴露只读工具 `web_search` 与 `web_fetch`：查网络用语/梗/黑话、抓取网页正文。
+// - 不暴露任何本地文件、命令执行、写操作。
+// - 查询词做基础清洗：去 CQ 码、控制字符、超长截断。
+// - 搜索：优先走 **DSH 同一路 DeepSeek 联网搜索**（src/web-search.js：同一端点/模型/
+//   服务端 web_search 工具，凭据取 config/env/DSH 的 .credentials.yaml），
+//   不可用时回退 Bing（RSS 优先）。搜索词不再默认发给 Bing。
+// - `web_fetch` 仅允许 http/https：
+//   - 禁止 URL 内嵌凭据；
+//   - 禁止 localhost / .local / 私有 IP / 环回 / 链路本地 / CGNAT 等内网地址；
+//   - 域名会先做 DNS 解析并检查全部解析结果，避免解析到内网；
+//   - 手动跟随重定向，每一跳都重新校验；
+//   - 响应体按字节流限量读取，避免超大响应拖垮进程。
+// - 搜索结果/抓取结果仅作为“候选解释”，最终是否入库仍由控制台人工确认。
+import path from 'node:path';
+import { safeFetch } from './safe-fetch.js';
+import { webSearch } from './web-search.js';
+import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
+import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
+import { z } from 'zod';
+
+/**
+ * 项目根目录（用于读 config.json 的 webSearch 段）。
+ *
+ * 不能用 `import.meta.url`：离线测试会把本文件塞进 vm 上下文执行（那里没有 import.meta，
+ * 直接是语法错误）。DSH 以 `node <本文件绝对路径>` 启动 MCP，所以 argv[1] 就是本文件；
+ * 取它的上一级 `src/` 的父目录即可。取不到时退回 cwd（测试环境正好从仓库根运行）。
+ */
+function projectRoot() {
+  try {
+    const entry = String(process.argv[1] ?? '');
+    if (entry) {
+      const dir = path.dirname(path.resolve(entry));
+      if (path.basename(dir) === 'src') return path.dirname(dir);
+    }
+  } catch {}
+  return process.cwd();
+}
+
+function sanitizeQuery(query) {
+  return String(query ?? '')
+    // 去掉 CQ 码（[CQ:xxx]）
+    .replace(/\[CQ:[^\]]*\]/gi, ' ')
+    .replace(/[\u0000-\u001f\u007f]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 120);
+}
+
+const server = new McpServer({ name: 'web-search-safe', version: '0.2.1-r1' });
+
+server.tool(
+  'web_search',
+  '只读联网搜索：优先使用与 DSH 相同的 DeepSeek 联网搜索（结果更准、不把群里的词发给搜索引擎广告网络），不可用时自动回退 Bing。返回标题/URL/摘要，不执行任何本地操作。适合查网络用语、梗、事实性问题和热点。',
+  { query: z.string().describe('要搜索确认的网络用语/黑话/梗/事实性问题') },
+  async ({ query }) => {
+    const clean = sanitizeQuery(query);
+    if (!clean) {
+      return { content: [{ type: 'text', text: '查询词为空，已拒绝。' }], isError: true };
+    }
+    try {
+      const result = await webSearch(clean, { root: projectRoot() });
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    } catch (error) {
+      return {
+        content: [{ type: 'text', text: `搜索失败：${error?.message ?? error}` }],
+        isError: true,
+      };
+    }
+  }
+);
+
+server.tool(
+  'web_fetch',
+  '只读抓取 HTTP(S) 网页正文，返回纯文本/HTML 前 50000 字符。禁止访问内网/本机地址，不执行任何本地操作。',
+  { url: z.string().describe('要抓取的 http(s) URL') },
+  async ({ url }) => {
+    try {
+      const result = await safeFetch(url);
+      return { content: [{ type: 'text', text: JSON.stringify(result, null, 2) }] };
+    } catch (error) {
+      return {
+        content: [{ type: 'text', text: `抓取失败：${error?.message ?? error}` }],
+        isError: true,
+      };
+    }
+  }
+);
+
+await server.connect(new StdioServerTransport());

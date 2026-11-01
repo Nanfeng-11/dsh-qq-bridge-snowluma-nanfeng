@@ -1,1 +1,90 @@
-Ly8g6K+K5pat5o6i6ZKI5YWx55So55qEIERTSCDpibTmnYMv6K+35rGC5byV5a+844CCCi8vCi8vIOS4uuS7gOS5iOmcgOimgeWug++8iOi/meaYr+S4gOS4quecn+WunuWtmOWcqOi/h+eahOmAgumFjee8uuWPo++8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQovLyDlha3kuKrmjqLpkojlkIToh6rlpI3liLbkuobkuIDku73jgIzku44gfi8uZHNoL2d1YXJkL2xvZ3Mvc2VydmVyLSoub3V0LmxvZyDph4zmraPliJnmipMgYD90b2tlbj1g77yMCi8vIOWGjeaLv+Wug+aNoiBDb29raWXjgI3nmoTlvJXlr7zku6PnoIHjgIJEU0ggMC4xLjcg6LW36L+Z5p2h6Lev5b275bqV5q275LqG77yaCi8vICAgwrcg6L+b56iL5ZCv5YqoIHRva2VuIOaUueS4uiBwcm9jZXNzTGF1bmNoVG9rZW4oKSDnjrDnlJ/miJDnmoQgMzIg5a2X6IqC6ZqP5py65pWw77yMKirlj6rlrZjlnKjlhoXlrZgKLy8gICAgIFdlYWtNYXAg6YeM77yM5LiN6JC955uY44CB5LiN5Y+v5o6o5a+8KirvvJsKLy8gICDCtyBndWFyZCDmj5Lku7bpgIDlvbnlkI7vvIzmsqHmnInlkK/liqjlmajlho3mioogYGRzaCB3ZWJgIOeahCBzdGRvdXQg6YeN5a6a5ZCR5Yiw6YKj5Liq55uu5b2V77yMCi8vICAgICDkuo7mmK/ml6Xlv5fph4zliankuIvnmoTmmK8qKuS4iuS4gOS4qui/m+eoi+eahOmZiOaXpyB0b2tlbioq77yM5o2iIENvb2tpZSDlj6rkvJrlvpfliLAgNDAx44CCCi8vIOahpeaOpeeUn+S6p+S7o+eggeW9k+aXtuS/ruWlveS6hu+8jOS9hui/meWHoOS4quaOoumSiOayoei3n+S4iiDigJTigJQg5a6D5Lus5ZyoIDAuMS43LzAuMi4wIOS4iuS4gOW+iyA0MDHvvIwKLy8g562J5LqO44CM6K+K5pat5bel5YW35pys6Lqr5Z2P5LqG44CN77yM6ICM5rKh5Lq65Lya5rOo5oSP5Yiw77yI5o6i6ZKI5LiN5piv5Zue5b2S5aWX5Lu255qE5LiA6YOo5YiG77yJ44CCCi8vCi8vIOeOsOWcqOe7n+S4gOi1sOS4jueUn+S6p+S7o+eggeWQjOS4gOadoei3r++8mueUqCBgfi8uZHNoLy5jcmVkZW50aWFscy55YW1sYCDph4wqKuaMgeS5heWMlioq55qECi8vIGBjbGllbnQtY29ubmVjdGlvbi9icm93c2VyLXNlc3Npb25gIOetvuWQjeWvhumSpeemu+e6v+mTuOmAoOS8muivnSBDb29raWUKLy8g77yI6KeBIHNyYy9kc2gtY2xpZW50LmpzIOeahCBkaXNjb3ZlckRzaFNlc3Npb25Db29raWXvvInjgIIKLy8KLy8g5Y+m5aSW77ya5o6i6ZKI55qE5bel5L2c5Yy65LiA5b6L5bu65ZyoKirns7vnu5/kuLTml7bnm67lvZUqKuOAgmBzdGF0ZS9gIOiiqyBzY3JpcHRzL2hhcmRlbi1zdGF0ZS1hY2wubWpzCi8vIOaUtue0p+S6hiBBQ0zvvIjljrvmjonnu6fmib8g4oeSIOaymeeusei/m+eoi+eahOiDveWKmyBTSUQg5LiN5ZyoIEFDTCDph4zvvInvvIzlnKggRFNIIOaymeeusemHjOi3keaOoumSiOaXtgovLyDlvoAgc3RhdGUvIOW7uuebruW9leS8muebtOaOpSBFUEVSTeOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBvcyBmcm9tICdub2RlOm9zJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZGlzY292ZXJEc2hTZXNzaW9uQ29va2llIH0gZnJvbSAnLi4vc3JjL2RzaC1jbGllbnQuanMnOwoKZXhwb3J0IGNvbnN0IFBST0JFX0JBU0UgPSBwcm9jZXNzLmVudi5EU0hfQkFTRV9VUkwgfHwgJ2h0dHA6Ly8xMjcuMC4wLjE6MzA4MCc7CgovKioKICog5Y+W5b6X5LiA5Liq5Y+v55So55qE5Lya6K+dIENvb2tpZeOAggogKgogKiDpobrluo/vvJpgRFNIX1BST0JFX0NPT0tJRWAg546v5aKD5Y+Y6YePIOKGkiBhcmd2WzJd77yI5pi+5byPIGxhdW5jaCB0b2tlbu+8jOWQkeWQjuWFvOWuueaXp+eUqOazle+8iQogKiDihpIg55So5pys5py6562+5ZCN5a+G6ZKl56a757q/6ZO46YCg44CCCiAqCiAqIEBwYXJhbSBvcHRpb25zLmJhc2UgLSBEU0gg5Z+65Z2A44CCCiAqIEByZXR1cm5zIENvb2tpZSDkuLLjgIIKICogQHRocm93cyDkuInnp43miYvmrrXpg73mi7/kuI3liLDml7bmipvplJnvvIzlubbor7TmmI7lkIToh6rlpLHotKXnmoTljp/lm6DjgIIKICovCmV4cG9ydCBmdW5jdGlvbiBwcm9iZUNvb2tpZSh7IGJhc2UgPSBQUk9CRV9CQVNFIH0gPSB7fSkgewogIGNvbnN0IGV4cGxpY2l0ID0gcHJvY2Vzcy5lbnYuRFNIX1BST0JFX0NPT0tJRTsKICBpZiAoZXhwbGljaXQpIHJldHVybiBleHBsaWNpdDsKICBjb25zdCBtaW50ZWQgPSBkaXNjb3ZlckRzaFNlc3Npb25Db29raWUoYmFzZSk7CiAgaWYgKG1pbnRlZCkgcmV0dXJuIG1pbnRlZDsKICB0aHJvdyBuZXcgRXJyb3IoCiAgICBg5peg5rOV5Li6ICR7YmFzZX0g5Y+W5b6X5Lya6K+dIENvb2tpZe+8muivu+S4jeWIsCAke3BhdGguam9pbihwcm9jZXNzLmVudi5EU0hfSE9NRSB8fCBwYXRoLmpvaW4ob3MuaG9tZWRpcigpLCAnLmRzaCcpLCAnLmNyZWRlbnRpYWxzLnlhbWwnKX0gYAogICAgKyAn6YeM55qEIGNsaWVudC1jb25uZWN0aW9uL2Jyb3dzZXItc2Vzc2lvbiDnrb7lkI3lr4bpkqXvvIhEU0gg5piv5ZCm5q2j5Zyo6L+Q6KGM77yfRFNIX0hPTUUg5piv5ZCm5oyH5ZCR55yf5q2j55qEIC5kc2jvvJ/vvInjgIInCiAgICArICfkuZ/lj6/ku6Xorr4gRFNIX1BST0JFX0NPT0tJRSDnm7TmjqXnu5nkuIDkuKogQ29va2ll44CCJwogICk7Cn0KCi8qKgogKiDpgKDkuIDkuKrotbAgYC9hcGkvPGVuZHBvaW50PmAg55qEIFJQQyDosIPnlKjlmajvvIjmlpzmnaDlvI8gZW5kcG9pbnQgKyB7IGFyZ3MgfSDljIXoo4XvvInjgIIKICoKICogQHBhcmFtIGNvb2tpZSAtIHtAbGluayBwcm9iZUNvb2tpZX0g55qE6L+U5Zue5YC844CCCiAqIEBwYXJhbSBvcHRpb25zLmJhc2UgLSBEU0gg5Z+65Z2A44CCCiAqIEByZXR1cm5zIGBhc3luYyAoZW5kcG9pbnQsIGFyZ3MpID0+IHJlc3VsdGDvvIxyZXN1bHQg5pivIGB7IG9rLCB2YWx1ZSB9YCAvIGB7IG9rOmZhbHNlLCBlcnJvciB9YCDkv6HlsIHjgIIKICovCmV4cG9ydCBmdW5jdGlvbiBwcm9iZVJwYyhjb29raWUsIHsgYmFzZSA9IFBST0JFX0JBU0UgfSA9IHt9KSB7CiAgcmV0dXJuIGFzeW5jIGZ1bmN0aW9uIHJwYyhlbmRwb2ludCwgYXJncykgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChgJHtiYXNlfS9hcGkvJHtlbmRwb2ludH1gLCB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzOiB7IGNvb2tpZSwgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgdHlwZTogJ2NsaWVudC1yZXF1ZXN0JywKICAgICAgICBycGNJZDogJ3Byb2JlLScgKyBNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5zbGljZSgyLCA4KSwKICAgICAgICBtZXRob2Q6IGVuZHBvaW50LAogICAgICAgIHBheWxvYWQ6IHsgYXJncyB9LAogICAgICB9KSwKICAgIH0pOwogICAgY29uc3QgYm9keSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgIHJldHVybiBib2R5LnJlc3VsdDsKICB9Owp9CgovKiog5omT5byAIGAvYXBpL3JlbW90ZS5tdXhgIOeahCBXZWJTb2NrZXTvvIjmlpzmnaDlvI/mtYHnq6/ngrnotbDov5nkuIDmnaHov57mjqXvvInjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIHByb2JlTXV4U29ja2V0KGNvb2tpZSwgeyBiYXNlID0gUFJPQkVfQkFTRSB9ID0ge30pIHsKICBjb25zdCB1cmwgPSBuZXcgVVJMKCcvYXBpL3JlbW90ZS5tdXgnLCBiYXNlKTsKICB1cmwucHJvdG9jb2wgPSB1cmwucHJvdG9jb2wgPT09ICdodHRwczonID8gJ3dzczonIDogJ3dzOic7CiAgcmV0dXJuIG5ldyBXZWJTb2NrZXQodXJsLCB7IGhlYWRlcnM6IHsgY29va2llIH0gfSk7Cn0KCi8qKgogKiDmjqLpkojnlKjnmoTlt6XkvZzljLrnm67lvZXvvJrns7vnu5/kuLTml7bnm67lvZXkuIvnmoTni6znq4vlrZDnm67lvZXvvIzkuI3norDku5PlupPph4znmoQgYHN0YXRlL2DjgIIKICogQHBhcmFtIG5hbWUgLSDlrZDnm67lvZXlkI3vvIjmjqLpkojlkI3ljbPlj6/vvInjgIIKICovCmV4cG9ydCBmdW5jdGlvbiBwcm9iZVdvcmtzcGFjZURpcihuYW1lKSB7CiAgY29uc3QgZGlyID0gcGF0aC5qb2luKG9zLnRtcGRpcigpLCBgcXEtYnJpZGdlLXByb2JlLSR7bmFtZX1gKTsKICBmcy5ybVN5bmMoZGlyLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7CiAgZnMubWtkaXJTeW5jKGRpciwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgcmV0dXJuIGRpcjsKfQo=
+// 诊断探针共用的 DSH 鉴权/请求引导。
+//
+// 为什么需要它（这是一个真实存在过的适配缺口）
+// --------------------------------------------
+// 六个探针各自复制了一份「从 ~/.dsh/guard/logs/server-*.out.log 里正则抓 `?token=`，
+// 再拿它换 Cookie」的引导代码。DSH 0.1.7 起这条路彻底死了：
+//   · 进程启动 token 改为 processLaunchToken() 现生成的 32 字节随机数，**只存在内存
+//     WeakMap 里，不落盘、不可推导**；
+//   · guard 插件退役后，没有启动器再把 `dsh web` 的 stdout 重定向到那个目录，
+//     于是日志里剩下的是**上一个进程的陈旧 token**，换 Cookie 只会得到 401。
+// 桥接生产代码当时修好了，但这几个探针没跟上 —— 它们在 0.1.7/0.2.0 上一律 401，
+// 等于「诊断工具本身坏了」，而没人会注意到（探针不是回归套件的一部分）。
+//
+// 现在统一走与生产代码同一条路：用 `~/.dsh/.credentials.yaml` 里**持久化**的
+// `client-connection/browser-session` 签名密钥离线铸造会话 Cookie
+// （见 src/dsh-client.js 的 discoverDshSessionCookie）。
+//
+// 另外：探针的工作区一律建在**系统临时目录**。`state/` 被 scripts/harden-state-acl.mjs
+// 收紧了 ACL（去掉继承 ⇒ 沙箱进程的能力 SID 不在 ACL 里），在 DSH 沙箱里跑探针时
+// 往 state/ 建目录会直接 EPERM。
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { discoverDshSessionCookie } from '../src/dsh-client.js';
+
+export const PROBE_BASE = process.env.DSH_BASE_URL || 'http://127.0.0.1:3080';
+
+/**
+ * 取得一个可用的会话 Cookie。
+ *
+ * 顺序：`DSH_PROBE_COOKIE` 环境变量 → argv[2]（显式 launch token，向后兼容旧用法）
+ * → 用本机签名密钥离线铸造。
+ *
+ * @param options.base - DSH 基址。
+ * @returns Cookie 串。
+ * @throws 三种手段都拿不到时抛错，并说明各自失败的原因。
+ */
+export function probeCookie({ base = PROBE_BASE } = {}) {
+  const explicit = process.env.DSH_PROBE_COOKIE;
+  if (explicit) return explicit;
+  const minted = discoverDshSessionCookie(base);
+  if (minted) return minted;
+  throw new Error(
+    `无法为 ${base} 取得会话 Cookie：读不到 ${path.join(process.env.DSH_HOME || path.join(os.homedir(), '.dsh'), '.credentials.yaml')} `
+    + '里的 client-connection/browser-session 签名密钥（DSH 是否正在运行？DSH_HOME 是否指向真正的 .dsh？）。'
+    + '也可以设 DSH_PROBE_COOKIE 直接给一个 Cookie。'
+  );
+}
+
+/**
+ * 造一个走 `/api/<endpoint>` 的 RPC 调用器（斜杠式 endpoint + { args } 包装）。
+ *
+ * @param cookie - {@link probeCookie} 的返回值。
+ * @param options.base - DSH 基址。
+ * @returns `async (endpoint, args) => result`，result 是 `{ ok, value }` / `{ ok:false, error }` 信封。
+ */
+export function probeRpc(cookie, { base = PROBE_BASE } = {}) {
+  return async function rpc(endpoint, args) {
+    const response = await fetch(`${base}/api/${endpoint}`, {
+      method: 'POST',
+      headers: { cookie, 'content-type': 'application/json' },
+      body: JSON.stringify({
+        type: 'client-request',
+        rpcId: 'probe-' + Math.random().toString(36).slice(2, 8),
+        method: endpoint,
+        payload: { args },
+      }),
+    });
+    const body = await response.json();
+    return body.result;
+  };
+}
+
+/** 打开 `/api/remote.mux` 的 WebSocket（斜杠式流端点走这一条连接）。 */
+export function probeMuxSocket(cookie, { base = PROBE_BASE } = {}) {
+  const url = new URL('/api/remote.mux', base);
+  url.protocol = url.protocol === 'https:' ? 'wss:' : 'ws:';
+  return new WebSocket(url, { headers: { cookie } });
+}
+
+/**
+ * 探针用的工作区目录：系统临时目录下的独立子目录，不碰仓库里的 `state/`。
+ * @param name - 子目录名（探针名即可）。
+ */
+export function probeWorkspaceDir(name) {
+  const dir = path.join(os.tmpdir(), `qq-bridge-probe-${name}`);
+  fs.rmSync(dir, { recursive: true, force: true });
+  fs.mkdirSync(dir, { recursive: true });
+  return dir;
+}

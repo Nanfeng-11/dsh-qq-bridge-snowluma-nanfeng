@@ -1,1 +1,18 @@
-IyEvc3lzdGVtL2Jpbi9zaAojIHFxLWJyaWRnZSDkuIDplK7mgaLlpI3vvJrmiYvmnLrph43lkK/lkI7miYvliqjmiafooYwKY2QgIiREU0hfSE9NRSIvcXEtYnJpZGdlIHx8IGV4aXQgMQouL3N0YXJ0dXAuc2gKCgojIOKUgOKUgCDlj6/np7vmpI3ot6/lvoTmjqLmtYvvvIhkc2gtcXEtYnJpZGdlIOaPkuS7tueUn+aIkO+8jOWLv+WIoO+8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIOeUteiEkSAvIOacjeWKoeWZqCAvIOWuieWNk+mAmueUqO+8muahpeaOpeebruW9leaMieiEmuacrOiHqui6q+S9jee9ruaOqOWvvO+8jG5vZGUg6LWwIFBBVEjvvIwKIyBEU0hfSE9NRSDkvJjlhYjlj5bnjq/looPlj5jph4/vvIzlhbbmrKHmoYzpnaIgRFNIIOe6puWumuebruW9leOAggppZiBbIC16ICIkUE9SVEFCTEVfUEFUSFNfTE9BREVEIiBdOyB0aGVuCiAgUE9SVEFCTEVfUEFUSFNfTE9BREVEPTEKICBTQ1JJUFRfRElSPSIkKGNkICIkKGRpcm5hbWUgIiQwIikiIDI+L2Rldi9udWxsICYmIHB3ZCkiCiAgQlJJREdFX0RJUj0iJHtCUklER0VfRElSOi0kU0NSSVBUX0RJUn0iCiAgTk9ERV9CSU49IiR7Tk9ERV9CSU46LSQoY29tbWFuZCAtdiBub2RlIDI+L2Rldi9udWxsIHx8IGVjaG8gbm9kZSl9IgogIERTSF9IT01FPSIke0RTSF9IT01FOi0kSE9NRS8uZHNofSIKICBleHBvcnQgQlJJREdFX0RJUiBOT0RFX0JJTiBEU0hfSE9NRQpmaQojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgA==
+#!/system/bin/sh
+# qq-bridge 一键恢复：手机重启后手动执行
+cd "$DSH_HOME"/qq-bridge || exit 1
+./startup.sh
+
+
+# ── 可移植路径探测（dsh-qq-bridge 插件生成，勿删）──────────────────
+# 电脑 / 服务器 / 安卓通用：桥接目录按脚本自身位置推导，node 走 PATH，
+# DSH_HOME 优先取环境变量，其次桌面 DSH 约定目录。
+if [ -z "$PORTABLE_PATHS_LOADED" ]; then
+  PORTABLE_PATHS_LOADED=1
+  SCRIPT_DIR="$(cd "$(dirname "$0")" 2>/dev/null && pwd)"
+  BRIDGE_DIR="${BRIDGE_DIR:-$SCRIPT_DIR}"
+  NODE_BIN="${NODE_BIN:-$(command -v node 2>/dev/null || echo node)}"
+  DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+  export BRIDGE_DIR NODE_BIN DSH_HOME
+fi
+# ────────────────────────────────────────────────────────────────────

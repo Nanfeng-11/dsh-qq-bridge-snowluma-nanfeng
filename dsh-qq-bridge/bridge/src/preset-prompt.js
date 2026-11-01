@@ -1,1 +1,157 @@
-Ly8g5LqM5Luj5Lu/55yf6aKE6K6+5o+Q56S66K+N77yI44CM5Lu/55yf44CN5bGC77yJ55qE6K+75Y+W5LiO5a6J5YWo5pS55YaZ44CCCi8vCi8vIOi+ueeVjOivtOaYju+8mgovLyAgIOS7v+ecn+aPkOekuuivjSA9IOmihOiuvuWGhee9ru+8iGRzaC9hZ2VudC1wcmVzZXRzLzxwcmVzZXQ+L2FnZW50LmNvcmRpcy55bWwg55qEIHBlcnNvbmEucHJlZml477yJ77yMCi8vICAgICAgICAgICAgICAgIOinhOWumiBBSSDmgI7kuYjosIPlt6XlhbfjgIHmgI7kuYjlj4LkuI7nvqTogYrvvIjooYzkuLrkuI7ljY/orq7vvInvvJvmlLnlrozpnIDph43lkK8gRFNIIOeUn+aViOOAggovLyAgIOS6uuagvOaPkOekuuivjSA9IHJvbGVzLzzlkI3np7A+Lm1k77yM6KeE5a6aIEFJIOaYr+iwgeOAgeS7gOS5iOaAp+agvO+8iOS6uuiuvuS4juivreawlO+8ie+8mwovLyAgICAgICAgICAgICAgICDnlLHmoaXmjqXmr4/mnaHmtojmga/ms6jlhaXvvIzkv53lrZjljbPnlJ/mlYjjgIIKLy8KLy8g5pys5qih5Z2X5Y+q5YGa57qv5paH5pysL1lBTUwg5aSE55CG77yM5LiN56Kw5paH5Lu257O757uf5Lul5aSW55qE5Lu75L2V54q25oCB77yM5L6/5LqO5Y2V5rWL44CCCmltcG9ydCB5YW1sIGZyb20gJ2pzLXlhbWwnOwoKZXhwb3J0IGNvbnN0IFBSRVNFVF9QRVJTT05BX0lEID0gJ3BlcnNvbmEnOwpleHBvcnQgY29uc3QgUFJFU0VUX1BST01QVF9NQVhfQllURVMgPSAxMjggKiAxMDI0OwoKLy8g5a6J5YWo5Z+657q/5q616JC977ya57y65aSx6K+05piOIEFJIOeahOadg+mZkOi+ueeVjOWPr+iDveiiq+WJiuW8se+8jOS/neWtmOaXtuitpuWRiu+8iOS4jemYu+aWre+8jOeuoeeQhuWRmOacieacgOe7iOWGs+Wumuadg++8ieOAggpleHBvcnQgY29uc3QgUFJFU0VUX1JFUVVJUkVEX01BUktFUlMgPSBbJ+OAkOS6jOS7o+S7v+ecn+aooeW8jyDigJTigJQg5a6J5YWo6KeE5YiZJywgJ+OAkOS6jOS7o+S7v+ecn+aooeW8jyDigJTigJQg5bel5YW35Y2P6K6uJ107CgovLyDnoazmgKfkuI3lj5jph4/vvJrov5nkupvkuLLmmK/mnKzpobnnm67oh6rlt7HnmoTmtYvor5XkuI7lronlhajovrnnlYzmiYDkvp3otZbnmoTvvIh0ZXN0LXFxLXByZXNldC1jb250cmFjdC5tanMgLyB2ZXJpZnktcGVyc29uYS1jb25maWcubWpz77yJ77yMCi8vIOS4gOaXpuiiq+WIoOWwseS8muWQjOaXtuWJiuW8sSBBSSDnmoTmnYPpmZDovrnnlYzlubborqkgYG5wbSBydW4gdGVzdDphdWRpdGDjgIFgbnBtIHJ1biB2ZXJpZnk6cGVyc29uYWAg5Y+Y57qi77yM5Zug5q2k5L+d5a2Y5pe255u05o6l5ouS57ud44CCCi8vCi8vICoq5oyJ6aKE6K6+5YiG5Yir5qCh6aqMKirvvJrov5nlpZfjgIzlv4XpobvmnInjgI3nmoTmuIXljZXotbfliJ3mmK/nhafkuozku6PpooTorr7vvIhxcS1jaGF0LXYy77yJ5YaZ55qE77yMCi8vIOS9huS/neWtmC/ov5jljp/nmoTmoKHpqozlr7nkuKTkuKrpooTorr7nlKjnmoTmmK/lkIzkuIDku73muIXljZUg4oCU4oCUIOe7k+aenOS4gOS7o+mihOiuvu+8iHFxLWNoYXTvvIzmnKzmnaXlsLEKLy8g5LiN55So5bel5YW344CB5Lmf5LuO5LiN6Ieq56ew44CM5L2g5rKh5pyJ5pys5Zyw5bel5YW344CN77yJ5Zyo5o6n5Yi25Y+w6YeMIDEwMCUg5a2Y5LiN6L+b5Y675Lmf6L+Y5Y6f5LiN5LqG77yMCi8vIOaKpemUmei/mOWjsOensOWug+OAjOe8uuWwkeWuieWFqOS4jeWPmOmHj+OAjeOAguS4gOS7o+ehruWunumcgOimgeeahOS4jeWPmOmHj+WPquacieS4i+mdoui/meWHoOadoeOAggpleHBvcnQgY29uc3QgUFJFU0VUX0JMT0NLSU5HX1NVQlNUUklOR1MgPSBbCiAgJ+S9oOayoeacieacrOWcsOW3peWFtycsCiAgJ+e+pOWPi+ayoeacieeuoeeQhuadg+mZkCcsCiAgJ0FQSSDku6TniYwnLAogICfop5LoibLnlLHmoaXmjqXms6jlhaUnLAogICfkuI3kvJroh6rliqjlj5HpgIHliLAgUVEnLApdOwovLyDkuIDku6PvvIhxcS1jaGF077yJ77ya5LiN55SoIE1DUCDlt6XlhbfvvIzpnaDnqbrmoLzliIblj6UgKyBbU0lMRU5UXe+8jOWboOatpOW3peWFt+mdoumCo+WHoOadoeS4jemAgueUqOOAggovLyDov5nkuInmnaHpg73pgJDlrZflh7rnjrDlnKjkuIDku6PpooTorr7nmoTmraPmlofph4zvvIjop4EgZHNoL2FnZW50LXByZXNldHMvcXEtY2hhdC9hZ2VudC5jb3JkaXMueW1s77yJ4oCU4oCUCi8vIOa4heWNleW/hemhu+S4jumihOiuvuWunumZheaWh+ahiOS4gOiHtO+8jOWQpuWImeaOp+WItuWPsOS8mueUqOS4gOS4qumihOiuvuiHquW3semDveS4jea7oei2s+eahOadoeS7tuaKiuWug+mUgeatu+OAggpleHBvcnQgY29uc3QgUFJFU0VUX0JMT0NLSU5HX1NVQlNUUklOR1NfVjEgPSBbCiAgJ+e+pOWPi+ayoeacieeuoeeQhuadg+mZkCcsCiAgJ0FQSSDku6TniYwnLAogICfop5LoibLmia7mvJTnlLHns7vnu5/ms6jlhaUnLApdOwpleHBvcnQgY29uc3QgUFJFU0VUX01JTl9CT0RZX0NIQVJTID0gNTAwOwoKLyoqIOWPluafkOS4qumihOiuvuWvueW6lOeahOehrOaAp+S4jeWPmOmHj+a4heWNle+8iOacquefpemihOiuvuaMieabtOS4peeahOS6jOS7o+abv+WkhOeQhu+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gcHJlc2V0QmxvY2tpbmdTdWJzdHJpbmdzKHByZXNldCA9ICd2MicpIHsKICByZXR1cm4gcHJlc2V0ID09PSAndjEnID8gUFJFU0VUX0JMT0NLSU5HX1NVQlNUUklOR1NfVjEgOiBQUkVTRVRfQkxPQ0tJTkdfU1VCU1RSSU5HUzsKfQoKLyoqIOehrOaAp+agoemqjO+8mui/lOWbnumYu+atouS/neWtmOeahOWOn+WboOWIl+ihqO+8iOepuuaVsOe7hD3lj6/kv53lrZjvvInjgIJwcmVzZXQg5Y+WICd2MScgLyAndjIn44CCICovCmV4cG9ydCBmdW5jdGlvbiBwcmVzZXRQcm9tcHRCbG9ja2Vycyhjb250ZW50LCBwcmVzZXQgPSAndjInKSB7CiAgY29uc3QgdGV4dCA9IFN0cmluZyhjb250ZW50ID8/ICcnKTsKICBjb25zdCBibG9ja2VycyA9IFtdOwogIGlmICghdGV4dC50cmltKCkpIHsKICAgIGJsb2NrZXJzLnB1c2goJ+S7v+ecn+aPkOekuuivjeS4jeiDveS4uuepuicpOwogICAgcmV0dXJuIGJsb2NrZXJzOwogIH0KICBmb3IgKGNvbnN0IG5lZWRsZSBvZiBwcmVzZXRCbG9ja2luZ1N1YnN0cmluZ3MocHJlc2V0KSkgewogICAgaWYgKCF0ZXh0LmluY2x1ZGVzKG5lZWRsZSkpIHsKICAgICAgYmxvY2tlcnMucHVzaChg57y65bCR5a6J5YWo5LiN5Y+Y6YeP44CMJHtuZWVkbGV944CN77ya5Yig6Zmk5a6D5Lya6K6pIEFJIOeahOadg+mZkOi+ueeVjOWkseaViO+8jOW5tuS9vyBucG0gcnVuIHRlc3Q6YXVkaXQg5aSx6LSlYCk7CiAgICB9CiAgfQogIGlmICh0ZXh0LnRyaW0oKS5sZW5ndGggPCBQUkVTRVRfTUlOX0JPRFlfQ0hBUlMpIHsKICAgIGJsb2NrZXJzLnB1c2goYOato+aWh+i/h+efre+8iCR7dGV4dC50cmltKCkubGVuZ3RofSDlrZfnrKYgPCAke1BSRVNFVF9NSU5fQk9EWV9DSEFSU33vvInvvJrnlpHkvLzlhoXlrrnooqvor6/liKBgKTsKICB9CiAgcmV0dXJuIGJsb2NrZXJzOwp9CgovKioKICog5a6a5L2NIHBlcnNvbmEg5p2h55uu55qEIHByZWZpeCDlnZfmoIfph4/vvIjmlK/mjIEgPi0gLyB8IOetieWdl+ivreazle+8ieOAggogKiBAcmV0dXJucyB7e2xpbmVzOiBzdHJpbmdbXSwgZW50cnlTdGFydDogbnVtYmVyLCBlbnRyeUVuZDogbnVtYmVyLCBrZXlMaW5lOiBudW1iZXIsIGtleUluZGVudDogbnVtYmVyLCBibG9ja0VuZDogbnVtYmVyfXxudWxsfQogKi8KZXhwb3J0IGZ1bmN0aW9uIGxvY2F0ZVByZXNldFByb21wdEJsb2NrKHRleHQpIHsKICBjb25zdCBsaW5lcyA9IFN0cmluZyh0ZXh0ID8/ICcnKS5zcGxpdCgnXG4nKTsKICBjb25zdCBlbnRyeVN0YXJ0ID0gbGluZXMuZmluZEluZGV4KChsaW5lKSA9PiBuZXcgUmVnRXhwKGBeLSBpZDpcXHMqJHtQUkVTRVRfUEVSU09OQV9JRH1cXHMqJGApLnRlc3QobGluZSkpOwogIGlmIChlbnRyeVN0YXJ0IDwgMCkgcmV0dXJuIG51bGw7CiAgbGV0IGVudHJ5RW5kID0gbGluZXMubGVuZ3RoOwogIGZvciAobGV0IGkgPSBlbnRyeVN0YXJ0ICsgMTsgaSA8IGxpbmVzLmxlbmd0aDsgaSArPSAxKSB7CiAgICBpZiAoL14tIC8udGVzdChsaW5lc1tpXSkpIHsgZW50cnlFbmQgPSBpOyBicmVhazsgfQogIH0KICBsZXQga2V5TGluZSA9IC0xOwogIGZvciAobGV0IGkgPSBlbnRyeVN0YXJ0OyBpIDwgZW50cnlFbmQ7IGkgKz0gMSkgewogICAgaWYgKC9eXHMqcHJlZml4OlxzKls+fF1bLStdP1xzKiQvLnRlc3QobGluZXNbaV0pKSB7IGtleUxpbmUgPSBpOyBicmVhazsgfQogIH0KICBpZiAoa2V5TGluZSA8IDApIHJldHVybiBudWxsOwogIGNvbnN0IGtleUluZGVudCA9IGxpbmVzW2tleUxpbmVdLm1hdGNoKC9eXHMqLylbMF0ubGVuZ3RoOwogIC8vIOWPquacieecn+ato+eahOWGheWuueihjOaJjeaOqOi/m+Wdl+Wwvu+8muWdl+WGheeahOepuuihjO+8iOauteiQveWIhumalO+8ieS8muiiq+WQjumdoueahOWGheWuueihjOmHjeaWsOe6s+WFpe+8jAogIC8vIOiAjOWdl+WwvueahOepuuihjOeVmee7meWQjue7reihjO+8jOmBv+WFjeaKiiBwZXJzb25hIOS4juS4i+S4gOadoeazqOmHiuS5i+mXtOeahOepuuihjOWQnuaOieOAggogIGxldCBibG9ja0VuZCA9IGtleUxpbmUgKyAxOwogIGZvciAobGV0IGkgPSBrZXlMaW5lICsgMTsgaSA8IGVudHJ5RW5kOyBpICs9IDEpIHsKICAgIGlmIChsaW5lc1tpXS50cmltKCkgPT09ICcnKSBjb250aW51ZTsKICAgIGlmIChsaW5lc1tpXS5tYXRjaCgvXlxzKi8pWzBdLmxlbmd0aCA8PSBrZXlJbmRlbnQpIGJyZWFrOwogICAgYmxvY2tFbmQgPSBpICsgMTsKICB9CiAgcmV0dXJuIHsgbGluZXMsIGVudHJ5U3RhcnQsIGVudHJ5RW5kLCBrZXlMaW5lLCBrZXlJbmRlbnQsIGJsb2NrRW5kIH07Cn0KCi8qKiDlj5blh7ogcGVyc29uYS5wcmVmaXgg55qE55yf5a6e5a2X56ym5Liy5YC877yI5bey55SxIFlBTUwg6Kej5p6Q77yM5oqY5Y+g5qCH6YeP5bey5bGV5byA77yJ44CCICovCmV4cG9ydCBmdW5jdGlvbiBleHRyYWN0UHJlc2V0UHJlZml4KHRleHQpIHsKICBsZXQgbG9hZGVkOwogIHRyeSB7CiAgICBsb2FkZWQgPSB5YW1sLmxvYWQodGV4dCk7CiAgfSBjYXRjaCB7CiAgICByZXR1cm4gbnVsbDsKICB9CiAgY29uc3QgZW50cnkgPSBBcnJheS5pc0FycmF5KGxvYWRlZCkgPyBsb2FkZWQuZmluZCgoaXRlbSkgPT4gaXRlbT8uaWQgPT09IFBSRVNFVF9QRVJTT05BX0lEKSA6IG51bGw7CiAgY29uc3QgcHJlZml4ID0gZW50cnk/LmNvbmZpZz8ucHJlZml4OwogIHJldHVybiB0eXBlb2YgcHJlZml4ID09PSAnc3RyaW5nJyA/IHByZWZpeCA6IG51bGw7Cn0KCi8qKiDkv53lrZjliY3nmoTova/moKHpqozvvJrlj6rmj5DnpLrvvIzkuI3pmLvmlq3jgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIHByZXNldFByb21wdFdhcm5pbmdzKGNvbnRlbnQpIHsKICBjb25zdCB0ZXh0ID0gU3RyaW5nKGNvbnRlbnQgPz8gJycpOwogIGNvbnN0IHdhcm5pbmdzID0gW107CiAgaWYgKCF0ZXh0LnRyaW0oKSkgd2FybmluZ3MucHVzaCgn5YaF5a655Li656m6Jyk7CiAgZm9yIChjb25zdCBtYXJrZXIgb2YgUFJFU0VUX1JFUVVJUkVEX01BUktFUlMpIHsKICAgIGlmICghdGV4dC5pbmNsdWRlcyhtYXJrZXIpKSB3YXJuaW5ncy5wdXNoKGDnvLrlsJHjgIwke21hcmtlcn3igKbjgJHmrrXokL3vvJpBSSDnmoTmnYPpmZDkuI7lt6XlhbfovrnnlYzlj6/og73ooqvliYrlvLFgKTsKICB9CiAgcmV0dXJuIHdhcm5pbmdzOwp9CgovKioKICog55So5a2X6Z2i6YeP5Z2X77yIfC3vvInmiormlrDmj5DnpLror43lhpnlm54gWUFNTCDmlofmnKzjgIIKICog5YWz6ZSu5L+d6K+B77ya6K+75Ye65p2l55qE5pivIFlBTUwg6Kej5p6Q5ZCO55qE55yf5a6e5a2X56ym5Liy77yM5YaZ5Zue5ZCO6YeN5paw6Kej5p6Q5b+F6aG76YCQ5a2X5LiA6Ie077yMCiAqIOWQpuWImeaKm+mUmeaLkue7neWGmeWFpeKAlOKAlOi/meagt+aXoOiuuuWOn+aWh+eUqOeahOaYryA+LSDov5jmmK8gfO+8jOmDveS4jeS8muaUueWPmOaPkOekuuivjeeahOWunumZheivreS5ieOAggogKiDnlKggfC3vvIhsaXRlcmFsICsgc3RyaXDvvInkuI7ljp/mlocgPi3vvIhmb2xkZWQgKyBzdHJpcO+8ieWcqCLnu5PlsL7kuI3nlZnlpJrkvZnmjaLooYwi5LiK5L+d5oyB5LiA6Ie044CCCiAqIEBwYXJhbSB7c3RyaW5nfSB0ZXh0IOWOnyBZQU1MIOWFqOaWhwogKiBAcGFyYW0ge3N0cmluZ30gY29udGVudCDmlrDnmoTmj5DnpLror43mraPmlocKICogQHBhcmFtIHsndjEnfCd2Mid9IHByZXNldCDpooTorr7ku6PmrKHvvIjlhrPlrprnlKjlk6rkuIDlpZfnoazmgKfkuI3lj5jph4/vvIkKICogQHJldHVybnMge3N0cmluZ30g5paw55qEIFlBTUwg5YWo5paHCiAqLwpleHBvcnQgZnVuY3Rpb24gcmVuZGVyUHJlc2V0UHJvbXB0WWFtbCh0ZXh0LCBjb250ZW50LCBwcmVzZXQgPSAndjInKSB7CiAgY29uc3QgbG9jID0gbG9jYXRlUHJlc2V0UHJvbXB0QmxvY2sodGV4dCk7CiAgaWYgKCFsb2MpIHRocm93IG5ldyBFcnJvcign5peg5rOV5a6a5L2N6aKE6K6+6YeM55qEIHByZWZpeCDlnZfvvIjmlofku7bnu5PmnoTlj6/og73lt7Llj5jljJbvvIknKTsKICBjb25zdCBub3JtYWxpemVkID0gU3RyaW5nKGNvbnRlbnQgPz8gJycpLnJlcGxhY2UoL1xyXG4vZywgJ1xuJykucmVwbGFjZSgvXG4rJC8sICcnKTsKICBjb25zdCBieXRlcyA9IEJ1ZmZlci5ieXRlTGVuZ3RoKG5vcm1hbGl6ZWQsICd1dGY4Jyk7CiAgaWYgKGJ5dGVzID4gUFJFU0VUX1BST01QVF9NQVhfQllURVMpIHsKICAgIHRocm93IG5ldyBFcnJvcihg5Lu/55yf5o+Q56S66K+N6L+H6ZW/77yIJHsoYnl0ZXMgLyAxMDI0KS50b0ZpeGVkKDEpfSBLQu+8jOS4iumZkCAke1BSRVNFVF9QUk9NUFRfTUFYX0JZVEVTIC8gMTAyNH0gS0LvvIlgKTsKICB9CiAgY29uc3QgYmxvY2tlcnMgPSBwcmVzZXRQcm9tcHRCbG9ja2Vycyhub3JtYWxpemVkLCBwcmVzZXQpOwogIGlmIChibG9ja2Vycy5sZW5ndGgpIHRocm93IG5ldyBFcnJvcihibG9ja2Vycy5qb2luKCfvvJsnKSk7CiAgLy8g5paw5aKe6KGM5rK/55So5paH5Lu255qE5Li75a+86KGM5bC+77yM6YG/5YWN5oqKIENSTEYg5paH5Lu25YaZ5oiQ5pu05re35Lmx55qE5re35ZCI6KGM5bC+44CCCiAgY29uc3QgY3JsZiA9ICh0ZXh0Lm1hdGNoKC9cclxuL2cpID8/IFtdKS5sZW5ndGg7CiAgY29uc3QgbGZPbmx5ID0gKHRleHQubWF0Y2goL1xuL2cpID8/IFtdKS5sZW5ndGggLSBjcmxmOwogIGNvbnN0IGVvbCA9IGNybGYgPj0gbGZPbmx5ID8gJ1xyXG4nIDogJ1xuJzsKICBjb25zdCBwYWQgPSAnICcucmVwZWF0KGxvYy5rZXlJbmRlbnQgKyAyKTsKICAvLyDlj6rmnInjgIznnJ/mraPnmoTnqbrooYzjgI3miY3lhpnmiJDnqbrooYzvvJvlj6rlkKvnqbrmoLwvVGFiIOeahOihjOW/hemhu+S/neeVmeWOn+agt++8iOWGmeaIkCBwYWQgKyDljp/lhoXlrrnvvInvvIwKICAvLyDlkKbliJnlroPkvJrooqsgWUFNTCDlvZPmiJDnqbrooYzor7vlm57vvIzlr7zoh7TkuIvpnaLnmoTkuIDoh7TmgKfmoKHpqozlpLHotKXjgIHmj5DnpLror43ml6Dms5Xkv53lrZjjgIIKICBjb25zdCBib2R5ID0gbm9ybWFsaXplZC5zcGxpdCgnXG4nKS5tYXAoKGxpbmUpID0+IChsaW5lID09PSAnJyA/ICcnIDogcGFkICsgbGluZSkpOwogIC8vIOWkluWxgueUqCAnXG4nIOi/nuaOpeWQhOihjO+8mkNSTEYg5paH5Lu255qE6KGM6Ieq5bimICdccifvvIzlm6DmraTlnZfnmoTmnIDlkI7kuIDooYzkuZ/opoHooaXkuIDkuKogJ1xyJ++8jAogIC8vIOWQpuWImeWug+S4juS4i+S4gOihjOS5i+mXtOS8muWPmOaIkCBMRi1vbmx577yM5oqK5paH5Lu26KGM5bC+5byE5b6X5pu05re35p2C44CCCiAgY29uc3QgYmxvY2sgPSBbYCR7JyAnLnJlcGVhdChsb2Mua2V5SW5kZW50KX1wcmVmaXg6IHwtYCwgLi4uYm9keV0uam9pbihlb2wpICsgKGVvbCA9PT0gJ1xyXG4nID8gJ1xyJyA6ICcnKTsKICBjb25zdCBuZXh0ID0gWy4uLmxvYy5saW5lcy5zbGljZSgwLCBsb2Mua2V5TGluZSksIGJsb2NrLCAuLi5sb2MubGluZXMuc2xpY2UobG9jLmJsb2NrRW5kKV0uam9pbignXG4nKTsKICBjb25zdCByZXBhcnNlZCA9IGV4dHJhY3RQcmVzZXRQcmVmaXgobmV4dCk7CiAgaWYgKHJlcGFyc2VkID09PSBudWxsKSB0aHJvdyBuZXcgRXJyb3IoJ+WGmeWFpeWQjiBZQU1MIOino+aekOWksei0peaIluaJvuS4jeWIsCBwZXJzb25hLnByZWZpeCcpOwogIGlmIChyZXBhcnNlZCAhPT0gbm9ybWFsaXplZCkgewogICAgdGhyb3cgbmV3IEVycm9yKCflhpnlhaXmoKHpqozlpLHotKXvvJror7vlm57nmoTmj5DnpLror43kuI7mlrDlhoXlrrnkuI3kuIDoh7TvvIzlt7LmlL7lvIPlhpnlhaUnKTsKICB9CiAgcmV0dXJuIG5leHQ7Cn0K
+// 二代仿真预设提示词（「仿真」层）的读取与安全改写。
+//
+// 边界说明：
+//   仿真提示词 = 预设内置（dsh/agent-presets/<preset>/agent.cordis.yml 的 persona.prefix），
+//                规定 AI 怎么调工具、怎么参与群聊（行为与协议）；改完需重启 DSH 生效。
+//   人格提示词 = roles/<名称>.md，规定 AI 是谁、什么性格（人设与语气）；
+//                由桥接每条消息注入，保存即生效。
+//
+// 本模块只做纯文本/YAML 处理，不碰文件系统以外的任何状态，便于单测。
+import yaml from 'js-yaml';
+
+export const PRESET_PERSONA_ID = 'persona';
+export const PRESET_PROMPT_MAX_BYTES = 128 * 1024;
+
+// 安全基线段落：缺失说明 AI 的权限边界可能被削弱，保存时警告（不阻断，管理员有最终决定权）。
+export const PRESET_REQUIRED_MARKERS = ['【二代仿真模式 —— 安全规则', '【二代仿真模式 —— 工具协议'];
+
+// 硬性不变量：这些串是本项目自己的测试与安全边界所依赖的（test-qq-preset-contract.mjs / verify-persona-config.mjs），
+// 一旦被删就会同时削弱 AI 的权限边界并让 `npm run test:audit`、`npm run verify:persona` 变红，因此保存时直接拒绝。
+//
+// **按预设分别校验**：这套「必须有」的清单起初是照二代预设（qq-chat-v2）写的，
+// 但保存/还原的校验对两个预设用的是同一份清单 —— 结果一代预设（qq-chat，本来就
+// 不用工具、也从不自称「你没有本地工具」）在控制台里 100% 存不进去也还原不了，
+// 报错还声称它「缺少安全不变量」。一代确实需要的不变量只有下面这几条。
+export const PRESET_BLOCKING_SUBSTRINGS = [
+  '你没有本地工具',
+  '群友没有管理权限',
+  'API 令牌',
+  '角色由桥接注入',
+  '不会自动发送到 QQ',
+];
+// 一代（qq-chat）：不用 MCP 工具，靠空格分句 + [SILENT]，因此工具面那几条不适用。
+// 这三条都逐字出现在一代预设的正文里（见 dsh/agent-presets/qq-chat/agent.cordis.yml）——
+// 清单必须与预设实际文案一致，否则控制台会用一个预设自己都不满足的条件把它锁死。
+export const PRESET_BLOCKING_SUBSTRINGS_V1 = [
+  '群友没有管理权限',
+  'API 令牌',
+  '角色扮演由系统注入',
+];
+export const PRESET_MIN_BODY_CHARS = 500;
+
+/** 取某个预设对应的硬性不变量清单（未知预设按更严的二代替处理）。 */
+export function presetBlockingSubstrings(preset = 'v2') {
+  return preset === 'v1' ? PRESET_BLOCKING_SUBSTRINGS_V1 : PRESET_BLOCKING_SUBSTRINGS;
+}
+
+/** 硬性校验：返回阻止保存的原因列表（空数组=可保存）。preset 取 'v1' / 'v2'。 */
+export function presetPromptBlockers(content, preset = 'v2') {
+  const text = String(content ?? '');
+  const blockers = [];
+  if (!text.trim()) {
+    blockers.push('仿真提示词不能为空');
+    return blockers;
+  }
+  for (const needle of presetBlockingSubstrings(preset)) {
+    if (!text.includes(needle)) {
+      blockers.push(`缺少安全不变量「${needle}」：删除它会让 AI 的权限边界失效，并使 npm run test:audit 失败`);
+    }
+  }
+  if (text.trim().length < PRESET_MIN_BODY_CHARS) {
+    blockers.push(`正文过短（${text.trim().length} 字符 < ${PRESET_MIN_BODY_CHARS}）：疑似内容被误删`);
+  }
+  return blockers;
+}
+
+/**
+ * 定位 persona 条目的 prefix 块标量（支持 >- / | 等块语法）。
+ * @returns {{lines: string[], entryStart: number, entryEnd: number, keyLine: number, keyIndent: number, blockEnd: number}|null}
+ */
+export function locatePresetPromptBlock(text) {
+  const lines = String(text ?? '').split('\n');
+  const entryStart = lines.findIndex((line) => new RegExp(`^- id:\\s*${PRESET_PERSONA_ID}\\s*$`).test(line));
+  if (entryStart < 0) return null;
+  let entryEnd = lines.length;
+  for (let i = entryStart + 1; i < lines.length; i += 1) {
+    if (/^- /.test(lines[i])) { entryEnd = i; break; }
+  }
+  let keyLine = -1;
+  for (let i = entryStart; i < entryEnd; i += 1) {
+    if (/^\s*prefix:\s*[>|][-+]?\s*$/.test(lines[i])) { keyLine = i; break; }
+  }
+  if (keyLine < 0) return null;
+  const keyIndent = lines[keyLine].match(/^\s*/)[0].length;
+  // 只有真正的内容行才推进块尾：块内的空行（段落分隔）会被后面的内容行重新纳入，
+  // 而块尾的空行留给后续行，避免把 persona 与下一条注释之间的空行吞掉。
+  let blockEnd = keyLine + 1;
+  for (let i = keyLine + 1; i < entryEnd; i += 1) {
+    if (lines[i].trim() === '') continue;
+    if (lines[i].match(/^\s*/)[0].length <= keyIndent) break;
+    blockEnd = i + 1;
+  }
+  return { lines, entryStart, entryEnd, keyLine, keyIndent, blockEnd };
+}
+
+/** 取出 persona.prefix 的真实字符串值（已由 YAML 解析，折叠标量已展开）。 */
+export function extractPresetPrefix(text) {
+  let loaded;
+  try {
+    loaded = yaml.load(text);
+  } catch {
+    return null;
+  }
+  const entry = Array.isArray(loaded) ? loaded.find((item) => item?.id === PRESET_PERSONA_ID) : null;
+  const prefix = entry?.config?.prefix;
+  return typeof prefix === 'string' ? prefix : null;
+}
+
+/** 保存前的软校验：只提示，不阻断。 */
+export function presetPromptWarnings(content) {
+  const text = String(content ?? '');
+  const warnings = [];
+  if (!text.trim()) warnings.push('内容为空');
+  for (const marker of PRESET_REQUIRED_MARKERS) {
+    if (!text.includes(marker)) warnings.push(`缺少「${marker}…】段落：AI 的权限与工具边界可能被削弱`);
+  }
+  return warnings;
+}
+
+/**
+ * 用字面量块（|-）把新提示词写回 YAML 文本。
+ * 关键保证：读出来的是 YAML 解析后的真实字符串，写回后重新解析必须逐字一致，
+ * 否则抛错拒绝写入——这样无论原文用的是 >- 还是 |，都不会改变提示词的实际语义。
+ * 用 |-（literal + strip）与原文 >-（folded + strip）在"结尾不留多余换行"上保持一致。
+ * @param {string} text 原 YAML 全文
+ * @param {string} content 新的提示词正文
+ * @param {'v1'|'v2'} preset 预设代次（决定用哪一套硬性不变量）
+ * @returns {string} 新的 YAML 全文
+ */
+export function renderPresetPromptYaml(text, content, preset = 'v2') {
+  const loc = locatePresetPromptBlock(text);
+  if (!loc) throw new Error('无法定位预设里的 prefix 块（文件结构可能已变化）');
+  const normalized = String(content ?? '').replace(/\r\n/g, '\n').replace(/\n+$/, '');
+  const bytes = Buffer.byteLength(normalized, 'utf8');
+  if (bytes > PRESET_PROMPT_MAX_BYTES) {
+    throw new Error(`仿真提示词过长（${(bytes / 1024).toFixed(1)} KB，上限 ${PRESET_PROMPT_MAX_BYTES / 1024} KB）`);
+  }
+  const blockers = presetPromptBlockers(normalized, preset);
+  if (blockers.length) throw new Error(blockers.join('；'));
+  // 新增行沿用文件的主导行尾，避免把 CRLF 文件写成更混乱的混合行尾。
+  const crlf = (text.match(/\r\n/g) ?? []).length;
+  const lfOnly = (text.match(/\n/g) ?? []).length - crlf;
+  const eol = crlf >= lfOnly ? '\r\n' : '\n';
+  const pad = ' '.repeat(loc.keyIndent + 2);
+  // 只有「真正的空行」才写成空行；只含空格/Tab 的行必须保留原样（写成 pad + 原内容），
+  // 否则它会被 YAML 当成空行读回，导致下面的一致性校验失败、提示词无法保存。
+  const body = normalized.split('\n').map((line) => (line === '' ? '' : pad + line));
+  // 外层用 '\n' 连接各行：CRLF 文件的行自带 '\r'，因此块的最后一行也要补一个 '\r'，
+  // 否则它与下一行之间会变成 LF-only，把文件行尾弄得更混杂。
+  const block = [`${' '.repeat(loc.keyIndent)}prefix: |-`, ...body].join(eol) + (eol === '\r\n' ? '\r' : '');
+  const next = [...loc.lines.slice(0, loc.keyLine), block, ...loc.lines.slice(loc.blockEnd)].join('\n');
+  const reparsed = extractPresetPrefix(next);
+  if (reparsed === null) throw new Error('写入后 YAML 解析失败或找不到 persona.prefix');
+  if (reparsed !== normalized) {
+    throw new Error('写入校验失败：读回的提示词与新内容不一致，已放弃写入');
+  }
+  return next;
+}

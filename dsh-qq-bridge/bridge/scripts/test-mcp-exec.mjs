@@ -1,1 +1,48 @@
-Ly8g5rWL6K+VIEBzbm93bHVtYS9tY3Ag55qEIHdyaXRlIOaooeW8j++8muaooeaLnyBEU0ggTUNQIOWuouaIt+err+WujOaVtOaPoeaJiwovLyDvvIhpbml0aWFsaXplIOKGkiB0b29scy9saXN0IOKGkiB0b29scy9jYWxs77yJ77yM56Gu6K6k5Yqo5L2c5omn6KGM5bel5YW35Y+v55So44CCCmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCB9IGZyb20gJ25vZGU6dXJsJzsKaW1wb3J0IHsgQ2xpZW50IH0gZnJvbSAnQG1vZGVsY29udGV4dHByb3RvY29sL3Nkay9jbGllbnQvaW5kZXguanMnOwppbXBvcnQgeyBTdGRpb0NsaWVudFRyYW5zcG9ydCB9IGZyb20gJ0Btb2RlbGNvbnRleHRwcm90b2NvbC9zZGsvY2xpZW50L3N0ZGlvLmpzJzsKCmNvbnN0IF9fZGlybmFtZSA9IHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpOwpjb25zdCBjZmcgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nLCAnY29uZmlnLmpzb24nKSwgJ3V0ZjgnKSk7CmNvbnN0IGVuZHBvaW50ID0gU3RyaW5nKGNmZy5zbm93bHVtYT8uaHR0cFVybCB8fCAnaHR0cDovLzEyNy4wLjAuMTozMDAwLycpLnJlcGxhY2UoL1wvPyQvLCAnLycpOwpjb25zdCB0b2tlbiA9IGNmZy5zbm93bHVtYT8uYWNjZXNzVG9rZW4gfHwgJyc7Cgpjb25zdCBtY3BFbnRyeSA9IGZpbGVVUkxUb1BhdGgobmV3IFVSTCgnLi4vbm9kZV9tb2R1bGVzL0Bzbm93bHVtYS9tY3AvZGlzdC9zZXJ2ZXIuanMnLCBpbXBvcnQubWV0YS51cmwpKTsKCmNvbnN0IHRyYW5zcG9ydCA9IG5ldyBTdGRpb0NsaWVudFRyYW5zcG9ydCh7CiAgY29tbWFuZDogcHJvY2Vzcy5leGVjUGF0aCwKICBhcmdzOiBbbWNwRW50cnldLAogIGVudjogewogICAgU05PV0xVTUFfTUNQX0VORFBPSU5UOiBlbmRwb2ludCwKICAgIFNOT1dMVU1BX01DUF9UT0tFTjogdG9rZW4sCiAgICBTTk9XTFVNQV9NQ1BfTU9ERTogJ3dyaXRlJwogIH0KfSk7Cgpjb25zdCBjbGllbnQgPSBuZXcgQ2xpZW50KHsgbmFtZTogJ2JyaWRnZS10ZXN0JywgdmVyc2lvbjogJzAuMS4wJyB9KTsKdHJ5IHsKICBhd2FpdCBjbGllbnQuY29ubmVjdCh0cmFuc3BvcnQpOwogIGNvbnNvbGUubG9nKCfinIUgTUNQIOi/nuaOpeaIkOWKnycpOwoKICBjb25zdCB0b29scyA9IGF3YWl0IGNsaWVudC5saXN0VG9vbHMoKTsKICBjb25zb2xlLmxvZyhg4pyFIHRvb2xzL2xpc3Q6ICR7dG9vbHMudG9vbHMubGVuZ3RofSDkuKrlt6XlhbdgKTsKICBjb25zdCBuYW1lcyA9IHRvb2xzLnRvb2xzLm1hcCgodCkgPT4gdC5uYW1lKTsKICBjb25zb2xlLmxvZygnICAgJywgbmFtZXMuam9pbignLCAnKSk7CiAgY29uc3QgaGFzUXVlcnkgPSBuYW1lcy5pbmNsdWRlcygncXVlcnlfYWN0aW9uJyk7CiAgY29uc3QgaGFzSW52b2tlID0gbmFtZXMuaW5jbHVkZXMoJ2ludm9rZV9hY3Rpb24nKTsKICBjb25zb2xlLmxvZyhoYXNRdWVyeSA/ICfinIUgcXVlcnlfYWN0aW9uIOWPr+eUqCcgOiAn4p2MIOe8uiBxdWVyeV9hY3Rpb24nKTsKICBjb25zb2xlLmxvZyhoYXNJbnZva2UgPyAn4pyFIGludm9rZV9hY3Rpb24g5Y+v55So77yId3JpdGUg5qih5byP77yJJyA6ICfinYwg57y6IGludm9rZV9hY3Rpb24nKTsKCiAgaWYgKGhhc1F1ZXJ5KSB7CiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBjbGllbnQuY2FsbFRvb2woeyBuYW1lOiAncXVlcnlfYWN0aW9uJywgYXJndW1lbnRzOiB7IGFjdGlvbjogJ2dldF9sb2dpbl9pbmZvJyB9IH0pOwogICAgY29uc29sZS5sb2coJ+KchSBxdWVyeV9hY3Rpb24oZ2V0X2xvZ2luX2luZm8pOicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCkuc2xpY2UoMCwgMzAwKSk7CiAgfQogIHByb2Nlc3MuZXhpdCgwKTsKfSBjYXRjaCAoZXJyb3IpIHsKICBjb25zb2xlLmVycm9yKCfinYwgTUNQIOa1i+ivleWksei0pTonLCBlcnJvcj8ubWVzc2FnZSA/PyBlcnJvcik7CiAgcHJvY2Vzcy5leGl0KDEpOwp9Cg==
+// 测试 @snowluma/mcp 的 write 模式：模拟 DSH MCP 客户端完整握手
+// （initialize → tools/list → tools/call），确认动作执行工具可用。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { Client } from '@modelcontextprotocol/sdk/client/index.js';
+import { StdioClientTransport } from '@modelcontextprotocol/sdk/client/stdio.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const cfg = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'config.json'), 'utf8'));
+const endpoint = String(cfg.snowluma?.httpUrl || 'http://127.0.0.1:3000/').replace(/\/?$/, '/');
+const token = cfg.snowluma?.accessToken || '';
+
+const mcpEntry = fileURLToPath(new URL('../node_modules/@snowluma/mcp/dist/server.js', import.meta.url));
+
+const transport = new StdioClientTransport({
+  command: process.execPath,
+  args: [mcpEntry],
+  env: {
+    SNOWLUMA_MCP_ENDPOINT: endpoint,
+    SNOWLUMA_MCP_TOKEN: token,
+    SNOWLUMA_MCP_MODE: 'write'
+  }
+});
+
+const client = new Client({ name: 'bridge-test', version: '0.1.0' });
+try {
+  await client.connect(transport);
+  console.log('✅ MCP 连接成功');
+
+  const tools = await client.listTools();
+  console.log(`✅ tools/list: ${tools.tools.length} 个工具`);
+  const names = tools.tools.map((t) => t.name);
+  console.log('   ', names.join(', '));
+  const hasQuery = names.includes('query_action');
+  const hasInvoke = names.includes('invoke_action');
+  console.log(hasQuery ? '✅ query_action 可用' : '❌ 缺 query_action');
+  console.log(hasInvoke ? '✅ invoke_action 可用（write 模式）' : '❌ 缺 invoke_action');
+
+  if (hasQuery) {
+    const result = await client.callTool({ name: 'query_action', arguments: { action: 'get_login_info' } });
+    console.log('✅ query_action(get_login_info):', JSON.stringify(result).slice(0, 300));
+  }
+  process.exit(0);
+} catch (error) {
+  console.error('❌ MCP 测试失败:', error?.message ?? error);
+  process.exit(1);
+}

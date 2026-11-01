@@ -1,1 +1,68 @@
-Ly8g6aqM6K+B44CMV2luZG93cyDmjqfliLblj7DkubHnoIEgKyBjaGNwIOS/ruWkjeOAjeeahOacuuWItuaYr+WQpuaIkOeri+OAggovLwovLyBOb2RlIOWGmSBzdGRvdXQg55So55qE5pivIFVURi04IOWtl+iKgu+8m+aOp+WItuWPsOaMieiHquW3seeahCoq6L6T5Ye65Luj56CB6aG1Kirop6PnoIHov5nkupvlrZfoioLjgIIKLy8g5Lit5paH57O757uf6buY6K6kIDkzNihHQksp77yaVVRGLTgg55qE44CM6K+t6Z+z44CN6KKr5b2TIEdCSyDop6PnoIEg4oaSIOS5seeggeOAggovLyDmnKzohJrmnKznlKjlrZfoioLnuqflvoDov5Tor4HmmI7ov5nkuIDngrnvvIzlubbor4HmmI4gY2hjcCA2NTAwMSDog73miorlroPmlZHlm57mnaXjgIIKaW1wb3J0IHsgc3Bhd25TeW5jIH0gZnJvbSAnbm9kZTpjaGlsZF9wcm9jZXNzJzsKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwovLyDni6znq4vlj5Hor63pn7Plt6XlhbflnKjku5PlupPkuIrkuIDnuqfvvIjkuI3lnKjmnKzku5PlupPph4zvvInvvJrkvY3nva7op6PmnpDkuI4i5LiN5Zyo5pe25oCO5LmI6Lez6L+HIui1sOWFseS6q+WPo+W+hOOAggppbXBvcnQgeyBoYXNWb2ljZVRvb2wsIHNraXBWb2ljZVRvb2wsIHZvaWNlVG9vbFBhdGggfSBmcm9tICcuL3ZvaWNlLXRvb2wtbG9jYXRvci5tanMnOwoKY29uc3Qgc2FtcGxlID0gJ+ivremfs+WPkemAgeW3peWFtyDnroDkvZPkuK3mlocg4pyFJzsKY29uc3QgdXRmOCA9IEJ1ZmZlci5mcm9tKHNhbXBsZSwgJ3V0ZjgnKTsKCmNvbnN0IGRlY29kZSA9IChidWYsIGNwKSA9PiB7CiAgLy8g5o6n5Yi25Y+w6Kej56CB562J5Lu35LqO77ya5oqK5a2X6IqC5oyJ6K+l5Luj56CB6aG16Kej6YeK44CCTm9kZSDkvqfnlKggVGV4dERlY29kZXIg5qih5ouf44CCCiAgY29uc3QgbGFiZWwgPSBjcCA9PT0gOTM2ID8gJ2diaycgOiAndXRmLTgnOwogIHRyeSB7CiAgICByZXR1cm4gbmV3IFRleHREZWNvZGVyKGxhYmVsLCB7IGZhdGFsOiBmYWxzZSB9KS5kZWNvZGUoYnVmKTsKICB9IGNhdGNoIHsKICAgIHJldHVybiAnKOacrOacuiBOb2RlIOS4jeaUr+aMgeivpeino+eggeWZqCknOwogIH0KfTsKCmxldCBwYXNzID0gMDsKbGV0IGZhaWwgPSAwOwpjb25zdCBvayA9IChjb25kLCBuYW1lLCBleHRyYSA9ICcnKSA9PiB7CiAgaWYgKGNvbmQpIHsgcGFzcyArPSAxOyBjb25zb2xlLmxvZyhgICDinIUgJHtuYW1lfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsgfQogIGVsc2UgeyBmYWlsICs9IDE7IGNvbnNvbGUuZXJyb3IoYCAg4p2MICR7bmFtZX0ke2V4dHJhID8gJyDigJQgJyArIGV4dHJhIDogJyd9YCk7IH0KfTsKCmNvbnNvbGUubG9nKCcjIyDkubHnoIHmnLrliLbvvIjlrZfoioLnuqfvvIknKTsKewogIGNvbnN0IGFzR2JrID0gZGVjb2RlKHV0ZjgsIDkzNik7CiAgb2soYXNHYmsgIT09IHNhbXBsZSwgJ1VURi04IOWtl+iKguaMiSBHQksg6Kej56CBIOKJoCDljp/mlofvvIjov5nlsLHmmK/kubHnoIHnmoTmnaXmupDvvIknKTsKICBvayhkZWNvZGUodXRmOCwgNjUwMDEpID09PSBzYW1wbGUsICdVVEYtOCDlrZfoioLmjIkgVVRGLTgg6Kej56CBID0g5Y6f5paH77yIY2hjcCA2NTAwMSDlkI7mraPnoa7vvIknKTsKICBjb25zb2xlLmxvZyhgICAgICDljp/mlocgOiAke3NhbXBsZX1gKTsKICBjb25zb2xlLmxvZyhgICAgICDkubHnoIEgOiAke2FzR2JrLnJlcGxhY2UoL1x1RkZGRC9nLCAnPycpfSAgIOKGkCDkvaDlnKggR0JLIOaOp+WItuWPsOeci+WIsOeahOWwseaYr+i/meenjWApOwp9Cgpjb25zb2xlLmxvZygnIyMgY2hjcCDlj6/nlKjmgKcnKTsKewogIGNvbnN0IHIgPSBzcGF3blN5bmMoJ2NoY3AnLCBbJzY1MDAxJ10sIHsgZW5jb2Rpbmc6ICdsYXRpbjEnLCB3aW5kb3dzSGlkZTogdHJ1ZSB9KTsKICBpZiAoci5lcnJvcj8uY29kZSA9PT0gJ0VQRVJNJyB8fCByLmVycm9yPy5jb2RlID09PSAnRUFDQ0VTJykgewogICAgLy8g5Y+X6ZmQ5rKZ566x77yIRFNIIHdvcmtzcGFjZS13cml0ZSAvIOWPquivu++8ieS4jeWFgeiuuCBzcGF3biDmjZXojrfovpPlh7rnmoTlrZDov5vnqIvjgIIKICAgIC8vIOi/meaYr+eOr+Wig+mZkOWItu+8jOS4jeaYr+iiq+a1i+S7o+eggeeahOmXrumimCDigJTigJQg6Lez6L+H6ICM5LiN5piv5Yik5aSx6LSl44CCCiAgICBjb25zb2xlLmxvZyhgICDij60gIOi3s+i/h++8muacrOeOr+Wig+S4jeWFgeiuuCBzcGF3biDlrZDov5vnqIvvvIgke3IuZXJyb3IuY29kZX3vvInvvJvlnKjmma7pgJrnu4jnq6/ph4zph43ot5HljbPlj6/pqozor4FgKTsKICB9IGVsc2UgewogICAgb2soIXIuZXJyb3IsICdjaGNwIOWRveS7pOWPr+aJp+ihjCcsIHIuZXJyb3IgPyByLmVycm9yLm1lc3NhZ2UgOiAnJyk7CiAgICBjb25zdCBiZWZvcmUgPSBzcGF3blN5bmMoJ2NoY3AnLCBbXSwgeyBlbmNvZGluZzogJ2xhdGluMScsIHdpbmRvd3NIaWRlOiB0cnVlIH0pOwogICAgY29uc3QgY3BUZXh0ID0gU3RyaW5nKGJlZm9yZS5zdGRvdXQgPz8gJycpOwogICAgb2soL1xkezMsNX0vLnRlc3QoY3BUZXh0KSwgJ2NoY3Ag6IO96K+75Ye65b2T5YmN5Luj56CB6aG1JywgKGNwVGV4dC5tYXRjaCgvXGR7Myw1fS8pID8/IFsnPyddKVswXSk7CiAgfQp9Cgpjb25zb2xlLmxvZygnIyMg5bel5YW36YeM56Gu5a6e6LCD5LqGIGNoY3Ag5LiU5Y+q5Zyo55yf5o6n5Yi25Y+w5pe26LCDJyk7CmlmICghaGFzVm9pY2VUb29sKCkpIHsKICBza2lwVm9pY2VUb29sKCd2b2ljZS1ndWkubWpzIC8gdm9pY2UtY2xpLm1qcyDnmoQgY2hjcCA2NTAwMSDmlq3oqIDvvIjkuKTkuKrlhaXlj6Ppg73lnKjku5PlupPkuIrkuIDnuqfnmoQgdm9pY2UtdG9vbC8g6YeM77yJJyk7Cn0gZWxzZSB7CiAgZm9yIChjb25zdCByZWwgb2YgWyd2b2ljZS1ndWkubWpzJywgJ3ZvaWNlLWNsaS5tanMnXSkgewogICAgY29uc3Qgc3JjID0gZnMucmVhZEZpbGVTeW5jKHZvaWNlVG9vbFBhdGgocmVsKSwgJ3V0ZjgnKTsKICAgIG9rKC9zcGF3blwoJ2NoY3AnLCBcWyc2NTAwMSdcXS8udGVzdChzcmMpLCBgJHtyZWx9IOiwg+eUqCBjaGNwIDY1MDAxYCk7CiAgICBvaygvaXNUVFkvLnRlc3Qoc3JjKSwgYCR7cmVsfSDnlKggaXNUVFkg5a6I5Y2r77yI5LiN5bmy5omw566h6YGTL+mHjeWumuWQke+8iWApOwogICAgb2soL3BsYXRmb3JtICE9PSAnd2luMzInfHBsYXRmb3JtID09PSAnd2luMzInLy50ZXN0KHNyYyksIGAke3JlbH0g6ZmQ5a6aIFdpbmRvd3NgKTsKICB9Cn0KCmNvbnNvbGUubG9nKGBcbue7k+aenO+8miR7cGFzc30g6YCa6L+H77yMJHtmYWlsfSDlpLHotKVgKTsKaWYgKGZhaWwgPiAwKSBwcm9jZXNzLmV4aXQoMSk7Cg==
+// 验证「Windows 控制台乱码 + chcp 修复」的机制是否成立。
+//
+// Node 写 stdout 用的是 UTF-8 字节；控制台按自己的**输出代码页**解码这些字节。
+// 中文系统默认 936(GBK)：UTF-8 的「语音」被当 GBK 解码 → 乱码。
+// 本脚本用字节级往返证明这一点，并证明 chcp 65001 能把它救回来。
+import { spawnSync } from 'node:child_process';
+import fs from 'node:fs';
+// 独立发语音工具在仓库上一级（不在本仓库里）：位置解析与"不在时怎么跳过"走共享口径。
+import { hasVoiceTool, skipVoiceTool, voiceToolPath } from './voice-tool-locator.mjs';
+
+const sample = '语音发送工具 简体中文 ✅';
+const utf8 = Buffer.from(sample, 'utf8');
+
+const decode = (buf, cp) => {
+  // 控制台解码等价于：把字节按该代码页解释。Node 侧用 TextDecoder 模拟。
+  const label = cp === 936 ? 'gbk' : 'utf-8';
+  try {
+    return new TextDecoder(label, { fatal: false }).decode(buf);
+  } catch {
+    return '(本机 Node 不支持该解码器)';
+  }
+};
+
+let pass = 0;
+let fail = 0;
+const ok = (cond, name, extra = '') => {
+  if (cond) { pass += 1; console.log(`  ✅ ${name}${extra ? ' — ' + extra : ''}`); }
+  else { fail += 1; console.error(`  ❌ ${name}${extra ? ' — ' + extra : ''}`); }
+};
+
+console.log('## 乱码机制（字节级）');
+{
+  const asGbk = decode(utf8, 936);
+  ok(asGbk !== sample, 'UTF-8 字节按 GBK 解码 ≠ 原文（这就是乱码的来源）');
+  ok(decode(utf8, 65001) === sample, 'UTF-8 字节按 UTF-8 解码 = 原文（chcp 65001 后正确）');
+  console.log(`     原文 : ${sample}`);
+  console.log(`     乱码 : ${asGbk.replace(/\uFFFD/g, '?')}   ← 你在 GBK 控制台看到的就是这种`);
+}
+
+console.log('## chcp 可用性');
+{
+  const r = spawnSync('chcp', ['65001'], { encoding: 'latin1', windowsHide: true });
+  if (r.error?.code === 'EPERM' || r.error?.code === 'EACCES') {
+    // 受限沙箱（DSH workspace-write / 只读）不允许 spawn 捕获输出的子进程。
+    // 这是环境限制，不是被测代码的问题 —— 跳过而不是判失败。
+    console.log(`  ⏭  跳过：本环境不允许 spawn 子进程（${r.error.code}）；在普通终端里重跑即可验证`);
+  } else {
+    ok(!r.error, 'chcp 命令可执行', r.error ? r.error.message : '');
+    const before = spawnSync('chcp', [], { encoding: 'latin1', windowsHide: true });
+    const cpText = String(before.stdout ?? '');
+    ok(/\d{3,5}/.test(cpText), 'chcp 能读出当前代码页', (cpText.match(/\d{3,5}/) ?? ['?'])[0]);
+  }
+}
+
+console.log('## 工具里确实调了 chcp 且只在真控制台时调');
+if (!hasVoiceTool()) {
+  skipVoiceTool('voice-gui.mjs / voice-cli.mjs 的 chcp 65001 断言（两个入口都在仓库上一级的 voice-tool/ 里）');
+} else {
+  for (const rel of ['voice-gui.mjs', 'voice-cli.mjs']) {
+    const src = fs.readFileSync(voiceToolPath(rel), 'utf8');
+    ok(/spawn\('chcp', \['65001'\]/.test(src), `${rel} 调用 chcp 65001`);
+    ok(/isTTY/.test(src), `${rel} 用 isTTY 守卫（不干扰管道/重定向）`);
+    ok(/platform !== 'win32'|platform === 'win32'/.test(src), `${rel} 限定 Windows`);
+  }
+}
+
+console.log(`\n结果：${pass} 通过，${fail} 失败`);
+if (fail > 0) process.exit(1);

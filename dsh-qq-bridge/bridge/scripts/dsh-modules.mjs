@@ -1,1 +1,66 @@
-Ly8g5a6a5L2N44CMRFNIIOWuieijheebruW9leS4i+eahCBub2RlX21vZHVsZXPjgI3igJTigJQg5L6b5LuT5bqT6ISa5pys5Yqg6L29IERTSCDoh6rouqvnmoTmqKHlnZflgZrmoKHpqozjgIIKLy8KLy8g6Kej5p6Q6aG65bqP77yaCi8vICAgMS4g546v5aKD5Y+Y6YePIERTSF9JTlNUQUxMX01PRFVMRVMgLyBEU0hfTU9EVUxFU++8iOW6lOaMh+WQkSA8RFNIPi9ub2RlX21vZHVsZXPvvIkKLy8gICAyLiDku44gJERTSF9IT01FL3Byb2ZpbGVzLzxwcm9maWxlPi9wYWNrYWdlLmpzb24g55SoIE5vZGUg5qih5Z2X6Kej5p6Q5Y+N5p+l55yf5a6e5a6J6KOF5L2N572uCi8vICAgICAg77yIcHJvZmlsZSDkvp3mrKHlsJ3or5UgRFNIX1BST0ZJTEXjgIF3ZWLjgIFkZWZhdWx077yM5YaN5YWc5bqV5omrIHByb2ZpbGVzIOS4i+eahOWFtuWug+ebruW9le+8iQovLyDlhajpg6jlpLHotKXml7bmipvlh7rluKbmjIflvJXnmoTplJnor6/vvIzkuI3lgZrku7vkvZXlhpnmrbvot6/lvoTnmoTlm57pgIAg4oCU4oCUIOWugeWPr+aYvuW8j+aKpemUme+8jOS5n+S4jeimgemdmem7mOeUqOmUmeeJiOacrOOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBvcyBmcm9tICdub2RlOm9zJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgY3JlYXRlUmVxdWlyZSB9IGZyb20gJ25vZGU6bW9kdWxlJzsKCmV4cG9ydCBmdW5jdGlvbiBkc2hIb21lKCkgewogIHJldHVybiBwcm9jZXNzLmVudi5EU0hfSE9NRSB8fCBwYXRoLmpvaW4ob3MuaG9tZWRpcigpLCAnLmRzaCcpOwp9CgovLyDov5nkupvohJrmnKzpnIDopoHliqDovb3nmoTljIXvvIzku7vmhI/kuIDkuKrog73op6PmnpDmiJDlip/ljbPlj6/lj43mjqjlh7ogbm9kZV9tb2R1bGVzIOS9jee9ruOAggpjb25zdCBQUk9CRV9TUEVDSUZJRVJTID0gWydAZGVlcHNlZWstYWkvZHNoLXBlcnNvbmEnLCAnanMteWFtbCddOwoKZnVuY3Rpb24gZmluZE5vZGVNb2R1bGVzKHJlc29sdmVkRmlsZSkgewogIGxldCBkaXIgPSBwYXRoLmRpcm5hbWUocmVzb2x2ZWRGaWxlKTsKICBmb3IgKDs7KSB7CiAgICBpZiAocGF0aC5iYXNlbmFtZShkaXIpID09PSAnbm9kZV9tb2R1bGVzJykgcmV0dXJuIGRpcjsKICAgIGNvbnN0IHVwID0gcGF0aC5kaXJuYW1lKGRpcik7CiAgICBpZiAodXAgPT09IGRpcikgcmV0dXJuIG51bGw7CiAgICBkaXIgPSB1cDsKICB9Cn0KCmZ1bmN0aW9uIGNhbmRpZGF0ZVByb2ZpbGVzKGhvbWUpIHsKICBjb25zdCBuYW1lcyA9IFtdOwogIGNvbnN0IGFkZCA9IChuKSA9PiB7IGlmIChuICYmICFuYW1lcy5pbmNsdWRlcyhuKSkgbmFtZXMucHVzaChuKTsgfTsKICBhZGQocHJvY2Vzcy5lbnYuRFNIX1BST0ZJTEUpOwogIGFkZCgnd2ViJyk7CiAgYWRkKCdkZWZhdWx0Jyk7CiAgdHJ5IHsKICAgIGZvciAoY29uc3QgZSBvZiBmcy5yZWFkZGlyU3luYyhwYXRoLmpvaW4oaG9tZSwgJ3Byb2ZpbGVzJyksIHsgd2l0aEZpbGVUeXBlczogdHJ1ZSB9KSkgewogICAgICBpZiAoZS5pc0RpcmVjdG9yeSgpKSBhZGQoZS5uYW1lKTsKICAgIH0KICB9IGNhdGNoIHsgLyogcHJvZmlsZXMg55uu5b2V5LiN5a2Y5Zyo5pe25b+955WlICovIH0KICByZXR1cm4gbmFtZXM7Cn0KCmV4cG9ydCBmdW5jdGlvbiBkc2hNb2R1bGVzRGlyKCkgewogIGNvbnN0IG92ZXJyaWRlID0gcHJvY2Vzcy5lbnYuRFNIX0lOU1RBTExfTU9EVUxFUyB8fCBwcm9jZXNzLmVudi5EU0hfTU9EVUxFUzsKICBpZiAob3ZlcnJpZGUpIHJldHVybiBvdmVycmlkZTsKCiAgY29uc3QgaG9tZSA9IGRzaEhvbWUoKTsKICBmb3IgKGNvbnN0IHByb2ZpbGUgb2YgY2FuZGlkYXRlUHJvZmlsZXMoaG9tZSkpIHsKICAgIGNvbnN0IGFuY2hvciA9IHBhdGguam9pbihob21lLCAncHJvZmlsZXMnLCBwcm9maWxlLCAncGFja2FnZS5qc29uJyk7CiAgICBpZiAoIWZzLmV4aXN0c1N5bmMoYW5jaG9yKSkgY29udGludWU7CiAgICBjb25zdCByZXEgPSBjcmVhdGVSZXF1aXJlKGFuY2hvcik7CiAgICBmb3IgKGNvbnN0IHNwZWMgb2YgUFJPQkVfU1BFQ0lGSUVSUykgewogICAgICB0cnkgewogICAgICAgIGNvbnN0IGRpciA9IGZpbmROb2RlTW9kdWxlcyhyZXEucmVzb2x2ZShzcGVjKSk7CiAgICAgICAgaWYgKGRpcikgcmV0dXJuIGRpcjsKICAgICAgfSBjYXRjaCB7IC8qIOaNouS4i+S4gOS4qiBzcGVjaWZpZXLvvIzlho3mjaLkuIvkuIDkuKogcHJvZmlsZSAqLyB9CiAgICB9CiAgfQoKICB0aHJvdyBuZXcgRXJyb3IoCiAgICAn5peg5rOV5a6a5L2NIERTSCDlronoo4Xnm67lvZXkuIvnmoQgbm9kZV9tb2R1bGVz44CCXG4nCiAgICArICcgIOivt+iuvue9riBEU0hfSU5TVEFMTF9NT0RVTEVTPTxEU0gg5a6J6KOF55uu5b2VPi9ub2RlX21vZHVsZXMg5ZCO6YeN6K+V77ybXG4nCiAgICArIGAgIOaIluiuvue9riBEU0hfSE9NRSDmjIflkJEgRFNIIOagueebruW9le+8iOW9k+WJjeino+aekOS4uiAke2hvbWV977yJ44CCYAogICk7Cn0K
+// 定位「DSH 安装目录下的 node_modules」—— 供仓库脚本加载 DSH 自身的模块做校验。
+//
+// 解析顺序：
+//   1. 环境变量 DSH_INSTALL_MODULES / DSH_MODULES（应指向 <DSH>/node_modules）
+//   2. 从 $DSH_HOME/profiles/<profile>/package.json 用 Node 模块解析反查真实安装位置
+//      （profile 依次尝试 DSH_PROFILE、web、default，再兜底扫 profiles 下的其它目录）
+// 全部失败时抛出带指引的错误，不做任何写死路径的回退 —— 宁可显式报错，也不要静默用错版本。
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { createRequire } from 'node:module';
+
+export function dshHome() {
+  return process.env.DSH_HOME || path.join(os.homedir(), '.dsh');
+}
+
+// 这些脚本需要加载的包，任意一个能解析成功即可反推出 node_modules 位置。
+const PROBE_SPECIFIERS = ['@deepseek-ai/dsh-persona', 'js-yaml'];
+
+function findNodeModules(resolvedFile) {
+  let dir = path.dirname(resolvedFile);
+  for (;;) {
+    if (path.basename(dir) === 'node_modules') return dir;
+    const up = path.dirname(dir);
+    if (up === dir) return null;
+    dir = up;
+  }
+}
+
+function candidateProfiles(home) {
+  const names = [];
+  const add = (n) => { if (n && !names.includes(n)) names.push(n); };
+  add(process.env.DSH_PROFILE);
+  add('web');
+  add('default');
+  try {
+    for (const e of fs.readdirSync(path.join(home, 'profiles'), { withFileTypes: true })) {
+      if (e.isDirectory()) add(e.name);
+    }
+  } catch { /* profiles 目录不存在时忽略 */ }
+  return names;
+}
+
+export function dshModulesDir() {
+  const override = process.env.DSH_INSTALL_MODULES || process.env.DSH_MODULES;
+  if (override) return override;
+
+  const home = dshHome();
+  for (const profile of candidateProfiles(home)) {
+    const anchor = path.join(home, 'profiles', profile, 'package.json');
+    if (!fs.existsSync(anchor)) continue;
+    const req = createRequire(anchor);
+    for (const spec of PROBE_SPECIFIERS) {
+      try {
+        const dir = findNodeModules(req.resolve(spec));
+        if (dir) return dir;
+      } catch { /* 换下一个 specifier，再换下一个 profile */ }
+    }
+  }
+
+  throw new Error(
+    '无法定位 DSH 安装目录下的 node_modules。\n'
+    + '  请设置 DSH_INSTALL_MODULES=<DSH 安装目录>/node_modules 后重试；\n'
+    + `  或设置 DSH_HOME 指向 DSH 根目录（当前解析为 ${home}）。`
+  );
+}

@@ -1,1 +1,67 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIGRzaC1xcS1icmlkZ2Ug5pys5Zyw55S16ISR6YOo572y77yIbWFjT1MgLyBMaW51eO+8iQojIOWJjeaPkO+8muW3suijheahjOmdoueJiCBEU0jvvIhEZWVwU2VlayBIYXJuZXNz77yJ5LiOIE5vZGUuanMg4omlIDIyLjEyCnNldCAtZQoKUEFDS19ESVI9IiQoY2QgIiQoZGlybmFtZSAiJDAiKS8uLi8uLiIgJiYgcHdkKSIgICAjIOaPkuS7tuWMheagueebruW9lQpQTFVHSU5fTkFNRT0iZHNoLXFxLWJyaWRnZSIKCmVjaG8gIj09PSAxLiDmiormj5Lku7YgbGluayDov5sgRFNIIHByb2ZpbGUgPT09IgpEU0hfSE9NRT0iJHtEU0hfSE9NRTotJEhPTUUvLmRzaH0iClBST0ZJTEVfUEtHPSIkRFNIX0hPTUUvcHJvZmlsZXMvd2ViL3BhY2thZ2UuanNvbiIKaWYgWyAhIC1mICIkUFJPRklMRV9QS0ciIF07IHRoZW4KICBlY2hvICLmib7kuI3liLAgRFNIIHByb2ZpbGXvvJokUFJPRklMRV9QS0ciCiAgZWNobyAi6K+35ZyoIERTSCDorr7nva4g4oaSIOaPkuS7tuW4guWcuiDihpIg5re75Yqg5pys5Zyw5o+S5Lu277yM6YCJ5oup5pys55uu5b2V77yb5oiW6K6+572uIERTSF9IT01FIOWQjumHjei3keOAgiIKICBleGl0IDEKZmkKbWtkaXIgLXAgIiQoZGlybmFtZSAiJFBST0ZJTEVfUEtHIikiCiMgbGluazog5pys5Zyw55uu5b2V5a6J6KOF77yIRFNIIOaUr+aMgSBsaW5rOiDmupDvvIkKbm9kZSAtZSAiCmNvbnN0IGZzPXJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHA9JyRQUk9GSUxFX1BLRyc7CmNvbnN0IGo9SlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocCwndXRmOCcpKTsKai5kZXBlbmRlbmNpZXM9ai5kZXBlbmRlbmNpZXN8fHt9OwpqLmRlcGVuZGVuY2llc1snJFBMVUdJTl9OQU1FJ109J2xpbms6JFBBQ0tfRElSJzsKZnMud3JpdGVGaWxlU3luYyhwLEpTT04uc3RyaW5naWZ5KGosbnVsbCwyKSsnXG4nKTsKY29uc29sZS5sb2coJ+W3suazqOWGjOS+nei1liBsaW5rOiRQQUNLX0RJUicpOwoiCgplY2hvICI9PT0gMi4g5pu/5o2iIGNvcmRpcy5wYXRjaC55bWwg6YeM55qE6Lev5b6E5Y2g5L2N56ymID09PSIKTk9ERV9CSU49IiQoY29tbWFuZCAtdiBub2RlKSIKQlJJREdFX0RJUj0iJFBBQ0tfRElSL2JyaWRnZSIKc2VkIC1pLmJhayBcCiAgLWUgInN8QEBOT0RFQEB8JE5PREVfQklOfGciIFwKICAtZSAic3xAQEJSSURHRUBAfCRCUklER0VfRElSfGciIFwKICAiJFBBQ0tfRElSL2NvcmRpcy5wYXRjaC55bWwiCnJtIC1mICIkUEFDS19ESVIvY29yZGlzLnBhdGNoLnltbC5iYWsiCgplY2hvICI9PT0gMy4g55Sf5oiQ6YWN572uID09PSIKaWYgWyAhIC1mICIkQlJJREdFX0RJUi9jb25maWcuanNvbiIgXTsgdGhlbgogIGNwICIkQlJJREdFX0RJUi9jb25maWcuZXhhbXBsZS5qc29uIiAiJEJSSURHRV9ESVIvY29uZmlnLmpzb24iCiAgZWNobyAi5bey55Sf5oiQIGNvbmZpZy5qc29u77yM6K+357yW6L6R77yac25vd2x1bWEud3NVcmwgLyBodHRwVXJsIC8gYWNjZXNzVG9rZW7vvIhTbm93THVtYSDmnI3liqHlmajlnLDlnYDkuI7ku6TniYzvvIkiCmVsc2UKICBlY2hvICJjb25maWcuanNvbiDlt7LlrZjlnKjvvIzot7Pov4ciCmZpCgplY2hvICI9PT0gNC4g5a6J6KOF5qGl5o6l5L6d6LWWID09PSIKY2QgIiRCUklER0VfRElSIgppZiBbIC1mIHBhY2thZ2UuanNvbiBdICYmIFsgISAtZCBub2RlX21vZHVsZXMgXTsgdGhlbgogIHBucG0gaW5zdGFsbCAtLXByb2QgMj4vZGV2L251bGwgfHwgbnBtIGluc3RhbGwgLS1vbWl0PWRldiAyPi9kZXYvbnVsbCB8fCBlY2hvICLvvIjkvp3otZblronoo4XlpLHotKXkuZ/kuI3lvbHlk43moaXmjqXmoLjlv4Pov5DooYzvvIzku4Xlip/og73nvLrlpLHvvIkiCmZpCgplY2hvICI9PT0gNS4g5ZCv5Yqo5qGl5o6lID09PSIKYmFzaCBzdGFydHVwLnNoIHx8IHRydWUKc2xlZXAgNQpub2RlIC1lICIKZmV0Y2goJ2h0dHA6Ly8xMjcuMC4wLjE6MzEwMC9hcGkvc3RhdHVzP3Rva2VuPScrKHJlcXVpcmUoJ2ZzJykucmVhZEZpbGVTeW5jKCckQlJJREdFX0RJUi9zdGF0ZS9jb25zb2xlLXRva2VuJywndXRmOCcpLnRyaW0oKSkpCiAgLnRoZW4ocj0+ci5qc29uKCkpLnRoZW4oaj0+Y29uc29sZS5sb2coJ+ahpeaOpeeKtuaAgTonLGoubW9kZSwnZHNoUmVhZHk9JytqLmRzaFJlYWR5LCdzbm93bHVtYT0nKyhqLnNub3dsdW1hJiZqLnNub3dsdW1hLmNvbm5lY3RlZCkpKQogIC5jYXRjaCgoKT0+Y29uc29sZS5sb2coJ+ahpeaOpeacquWwsee7qu+8jOafpeeciyBicmlkZ2Uvc3RhdGUvYnJpZGdlLmxvZycpKTsKIgoKZWNobwplY2hvICI9PT0g5a6M5oiQID09PSIKZWNobyAi5LiL5LiA5q2l77yaIgplY2hvICIgIDEuIOmHjeWQryBEU0jvvIjorr7nva4g4oaSIOmHjeWQr+W8leaTju+8ie+8jOaPkuS7tueUn+aViCIKZWNobyAiICAyLiDnvJbovpEgJEJSSURHRV9ESVIvcm9sZXMv6KeS6Imy5qih5p2/Lm1kIOS4uuS9oOiHquW3seeahOinkuiJsiIKZWNobyAiICAzLiDph43lkK/lkI7mnYDkuIDmrKEgTUNQIOi/m+eoi+iuqeW3peWFt+WIl+ihqOWIt+aWsO+8iOmHjeimge+8iSIKZWNobyAiICA0LiDlnKggRFNIIOiuvue9rumHjOaKiuaooeW8j+WIh+WIsCByZXNlcnZlZDIiCg==
+#!/usr/bin/env bash
+# dsh-qq-bridge 本地电脑部署（macOS / Linux）
+# 前提：已装桌面版 DSH（DeepSeek Harness）与 Node.js ≥ 22.12
+set -e
+
+PACK_DIR="$(cd "$(dirname "$0")/../.." && pwd)"   # 插件包根目录
+PLUGIN_NAME="dsh-qq-bridge"
+
+echo "=== 1. 把插件 link 进 DSH profile ==="
+DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+PROFILE_PKG="$DSH_HOME/profiles/web/package.json"
+if [ ! -f "$PROFILE_PKG" ]; then
+  echo "找不到 DSH profile：$PROFILE_PKG"
+  echo "请在 DSH 设置 → 插件市场 → 添加本地插件，选择本目录；或设置 DSH_HOME 后重跑。"
+  exit 1
+fi
+mkdir -p "$(dirname "$PROFILE_PKG")"
+# link: 本地目录安装（DSH 支持 link: 源）
+node -e "
+const fs=require('fs');
+const p='$PROFILE_PKG';
+const j=JSON.parse(fs.readFileSync(p,'utf8'));
+j.dependencies=j.dependencies||{};
+j.dependencies['$PLUGIN_NAME']='link:$PACK_DIR';
+fs.writeFileSync(p,JSON.stringify(j,null,2)+'\n');
+console.log('已注册依赖 link:$PACK_DIR');
+"
+
+echo "=== 2. 替换 cordis.patch.yml 里的路径占位符 ==="
+NODE_BIN="$(command -v node)"
+BRIDGE_DIR="$PACK_DIR/bridge"
+sed -i.bak \
+  -e "s|@@NODE@@|$NODE_BIN|g" \
+  -e "s|@@BRIDGE@@|$BRIDGE_DIR|g" \
+  "$PACK_DIR/cordis.patch.yml"
+rm -f "$PACK_DIR/cordis.patch.yml.bak"
+
+echo "=== 3. 生成配置 ==="
+if [ ! -f "$BRIDGE_DIR/config.json" ]; then
+  cp "$BRIDGE_DIR/config.example.json" "$BRIDGE_DIR/config.json"
+  echo "已生成 config.json，请编辑：snowluma.wsUrl / httpUrl / accessToken（SnowLuma 服务器地址与令牌）"
+else
+  echo "config.json 已存在，跳过"
+fi
+
+echo "=== 4. 安装桥接依赖 ==="
+cd "$BRIDGE_DIR"
+if [ -f package.json ] && [ ! -d node_modules ]; then
+  pnpm install --prod 2>/dev/null || npm install --omit=dev 2>/dev/null || echo "（依赖安装失败也不影响桥接核心运行，仅功能缺失）"
+fi
+
+echo "=== 5. 启动桥接 ==="
+bash startup.sh || true
+sleep 5
+node -e "
+fetch('http://127.0.0.1:3100/api/status?token='+(require('fs').readFileSync('$BRIDGE_DIR/state/console-token','utf8').trim()))
+  .then(r=>r.json()).then(j=>console.log('桥接状态:',j.mode,'dshReady='+j.dshReady,'snowluma='+(j.snowluma&&j.snowluma.connected)))
+  .catch(()=>console.log('桥接未就绪，查看 bridge/state/bridge.log'));
+"
+
+echo
+echo "=== 完成 ==="
+echo "下一步："
+echo "  1. 重启 DSH（设置 → 重启引擎），插件生效"
+echo "  2. 编辑 $BRIDGE_DIR/roles/角色模板.md 为你自己的角色"
+echo "  3. 重启后杀一次 MCP 进程让工具列表刷新（重要）"
+echo "  4. 在 DSH 设置里把模式切到 reserved2"

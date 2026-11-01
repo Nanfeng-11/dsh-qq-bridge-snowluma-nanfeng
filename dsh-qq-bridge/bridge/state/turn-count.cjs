@@ -1,1 +1,29 @@
-Ly8g5Y+v56e75qSN6buY6K6k6Lev5b6E77yIZHNoLXFxLWJyaWRnZe+8ie+8mkJSSURHRV9ESVIgLyBEU0hfSE9NRSDnjq/looPlj5jph4/kvJjlhYgKY29uc3QgQlJJREdFX0RJUiA9IHByb2Nlc3MuZW52LkJSSURHRV9ESVIgfHwgX19kaXJuYW1lOwpjb25zdCBEU0hfSE9NRSA9IHByb2Nlc3MuZW52LkRTSF9IT01FIHx8IChwcm9jZXNzLmVudi5IT01FID8gcHJvY2Vzcy5lbnYuSE9NRSArICIvLmRzaCIgOiAiLiIpOwovLyDnu5/orqHjgIzoh6rkuIrmrKHmuIXnkIbku6XmnaXjgI3lkIQgUVEg5Lya6K+d55qE5Zue5ZCI5pWw77yIdHVybiDmlbDvvInvvIzovpPlh7rmnIDlpKflgLwKLy8gYXV0by1jbGVhbiDnlKjlroPlgZrjgIzmjInova7mlbDop6blj5HmuIXnkIbjgI3vvJrova7mlbDmlJLlpKrlpJrlsLHmuIXvvIzkuI3nrYkgdG9rZW4g6LaF6ZmQ44CCCmNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsKY29uc3QgZmlsZSA9IHByb2Nlc3MuYXJndlsyXSB8fCAoQlJJREdFX0RJUiArICcvdG9rZW4tdXNhZ2UuanNvbmwnKTsKY29uc3QgbGFzdENsZWFuRmlsZSA9IHByb2Nlc3MuYXJndlszXSB8fCAoQlJJREdFX0RJUiArICcvLmxhc3QtY2xlYW4nKTsKbGV0IG1heFR1cm5zID0gMDsKdHJ5IHsKICBsZXQgY3V0b2ZmID0gRGF0ZS5ub3coKSAtIDI0ICogMzYwMCAqIDEwMDA7ICAgLy8g5YWc5bqV77ya5pyA5aSa55yL5pyA6L+RIDI0IOWwj+aXtgogIHRyeSB7CiAgICBjb25zdCB0cyA9IE51bWJlcihmcy5yZWFkRmlsZVN5bmMobGFzdENsZWFuRmlsZSwgJ3V0ZjgnKS50cmltKCkpOwogICAgaWYgKE51bWJlci5pc0Zpbml0ZSh0cykgJiYgdHMgPiAwKSBjdXRvZmYgPSBNYXRoLm1heChjdXRvZmYsIHRzICogMTAwMCk7CiAgfSBjYXRjaCB7fQogIGNvbnN0IGNvdW50cyA9IG5ldyBNYXAoKTsKICBjb25zdCBsaW5lcyA9IGZzLnJlYWRGaWxlU3luYyhmaWxlLCAndXRmOCcpLnRyaW0oKS5zcGxpdCgnXG4nKS5zbGljZSgtNjAwKTsKICBmb3IgKGNvbnN0IGwgb2YgbGluZXMpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKGwpOwogICAgICBpZiAoai5rICE9PSAndHVybicpIGNvbnRpbnVlOwogICAgICBpZiAoIS9eKHByaXZhdGV8Z3JvdXApOi8udGVzdChTdHJpbmcoai5rZXkgfHwgJycpKSkgY29udGludWU7CiAgICAgIGlmIChOdW1iZXIoai50KSA8IGN1dG9mZikgY29udGludWU7CiAgICAgIGNvdW50cy5zZXQoai5rZXksIChjb3VudHMuZ2V0KGoua2V5KSB8fCAwKSArIDEpOwogICAgfSBjYXRjaCB7fQogIH0KICBmb3IgKGNvbnN0IG4gb2YgY291bnRzLnZhbHVlcygpKSBpZiAobiA+IG1heFR1cm5zKSBtYXhUdXJucyA9IG47Cn0gY2F0Y2gge30KY29uc29sZS5sb2cobWF4VHVybnMpOwo=
+// 可移植默认路径（dsh-qq-bridge）：BRIDGE_DIR / DSH_HOME 环境变量优先
+const BRIDGE_DIR = process.env.BRIDGE_DIR || __dirname;
+const DSH_HOME = process.env.DSH_HOME || (process.env.HOME ? process.env.HOME + "/.dsh" : ".");
+// 统计「自上次清理以来」各 QQ 会话的回合数（turn 数），输出最大值
+// auto-clean 用它做「按轮数触发清理」：轮数攒太多就清，不等 token 超限。
+const fs = require('fs');
+const file = process.argv[2] || (BRIDGE_DIR + '/token-usage.jsonl');
+const lastCleanFile = process.argv[3] || (BRIDGE_DIR + '/.last-clean');
+let maxTurns = 0;
+try {
+  let cutoff = Date.now() - 24 * 3600 * 1000;   // 兜底：最多看最近 24 小时
+  try {
+    const ts = Number(fs.readFileSync(lastCleanFile, 'utf8').trim());
+    if (Number.isFinite(ts) && ts > 0) cutoff = Math.max(cutoff, ts * 1000);
+  } catch {}
+  const counts = new Map();
+  const lines = fs.readFileSync(file, 'utf8').trim().split('\n').slice(-600);
+  for (const l of lines) {
+    try {
+      const j = JSON.parse(l);
+      if (j.k !== 'turn') continue;
+      if (!/^(private|group):/.test(String(j.key || ''))) continue;
+      if (Number(j.t) < cutoff) continue;
+      counts.set(j.key, (counts.get(j.key) || 0) + 1);
+    } catch {}
+  }
+  for (const n of counts.values()) if (n > maxTurns) maxTurns = n;
+} catch {}
+console.log(maxTurns);

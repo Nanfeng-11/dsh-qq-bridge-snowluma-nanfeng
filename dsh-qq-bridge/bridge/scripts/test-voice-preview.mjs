@@ -1,1 +1,110 @@
-Ly8g5Zu+5b2i55WM6Z2i6Z+z6YeP56uv54K56aqM6K+B77yIbGl2Ze+8ie+8mi9hcGkvcHJldmlldyDlv4XpobvnnJ/nmoTmjInpn7Pph4/kuqflh7rkuI3lkIzpn7PpopHjgIIKLy8g6ZyA6KaBIEdVSSDlt7LlnKjov5DooYzvvJpub2RlIHZvaWNlLWd1aS5tanMgLS1uby1vcGVuIC0tcG9ydCAzMjE1Ci8vICAgJGVudjpRUV9CUklER0VfVEVTVF9MSVZFPSIxIjsgbm9kZSBzY3JpcHRzL3Rlc3Qtdm9pY2UtcHJldmlldy5tanMgLS1wb3J0PTMyMTUKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwoKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmxldCBwYXNzID0gMDsKbGV0IGZhaWwgPSAwOwpjb25zdCBvayA9IChjb25kLCBuYW1lLCBleHRyYSA9ICcnKSA9PiB7CiAgaWYgKGNvbmQpIHsgcGFzcyArPSAxOyBjb25zb2xlLmxvZyhgICDinIUgJHtuYW1lfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsgfQogIGVsc2UgeyBmYWlsICs9IDE7IGNvbnNvbGUuZXJyb3IoYCAg4p2MICR7bmFtZX0ke2V4dHJhID8gJyDigJQgJyArIGV4dHJhIDogJyd9YCk7IH0KfTsKCi8qKiDop6PmnpAgV0FWIOeahCBQQ03vvIznrpcgUk1T77yIZEJGU++8ieKAlOKAlOS4jiB0ZXN0LXZvaWNlLXZvbHVtZSDlkIzms5XvvIzkuI3kvp3otZYgZmZtcGVnIOe7n+iuoSAqLwpmdW5jdGlvbiB3YXZSbXMoYnVmKSB7CiAgaWYgKGJ1Zi50b1N0cmluZygnYXNjaWknLCAwLCA0KSAhPT0gJ1JJRkYnIHx8IGJ1Zi50b1N0cmluZygnYXNjaWknLCA4LCAxMikgIT09ICdXQVZFJykgcmV0dXJuIG51bGw7CiAgbGV0IG9mZnNldCA9IDEyOwogIGxldCBmbXQgPSBudWxsOwogIGxldCBkYXRhID0gbnVsbDsKICB3aGlsZSAob2Zmc2V0ICsgOCA8PSBidWYubGVuZ3RoKSB7CiAgICBjb25zdCBpZCA9IGJ1Zi50b1N0cmluZygnYXNjaWknLCBvZmZzZXQsIG9mZnNldCArIDQpOwogICAgY29uc3Qgc2l6ZSA9IGJ1Zi5yZWFkVUludDMyTEUob2Zmc2V0ICsgNCk7CiAgICBjb25zdCBib2R5ID0gb2Zmc2V0ICsgODsKICAgIGlmIChpZCA9PT0gJ2ZtdCAnKSBmbXQgPSB7IGJpdHM6IGJ1Zi5yZWFkVUludDE2TEUoYm9keSArIDE0KSB9OwogICAgZWxzZSBpZiAoaWQgPT09ICdkYXRhJykgeyBkYXRhID0gYnVmLnN1YmFycmF5KGJvZHksIE1hdGgubWluKGJvZHkgKyBzaXplLCBidWYubGVuZ3RoKSk7IGJyZWFrOyB9CiAgICBvZmZzZXQgPSBib2R5ICsgc2l6ZSArIChzaXplICUgMik7CiAgfQogIGlmICghZm10IHx8ICFkYXRhIHx8IGZtdC5iaXRzICE9PSAxNikgcmV0dXJuIG51bGw7CiAgY29uc3QgbiA9IE1hdGguZmxvb3IoZGF0YS5sZW5ndGggLyAyKTsKICBpZiAoIW4pIHJldHVybiBudWxsOwogIGxldCBzdW0gPSAwOwogIGZvciAobGV0IGkgPSAwOyBpIDwgbjsgaSsrKSB7IGNvbnN0IHYgPSBkYXRhLnJlYWRJbnQxNkxFKGkgKiAyKSAvIDMyNzY4OyBzdW0gKz0gdiAqIHY7IH0KICBjb25zdCBybXMgPSBNYXRoLnNxcnQoc3VtIC8gbik7CiAgcmV0dXJuIHJtcyA9PT0gMCA/IC1JbmZpbml0eSA6IDIwICogTWF0aC5sb2cxMChybXMpOwp9CgppZiAocHJvY2Vzcy5lbnYuUVFfQlJJREdFX1RFU1RfTElWRSAhPT0gJzEnKSB7CiAgY29uc29sZS5sb2coJyMjIOi3s+i/h++8muiuviBRUV9CUklER0VfVEVTVF9MSVZFPTEg5LiUIEdVSSDlt7LlkK/liqgnKTsKICBjb25zb2xlLmxvZyhgXG7nu5PmnpzvvJowIOmAmui/h++8jDAg5aSx6LSlYCk7CiAgcHJvY2Vzcy5leGl0KDApOwp9Cgpjb25zdCBwb3J0QXJnID0gcHJvY2Vzcy5hcmd2LmZpbmQoKGEpID0+IGEuc3RhcnRzV2l0aCgnLS1wb3J0PScpKTsKY29uc3QgcG9ydCA9IE51bWJlcihwb3J0QXJnID8gcG9ydEFyZy5zcGxpdCgnPScpWzFdIDogMzIxNSk7CmNvbnN0IGJhc2UgPSBgaHR0cDovLzEyNy4wLjAuMToke3BvcnR9YDsKY29uc3QgdG9rZW4gPSAoKCkgPT4gewogIC8vIEdVSSDnjrDlnKjkvY/lnKggdm9pY2UtdG9vbC/vvIzku6TniYzlnLDlnYDmlofku7blhpnlnKjpgqPovrnvvJvml6fkvY3nva7kuZ/lhbzlrrnmib7kuIDkuIvjgIIKICBmb3IgKGNvbnN0IGYgb2YgWwogICAgcGF0aC5yZXNvbHZlKFJPT1QsICcuLicsICd2b2ljZS10b29sJywgJ3N0YXRlJywgJ3ZvaWNlLWd1aS11cmwudHh0JyksCiAgICBwYXRoLmpvaW4oUk9PVCwgJ3N0YXRlJywgJ3ZvaWNlLWd1aS11cmwudHh0JykKICBdKSB7CiAgICB0cnkgewogICAgICBjb25zdCBtID0gKGZzLnJlYWRGaWxlU3luYyhmLCAndXRmOCcpLm1hdGNoKC9bPyZddD0oW1x3LV0rKS8pIHx8IFtdKVsxXTsKICAgICAgaWYgKG0pIHJldHVybiBtOwogICAgfSBjYXRjaCB7fQogIH0KICByZXR1cm4gJyc7Cn0pKCk7Cgpjb25zb2xlLmxvZygnIyMgL2FwaS9wcmV2aWV3IOmfs+mHj+err+eCuScpOwppZiAoIXRva2VuKSB7CiAgb2soZmFsc2UsIGDlj5bkuI3liLDku6TniYzvvIhHVUkg5piv5ZCm5ZyoICR7cG9ydH0g6L+Q6KGM77yf77yJYCk7Cn0gZWxzZSB7CiAgY29uc3QgaGVhZGVycyA9IHsgJ3gtdm9pY2UtdG9rZW4nOiB0b2tlbiB9OwogIGNvbnN0IGJvb3QgPSBhd2FpdCBmZXRjaChgJHtiYXNlfS9hcGkvYm9vdHN0cmFwYCwgeyBoZWFkZXJzIH0pLnRoZW4oKHIpID0+IHIuanNvbigpKTsKICBjb25zdCB2b2ljZSA9IGJvb3QubGlicmFyeT8uaXRlbXM/LmZpbmQoKHYpID0+IHYub2sgIT09IGZhbHNlICYmIC9cLndhdiQvaS50ZXN0KHYubmFtZSkpCiAgICA/PyBib290LmxpYnJhcnk/Lml0ZW1zPy5maW5kKCh2KSA9PiB2Lm9rICE9PSBmYWxzZSk7CiAgb2soQm9vbGVhbih2b2ljZSksICfor63pn7PlupPph4zmnInlj6/nlKjpn7PpopEnLCB2b2ljZT8ubmFtZSA/PyAnJyk7CgogIGlmICh2b2ljZSkgewogICAgY29uc3QgZ2V0ID0gYXN5bmMgKHFzKSA9PiB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke2Jhc2V9L2FwaS9wcmV2aWV3P3Q9JHtlbmNvZGVVUklDb21wb25lbnQodG9rZW4pfSZuYW1lPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHZvaWNlLm5hbWUpfSR7cXN9YCk7CiAgICAgIGlmICghcmVzLm9rKSByZXR1cm4geyBzdGF0dXM6IHJlcy5zdGF0dXMsIGpzb246IGF3YWl0IHJlcy5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSkgfTsKICAgICAgcmV0dXJuIHsgc3RhdHVzOiByZXMuc3RhdHVzLCBidWY6IEJ1ZmZlci5mcm9tKGF3YWl0IHJlcy5hcnJheUJ1ZmZlcigpKSwgcHJvY2Vzc2luZzogZGVjb2RlVVJJQ29tcG9uZW50KHJlcy5oZWFkZXJzLmdldCgneC1hdWRpby1wcm9jZXNzaW5nJykgfHwgJycpIH07CiAgICB9OwoKICAgIGNvbnN0IHBsYWluID0gYXdhaXQgZ2V0KCcnKTsKICAgIGNvbnN0IGxvdWQgPSBhd2FpdCBnZXQoJyZ2b2x1bWU9MycpOwogICAgY29uc3QgcXVpZXQgPSBhd2FpdCBnZXQoJyZ2b2x1bWU9MC41Jyk7CiAgICBvayhwbGFpbi5zdGF0dXMgPT09IDIwMCAmJiBwbGFpbi5idWY/Lmxlbmd0aCA+IDAsICfljp/moLfpooTop4jlj6/kuIvovb0nLCBgJHtwbGFpbi5idWY/Lmxlbmd0aCA/PyAwfSBCIMK3ICR7cGxhaW4ucHJvY2Vzc2luZyB8fCAnKOaXoOWkhOeQhuWktCknfWApOwogICAgb2sobG91ZC5zdGF0dXMgPT09IDIwMCwgJ+mfs+mHjyAzIOWAjemihOiniOWPr+S4i+i9vScsIGxvdWQucHJvY2Vzc2luZyk7CiAgICBvaygvMzAwJS8udGVzdChsb3VkLnByb2Nlc3NpbmcgfHwgJycpLCAn5ZON5bqU5aS05qCH5piOIDMwMCUnLCBsb3VkLnByb2Nlc3NpbmcpOwoKICAgIGNvbnN0IHJQbGFpbiA9IHBsYWluLmJ1ZiA/IHdhdlJtcyhwbGFpbi5idWYpIDogbnVsbDsKICAgIGNvbnN0IHJMb3VkID0gd2F2Um1zKGxvdWQuYnVmID8/IEJ1ZmZlci5hbGxvYygwKSk7CiAgICBjb25zdCByUXVpZXQgPSB3YXZSbXMocXVpZXQuYnVmID8/IEJ1ZmZlci5hbGxvYygwKSk7CiAgICBpZiAoclBsYWluID09PSBudWxsIHx8IHJMb3VkID09PSBudWxsIHx8IHJRdWlldCA9PT0gbnVsbCkgewogICAgICBjb25zb2xlLmxvZygnICDij60gIOi3s+i/hyBSTVMg5q+U5a+577ya6aKE6KeI6L6T5Ye65LiN5pivIDE2LWJpdCBXQVYgUENNJyk7CiAgICB9IGVsc2UgewogICAgICBvayhNYXRoLmFicygockxvdWQgLSByUGxhaW4pIC0gOS41NCkgPCAyLjUsIGAzIOWAjemihOiniOWunua1iyArJHsockxvdWQgLSByUGxhaW4pLnRvRml4ZWQoMil9IGRCYCwgYCR7clBsYWluLnRvRml4ZWQoMil9IOKGkiAke3JMb3VkLnRvRml4ZWQoMil9IGRCRlNgKTsKICAgICAgb2soTWF0aC5hYnMoKHJRdWlldCAtIHJQbGFpbikgKyA2LjAyKSA8IDIuNSwgYDAuNSDlgI3pooTop4jlrp7mtYsgJHsoclF1aWV0IC0gclBsYWluKS50b0ZpeGVkKDIpfSBkQmAsIGAke3JQbGFpbi50b0ZpeGVkKDIpfSDihpIgJHtyUXVpZXQudG9GaXhlZCgyKX0gZEJGU2ApOwogICAgfQoKICAgIGNvbnN0IHNtYXJ0ID0gYXdhaXQgZ2V0KCcmbm9ybWFsaXplPTEnKTsKICAgIG9rKHNtYXJ0LnN0YXR1cyA9PT0gMjAwICYmIC/lk43luqblvZLkuIAvLnRlc3Qoc21hcnQucHJvY2Vzc2luZyB8fCAnJyksICfmmbrog73pn7Pph4/pooTop4jlj6/nlKgnLCBzbWFydC5wcm9jZXNzaW5nKTsKCiAgICBjb25zdCBiYWQgPSBhd2FpdCBnZXQoJyZ2b2x1bWU9OTknKTsKICAgIG9rKGJhZC5zdGF0dXMgPT09IDQwMCwgJ+i2iueVjOmfs+mHj+i/lOWbniA0MDAnLCBgSFRUUCAke2JhZC5zdGF0dXN9YCk7CgogICAgLy8g6aKE6KeI5Lqn54mp5piv5LiA5qyh5oCn55qE77ya5LiN6K+l5Zyo5Li05pe255uu5b2V6YeM5aCG552ACiAgICBjb25zdCB0bXBEaXIgPSBwYXRoLmpvaW4ocHJvY2Vzcy5lbnYuVEVNUCB8fCAnL3RtcCcsICd2b2ljZS1wcm9jZXNzZWQnKTsKICAgIGNvbnN0IGxlZnQgPSBmcy5leGlzdHNTeW5jKHRtcERpcikgPyBmcy5yZWFkZGlyU3luYyh0bXBEaXIpLmZpbHRlcigoZikgPT4gZi5zdGFydHNXaXRoKCd2b2wtJykpLmxlbmd0aCA6IDA7CiAgICBvayhsZWZ0ID09PSAwLCAn6aKE6KeI5Lqn55Sf55qE5Li05pe25paH5Lu25bey5riF55CGJywgYOaui+eVmSAke2xlZnR9IOS4qmApOwogIH0KfQoKY29uc29sZS5sb2coYFxu57uT5p6c77yaJHtwYXNzfSDpgJrov4fvvIwke2ZhaWx9IOWksei0pWApOwppZiAoZmFpbCA+IDApIHByb2Nlc3MuZXhpdCgxKTsK
+// 图形界面音量端点验证（live）：/api/preview 必须真的按音量产出不同音频。
+// 需要 GUI 已在运行：node voice-gui.mjs --no-open --port 3215
+//   $env:QQ_BRIDGE_TEST_LIVE="1"; node scripts/test-voice-preview.mjs --port=3215
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+let pass = 0;
+let fail = 0;
+const ok = (cond, name, extra = '') => {
+  if (cond) { pass += 1; console.log(`  ✅ ${name}${extra ? ' — ' + extra : ''}`); }
+  else { fail += 1; console.error(`  ❌ ${name}${extra ? ' — ' + extra : ''}`); }
+};
+
+/** 解析 WAV 的 PCM，算 RMS（dBFS）——与 test-voice-volume 同法，不依赖 ffmpeg 统计 */
+function wavRms(buf) {
+  if (buf.toString('ascii', 0, 4) !== 'RIFF' || buf.toString('ascii', 8, 12) !== 'WAVE') return null;
+  let offset = 12;
+  let fmt = null;
+  let data = null;
+  while (offset + 8 <= buf.length) {
+    const id = buf.toString('ascii', offset, offset + 4);
+    const size = buf.readUInt32LE(offset + 4);
+    const body = offset + 8;
+    if (id === 'fmt ') fmt = { bits: buf.readUInt16LE(body + 14) };
+    else if (id === 'data') { data = buf.subarray(body, Math.min(body + size, buf.length)); break; }
+    offset = body + size + (size % 2);
+  }
+  if (!fmt || !data || fmt.bits !== 16) return null;
+  const n = Math.floor(data.length / 2);
+  if (!n) return null;
+  let sum = 0;
+  for (let i = 0; i < n; i++) { const v = data.readInt16LE(i * 2) / 32768; sum += v * v; }
+  const rms = Math.sqrt(sum / n);
+  return rms === 0 ? -Infinity : 20 * Math.log10(rms);
+}
+
+if (process.env.QQ_BRIDGE_TEST_LIVE !== '1') {
+  console.log('## 跳过：设 QQ_BRIDGE_TEST_LIVE=1 且 GUI 已启动');
+  console.log(`\n结果：0 通过，0 失败`);
+  process.exit(0);
+}
+
+const portArg = process.argv.find((a) => a.startsWith('--port='));
+const port = Number(portArg ? portArg.split('=')[1] : 3215);
+const base = `http://127.0.0.1:${port}`;
+const token = (() => {
+  // GUI 现在住在 voice-tool/，令牌地址文件写在那边；旧位置也兼容找一下。
+  for (const f of [
+    path.resolve(ROOT, '..', 'voice-tool', 'state', 'voice-gui-url.txt'),
+    path.join(ROOT, 'state', 'voice-gui-url.txt')
+  ]) {
+    try {
+      const m = (fs.readFileSync(f, 'utf8').match(/[?&]t=([\w-]+)/) || [])[1];
+      if (m) return m;
+    } catch {}
+  }
+  return '';
+})();
+
+console.log('## /api/preview 音量端点');
+if (!token) {
+  ok(false, `取不到令牌（GUI 是否在 ${port} 运行？）`);
+} else {
+  const headers = { 'x-voice-token': token };
+  const boot = await fetch(`${base}/api/bootstrap`, { headers }).then((r) => r.json());
+  const voice = boot.library?.items?.find((v) => v.ok !== false && /\.wav$/i.test(v.name))
+    ?? boot.library?.items?.find((v) => v.ok !== false);
+  ok(Boolean(voice), '语音库里有可用音频', voice?.name ?? '');
+
+  if (voice) {
+    const get = async (qs) => {
+      const res = await fetch(`${base}/api/preview?t=${encodeURIComponent(token)}&name=${encodeURIComponent(voice.name)}${qs}`);
+      if (!res.ok) return { status: res.status, json: await res.json().catch(() => ({})) };
+      return { status: res.status, buf: Buffer.from(await res.arrayBuffer()), processing: decodeURIComponent(res.headers.get('x-audio-processing') || '') };
+    };
+
+    const plain = await get('');
+    const loud = await get('&volume=3');
+    const quiet = await get('&volume=0.5');
+    ok(plain.status === 200 && plain.buf?.length > 0, '原样预览可下载', `${plain.buf?.length ?? 0} B · ${plain.processing || '(无处理头)'}`);
+    ok(loud.status === 200, '音量 3 倍预览可下载', loud.processing);
+    ok(/300%/.test(loud.processing || ''), '响应头标明 300%', loud.processing);
+
+    const rPlain = plain.buf ? wavRms(plain.buf) : null;
+    const rLoud = wavRms(loud.buf ?? Buffer.alloc(0));
+    const rQuiet = wavRms(quiet.buf ?? Buffer.alloc(0));
+    if (rPlain === null || rLoud === null || rQuiet === null) {
+      console.log('  ⏭  跳过 RMS 比对：预览输出不是 16-bit WAV PCM');
+    } else {
+      ok(Math.abs((rLoud - rPlain) - 9.54) < 2.5, `3 倍预览实测 +${(rLoud - rPlain).toFixed(2)} dB`, `${rPlain.toFixed(2)} → ${rLoud.toFixed(2)} dBFS`);
+      ok(Math.abs((rQuiet - rPlain) + 6.02) < 2.5, `0.5 倍预览实测 ${(rQuiet - rPlain).toFixed(2)} dB`, `${rPlain.toFixed(2)} → ${rQuiet.toFixed(2)} dBFS`);
+    }
+
+    const smart = await get('&normalize=1');
+    ok(smart.status === 200 && /响度归一/.test(smart.processing || ''), '智能音量预览可用', smart.processing);
+
+    const bad = await get('&volume=99');
+    ok(bad.status === 400, '越界音量返回 400', `HTTP ${bad.status}`);
+
+    // 预览产物是一次性的：不该在临时目录里堆着
+    const tmpDir = path.join(process.env.TEMP || '/tmp', 'voice-processed');
+    const left = fs.existsSync(tmpDir) ? fs.readdirSync(tmpDir).filter((f) => f.startsWith('vol-')).length : 0;
+    ok(left === 0, '预览产生的临时文件已清理', `残留 ${left} 个`);
+  }
+}
+
+console.log(`\n结果：${pass} 通过，${fail} 失败`);
+if (fail > 0) process.exit(1);

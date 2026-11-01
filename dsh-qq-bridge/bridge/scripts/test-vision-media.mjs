@@ -1,1 +1,79 @@
-Ly8g6KeG6KeJL+WbvueJh+mTvui3r+iHquajgOiEmuacrO+8mgovLyAxLiDmoKHpqozphY3nva7pu5jorqTmqKHlnovkuLogRGVlcFNlZWstVjQtRmxhc2gtVmlzaW9uLUV4cAovLyAyLiDmoKHpqowgc2FmZS1mZXRjaCDnmoQgU1NSRiDpmLLmiqTvvIjmnKzmnLrlnLDlnYDlupTooqvmi5Lnu53vvIkKLy8gMy4g6Iul5qGl5o6l6L+Q6KGM5Lit77yM5qCh6aqMIC9hcGkvaW1hZ2VzL21lc3NhZ2Ug56uv54K55Y+v55So77yI55So5LqM5LujIGFnZW50IHRva2Vu77yJCi8vIOi/kOihjO+8mm5vZGUgc2NyaXB0cy90ZXN0LXZpc2lvbi1tZWRpYS5tanMKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBzYWZlRmV0Y2hCdWZmZXIgfSBmcm9tICcuLi9zcmMvc2FmZS1mZXRjaC5qcyc7Cgpjb25zdCBfX2Rpcm5hbWUgPSBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLicpOwoKZnVuY3Rpb24gcmVhZEpzb24oZmlsZSkgewogIGxldCB0ZXh0ID0gZnMucmVhZEZpbGVTeW5jKGZpbGUsICd1dGY4Jyk7CiAgaWYgKHRleHQuY2hhckNvZGVBdCgwKSA9PT0gMHhmZWZmKSB0ZXh0ID0gdGV4dC5zbGljZSgxKTsKICByZXR1cm4gSlNPTi5wYXJzZSh0ZXh0KTsKfQoKY29uc3QgY29uZmlnID0gcmVhZEpzb24ocGF0aC5qb2luKFJPT1QsICdjb25maWcuanNvbicpKTsKbGV0IHBhc3NlZCA9IDA7CmxldCBmYWlsZWQgPSAwOwoKZnVuY3Rpb24gY2hlY2sobmFtZSwgY29uZCwgZXh0cmEgPSAnJykgewogIGlmIChjb25kKSB7CiAgICBwYXNzZWQgKz0gMTsKICAgIGNvbnNvbGUubG9nKGDinIUgJHtuYW1lfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsKICB9IGVsc2UgewogICAgZmFpbGVkICs9IDE7CiAgICBjb25zb2xlLmVycm9yKGDinYwgJHtuYW1lfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsKICB9Cn0KCi8vIDEuIOmFjee9rgovLyDlpJrmqKHmgIHmqKHlnovmuIXljZXvvJpEU0ggMC4xLjUg55qEIGxsbS1kZWVwc2VlayDph4zlo7DmmI4gaW5wdXRNb2RhbGl0aWVzIOWQqyBpbWFnZSDnmoTmqKHlnovjgIIKLy8gZGVlcHNlZWstZmxhc2jvvIhEZWVwU2Vlay1WNDEtRmxhc2jvvInmmK/lvZPliY3pu5jorqTvvJtkZWVwc2Vlay12NC1mbGFzaC12aXNpb24tZXhwIOS4uuWOhuWPsum7mOiupOOAggpjb25zdCBNVUxUSU1PREFMX01PREVMUyA9IFsnZGVlcHNlZWstZmxhc2gnLCAnZGVlcHNlZWstdjQtZmxhc2gtdmlzaW9uLWV4cCddOwpjaGVjaygnY29uZmlnLmRzaC5tb2RlbCDkuLrlpJrmqKHmgIHmqKHlnosnLCBNVUxUSU1PREFMX01PREVMUy5pbmNsdWRlcyhjb25maWcuZHNoPy5tb2RlbCksIGDlvZPliY0gJHtjb25maWcuZHNoPy5tb2RlbH1gKTsKY2hlY2soJ2NvbmZpZy5kc2gucmVhc29uaW5nRWZmb3J0IOS4uiBtYXgnLCBjb25maWcuZHNoPy5yZWFzb25pbmdFZmZvcnQgPT09ICdtYXgnLCBg5b2T5YmNICR7Y29uZmlnLmRzaD8ucmVhc29uaW5nRWZmb3J0fWApOwpjaGVjaygnY29uZmlnLnNvY2lhbFYyLnRvb2xzLmdldEltYWdlcyDpu5jorqTlvIDlkK8nLCBjb25maWcuc29jaWFsVjI/LnRvb2xzPy5nZXRJbWFnZXMgIT09IGZhbHNlKTsKCi8vIDIuIHNhZmUtZmV0Y2ggU1NSRgp0cnkgewogIGF3YWl0IHNhZmVGZXRjaEJ1ZmZlcignaHR0cDovLzEyNy4wLjAuMS8nKTsKICBjaGVjaygnc2FmZS1mZXRjaCDmi5Lnu53mnKzmnLrlnLDlnYAnLCBmYWxzZSwgJ+acquaKm+WHuuW8guW4uCcpOwp9IGNhdGNoIChlcnJvcikgewogIGNoZWNrKCdzYWZlLWZldGNoIOaLkue7neacrOacuuWcsOWdgCcsIC/lhoXnvZF85pys5py6fOemgeatoi8udGVzdChTdHJpbmcoZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3IpKSwgZXJyb3I/Lm1lc3NhZ2UpOwp9CgovLyAzLiDmoaXmjqXnq6/ngrnvvIjlj6/pgInvvIkKY29uc3QgY29uc29sZVRva2VuRmlsZSA9IHBhdGguam9pbihST09ULCAnc3RhdGUnLCAnY29uc29sZS10b2tlbicpOwpjb25zdCBzb2NpYWxWMkZpbGUgPSBwYXRoLmpvaW4oUk9PVCwgJ3N0YXRlJywgJ3NvY2lhbC12Mi5qc29uJyk7CmlmIChmcy5leGlzdHNTeW5jKGNvbnNvbGVUb2tlbkZpbGUpICYmIGZzLmV4aXN0c1N5bmMoc29jaWFsVjJGaWxlKSkgewogIHRyeSB7CiAgICBjb25zdCBjb25zb2xlVG9rZW4gPSBmcy5yZWFkRmlsZVN5bmMoY29uc29sZVRva2VuRmlsZSwgJ3V0ZjgnKS50cmltKCk7CiAgICBjb25zdCBzb2NpYWwgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhzb2NpYWxWMkZpbGUsICd1dGY4JykpOwogICAgY29uc3QgY29udiA9IHNvY2lhbD8uY29udmVyc2F0aW9ucyA/IE9iamVjdC5lbnRyaWVzKHNvY2lhbC5jb252ZXJzYXRpb25zKVswXSA6IG51bGw7CiAgICBpZiAoY29udikgewogICAgICBjb25zdCBba2V5LCBzdF0gPSBjb252OwogICAgICBjb25zdCBhZ2VudFRva2VuID0gc3Q/LmFnZW50VG9rZW47CiAgICAgIGNvbnN0IG1lc3NhZ2VJZCA9IHN0Py5yZWNlbnRNZXNzYWdlcz8uZmluZCgobSkgPT4gbSAmJiAhbS5pc1NlbGYpPy5tZXNzYWdlSWQgfHwgc3Q/LnJlY2VudE1lc3NhZ2VzPy5bMF0/Lm1lc3NhZ2VJZDsKICAgICAgaWYgKGFnZW50VG9rZW4gJiYgbWVzc2FnZUlkKSB7CiAgICAgICAgY29uc3QgdXJsID0gYGh0dHA6Ly8xMjcuMC4wLjE6JHtjb25maWcuY29uc29sZVBvcnQgfHwgMzEwMH0vYXBpL2ltYWdlcy9tZXNzYWdlP2tleT0ke2VuY29kZVVSSUNvbXBvbmVudChrZXkpfSZtZXNzYWdlSWQ9JHtlbmNvZGVVUklDb21wb25lbnQoU3RyaW5nKG1lc3NhZ2VJZCkpfWA7CiAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2godXJsLCB7IGhlYWRlcnM6IHsgJ3gtYWdlbnQtdG9rZW4nOiBhZ2VudFRva2VuLCAneC1jb25zb2xlLXRva2VuJzogY29uc29sZVRva2VuIH0sIHNpZ25hbDogQWJvcnRTaWduYWwudGltZW91dCgxMDAwMCkgfSk7CiAgICAgICAgY29uc3QgYm9keSA9IGF3YWl0IHJlcy5qc29uKCkuY2F0Y2goKCkgPT4gKHt9KSk7CiAgICAgICAgY2hlY2soJ+ahpeaOpSAvYXBpL2ltYWdlcy9tZXNzYWdlIOerr+eCueWPr+iuv+mXricsIHJlcy5vayA9PT0gdHJ1ZSAmJiBib2R5Lm9rID09PSB0cnVlLCBgSFRUUCAke3Jlcy5zdGF0dXN9YCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgY29uc29sZS5sb2coJ+KaoO+4jyDot7Pov4fmoaXmjqXnq6/ngrnmo4Dmn6XvvJrmsqHmnInlj6/nlKggYWdlbnRUb2tlbi9tZXNzYWdlSWQnKTsKICAgICAgfQogICAgfQogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBjb25zb2xlLmxvZyhg4pqg77iPIOahpeaOpeerr+eCueajgOafpei3s+i/h++8miR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J9YCk7CiAgfQp9IGVsc2UgewogIGNvbnNvbGUubG9nKCfimqDvuI8g6Lez6L+H5qGl5o6l56uv54K55qOA5p+l77ya57y65bCRIHN0YXRlL2NvbnNvbGUtdG9rZW4g5oiWIHN0YXRlL3NvY2lhbC12Mi5qc29uJyk7Cn0KCmNvbnNvbGUubG9nKGBcbue7k+aenO+8miR7cGFzc2VkfSDpgJrov4fvvIwke2ZhaWxlZH0g5aSx6LSlYCk7CnByb2Nlc3MuZXhpdChmYWlsZWQgPiAwID8gMSA6IDApOwo=
+// 视觉/图片链路自检脚本：
+// 1. 校验配置默认模型为 DeepSeek-V4-Flash-Vision-Exp
+// 2. 校验 safe-fetch 的 SSRF 防护（本机地址应被拒绝）
+// 3. 若桥接运行中，校验 /api/images/message 端点可用（用二代 agent token）
+// 运行：node scripts/test-vision-media.mjs
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { safeFetchBuffer } from '../src/safe-fetch.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+function readJson(file) {
+  let text = fs.readFileSync(file, 'utf8');
+  if (text.charCodeAt(0) === 0xfeff) text = text.slice(1);
+  return JSON.parse(text);
+}
+
+const config = readJson(path.join(ROOT, 'config.json'));
+let passed = 0;
+let failed = 0;
+
+function check(name, cond, extra = '') {
+  if (cond) {
+    passed += 1;
+    console.log(`✅ ${name}${extra ? ' — ' + extra : ''}`);
+  } else {
+    failed += 1;
+    console.error(`❌ ${name}${extra ? ' — ' + extra : ''}`);
+  }
+}
+
+// 1. 配置
+// 多模态模型清单：DSH 0.1.5 的 llm-deepseek 里声明 inputModalities 含 image 的模型。
+// deepseek-flash（DeepSeek-V41-Flash）是当前默认；deepseek-v4-flash-vision-exp 为历史默认。
+const MULTIMODAL_MODELS = ['deepseek-flash', 'deepseek-v4-flash-vision-exp'];
+check('config.dsh.model 为多模态模型', MULTIMODAL_MODELS.includes(config.dsh?.model), `当前 ${config.dsh?.model}`);
+check('config.dsh.reasoningEffort 为 max', config.dsh?.reasoningEffort === 'max', `当前 ${config.dsh?.reasoningEffort}`);
+check('config.socialV2.tools.getImages 默认开启', config.socialV2?.tools?.getImages !== false);
+
+// 2. safe-fetch SSRF
+try {
+  await safeFetchBuffer('http://127.0.0.1/');
+  check('safe-fetch 拒绝本机地址', false, '未抛出异常');
+} catch (error) {
+  check('safe-fetch 拒绝本机地址', /内网|本机|禁止/.test(String(error?.message ?? error)), error?.message);
+}
+
+// 3. 桥接端点（可选）
+const consoleTokenFile = path.join(ROOT, 'state', 'console-token');
+const socialV2File = path.join(ROOT, 'state', 'social-v2.json');
+if (fs.existsSync(consoleTokenFile) && fs.existsSync(socialV2File)) {
+  try {
+    const consoleToken = fs.readFileSync(consoleTokenFile, 'utf8').trim();
+    const social = JSON.parse(fs.readFileSync(socialV2File, 'utf8'));
+    const conv = social?.conversations ? Object.entries(social.conversations)[0] : null;
+    if (conv) {
+      const [key, st] = conv;
+      const agentToken = st?.agentToken;
+      const messageId = st?.recentMessages?.find((m) => m && !m.isSelf)?.messageId || st?.recentMessages?.[0]?.messageId;
+      if (agentToken && messageId) {
+        const url = `http://127.0.0.1:${config.consolePort || 3100}/api/images/message?key=${encodeURIComponent(key)}&messageId=${encodeURIComponent(String(messageId))}`;
+        const res = await fetch(url, { headers: { 'x-agent-token': agentToken, 'x-console-token': consoleToken }, signal: AbortSignal.timeout(10000) });
+        const body = await res.json().catch(() => ({}));
+        check('桥接 /api/images/message 端点可访问', res.ok === true && body.ok === true, `HTTP ${res.status}`);
+      } else {
+        console.log('⚠️ 跳过桥接端点检查：没有可用 agentToken/messageId');
+      }
+    }
+  } catch (error) {
+    console.log(`⚠️ 桥接端点检查跳过：${error?.message ?? error}`);
+  }
+} else {
+  console.log('⚠️ 跳过桥接端点检查：缺少 state/console-token 或 state/social-v2.json');
+}
+
+console.log(`\n结果：${passed} 通过，${failed} 失败`);
+process.exit(failed > 0 ? 1 : 0);

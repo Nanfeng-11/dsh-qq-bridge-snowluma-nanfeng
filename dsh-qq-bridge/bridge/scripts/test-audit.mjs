@@ -1,1 +1,83 @@
-Ly8gU2FmZSBhdWRpdCBzdWl0ZTogZml4dHVyZXMgYW5kIG1vY2tzIG9ubHksIG5ldmVyIHByb2R1Y3Rpb24gUVEvRFNILgppbXBvcnQgcGF0aCBmcm9tICdub2RlOnBhdGgnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwppbXBvcnQgeyBzcGF3blN5bmMgfSBmcm9tICdub2RlOmNoaWxkX3Byb2Nlc3MnOwoKY29uc3Qgcm9vdCA9IGZpbGVVUkxUb1BhdGgobmV3IFVSTCgnLi4nLCBpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgdGVzdHMgPSBbCiAgJ3Rlc3QtYXVkaXQtYnJpZGdlLm1qcycsICd0ZXN0LWF1ZGl0LXByb3RvY29sLm1qcycsICd0ZXN0LWF1ZGl0LXByb3RvY29sLWhlbHBlcnMubWpzJywKICAndGVzdC1hdWRpdC1zZWN1cml0eS5tanMnLCAndGVzdC1hdWRpdC1zZWN1cml0eS1tY3AubWpzJywKICAndGVzdC1hdWRpdC1zZXR1cC5tanMnLCAndGVzdC1hdWRpdC1zZXR1cC1ndWFyZHMubWpzJywKICAvLyBEU0gg5Lya6K+d6Zif5YiX77yIaW5ib3gg5oqV5b2x77yJ6Kej5p6Q77yaMC4yLjAg5oqK6Zif5YiX5LuOIGNvbnRyb2wgYmFzZWxpbmUg55qECiAgLy8gYHZhbHVlLnF1ZXVlc1s8aWQ+XWAg5oyq6L+b5LqGIGB2YWx1ZS5wcm9qZWN0aW9uc1s8aWQ+XS52YWx1ZXMuaW5ib3hg44CCCiAgLy8g6K6k6ZSZ5b2i54q255qE5ZCO5p6c5LiN5pivIuWwkea4heWHoOadoSLvvIzogIzmmK8qKuavj+S4gOasoemAgOW9ueS8muivnemDveaKm+mUmSoq44CB5pen5Lu75Yqh57un57ut6LeR77yMCiAgLy8g5LiU5Y+q55WZ5LiL5LiA6KGM5pel5b+XIOKAlOKAlCDlv4XpobvmnInnmbvorrDmnJ/mlq3oqIDpkonkvY/vvIjmtLsgRFNIIOS+p+eahOWunua1i+ingQogIC8vIHNjcmlwdHMvdGVzdC1kc2gtc2Vzc2lvbi1yZXRpcmUubWpz77yJ44CCCiAgJ3Rlc3QtZHNoLWluYm94LXByb2plY3Rpb24ubWpzJywKICAndGVzdC1tZC10by1wbGFpbi5tanMnLCAndGVzdC1zbGFuZy1sZWFybi5tanMnLCAndGVzdC1tdXgtcmVjb25uZWN0Lm1qcycsCiAgJ3Rlc3QtdG9rZW4tZWNvbm9teS5tanMnLCAndGVzdC1xcS1tb2RlbC12aWV3Lm1qcycsICd0ZXN0LXFxLXByZXNldC1jb250cmFjdC5tanMnLAogICd0ZXN0LXJlcGx5LXdhaXQubWpzJywgJ3Rlc3QtcHJlc2V0LXByb21wdC5tanMnLCAndGVzdC1yb2xlLWNhcmQubWpzJywKICAvLyDkvZPmo4Dkv67lpI3lm57lvZLvvJrml6Dku6TniYzmmbrog73kvZPosIPnlKjpnaLjgIFzZW5kLWJ1cnN0IOWksei0peWbnua7muOAgeWUpOmGkumZkOmikemHjeivleOAgQogIC8vIOWumuaXtuWZqOexu+aaguWtmOWUpOmGkuihpeWPkeOAgWNvbGxlY3RvciDnlJ/lkb3lkajmnJ/jgIFvd25lclFRIOimhuebluivreS5ieOAgemihOiuvuWQjeagoemqjOOAgQogIC8vIHdha2UgdHJpZ2dlcnMg55m95ZCN5Y2V44CBbWVtb3J5LXVwZGF0ZSDovrnnlYzjgIF3YWl0IOenn+e6puW9kuS4gOWMluOAgW1kL+m7keivnS/ooajmg4Uv6LSm5pys77ybCiAgLy8g5pys6L2u5paw5aKe77yaL2FwaS9zZW5kLyog5aSx6LSl6Lev5b6E55qE5L2c55So5Z+f6ZSZ6K+v77yIUjE177yJ44CBcmVzZXJ2ZWQyIOiQveW6k+S4ouihqOaDheivhuWIq+Wtl+aute+8iFIxNu+8ieOAggogICd0ZXN0LWF1ZGl0LXJlZ3Jlc3Npb25zLm1qcycsCiAgLy8g5Zu+54mHL+ihqOaDhemTvui3r++8iOWKqOWbvi/ooajmg4XljIXlrZfmrrXjgIFDRE4g5LyY5YWI5LiOIGVtb2ppX2lkIOWFnOW6le+8iSsg6IGU572R5pCc57SiCiAgLy8g77yIRFNIIOWQjOS4gOi3ryBEZWVwU2VlayDmkJzntKLjgIFCaW5nIFJTUyDlhZzlupXjgIHlh63mja7kvJjlhYjnuqfkuI7nq6/ngrnlronlhajvvJsKICAvLyAg5pys6L2u5paw5aKe77ya56m657uT5p6cIG5vdGUg5b+F6aG75Zyo5YaZ57yT5a2Y5LmL5YmN55Sf5oiQ77yM5ZCm5YiZ57yT5a2Y5ZG95Lit5Lii5o6J5o+Q56S677yJ44CCCiAgJ3Rlc3QtbWVkaWEtc2VhcmNoLm1qcycsCiAgLy8gR2l0SHViIGlzc3VlIOWbnuW9ku+8miMyMiDmqKHlvI8gdXNlciDlsYLkvJjlhYggLyAjMTEvIzE5IOWbnuWQiOWIpOW/meenn+e6piAvICMyOSDmnLrlmajkurrouqvku73ms6jlhaXjgIIKICAndGVzdC1pc3N1ZS1yZWdyZXNzaW9ucy5tanMnLAogIC8vIOS6jOS7o+OAjOS8muivneWIneWni+aPkOekuuivjeOAje+8muWPquWcqOmmluasoeWUpOmGkuazqOWFpeOAgeeuoeeQhumdoumalOemu+OAgeaNn+Wdj+aWh+S7tuWPquivu+mZjee6p+OAgQogIC8vIOS7peWPiuaOp+WItuWPsOOAjOeri+WNs+WUpOmGkuOAjeS4jeW+l+mhtuaOiemmluasoSBib290c3RyYXDvvIjlkKbliJnliJ3lp4vmj5DnpLror43msLjov5zlj5HkuI3lh7rljrvvvInjgIIKICAndGVzdC12Mi1pbml0aWFsLXByb21wdC5tanMnLAogIC8vIOS7pOeJjOi0puacrCAvIOS7t+ebruihqCDkuI4g5L2T5qOA5L+u5aSN5Zue5b2S77yI57qv5Ye95pWw77yM5peg5aSW6YOo5L6d6LWW77yJCiAgJ3Rlc3QtdG9rZW4tdXNhZ2UubWpzJywgJ3Rlc3QtaGFyZGVuaW5nLm1qcycsCiAgLy8g6K+t6Z+z5Y+R6YCB77yI57qv5Ye95pWwICsg56uv54K55a2Y5Zyo5oCn77yb55yf5Y+R6K+t6Z+z5Y+q5ZyoIC0tbGl2ZSDmiJYgQ0xJIOmHjOWBmu+8iQogICd0ZXN0LXZvaWNlLm1qcycsCiAgLy8g6Z+z6YeP77ya5Y+C5pWw5qCh6aqMICsg55yf55qE6LCD55SoIGZmbXBlZyDosIPpn7Pph48gKyDoh6rnrpcgUk1TIOmqjOivgeWinuebigogICd0ZXN0LXZvaWNlLXZvbHVtZS5tanMnLAogIC8vIOi+ueeVjO+8muW5tuWPkS/lvILluLjovpPlhaUv5LiK5Lyg6ZmQ6aKdL+i2iuadg++8iOe6r+WHveaVsOautSArIOWPr+mAieeahCBsaXZlIOaute+8iQogICd0ZXN0LXZvaWNlLWVkZ2UubWpzJywKICAvLyDor63pn7Plm77lvaLnlYzpnaLvvIjlj4LmlbDop6PmnpAv6Ym05p2DL+i3r+W+hOepv+i2ii/mlofku7blkI3lh4DljJbvvJtsaXZlIOautemcgOaZrumAmue7iOerr++8iQogICd0ZXN0LXZvaWNlLWd1aS5tanMnLAogIC8vIOaOp+WItuWPsOmdmeaAgeWlkee6pu+8iOi3keS4jeS6hiBQbGF5d3JpZ2h0IOeahOeOr+Wig+S4i+eahOabv+S7o+WbnuW9ku+8iQogICd0ZXN0LWNvbnNvbGUtc3RhdGljLm1qcycsCiAgLy8g6K+t6Z+z57O757uf5pW05L2T57uT5p6E5qOA5p+l77yI5YWl5Y+jL+S+nei1li/nq6/ngrkv5byA5YWzL+aWh+aho+S4gOiHtOaAp++8iQogICd0ZXN0LXZvaWNlLXN5c3RlbS5tanMnLAogIC8vIFNub3dMdW1hIOi0puWPty90b2tlbiDoh6rlj5HnjrDvvIjmjaIgUVEg6LSm5Y+35ZCOIHRva2VuIOS8muWPmO+8jOWGmeatu+eahOW3peWFt+S8miA0MDHvvIkKICAndGVzdC1zbm93bHVtYS1jb25uLm1qcycsCiAgLy8g5ZCv5Yqo5Zmo5LiO57yW56CB77yI5Lmx56CB5qC55Zug77yaLmNtZCDph4znmoTpnZ4gQVNDSUkg5Lya6KKrIGNtZCDmjIkgQU5TSSDop6PnoIHvvIkKICAndGVzdC1lbmNvZGluZy5tanMnLAogIC8vIOaOp+WItuWPsOS5seeggeacuuWItu+8iFVURi04IOWtl+iKguiiq+aMiSBHQksg6Kej56CB77yJKyBjaGNwIOS/ruWkjQogICd0ZXN0LWNvbnNvbGUtZW5jb2RpbmcubWpzJywKICAvLyDwn5S0IOmTgeW+iyBMN++8iOS7v+ecn+S8muivneS4jeW+l+aLpeacieacrOWcsOaJp+ihjOiDveWKm++8ie+8muazqOWGjOacn+aWreiogOKAlOKAlAogIC8vICAgIHByZXNldCDmjILkuoblrojljavjgIHlrojljavnmoQgcmVzdHJpY3Qg5ZCN5Y2V6KaG55uW5YWo6YOo5bey55+l5pys5Zyw5bel5YW344CB5LiU5omn6KGM5pyf5LiA5b6L5ouS57ud44CCCiAgLy8gICAg6L+Z5piv5ZSv5LiA5oyh5L2PIue7lei/h+ahpeaOpeebtOi/niBPbmVCb3QgSFRUUCLnmoTkuJzopb/vvIjop4EgUVNIX1BMQU4ubWQgwqcwLjEvwqc1LjLvvInvvIwKICAvLyAgICDmiYDku6Xlv4XpobvlnKjmr4/mrKHlm57lvZLph4zot5HvvIzogIzkuI3mmK/kuIDmrKHmgKfpqozmlLbjgIIKICAndGVzdC1wcmVzZXQtbG9jYWwtdG9vbHMubWpzJywKICAvLyBxcS1tb2RlLWNvbnNvbGUg55qEIHNldHRpbmdzIOWlkee6pu+8mjAuMi4wIOWIoOmZpOS6hiBjdHguc2V0dGluZ3MucmVnaXN0ZXIoKe+8jAogIC8vIOWRveWQjeepuumXtOaUueS4uueUsSBsb2FkZXIgZW50cnkgaWQgKyDlr7zlh7rnmoQgQ29uZmlnIOaOqOWvvOOAguaWreiogOS4ieeCueWJjeaPkOmDveWcqO+8jAogIC8vIOW5tuS4lOmCo+adoeW3suWIoOmZpOeahCBBUEkg5LiN5Lya6KKr54Wn5pen5rOo6YeK5Yqg5Zue5p2l44CCCiAgJ3Rlc3QtcXEtbW9kZS1wbHVnaW4ubWpzJywKICAvLyBTbm93THVtYSDkuIrmuLjlgaXlurfvvIjooqvor6/or4rmiJDjgIxxcS1icmlkZ2Ug5rOo5YWl5aSx6LSl44CN55qE6YKj5Liq5aSx6LSl5b2i5oCB77yJ77yaCiAgLy8gICDCtyBnb29kIOW/hemhu+WPluiHquW/g+i3syBzdGF0dXMuZ29vZCAvIGdldF9zdGF0dXMg4oCU4oCUIOWPluiHqiBnZXRfbG9naW5faW5mbyDkvJoqKumdmem7mOWkseaViCoqCiAgLy8gICAgIO+8iFNESyDkuI3moKHpqowgZGF0YSDovb3ojbfvvIxnb29kIOS8muawuOi/nOWBnOWcqCBudWxs77yM5pW05p2h5p2D5aiB5L+h5Y+35Y+Y5oiQ5q275YiG5pSv77yJ77ybCiAgLy8gICDCtyDpnZnpu5jmo4DmtYvkuI3lvpflhpLlhYUgaG9vayDmo4DmtYvvvIjlv4Pot7PmmK8gU25vd0x1bWEg5pys5Zyw5a6a5pe25Zmo5peg5p2h5Lu25Y+R55qE77yJ77ybCiAgLy8gICDCtyDlrqLmiLfnq6/lupPniYjmnKzkuI3lvpfkvY7kuo4gYm90X3N0YXR1cyDlh7rnjrDnmoTniYjmnKzjgIIKICAndGVzdC1zbm93bHVtYS11cHN0cmVhbS1oZWFsdGgubWpzJywKXTsKbGV0IGZhaWxlZCA9IDA7CmZvciAoY29uc3QgdGVzdCBvZiB0ZXN0cykgewogIGNvbnNvbGUubG9nKGBcblJ1bm5pbmcgJHt0ZXN0fWApOwogIGNvbnN0IHJlc3VsdCA9IHNwYXduU3luYyhwcm9jZXNzLmV4ZWNQYXRoLCBbcGF0aC5qb2luKHJvb3QsICdzY3JpcHRzJywgdGVzdCldLCB7CiAgICBjd2Q6IHJvb3QsIHN0ZGlvOiAnaW5oZXJpdCcsIHRpbWVvdXQ6IDYwMDAwLAogICAgZW52OiB7IC4uLnByb2Nlc3MuZW52LCBRUV9CUklER0VfVEVTVF9MSVZFOiAnMCcgfSwKICB9KTsKICBpZiAocmVzdWx0LnN0YXR1cyAhPT0gMCB8fCByZXN1bHQuZXJyb3IpIHsKICAgIGZhaWxlZCsrOwogICAgY29uc29sZS5lcnJvcihgRkFJTEVEICR7dGVzdH06ICR7cmVzdWx0LmVycm9yPy5tZXNzYWdlIHx8IGBleGl0ICR7cmVzdWx0LnN0YXR1c31gfWApOwogIH0KfQpjb25zb2xlLmxvZyhgXG5BdWRpdCBzdWl0ZTogJHt0ZXN0cy5sZW5ndGggLSBmYWlsZWR9LyR7dGVzdHMubGVuZ3RofSBzY3JpcHRzIHBhc3NlZC5gKTsKcHJvY2Vzcy5leGl0Q29kZSA9IGZhaWxlZCA/IDEgOiAwOwo=
+// Safe audit suite: fixtures and mocks only, never production QQ/DSH.
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { spawnSync } from 'node:child_process';
+
+const root = fileURLToPath(new URL('..', import.meta.url));
+const tests = [
+  'test-audit-bridge.mjs', 'test-audit-protocol.mjs', 'test-audit-protocol-helpers.mjs',
+  'test-audit-security.mjs', 'test-audit-security-mcp.mjs',
+  'test-audit-setup.mjs', 'test-audit-setup-guards.mjs',
+  // DSH 会话队列（inbox 投影）解析：0.2.0 把队列从 control baseline 的
+  // `value.queues[<id>]` 挪进了 `value.projections[<id>].values.inbox`。
+  // 认错形状的后果不是"少清几条"，而是**每一次退役会话都抛错**、旧任务继续跑，
+  // 且只留下一行日志 —— 必须有登记期断言钉住（活 DSH 侧的实测见
+  // scripts/test-dsh-session-retire.mjs）。
+  'test-dsh-inbox-projection.mjs',
+  'test-md-to-plain.mjs', 'test-slang-learn.mjs', 'test-mux-reconnect.mjs',
+  'test-token-economy.mjs', 'test-qq-model-view.mjs', 'test-qq-preset-contract.mjs',
+  'test-reply-wait.mjs', 'test-preset-prompt.mjs', 'test-role-card.mjs',
+  // 体检修复回归：无令牌智能体调用面、send-burst 失败回滚、唤醒限频重试、
+  // 定时器类暂存唤醒补发、collector 生命周期、ownerQQ 覆盖语义、预设名校验、
+  // wake triggers 白名单、memory-update 边界、wait 租约归一化、md/黑话/表情/账本；
+  // 本轮新增：/api/send/* 失败路径的作用域错误（R15）、reserved2 落库丢表情识别字段（R16）。
+  'test-audit-regressions.mjs',
+  // 图片/表情链路（动图/表情包字段、CDN 优先与 emoji_id 兜底）+ 联网搜索
+  // （DSH 同一路 DeepSeek 搜索、Bing RSS 兜底、凭据优先级与端点安全；
+  //  本轮新增：空结果 note 必须在写缓存之前生成，否则缓存命中丢掉提示）。
+  'test-media-search.mjs',
+  // GitHub issue 回归：#22 模式 user 层优先 / #11/#19 回合判忙租约 / #29 机器人身份注入。
+  'test-issue-regressions.mjs',
+  // 二代「会话初始提示词」：只在首次唤醒注入、管理面隔离、损坏文件只读降级、
+  // 以及控制台「立即唤醒」不得顶掉首次 bootstrap（否则初始提示词永远发不出去）。
+  'test-v2-initial-prompt.mjs',
+  // 令牌账本 / 价目表 与 体检修复回归（纯函数，无外部依赖）
+  'test-token-usage.mjs', 'test-hardening.mjs',
+  // 语音发送（纯函数 + 端点存在性；真发语音只在 --live 或 CLI 里做）
+  'test-voice.mjs',
+  // 音量：参数校验 + 真的调用 ffmpeg 调音量 + 自算 RMS 验证增益
+  'test-voice-volume.mjs',
+  // 边界：并发/异常输入/上传限额/越权（纯函数段 + 可选的 live 段）
+  'test-voice-edge.mjs',
+  // 语音图形界面（参数解析/鉴权/路径穿越/文件名净化；live 段需普通终端）
+  'test-voice-gui.mjs',
+  // 控制台静态契约（跑不了 Playwright 的环境下的替代回归）
+  'test-console-static.mjs',
+  // 语音系统整体结构检查（入口/依赖/端点/开关/文档一致性）
+  'test-voice-system.mjs',
+  // SnowLuma 账号/token 自发现（换 QQ 账号后 token 会变，写死的工具会 401）
+  'test-snowluma-conn.mjs',
+  // 启动器与编码（乱码根因：.cmd 里的非 ASCII 会被 cmd 按 ANSI 解码）
+  'test-encoding.mjs',
+  // 控制台乱码机制（UTF-8 字节被按 GBK 解码）+ chcp 修复
+  'test-console-encoding.mjs',
+  // 🔴 铁律 L7（仿真会话不得拥有本地执行能力）：注册期断言——
+  //    preset 挂了守卫、守卫的 restrict 名单覆盖全部已知本地工具、且执行期一律拒绝。
+  //    这是唯一挡住"绕过桥接直连 OneBot HTTP"的东西（见 QSH_PLAN.md §0.1/§5.2），
+  //    所以必须在每次回归里跑，而不是一次性验收。
+  'test-preset-local-tools.mjs',
+  // qq-mode-console 的 settings 契约：0.2.0 删除了 ctx.settings.register()，
+  // 命名空间改为由 loader entry id + 导出的 Config 推导。断言三点前提都在，
+  // 并且那条已删除的 API 不会被照旧注释加回来。
+  'test-qq-mode-plugin.mjs',
+  // SnowLuma 上游健康（被误诊成「qq-bridge 注入失败」的那个失败形态）：
+  //   · good 必须取自心跳 status.good / get_status —— 取自 get_login_info 会**静默失效**
+  //     （SDK 不校验 data 载荷，good 会永远停在 null，整条权威信号变成死分支）；
+  //   · 静默检测不得冒充 hook 检测（心跳是 SnowLuma 本地定时器无条件发的）；
+  //   · 客户端库版本不得低于 bot_status 出现的版本。
+  'test-snowluma-upstream-health.mjs',
+];
+let failed = 0;
+for (const test of tests) {
+  console.log(`\nRunning ${test}`);
+  const result = spawnSync(process.execPath, [path.join(root, 'scripts', test)], {
+    cwd: root, stdio: 'inherit', timeout: 60000,
+    env: { ...process.env, QQ_BRIDGE_TEST_LIVE: '0' },
+  });
+  if (result.status !== 0 || result.error) {
+    failed++;
+    console.error(`FAILED ${test}: ${result.error?.message || `exit ${result.status}`}`);
+  }
+}
+console.log(`\nAudit suite: ${tests.length - failed}/${tests.length} scripts passed.`);
+process.exitCode = failed ? 1 : 0;

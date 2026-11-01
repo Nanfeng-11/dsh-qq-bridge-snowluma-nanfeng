@@ -1,1 +1,450 @@
-Ly8g5aqS5L2T5b2S5LiA5YyW77ya5oqK44CMUVEg57uZ5oiR5Lus55qE5Y6f5aeL5Zu+54mH44CN5Y6L5oiQ44CMRFNIIOS4juaooeWei+ecn+iDveWQg+S4i+eahOW9oueKtuOAjeOAggovLwovLyDilIDilIAg5Li65LuA5LmI6ZyA6KaB6L+Z5LiA5bGC77yIMjAyNi0xMC0xOCDlrqHorqHnu5PorrrvvIzop4EgZG9jcy9hdWRpdHMvQVVESVRfMjAyNi0xMC0xOF9NRURJQV9BTkRfV0FURVJNQVJLLm1k77yJCi8vCi8vIOKRoCDkvZPnp6/mgqzltJbvvJpEU0gg55qEIE1DUCDlm77niYflhaXlj6PkvJrnlKjmraPliJnmoKHpqowgYmFzZTY0Ci8vICAgIO+8iGRzaC1tY3AtY2xpZW50IOeahCBDQU5PTklDQUxfQkFTRTY0ID0gL14oPzpbQS1aYS16MC05Ky9dezR9KSooPzrigKYpPyQv77yJ44CCCi8vICAgIOi/meadoeato+WImeWcqOmVv+i+k+WFpeS4iuS8muWOi+eIhiBWOCDnmoQgcmVnZXhwIOWbnua6r+agiO+8jOWunua1i++8mgovLyAgICAgICAgYmFzZTY0IOKJpSA0LDQ3NCw4ODAg5a2X56ym77yI5Y6f5aeL5a2X6IqCIOKJpSAzLjIwIE1pQu+8ieKGkiBSYW5nZUVycm9yOiBNYXhpbXVtIGNhbGwgc3RhY2sgc2l6ZSBleGNlZWRlZAovLyAgICDogIwgRFNIIOaKiui/meS4quW8guW4uOWOn+agt+mZjee6p+aIkCBgW2ltYWdlIHVuYXZhaWxhYmxlOiBpbWFnZS9naWY7IE1heGltdW0gY2FsbCBzdGFjayBzaXplIGV4Y2VlZGVkOyDigKZdYAovLyAgICDigJTigJQg5qih5Z6L5Y+q55yL5Yiw5LiA6KGM6ZSZ6K+v77yM5Zu+5LiA5Liq5a2X6IqC6YO95rKh6L+b5LiK5LiL5paH44CCCi8vICAgIOahpeaOpeS+p+eahOaKk+WPluS4iumZkO+8iHNvY2lhbFYyLm1lZGlhLm1heEJ5dGVz77yM6buY6K6kIDggTWlC77yJ6L+c5Zyo6L+Z5p2h57q/5LmL5LiK77yMCi8vICAgIOS6juaYr+OAjDMuMuKAkzggTWlCIOeahOWbvuOAjeWwseaIkOS6huOAjOahpeaOpeiupOS4uuWQiOazleOAgURTSCDlv4XnhLbmi5Lnu53jgI3nmoTmrbvljLrjgIIKLy8KLy8g4pGhIOWKqOWbvuWPmOWNleW4p++8mkRTSCDnmoQgY2FuUGFzc1Rocm91Z2hOb3JtYWxpemF0aW9uKCkg5pi+5byP5o6S6ZmkIGltYWdlL2dpZu+8jAovLyAgICDkuIDlvovkuqTnu5kgc2hhcnAg5b2S5LiA5YyW77yM6ICMIHNoYXJwIOm7mOiupOWPquinoyBwYWdlIDAg4oCU4oCUIOS4gOW8oCA0OCDluKfjgIE0LjggTUIg55qE5Yqo5Zu+77yMCi8vICAgIOaooeWei+acgOe7iOWPqueci+WIsOOAjOesrCAxIOW4p+WOi+aIkOeahCAxMiBLQiDpnZnmgIEgSlBFR+OAje+8jOiAjOS4lOS4iuS4i+aWh+mHjOayoeacieS7u+S9leOAjOi/meaYr+WKqOWbvuOAjeeahOaPkOekuuOAggovLyAgICDmqKHlnovkuo7mmK/lj6rog73nno7njJzvvIjlrp7mtYvkvJror53ph4zlroPov57nnYDkuKTmrKHnu5nlh7rnmoTop6Pph4rpg73mmK/plJnnmoTvvInjgIIKLy8KLy8g4pSA4pSAIOacrOaooeWdl+eahOWPluiIjQovLwovLyDCtyAqKuWPquWKqOWWgue7meaooeWei+eahOmCo+S4gOS7vSoq44CC5pS26ZuG6KGo5oOF77yIYWRkX2N1c3RvbV9mYWNl77yJ5b+F6aG755So5Y6f5aeL5a2X6IqC77yMCi8vICAg5omA5Lul5b2S5LiA5YyW5Y+q5o6l5ZyoIGZldGNoTWVkaWFEYXRhIC8gcmVzb2x2ZU1lZGlhTGlzdCAvIHN0aWNrZXItaW1hZ2Ug6L+Z5Lqb44CM57uZ5qih5Z6L55yL44CN55qE5Ye65Y+j77yMCi8vICAg5LiN5Y675pS5IGZldGNoT25lQm90SW1hZ2UgLyBmZXRjaEZhY2VNZWRpYSDnmoTov5Tlm57lgLzjgIIKLy8gwrcgKirliqjlm77mir3luKfmi7zlm74qKuiAjOS4jeaYr+WPkeWkmuW8oOWbvu+8muS4gOadoea2iOaBryA1IOW8oOWbviA9IDUg5qyhIERTSCBhZG1pc3Npb24gKyA1IOS7vSB0b2tlbu+8jAovLyAgIOiAjCAzw5cyIOaLvOWbvuS/oeaBr+WvhuW6puabtOmrmOOAgeWPqueul+S4gOW8oOWbvu+8iOWunua1iyA0LjgzIE1CIC8gMjAwIOW4pyDihpIgOTIgS0IgLyAyNjkgbXPvvInjgIIKLy8gwrcgKirog73kuI3liqjlsLHkuI3liqgqKu+8muWwj+Wbvu+8iOKJpCBtYXhNb2RlbEJ5dGVzIOS4lOmVv+i+ueWkn+Wwj++8ieWOn+agt+aUvuihjO+8jOmbtuW7tui/n+OAggovLyDCtyAqKmZmbXBlZyDnvLrlpLHkuZ/kuI3noazloZ4qKu+8mui2hee6v+WPiOWOi+S4jeWKqOeahO+8jOWugeWPr+WbnuS4gOWPpeOAjOWkquWkp++8jOeci+S4jeS6huOAje+8jOS5n+S4jeWPkeazqOWumuiiqyBEU0gg5Lii5o6JCi8vICAg55qE5a2X6IqC77yI6YKj5qC35qih5Z6L5Y+q5Lya55yL5Yiw5LiA6KGM55yL5LiN5oeC55qE6ZSZ6K+v77yJ44CCCi8vCi8vIOS+nei1lu+8muWPqueUqCBub2RlIOWGhee9riArIHZvaWNlLWNvcmUg55qEIHJlc29sdmVGZm1wZWfvvIhmZm1wZWcg5a6a5L2N55qE5ZSv5LiA5a6e546w77yJ44CCCi8vIOWtkOi/m+eoi+S4gOW+iyBgc3RkaW86ICdpZ25vcmUnYCArIOWGmeaWh+S7tu+8muWPl+mZkOaymeeusemHjCBwaXBlIOS8miBFUEVSTe+8iOingSB2b2ljZS1jb3JlLmpzIOW8gOWktOeahOivtOaYju+8ieOAggoKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgb3MgZnJvbSAnbm9kZTpvcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IHNwYXduIH0gZnJvbSAnbm9kZTpjaGlsZF9wcm9jZXNzJzsKaW1wb3J0IHsgcmVzb2x2ZUZmbXBlZyB9IGZyb20gJy4vdm9pY2UtY29yZS5qcyc7CgovKiog6buY6K6k5YC86ZuG5Lit5LiA5aSE77yMYnJpZGdlLmpzIOWPquWBmiBjb25maWcg6KaG55uW77yI6KeBIG1vZGVsTWVkaWFMaW1pdHPvvInjgIIgKi8KZXhwb3J0IGNvbnN0IE1FRElBX0RFRkFVTFRTID0gT2JqZWN0LmZyZWV6ZSh7CiAgLy8g5Lqk57uZIERTSCDnmoTljZXlvKDlm77niYfljp/lp4vlrZfoioLkuIrpmZDjgIJEU0gg55qE54K45qCI57q/5pivIOKJiDMuMjAgTWlC77yMCiAgLy8g6L+Z6YeM5Y+WIDEgTWlC77ya55WZIDMg5YCN5L2Z6YeP77yM6aG65bim5oqKIHRva2VuIOaIkOacrOWOi+S4gOS4quaVsOmHj+e6p++8iDEgTWlCIOWbviDiiYggMS4zMyBNQiBiYXNlNjTvvInjgIIKICBtYXhNb2RlbEJ5dGVzOiAxMDI0ICogMTAyNCwKICAvLyDplb/ovrnkuIrpmZDvvJrmiYvmnLrnm7Tlh7ogNDAwMMOXMzAwMCDnvKnliLAgMTI4MCDlkI7nuqYgMTUw4oCTMjUwIEtC77yM6IKJ55y85o+P6L+w5a6M5YWo5aSf55So44CCCiAgbWF4TG9uZ0VkZ2U6IDEyODAsCiAgLy8g5Yqo5Zu+5oq95Yeg5bin77yaNiDluKfmraPlpb0gM8OXMu+8jOi2hei/hyA5IOW4p+aLvOWbvuS8muWwj+WIsOeci+S4jea4heWNleW4p+OAggogIGdpZkZyYW1lczogNiwKICAvLyDmr4/kuIDmoLznmoTnm67moIflrr3luqbvvIhweO+8ie+8mjI0MCDkuIDmoLzvvIwzw5cyIOaLvOWbvue6piA3MzbDlzQ5Mu+8jOWunua1iyA5MiBLQuOAggogIGdpZlRpbGU6IDI0MCwKICAvLyDljZXlvKAgZmZtcGVnIOiwg+eUqOeahOehrOi2heaXtuOAguWunua1iyAyMDAg5binIEdJRiDmi7zlm74gMjY5IG1z44CBNEsg6YeN57yW56CBIDwgMSBz77yMMjUgcyDmmK/lhZzlupXjgIIKICB0aW1lb3V0TXM6IDI1MDAwCn0pOwoKLyoqIOehrOS4iumZkO+8muS4jeeuoSBjb25maWcg5oCO5LmI5YaZ77yM6YO95LiN5YWB6K646LaF6L+HIERTSCDnmoTlrp7mtYvngrjmoIjnur/kuIvmsr/jgIIgKi8KY29uc3QgSEFSRF9NQVhfTU9ERUxfQllURVMgPSBNYXRoLmZsb29yKDMuMCAqIDEwMjQgKiAxMDI0KTsKCi8vIOKUgOKUgCDmoLzlvI/mjqLmtYvvvIjnuq/lh73mlbDvvIzlj6/ljZXmtYvvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgpjb25zdCBjbGFtcEludCA9ICh2YWx1ZSwgbWluLCBtYXgsIGZhbGxiYWNrKSA9PiB7CiAgY29uc3QgbiA9IE51bWJlcih2YWx1ZSk7CiAgaWYgKCFOdW1iZXIuaXNGaW5pdGUobikpIHJldHVybiBmYWxsYmFjazsKICByZXR1cm4gTWF0aC5taW4obWF4LCBNYXRoLm1heChtaW4sIE1hdGgucm91bmQobikpKTsKfTsKCi8qKiBHSUYg5a2Q5Z2X6ZO+6Lez6L+H77ya5q+P5Liq5a2Q5Z2X6aaW5a2X6IqC5piv6ZW/5bqm77yMMCDnu5PmnZ/jgILov5Tlm57mlrDmuLjmoIfvvIjotornlYzov5Tlm54gLTHvvInjgIIgKi8KZnVuY3Rpb24gc2tpcEdpZlN1YkJsb2NrcyhidWYsIHBvcykgewogIGxldCBwID0gcG9zOwogIGxldCBndWFyZCA9IDA7CiAgd2hpbGUgKHAgPCBidWYubGVuZ3RoKSB7CiAgICBjb25zdCBzaXplID0gYnVmW3BdOwogICAgcCArPSAxOwogICAgaWYgKHNpemUgPT09IDApIHJldHVybiBwOwogICAgcCArPSBzaXplOwogICAgaWYgKCsrZ3VhcmQgPiAxXzAwMF8wMDApIHJldHVybiAtMTsKICB9CiAgcmV0dXJuIC0xOwp9CgovKioKICog6Kej5p6QIEdJRiDnmoTluKfmlbDkuI7mgLvml7bplb/vvIjku6Xlj4rmmK/lkKbmnInpgI/mmI7luKfvvInjgIIKICoKICog5Li65LuA5LmI5LiN55u05o6l6ZeuIGZmcHJvYmXvvJphKSBmZm1wZWcg5Y+v6IO95rKh6KOF77yM6ICM44CM6L+Z5piv5Yqo5Zu+77yMTiDluKfjgI3ov5nlj6Xor53lsLHnrpfmsqEgZmZtcGVnCiAqIOS5n+imgeiDveWRiuivieaooeWei++8m2IpIOavj+asoeeci+WbvumDvSBzcGF3biDkuIDmrKEgZmZwcm9iZSDmmK/nmb3oirHnmoTml7bpl7TvvIjov5nph4znuq/lhoXlrZjop6PmnpDvvInjgIIKICogR0lGIOeahOWdl+e7k+aehOW+iOWunuWcqO+8mjB4MkMgPSDlm77lg4/mj4/ov7DnrKbvvIjkuIDluKfvvInvvIwweDIxIDB4RjkgPSDlm77lvaLmjqfliLbmianlsZXvvIjluKYgZGVsYXnvvInjgIIKICovCmZ1bmN0aW9uIHBhcnNlR2lmKGJ1ZikgewogIGlmIChidWYubGVuZ3RoIDwgMTMpIHJldHVybiBudWxsOwogIGNvbnN0IHdpZHRoID0gYnVmLnJlYWRVSW50MTZMRSg2KTsKICBjb25zdCBoZWlnaHQgPSBidWYucmVhZFVJbnQxNkxFKDgpOwogIGNvbnN0IHBhY2tlZCA9IGJ1ZlsxMF07CiAgbGV0IHBvcyA9IDEzOwogIGlmIChwYWNrZWQgJiAweDgwKSBwb3MgKz0gMyAqICgyIDw8IChwYWNrZWQgJiAweDA3KSk7IC8vIOWFqOWxgOminOiJsuihqAogIGxldCBmcmFtZXMgPSAwOwogIGxldCBkdXJhdGlvbkNzID0gMDsKICBsZXQgYWxwaGEgPSBmYWxzZTsKICBsZXQgZGVsYXlDcyA9IDA7CiAgbGV0IGd1YXJkID0gMDsKICB3aGlsZSAocG9zID49IDAgJiYgcG9zIDwgYnVmLmxlbmd0aCkgewogICAgaWYgKCsrZ3VhcmQgPiA1XzAwMF8wMDApIGJyZWFrOwogICAgY29uc3QgYmxvY2sgPSBidWZbcG9zXTsKICAgIHBvcyArPSAxOwogICAgaWYgKGJsb2NrID09PSAweDNiKSBicmVhazsgLy8gdHJhaWxlcgogICAgaWYgKGJsb2NrID09PSAweDIxKSB7CiAgICAgIGlmIChwb3MgPj0gYnVmLmxlbmd0aCkgYnJlYWs7CiAgICAgIGNvbnN0IGxhYmVsID0gYnVmW3Bvc107CiAgICAgIHBvcyArPSAxOwogICAgICBpZiAobGFiZWwgPT09IDB4ZjkgJiYgcG9zICsgNCA8PSBidWYubGVuZ3RoKSB7CiAgICAgICAgLy8g5Z2X6ZW/KDEpIOaJk+WMheS9jSgxKSBkZWxheSgyKSDpgI/mmI7oibLntKLlvJUoMSkg57uI57uT56ymKDEpCiAgICAgICAgY29uc3Qgc2l6ZSA9IGJ1Zltwb3NdOwogICAgICAgIGlmIChzaXplID49IDQgJiYgcG9zICsgNCA8IGJ1Zi5sZW5ndGgpIHsKICAgICAgICAgIGNvbnN0IGdjZVBhY2tlZCA9IGJ1Zltwb3MgKyAxXTsKICAgICAgICAgIGRlbGF5Q3MgPSBidWYucmVhZFVJbnQxNkxFKHBvcyArIDIpOwogICAgICAgICAgaWYgKGdjZVBhY2tlZCAmIDB4MDEpIGFscGhhID0gdHJ1ZTsKICAgICAgICB9CiAgICAgIH0KICAgICAgcG9zID0gc2tpcEdpZlN1YkJsb2NrcyhidWYsIHBvcyk7CiAgICAgIGNvbnRpbnVlOwogICAgfQogICAgaWYgKGJsb2NrID09PSAweDJjKSB7CiAgICAgIGlmIChwb3MgKyA5ID4gYnVmLmxlbmd0aCkgYnJlYWs7CiAgICAgIGNvbnN0IGRlc2NQYWNrZWQgPSBidWZbcG9zICsgOF07CiAgICAgIHBvcyArPSA5OwogICAgICBpZiAoZGVzY1BhY2tlZCAmIDB4ODApIHBvcyArPSAzICogKDIgPDwgKGRlc2NQYWNrZWQgJiAweDA3KSk7IC8vIOWxgOmDqOminOiJsuihqAogICAgICBwb3MgKz0gMTsgLy8gTFpXIOacgOWwj+eggemVvwogICAgICBwb3MgPSBza2lwR2lmU3ViQmxvY2tzKGJ1ZiwgcG9zKTsKICAgICAgZnJhbWVzICs9IDE7CiAgICAgIGR1cmF0aW9uQ3MgKz0gZGVsYXlDcyB8fCAwOwogICAgICBkZWxheUNzID0gMDsKICAgICAgY29udGludWU7CiAgICB9CiAgICBicmVhazsgLy8g6Kej5p6Q5LiN5LqG5bCx5Yir56Gs54ycCiAgfQogIHJldHVybiB7CiAgICB3aWR0aCwKICAgIGhlaWdodCwKICAgIGZyYW1lczogTWF0aC5tYXgoMSwgZnJhbWVzKSwKICAgIGR1cmF0aW9uTXM6IGR1cmF0aW9uQ3MgPiAwID8gZHVyYXRpb25DcyAqIDEwIDogMCwKICAgIGFscGhhCiAgfTsKfQoKLyoqIFdlYlDvvJrop6PmnpDlsLrlr7jvvIzlubbor4bliKvliqjlm77vvIhBTklNIOWdlyAvIEFOTUYg5bin5Z2X77yJ44CCICovCmZ1bmN0aW9uIHBhcnNlV2VicChidWYpIHsKICBpZiAoYnVmLmxlbmd0aCA8IDMwKSByZXR1cm4gbnVsbDsKICBjb25zdCBmb3VyY2MgPSBidWYudG9TdHJpbmcoJ2FzY2lpJywgMTIsIDE2KTsKICBsZXQgd2lkdGggPSAwOwogIGxldCBoZWlnaHQgPSAwOwogIGlmIChmb3VyY2MgPT09ICdWUDhYJykgewogICAgd2lkdGggPSAxICsgYnVmWzI0XSArIChidWZbMjVdIDw8IDgpICsgKGJ1ZlsyNl0gPDwgMTYpOwogICAgaGVpZ2h0ID0gMSArIGJ1ZlsyN10gKyAoYnVmWzI4XSA8PCA4KSArIChidWZbMjldIDw8IDE2KTsKICB9IGVsc2UgaWYgKGZvdXJjYyA9PT0gJ1ZQOEwnKSB7CiAgICBjb25zdCBiID0gW2J1ZlsyMV0sIGJ1ZlsyMl0sIGJ1ZlsyM10sIGJ1ZlsyNF1dOwogICAgd2lkdGggPSAxICsgKCgoYlsxXSAmIDB4M2YpIDw8IDgpIHwgYlswXSk7CiAgICBoZWlnaHQgPSAxICsgKCgoYlszXSAmIDB4MGYpIDw8IDEwKSB8IChiWzJdIDw8IDIpIHwgKChiWzFdICYgMHhjMCkgPj4gNikpOwogIH0gZWxzZSBpZiAoZm91cmNjID09PSAnVlA4ICcpIHsKICAgIHdpZHRoID0gYnVmLnJlYWRVSW50MTZMRSgyNikgJiAweDNmZmY7CiAgICBoZWlnaHQgPSBidWYucmVhZFVJbnQxNkxFKDI4KSAmIDB4M2ZmZjsKICB9IGVsc2UgewogICAgcmV0dXJuIG51bGw7CiAgfQogIC8vIOWKqOWbvu+8mlJJRkYg6YeM5Ye6546wIEFOSU3vvIjliqjnlLvlpLTvvInkuI7oi6XlubLkuKogQU5NRu+8iOW4p++8ieOAguWPquaVsOWdl+WktO+8jOS4jeino+aekOi0n+i9veOAggogIGxldCBmcmFtZXMgPSAwOwogIGxldCBwb3MgPSAxMjsKICBsZXQgZ3VhcmQgPSAwOwogIHdoaWxlIChwb3MgKyA4IDw9IGJ1Zi5sZW5ndGggJiYgKytndWFyZCA8IDFfMDAwXzAwMCkgewogICAgY29uc3QgaWQgPSBidWYudG9TdHJpbmcoJ2FzY2lpJywgcG9zLCBwb3MgKyA0KTsKICAgIGNvbnN0IHNpemUgPSBidWYucmVhZFVJbnQzMkxFKHBvcyArIDQpOwogICAgaWYgKGlkID09PSAnQU5NRicpIGZyYW1lcyArPSAxOwogICAgcG9zICs9IDggKyBzaXplICsgKHNpemUgJiAxKTsKICB9CiAgY29uc3QgYWxwaGEgPSBmb3VyY2MgPT09ICdWUDhYJyA/IChidWZbMjBdICYgMHgxMCkgIT09IDAgOiB0cnVlOwogIHJldHVybiB7IHdpZHRoLCBoZWlnaHQsIGZyYW1lczogTWF0aC5tYXgoMSwgZnJhbWVzKSwgZHVyYXRpb25NczogMCwgYWxwaGEgfTsKfQoKZnVuY3Rpb24gcGFyc2VQbmcoYnVmKSB7CiAgaWYgKGJ1Zi5sZW5ndGggPCAyNikgcmV0dXJuIG51bGw7CiAgY29uc3QgY29sb3JUeXBlID0gYnVmWzI1XTsKICByZXR1cm4gewogICAgd2lkdGg6IGJ1Zi5yZWFkVUludDMyQkUoMTYpLAogICAgaGVpZ2h0OiBidWYucmVhZFVJbnQzMkJFKDIwKSwKICAgIGZyYW1lczogMSwKICAgIGR1cmF0aW9uTXM6IDAsCiAgICBhbHBoYTogY29sb3JUeXBlID09PSA0IHx8IGNvbG9yVHlwZSA9PT0gNgogIH07Cn0KCmZ1bmN0aW9uIHBhcnNlSnBlZyhidWYpIHsKICBsZXQgb2Zmc2V0ID0gMjsKICB3aGlsZSAob2Zmc2V0ICsgOSA8IGJ1Zi5sZW5ndGgpIHsKICAgIGlmIChidWZbb2Zmc2V0XSAhPT0gMHhmZikgeyBvZmZzZXQgKz0gMTsgY29udGludWU7IH0KICAgIGNvbnN0IG1hcmtlciA9IGJ1ZltvZmZzZXQgKyAxXTsKICAgIGlmIChtYXJrZXIgPT09IDB4ZDggfHwgbWFya2VyID09PSAweGQ5IHx8IChtYXJrZXIgPj0gMHhkMCAmJiBtYXJrZXIgPD0gMHhkNykpIHsgb2Zmc2V0ICs9IDI7IGNvbnRpbnVlOyB9CiAgICBjb25zdCBsZW4gPSBidWYucmVhZFVJbnQxNkJFKG9mZnNldCArIDIpOwogICAgaWYgKGxlbiA8IDIpIHJldHVybiBudWxsOwogICAgLy8gU09GMOKAk1NPRjE177yI5o6S6ZmkIERIVCBDNCAvIEpQRyBDOCAvIERBQyBDQ++8iQogICAgaWYgKG1hcmtlciA+PSAweGMwICYmIG1hcmtlciA8PSAweGNmICYmICFbMHhjNCwgMHhjOCwgMHhjY10uaW5jbHVkZXMobWFya2VyKSkgewogICAgICByZXR1cm4geyB3aWR0aDogYnVmLnJlYWRVSW50MTZCRShvZmZzZXQgKyA3KSwgaGVpZ2h0OiBidWYucmVhZFVJbnQxNkJFKG9mZnNldCArIDUpLCBmcmFtZXM6IDEsIGR1cmF0aW9uTXM6IDAsIGFscGhhOiBmYWxzZSB9OwogICAgfQogICAgb2Zmc2V0ICs9IDIgKyBsZW47CiAgfQogIHJldHVybiBudWxsOwp9CgovKioKICog5LuO5a2X6IqC6YeM6K6k5Ye65qC85byPL+WwuuWvuC/luKfmlbDjgIIKICoKICogQHJldHVybnMgbnVsbO+8iOiupOS4jeWHuu+8ieaIlgogKiAgIHsgZm9ybWF0OidnaWYnfCdwbmcnfCdqcGVnJ3wnd2VicCcsIHdpZHRoLCBoZWlnaHQsIGZyYW1lcywgZHVyYXRpb25NcywgYW5pbWF0ZWQsIGFscGhhIH0KICovCmV4cG9ydCBmdW5jdGlvbiBzbmlmZkltYWdlKGJ1ZikgewogIGlmICghQnVmZmVyLmlzQnVmZmVyKGJ1ZikgfHwgYnVmLmxlbmd0aCA8IDEyKSByZXR1cm4gbnVsbDsKICBsZXQgZm9ybWF0ID0gbnVsbDsKICBsZXQgcGFyc2VkID0gbnVsbDsKICBpZiAoYnVmWzBdID09PSAweDg5ICYmIGJ1ZlsxXSA9PT0gMHg1MCAmJiBidWZbMl0gPT09IDB4NGUgJiYgYnVmWzNdID09PSAweDQ3KSB7CiAgICBmb3JtYXQgPSAncG5nJzsgcGFyc2VkID0gcGFyc2VQbmcoYnVmKTsKICB9IGVsc2UgaWYgKGJ1ZlswXSA9PT0gMHhmZiAmJiBidWZbMV0gPT09IDB4ZDggJiYgYnVmWzJdID09PSAweGZmKSB7CiAgICBmb3JtYXQgPSAnanBlZyc7IHBhcnNlZCA9IHBhcnNlSnBlZyhidWYpOwogIH0gZWxzZSBpZiAoYnVmLnRvU3RyaW5nKCdhc2NpaScsIDAsIDYpID09PSAnR0lGODdhJyB8fCBidWYudG9TdHJpbmcoJ2FzY2lpJywgMCwgNikgPT09ICdHSUY4OWEnKSB7CiAgICBmb3JtYXQgPSAnZ2lmJzsgcGFyc2VkID0gcGFyc2VHaWYoYnVmKTsKICB9IGVsc2UgaWYgKGJ1Zi50b1N0cmluZygnYXNjaWknLCAwLCA0KSA9PT0gJ1JJRkYnICYmIGJ1Zi50b1N0cmluZygnYXNjaWknLCA4LCAxMikgPT09ICdXRUJQJykgewogICAgZm9ybWF0ID0gJ3dlYnAnOyBwYXJzZWQgPSBwYXJzZVdlYnAoYnVmKTsKICB9CiAgaWYgKCFwYXJzZWQgfHwgIXBhcnNlZC53aWR0aCB8fCAhcGFyc2VkLmhlaWdodCkgcmV0dXJuIG51bGw7CiAgcmV0dXJuIHsKICAgIGZvcm1hdCwKICAgIHdpZHRoOiBwYXJzZWQud2lkdGgsCiAgICBoZWlnaHQ6IHBhcnNlZC5oZWlnaHQsCiAgICBmcmFtZXM6IE1hdGgubWF4KDEsIHBhcnNlZC5mcmFtZXMgfHwgMSksCiAgICBkdXJhdGlvbk1zOiBwYXJzZWQuZHVyYXRpb25NcyB8fCAwLAogICAgYW5pbWF0ZWQ6IChwYXJzZWQuZnJhbWVzIHx8IDEpID4gMSwKICAgIGFscGhhOiAhIXBhcnNlZC5hbHBoYQogIH07Cn0KCi8vIOKUgOKUgCDlhrPnrZbvvIjnuq/lh73mlbDvvIzlj6/ljZXmtYvvvIkg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgovKioKICog6KaB5LiN6KaB5Yqo6L+Z5byg5Zu+77yf6L+U5ZueIG51bGwgPSDljp/moLfmlL7ooYzjgIIKICoKICogQHBhcmFtIGluZm8gc25pZmZJbWFnZSgpIOeahOe7k+aenO+8iG51bGwg6KGo56S66K6k5LiN5Ye6IOKGkiDkuIDlvovmlL7ooYzvvIzkuqTnu5nkuIvmuLjvvIkKICogQHBhcmFtIGJ5dGVzIOWOn+Wni+Wtl+iKguaVsAogKiBAcGFyYW0gbGltaXRzIOW9kuS4gOWMluS4iumZkAogKi8KZXhwb3J0IGZ1bmN0aW9uIHBsYW5Ob3JtYWxpemF0aW9uKGluZm8sIGJ5dGVzLCBsaW1pdHMgPSB7fSkgewogIGNvbnN0IG1heEJ5dGVzID0gY2xhbXBJbnQobGltaXRzLm1heE1vZGVsQnl0ZXMsIDY0ICogMTAyNCwgSEFSRF9NQVhfTU9ERUxfQllURVMsIE1FRElBX0RFRkFVTFRTLm1heE1vZGVsQnl0ZXMpOwogIGNvbnN0IG1heExvbmdFZGdlID0gY2xhbXBJbnQobGltaXRzLm1heExvbmdFZGdlLCAyNTYsIDIwNDgsIE1FRElBX0RFRkFVTFRTLm1heExvbmdFZGdlKTsKICBpZiAoIWluZm8pIHsKICAgIC8vIOiupOS4jeWHuueahOagvOW8j++8muiDveaUvuWwseaUvu+8iOS4i+a4uCBtaW1lRnJvbUJ1ZmZlciDkvJrlhZzlupXvvInvvIzlpKrlpKflsLHmi5Lnu53igJTigJTnu53kuI3noazloZ7jgIIKICAgIHJldHVybiBieXRlcyA+IG1heEJ5dGVzID8geyBhY3Rpb246ICdyZWplY3QnLCByZWFzb246IGDmnKrnn6Xlm77niYfmoLzlvI/kuJQgJHtieXRlc30g5a2X6IqC6LaF6L+H5LiK6ZmQYCB9IDogbnVsbDsKICB9CiAgaWYgKGluZm8uYW5pbWF0ZWQpIHsKICAgIHJldHVybiB7IGFjdGlvbjogJ2FuaW1hdGUnLCBtYXhCeXRlcywgbWF4TG9uZ0VkZ2UgfTsKICB9CiAgY29uc3QgbG9uZ0VkZ2UgPSBNYXRoLm1heChpbmZvLndpZHRoLCBpbmZvLmhlaWdodCk7CiAgaWYgKGJ5dGVzIDw9IG1heEJ5dGVzICYmIGxvbmdFZGdlIDw9IG1heExvbmdFZGdlKSByZXR1cm4gbnVsbDsKICByZXR1cm4geyBhY3Rpb246ICdzaHJpbmsnLCBtYXhCeXRlcywgbWF4TG9uZ0VkZ2UsIGJ5dGVzLCBsb25nRWRnZSB9Owp9CgovKiog5Yqo5Zu+5ou85Zu+5biD5bGA77ya5bin5pWwIOKGkiB7IGNvbHMsIHJvd3MsIGZwcywgc2FtcGxlRnJhbWVzIH3jgILnuq/lh73mlbDjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIHBsYW5BbmltYXRpb24oaW5mbywgbGltaXRzID0ge30pIHsKICBjb25zdCB3YW50ZWQgPSBjbGFtcEludChsaW1pdHMuZ2lmRnJhbWVzLCAyLCAxMiwgTUVESUFfREVGQVVMVFMuZ2lmRnJhbWVzKTsKICBjb25zdCBmcmFtZXMgPSBNYXRoLm1heCgxLCBpbmZvPy5mcmFtZXMgfHwgMSk7CiAgLy8g5bin5q+U5oOz6KaB55qE5aSa5omN5pyJ5oSP5oCd5oq95bin77yb5bin5pys5p2l5bCx5bCR5bCx5YWo55So5LiK77yI5LiN6YeN5aSN5aGr5YWF5rKh5L+h5oGv6YeP55qE5qC85a2Q77yJ44CCCiAgY29uc3Qgc2FtcGxlID0gTWF0aC5taW4od2FudGVkLCBmcmFtZXMpOwogIC8vIOW4g+WxgOWBj+Wlve+8mjbihpIzw5cy44CBOeKGkjPDlzPjgIE44oaSNMOXMu+8iOmDveWhq+a7oe+8ie+8jOWFtuS9meaMieaOpei/keato+aWueW9oueul+OAggogIGNvbnN0IGxheW91dCA9IHsgMjogWzIsIDFdLCAzOiBbMywgMV0sIDQ6IFsyLCAyXSwgNTogWzMsIDJdLCA2OiBbMywgMl0sIDc6IFs0LCAyXSwgODogWzQsIDJdLCA5OiBbMywgM10sIDEwOiBbNSwgMl0sIDExOiBbNCwgM10sIDEyOiBbNCwgM10gfVtzYW1wbGVdCiAgICA/PyBbTWF0aC5jZWlsKE1hdGguc3FydChzYW1wbGUpKSwgTWF0aC5jZWlsKHNhbXBsZSAvIE1hdGguY2VpbChNYXRoLnNxcnQoc2FtcGxlKSkpXTsKICBjb25zdCBbY29scywgcm93c10gPSBsYXlvdXQ7CiAgLy8gZnBzIOW/hemhu+iuqSBmZm1wZWcg5oGw5aW95Lqn5Ye6IHNhbXBsZSDluKfvvJvml7bplb/mnKrnn6Xml7bmjInmr4/luKcgMTAwIG1zIOS8sO+8iFFRIOihqOaDheeahOW4uOingem7mOiupO+8ieOAggogIGNvbnN0IGR1cmF0aW9uTXMgPSBpbmZvPy5kdXJhdGlvbk1zID4gMCA/IGluZm8uZHVyYXRpb25NcyA6IGZyYW1lcyAqIDEwMDsKICBjb25zdCBzZWNvbmRzID0gTWF0aC5tYXgoMC4wNSwgZHVyYXRpb25NcyAvIDEwMDApOwogIGNvbnN0IGZwcyA9IE1hdGgubWluKDMwLCBNYXRoLm1heCgwLjA1LCBOdW1iZXIoKHNhbXBsZSAvIHNlY29uZHMpLnRvRml4ZWQoNCkpKSk7CiAgcmV0dXJuIHsgY29scywgcm93cywgZnBzLCBzYW1wbGVGcmFtZXM6IHNhbXBsZSwgdG90YWxGcmFtZXM6IGZyYW1lcywgZHVyYXRpb25NcyB9Owp9CgovLyDilIDilIAgZmZtcGVnIOiwg+eUqCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKCi8qKgogKiDot5HkuIDmrKEgZmZtcGVn77ya6L6T5YWlL+i+k+WHuumDvei1sOaWh+S7tu+8jHN0ZGlvIOWFqCBpZ25vcmXjgIIKICoKICog5Li65LuA5LmI5LiN55So566h6YGT77ya5Y+X6ZmQ5rKZ566x6YeMIGBzcGF3bmAgKyBzdGRpbzoncGlwZScg5Lya55u05o6lIEVQRVJN77yIdm9pY2UtY29yZS5qcyDlvIDlpLTmnInlkIzmoLforrDlvZXvvInjgIIKICog5Luj5Lu35piv5ou/5LiN5YiwIGZmbXBlZyDnmoQgc3RkZXJyIOKAlOKAlCDmiYDku6XosIPnlKjmlrnlj6rmiqXjgIzpgIDlh7rnoIEgKyDliqjkvZzlkI3jgI3vvIzkuI3lgYfoo4Xog73or4rmlq3lhbfkvZPljp/lm6DjgIIKICovCmZ1bmN0aW9uIHJ1bkZmbXBlZyhmZm1wZWcsIGFyZ3MsIHsgdGltZW91dE1zID0gTUVESUFfREVGQVVMVFMudGltZW91dE1zIH0gPSB7fSkgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewogICAgbGV0IGNoaWxkOwogICAgdHJ5IHsKICAgICAgY2hpbGQgPSBzcGF3bihmZm1wZWcsIGFyZ3MsIHsgd2luZG93c0hpZGU6IHRydWUsIHN0ZGlvOiAnaWdub3JlJyB9KTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIHJlc29sdmUoeyBvazogZmFsc2UsIGVycm9yOiBgZmZtcGVnIOWQr+WKqOWksei0pe+8miR7ZXJyb3I/Lm1lc3NhZ2UgPz8gZXJyb3J9YCB9KTsKICAgICAgcmV0dXJuOwogICAgfQogICAgbGV0IHNldHRsZWQgPSBmYWxzZTsKICAgIGNvbnN0IHNldHRsZSA9IChvdXRjb21lKSA9PiB7CiAgICAgIGlmIChzZXR0bGVkKSByZXR1cm47CiAgICAgIHNldHRsZWQgPSB0cnVlOwogICAgICBjbGVhclRpbWVvdXQodGltZXIpOwogICAgICByZXNvbHZlKG91dGNvbWUpOwogICAgfTsKICAgIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHRyeSB7IGNoaWxkLmtpbGwoKTsgfSBjYXRjaCB7fQogICAgICBzZXR0bGUoeyBvazogZmFsc2UsIGVycm9yOiBgZmZtcGVnIOi2heaXtu+8iCR7TWF0aC5yb3VuZCh0aW1lb3V0TXMgLyAxMDAwKX1z77yJYCB9KTsKICAgIH0sIHRpbWVvdXRNcyk7CiAgICBjaGlsZC5vbignZXJyb3InLCAoZXJyb3IpID0+IHNldHRsZSh7CiAgICAgIG9rOiBmYWxzZSwKICAgICAgZXJyb3I6IGVycm9yPy5jb2RlID09PSAnRU5PRU5UJwogICAgICAgID8gJ+aJvuS4jeWIsCBmZm1wZWfvvIjorr7nva4gRkZNUEVHX1BBVEgg5oiWIGNvbmZpZy5qc29uIOeahCBzb2NpYWxWMi52b2ljZS5mZm1wZWdQYXRo77yJJwogICAgICAgIDogYGZmbXBlZyDkuI3lj6/nlKjvvJoke2Vycm9yPy5tZXNzYWdlID8/IGVycm9yfWAKICAgIH0pKTsKICAgIGNoaWxkLm9uKCdjbG9zZScsIChjb2RlKSA9PiBzZXR0bGUoY29kZSA9PT0gMCA/IHsgb2s6IHRydWUgfSA6IHsgb2s6IGZhbHNlLCBlcnJvcjogYGZmbXBlZyDpgIDlh7rnoIEgJHtjb2RlfWAgfSkpOwogIH0pOwp9CgpmdW5jdGlvbiBtYWtlVGVtcFdvcmtzcGFjZSh0bXBEaXIpIHsKICBjb25zdCBiYXNlID0gdG1wRGlyID8gcGF0aC5yZXNvbHZlKHRtcERpcikgOiBvcy50bXBkaXIoKTsKICBmcy5ta2RpclN5bmMoYmFzZSwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgcmV0dXJuIGZzLm1rZHRlbXBTeW5jKHBhdGguam9pbihiYXNlLCAncXFiLW1lZGlhLScpKTsKfQoKZnVuY3Rpb24gY2xlYW51cFdvcmtzcGFjZShkaXIpIHsKICB0cnkgeyBmcy5ybVN5bmMoZGlyLCB7IHJlY3Vyc2l2ZTogdHJ1ZSwgZm9yY2U6IHRydWUgfSk7IH0gY2F0Y2gge30KfQoKLyoqIOaMieaJqeWxleWQjeaMkei+k+WHuuWuueWZqO+8muaciSBhbHBoYSDnlKggUE5H77yI5L+d6YCP5piO77yJ77yM5ZCm5YiZIEpQRUfvvIjkvZPnp6/lsI/lvpflpJrvvInjgIIgKi8KZnVuY3Rpb24gcGlja091dHB1dEV4dChpbmZvKSB7CiAgcmV0dXJuIGluZm8/LmFscGhhID8gJy5wbmcnIDogJy5qcGcnOwp9CgpmdW5jdGlvbiByZWFkSWZFeGlzdHMoZmlsZSkgewogIHRyeSB7CiAgICBjb25zdCBzdGF0ID0gZnMuc3RhdFN5bmMoZmlsZSk7CiAgICBpZiAoIXN0YXQuaXNGaWxlKCkgfHwgc3RhdC5zaXplID09PSAwKSByZXR1cm4gbnVsbDsKICAgIHJldHVybiBmcy5yZWFkRmlsZVN5bmMoZmlsZSk7CiAgfSBjYXRjaCB7IHJldHVybiBudWxsOyB9Cn0KCi8vIOKUgOKUgCDkuLvlhaXlj6Mg4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSACgovKioKICog5oqK5LiA5byg5Zu+5pW055CG5oiQ44CM5Y+v5Lul5a6J5YWo5Lqk57uZIERTSCAvIOaooeWei+OAjeeahOW9ouaAgeOAggogKgogKiBAcGFyYW0gYnVmICAgICAgIOWOn+Wni+Wtl+iKggogKiBAcGFyYW0gbWltZVR5cGUgIOiwg+eUqOaWueW3suefpeeahCBNSU1F77yI5Y+v6IO95LiO5a6e6ZmF5LiN56ym77yM5Lul5a2X6IqC5o6i5rWL5Li65YeG77yJCiAqIEBwYXJhbSBvcHRzICAgICAgeyBtYXhNb2RlbEJ5dGVzLCBtYXhMb25nRWRnZSwgZ2lmRnJhbWVzLCBnaWZUaWxlLCBlbmFibGVkLCBmZm1wZWdQYXRoLCB0bXBEaXIsIGxhYmVsLCB0aW1lb3V0TXMgfQogKiBAcmV0dXJucyB7UHJvbWlzZTx7b2s6Ym9vbGVhbiwgYnVmZmVyPzpCdWZmZXIsIG1pbWVUeXBlPzpzdHJpbmcsIG5vdGU/OnN0cmluZywgZXJyb3I/OnN0cmluZywgc2tpcHBlZD86Ym9vbGVhbn0+fQogKiAgIG9rPWZhbHNlIOWPquWcqOOAjOi2heWkp+S4lOWOi+S4jeWKqOOAjeaXtuWHuueOsO+8m+iwg+eUqOaWueW6lOaKiuWug+WPmOaIkOS4gOWPpeWPr+ivu+eahOWksei0peWOn+WboO+8jOiAjOS4jeaYr+WPkeepuuWbvuOAggogKi8KZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIG5vcm1hbGl6ZUltYWdlRm9yTW9kZWwoYnVmLCBtaW1lVHlwZSwgb3B0cyA9IHt9KSB7CiAgY29uc3QgYnl0ZXMgPSBCdWZmZXIuaXNCdWZmZXIoYnVmKSA/IGJ1Zi5sZW5ndGggOiAwOwogIGlmICghYnl0ZXMpIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6ICflm77niYflrZfoioLkuLrnqbonIH07CiAgaWYgKG9wdHMuZW5hYmxlZCA9PT0gZmFsc2UpIHJldHVybiB7IG9rOiB0cnVlLCBidWZmZXI6IGJ1ZiwgbWltZVR5cGUsIG5vdGU6ICcnIH07CgogIGNvbnN0IGluZm8gPSBzbmlmZkltYWdlKGJ1Zik7CiAgY29uc3QgcGxhbiA9IHBsYW5Ob3JtYWxpemF0aW9uKGluZm8sIGJ5dGVzLCBvcHRzKTsKICBpZiAoIXBsYW4pIHsKICAgIC8vIOWOn+agt+aUvuihjO+8mui/meaYr+e7neWkp+WkmuaVsOaDheWGte+8iOWwj+Wbvu+8ie+8jOmbtumineWkluW7tui/n+OAggogICAgcmV0dXJuIHsgb2s6IHRydWUsIGJ1ZmZlcjogYnVmLCBtaW1lVHlwZTogbWltZVR5cGUgfHwgKGluZm8gPyBgaW1hZ2UvJHtpbmZvLmZvcm1hdCA9PT0gJ2pwZWcnID8gJ2pwZWcnIDogaW5mby5mb3JtYXR9YCA6ICdpbWFnZS9qcGVnJyksIG5vdGU6ICcnIH07CiAgfQogIGlmIChwbGFuLmFjdGlvbiA9PT0gJ3JlamVjdCcpIHsKICAgIHJldHVybiB7IG9rOiBmYWxzZSwgZXJyb3I6IHBsYW4ucmVhc29uLCBza2lwcGVkOiB0cnVlIH07CiAgfQoKICBjb25zdCBmZm1wZWcgPSByZXNvbHZlRmZtcGVnKHsgZmZtcGVnUGF0aDogb3B0cy5mZm1wZWdQYXRoID8/IG51bGwgfSk7CiAgY29uc3QgbWF4Qnl0ZXMgPSBwbGFuLm1heEJ5dGVzOwogIGNvbnN0IG1heExvbmdFZGdlID0gcGxhbi5tYXhMb25nRWRnZTsKCiAgY29uc3QgZGlyID0gbWFrZVRlbXBXb3Jrc3BhY2Uob3B0cy50bXBEaXIpOwogIHRyeSB7CiAgICBjb25zdCBpbkV4dCA9IGluZm8uZm9ybWF0ID09PSAnanBlZycgPyAnLmpwZycgOiBgLiR7aW5mby5mb3JtYXR9YDsKICAgIGNvbnN0IGluRmlsZSA9IHBhdGguam9pbihkaXIsIGBpbiR7aW5FeHR9YCk7CiAgICBmcy53cml0ZUZpbGVTeW5jKGluRmlsZSwgYnVmKTsKCiAgICBpZiAocGxhbi5hY3Rpb24gPT09ICdhbmltYXRlJykgewogICAgICBjb25zdCBsYXlvdXQgPSBwbGFuQW5pbWF0aW9uKGluZm8sIG9wdHMpOwogICAgICBjb25zdCB0aWxlV2lkdGggPSBjbGFtcEludChvcHRzLmdpZlRpbGUsIDY0LCA0MDAsIE1FRElBX0RFRkFVTFRTLmdpZlRpbGUpOwogICAgICBjb25zdCBvdXRGaWxlID0gcGF0aC5qb2luKGRpciwgJ3N0cmlwLmpwZycpOwogICAgICBjb25zdCB2ZiA9IGBmcHM9JHtsYXlvdXQuZnBzfSxzY2FsZT0ke3RpbGVXaWR0aH06LTE6ZmxhZ3M9bGFuY3pvcyxgICsKICAgICAgICBgdGlsZT0ke2xheW91dC5jb2xzfXgke2xheW91dC5yb3dzfTpwYWRkaW5nPTQ6bWFyZ2luPTQ6Y29sb3I9d2hpdGVgOwogICAgICBjb25zdCBydW4gPSBhd2FpdCBydW5GZm1wZWcoZmZtcGVnLCBbCiAgICAgICAgJy12JywgJ2Vycm9yJywgJy15JywgJy1pJywgaW5GaWxlLAogICAgICAgICctZmlsdGVyX2NvbXBsZXgnLCBgWzA6dl0ke3ZmfVtvdXRdYCwgJy1tYXAnLCAnW291dF0nLAogICAgICAgICctZnJhbWVzOnYnLCAnMScsICctcTp2JywgJzQnLCBvdXRGaWxlCiAgICAgIF0sIHsgdGltZW91dE1zOiBvcHRzLnRpbWVvdXRNcyB9KTsKICAgICAgY29uc3Qgb3V0ID0gcnVuLm9rID8gcmVhZElmRXhpc3RzKG91dEZpbGUpIDogbnVsbDsKICAgICAgaWYgKG91dCAmJiBvdXQubGVuZ3RoIDw9IG1heEJ5dGVzKSB7CiAgICAgICAgY29uc3Qgc2Vjb25kcyA9IChsYXlvdXQuZHVyYXRpb25NcyAvIDEwMDApLnRvRml4ZWQoMSk7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIG9rOiB0cnVlLAogICAgICAgICAgYnVmZmVyOiBvdXQsCiAgICAgICAgICBtaW1lVHlwZTogJ2ltYWdlL2pwZWcnLAogICAgICAgICAgLy8g6L+Z5q615paH5a2X5Lya5Y6f5qC35Ye6546w5Zyo5bel5YW357uT5p6c6YeM77yI5aSW6Z2i6L+Y5Lya5YaN5YyF5LiA5bGC5ous5Y+377yJ77yM5omA5LulKirkuI3opoHnlKjltYzlpZfmi6zlj7cqKuOAggogICAgICAgICAgbm90ZTogYOWKqOWbviAke2xheW91dC50b3RhbEZyYW1lc30g5binLyR7c2Vjb25kc31z77yM5bey5oq9ICR7bGF5b3V0LnNhbXBsZUZyYW1lc30g5bin5ou85oiQICR7bGF5b3V0LmNvbHN9w5cke2xheW91dC5yb3dzfSDnvZHmoLzvvIzooYzkvJjlhYgg5bem5LiK4oaS5Y+z5LiL77yb5Y6f5Zu+ICR7KGJ5dGVzIC8gMTAyNCAvIDEwMjQpLnRvRml4ZWQoMil9TUJgCiAgICAgICAgfTsKICAgICAgfQogICAgICAvLyDmi7zlm77lpLHotKXvvIjmsqEgZmZtcGVnIC8g6LaF5pe2IC8g6L+Y5piv5aSq5aSn77yJ77ya6YCA5YyW5Yiw44CM6IO955yL5aSa5bCR566X5aSa5bCR44CN44CCCiAgICAgIGlmIChieXRlcyA8PSBtYXhCeXRlcykgewogICAgICAgIHJldHVybiB7CiAgICAgICAgICBvazogdHJ1ZSwKICAgICAgICAgIGJ1ZmZlcjogYnVmLAogICAgICAgICAgbWltZVR5cGU6IG1pbWVUeXBlIHx8ICdpbWFnZS9naWYnLAogICAgICAgICAgbm90ZTogYOWKqOWbviAke2xheW91dC50b3RhbEZyYW1lc30g5bin77yI5oq95bin5ou85Zu+5aSx6LSl77yaJHtydW4ub2sgPyAn6L6T5Ye65LuN6LaF6ZmQJyA6IHJ1bi5lcnJvcn3vvIzlj6rmj5DkvpvpppbluKfvvIlgCiAgICAgICAgfTsKICAgICAgfQogICAgICByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiBg5Yqo5Zu+ICR7KGJ5dGVzIC8gMTAyNCAvIDEwMjQpLnRvRml4ZWQoMil9TUIg5peg5rOV5Y6L57yp77yIJHtydW4ub2sgPyAn6L6T5Ye65LuN6LaF6ZmQJyA6IHJ1bi5lcnJvcn3vvIlgIH07CiAgICB9CgogICAgLy8gYWN0aW9uID09PSAnc2hyaW5rJ++8mumdmeaAgeWbvumZjemHh+agtyArIOmHjee8luegge+8jOacgOWkmuivleS4iei9ru+8iOmAkOatpee8qeWwj+WwuuWvuC/pmY3otKjph4/vvInjgIIKICAgIGNvbnN0IG91dEV4dCA9IHBpY2tPdXRwdXRFeHQoaW5mbyk7CiAgICBsZXQgZWRnZSA9IG1heExvbmdFZGdlOwogICAgbGV0IGxhc3RFcnJvciA9ICcnOwogICAgZm9yIChsZXQgYXR0ZW1wdCA9IDA7IGF0dGVtcHQgPCAzOyBhdHRlbXB0ICs9IDEpIHsKICAgICAgY29uc3Qgc2NhbGUgPSBNYXRoLm1pbigxLCBlZGdlIC8gTWF0aC5tYXgoaW5mby53aWR0aCwgaW5mby5oZWlnaHQpKTsKICAgICAgY29uc3Qgd2lkdGggPSBNYXRoLm1heCgyLCBNYXRoLnJvdW5kKGluZm8ud2lkdGggKiBzY2FsZSkgJiB+MSk7CiAgICAgIGNvbnN0IGhlaWdodCA9IE1hdGgubWF4KDIsIE1hdGgucm91bmQoaW5mby5oZWlnaHQgKiBzY2FsZSkgJiB+MSk7CiAgICAgIGNvbnN0IG91dEZpbGUgPSBwYXRoLmpvaW4oZGlyLCBgb3V0LSR7YXR0ZW1wdH0ke291dEV4dH1gKTsKICAgICAgY29uc3QgYXJncyA9IFsnLXYnLCAnZXJyb3InLCAnLXknLCAnLWknLCBpbkZpbGUsICctdmYnLCBgc2NhbGU9JHt3aWR0aH06JHtoZWlnaHR9OmZsYWdzPWxhbmN6b3NgXTsKICAgICAgaWYgKG91dEV4dCA9PT0gJy5qcGcnKSBhcmdzLnB1c2goJy1xOnYnLCBTdHJpbmcoMyArIGF0dGVtcHQgKiAzKSk7CiAgICAgIGFyZ3MucHVzaChvdXRGaWxlKTsKICAgICAgY29uc3QgcnVuID0gYXdhaXQgcnVuRmZtcGVnKGZmbXBlZywgYXJncywgeyB0aW1lb3V0TXM6IG9wdHMudGltZW91dE1zIH0pOwogICAgICBpZiAoIXJ1bi5vaykgeyBsYXN0RXJyb3IgPSBydW4uZXJyb3I7IH0KICAgICAgZWxzZSB7CiAgICAgICAgY29uc3Qgb3V0ID0gcmVhZElmRXhpc3RzKG91dEZpbGUpOwogICAgICAgIGlmIChvdXQgJiYgb3V0Lmxlbmd0aCA8PSBtYXhCeXRlcykgewogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgb2s6IHRydWUsCiAgICAgICAgICAgIGJ1ZmZlcjogb3V0LAogICAgICAgICAgICBtaW1lVHlwZTogb3V0RXh0ID09PSAnLmpwZycgPyAnaW1hZ2UvanBlZycgOiAnaW1hZ2UvcG5nJywKICAgICAgICAgICAgbm90ZTogYOWOn+WbviAke2luZm8ud2lkdGh9w5cke2luZm8uaGVpZ2h0fSAkeyhieXRlcyAvIDEwMjQpLnRvRml4ZWQoMCl9S0Ig4oaSICR7d2lkdGh9w5cke2hlaWdodH0gJHsob3V0Lmxlbmd0aCAvIDEwMjQpLnRvRml4ZWQoMCl9S0JgCiAgICAgICAgICB9OwogICAgICAgIH0KICAgICAgICBsYXN0RXJyb3IgPSAn5Y6L57yp5ZCO5LuN6LaF6ZmQJzsKICAgICAgfQogICAgICBlZGdlID0gTWF0aC5tYXgoMzIwLCBNYXRoLnJvdW5kKGVkZ2UgKiAwLjcpKTsKICAgIH0KICAgIC8vIOWOi+S4jeWKqO+8muWwj+WbvueFp+WPke+8jOWkp+WbvuaYjuehruaLkue7ne+8iOe7neS4jeWPkeazqOWumuiiqyBEU0gg5Lii5o6J55qE5Lic6KW/77yJ44CCCiAgICBpZiAoYnl0ZXMgPD0gbWF4Qnl0ZXMpIHJldHVybiB7IG9rOiB0cnVlLCBidWZmZXI6IGJ1ZiwgbWltZVR5cGUsIG5vdGU6IGDljovnvKnlpLHotKXvvIgke2xhc3RFcnJvcn3vvInvvIzmjInljp/lm77mj5DkvptgIH07CiAgICByZXR1cm4geyBvazogZmFsc2UsIGVycm9yOiBgJHsoYnl0ZXMgLyAxMDI0IC8gMTAyNCkudG9GaXhlZCgyKX1NQiDljovkuI3liLAgJHsobWF4Qnl0ZXMgLyAxMDI0KS50b0ZpeGVkKDApfUtCIOS7peWGhe+8iCR7bGFzdEVycm9yfe+8iWAgfTsKICB9IGZpbmFsbHkgewogICAgY2xlYW51cFdvcmtzcGFjZShkaXIpOwogIH0KfQoKLyoqIOS+m+aXpeW/ly/mj5DnpLrnlKjnmoTkuIDlj6Xor53mkZjopoHvvIjkuI3lkKsgYmFzZTY077yJ44CCICovCmV4cG9ydCBmdW5jdGlvbiBkZXNjcmliZUltYWdlKGJ1ZikgewogIGNvbnN0IGluZm8gPSBzbmlmZkltYWdlKGJ1Zik7CiAgaWYgKCFpbmZvKSByZXR1cm4gYOacquefpeagvOW8jyAke2J1Zj8ubGVuZ3RoID8/IDB9QmA7CiAgY29uc3QgcGFydHMgPSBbYCR7aW5mby5mb3JtYXR9ICR7aW5mby53aWR0aH3DlyR7aW5mby5oZWlnaHR9YCwgYCR7KGJ1Zi5sZW5ndGggLyAxMDI0KS50b0ZpeGVkKDApfUtCYF07CiAgaWYgKGluZm8uYW5pbWF0ZWQpIHBhcnRzLnB1c2goYOWKqOWbviAke2luZm8uZnJhbWVzfSDluKcke2luZm8uZHVyYXRpb25NcyA/IGAvJHsoaW5mby5kdXJhdGlvbk1zIC8gMTAwMCkudG9GaXhlZCgxKX1zYCA6ICcnfWApOwogIHJldHVybiBwYXJ0cy5qb2luKCcgJyk7Cn0K
+// 媒体归一化：把「QQ 给我们的原始图片」压成「DSH 与模型真能吃下的形状」。
+//
+// ── 为什么需要这一层（2026-10-18 审计结论，见 docs/audits/AUDIT_2026-10-18_MEDIA_AND_WATERMARK.md）
+//
+// ① 体积悬崖：DSH 的 MCP 图片入口会用正则校验 base64
+//    （dsh-mcp-client 的 CANONICAL_BASE64 = /^(?:[A-Za-z0-9+/]{4})*(?:…)?$/）。
+//    这条正则在长输入上会压爆 V8 的 regexp 回溯栈，实测：
+//        base64 ≥ 4,474,880 字符（原始字节 ≥ 3.20 MiB）→ RangeError: Maximum call stack size exceeded
+//    而 DSH 把这个异常原样降级成 `[image unavailable: image/gif; Maximum call stack size exceeded; …]`
+//    —— 模型只看到一行错误，图一个字节都没进上下文。
+//    桥接侧的抓取上限（socialV2.media.maxBytes，默认 8 MiB）远在这条线之上，
+//    于是「3.2–8 MiB 的图」就成了「桥接认为合法、DSH 必然拒绝」的死区。
+//
+// ② 动图变单帧：DSH 的 canPassThroughNormalization() 显式排除 image/gif，
+//    一律交给 sharp 归一化，而 sharp 默认只解 page 0 —— 一张 48 帧、4.8 MB 的动图，
+//    模型最终只看到「第 1 帧压成的 12 KB 静态 JPEG」，而且上下文里没有任何「这是动图」的提示。
+//    模型于是只能瞎猜（实测会话里它连着两次给出的解释都是错的）。
+//
+// ── 本模块的取舍
+//
+// · **只动喂给模型的那一份**。收集表情（add_custom_face）必须用原始字节，
+//   所以归一化只接在 fetchMediaData / resolveMediaList / sticker-image 这些「给模型看」的出口，
+//   不去改 fetchOneBotImage / fetchFaceMedia 的返回值。
+// · **动图抽帧拼图**而不是发多张图：一条消息 5 张图 = 5 次 DSH admission + 5 份 token，
+//   而 3×2 拼图信息密度更高、只算一张图（实测 4.83 MB / 200 帧 → 92 KB / 269 ms）。
+// · **能不动就不动**：小图（≤ maxModelBytes 且长边够小）原样放行，零延迟。
+// · **ffmpeg 缺失也不硬塞**：超线又压不动的，宁可回一句「太大，看不了」，也不发注定被 DSH 丢掉
+//   的字节（那样模型只会看到一行看不懂的错误）。
+//
+// 依赖：只用 node 内置 + voice-core 的 resolveFfmpeg（ffmpeg 定位的唯一实现）。
+// 子进程一律 `stdio: 'ignore'` + 写文件：受限沙箱里 pipe 会 EPERM（见 voice-core.js 开头的说明）。
+
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { spawn } from 'node:child_process';
+import { resolveFfmpeg } from './voice-core.js';
+
+/** 默认值集中一处，bridge.js 只做 config 覆盖（见 modelMediaLimits）。 */
+export const MEDIA_DEFAULTS = Object.freeze({
+  // 交给 DSH 的单张图片原始字节上限。DSH 的炸栈线是 ≈3.20 MiB，
+  // 这里取 1 MiB：留 3 倍余量，顺带把 token 成本压一个数量级（1 MiB 图 ≈ 1.33 MB base64）。
+  maxModelBytes: 1024 * 1024,
+  // 长边上限：手机直出 4000×3000 缩到 1280 后约 150–250 KB，肉眼描述完全够用。
+  maxLongEdge: 1280,
+  // 动图抽几帧：6 帧正好 3×2，超过 9 帧拼图会小到看不清单帧。
+  gifFrames: 6,
+  // 每一格的目标宽度（px）：240 一格，3×2 拼图约 736×492，实测 92 KB。
+  gifTile: 240,
+  // 单张 ffmpeg 调用的硬超时。实测 200 帧 GIF 拼图 269 ms、4K 重编码 < 1 s，25 s 是兜底。
+  timeoutMs: 25000
+});
+
+/** 硬上限：不管 config 怎么写，都不允许超过 DSH 的实测炸栈线下沿。 */
+const HARD_MAX_MODEL_BYTES = Math.floor(3.0 * 1024 * 1024);
+
+// ── 格式探测（纯函数，可单测） ────────────────────────────────────────────
+
+const clampInt = (value, min, max, fallback) => {
+  const n = Number(value);
+  if (!Number.isFinite(n)) return fallback;
+  return Math.min(max, Math.max(min, Math.round(n)));
+};
+
+/** GIF 子块链跳过：每个子块首字节是长度，0 结束。返回新游标（越界返回 -1）。 */
+function skipGifSubBlocks(buf, pos) {
+  let p = pos;
+  let guard = 0;
+  while (p < buf.length) {
+    const size = buf[p];
+    p += 1;
+    if (size === 0) return p;
+    p += size;
+    if (++guard > 1_000_000) return -1;
+  }
+  return -1;
+}
+
+/**
+ * 解析 GIF 的帧数与总时长（以及是否有透明帧）。
+ *
+ * 为什么不直接问 ffprobe：a) ffmpeg 可能没装，而「这是动图，N 帧」这句话就算没 ffmpeg
+ * 也要能告诉模型；b) 每次看图都 spawn 一次 ffprobe 是白花的时间（这里纯内存解析）。
+ * GIF 的块结构很实在：0x2C = 图像描述符（一帧），0x21 0xF9 = 图形控制扩展（带 delay）。
+ */
+function parseGif(buf) {
+  if (buf.length < 13) return null;
+  const width = buf.readUInt16LE(6);
+  const height = buf.readUInt16LE(8);
+  const packed = buf[10];
+  let pos = 13;
+  if (packed & 0x80) pos += 3 * (2 << (packed & 0x07)); // 全局颜色表
+  let frames = 0;
+  let durationCs = 0;
+  let alpha = false;
+  let delayCs = 0;
+  let guard = 0;
+  while (pos >= 0 && pos < buf.length) {
+    if (++guard > 5_000_000) break;
+    const block = buf[pos];
+    pos += 1;
+    if (block === 0x3b) break; // trailer
+    if (block === 0x21) {
+      if (pos >= buf.length) break;
+      const label = buf[pos];
+      pos += 1;
+      if (label === 0xf9 && pos + 4 <= buf.length) {
+        // 块长(1) 打包位(1) delay(2) 透明色索引(1) 终结符(1)
+        const size = buf[pos];
+        if (size >= 4 && pos + 4 < buf.length) {
+          const gcePacked = buf[pos + 1];
+          delayCs = buf.readUInt16LE(pos + 2);
+          if (gcePacked & 0x01) alpha = true;
+        }
+      }
+      pos = skipGifSubBlocks(buf, pos);
+      continue;
+    }
+    if (block === 0x2c) {
+      if (pos + 9 > buf.length) break;
+      const descPacked = buf[pos + 8];
+      pos += 9;
+      if (descPacked & 0x80) pos += 3 * (2 << (descPacked & 0x07)); // 局部颜色表
+      pos += 1; // LZW 最小码长
+      pos = skipGifSubBlocks(buf, pos);
+      frames += 1;
+      durationCs += delayCs || 0;
+      delayCs = 0;
+      continue;
+    }
+    break; // 解析不了就别硬猜
+  }
+  return {
+    width,
+    height,
+    frames: Math.max(1, frames),
+    durationMs: durationCs > 0 ? durationCs * 10 : 0,
+    alpha
+  };
+}
+
+/** WebP：解析尺寸，并识别动图（ANIM 块 / ANMF 帧块）。 */
+function parseWebp(buf) {
+  if (buf.length < 30) return null;
+  const fourcc = buf.toString('ascii', 12, 16);
+  let width = 0;
+  let height = 0;
+  if (fourcc === 'VP8X') {
+    width = 1 + buf[24] + (buf[25] << 8) + (buf[26] << 16);
+    height = 1 + buf[27] + (buf[28] << 8) + (buf[29] << 16);
+  } else if (fourcc === 'VP8L') {
+    const b = [buf[21], buf[22], buf[23], buf[24]];
+    width = 1 + (((b[1] & 0x3f) << 8) | b[0]);
+    height = 1 + (((b[3] & 0x0f) << 10) | (b[2] << 2) | ((b[1] & 0xc0) >> 6));
+  } else if (fourcc === 'VP8 ') {
+    width = buf.readUInt16LE(26) & 0x3fff;
+    height = buf.readUInt16LE(28) & 0x3fff;
+  } else {
+    return null;
+  }
+  // 动图：RIFF 里出现 ANIM（动画头）与若干个 ANMF（帧）。只数块头，不解析负载。
+  let frames = 0;
+  let pos = 12;
+  let guard = 0;
+  while (pos + 8 <= buf.length && ++guard < 1_000_000) {
+    const id = buf.toString('ascii', pos, pos + 4);
+    const size = buf.readUInt32LE(pos + 4);
+    if (id === 'ANMF') frames += 1;
+    pos += 8 + size + (size & 1);
+  }
+  const alpha = fourcc === 'VP8X' ? (buf[20] & 0x10) !== 0 : true;
+  return { width, height, frames: Math.max(1, frames), durationMs: 0, alpha };
+}
+
+function parsePng(buf) {
+  if (buf.length < 26) return null;
+  const colorType = buf[25];
+  return {
+    width: buf.readUInt32BE(16),
+    height: buf.readUInt32BE(20),
+    frames: 1,
+    durationMs: 0,
+    alpha: colorType === 4 || colorType === 6
+  };
+}
+
+function parseJpeg(buf) {
+  let offset = 2;
+  while (offset + 9 < buf.length) {
+    if (buf[offset] !== 0xff) { offset += 1; continue; }
+    const marker = buf[offset + 1];
+    if (marker === 0xd8 || marker === 0xd9 || (marker >= 0xd0 && marker <= 0xd7)) { offset += 2; continue; }
+    const len = buf.readUInt16BE(offset + 2);
+    if (len < 2) return null;
+    // SOF0–SOF15（排除 DHT C4 / JPG C8 / DAC CC）
+    if (marker >= 0xc0 && marker <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marker)) {
+      return { width: buf.readUInt16BE(offset + 7), height: buf.readUInt16BE(offset + 5), frames: 1, durationMs: 0, alpha: false };
+    }
+    offset += 2 + len;
+  }
+  return null;
+}
+
+/**
+ * 从字节里认出格式/尺寸/帧数。
+ *
+ * @returns null（认不出）或
+ *   { format:'gif'|'png'|'jpeg'|'webp', width, height, frames, durationMs, animated, alpha }
+ */
+export function sniffImage(buf) {
+  if (!Buffer.isBuffer(buf) || buf.length < 12) return null;
+  let format = null;
+  let parsed = null;
+  if (buf[0] === 0x89 && buf[1] === 0x50 && buf[2] === 0x4e && buf[3] === 0x47) {
+    format = 'png'; parsed = parsePng(buf);
+  } else if (buf[0] === 0xff && buf[1] === 0xd8 && buf[2] === 0xff) {
+    format = 'jpeg'; parsed = parseJpeg(buf);
+  } else if (buf.toString('ascii', 0, 6) === 'GIF87a' || buf.toString('ascii', 0, 6) === 'GIF89a') {
+    format = 'gif'; parsed = parseGif(buf);
+  } else if (buf.toString('ascii', 0, 4) === 'RIFF' && buf.toString('ascii', 8, 12) === 'WEBP') {
+    format = 'webp'; parsed = parseWebp(buf);
+  }
+  if (!parsed || !parsed.width || !parsed.height) return null;
+  return {
+    format,
+    width: parsed.width,
+    height: parsed.height,
+    frames: Math.max(1, parsed.frames || 1),
+    durationMs: parsed.durationMs || 0,
+    animated: (parsed.frames || 1) > 1,
+    alpha: !!parsed.alpha
+  };
+}
+
+// ── 决策（纯函数，可单测） ────────────────────────────────────────────────
+
+/**
+ * 要不要动这张图？返回 null = 原样放行。
+ *
+ * @param info sniffImage() 的结果（null 表示认不出 → 一律放行，交给下游）
+ * @param bytes 原始字节数
+ * @param limits 归一化上限
+ */
+export function planNormalization(info, bytes, limits = {}) {
+  const maxBytes = clampInt(limits.maxModelBytes, 64 * 1024, HARD_MAX_MODEL_BYTES, MEDIA_DEFAULTS.maxModelBytes);
+  const maxLongEdge = clampInt(limits.maxLongEdge, 256, 2048, MEDIA_DEFAULTS.maxLongEdge);
+  if (!info) {
+    // 认不出的格式：能放就放（下游 mimeFromBuffer 会兜底），太大就拒绝——绝不硬塞。
+    return bytes > maxBytes ? { action: 'reject', reason: `未知图片格式且 ${bytes} 字节超过上限` } : null;
+  }
+  if (info.animated) {
+    return { action: 'animate', maxBytes, maxLongEdge };
+  }
+  const longEdge = Math.max(info.width, info.height);
+  if (bytes <= maxBytes && longEdge <= maxLongEdge) return null;
+  return { action: 'shrink', maxBytes, maxLongEdge, bytes, longEdge };
+}
+
+/** 动图拼图布局：帧数 → { cols, rows, fps, sampleFrames }。纯函数。 */
+export function planAnimation(info, limits = {}) {
+  const wanted = clampInt(limits.gifFrames, 2, 12, MEDIA_DEFAULTS.gifFrames);
+  const frames = Math.max(1, info?.frames || 1);
+  // 帧比想要的多才有意思抽帧；帧本来就少就全用上（不重复填充没信息量的格子）。
+  const sample = Math.min(wanted, frames);
+  // 布局偏好：6→3×2、9→3×3、8→4×2（都填满），其余按接近正方形算。
+  const layout = { 2: [2, 1], 3: [3, 1], 4: [2, 2], 5: [3, 2], 6: [3, 2], 7: [4, 2], 8: [4, 2], 9: [3, 3], 10: [5, 2], 11: [4, 3], 12: [4, 3] }[sample]
+    ?? [Math.ceil(Math.sqrt(sample)), Math.ceil(sample / Math.ceil(Math.sqrt(sample)))];
+  const [cols, rows] = layout;
+  // fps 必须让 ffmpeg 恰好产出 sample 帧；时长未知时按每帧 100 ms 估（QQ 表情的常见默认）。
+  const durationMs = info?.durationMs > 0 ? info.durationMs : frames * 100;
+  const seconds = Math.max(0.05, durationMs / 1000);
+  const fps = Math.min(30, Math.max(0.05, Number((sample / seconds).toFixed(4))));
+  return { cols, rows, fps, sampleFrames: sample, totalFrames: frames, durationMs };
+}
+
+// ── ffmpeg 调用 ──────────────────────────────────────────────────────────
+
+/**
+ * 跑一次 ffmpeg：输入/输出都走文件，stdio 全 ignore。
+ *
+ * 为什么不用管道：受限沙箱里 `spawn` + stdio:'pipe' 会直接 EPERM（voice-core.js 开头有同样记录）。
+ * 代价是拿不到 ffmpeg 的 stderr —— 所以调用方只报「退出码 + 动作名」，不假装能诊断具体原因。
+ */
+function runFfmpeg(ffmpeg, args, { timeoutMs = MEDIA_DEFAULTS.timeoutMs } = {}) {
+  return new Promise((resolve) => {
+    let child;
+    try {
+      child = spawn(ffmpeg, args, { windowsHide: true, stdio: 'ignore' });
+    } catch (error) {
+      resolve({ ok: false, error: `ffmpeg 启动失败：${error?.message ?? error}` });
+      return;
+    }
+    let settled = false;
+    const settle = (outcome) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      resolve(outcome);
+    };
+    const timer = setTimeout(() => {
+      try { child.kill(); } catch {}
+      settle({ ok: false, error: `ffmpeg 超时（${Math.round(timeoutMs / 1000)}s）` });
+    }, timeoutMs);
+    child.on('error', (error) => settle({
+      ok: false,
+      error: error?.code === 'ENOENT'
+        ? '找不到 ffmpeg（设置 FFMPEG_PATH 或 config.json 的 socialV2.voice.ffmpegPath）'
+        : `ffmpeg 不可用：${error?.message ?? error}`
+    }));
+    child.on('close', (code) => settle(code === 0 ? { ok: true } : { ok: false, error: `ffmpeg 退出码 ${code}` }));
+  });
+}
+
+function makeTempWorkspace(tmpDir) {
+  const base = tmpDir ? path.resolve(tmpDir) : os.tmpdir();
+  fs.mkdirSync(base, { recursive: true });
+  return fs.mkdtempSync(path.join(base, 'qqb-media-'));
+}
+
+function cleanupWorkspace(dir) {
+  try { fs.rmSync(dir, { recursive: true, force: true }); } catch {}
+}
+
+/** 按扩展名挑输出容器：有 alpha 用 PNG（保透明），否则 JPEG（体积小得多）。 */
+function pickOutputExt(info) {
+  return info?.alpha ? '.png' : '.jpg';
+}
+
+function readIfExists(file) {
+  try {
+    const stat = fs.statSync(file);
+    if (!stat.isFile() || stat.size === 0) return null;
+    return fs.readFileSync(file);
+  } catch { return null; }
+}
+
+// ── 主入口 ──────────────────────────────────────────────────────────────
+
+/**
+ * 把一张图整理成「可以安全交给 DSH / 模型」的形态。
+ *
+ * @param buf       原始字节
+ * @param mimeType  调用方已知的 MIME（可能与实际不符，以字节探测为准）
+ * @param opts      { maxModelBytes, maxLongEdge, gifFrames, gifTile, enabled, ffmpegPath, tmpDir, label, timeoutMs }
+ * @returns {Promise<{ok:boolean, buffer?:Buffer, mimeType?:string, note?:string, error?:string, skipped?:boolean}>}
+ *   ok=false 只在「超大且压不动」时出现；调用方应把它变成一句可读的失败原因，而不是发空图。
+ */
+export async function normalizeImageForModel(buf, mimeType, opts = {}) {
+  const bytes = Buffer.isBuffer(buf) ? buf.length : 0;
+  if (!bytes) return { ok: false, error: '图片字节为空' };
+  if (opts.enabled === false) return { ok: true, buffer: buf, mimeType, note: '' };
+
+  const info = sniffImage(buf);
+  const plan = planNormalization(info, bytes, opts);
+  if (!plan) {
+    // 原样放行：这是绝大多数情况（小图），零额外延迟。
+    return { ok: true, buffer: buf, mimeType: mimeType || (info ? `image/${info.format === 'jpeg' ? 'jpeg' : info.format}` : 'image/jpeg'), note: '' };
+  }
+  if (plan.action === 'reject') {
+    return { ok: false, error: plan.reason, skipped: true };
+  }
+
+  const ffmpeg = resolveFfmpeg({ ffmpegPath: opts.ffmpegPath ?? null });
+  const maxBytes = plan.maxBytes;
+  const maxLongEdge = plan.maxLongEdge;
+
+  const dir = makeTempWorkspace(opts.tmpDir);
+  try {
+    const inExt = info.format === 'jpeg' ? '.jpg' : `.${info.format}`;
+    const inFile = path.join(dir, `in${inExt}`);
+    fs.writeFileSync(inFile, buf);
+
+    if (plan.action === 'animate') {
+      const layout = planAnimation(info, opts);
+      const tileWidth = clampInt(opts.gifTile, 64, 400, MEDIA_DEFAULTS.gifTile);
+      const outFile = path.join(dir, 'strip.jpg');
+      const vf = `fps=${layout.fps},scale=${tileWidth}:-1:flags=lanczos,` +
+        `tile=${layout.cols}x${layout.rows}:padding=4:margin=4:color=white`;
+      const run = await runFfmpeg(ffmpeg, [
+        '-v', 'error', '-y', '-i', inFile,
+        '-filter_complex', `[0:v]${vf}[out]`, '-map', '[out]',
+        '-frames:v', '1', '-q:v', '4', outFile
+      ], { timeoutMs: opts.timeoutMs });
+      const out = run.ok ? readIfExists(outFile) : null;
+      if (out && out.length <= maxBytes) {
+        const seconds = (layout.durationMs / 1000).toFixed(1);
+        return {
+          ok: true,
+          buffer: out,
+          mimeType: 'image/jpeg',
+          // 这段文字会原样出现在工具结果里（外面还会再包一层括号），所以**不要用嵌套括号**。
+          note: `动图 ${layout.totalFrames} 帧/${seconds}s，已抽 ${layout.sampleFrames} 帧拼成 ${layout.cols}×${layout.rows} 网格，行优先 左上→右下；原图 ${(bytes / 1024 / 1024).toFixed(2)}MB`
+        };
+      }
+      // 拼图失败（没 ffmpeg / 超时 / 还是太大）：退化到「能看多少算多少」。
+      if (bytes <= maxBytes) {
+        return {
+          ok: true,
+          buffer: buf,
+          mimeType: mimeType || 'image/gif',
+          note: `动图 ${layout.totalFrames} 帧（抽帧拼图失败：${run.ok ? '输出仍超限' : run.error}，只提供首帧）`
+        };
+      }
+      return { ok: false, error: `动图 ${(bytes / 1024 / 1024).toFixed(2)}MB 无法压缩（${run.ok ? '输出仍超限' : run.error}）` };
+    }
+
+    // action === 'shrink'：静态图降采样 + 重编码，最多试三轮（逐步缩小尺寸/降质量）。
+    const outExt = pickOutputExt(info);
+    let edge = maxLongEdge;
+    let lastError = '';
+    for (let attempt = 0; attempt < 3; attempt += 1) {
+      const scale = Math.min(1, edge / Math.max(info.width, info.height));
+      const width = Math.max(2, Math.round(info.width * scale) & ~1);
+      const height = Math.max(2, Math.round(info.height * scale) & ~1);
+      const outFile = path.join(dir, `out-${attempt}${outExt}`);
+      const args = ['-v', 'error', '-y', '-i', inFile, '-vf', `scale=${width}:${height}:flags=lanczos`];
+      if (outExt === '.jpg') args.push('-q:v', String(3 + attempt * 3));
+      args.push(outFile);
+      const run = await runFfmpeg(ffmpeg, args, { timeoutMs: opts.timeoutMs });
+      if (!run.ok) { lastError = run.error; }
+      else {
+        const out = readIfExists(outFile);
+        if (out && out.length <= maxBytes) {
+          return {
+            ok: true,
+            buffer: out,
+            mimeType: outExt === '.jpg' ? 'image/jpeg' : 'image/png',
+            note: `原图 ${info.width}×${info.height} ${(bytes / 1024).toFixed(0)}KB → ${width}×${height} ${(out.length / 1024).toFixed(0)}KB`
+          };
+        }
+        lastError = '压缩后仍超限';
+      }
+      edge = Math.max(320, Math.round(edge * 0.7));
+    }
+    // 压不动：小图照发，大图明确拒绝（绝不发注定被 DSH 丢掉的东西）。
+    if (bytes <= maxBytes) return { ok: true, buffer: buf, mimeType, note: `压缩失败（${lastError}），按原图提供` };
+    return { ok: false, error: `${(bytes / 1024 / 1024).toFixed(2)}MB 压不到 ${(maxBytes / 1024).toFixed(0)}KB 以内（${lastError}）` };
+  } finally {
+    cleanupWorkspace(dir);
+  }
+}
+
+/** 供日志/提示用的一句话摘要（不含 base64）。 */
+export function describeImage(buf) {
+  const info = sniffImage(buf);
+  if (!info) return `未知格式 ${buf?.length ?? 0}B`;
+  const parts = [`${info.format} ${info.width}×${info.height}`, `${(buf.length / 1024).toFixed(0)}KB`];
+  if (info.animated) parts.push(`动图 ${info.frames} 帧${info.durationMs ? `/${(info.durationMs / 1000).toFixed(1)}s` : ''}`);
+  return parts.join(' ');
+}

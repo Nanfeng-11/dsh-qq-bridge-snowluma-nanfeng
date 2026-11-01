@@ -1,1 +1,112 @@
-Ly8g6KGo5oOF5bqT5ZCM5q2l55qE44CMV1Mg5oyC5o6J44CN5YWc5bqV5Zue5b2S77yIMjAyNi0xMC0xOO+8ieOAggovLwovLyDnnJ/lrp7mlYXpmpzvvJpgZmV0Y2hfY3VzdG9tX2ZhY2VfZGV0YWlsYCDljp/mnaXlj6rotbAgU25vd0x1bWEg55qEIFdTIGFjdGlvbuOAgldTIOmHjei/nueql+WPo+mHjAovLyDlkIzmraXlv4XnhLblpLHotKUg4oCU4oCUIOaXpeW/l+Wunua1iyAzMyDmrKHlkIzmraUgMTYg5qyh5aSx6LSl77yI4omINDgl77yM5YWo5pivIFdTIGNsb3NlZO+8ie+8jAovLyDooajnjrDlsLHmmK8i5pS26JeP6KGo5oOF5pe25pyJ5pe25pegIu+8jOS7peWPiiBxcV9nZXRfc3RpY2tlcl9pbWFnZSDmiqXjgIzmib7kuI3liLDooajmg4XjgI3jgIIKLy8g6ICM5ZCM5LiA5Liq572R5YWz55qEIEhUVFAg5Y+j5LiA55u05Y+v55So77yIb25lYm90U2VuZCAvIGZldGNoX3B0dF90ZXh0IOmDveWcqOeUqO+8ieOAggovLwovLyDmnKzmlofku7bpqozor4HvvJpXUyDmraPluLjml7botbAgV1PvvIjkuI3lpJrmiZPkuIDmrKEgSFRUUO+8ie+8m1dTIOWksei0peaXtuiHquWKqOaUuei1sCBIVFRQ77yM5LiU57uT5p6c5qCHIHZpYT1odHRw44CCCmltcG9ydCBhc3NlcnQgZnJvbSAnbm9kZTphc3NlcnQvc3RyaWN0JzsKaW1wb3J0IHsgYnJpZGdlSGFybmVzcyB9IGZyb20gJy4vYXVkaXQtYnJpZGdlLWhhcm5lc3MubWpzJzsKCmxldCBmYWlsdXJlcyA9IDA7CmxldCB0ZXN0cyA9IDA7CmFzeW5jIGZ1bmN0aW9uIHRlc3QobmFtZSwgcnVuKSB7CiAgdGVzdHMrKzsKICB0cnkgeyBhd2FpdCBydW4oKTsgY29uc29sZS5sb2coJ1BBU1MnLCBuYW1lKTsgfQogIGNhdGNoIChlcnJvcikgeyBmYWlsdXJlcysrOyBjb25zb2xlLmVycm9yKCdGQUlMJywgbmFtZSwgJ+KAlCcsIGVycm9yPy5zdGFjayA/PyBlcnJvcik7IH0KfQoKLy8g5LiA5Liq5Y+q55So5p2lIua8lCBXUyDmjILmjoki55qE5a6i5oi356uv77ya6Zmk5LqG6KKr5qGl5o6l6K6i6ZiF55qE5LqL5Lu25pa55rOV77yMcmVxdWVzdCDkuIDlvovmipvplJnjgIIKY2xhc3MgV3NEb3duQm90IHsKICBvblByaXZhdGVNZXNzYWdlKCkge30KICBvbkdyb3VwTWVzc2FnZSgpIHt9CiAgb25Ob3RpY2UoKSB7fQogIG9uRXZlbnQoKSB7fQogIG9uRXZlbnRFcnJvcigpIHt9CiAgYXN5bmMgcmVxdWVzdCgpIHsgdGhyb3cgbmV3IEVycm9yKCdTbm93THVtYSBXZWJTb2NrZXQgY2xvc2VkIGJlZm9yZSBvcGVuaW5nJyk7IH0KICBhc3luYyBnZXRJbWFnZSgpIHsgcmV0dXJuIG51bGw7IH0KICBhc3luYyBmZXRjaEZhY2VFbnRpdHkoKSB7IHJldHVybiBudWxsOyB9CiAgYXN5bmMgc2VuZFByaXZhdGVNZXNzYWdlKCkge30KICBhc3luYyBzZW5kR3JvdXBNZXNzYWdlKCkge30KICBhc3luYyBjb25uZWN0KCkge30KICBjbG9zZSgpIHt9Cn0KCi8vIOS4gOS4qiJXUyDmraPluLgi55qE5a6i5oi356uv77ya6L+U5Zue5ZCI5rOV55qE5pS26JeP6KGo5oOF5pWw57uE44CCCmNsYXNzIFdzVXBCb3QgZXh0ZW5kcyBXc0Rvd25Cb3QgewogIGFzeW5jIHJlcXVlc3QoYWN0aW9uKSB7CiAgICBpZiAoYWN0aW9uID09PSAnZmV0Y2hfY3VzdG9tX2ZhY2VfZGV0YWlsJykgewogICAgICByZXR1cm4geyBzdGF0dXM6ICdvaycsIHJldGNvZGU6IDAsIGRhdGE6IFt7IGVtb2ppX2lkOiAnd3MtZml4dHVyZS1zdGlja2VyJywgcmVzSWQ6ICd3cy1maXh0dXJlLXN0aWNrZXInLCB1cmw6ICdodHRwczovL3B1YmxpYy5pbnZhbGlkL3dzLXN0aWNrZXInLCBtZDU6ICcxMTIyMzM0NDU1NjY3Nzg4OTkwMEFBQkJDQ0RERUVGRicsIGRlc2M6ICdXUyDooajmg4UnIH1dIH07CiAgICB9CiAgICByZXR1cm4geyBzdGF0dXM6ICdvaycsIHJldGNvZGU6IDAsIGRhdGE6IHt9IH07CiAgfQp9Cgpjb25zdCBodHRwQ2FsbHMgPSAoaCkgPT4gaC5jYWxscy5odHRwLmZpbHRlcigoYykgPT4gU3RyaW5nKGMudXJsKS5lbmRzV2l0aCgnL2ZldGNoX2N1c3RvbV9mYWNlX2RldGFpbCcpKTsKCmF3YWl0IHRlc3QoJ1dTIOato+W4uOaXtui1sCBXU++8jOS4jemineWkluaJkyBIVFRQJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGggPSBhd2FpdCBicmlkZ2VIYXJuZXNzKHsgZ2xvYmFsczogeyBTbm93THVtYVdlYlNvY2tldENsaWVudDogV3NVcEJvdCB9IH0pOwogIHRyeSB7CiAgICBoLnNldE1vZGUoJ3Jlc2VydmVkMicpOwogICAgY29uc3Qgc3luY2VkID0gYXdhaXQgaC5zeW5jU3RpY2tlckxpYnJhcnkodHJ1ZSk7CiAgICBhc3NlcnQub2soc3luY2VkLCAn5ZCM5q2l5bqU5b2T5oiQ5YqfJyk7CiAgICBhc3NlcnQuZXF1YWwoc3luY2VkLnZpYSwgJ3dzJyk7CiAgICBhc3NlcnQuZXF1YWwoc3luY2VkLmVudHJpZXMubGVuZ3RoLCAxKTsKICAgIGFzc2VydC5lcXVhbChzeW5jZWQuZW50cmllc1swXS5pZCwgJ3dzLWZpeHR1cmUtc3RpY2tlcicpOwogICAgYXNzZXJ0LmVxdWFsKGh0dHBDYWxscyhoKS5sZW5ndGgsIDAsICdXUyDmiJDlip/ml7bkuI3or6Xlho3miZMgSFRUUO+8iOS4jeWinuWKoOato+W4uOi3r+W+hOW7tui/n++8iScpOwogIH0gZmluYWxseSB7IGF3YWl0IGguY2xvc2UoKTsgfQp9KTsKCmF3YWl0IHRlc3QoJ1dTIOaMguS6huiHquWKqOaUuei1sCBPbmVCb3QgSFRUUO+8jOe7k+aenOaghyB2aWE9aHR0cCcsIGFzeW5jICgpID0+IHsKICBjb25zdCBoID0gYXdhaXQgYnJpZGdlSGFybmVzcyh7IGdsb2JhbHM6IHsgU25vd0x1bWFXZWJTb2NrZXRDbGllbnQ6IFdzRG93bkJvdCB9IH0pOwogIHRyeSB7CiAgICBoLnNldE1vZGUoJ3Jlc2VydmVkMicpOwogICAgY29uc3Qgc3luY2VkID0gYXdhaXQgaC5zeW5jU3RpY2tlckxpYnJhcnkodHJ1ZSk7CiAgICBhc3NlcnQub2soc3luY2VkLCAnV1Mg5aSx6LSl5pe25b+F6aG75pyJ5YWc5bqV77yM6ICM5LiN5piv5pW05p2h6ZO+6Lev5aSx6LSlJyk7CiAgICBhc3NlcnQuZXF1YWwoc3luY2VkLnZpYSwgJ2h0dHAnKTsKICAgIGFzc2VydC5lcXVhbChzeW5jZWQuZW50cmllcy5sZW5ndGgsIDEpOwogICAgYXNzZXJ0LmVxdWFsKHN5bmNlZC5lbnRyaWVzWzBdLmlkLCAnaHR0cC1maXh0dXJlLXN0aWNrZXInKTsKICAgIGFzc2VydC5lcXVhbChzeW5jZWQuZW50cmllc1swXS5kZXNjLCAnSFRUUCDlhZzlupXooajmg4UnKTsKICAgIGNvbnN0IGNhbGxzID0gaHR0cENhbGxzKGgpOwogICAgYXNzZXJ0LmVxdWFsKGNhbGxzLmxlbmd0aCwgMSwgJ+W6lOW9k+WPquaJk+S4gOasoSBIVFRQJyk7CiAgICBhc3NlcnQuZGVlcEVxdWFsKGNhbGxzWzBdLmJvZHksIHsgY291bnQ6IDEwMCB9LCAn6KaB5bim5LiK5LiOIFdTIOi3r+W+hOebuOWQjOeahOWPguaVsCcpOwogIH0gZmluYWxseSB7IGF3YWl0IGguY2xvc2UoKTsgfQp9KTsKCmF3YWl0IHRlc3QoJ0hUVFAg5YWc5bqV5Lmf5aSx6LSl5pe25LuN54S26L+U5ZueIG51bGzvvIjkuI3ngrjjgIHkuI3muIXnqbrmnKzlnLDlupPvvIknLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgaCA9IGF3YWl0IGJyaWRnZUhhcm5lc3MoewogICAgZ2xvYmFsczogewogICAgICBTbm93THVtYVdlYlNvY2tldENsaWVudDogV3NEb3duQm90LAogICAgICAvLyDopobnm5YgaGFybmVzcyDnmoTpgJrnlKggZmV0Y2jvvJrmqKHmi58gSFRUUCDlj6PkuZ/ov57kuI3kuIoKICAgICAgZmV0Y2g6IGFzeW5jICgpID0+IHsgdGhyb3cgbmV3IEVycm9yKCdjb25uZWN0IEVDT05OUkVGVVNFRCAxMjcuMC4wLjE6MzAwMCcpOyB9CiAgICB9CiAgfSk7CiAgdHJ5IHsKICAgIGguc2V0TW9kZSgncmVzZXJ2ZWQyJyk7CiAgICBjb25zdCBzeW5jZWQgPSBhd2FpdCBoLnN5bmNTdGlja2VyTGlicmFyeSh0cnVlKTsKICAgIGFzc2VydC5lcXVhbChzeW5jZWQsIG51bGwsICfkuKTmnaHot6/pg73lpLHotKXml7bmjInljp/nuqblrprov5Tlm54gbnVsbO+8iOiwg+eUqOaWueeUqOe8k+WtmO+8iScpOwogIH0gZmluYWxseSB7IGF3YWl0IGguY2xvc2UoKTsgfQp9KTsKCmF3YWl0IHRlc3QoJ0hUVFAg6L+U5Zue55qE5LiN5piv5pWw57uE5pe25LiN5ZCI5bm277yI6Ziy5ou/5Z2P5pWw5o2u5riF56m66KGo5oOF5bqT77yJJywgYXN5bmMgKCkgPT4gewogIGNvbnN0IGggPSBhd2FpdCBicmlkZ2VIYXJuZXNzKHsKICAgIGdsb2JhbHM6IHsKICAgICAgU25vd0x1bWFXZWJTb2NrZXRDbGllbnQ6IFdzRG93bkJvdCwKICAgICAgLy8g6KaG55uWIGhhcm5lc3Mg55qE6YCa55SoIGZldGNo77ya6K6pIEhUVFAg5YWc5bqV6L+U5Zue5LiA5Liq5a+56LGh6ICM5LiN5piv5pWw57uECiAgICAgIGZldGNoOiBhc3luYyAodXJsKSA9PiAoewogICAgICAgIG9rOiB0cnVlLAogICAgICAgIHN0YXR1czogMjAwLAogICAgICAgIGpzb246IGFzeW5jICgpID0+ICh7IHN0YXR1czogJ29rJywgcmV0Y29kZTogMCwgZGF0YTogeyBub3Q6ICdhbiBhcnJheScgfSB9KQogICAgICB9KQogICAgfQogIH0pOwogIHRyeSB7CiAgICBoLnNldE1vZGUoJ3Jlc2VydmVkMicpOwogICAgY29uc3Qgc3luY2VkID0gYXdhaXQgaC5zeW5jU3RpY2tlckxpYnJhcnkodHJ1ZSk7CiAgICBhc3NlcnQuZXF1YWwoc3luY2VkLCBudWxsKTsKICB9IGZpbmFsbHkgeyBhd2FpdCBoLmNsb3NlKCk7IH0KfSk7Cgpjb25zb2xlLmxvZyhgXG4ke2ZhaWx1cmVzID8gJ0ZBSUxFRCcgOiAnQUxMIFBBU1MnfSAgdGVzdHM9JHt0ZXN0c30gZmFpbHVyZXM9JHtmYWlsdXJlc31gKTsKaWYgKGZhaWx1cmVzKSBwcm9jZXNzLmV4aXQoMSk7Cg==
+// 表情库同步的「WS 挂掉」兜底回归（2026-10-18）。
+//
+// 真实故障：`fetch_custom_face_detail` 原来只走 SnowLuma 的 WS action。WS 重连窗口里
+// 同步必然失败 —— 日志实测 33 次同步 16 次失败（≈48%，全是 WS closed），
+// 表现就是"收藏表情时有时无"，以及 qq_get_sticker_image 报「找不到表情」。
+// 而同一个网关的 HTTP 口一直可用（onebotSend / fetch_ptt_text 都在用）。
+//
+// 本文件验证：WS 正常时走 WS（不多打一次 HTTP）；WS 失败时自动改走 HTTP，且结果标 via=http。
+import assert from 'node:assert/strict';
+import { bridgeHarness } from './audit-bridge-harness.mjs';
+
+let failures = 0;
+let tests = 0;
+async function test(name, run) {
+  tests++;
+  try { await run(); console.log('PASS', name); }
+  catch (error) { failures++; console.error('FAIL', name, '—', error?.stack ?? error); }
+}
+
+// 一个只用来"演 WS 挂掉"的客户端：除了被桥接订阅的事件方法，request 一律抛错。
+class WsDownBot {
+  onPrivateMessage() {}
+  onGroupMessage() {}
+  onNotice() {}
+  onEvent() {}
+  onEventError() {}
+  async request() { throw new Error('SnowLuma WebSocket closed before opening'); }
+  async getImage() { return null; }
+  async fetchFaceEntity() { return null; }
+  async sendPrivateMessage() {}
+  async sendGroupMessage() {}
+  async connect() {}
+  close() {}
+}
+
+// 一个"WS 正常"的客户端：返回合法的收藏表情数组。
+class WsUpBot extends WsDownBot {
+  async request(action) {
+    if (action === 'fetch_custom_face_detail') {
+      return { status: 'ok', retcode: 0, data: [{ emoji_id: 'ws-fixture-sticker', resId: 'ws-fixture-sticker', url: 'https://public.invalid/ws-sticker', md5: '11223344556677889900AABBCCDDEEFF', desc: 'WS 表情' }] };
+    }
+    return { status: 'ok', retcode: 0, data: {} };
+  }
+}
+
+const httpCalls = (h) => h.calls.http.filter((c) => String(c.url).endsWith('/fetch_custom_face_detail'));
+
+await test('WS 正常时走 WS，不额外打 HTTP', async () => {
+  const h = await bridgeHarness({ globals: { SnowLumaWebSocketClient: WsUpBot } });
+  try {
+    h.setMode('reserved2');
+    const synced = await h.syncStickerLibrary(true);
+    assert.ok(synced, '同步应当成功');
+    assert.equal(synced.via, 'ws');
+    assert.equal(synced.entries.length, 1);
+    assert.equal(synced.entries[0].id, 'ws-fixture-sticker');
+    assert.equal(httpCalls(h).length, 0, 'WS 成功时不该再打 HTTP（不增加正常路径延迟）');
+  } finally { await h.close(); }
+});
+
+await test('WS 挂了自动改走 OneBot HTTP，结果标 via=http', async () => {
+  const h = await bridgeHarness({ globals: { SnowLumaWebSocketClient: WsDownBot } });
+  try {
+    h.setMode('reserved2');
+    const synced = await h.syncStickerLibrary(true);
+    assert.ok(synced, 'WS 失败时必须有兜底，而不是整条链路失败');
+    assert.equal(synced.via, 'http');
+    assert.equal(synced.entries.length, 1);
+    assert.equal(synced.entries[0].id, 'http-fixture-sticker');
+    assert.equal(synced.entries[0].desc, 'HTTP 兜底表情');
+    const calls = httpCalls(h);
+    assert.equal(calls.length, 1, '应当只打一次 HTTP');
+    assert.deepEqual(calls[0].body, { count: 100 }, '要带上与 WS 路径相同的参数');
+  } finally { await h.close(); }
+});
+
+await test('HTTP 兜底也失败时仍然返回 null（不炸、不清空本地库）', async () => {
+  const h = await bridgeHarness({
+    globals: {
+      SnowLumaWebSocketClient: WsDownBot,
+      // 覆盖 harness 的通用 fetch：模拟 HTTP 口也连不上
+      fetch: async () => { throw new Error('connect ECONNREFUSED 127.0.0.1:3000'); }
+    }
+  });
+  try {
+    h.setMode('reserved2');
+    const synced = await h.syncStickerLibrary(true);
+    assert.equal(synced, null, '两条路都失败时按原约定返回 null（调用方用缓存）');
+  } finally { await h.close(); }
+});
+
+await test('HTTP 返回的不是数组时不合并（防拿坏数据清空表情库）', async () => {
+  const h = await bridgeHarness({
+    globals: {
+      SnowLumaWebSocketClient: WsDownBot,
+      // 覆盖 harness 的通用 fetch：让 HTTP 兜底返回一个对象而不是数组
+      fetch: async (url) => ({
+        ok: true,
+        status: 200,
+        json: async () => ({ status: 'ok', retcode: 0, data: { not: 'an array' } })
+      })
+    }
+  });
+  try {
+    h.setMode('reserved2');
+    const synced = await h.syncStickerLibrary(true);
+    assert.equal(synced, null);
+  } finally { await h.close(); }
+});
+
+console.log(`\n${failures ? 'FAILED' : 'ALL PASS'}  tests=${tests} failures=${failures}`);
+if (failures) process.exit(1);

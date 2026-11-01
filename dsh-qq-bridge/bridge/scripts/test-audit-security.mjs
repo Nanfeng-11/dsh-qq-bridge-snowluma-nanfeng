@@ -1,1 +1,196 @@
-Ly8gT2ZmbGluZSByZWdyZXNzaW9uIHRlc3RzOiBubyBzb2NrZXRzLCBRUSBtZXNzYWdlcywgcHJvZHVjdGlvbiBjb25maWcgb3Igc2VjcmV0cy4KaW1wb3J0IGFzc2VydCBmcm9tICdub2RlOmFzc2VydC9zdHJpY3QnOwppbXBvcnQgeyB0ZXN0IH0gZnJvbSAnbm9kZTp0ZXN0JzsKaW1wb3J0IGRucyBmcm9tICdub2RlOmRucyc7CmltcG9ydCBodHRwIGZyb20gJ25vZGU6aHR0cCc7CmltcG9ydCBodHRwcyBmcm9tICdub2RlOmh0dHBzJzsKaW1wb3J0IHsgRXZlbnRFbWl0dGVyIH0gZnJvbSAnbm9kZTpldmVudHMnOwppbXBvcnQgeyBQYXNzVGhyb3VnaCB9IGZyb20gJ25vZGU6c3RyZWFtJzsKaW1wb3J0IHsgU0VOU0lUSVZFX1JFIH0gZnJvbSAnLi4vc3JjL3NlbnNpdGl2ZS5qcyc7Cgpjb25zdCBsb29rdXBDYWxscyA9IFtdOwpjb25zdCBvcmlnaW5hbExvb2t1cCA9IGRucy5wcm9taXNlcy5sb29rdXA7CmRucy5wcm9taXNlcy5sb29rdXAgPSBhc3luYyAoaG9zdCkgPT4gewogIGxvb2t1cENhbGxzLnB1c2goaG9zdCk7CiAgaWYgKGhvc3QgPT09ICdwdWJsaWMudGVzdCcpIHJldHVybiBbeyBhZGRyZXNzOiAnOTMuMTg0LjIxNi4zNCcsIGZhbWlseTogNCB9XTsKICBpZiAoaG9zdCA9PT0gJ21peGVkLnRlc3QnKSByZXR1cm4gW3sgYWRkcmVzczogJzkzLjE4NC4yMTYuMzQnLCBmYW1pbHk6IDQgfSwgeyBhZGRyZXNzOiAnOjoxJywgZmFtaWx5OiA2IH1dOwogIGlmIChob3N0ID09PSAnZXhwYW5kZWQudGVzdCcpIHJldHVybiBbeyBhZGRyZXNzOiAnMDowOjA6MDowOmZmZmY6N2YwMDoxJywgZmFtaWx5OiA2IH1dOwogIC8vIOWPjOagiOS4u+acuu+8mklQdjYg5Zyo5YmN77yI55yf5a6eIEROUyDnmoTluLjop4Hpobrluo/vvInvvIznlKjkuo7pqozor4HjgIxJUHY0IOS8mOWFiCArIOWksei0peWIh+aNouOAjeOAggogIGlmIChob3N0ID09PSAnZHVhbC50ZXN0JykgcmV0dXJuIFsKICAgIHsgYWRkcmVzczogJzI2MDY6NDcwMDo0NzAwOjoxMTExJywgZmFtaWx5OiA2IH0sCiAgICB7IGFkZHJlc3M6ICc5My4xODQuMjE2LjM0JywgZmFtaWx5OiA0IH0sCiAgXTsKICB0aHJvdyBuZXcgRXJyb3IoYFVuZXhwZWN0ZWQgRE5TIGxvb2t1cCBpbiBvZmZsaW5lIHRlc3Q6ICR7aG9zdH1gKTsKfTsKbGV0IGZldGNoTW9kdWxlOwp0cnkgeyBmZXRjaE1vZHVsZSA9IGF3YWl0IGltcG9ydCgnLi4vc3JjL3NhZmUtZmV0Y2guanMnKTsgfQpmaW5hbGx5IHsgZG5zLnByb21pc2VzLmxvb2t1cCA9IG9yaWdpbmFsTG9va3VwOyB9CmNvbnN0IHsgaXNQcml2YXRlSXAsIHNhZmVGZXRjaCwgc2FmZUZldGNoQnVmZmVyLCB2YWxpZGF0ZUZldGNoVXJsIH0gPSBmZXRjaE1vZHVsZTsKCmZ1bmN0aW9uIG1vY2tUcmFuc3BvcnQodCwgc2NyaXB0cykgewogIGNvbnN0IHJlcXVlc3RzID0gW107CiAgY29uc3QgcmVzcG9uc2VzID0gW107CiAgY29uc3QgcmVxdWVzdCA9IChvcHRpb25zLCBjYWxsYmFjaykgPT4gewogICAgY29uc3Qgc2NyaXB0ID0gc2NyaXB0c1tyZXF1ZXN0cy5sZW5ndGhdOwogICAgYXNzZXJ0Lm9rKHNjcmlwdCwgJ1VuZXhwZWN0ZWQgb3V0Z29pbmcgcmVxdWVzdCcpOwogICAgY29uc3QgcmVxID0gbmV3IEV2ZW50RW1pdHRlcigpOwogICAgcmVxdWVzdHMucHVzaCh7IG9wdGlvbnMsIHJlcSB9KTsKICAgIHJlcS5kZXN0cm95ZWQgPSBmYWxzZTsKICAgIHJlcS5kZXN0cm95ID0gKGVycm9yKSA9PiB7CiAgICAgIHJlcS5kZXN0cm95ZWQgPSB0cnVlOwogICAgICBpZiAoZXJyb3IpIHF1ZXVlTWljcm90YXNrKCgpID0+IHJlcS5lbWl0KCdlcnJvcicsIGVycm9yKSk7CiAgICB9OwogICAgcmVxLmVuZCA9ICgpID0+IHF1ZXVlTWljcm90YXNrKCgpID0+IHsKICAgICAgaWYgKHNjcmlwdC5mYWlsV2l0aCkgewogICAgICAgIC8vIOaooeaLn+OAjOi/meS4quWcsOWdgOi/nuS4jeS4iuOAje+8mui/nuaOpemYtuauteaKpemUme+8jOiAjOS4jeS6p+eUn+WTjeW6lOOAggogICAgICAgIHJlcS5lbWl0KCdlcnJvcicsIG5ldyBFcnJvcihzY3JpcHQuZmFpbFdpdGgpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KICAgICAgY29uc3QgcmVzID0gbmV3IFBhc3NUaHJvdWdoKCk7CiAgICAgIHJlcy5zdGF0dXNDb2RlID0gc2NyaXB0LnN0YXR1cyB8fCAyMDA7CiAgICAgIHJlcy5oZWFkZXJzID0gc2NyaXB0LmhlYWRlcnMgfHwge307CiAgICAgIHJlcy5jb21wbGV0ZSA9IGZhbHNlOwogICAgICByZXNwb25zZXMucHVzaChyZXMpOwogICAgICBjYWxsYmFjayhyZXMpOwogICAgICBpZiAocmVzLmRlc3Ryb3llZCkgcmV0dXJuOwogICAgICBpZiAoc2NyaXB0LnByb2R1Y2UpIHNjcmlwdC5wcm9kdWNlKHJlcyk7CiAgICAgIGVsc2UgewogICAgICAgIHJlcy5jb21wbGV0ZSA9IHRydWU7CiAgICAgICAgcmVzLmVuZChzY3JpcHQuYm9keSB8fCAnb2snKTsKICAgICAgfQogICAgfSk7CiAgICByZXR1cm4gcmVxOwogIH07CiAgdC5tb2NrLm1ldGhvZChodHRwLCAncmVxdWVzdCcsIHJlcXVlc3QpOwogIHQubW9jay5tZXRob2QoaHR0cHMsICdyZXF1ZXN0JywgcmVxdWVzdCk7CiAgcmV0dXJuIHsgcmVxdWVzdHMsIHJlc3BvbnNlcyB9Owp9Cgp0ZXN0KCdzZW5zaXRpdmUgYXVkaXQgY2F0Y2hlcyBVTkMgcGF0aHMgYW5kIHF1b3RlZCBKU09OIGNyZWRlbnRpYWxzJywgKCkgPT4gewogIGZvciAoY29uc3QgdmFsdWUgb2YgWwogICAgU3RyaW5nLnJhd2BcXHNlcnZlclxzaGFyZVxwcml2YXRlLnR4dGAsCiAgICBTdHJpbmcucmF3YEM6XFVzZXJzXHNvbWVvbmVcY29uZmlnLmpzb25gLAogICAgJy9yb290Ly5zc2gvaWRfcnNhJywKICAgICd7InRva2VuIjoiZml4dHVyZS1vbmx5LXRva2VuIn0nLAogICAgJ3siYWNjZXNzVG9rZW4iOiAiZml4dHVyZS1vbmx5LXRva2VuIn0nLAogICAgInsncGFzc3dvcmQnOiAnZml4dHVyZS1wYXNzd29yZCd9IiwKICAgICdhcGlfa2V5ID0gZml4dHVyZS1hcGktdmFsdWUnLAogIF0pIGFzc2VydC5lcXVhbChTRU5TSVRJVkVfUkUudGVzdCh2YWx1ZSksIHRydWUsIHZhbHVlKTsKICBmb3IgKGNvbnN0IHZhbHVlIG9mIFsn5L2g5aW977yM5LuK5aSp5ZCD5LuA5LmIJywgJ+WmguS9leiuvue9ruWvhuegge+8nycsICd0b2tlbiDnmoTkvZznlKjmmK/ku4DkuYjvvJ8nLCAn6K6/6ZeuIGh0dHBzOi8vZXhhbXBsZS5jb20vZ3VpZGUnXSkgewogICAgYXNzZXJ0LmVxdWFsKFNFTlNJVElWRV9SRS50ZXN0KHZhbHVlKSwgZmFsc2UsIHZhbHVlKTsKICB9Cn0pOwoKdGVzdCgnSVB2NiBjYW5vbmljYWxpemF0aW9uIGNhbm5vdCB0dXJuIGEgcHJpdmF0ZSBhZGRyZXNzIGludG8gcHVibGljJywgKCkgPT4gewogIGZvciAoY29uc3QgdmFsdWUgb2YgWwogICAgJzA6MDowOjA6MDowOjA6MScsICcwOjA6MDowOjA6ZmZmZjo3ZjAwOjEnLAogICAgJzo6ZmZmZjoxMjcuMC4wLjEnLCAnZmQwMDo6OC44LjguOCcsICdmZTgwOjo4LjguOC44JywKICAgICc2NDpmZjliOjo3ZjAwOjEnLCAnNjQ6ZmY5YjoxOmEwMDo6ODA4OjgwOCcsICdub3QtYW4taXAnLAogIF0pIGFzc2VydC5lcXVhbChpc1ByaXZhdGVJcCh2YWx1ZSksIHRydWUsIHZhbHVlKTsKICBmb3IgKGNvbnN0IHZhbHVlIG9mIFsnOC44LjguOCcsICcyNjA2OjQ3MDA6NDcwMDo6MTExMScsICc6OmZmZmY6OC44LjguOCddKSB7CiAgICBhc3NlcnQuZXF1YWwoaXNQcml2YXRlSXAodmFsdWUpLCBmYWxzZSwgdmFsdWUpOwogIH0KfSk7Cgp0ZXN0KCdVUkxzIGFuZCBldmVyeSBETlMgcmVzdWx0IGFyZSB2YWxpZGF0ZWQgYmVmb3JlIG9wZW5pbmcgYSBjb25uZWN0aW9uJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCB0cmFuc3BvcnQgPSBtb2NrVHJhbnNwb3J0KHQsIFtdKTsKICBmb3IgKGNvbnN0IHVybCBvZiBbCiAgICAnZmlsZTovLy9ldGMvcGFzc3dkJywgJ2h0dHA6Ly91c2VyOnBhc3NAcHVibGljLnRlc3QvJywgJ2h0dHA6Ly8xMjcuMS8nLAogICAgJ2h0dHA6Ly9bOjpmZmZmOjEyNy4wLjAuMV0vJywgJ2h0dHA6Ly9sb2NhbGhvc3QuLycsICdodHRwOi8vaG9zdC5sb2NhbC4vJywKICAgICdodHRwOi8vbWl4ZWQudGVzdC8nLCAnaHR0cDovL2V4cGFuZGVkLnRlc3QvJywKICBdKSBhd2FpdCBhc3NlcnQucmVqZWN0cyh2YWxpZGF0ZUZldGNoVXJsKHVybCkpOwogIGFzc2VydC5lcXVhbCh0cmFuc3BvcnQucmVxdWVzdHMubGVuZ3RoLCAwKTsKfSk7Cgp0ZXN0KCdIVFRQIHRyYW5zcG9ydCBwaW5zIHRoZSB2YWxpZGF0ZWQgSVAgYW5kIHByZXNlcnZlcyBIb3N0IGFuZCBUTFMgU05JJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCBiZWZvcmUgPSBsb29rdXBDYWxscy5sZW5ndGg7CiAgY29uc3QgeyByZXF1ZXN0cyB9ID0gbW9ja1RyYW5zcG9ydCh0LCBbeyBib2R5OiAnZml4dHVyZScgfV0pOwogIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHNhZmVGZXRjaCgnaHR0cHM6Ly9wdWJsaWMudGVzdC9wYWdlP3E9MScpOwogIGFzc2VydC5lcXVhbChyZXN1bHQuYm9keSwgJ2ZpeHR1cmUnKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LnRydW5jYXRlZCwgZmFsc2UpOwogIGFzc2VydC5kZWVwRXF1YWwobG9va3VwQ2FsbHMuc2xpY2UoYmVmb3JlKSwgWydwdWJsaWMudGVzdCddKTsKICBhc3NlcnQuZXF1YWwocmVxdWVzdHNbMF0ub3B0aW9ucy5ob3N0bmFtZSwgJzkzLjE4NC4yMTYuMzQnKTsKICBhc3NlcnQuZXF1YWwocmVxdWVzdHNbMF0ub3B0aW9ucy5oZWFkZXJzLmhvc3QsICdwdWJsaWMudGVzdCcpOwogIGFzc2VydC5lcXVhbChyZXF1ZXN0c1swXS5vcHRpb25zLnNlcnZlcm5hbWUsICdwdWJsaWMudGVzdCcpOwogIGFzc2VydC5lcXVhbChyZXF1ZXN0c1swXS5vcHRpb25zLnBhdGgsICcvcGFnZT9xPTEnKTsKfSk7Cgp0ZXN0KCdkdWFsLXN0YWNrIGhvc3RzIHRyeSBJUHY0IGZpcnN0IGFuZCBmYWlsIG92ZXIgdG8gdGhlIG5leHQgdmFsaWRhdGVkIGFkZHJlc3MnLCBhc3luYyAodCkgPT4gewogIC8vIOecn+WunuaVhemanOW9ouaAge+8mlFRIOihqOaDhSBDRE4g55qEIEFBQUEg6K6w5b2V5o6S5Zyo5YmN6Z2i77yM6ICM5pys5py65rKh5pyJIElQdjYg5Ye65Y+jIOKAlOKAlAogIC8vIOWPquWPluesrOS4gOS4quWcsOWdgOeahOaXp+WunueOsOS8muS4gOi3r+etieWIsCAyMCDnp5LotoXml7bvvIjooajnjrDkuLrjgIzpg6jliIbooajmg4Uv5Zu+54mH5Y+R5LiN5Ye65Y6744CN77yJ44CCCiAgY29uc3QgYmVmb3JlID0gbG9va3VwQ2FsbHMubGVuZ3RoOwogIGNvbnN0IHsgcmVxdWVzdHMgfSA9IG1vY2tUcmFuc3BvcnQodCwgW3sgZmFpbFdpdGg6ICdjb25uZWN0IEVUSU1FRE9VVCcgfSwgeyBib2R5OiAnc2Vjb25kIGFkZHJlc3Mgb2snIH1dKTsKICBjb25zdCByZXN1bHQgPSBhd2FpdCBzYWZlRmV0Y2goJ2h0dHBzOi8vZHVhbC50ZXN0L3N0aWNrZXInKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmJvZHksICdzZWNvbmQgYWRkcmVzcyBvaycpOwogIGFzc2VydC5kZWVwRXF1YWwobG9va3VwQ2FsbHMuc2xpY2UoYmVmb3JlKSwgWydkdWFsLnRlc3QnXSk7CiAgYXNzZXJ0LmVxdWFsKHJlcXVlc3RzLmxlbmd0aCwgMiwgJ+esrOS4gOS4quWcsOWdgOWksei0peWQjuW/hemhu+aNouS4i+S4gOS4quWcsOWdgOmHjeivlScpOwogIGFzc2VydC5lcXVhbChyZXF1ZXN0c1swXS5vcHRpb25zLmhvc3RuYW1lLCAnOTMuMTg0LjIxNi4zNCcsICdJUHY0IOW/hemhu+S8mOWFiO+8iOWNs+S9vyBETlMg5YWI57uZIEFBQUHvvIknKTsKICBhc3NlcnQuZXF1YWwocmVxdWVzdHNbMV0ub3B0aW9ucy5ob3N0bmFtZSwgJzI2MDY6NDcwMDo0NzAwOjoxMTExJywgJ+Wksei0peWQjuWIh+WIsOWPpuS4gOS4quW3suagoemqjOWcsOWdgCcpOwogIGFzc2VydC5lcXVhbChyZXF1ZXN0c1sxXS5vcHRpb25zLmhlYWRlcnMuaG9zdCwgJ2R1YWwudGVzdCcsICfmjaLlnLDlnYDkuI3og73mlLnlj5ggSG9zdCcpOwogIGFzc2VydC5lcXVhbChyZXF1ZXN0c1sxXS5vcHRpb25zLnNlcnZlcm5hbWUsICdkdWFsLnRlc3QnLCAn5o2i5Zyw5Z2A5LiN6IO95pS55Y+YIFRMUyBTTkknKTsKfSk7Cgp0ZXN0KCdyZWRpcmVjdCBib2RpZXMgYXJlIGNsb3NlZCBpbW1lZGlhdGVseSBhbmQgaW50ZXJuYWwgcmVkaXJlY3RzIGFyZSByZWplY3RlZCcsIGFzeW5jICh0KSA9PiB7CiAgY29uc3QgeyByZXF1ZXN0cywgcmVzcG9uc2VzIH0gPSBtb2NrVHJhbnNwb3J0KHQsIFt7IHN0YXR1czogMzAyLCBoZWFkZXJzOiB7IGxvY2F0aW9uOiAnaHR0cDovLzEyNy4wLjAuMS8nIH0sIHByb2R1Y2UoKSB7fSB9XSk7CiAgYXdhaXQgYXNzZXJ0LnJlamVjdHMoc2FmZUZldGNoKCdodHRwOi8vOTMuMTg0LjIxNi4zNC8nKSwgL+emgeatoi8pOwogIGFzc2VydC5lcXVhbChyZXF1ZXN0cy5sZW5ndGgsIDEpOwogIGFzc2VydC5lcXVhbChyZXNwb25zZXNbMF0uZGVzdHJveWVkLCB0cnVlKTsKfSk7Cgp0ZXN0KCdwdWJsaWMgcmVkaXJlY3RzIHN0aWxsIHdvcmsgd2l0aG91dCBkb3dubG9hZGluZyB0aGVpciBib2RpZXMnLCBhc3luYyAodCkgPT4gewogIGNvbnN0IHsgcmVzcG9uc2VzIH0gPSBtb2NrVHJhbnNwb3J0KHQsIFsKICAgIHsgc3RhdHVzOiAzMDcsIGhlYWRlcnM6IHsgbG9jYXRpb246ICcvbmV4dCcgfSwgcHJvZHVjZSgpIHt9IH0sCiAgICB7IGJvZHk6ICdyZWRpcmVjdCB3b3JrZWQnIH0sCiAgXSk7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2FmZUZldGNoKCdodHRwOi8vOTMuMTg0LjIxNi4zNC9zdGFydCcpOwogIGFzc2VydC5lcXVhbChyZXN1bHQudXJsLCAnaHR0cDovLzkzLjE4NC4yMTYuMzQvbmV4dCcpOwogIGFzc2VydC5lcXVhbChyZXN1bHQuYm9keSwgJ3JlZGlyZWN0IHdvcmtlZCcpOwogIGFzc2VydC5lcXVhbChyZXNwb25zZXNbMF0uZGVzdHJveWVkLCB0cnVlKTsKfSk7Cgp0ZXN0KCd0ZXh0IGxpbWl0cyBjb3VudCBVbmljb2RlIGNvZGUgcG9pbnRzIGFuZCBjbG9zZSBvdmVyc2l6ZWQgcmVzcG9uc2VzJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCB7IHJlc3BvbnNlcyB9ID0gbW9ja1RyYW5zcG9ydCh0LCBbeyBib2R5OiAn8J+YgPCfmIDwn5iA57un57utJyB9XSk7CiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgc2FmZUZldGNoKCdodHRwOi8vOTMuMTg0LjIxNi4zNC8nLCAzKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LmJvZHksICfwn5iA8J+YgPCfmIAnKTsKICBhc3NlcnQuZXF1YWwocmVzdWx0LnRydW5jYXRlZCwgdHJ1ZSk7CiAgYXNzZXJ0LmVxdWFsKHJlc3BvbnNlc1swXS5kZXN0cm95ZWQsIHRydWUpOwp9KTsKCnRlc3QoJ2ltYWdlIGJ5dGUgbGltaXRzIGFuZCBzaWduYXR1cmVzIGFyZSBjaGVja2VkJywgYXN5bmMgKHQpID0+IHsKICBjb25zdCBwbmcgPSBCdWZmZXIuZnJvbShbMHg4OSwgMHg1MCwgMHg0ZSwgMHg0NywgMTMsIDEwLCAyNiwgMTAsIDAsIDAsIDAsIDBdKTsKICBjb25zdCB7IHJlc3BvbnNlcyB9ID0gbW9ja1RyYW5zcG9ydCh0LCBbeyBib2R5OiBwbmcgfSwgeyBib2R5OiBwbmcgfSwgeyBib2R5OiBCdWZmZXIuYWxsb2MoMjApIH1dKTsKICBhc3NlcnQuZGVlcEVxdWFsKChhd2FpdCBzYWZlRmV0Y2hCdWZmZXIoJ2h0dHA6Ly85My4xODQuMjE2LjM0LycsIDEyKSkuYnVmZmVyLCBwbmcpOwogIGF3YWl0IGFzc2VydC5yZWplY3RzKHNhZmVGZXRjaEJ1ZmZlcignaHR0cDovLzkzLjE4NC4yMTYuMzQvJywgMTEpLCAv5aSn5bCP6ZmQ5Yi2Lyk7CiAgYXNzZXJ0LmVxdWFsKHJlc3BvbnNlc1sxXS5kZXN0cm95ZWQsIHRydWUpOwogIGF3YWl0IGFzc2VydC5yZWplY3RzKHNhZmVGZXRjaEJ1ZmZlcignaHR0cDovLzkzLjE4NC4yMTYuMzQvJyksIC/kuI3mmK/mnInmlYjlm77niYcvKTsKfSk7Cgp0ZXN0KCd0ZXh0IGFuZCBpbWFnZSByZXF1ZXN0cyBoYXZlIGEgdG90YWwgZGVhZGxpbmUgZGVzcGl0ZSBjb250aW51b3VzIGluY29taW5nIGRhdGEnLCBhc3luYyAodCkgPT4gewogIHQubW9jay50aW1lcnMuZW5hYmxlKHsgYXBpczogWydzZXRUaW1lb3V0J10gfSk7CiAgY29uc3QgeyByZXF1ZXN0cywgcmVzcG9uc2VzIH0gPSBtb2NrVHJhbnNwb3J0KHQsIFt7IHByb2R1Y2UoKSB7fSB9LCB7IHByb2R1Y2UoKSB7fSB9XSk7CiAgZm9yIChjb25zdCBmZXRjaGVyIG9mIFtzYWZlRmV0Y2gsIHNhZmVGZXRjaEJ1ZmZlcl0pIHsKICAgIGNvbnN0IHBlbmRpbmcgPSBmZXRjaGVyKCdodHRwOi8vOTMuMTg0LjIxNi4zNC8nKTsKICAgIGNvbnN0IHJlamVjdGVkID0gYXNzZXJ0LnJlamVjdHMocGVuZGluZywgL+ivt+axgui2heaXti8pOwogICAgLy8gTGV0IFVSTCB2YWxpZGF0aW9uIGFuZCB0aGUgbW9ja2VkIHJlc3BvbnNlIGNhbGxiYWNrIGNvbXBsZXRlLgogICAgZm9yIChsZXQgaSA9IDA7IGkgPCA4OyBpKyspIGF3YWl0IFByb21pc2UucmVzb2x2ZSgpOwogICAgdC5tb2NrLnRpbWVycy50aWNrKDE5MDAwKTsKICAgIHJlc3BvbnNlcy5hdCgtMSkud3JpdGUoQnVmZmVyLmZyb20oJ2EnKSk7CiAgICB0Lm1vY2sudGltZXJzLnRpY2soMTAwMCk7CiAgICBhd2FpdCByZWplY3RlZDsKICAgIGFzc2VydC5lcXVhbChyZXF1ZXN0cy5hdCgtMSkucmVxLmRlc3Ryb3llZCwgdHJ1ZSk7CiAgICBhc3NlcnQuZXF1YWwocmVzcG9uc2VzLmF0KC0xKS5kZXN0cm95ZWQsIHRydWUpOwogIH0KfSk7Cgp0ZXN0KCdhYm9ydGVkIGJvZGllcyByZWplY3QgaW5zdGVhZCBvZiBsZWF2aW5nIHRoZSBvcGVyYXRpb24gcGVuZGluZycsIGFzeW5jICh0KSA9PiB7CiAgbW9ja1RyYW5zcG9ydCh0LCBbeyBwcm9kdWNlOiAocmVzKSA9PiByZXMuZW1pdCgnYWJvcnRlZCcpIH1dKTsKICBhd2FpdCBhc3NlcnQucmVqZWN0cyhzYWZlRmV0Y2goJ2h0dHA6Ly85My4xODQuMjE2LjM0LycpLCAv5Lit5patLyk7Cn0pOwoKdGVzdCgnaW52YWxpZCByZXNvdXJjZSBsaW1pdHMgYXJlIHJlamVjdGVkIGJlZm9yZSBuZXR3b3JrIGFjY2VzcycsIGFzeW5jICh0KSA9PiB7CiAgbW9ja1RyYW5zcG9ydCh0LCBbXSk7CiAgZm9yIChjb25zdCBsaW1pdCBvZiBbMCwgLTEsIE5hTiwgSW5maW5pdHksIDEuNV0pIHsKICAgIGF3YWl0IGFzc2VydC5yZWplY3RzKHNhZmVGZXRjaCgnaHR0cDovLzkzLjE4NC4yMTYuMzQvJywgbGltaXQpLCAv5q2j5pW05pWwLyk7CiAgICBhd2FpdCBhc3NlcnQucmVqZWN0cyhzYWZlRmV0Y2hCdWZmZXIoJ2h0dHA6Ly85My4xODQuMjE2LjM0LycsIGxpbWl0KSwgL+ato+aVtOaVsC8pOwogIH0KfSk7Cg==
+// Offline regression tests: no sockets, QQ messages, production config or secrets.
+import assert from 'node:assert/strict';
+import { test } from 'node:test';
+import dns from 'node:dns';
+import http from 'node:http';
+import https from 'node:https';
+import { EventEmitter } from 'node:events';
+import { PassThrough } from 'node:stream';
+import { SENSITIVE_RE } from '../src/sensitive.js';
+
+const lookupCalls = [];
+const originalLookup = dns.promises.lookup;
+dns.promises.lookup = async (host) => {
+  lookupCalls.push(host);
+  if (host === 'public.test') return [{ address: '93.184.216.34', family: 4 }];
+  if (host === 'mixed.test') return [{ address: '93.184.216.34', family: 4 }, { address: '::1', family: 6 }];
+  if (host === 'expanded.test') return [{ address: '0:0:0:0:0:ffff:7f00:1', family: 6 }];
+  // 双栈主机：IPv6 在前（真实 DNS 的常见顺序），用于验证「IPv4 优先 + 失败切换」。
+  if (host === 'dual.test') return [
+    { address: '2606:4700:4700::1111', family: 6 },
+    { address: '93.184.216.34', family: 4 },
+  ];
+  throw new Error(`Unexpected DNS lookup in offline test: ${host}`);
+};
+let fetchModule;
+try { fetchModule = await import('../src/safe-fetch.js'); }
+finally { dns.promises.lookup = originalLookup; }
+const { isPrivateIp, safeFetch, safeFetchBuffer, validateFetchUrl } = fetchModule;
+
+function mockTransport(t, scripts) {
+  const requests = [];
+  const responses = [];
+  const request = (options, callback) => {
+    const script = scripts[requests.length];
+    assert.ok(script, 'Unexpected outgoing request');
+    const req = new EventEmitter();
+    requests.push({ options, req });
+    req.destroyed = false;
+    req.destroy = (error) => {
+      req.destroyed = true;
+      if (error) queueMicrotask(() => req.emit('error', error));
+    };
+    req.end = () => queueMicrotask(() => {
+      if (script.failWith) {
+        // 模拟「这个地址连不上」：连接阶段报错，而不产生响应。
+        req.emit('error', new Error(script.failWith));
+        return;
+      }
+      const res = new PassThrough();
+      res.statusCode = script.status || 200;
+      res.headers = script.headers || {};
+      res.complete = false;
+      responses.push(res);
+      callback(res);
+      if (res.destroyed) return;
+      if (script.produce) script.produce(res);
+      else {
+        res.complete = true;
+        res.end(script.body || 'ok');
+      }
+    });
+    return req;
+  };
+  t.mock.method(http, 'request', request);
+  t.mock.method(https, 'request', request);
+  return { requests, responses };
+}
+
+test('sensitive audit catches UNC paths and quoted JSON credentials', () => {
+  for (const value of [
+    String.raw`\\server\share\private.txt`,
+    String.raw`C:\Users\someone\config.json`,
+    '/root/.ssh/id_rsa',
+    '{"token":"fixture-only-token"}',
+    '{"accessToken": "fixture-only-token"}',
+    "{'password': 'fixture-password'}",
+    'api_key = fixture-api-value',
+  ]) assert.equal(SENSITIVE_RE.test(value), true, value);
+  for (const value of ['你好，今天吃什么', '如何设置密码？', 'token 的作用是什么？', '访问 https://example.com/guide']) {
+    assert.equal(SENSITIVE_RE.test(value), false, value);
+  }
+});
+
+test('IPv6 canonicalization cannot turn a private address into public', () => {
+  for (const value of [
+    '0:0:0:0:0:0:0:1', '0:0:0:0:0:ffff:7f00:1',
+    '::ffff:127.0.0.1', 'fd00::8.8.8.8', 'fe80::8.8.8.8',
+    '64:ff9b::7f00:1', '64:ff9b:1:a00::808:808', 'not-an-ip',
+  ]) assert.equal(isPrivateIp(value), true, value);
+  for (const value of ['8.8.8.8', '2606:4700:4700::1111', '::ffff:8.8.8.8']) {
+    assert.equal(isPrivateIp(value), false, value);
+  }
+});
+
+test('URLs and every DNS result are validated before opening a connection', async (t) => {
+  const transport = mockTransport(t, []);
+  for (const url of [
+    'file:///etc/passwd', 'http://user:pass@public.test/', 'http://127.1/',
+    'http://[::ffff:127.0.0.1]/', 'http://localhost./', 'http://host.local./',
+    'http://mixed.test/', 'http://expanded.test/',
+  ]) await assert.rejects(validateFetchUrl(url));
+  assert.equal(transport.requests.length, 0);
+});
+
+test('HTTP transport pins the validated IP and preserves Host and TLS SNI', async (t) => {
+  const before = lookupCalls.length;
+  const { requests } = mockTransport(t, [{ body: 'fixture' }]);
+  const result = await safeFetch('https://public.test/page?q=1');
+  assert.equal(result.body, 'fixture');
+  assert.equal(result.truncated, false);
+  assert.deepEqual(lookupCalls.slice(before), ['public.test']);
+  assert.equal(requests[0].options.hostname, '93.184.216.34');
+  assert.equal(requests[0].options.headers.host, 'public.test');
+  assert.equal(requests[0].options.servername, 'public.test');
+  assert.equal(requests[0].options.path, '/page?q=1');
+});
+
+test('dual-stack hosts try IPv4 first and fail over to the next validated address', async (t) => {
+  // 真实故障形态：QQ 表情 CDN 的 AAAA 记录排在前面，而本机没有 IPv6 出口 ——
+  // 只取第一个地址的旧实现会一路等到 20 秒超时（表现为「部分表情/图片发不出去」）。
+  const before = lookupCalls.length;
+  const { requests } = mockTransport(t, [{ failWith: 'connect ETIMEDOUT' }, { body: 'second address ok' }]);
+  const result = await safeFetch('https://dual.test/sticker');
+  assert.equal(result.body, 'second address ok');
+  assert.deepEqual(lookupCalls.slice(before), ['dual.test']);
+  assert.equal(requests.length, 2, '第一个地址失败后必须换下一个地址重试');
+  assert.equal(requests[0].options.hostname, '93.184.216.34', 'IPv4 必须优先（即使 DNS 先给 AAAA）');
+  assert.equal(requests[1].options.hostname, '2606:4700:4700::1111', '失败后切到另一个已校验地址');
+  assert.equal(requests[1].options.headers.host, 'dual.test', '换地址不能改变 Host');
+  assert.equal(requests[1].options.servername, 'dual.test', '换地址不能改变 TLS SNI');
+});
+
+test('redirect bodies are closed immediately and internal redirects are rejected', async (t) => {
+  const { requests, responses } = mockTransport(t, [{ status: 302, headers: { location: 'http://127.0.0.1/' }, produce() {} }]);
+  await assert.rejects(safeFetch('http://93.184.216.34/'), /禁止/);
+  assert.equal(requests.length, 1);
+  assert.equal(responses[0].destroyed, true);
+});
+
+test('public redirects still work without downloading their bodies', async (t) => {
+  const { responses } = mockTransport(t, [
+    { status: 307, headers: { location: '/next' }, produce() {} },
+    { body: 'redirect worked' },
+  ]);
+  const result = await safeFetch('http://93.184.216.34/start');
+  assert.equal(result.url, 'http://93.184.216.34/next');
+  assert.equal(result.body, 'redirect worked');
+  assert.equal(responses[0].destroyed, true);
+});
+
+test('text limits count Unicode code points and close oversized responses', async (t) => {
+  const { responses } = mockTransport(t, [{ body: '😀😀😀继续' }]);
+  const result = await safeFetch('http://93.184.216.34/', 3);
+  assert.equal(result.body, '😀😀😀');
+  assert.equal(result.truncated, true);
+  assert.equal(responses[0].destroyed, true);
+});
+
+test('image byte limits and signatures are checked', async (t) => {
+  const png = Buffer.from([0x89, 0x50, 0x4e, 0x47, 13, 10, 26, 10, 0, 0, 0, 0]);
+  const { responses } = mockTransport(t, [{ body: png }, { body: png }, { body: Buffer.alloc(20) }]);
+  assert.deepEqual((await safeFetchBuffer('http://93.184.216.34/', 12)).buffer, png);
+  await assert.rejects(safeFetchBuffer('http://93.184.216.34/', 11), /大小限制/);
+  assert.equal(responses[1].destroyed, true);
+  await assert.rejects(safeFetchBuffer('http://93.184.216.34/'), /不是有效图片/);
+});
+
+test('text and image requests have a total deadline despite continuous incoming data', async (t) => {
+  t.mock.timers.enable({ apis: ['setTimeout'] });
+  const { requests, responses } = mockTransport(t, [{ produce() {} }, { produce() {} }]);
+  for (const fetcher of [safeFetch, safeFetchBuffer]) {
+    const pending = fetcher('http://93.184.216.34/');
+    const rejected = assert.rejects(pending, /请求超时/);
+    // Let URL validation and the mocked response callback complete.
+    for (let i = 0; i < 8; i++) await Promise.resolve();
+    t.mock.timers.tick(19000);
+    responses.at(-1).write(Buffer.from('a'));
+    t.mock.timers.tick(1000);
+    await rejected;
+    assert.equal(requests.at(-1).req.destroyed, true);
+    assert.equal(responses.at(-1).destroyed, true);
+  }
+});
+
+test('aborted bodies reject instead of leaving the operation pending', async (t) => {
+  mockTransport(t, [{ produce: (res) => res.emit('aborted') }]);
+  await assert.rejects(safeFetch('http://93.184.216.34/'), /中断/);
+});
+
+test('invalid resource limits are rejected before network access', async (t) => {
+  mockTransport(t, []);
+  for (const limit of [0, -1, NaN, Infinity, 1.5]) {
+    await assert.rejects(safeFetch('http://93.184.216.34/', limit), /正整数/);
+    await assert.rejects(safeFetchBuffer('http://93.184.216.34/', limit), /正整数/);
+  }
+});

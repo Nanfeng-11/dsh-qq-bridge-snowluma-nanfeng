@@ -1,1 +1,15 @@
-Ly8g5YWx5Lqr55qE5pWP5oSf5L+h5oGv5a6h6K6h5q2j5YiZ77ya5qGl5o6l5Zue5aSN44CBTUNQIOWPkemAgeOAgeWuoeaJuS/mj5Dpl67mlofmnKznrYnnu5/kuIDkvb/nlKjvvIzpgb/lhY3kuKTlpITnu7TmiqTkuI3kuIDoh7TjgIIKLy8g5oum5oiq5pys5py66Lev5b6EL+WHreaNrueJueW+ge+8m+WHreaNruWFs+mUruivjemcgOW4pui1i+WAvOWFs+ezu+aJjeWIpOWumu+8jOmBv+WFjeivr+S8pOato+W4uOiBiuWkqeOAggovLyBVTkMg55qE5Li75py6L+WFseS6q+WQjeS5i+mXtOWPquacieS4gOS4quWPjeaWnOadoO+8m0pTT04g6ZSu5ZCN5Y+v6IO95bim5byV5Y+344CCCi8vIOi/meaYr+WGheWuueWuoeiuoeeahOWQr+WPkeW8j+inhOWIme+8jOS4jeiDveS7o+abv+S8muivneadg+mZkOaOp+WItuaIluWvueW3suefpeS7pOeJjOeahOeyvuehruaLpuaIquOAggovLwovLyDkuKTpgZPlhoXlrrnpl7jpl6jmmK8qKuacieaEj+S6kuihpSoq55qE77yM5LiN5piv6YeN5aSN5a6e546w77yaCi8vICAg4pGgIOi/memHjO+8iOWQr+WPkeW8j++8ie+8muaKkyLplb/lvpflg4/ot6/lvoQgLyDlg4/lh63mja7otYvlgLwi55qE5paH5pys77yM5Lu75L2V5LiA5p2h5Ye656uZ5paH5pys6YO96IO96L+H77ybCi8vICAg4pGhIEtOT1dOX0FHRU5UX1RPS0VOUyDnsr7noa7lkI3ljZXvvIhicmlkZ2UuanPvvInvvJrmipMqKuW3suefpeeahCoq5Lya6K+d5Luk54mM5Y6f5paH77yMCi8vICAgICAg6KaG55uWIG9uZWJvdFNlbmQgLyByZWRhY3RLbm93blRva2Vuc09ubHkg6L+Z57G75Yi75oSP5LiN6LeRIFNFTlNJVElWRV9SRSDnmoTlj5HpgIHot6/lvoTjgIIKLy8g5Li65LuA5LmI56ys5LqM5p2h5LiN5Y+v55yB77yaMzIg5L2N5Y2B5YWt6L+b5Yi255qE6KO45Lya6K+d5Luk54mMKirkuI3ljLnphY0qKuS4i+mdoueahOato+WIme+8iOWug+aXouS4jeaYr+i3r+W+hO+8jAovLyDkuZ/msqHmnIkgdG9rZW49IOi/meenjei1i+WAvOW9ouaAge+8ie+8jOWPquacieeyvuehruWQjeWNleiDveaLpuS9j+Wug+OAggovLyDlj43ov4fmnaXvvIwqKuS4jeimgSoq5Li65LqG6K6p6L+Z5p2h5q2j5YiZIumhuuW4piLopobnm5boo7ggMzItaGV4IOiAjOW+gOmHjOWKoCBbMC05YS1mXXszMn3vvJoKLy8g6KGo5oOFIG1kNeOAgeWbvueJhyBVUkzjgIHmtojmga/ph4znmoTljYHlha3ov5vliLbkuLLmnKzouqvlsLHmmK8gMzItaGV477yM5Yqg6L+b5Y675Lya5oqK5q2j5bi455qE6KGo5oOF5YyF5LiO5raI5oGvCi8vIOaVtOadoeaLpuaOiS/miZPnoIHvvIjor6/kvKTpnaLov5zlpKfkuo7mlLbnm4rvvInjgILopoHmlLbntKfku6TniYzms4TmvI/vvIzor7fotbDnsr7noa7lkI3ljZXpgqPmnaHot6/jgIIKZXhwb3J0IGNvbnN0IFNFTlNJVElWRV9SRSA9IC8oKD88IVtBLVphLXowLTldKVtBLVphLXpdOltcXC9dW15ccyInPD58XSt8XFxcXFteXFxccyInPD58XStcXFteXHMiJzw+fF0rfCg/PCFbQS1aYS16MC05XSkoPzpcL2hvbWVcL3xcL1VzZXJzXC98XC9ldGNcL3xcL3ZhclwvfFwvcm9vdFwvKVteXHMiJzw+fF0qfCg/OnRva2VufOWvhueggXzlr4bpkqV85Y+j5LukfHBhc3N3b3JkfHBhc3N3ZHxzZWNyZXR8YXBpW18tXT9rZXl8YXV0aG9yaXphdGlvbnxiZWFyZXJ8YWNjZXNzW18tXT9rZXl8Y3JlZGVudGlhbClbIiddPyg/OlxzKig/Ols6Pe+8ml185pivfOS4uilccypbIiddP1teXHPvvIzjgILvvJvjgIEiJ117Myx9fFxzK1tBLVphLXowLTlfXC0uL117Myx9KSkvaTsK
+// 共享的敏感信息审计正则：桥接回复、MCP 发送、审批/提问文本等统一使用，避免两处维护不一致。
+// 拦截本机路径/凭据特征；凭据关键词需带赋值关系才判定，避免误伤正常聊天。
+// UNC 的主机/共享名之间只有一个反斜杠；JSON 键名可能带引号。
+// 这是内容审计的启发式规则，不能代替会话权限控制或对已知令牌的精确拦截。
+//
+// 两道内容闸门是**有意互补**的，不是重复实现：
+//   ① 这里（启发式）：抓"长得像路径 / 像凭据赋值"的文本，任何一条出站文本都能过；
+//   ② KNOWN_AGENT_TOKENS 精确名单（bridge.js）：抓**已知的**会话令牌原文，
+//      覆盖 onebotSend / redactKnownTokensOnly 这类刻意不跑 SENSITIVE_RE 的发送路径。
+// 为什么第二条不可省：32 位十六进制的裸会话令牌**不匹配**下面的正则（它既不是路径，
+// 也没有 token= 这种赋值形态），只有精确名单能拦住它。
+// 反过来，**不要**为了让这条正则"顺带"覆盖裸 32-hex 而往里加 [0-9a-f]{32}：
+// 表情 md5、图片 URL、消息里的十六进制串本身就是 32-hex，加进去会把正常的表情包与消息
+// 整条拦掉/打码（误伤面远大于收益）。要收紧令牌泄漏，请走精确名单那条路。
+export const SENSITIVE_RE = /((?<![A-Za-z0-9])[A-Za-z]:[\\/][^\s"'<>|]+|\\\\[^\\\s"'<>|]+\\[^\s"'<>|]+|(?<![A-Za-z0-9])(?:\/home\/|\/Users\/|\/etc\/|\/var\/|\/root\/)[^\s"'<>|]*|(?:token|密码|密钥|口令|password|passwd|secret|api[_-]?key|authorization|bearer|access[_-]?key|credential)["']?(?:\s*(?:[:=：]|是|为)\s*["']?[^\s，。；、"']{3,}|\s+[A-Za-z0-9_\-./]{3,}))/i;

@@ -1,1 +1,158 @@
-Ly8g6KGo5oOF5YyF5L2T57O76Ieq5qOA77yaCi8vIDEpIHN0aWNrZXItbGliIOe6r+WHveaVsO+8iOWQiOW5ti/mn6Xmib4v5qC85byP5YyWL+eslOiusC/kvb/nlKjnu5/orqHvvIkKLy8gMikg6YWN572u6aG55LiOIE1DUCDlt6Xlhbfmj4/ov7DlrZjlnKjmgKcKLy8gMykg5Y+v6YCJIGxpdmUg5qih5byP77yaUVFfQlJJREdFX1RFU1RfTElWRT0xIOaXtuiwg+eUqCBTbm93THVtYSDmi4nlj5bmlLbol4/ooajmg4Xlubbpqozor4Egc2FmZUZldGNoQnVmZmVyIOWPr+aKk+WbvgppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7CiAgbm9ybWFsaXplU3RpY2tlckVudHJ5LAogIG1lcmdlU3RpY2tlckxpYnJhcnksCiAgZmluZFN0aWNrZXIsCiAgZm9ybWF0U3RpY2tlckxpc3QsCiAgYnVpbGRTdGlja2VyQ29udGV4dCwKICBidWlsZFN0aWNrZXJTdHJhdGVneUhpbnQsCiAgYXBwbHlTdGlja2VyTm90ZSwKICBtYXJrU3RpY2tlclVzZWQKfSBmcm9tICcuLi9zcmMvc3RpY2tlci1saWIuanMnOwoKY29uc3QgX19kaXJuYW1lID0gcGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSk7CmNvbnN0IFJPT1QgPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAnLi4nKTsKCmxldCBwYXNzID0gMDsKbGV0IGZhaWwgPSAwOwpmdW5jdGlvbiBvayhjb25kLCBuYW1lKSB7CiAgaWYgKGNvbmQpIHsgcGFzcyArPSAxOyBjb25zb2xlLmxvZyhgICDinIUgJHtuYW1lfWApOyB9CiAgZWxzZSB7IGZhaWwgKz0gMTsgY29uc29sZS5lcnJvcihgICDinYwgJHtuYW1lfWApOyB9Cn0KCmNvbnNvbGUubG9nKCcjIyBzdGlja2VyLWxpYiDnuq/lh73mlbAnKTsKewogIGNvbnN0IHJhdyA9IG5vcm1hbGl6ZVN0aWNrZXJFbnRyeSh7IGVtb2ppX2lkOiAnYScsIHJlc0lkOiAnYScsIHVybDogJ2h0dHBzOi8veC9hJywgbWQ1OiAnYWJjJywgZGVzYzogJ+eskeatuycsIGxvY2FsTm90ZTogJ+WYsuiuvScsIHRhZ3M6IFsn5oC85Lq6J10gfSk7CiAgb2socmF3ICYmIHJhdy5pZCA9PT0gJ2EnICYmIHJhdy5kZXNjID09PSAn56yR5q27JyAmJiByYXcubG9jYWxOb3RlID09PSAn5Ziy6K69JywgJ25vcm1hbGl6ZVN0aWNrZXJFbnRyeSDln7rmnKzlrZfmrrUnKTsKICBvayhub3JtYWxpemVTdGlja2VyRW50cnkoe30pID09PSBudWxsLCAn56m66K6w5b2V6L+U5ZueIG51bGwnKTsKfQoKewogIGNvbnN0IGJhc2UgPSBtZXJnZVN0aWNrZXJMaWJyYXJ5KFtdLCBbCiAgICB7IGVtb2ppX2lkOiAnYScsIHJlc0lkOiAnYScsIHVybDogJ2h0dHBzOi8veC9hJywgbWQ1OiAnQUJDJywgZGVzYzogJ+eskeatuycgfSwKICAgIHsgZW1vamlfaWQ6ICdiJywgcmVzSWQ6ICdiJywgdXJsOiAnaHR0cHM6Ly94L2InLCBtZDU6ICdERUYnLCBkZXNjOiAnJyB9CiAgXSk7CiAgb2soYmFzZS5sZW5ndGggPT09IDIsICdtZXJnZSDmlrDlop7kuKTmnaEnKTsKICBjb25zdCBtZXJnZWQgPSBtZXJnZVN0aWNrZXJMaWJyYXJ5KGJhc2UsIFsKICAgIHsgZW1vamlfaWQ6ICdhJywgcmVzSWQ6ICdhJywgdXJsOiAnaHR0cHM6Ly94L2EyJywgbWQ1OiAnQUJDJywgZGVzYzogJ+eskeWTrScgfQogIF0pOwogIG9rKG1lcmdlZC5sZW5ndGggPT09IDEsICdtZXJnZSDkvJrnp7vpmaQgUVEg56uv5bey5Yig6Zmk55qE6KGo5oOFJyk7CiAgb2sobWVyZ2VkWzBdLmlkID09PSAnYScgJiYgbWVyZ2VkWzBdLnVybCA9PT0gJ2h0dHBzOi8veC9hMicgJiYgbWVyZ2VkWzBdLmRlc2MgPT09ICfnrJHlk60nLCAnbWVyZ2Ug5pu05pawIFFRIOWtl+autScpOwp9Cgp7CiAgY29uc3QgbGlzdCA9IG1lcmdlU3RpY2tlckxpYnJhcnkoW10sIFsKICAgIHsgZW1vamlfaWQ6ICdhJywgcmVzSWQ6ICdhJywgdXJsOiAnaHR0cHM6Ly94L2EnLCBtZDU6ICdBQkMnLCBkZXNjOiAn56yR5q27JyB9LAogICAgeyBlbW9qaV9pZDogJ2InLCByZXNJZDogJ2InLCB1cmw6ICdodHRwczovL3gvYicsIG1kNTogJ0RFRicsIGRlc2M6ICfnlJ/msJQnIH0KICBdKTsKICBvayhmaW5kU3RpY2tlcihsaXN0LCAnYScpPy5pZCA9PT0gJ2EnLCAn5oyJIGVtb2ppX2lkIOafpeaJvicpOwogIG9rKGZpbmRTdGlja2VyKGxpc3QsICdhYmMnKT8uaWQgPT09ICdhJywgJ+aMiSBtZDUg5aSn5bCP5YaZ5LiN5pWP5oSf5p+l5om+Jyk7CiAgb2soZmluZFN0aWNrZXIobGlzdCwgJ2h0dHBzOi8veC9iJyk/LmlkID09PSAnYicsICfmjIkgVVJMIOafpeaJvicpOwogIG9rKGZpbmRTdGlja2VyKGxpc3QsICfkuI3lrZjlnKgnKSA9PT0gbnVsbCwgJ+aJvuS4jeWIsOi/lOWbniBudWxsJyk7Cn0KCnsKICBjb25zdCBsaXN0ID0gWwogICAgbm9ybWFsaXplU3RpY2tlckVudHJ5KHsgZW1vamlfaWQ6ICdhJywgcmVzSWQ6ICdhJywgdXJsOiAnaHR0cHM6Ly94L2EnLCBtZDU6ICdBQkMnLCBkZXNjOiAn56yR5q27JyB9KSwKICAgIG5vcm1hbGl6ZVN0aWNrZXJFbnRyeSh7IGVtb2ppX2lkOiAnYicsIHJlc0lkOiAnYicsIHVybDogJ2h0dHBzOi8veC9iJywgbWQ1OiAnREVGJywgZGVzYzogJ+eUn+awlCcgfSksCiAgICBub3JtYWxpemVTdGlja2VyRW50cnkoeyBlbW9qaV9pZDogJ2MnLCByZXNJZDogJ2MnLCB1cmw6ICdodHRwczovL3gvYycsIG1kNTogJ0dISScsIGRlc2M6ICcnLCBsb2NhbE5vdGU6ICfml6Dor60nIH0pCiAgXTsKICBjb25zdCBhbGwgPSBmb3JtYXRTdGlja2VyTGlzdChsaXN0LCAnJywgMTApOwogIG9rKGFsbC50b3RhbCA9PT0gMyAmJiBhbGwuc3RpY2tlcnMubGVuZ3RoID09PSAzLCAnZm9ybWF0U3RpY2tlckxpc3Qg5oC75pWwJyk7CiAgY29uc3QgcSA9IGZvcm1hdFN0aWNrZXJMaXN0KGxpc3QsICfnlJ/msJQnLCAxMCk7CiAgb2socS5tYXRjaGVkID09PSAxICYmIHEuc3RpY2tlcnNbMF0uaWQgPT09ICdiJywgJ2Zvcm1hdFN0aWNrZXJMaXN0IOaMieWkh+azqOaQnOe0oicpOwogIGNvbnN0IHEyID0gZm9ybWF0U3RpY2tlckxpc3QobGlzdCwgJ+aXoOivrScsIDEwKTsKICBvayhxMi5tYXRjaGVkID09PSAxICYmIHEyLnN0aWNrZXJzWzBdLmlkID09PSAnYycsICdmb3JtYXRTdGlja2VyTGlzdCDmjInmnKzlnLDnrJTorrDmkJzntKInKTsKICBjb25zdCBjdHggPSBidWlsZFN0aWNrZXJDb250ZXh0KGxpc3QsIDgpOwogIG9rKGN0eC5pbmNsdWRlcygn56yR5q27JykgJiYgY3R4LmluY2x1ZGVzKCfnlJ/msJQnKSwgJ2J1aWxkU3RpY2tlckNvbnRleHQg5YyF5ZCr5aSH5rOoJyk7CiAgb2soYnVpbGRTdGlja2VyU3RyYXRlZ3lIaW50KCkuaW5jbHVkZXMoJ3FxX3NlbmRfc3RpY2tlcicpLCAn562W55Wl5o+Q56S65YyF5ZCr5Y+R6YCB5bel5YW3Jyk7Cn0KCnsKICBjb25zdCBsaXN0ID0gbWVyZ2VTdGlja2VyTGlicmFyeShbXSwgWwogICAgeyBlbW9qaV9pZDogJ2EnLCByZXNJZDogJ2EnLCB1cmw6ICdodHRwczovL3gvYScsIG1kNTogJ0FCQycsIGRlc2M6ICfnrJHmrbsnIH0KICBdKTsKICBjb25zdCBub3RlZCA9IGFwcGx5U3RpY2tlck5vdGUobGlzdCwgJ2EnLCB7IG5vdGU6ICflmLLorr3nlKgnLCB0YWdzOiBbJ+aAvOS6uiddLCB1c2FnZTogJ+WIq+S6uueKr+igouaXticgfSk7CiAgb2sobm90ZWQuZW50cnkubG9jYWxOb3RlID09PSAn5Ziy6K6955SoJyAmJiBub3RlZC5lbnRyeS50YWdzLmluY2x1ZGVzKCfmgLzkuronKSwgJ2FwcGx5U3RpY2tlck5vdGUg5YaZ5YWl5pys5Zyw6K6k55+lJyk7CiAgY29uc3QgdXNlZCA9IG1hcmtTdGlja2VyVXNlZChub3RlZC5lbnRyaWVzLCAnYScsICfmjqXmopcnKTsKICBvayh1c2VkLmVudHJ5LnVzZUNvdW50ID09PSAxICYmIHVzZWQuZW50cnkubGFzdENvbnRleHQgPT09ICfmjqXmopcnLCAnbWFya1N0aWNrZXJVc2VkIOiusOW9leS9v+eUqCcpOwp9Cgpjb25zb2xlLmxvZygnIyMg6YWN572u5paH5Lu2Jyk7CnsKICBjb25zdCBjZmcgPSBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oUk9PVCwgJ2NvbmZpZy5qc29uJyksICd1dGY4JykpOwogIGNvbnN0IHRvb2xzID0gY2ZnLnNvY2lhbFYyPy50b29scyA/PyB7fTsKICBvayh0b29scy5saXN0U3RpY2tlcnMgPT09IHRydWUsICdjb25maWcgbGlzdFN0aWNrZXJzPXRydWUnKTsKICBvayh0b29scy5nZXRTdGlja2VySW1hZ2UgPT09IHRydWUsICdjb25maWcgZ2V0U3RpY2tlckltYWdlPXRydWUnKTsKICBvayh0b29scy5zZW5kU3RpY2tlciA9PT0gdHJ1ZSwgJ2NvbmZpZyBzZW5kU3RpY2tlcj10cnVlJyk7CiAgb2sodG9vbHMuc3RpY2tlck5vdGUgPT09IHRydWUsICdjb25maWcgc3RpY2tlck5vdGU9dHJ1ZScpOwogIG9rKHRvb2xzLnNldFN0aWNrZXJSZW1hcmsgPT09IGZhbHNlLCAnY29uZmlnIHNldFN0aWNrZXJSZW1hcms9ZmFsc2XvvIjpu5jorqTnpoHnlKjvvIknKTsKICBvayhjZmcuc29jaWFsVjI/LnN0aWNrZXI/LmVuYWJsZWQgPT09IHRydWUsICdjb25maWcgc3RpY2tlci5lbmFibGVkPXRydWUnKTsKICBvayghKCdzZW5kQ2FwdGlvbk1heENoYXJzJyBpbiAoY2ZnLnNvY2lhbFYyPy5zdGlja2VyID8/IHt9KSksICdjb25maWcgc3RpY2tlciDkuI3lho3ljIXlkKsgc2VuZENhcHRpb25NYXhDaGFycycpOwp9Cgpjb25zb2xlLmxvZygnIyMg6KGo5oOF5Y2V5rCU5rOh57qm5p2fJyk7CnsKICBjb25zdCBtY3AgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdzcmMnLCAnbWNwLXNub3dsdW1hLXNhZmUuanMnKSwgJ3V0ZjgnKTsKICBjb25zdCBzZW5kU3RpY2tlckJsb2NrID0gbWNwLnNsaWNlKG1jcC5pbmRleE9mKCIncXFfc2VuZF9zdGlja2VyJyIpLCBtY3AuaW5kZXhPZigiJ3FxX3N0aWNrZXJfbm90ZSciKSk7CiAgb2soIXNlbmRTdGlja2VyQmxvY2suaW5jbHVkZXMoJ21lc3NhZ2U6IHouc3RyaW5nKCknKSwgJ3FxX3NlbmRfc3RpY2tlciBNQ1Ag5LiN5YaN5o6l5Y+XIG1lc3NhZ2Ug5Y+C5pWwJyk7CiAgb2soc2VuZFN0aWNrZXJCbG9jay5pbmNsdWRlcygn5LiN6IO95Zyo5ZCM5LiA5rCU5rOh6YeM6ZmE5bim5paH5a2XJyksICdxcV9zZW5kX3N0aWNrZXIg5o+P6L+w5by66LCD5Y2V5rCU5rOhJyk7CiAgY29uc3QgaGludCA9IGJ1aWxkU3RpY2tlclN0cmF0ZWd5SGludCgpOwogIG9rKGhpbnQuaW5jbHVkZXMoJ+S4jeiDveWcqOWQjOS4gOawlOazoemHjOmZhOW4puaWh+WtlycpLCAn562W55Wl5o+Q56S656aB5q2i5ZCM5rCU5rOh5re35paH5a2XJyk7CiAgb2soIWhpbnQuaW5jbHVkZXMoJ+WFiOWPkeS4gOWPpeivneWGjeWPkeS4gOW8oCcpLCAn562W55Wl5o+Q56S65LiN5YaN5byV5a+84oCc5YWI5Y+R5LiA5Y+l6K+d5YaN5Y+R5LiA5byg4oCdJyk7Cn0KCmNvbnNvbGUubG9nKCcjIyBNQ1Ag5bel5YW35o+P6L+w5a2Y5Zyo5oCnJyk7CnsKICBjb25zdCBtY3AgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdzcmMnLCAnbWNwLXNub3dsdW1hLXNhZmUuanMnKSwgJ3V0ZjgnKTsKICBmb3IgKGNvbnN0IG5hbWUgb2YgWydxcV9saXN0X3N0aWNrZXJzJywgJ3FxX2dldF9zdGlja2VyX2ltYWdlJywgJ3FxX3NlbmRfc3RpY2tlcicsICdxcV9zdGlja2VyX25vdGUnLCAncXFfc2V0X3N0aWNrZXJfcmVtYXJrJ10pIHsKICAgIG9rKG1jcC5pbmNsdWRlcyhgJyR7bmFtZX0nYCkgfHwgbWNwLmluY2x1ZGVzKGAiJHtuYW1lfSJgKSwgYE1DUCDlt6XlhbcgJHtuYW1lfSDlt7Lms6jlhoxgKTsKICB9Cn0KCmNvbnNvbGUubG9nKCcjIyBicmlkZ2Ug6Lev55SxL+WHveaVsOWtmOWcqOaApycpOwp7CiAgY29uc3QgYnJpZGdlID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihST09ULCAnc3JjJywgJ2JyaWRnZS5qcycpLCAndXRmOCcpOwogIGZvciAoY29uc3QgcyBvZiBbJy9hcGkvc29jaWFsVjIvc3RpY2tlci1saXN0JywgJy9hcGkvc29jaWFsVjIvc3RpY2tlci1pbWFnZScsICcvYXBpL3NvY2lhbFYyL3N0aWNrZXItbm90ZScsICcvYXBpL3NvY2lhbFYyL3NlbmQtc3RpY2tlcicsICcvYXBpL3NvY2lhbFYyL3N0aWNrZXItcmVtYXJrJywgJy9hcGkvc3RpY2tlcnMnLCAnc3luY1N0aWNrZXJMaWJyYXJ5JywgJ3NlbmRTdGlja2VyVjInXSkgewogICAgb2soYnJpZGdlLmluY2x1ZGVzKHMpLCBgYnJpZGdlIOWMheWQqyAke3N9YCk7CiAgfQp9CgppZiAocHJvY2Vzcy5lbnYuUVFfQlJJREdFX1RFU1RfTElWRSA9PT0gJzEnKSB7CiAgY29uc29sZS5sb2coJyMjIGxpdmXvvJpTbm93THVtYSDmlLbol4/ooajmg4Xpk77ot68nKTsKICB0cnkgewogICAgY29uc3QgY2ZnID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdjb25maWcuanNvbicpLCAndXRmOCcpKTsKICAgIGNvbnN0IGJhc2UgPSBTdHJpbmcoY2ZnLnNub3dsdW1hPy5odHRwVXJsIHx8ICdodHRwOi8vMTI3LjAuMC4xOjMwMDAnKS5yZXBsYWNlKC9cLyskLywgJycpOwogICAgY29uc3QgaGVhZGVycyA9IHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywgLi4uKGNmZy5zbm93bHVtYT8uYWNjZXNzVG9rZW4gPyB7IGF1dGhvcml6YXRpb246IGBCZWFyZXIgJHtjZmcuc25vd2x1bWEuYWNjZXNzVG9rZW59YCB9IDoge30pIH07CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtiYXNlfS9mZXRjaF9jdXN0b21fZmFjZV9kZXRhaWxgLCB7CiAgICAgIG1ldGhvZDogJ1BPU1QnLAogICAgICBoZWFkZXJzLAogICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IGNvdW50OiA1IH0pLAogICAgICBzaWduYWw6IEFib3J0U2lnbmFsLnRpbWVvdXQoMTUwMDApCiAgICB9KTsKICAgIGNvbnN0IGJvZHkgPSBhd2FpdCByZXMuanNvbigpOwogICAgb2socmVzLm9rICYmIGJvZHkuc3RhdHVzID09PSAnb2snICYmIGJvZHkucmV0Y29kZSA9PT0gMCwgJ2ZldGNoX2N1c3RvbV9mYWNlX2RldGFpbCDosIPnlKjmiJDlip8nKTsKICAgIGNvbnN0IGl0ZW1zID0gQXJyYXkuaXNBcnJheShib2R5LmRhdGEpID8gYm9keS5kYXRhIDogW107CiAgICBvayhpdGVtcy5sZW5ndGggPiAwLCBg6L+U5ZueICR7aXRlbXMubGVuZ3RofSDkuKrmlLbol4/ooajmg4VgKTsKICAgIGlmIChpdGVtcy5sZW5ndGggPiAwKSB7CiAgICAgIGNvbnN0IHsgc2FmZUZldGNoQnVmZmVyIH0gPSBhd2FpdCBpbXBvcnQoJy4uL3NyYy9zYWZlLWZldGNoLmpzJyk7CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgaW1nID0gYXdhaXQgc2FmZUZldGNoQnVmZmVyKGl0ZW1zWzBdLnVybCwgNCAqIDEwMjQgKiAxMDI0KTsKICAgICAgICBvayhpbWcuYnVmZmVyLmxlbmd0aCA+IDAsIGDlj6/mipPlj5booajmg4Xlm77niYflrZfoioLvvIgke2ltZy5idWZmZXIubGVuZ3RofSBieXRlc++8iWApOwogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgb2soZmFsc2UsIGBzYWZlRmV0Y2hCdWZmZXIg5oqT5Y+W6KGo5oOF5aSx6LSlOiAke2UubWVzc2FnZX1gKTsKICAgICAgfQogICAgfQogIH0gY2F0Y2ggKGUpIHsKICAgIG9rKGZhbHNlLCBgbGl2ZSDpk77ot6/lvILluLg6ICR7ZS5tZXNzYWdlfWApOwogIH0KfQoKY29uc29sZS5sb2coYFxu57uT5p6c77yaJHtwYXNzfSDpgJrov4fvvIwke2ZhaWx9IOWksei0pWApOwppZiAoZmFpbCA+IDApIHByb2Nlc3MuZXhpdCgxKTsK
+// 表情包体系自检：
+// 1) sticker-lib 纯函数（合并/查找/格式化/笔记/使用统计）
+// 2) 配置项与 MCP 工具描述存在性
+// 3) 可选 live 模式：QQ_BRIDGE_TEST_LIVE=1 时调用 SnowLuma 拉取收藏表情并验证 safeFetchBuffer 可抓图
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import {
+  normalizeStickerEntry,
+  mergeStickerLibrary,
+  findSticker,
+  formatStickerList,
+  buildStickerContext,
+  buildStickerStrategyHint,
+  applyStickerNote,
+  markStickerUsed
+} from '../src/sticker-lib.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+let pass = 0;
+let fail = 0;
+function ok(cond, name) {
+  if (cond) { pass += 1; console.log(`  ✅ ${name}`); }
+  else { fail += 1; console.error(`  ❌ ${name}`); }
+}
+
+console.log('## sticker-lib 纯函数');
+{
+  const raw = normalizeStickerEntry({ emoji_id: 'a', resId: 'a', url: 'https://x/a', md5: 'abc', desc: '笑死', localNote: '嘲讽', tags: ['怼人'] });
+  ok(raw && raw.id === 'a' && raw.desc === '笑死' && raw.localNote === '嘲讽', 'normalizeStickerEntry 基本字段');
+  ok(normalizeStickerEntry({}) === null, '空记录返回 null');
+}
+
+{
+  const base = mergeStickerLibrary([], [
+    { emoji_id: 'a', resId: 'a', url: 'https://x/a', md5: 'ABC', desc: '笑死' },
+    { emoji_id: 'b', resId: 'b', url: 'https://x/b', md5: 'DEF', desc: '' }
+  ]);
+  ok(base.length === 2, 'merge 新增两条');
+  const merged = mergeStickerLibrary(base, [
+    { emoji_id: 'a', resId: 'a', url: 'https://x/a2', md5: 'ABC', desc: '笑哭' }
+  ]);
+  ok(merged.length === 1, 'merge 会移除 QQ 端已删除的表情');
+  ok(merged[0].id === 'a' && merged[0].url === 'https://x/a2' && merged[0].desc === '笑哭', 'merge 更新 QQ 字段');
+}
+
+{
+  const list = mergeStickerLibrary([], [
+    { emoji_id: 'a', resId: 'a', url: 'https://x/a', md5: 'ABC', desc: '笑死' },
+    { emoji_id: 'b', resId: 'b', url: 'https://x/b', md5: 'DEF', desc: '生气' }
+  ]);
+  ok(findSticker(list, 'a')?.id === 'a', '按 emoji_id 查找');
+  ok(findSticker(list, 'abc')?.id === 'a', '按 md5 大小写不敏感查找');
+  ok(findSticker(list, 'https://x/b')?.id === 'b', '按 URL 查找');
+  ok(findSticker(list, '不存在') === null, '找不到返回 null');
+}
+
+{
+  const list = [
+    normalizeStickerEntry({ emoji_id: 'a', resId: 'a', url: 'https://x/a', md5: 'ABC', desc: '笑死' }),
+    normalizeStickerEntry({ emoji_id: 'b', resId: 'b', url: 'https://x/b', md5: 'DEF', desc: '生气' }),
+    normalizeStickerEntry({ emoji_id: 'c', resId: 'c', url: 'https://x/c', md5: 'GHI', desc: '', localNote: '无语' })
+  ];
+  const all = formatStickerList(list, '', 10);
+  ok(all.total === 3 && all.stickers.length === 3, 'formatStickerList 总数');
+  const q = formatStickerList(list, '生气', 10);
+  ok(q.matched === 1 && q.stickers[0].id === 'b', 'formatStickerList 按备注搜索');
+  const q2 = formatStickerList(list, '无语', 10);
+  ok(q2.matched === 1 && q2.stickers[0].id === 'c', 'formatStickerList 按本地笔记搜索');
+  const ctx = buildStickerContext(list, 8);
+  ok(ctx.includes('笑死') && ctx.includes('生气'), 'buildStickerContext 包含备注');
+  ok(buildStickerStrategyHint().includes('qq_send_sticker'), '策略提示包含发送工具');
+}
+
+{
+  const list = mergeStickerLibrary([], [
+    { emoji_id: 'a', resId: 'a', url: 'https://x/a', md5: 'ABC', desc: '笑死' }
+  ]);
+  const noted = applyStickerNote(list, 'a', { note: '嘲讽用', tags: ['怼人'], usage: '别人犯蠢时' });
+  ok(noted.entry.localNote === '嘲讽用' && noted.entry.tags.includes('怼人'), 'applyStickerNote 写入本地认知');
+  const used = markStickerUsed(noted.entries, 'a', '接梗');
+  ok(used.entry.useCount === 1 && used.entry.lastContext === '接梗', 'markStickerUsed 记录使用');
+}
+
+console.log('## 配置文件');
+{
+  const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+  const tools = cfg.socialV2?.tools ?? {};
+  ok(tools.listStickers === true, 'config listStickers=true');
+  ok(tools.getStickerImage === true, 'config getStickerImage=true');
+  ok(tools.sendSticker === true, 'config sendSticker=true');
+  ok(tools.stickerNote === true, 'config stickerNote=true');
+  ok(tools.setStickerRemark === false, 'config setStickerRemark=false（默认禁用）');
+  ok(cfg.socialV2?.sticker?.enabled === true, 'config sticker.enabled=true');
+  ok(!('sendCaptionMaxChars' in (cfg.socialV2?.sticker ?? {})), 'config sticker 不再包含 sendCaptionMaxChars');
+}
+
+console.log('## 表情单气泡约束');
+{
+  const mcp = fs.readFileSync(path.join(ROOT, 'src', 'mcp-snowluma-safe.js'), 'utf8');
+  const sendStickerBlock = mcp.slice(mcp.indexOf("'qq_send_sticker'"), mcp.indexOf("'qq_sticker_note'"));
+  ok(!sendStickerBlock.includes('message: z.string()'), 'qq_send_sticker MCP 不再接受 message 参数');
+  ok(sendStickerBlock.includes('不能在同一气泡里附带文字'), 'qq_send_sticker 描述强调单气泡');
+  const hint = buildStickerStrategyHint();
+  ok(hint.includes('不能在同一气泡里附带文字'), '策略提示禁止同气泡混文字');
+  ok(!hint.includes('先发一句话再发一张'), '策略提示不再引导“先发一句话再发一张”');
+}
+
+console.log('## MCP 工具描述存在性');
+{
+  const mcp = fs.readFileSync(path.join(ROOT, 'src', 'mcp-snowluma-safe.js'), 'utf8');
+  for (const name of ['qq_list_stickers', 'qq_get_sticker_image', 'qq_send_sticker', 'qq_sticker_note', 'qq_set_sticker_remark']) {
+    ok(mcp.includes(`'${name}'`) || mcp.includes(`"${name}"`), `MCP 工具 ${name} 已注册`);
+  }
+}
+
+console.log('## bridge 路由/函数存在性');
+{
+  const bridge = fs.readFileSync(path.join(ROOT, 'src', 'bridge.js'), 'utf8');
+  for (const s of ['/api/socialV2/sticker-list', '/api/socialV2/sticker-image', '/api/socialV2/sticker-note', '/api/socialV2/send-sticker', '/api/socialV2/sticker-remark', '/api/stickers', 'syncStickerLibrary', 'sendStickerV2']) {
+    ok(bridge.includes(s), `bridge 包含 ${s}`);
+  }
+}
+
+if (process.env.QQ_BRIDGE_TEST_LIVE === '1') {
+  console.log('## live：SnowLuma 收藏表情链路');
+  try {
+    const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+    const base = String(cfg.snowluma?.httpUrl || 'http://127.0.0.1:3000').replace(/\/+$/, '');
+    const headers = { 'content-type': 'application/json', ...(cfg.snowluma?.accessToken ? { authorization: `Bearer ${cfg.snowluma.accessToken}` } : {}) };
+    const res = await fetch(`${base}/fetch_custom_face_detail`, {
+      method: 'POST',
+      headers,
+      body: JSON.stringify({ count: 5 }),
+      signal: AbortSignal.timeout(15000)
+    });
+    const body = await res.json();
+    ok(res.ok && body.status === 'ok' && body.retcode === 0, 'fetch_custom_face_detail 调用成功');
+    const items = Array.isArray(body.data) ? body.data : [];
+    ok(items.length > 0, `返回 ${items.length} 个收藏表情`);
+    if (items.length > 0) {
+      const { safeFetchBuffer } = await import('../src/safe-fetch.js');
+      try {
+        const img = await safeFetchBuffer(items[0].url, 4 * 1024 * 1024);
+        ok(img.buffer.length > 0, `可抓取表情图片字节（${img.buffer.length} bytes）`);
+      } catch (e) {
+        ok(false, `safeFetchBuffer 抓取表情失败: ${e.message}`);
+      }
+    }
+  } catch (e) {
+    ok(false, `live 链路异常: ${e.message}`);
+  }
+}
+
+console.log(`\n结果：${pass} 通过，${fail} 失败`);
+if (fail > 0) process.exit(1);

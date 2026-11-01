@@ -1,1 +1,49 @@
-Ly8g6aqM6K+BIHdvcmtzcGFjZS9zZXNzaW9uIFJQQyDlj4LmlbDlvaLnirbkuI7ov5Tlm57lgLznu5PmnoTvvIjlr7nnhacgYnJpZGdlLmpzIOWunumZheeUqOazle+8ieOAggppbXBvcnQgeyBwcm9iZUNvb2tpZSwgcHJvYmVScGMsIHByb2JlV29ya3NwYWNlRGlyIH0gZnJvbSAnLi9wcm9iZS1hdXRoLm1qcyc7CgovLyDpibTmnYPkuI4gUlBDIOW8leWvvOe7n+S4gOi1sCBwcm9iZS1hdXRoLm1qc++8iOaXp+eahOOAjOivuyBndWFyZCDml6Xlv5fmipMgbGF1bmNoIHRva2Vu44CN5ZyoCi8vIERTSCAwLjEuNyDotbflt7LlpLHmlYjvvIzkvJrorqnmjqLpkojkuIDlvosgNDAxIOKAlOKAlCDop4Hor6Xmlofku7blpLTpg6jor7TmmI7vvInjgIIKY29uc3QgcnBjID0gcHJvYmVScGMocHJvYmVDb29raWUoKSk7CmNvbnN0IHNoID0gKHIsIG4gPSA0MDApID0+IHIub2sgPyBKU09OLnN0cmluZ2lmeShyLnZhbHVlKS5zbGljZSgwLCBuKSA6IGAke3IuZXJyb3IuY29kZX06ICR7ci5lcnJvci5tZXNzYWdlfWA7CgovLyDmjqLmtYvlt6XkvZzljLrlu7rlnKjns7vnu5/kuLTml7bnm67lvZXvvJpzdGF0ZS8g55qEIEFDTCDooqvmlLbntKfov4fvvIzmspnnrrHph4zlhpnkuI3ov5vljrvjgIIKY29uc3QgZGlyID0gcHJvYmVXb3Jrc3BhY2VEaXIoJ3dvcmtzcGFjZScpOwoKY29uc29sZS5sb2coJz09PSB3b3Jrc3BhY2UvY3JlYXRlIHtwYXRofSA9PT0nKTsKY29uc3Qgd3MgPSBhd2FpdCBycGMoJ3dvcmtzcGFjZS9jcmVhdGUnLCB7IHJlcXVlc3Q6IHsgcGF0aDogZGlyIH0gfSk7CmNvbnNvbGUubG9nKCcgICcsIHNoKHdzKSk7CmNvbnN0IHdzSWQgPSB3cy5vayA/IHdzLnZhbHVlLndvcmtzcGFjZS53b3Jrc3BhY2VJZCA6IG51bGw7CmNvbnNvbGUubG9nKCcgICBjcmVhdGVkID0nLCB3cy5vayA/IHdzLnZhbHVlLmNyZWF0ZWQgOiAnbi9hJyk7Cgpjb25zb2xlLmxvZygnXG49PT0gd29ya3NwYWNlL2NyZWF0ZSDluYLnrYnvvIjnrKzkuozmrKHvvIkgPT09Jyk7CmNvbnN0IHdzMiA9IGF3YWl0IHJwYygnd29ya3NwYWNlL2NyZWF0ZScsIHsgcmVxdWVzdDogeyBwYXRoOiBkaXIgfSB9KTsKY29uc29sZS5sb2coJyAgIGNyZWF0ZWQgPScsIHdzMi5vayA/IHdzMi52YWx1ZS5jcmVhdGVkIDogc2god3MyKSwgJ3wgc2FtZSBpZCA9Jywgd3MyLm9rICYmIHdzMi52YWx1ZS53b3Jrc3BhY2Uud29ya3NwYWNlSWQgPT09IHdzSWQpOwoKY29uc29sZS5sb2coJ1xuPT09IHdvcmtzcGFjZS9yZW5hbWUge3dvcmtzcGFjZUlkLHRpdGxlfSA9PT0nKTsKY29uc29sZS5sb2coJyAgJywgc2goYXdhaXQgcnBjKCd3b3Jrc3BhY2UvcmVuYW1lJywgeyByZXF1ZXN0OiB7IHdvcmtzcGFjZUlkOiB3c0lkLCB0aXRsZTogJ19fcHJvYmVfdGl0bGVfXycgfSB9KSkpOwoKY29uc29sZS5sb2coJ1xuPT09IHNlc3Npb24vY3JlYXRlIHt3b3Jrc3BhY2VJZH0g5pegIHByZXNldCA9PT0nKTsKY29uc3QgczEgPSBhd2FpdCBycGMoJ3Nlc3Npb24vY3JlYXRlJywgeyByZXF1ZXN0OiB7IHdvcmtzcGFjZUlkOiB3c0lkIH0gfSk7CmNvbnNvbGUubG9nKCcgICcsIHNoKHMxKSk7CmNvbnN0IHNpZCA9IHMxLm9rID8gczEudmFsdWUuc2Vzc2lvbklkIDogbnVsbDsKCmNvbnNvbGUubG9nKCdcbj09PSBzZXNzaW9uL2NyZWF0ZSB7d29ya3NwYWNlSWQsIGFnZW50UHJlc2V0OiDkuI3lrZjlnKjnmoTlkI3lrZd9IOeci+aKpemUmeW9ouaAgSA9PT0nKTsKY29uc29sZS5sb2coJyAgJywgc2goYXdhaXQgcnBjKCdzZXNzaW9uL2NyZWF0ZScsIHsgcmVxdWVzdDogeyB3b3Jrc3BhY2VJZDogd3NJZCwgYWdlbnRQcmVzZXQ6ICdfX25vcGVfXycgfSB9KSwgMjAwKSk7Cgpjb25zb2xlLmxvZygnXG49PT0gc2Vzc2lvbi9saXN0IOe7k+aehO+8iGJyaWRnZSDnlKggaXRlbXPvvIkgPT09Jyk7CmNvbnN0IGxpc3QgPSBhd2FpdCBycGMoJ3Nlc3Npb24vbGlzdCcsIHsgX3JlcXVlc3Q6IHt9IH0pOwpjb25zb2xlLmxvZygnICAga2V5cyA9JywgbGlzdC5vayA/IE9iamVjdC5rZXlzKGxpc3QudmFsdWUpLmpvaW4oJywnKSA6IHNoKGxpc3QpKTsKaWYgKGxpc3Qub2spIGNvbnNvbGUubG9nKCcgICBpdGVtMCBrZXlzID0nLCBPYmplY3Qua2V5cyhsaXN0LnZhbHVlLml0ZW1zPy5bMF0gPz8ge30pLmpvaW4oJywnKSk7Cgpjb25zb2xlLmxvZygnXG49PT0gc2Vzc2lvbi9zZWxlY3RNb2RlbCDov5Tlm57nu5PmnoTvvIhicmlkZ2Ug6K+7IHJlc3VsdC5zZWxlY3RlZO+8iSA9PT0nKTsKY29uc3Qgc20gPSBhd2FpdCBycGMoJ3Nlc3Npb24vc2VsZWN0TW9kZWwnLCB7IHJlcXVlc3Q6IHsgc2Vzc2lvbklkOiBzaWQsIHByb3ZpZGVyOiAnZGVlcHNlZWstb2ZmaWNpYWwnLCBtb2RlbDogJ2RlZXBzZWVrLWZsYXNoJywgcmVhc29uaW5nRWZmb3J0OiAnbWF4JyB9IH0pOwpjb25zb2xlLmxvZygnICAnLCBzaChzbSwgMzAwKSk7Cgpjb25zb2xlLmxvZygnXG49PT0gc2Vzc2lvbi9wcm9tcHQg6L+U5Zue57uT5p6E77yIYnJpZGdlIOivuyBhY2NlcHRlZO+8iSA9PT0nKTsKY29uc29sZS5sb2coJyAgJywgc2goYXdhaXQgcnBjKCdzZXNzaW9uL3Byb21wdCcsIHsgcmVxdWVzdDogeyBzZXNzaW9uSWQ6IHNpZCwgcmVxdWVzdElkOiAncHItJyArIERhdGUubm93KCksIG1vZGU6ICdxdWV1ZScsIGNvbnRlbnQ6IFt7IHR5cGU6ICd0ZXh0JywgdGV4dDogJ+WPquWbnuWkje+8mnBvbmcnIH1dIH0gfSksIDIwMCkpOwoKY29uc29sZS5sb2coJ1xuPT09IHNlc3Npb24vcGFnZe+8iGJyaWRnZSDmmK/lkKbnlKjliLDnu5PmnoTvvIkgPT09Jyk7CmNvbnNvbGUubG9nKCcgICcsIHNoKGF3YWl0IHJwYygnc2Vzc2lvbi9wYWdlJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZDogc2lkIH0gfSksIDIwMCkpOwoKY29uc29sZS5sb2coJ1xuPT09IOa4heeQhu+8mmFyY2hpdmUgPT09Jyk7CmNvbnNvbGUubG9nKCcgICcsIHNoKGF3YWl0IHJwYygnd29ya3NwYWNlL2FyY2hpdmVTZXNzaW9uJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZDogc2lkIH0gfSkpKTsK
+// 验证 workspace/session RPC 参数形状与返回值结构（对照 bridge.js 实际用法）。
+import { probeCookie, probeRpc, probeWorkspaceDir } from './probe-auth.mjs';
+
+// 鉴权与 RPC 引导统一走 probe-auth.mjs（旧的「读 guard 日志抓 launch token」在
+// DSH 0.1.7 起已失效，会让探针一律 401 —— 见该文件头部说明）。
+const rpc = probeRpc(probeCookie());
+const sh = (r, n = 400) => r.ok ? JSON.stringify(r.value).slice(0, n) : `${r.error.code}: ${r.error.message}`;
+
+// 探测工作区建在系统临时目录：state/ 的 ACL 被收紧过，沙箱里写不进去。
+const dir = probeWorkspaceDir('workspace');
+
+console.log('=== workspace/create {path} ===');
+const ws = await rpc('workspace/create', { request: { path: dir } });
+console.log('  ', sh(ws));
+const wsId = ws.ok ? ws.value.workspace.workspaceId : null;
+console.log('   created =', ws.ok ? ws.value.created : 'n/a');
+
+console.log('\n=== workspace/create 幂等（第二次） ===');
+const ws2 = await rpc('workspace/create', { request: { path: dir } });
+console.log('   created =', ws2.ok ? ws2.value.created : sh(ws2), '| same id =', ws2.ok && ws2.value.workspace.workspaceId === wsId);
+
+console.log('\n=== workspace/rename {workspaceId,title} ===');
+console.log('  ', sh(await rpc('workspace/rename', { request: { workspaceId: wsId, title: '__probe_title__' } })));
+
+console.log('\n=== session/create {workspaceId} 无 preset ===');
+const s1 = await rpc('session/create', { request: { workspaceId: wsId } });
+console.log('  ', sh(s1));
+const sid = s1.ok ? s1.value.sessionId : null;
+
+console.log('\n=== session/create {workspaceId, agentPreset: 不存在的名字} 看报错形态 ===');
+console.log('  ', sh(await rpc('session/create', { request: { workspaceId: wsId, agentPreset: '__nope__' } }), 200));
+
+console.log('\n=== session/list 结构（bridge 用 items） ===');
+const list = await rpc('session/list', { _request: {} });
+console.log('   keys =', list.ok ? Object.keys(list.value).join(',') : sh(list));
+if (list.ok) console.log('   item0 keys =', Object.keys(list.value.items?.[0] ?? {}).join(','));
+
+console.log('\n=== session/selectModel 返回结构（bridge 读 result.selected） ===');
+const sm = await rpc('session/selectModel', { request: { sessionId: sid, provider: 'deepseek-official', model: 'deepseek-flash', reasoningEffort: 'max' } });
+console.log('  ', sh(sm, 300));
+
+console.log('\n=== session/prompt 返回结构（bridge 读 accepted） ===');
+console.log('  ', sh(await rpc('session/prompt', { request: { sessionId: sid, requestId: 'pr-' + Date.now(), mode: 'queue', content: [{ type: 'text', text: '只回复：pong' }] } }), 200));
+
+console.log('\n=== session/page（bridge 是否用到结构） ===');
+console.log('  ', sh(await rpc('session/page', { request: { sessionId: sid } }), 200));
+
+console.log('\n=== 清理：archive ===');
+console.log('  ', sh(await rpc('workspace/archiveSession', { request: { sessionId: sid } })));

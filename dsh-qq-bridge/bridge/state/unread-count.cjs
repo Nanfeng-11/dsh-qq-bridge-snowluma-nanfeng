@@ -1,1 +1,17 @@
-Ly8g5Y+v56e75qSN6buY6K6k6Lev5b6E77yIZHNoLXFxLWJyaWRnZe+8ie+8mkJSSURHRV9ESVIgLyBEU0hfSE9NRSDnjq/looPlj5jph4/kvJjlhYgKY29uc3QgQlJJREdFX0RJUiA9IHByb2Nlc3MuZW52LkJSSURHRV9ESVIgfHwgX19kaXJuYW1lOwpjb25zdCBEU0hfSE9NRSA9IHByb2Nlc3MuZW52LkRTSF9IT01FIHx8IChwcm9jZXNzLmVudi5IT01FID8gcHJvY2Vzcy5lbnYuSE9NRSArICIvLmRzaCIgOiAiLiIpOwovLyDnu5/orqHmiYDmnIkgUVEg5Lya6K+d55qE5pyq6K+75raI5oGv5pWw77yI5pyq5aSE55CG55qE5raI5oGvID0g6L+Y5rKh5YaZ6L+b6K6w5b+G55qE5LiK5LiL5paH77yJCi8vIOi+k+WHuu+8muaVtOaVsOOAgmF1dG8tY2xlYW4g55So5a6D5Yaz5a6a44CM546w5Zyo6IO95LiN6IO95riF5LiK5LiL5paH44CN44CCCmNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsKY29uc3QgcCA9IHByb2Nlc3MuYXJndlsyXSB8fCAoQlJJREdFX0RJUiArICcvc29jaWFsLXYyLmpzb24nKTsKbGV0IHRvdGFsID0gMDsKdHJ5IHsKICBjb25zdCBzID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocCwgJ3V0ZjgnKSk7CiAgZm9yIChjb25zdCBba2V5LCB2XSBvZiBPYmplY3QuZW50cmllcyhzLmNvbnZlcnNhdGlvbnMgfHwge30pKSB7CiAgICBpZiAoIS9eKHByaXZhdGV8Z3JvdXApOi8udGVzdChrZXkpKSBjb250aW51ZTsKICAgIGNvbnN0IG4gPSAodiAmJiBBcnJheS5pc0FycmF5KHYudW5yZWFkKSkgPyB2LnVucmVhZC5sZW5ndGggOiAwOwogICAgdG90YWwgKz0gbjsKICB9Cn0gY2F0Y2gge30KY29uc29sZS5sb2codG90YWwpOwo=
+// 可移植默认路径（dsh-qq-bridge）：BRIDGE_DIR / DSH_HOME 环境变量优先
+const BRIDGE_DIR = process.env.BRIDGE_DIR || __dirname;
+const DSH_HOME = process.env.DSH_HOME || (process.env.HOME ? process.env.HOME + "/.dsh" : ".");
+// 统计所有 QQ 会话的未读消息数（未处理的消息 = 还没写进记忆的上下文）
+// 输出：整数。auto-clean 用它决定「现在能不能清上下文」。
+const fs = require('fs');
+const p = process.argv[2] || (BRIDGE_DIR + '/social-v2.json');
+let total = 0;
+try {
+  const s = JSON.parse(fs.readFileSync(p, 'utf8'));
+  for (const [key, v] of Object.entries(s.conversations || {})) {
+    if (!/^(private|group):/.test(key)) continue;
+    const n = (v && Array.isArray(v.unread)) ? v.unread.length : 0;
+    total += n;
+  }
+} catch {}
+console.log(total);

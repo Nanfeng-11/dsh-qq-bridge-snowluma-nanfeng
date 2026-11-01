@@ -1,1 +1,67 @@
-Ly8g44CM5Y+R6K+t6Z+z44CN54us56uL5bel5YW355qE5L2N572u6Kej5p6QICsg44CM5a6D5LiN5Zyo5pys5LuT5bqT44CN5pe255qE57uf5LiA6Lez6L+H5Y+j5b6E44CCCi8vCi8vIOiDjOaZr++8iOi/meaYr+S4gOS4quecn+Wunui4qei/h+eahOWdke+8iQovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi8vIGB2b2ljZS10b29sL2DvvIhgdm9pY2UtY2xpLm1qc2AgLyBgdm9pY2UtZ3VpLm1qc2AgLyBgcHVibGljL3ZvaWNlLmh0bWxgIC8g5ZCv5Yqo5ZmoIC5jbWTvvIkKLy8g5pivKirku5PlupPkuIrkuIDnuqcqKueahOeLrOeri+W3peWFt++8jOS4jeWcqOacrOS7k+W6k+mHjOOAguS9huS7k+W6k+mHjOacieS4gOaJuea1i+ivleiEmuacrOebtOaOpeaMiQovLyBgPHJlcG8+Ly4uL3ZvaWNlLXRvb2wvLi4uYCDljrvor7vmlofku7bvvJoKLy8KLy8gICBjb25zdCBmID0gbmV3IFVSTCgnLi4vLi4vdm9pY2UtdG9vbC92b2ljZS1ndWkubWpzJywgaW1wb3J0Lm1ldGEudXJsKQovLyAgIGZzLnJlYWRGaWxlU3luYyhmKSAgICAgICAgICAvLyDihpAg5YWo5pawIGNsb25lIOS4iui/memHjOebtOaOpSBFTk9FTlQg5bSp5rqDCi8vCi8vIOWcqOS9nOiAheacuuWZqOS4iuWug+S4gOebtOaYr+e7v+eahO+8iOS4iuS4gOe6p+ehruWunuaciemCo+S4quebruW9le+8ie+8jOS6juaYryoq5rKh5Lq65Y+R546wKirvvJoKLy8g5Lu75L2V54WnIFJFQURNRSDlhYvpmobku5PlupPnmoTkurrot5EgYG5wbSBydW4gdGVzdDphdWRpdGDvvIzpg73kvJrnnIvliLAgNiDkuKrohJrmnKznuqLnnYDltKnmuoPvvIwKLy8g55yL6LW35p2l5YOPIui/meS4qumhueebruijheWHuuadpeWwseaYr+Wdj+eahCLjgIIKLy8KLy8g5pys5qih5Z2X5o+Q5L6b5Lik5Lu25LqL77yaCi8vICAgMS4ge0BsaW5rIHZvaWNlVG9vbERpcn0g4oCU4oCUIOe7n+S4gOeahOS9jee9ruino+aekO+8jOaUr+aMgeeUqCBgUVFfQlJJREdFX1ZPSUNFX1RPT0xfRElSYAovLyAgICAgIOimhueblu+8iOW3peWFt+aUvuWcqOWIq+WkhOOAgeaIluaDs+WcqCBDSSDph4zmmL7lvI/mqKHmi58i5rKh5pyJ6L+Z5Liq55uu5b2VIuaXtueUqO+8ieOAggovLyAgIDIuIHtAbGluayBza2lwVm9pY2VUb29sfSDigJTigJQg44CM5LiN5Zyo5pys5LuT5bqT44CN5pe255qE57uf5LiA6L6T5Ye677yMKirmmI7noa7or7Tov5nmmK/ot7Pov4fogIzkuI3mmK/pgJrov4cqKu+8jAovLyAgICAgIOW5tue7meWHuuaAjuS5iOecn+ato+i3kei/meS6m+aWreiogOOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CgovKiog5pys5LuT5bqT5qC555uu5b2V44CCICovCmV4cG9ydCBjb25zdCBSRVBPX1JPT1QgPSBwYXRoLnJlc29sdmUocGF0aC5kaXJuYW1lKGZpbGVVUkxUb1BhdGgoaW1wb3J0Lm1ldGEudXJsKSksICcuLicpOwoKLyoqCiAqIOeLrOeri+WPkeivremfs+W3peWFt+aJgOWcqOebruW9leOAggogKgogKiDop6PmnpDpobrluo/vvJpgUVFfQlJJREdFX1ZPSUNFX1RPT0xfRElSYCDihpIgYDzku5PlupPkuIrkuIDnuqc+L3ZvaWNlLXRvb2xg44CCCiAqIOS4jeS/neivgeWtmOWcqOKAlOKAlOiwg+eUqOaWueW6lOW9k+WFiOmXriB7QGxpbmsgaGFzVm9pY2VUb29sfeOAggogKi8KZXhwb3J0IGZ1bmN0aW9uIHZvaWNlVG9vbERpcigpIHsKICBjb25zdCBvdmVycmlkZSA9IHByb2Nlc3MuZW52LlFRX0JSSURHRV9WT0lDRV9UT09MX0RJUjsKICBpZiAob3ZlcnJpZGUpIHJldHVybiBwYXRoLnJlc29sdmUob3ZlcnJpZGUpOwogIHJldHVybiBwYXRoLnJlc29sdmUoUkVQT19ST09ULCAnLi4nLCAndm9pY2UtdG9vbCcpOwp9CgovKiog6K+l55uu5b2V5piv5ZCm5a2Y5Zyo5LiU55yL6LW35p2l5YOP6YKj5Liq5bel5YW377yI5pyJIHZvaWNlLWNsaS5tanMg5oiWIHZvaWNlLWd1aS5tanPvvInjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIGhhc1ZvaWNlVG9vbCgpIHsKICBjb25zdCBkaXIgPSB2b2ljZVRvb2xEaXIoKTsKICByZXR1cm4gZnMuZXhpc3RzU3luYyhwYXRoLmpvaW4oZGlyLCAndm9pY2UtY2xpLm1qcycpKQogICAgfHwgZnMuZXhpc3RzU3luYyhwYXRoLmpvaW4oZGlyLCAndm9pY2UtZ3VpLm1qcycpKTsKfQoKLyoqIOWPluW3peWFt+ebruW9leS4i+eahOS4gOS4qui3r+W+hO+8iOS4jeajgOafpeWtmOWcqOaAp++8m+iwg+eUqOaWueiHquW3seWIpOaWre+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gdm9pY2VUb29sUGF0aCguLi5zZWdtZW50cykgewogIHJldHVybiBwYXRoLmpvaW4odm9pY2VUb29sRGlyKCksIC4uLnNlZ21lbnRzKTsKfQoKLyoqCiAqIOaJk+WNsOe7n+S4gOeahOOAjOW3sui3s+i/h+OAjeivtOaYjuOAggogKgogKiDimqDvuI8g5o6q6L6e5Yi75oSP5Yy65YiG44CM6Lez6L+H44CN5LiO44CM6YCa6L+H44CN77ya6L+Z5Lqb5pat6KiA5ZyoKirov5nlj7DmnLrlmajkuIrnoa7lrp7msqHmnInooqvopobnm5YqKu+8jAogKiDkuI3og73orqnovpPlh7rnnIvotbfmnaXlg4/lhajnu7/jgIIKICoKICogQHBhcmFtIHdoYXQgLSDooqvot7Pov4fnmoTmo4Dmn6XmmK/ku4DkuYjvvIjlpoLjgIx2b2ljZS10b29sIOeahOS4ieS4quWFpeWPo+aWh+S7tuOAje+8ieOAggogKiBAcmV0dXJucyDmgZLkuLogZmFsc2XvvIzmlrnkvr/lhpnmiJAgYGlmICghaGFzVm9pY2VUb29sKCkpIHJldHVybiBza2lwVm9pY2VUb29sKC4uLilg44CCCiAqLwpleHBvcnQgZnVuY3Rpb24gc2tpcFZvaWNlVG9vbCh3aGF0KSB7CiAgY29uc29sZS5sb2coYCAg4o+tICDot7Pov4fvvJoke3doYXR9YCk7CiAgY29uc29sZS5sb2coYCAgICAg5Y6f5Zug77ya54us56uL5Y+R6K+t6Z+z5bel5YW35LiN5Zyo5pys5LuT5bqT6YeM77yI5a6D5piv5LuT5bqT5LiK5LiA57qn55qEIC4uL3ZvaWNlLXRvb2wv77yJ77yM5b2T5YmN6Kej5p6Q5YiwICR7dm9pY2VUb29sRGlyKCl9YCk7CiAgY29uc29sZS5sb2coJyAgICAg5oOz6LeR6L+Z5Lqb5pat6KiA77ya5oqK5LuT5bqT5LiOIHZvaWNlLXRvb2wvIOaUvuWcqOWQjOS4gOe6p+ebruW9leS4i++8jOaIluiuviBRUV9CUklER0VfVk9JQ0VfVE9PTF9ESVI9PHZvaWNlLXRvb2wg55uu5b2VPuOAgicpOwogIGNvbnNvbGUubG9nKCcgICAgIOazqOaEj++8mui/meaYryoq6Lez6L+H77yM5LiN5piv6YCa6L+HKiog4oCU4oCUIOi/meWPsOacuuWZqOS4iuayoeacieimhuebluWIsOi/memDqOWIhuOAgicpOwogIHJldHVybiBmYWxzZTsKfQo=
+// 「发语音」独立工具的位置解析 + 「它不在本仓库」时的统一跳过口径。
+//
+// 背景（这是一个真实踩过的坑）
+// ----------------------------
+// `voice-tool/`（`voice-cli.mjs` / `voice-gui.mjs` / `public/voice.html` / 启动器 .cmd）
+// 是**仓库上一级**的独立工具，不在本仓库里。但仓库里有一批测试脚本直接按
+// `<repo>/../voice-tool/...` 去读文件：
+//
+//   const f = new URL('../../voice-tool/voice-gui.mjs', import.meta.url)
+//   fs.readFileSync(f)          // ← 全新 clone 上这里直接 ENOENT 崩溃
+//
+// 在作者机器上它一直是绿的（上一级确实有那个目录），于是**没人发现**：
+// 任何照 README 克隆仓库的人跑 `npm run test:audit`，都会看到 6 个脚本红着崩溃，
+// 看起来像"这个项目装出来就是坏的"。
+//
+// 本模块提供两件事：
+//   1. {@link voiceToolDir} —— 统一的位置解析，支持用 `QQ_BRIDGE_VOICE_TOOL_DIR`
+//      覆盖（工具放在别处、或想在 CI 里显式模拟"没有这个目录"时用）。
+//   2. {@link skipVoiceTool} —— 「不在本仓库」时的统一输出，**明确说这是跳过而不是通过**，
+//      并给出怎么真正跑这些断言。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+/** 本仓库根目录。 */
+export const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
+/**
+ * 独立发语音工具所在目录。
+ *
+ * 解析顺序：`QQ_BRIDGE_VOICE_TOOL_DIR` → `<仓库上一级>/voice-tool`。
+ * 不保证存在——调用方应当先问 {@link hasVoiceTool}。
+ */
+export function voiceToolDir() {
+  const override = process.env.QQ_BRIDGE_VOICE_TOOL_DIR;
+  if (override) return path.resolve(override);
+  return path.resolve(REPO_ROOT, '..', 'voice-tool');
+}
+
+/** 该目录是否存在且看起来像那个工具（有 voice-cli.mjs 或 voice-gui.mjs）。 */
+export function hasVoiceTool() {
+  const dir = voiceToolDir();
+  return fs.existsSync(path.join(dir, 'voice-cli.mjs'))
+    || fs.existsSync(path.join(dir, 'voice-gui.mjs'));
+}
+
+/** 取工具目录下的一个路径（不检查存在性；调用方自己判断）。 */
+export function voiceToolPath(...segments) {
+  return path.join(voiceToolDir(), ...segments);
+}
+
+/**
+ * 打印统一的「已跳过」说明。
+ *
+ * ⚠️ 措辞刻意区分「跳过」与「通过」：这些断言在**这台机器上确实没有被覆盖**，
+ * 不能让输出看起来像全绿。
+ *
+ * @param what - 被跳过的检查是什么（如「voice-tool 的三个入口文件」）。
+ * @returns 恒为 false，方便写成 `if (!hasVoiceTool()) return skipVoiceTool(...)`。
+ */
+export function skipVoiceTool(what) {
+  console.log(`  ⏭  跳过：${what}`);
+  console.log(`     原因：独立发语音工具不在本仓库里（它是仓库上一级的 ../voice-tool/），当前解析到 ${voiceToolDir()}`);
+  console.log('     想跑这些断言：把仓库与 voice-tool/ 放在同一级目录下，或设 QQ_BRIDGE_VOICE_TOOL_DIR=<voice-tool 目录>。');
+  console.log('     注意：这是**跳过，不是通过** —— 这台机器上没有覆盖到这部分。');
+  return false;
+}

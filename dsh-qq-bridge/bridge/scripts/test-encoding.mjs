@@ -1,1 +1,72 @@
-Ly8g5ZCv5Yqo5Zmo5LiO57yW56CB6Ieq5qOA77yaCi8vICAgMSkg5omA5pyJIC5jbWQg5b+F6aG75pivKirnuq8gQVNDSUkqKu+8iGNtZC5leGUg55So5pys5ZywIEFOU0kg5Luj56CB6aG16Kej56CB5om55aSE55CG77yMCi8vICAgICAg5Lu75L2VIFVURi04IOS4reaWh+mDveS8muWPmOaIkOS5seegge+8iSsgKipDUkxGKiog5o2i6KGM77yITEYg5Lya6K6pIGBpZiAoYCDlnZfop6PmnpDlh7rplJnvvIkKLy8gICAyKSDpnaLlkJHnlKjmiLfnmoTkuK3mlofkuIDlvovnlLEgbm9kZSDlnKjov5DooYzml7bmiZPljbDvvIzogIwgbm9kZSDkvqfopoHmmL7lvI/mioogc3Rkb3V0IOiuvuaIkCBVVEYtOAppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7Ci8vIOeLrOeri+WPkeivremfs+W3peWFt+WcqOS7k+W6k+S4iuS4gOe6p++8iOS4jeWcqOacrOS7k+W6k+mHjO+8ie+8muS9jee9ruino+aekOS4jiLkuI3lnKjml7bmgI7kuYjot7Pov4ci6LWw5YWx5Lqr5Y+j5b6E44CCCmltcG9ydCB7IGhhc1ZvaWNlVG9vbCwgc2tpcFZvaWNlVG9vbCwgdm9pY2VUb29sUGF0aCB9IGZyb20gJy4vdm9pY2UtdG9vbC1sb2NhdG9yLm1qcyc7Cgpjb25zdCBST09UID0gcGF0aC5yZXNvbHZlKHBhdGguZGlybmFtZShmaWxlVVJMVG9QYXRoKGltcG9ydC5tZXRhLnVybCkpLCAnLi4nKTsKbGV0IHBhc3MgPSAwOwpsZXQgZmFpbCA9IDA7CmNvbnN0IG9rID0gKGNvbmQsIG5hbWUsIGV4dHJhID0gJycpID0+IHsKICBpZiAoY29uZCkgeyBwYXNzICs9IDE7IGNvbnNvbGUubG9nKGAgIOKchSAke25hbWV9JHtleHRyYSA/ICcg4oCUICcgKyBleHRyYSA6ICcnfWApOyB9CiAgZWxzZSB7IGZhaWwgKz0gMTsgY29uc29sZS5lcnJvcihgICDinYwgJHtuYW1lfSR7ZXh0cmEgPyAnIOKAlCAnICsgZXh0cmEgOiAnJ31gKTsgfQp9OwoKLy8g6L+Z5om5IC5jbWQg6YeM5pyJ5LiJ5Liq5LiN5Zyo5pys5LuT5bqT6YeM77yI5Lik5Liq5Zyo5LuT5bqT5LiK5LiA57qn44CB5LiA5Liq5Zyo5LiK5LiA57qnIHZvaWNlLXRvb2wv77yJ77yMCi8vIOWFqOaWsCBjbG9uZSDkuIrlroPku6zmnKzlsLHkuI3lrZjlnKgg4oCU4oCUIOmCo+aXtuW6lCLot7Pov4ci6ICM5LiN5piv5Yik5aSx6LSl77yb5LuT5YaF55qEIC5jbWQg57y65LqG5omN5piv55yf5aSx6LSl44CCCmNvbnN0IE9VVFNJREVfUkVQT19MQVVOQ0hFUlMgPSBuZXcgU2V0KFsn5Y+R6K+t6Z+zLeWbvuW9oueVjOmdoi5jbWQnLCAn6YeN5ZCvRFNILeWKoOi9veivremfs+W3peWFty5jbWQnXSk7CmNvbnN0IGxhdW5jaGVyS2luZCA9IChmKSA9PiB7CiAgY29uc3QgYWJzID0gcGF0aC5yZXNvbHZlKGYpOwogIGNvbnN0IGluUmVwbyA9IGFicyA9PT0gUk9PVCB8fCBhYnMuc3RhcnRzV2l0aChST09UICsgcGF0aC5zZXApOwogIGlmIChpblJlcG8pIHJldHVybiAncmVwbyc7CiAgcmV0dXJuIE9VVFNJREVfUkVQT19MQVVOQ0hFUlMuaGFzKHBhdGguYmFzZW5hbWUoYWJzKSkgPyAncGFyZW50JyA6ICd0b29sJzsKfTsKCmNvbnN0IGxhdW5jaGVycyA9IFsKICBwYXRoLmpvaW4oUk9PVCwgJy4uJywgJ+WPkeivremfsy3lm77lvaLnlYzpnaIuY21kJyksCiAgcGF0aC5qb2luKFJPT1QsICcuLicsICfph43lkK9EU0gt5Yqg6L296K+t6Z+z5bel5YW3LmNtZCcpLAogIHZvaWNlVG9vbFBhdGgoJ+WPkeivremfsy5jbWQnKSwKXTsKCmNvbnNvbGUubG9nKCcjIyDlkK/liqjlmajmlofku7bnvJbnoIHvvIjkubHnoIHmoLnlm6DvvIknKTsKZm9yIChjb25zdCBmIG9mIGxhdW5jaGVycykgewogIGNvbnN0IGxhYmVsID0gcGF0aC5iYXNlbmFtZShmKTsKICBpZiAoIWZzLmV4aXN0c1N5bmMoZikpIHsKICAgIGNvbnN0IGtpbmQgPSBsYXVuY2hlcktpbmQoZik7CiAgICBpZiAoa2luZCA9PT0gJ3BhcmVudCcpIHNraXBWb2ljZVRvb2woYOS4iue6p+WQr+WKqOWZqCAke2xhYmVsfe+8iOWSjCB2b2ljZS10b29sLyDlubbmjpLvvIzkuI3lnKjmnKzku5PlupPph4zvvIlgKTsKICAgIGVsc2UgaWYgKGtpbmQgPT09ICd0b29sJykgc2tpcFZvaWNlVG9vbChgdm9pY2UtdG9vbC8ke2xhYmVsfe+8iOeLrOeri+WPkeivremfs+W3peWFt+S4jeWcqOacrOS7k+W6k+mHjO+8iWApOwogICAgZWxzZSBvayhmYWxzZSwgYCR7bGFiZWx9IOWtmOWcqGApOwogICAgY29udGludWU7CiAgfQogIGNvbnN0IGJ1ZiA9IGZzLnJlYWRGaWxlU3luYyhmKTsKICBjb25zdCBub25Bc2NpaSA9IFtdOwogIGZvciAobGV0IGkgPSAwOyBpIDwgYnVmLmxlbmd0aDsgaSsrKSBpZiAoYnVmW2ldID4gMHg3Zikgbm9uQXNjaWkucHVzaChpKTsKICBvayhub25Bc2NpaS5sZW5ndGggPT09IDAsIGAke2xhYmVsfSDnuq8gQVNDSUlgLCBub25Bc2NpaS5sZW5ndGggPyBgJHtub25Bc2NpaS5sZW5ndGh9IOS4qumdniBBU0NJSSDlrZfoioLvvIhjbWQg5Lya5oyJIEdCSyDop6PnoIEg4oaSIOS5seegge+8iWAgOiAnJyk7CiAgY29uc3QgdGV4dCA9IGJ1Zi50b1N0cmluZygnbGF0aW4xJyk7CiAgb2soIS8oPzwhXHIpXG4vLnRlc3QodGV4dCksIGAke2xhYmVsfSDkvb/nlKggQ1JMRiDmjaLooYxgLCAvKD88IVxyKVxuLy50ZXN0KHRleHQpID8gJ+WtmOWcqOijuCBMRu+8iOWkmuihjCBpZiDlnZflj6/og73op6PmnpDlpLHotKXvvIknIDogJycpOwogIG9rKCFidWYuc2xpY2UoMCwgMykuZXF1YWxzKEJ1ZmZlci5mcm9tKFsweGVmLCAweGJiLCAweGJmXSkpLCBgJHtsYWJlbH0g5pegIFVURi04IEJPTWAsICcnKTsKfQoKY29uc29sZS5sb2coJyMjIE5vZGUg5L6nIFVURi04IOi+k+WHuicpOwppZiAoIWhhc1ZvaWNlVG9vbCgpKSB7CiAgc2tpcFZvaWNlVG9vbCgndm9pY2UtZ3VpLm1qcyAvIHZvaWNlLWNsaS5tanMg55qEIGNoY3AgNjUwMDEg5LiO5Lit5paH5paH5qGI5pat6KiA77yI5Lik5Liq5YWl5Y+j6YO95Zyo5LuT5bqT5LiK5LiA57qn55qEIHZvaWNlLXRvb2wvIOmHjO+8iScpOwp9IGVsc2UgewogIC8vIOeVjOmdouacjeWKoe+8muS4reaWh+aPkOekuueUsSBub2RlIOaJk+WNsOOAgldpbmRvd3Mg5o6n5Yi25Y+w5oyJ5pys5Zyw5Luj56CB6aG177yIOTM2L0dCS++8ieino+egge+8jAogIC8vIOiAjCBOb2RlIOWGmSBVVEYtOCDigJTigJQg5b+F6aG75pi+5byP5oqK5o6n5Yi25Y+w5YiH5YiwIFVURi0477yM5ZCm5YiZ5ZCv5Yqo5qiq5bmF5bCx5piv5Lmx56CB44CCCiAgY29uc3QgZ3VpID0gZnMucmVhZEZpbGVTeW5jKHZvaWNlVG9vbFBhdGgoJ3ZvaWNlLWd1aS5tanMnKSwgJ3V0ZjgnKTsKICBvaygvY2hjcC8udGVzdChndWkpICYmIC82NTAwMS8udGVzdChndWkpLCAndm9pY2UtZ3VpLm1qcyDmiormjqfliLblj7DliIfliLAgVVRGLTjvvIhjaGNwIDY1MDAx77yJJyk7CiAgb2soL3Byb2Nlc3NcLnN0ZG91dFwuaXNUVFkvLnRlc3QoZ3VpKSwgJ3ZvaWNlLWd1aS5tanMg5Y+q5Zyo55yf5o6n5Yi25Y+w5pe25YiH57yW56CB77yI5LiN5bmy5omw566h6YGT77yJJyk7CiAgY29uc3QgY2xpID0gZnMucmVhZEZpbGVTeW5jKHZvaWNlVG9vbFBhdGgoJ3ZvaWNlLWNsaS5tanMnKSwgJ3V0ZjgnKTsKICBvaygvY2hjcC8udGVzdChjbGkpICYmIC82NTAwMS8udGVzdChjbGkpLCAndm9pY2UtY2xpLm1qcyDmiormjqfliLblj7DliIfliLAgVVRGLTjvvIhjaGNwIDY1MDAx77yJJyk7CiAgb2soL3Byb2Nlc3NcLnN0ZG91dFwuaXNUVFkvLnRlc3QoY2xpKSwgJ3ZvaWNlLWNsaS5tanMg5Y+q5Zyo55yf5o6n5Yi25Y+w5pe25YiH57yW56CB77yI5LiN5bmy5omw566h6YGT77yJJyk7CiAgLy8g5Lit5paH5paH5qGI5LuN54S26b2Q5YWo77yI5rKh6KKrIuaUueaIkCBBU0NJSSLor6/kvKTliLDkuqflk4HmlofmoYjvvIkKICBvaygv6K+t6Z+z5Y+R6YCB5bel5YW3Ly50ZXN0KGd1aSksICd2b2ljZS1ndWkubWpzIOS4reaWh+aWh+ahiOS/neeVmScpOwogIG9rKC/or63pn7Plj5HpgIHlt6XlhbcvLnRlc3QoY2xpKSwgJ3ZvaWNlLWNsaS5tanMg5Lit5paH5paH5qGI5L+d55WZJyk7Cn0KCmNvbnNvbGUubG9nKGBcbue7k+aenO+8miR7cGFzc30g6YCa6L+H77yMJHtmYWlsfSDlpLHotKVgKTsKaWYgKGZhaWwgPiAwKSBwcm9jZXNzLmV4aXQoMSk7Cg==
+// 启动器与编码自检：
+//   1) 所有 .cmd 必须是**纯 ASCII**（cmd.exe 用本地 ANSI 代码页解码批处理，
+//      任何 UTF-8 中文都会变成乱码）+ **CRLF** 换行（LF 会让 `if (` 块解析出错）
+//   2) 面向用户的中文一律由 node 在运行时打印，而 node 侧要显式把 stdout 设成 UTF-8
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+// 独立发语音工具在仓库上一级（不在本仓库里）：位置解析与"不在时怎么跳过"走共享口径。
+import { hasVoiceTool, skipVoiceTool, voiceToolPath } from './voice-tool-locator.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+let pass = 0;
+let fail = 0;
+const ok = (cond, name, extra = '') => {
+  if (cond) { pass += 1; console.log(`  ✅ ${name}${extra ? ' — ' + extra : ''}`); }
+  else { fail += 1; console.error(`  ❌ ${name}${extra ? ' — ' + extra : ''}`); }
+};
+
+// 这批 .cmd 里有三个不在本仓库里（两个在仓库上一级、一个在上一级 voice-tool/），
+// 全新 clone 上它们本就不存在 —— 那时应"跳过"而不是判失败；仓内的 .cmd 缺了才是真失败。
+const OUTSIDE_REPO_LAUNCHERS = new Set(['发语音-图形界面.cmd', '重启DSH-加载语音工具.cmd']);
+const launcherKind = (f) => {
+  const abs = path.resolve(f);
+  const inRepo = abs === ROOT || abs.startsWith(ROOT + path.sep);
+  if (inRepo) return 'repo';
+  return OUTSIDE_REPO_LAUNCHERS.has(path.basename(abs)) ? 'parent' : 'tool';
+};
+
+const launchers = [
+  path.join(ROOT, '..', '发语音-图形界面.cmd'),
+  path.join(ROOT, '..', '重启DSH-加载语音工具.cmd'),
+  voiceToolPath('发语音.cmd'),
+];
+
+console.log('## 启动器文件编码（乱码根因）');
+for (const f of launchers) {
+  const label = path.basename(f);
+  if (!fs.existsSync(f)) {
+    const kind = launcherKind(f);
+    if (kind === 'parent') skipVoiceTool(`上级启动器 ${label}（和 voice-tool/ 并排，不在本仓库里）`);
+    else if (kind === 'tool') skipVoiceTool(`voice-tool/${label}（独立发语音工具不在本仓库里）`);
+    else ok(false, `${label} 存在`);
+    continue;
+  }
+  const buf = fs.readFileSync(f);
+  const nonAscii = [];
+  for (let i = 0; i < buf.length; i++) if (buf[i] > 0x7f) nonAscii.push(i);
+  ok(nonAscii.length === 0, `${label} 纯 ASCII`, nonAscii.length ? `${nonAscii.length} 个非 ASCII 字节（cmd 会按 GBK 解码 → 乱码）` : '');
+  const text = buf.toString('latin1');
+  ok(!/(?<!\r)\n/.test(text), `${label} 使用 CRLF 换行`, /(?<!\r)\n/.test(text) ? '存在裸 LF（多行 if 块可能解析失败）' : '');
+  ok(!buf.slice(0, 3).equals(Buffer.from([0xef, 0xbb, 0xbf])), `${label} 无 UTF-8 BOM`, '');
+}
+
+console.log('## Node 侧 UTF-8 输出');
+if (!hasVoiceTool()) {
+  skipVoiceTool('voice-gui.mjs / voice-cli.mjs 的 chcp 65001 与中文文案断言（两个入口都在仓库上一级的 voice-tool/ 里）');
+} else {
+  // 界面服务：中文提示由 node 打印。Windows 控制台按本地代码页（936/GBK）解码，
+  // 而 Node 写 UTF-8 —— 必须显式把控制台切到 UTF-8，否则启动横幅就是乱码。
+  const gui = fs.readFileSync(voiceToolPath('voice-gui.mjs'), 'utf8');
+  ok(/chcp/.test(gui) && /65001/.test(gui), 'voice-gui.mjs 把控制台切到 UTF-8（chcp 65001）');
+  ok(/process\.stdout\.isTTY/.test(gui), 'voice-gui.mjs 只在真控制台时切编码（不干扰管道）');
+  const cli = fs.readFileSync(voiceToolPath('voice-cli.mjs'), 'utf8');
+  ok(/chcp/.test(cli) && /65001/.test(cli), 'voice-cli.mjs 把控制台切到 UTF-8（chcp 65001）');
+  ok(/process\.stdout\.isTTY/.test(cli), 'voice-cli.mjs 只在真控制台时切编码（不干扰管道）');
+  // 中文文案仍然齐全（没被"改成 ASCII"误伤到产品文案）
+  ok(/语音发送工具/.test(gui), 'voice-gui.mjs 中文文案保留');
+  ok(/语音发送工具/.test(cli), 'voice-cli.mjs 中文文案保留');
+}
+
+console.log(`\n结果：${pass} 通过，${fail} 失败`);
+if (fail > 0) process.exit(1);

@@ -1,1 +1,230 @@
-Ly8gRXhlY3V0ZSB0aGUgcmVhbCBicmlkZ2UgaW5pdGlhbGl6YXRpb24vZnVuY3Rpb25zIGFnYWluc3QgdGVtcG9yYXJ5IGZpbGVzIGFuZCBmYWtlIHBlZXJzLgovLyBObyBwcm9kdWN0aW9uIGNvbmZpZywgUVEgY29ubmVjdGlvbiwgRFNIIHByb2Nlc3MsIG9yIHBlcnNpc3RlbnQgaG9tZSBpcyBhY2Nlc3NlZC4KaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgb3MgZnJvbSAnbm9kZTpvcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCBodHRwIGZyb20gJ25vZGU6aHR0cCc7CmltcG9ydCBjcnlwdG8gZnJvbSAnbm9kZTpjcnlwdG8nOwppbXBvcnQgdm0gZnJvbSAnbm9kZTp2bSc7CmltcG9ydCB7IGV4ZWNGaWxlU3luYyB9IGZyb20gJ25vZGU6Y2hpbGRfcHJvY2Vzcyc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGgsIHBhdGhUb0ZpbGVVUkwgfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCAqIGFzIG1hcmtkb3duIGZyb20gJy4uL3NyYy9tZC10by1wbGFpbi5qcyc7CmltcG9ydCAqIGFzIHNlbnNpdGl2ZSBmcm9tICcuLi9zcmMvc2Vuc2l0aXZlLmpzJzsKaW1wb3J0ICogYXMgd2FpdCBmcm9tICcuLi9zcmMvdjItd2FpdC5qcyc7CmltcG9ydCAqIGFzIHNhZmVGZXRjaCBmcm9tICcuLi9zcmMvc2FmZS1mZXRjaC5qcyc7CmltcG9ydCAqIGFzIG1lZGlhTm9ybWFsaXplIGZyb20gJy4uL3NyYy9tZWRpYS1ub3JtYWxpemUuanMnOwppbXBvcnQgKiBhcyBmb3J3YXJkIGZyb20gJy4uL3NyYy9mb3J3YXJkLmpzJzsKaW1wb3J0ICogYXMgc2xhbmcgZnJvbSAnLi4vc3JjL3NsYW5nLWxlYXJuZXIuanMnOwppbXBvcnQgKiBhcyBzdGlja2VyIGZyb20gJy4uL3NyYy9zdGlja2VyLWxpYi5qcyc7CmltcG9ydCAqIGFzIG1vZGVsUHJpY2VzIGZyb20gJy4uL3NyYy9tb2RlbC1wcmljZXMuanMnOwppbXBvcnQgKiBhcyB0b2tlbkxlZGdlciBmcm9tICcuLi9zcmMvdG9rZW4tbGVkZ2VyLmpzJzsKaW1wb3J0ICogYXMgdm9pY2VMaWIgZnJvbSAnLi4vc3JjL3NlbmQtdm9pY2UtbGliLmpzJzsKaW1wb3J0ICogYXMgcHJlc2V0UHJvbXB0IGZyb20gJy4uL3NyYy9wcmVzZXQtcHJvbXB0LmpzJzsKaW1wb3J0ICogYXMgc3RhdGVBY2wgZnJvbSAnLi4vc3JjL3N0YXRlLWFjbC5tanMnOwppbXBvcnQgeyB1bndyYXAsIGNyZWF0ZVR1cm5Db2xsZWN0b3IgfSBmcm9tICcuLi9zcmMvZHNoLWNsaWVudC5qcyc7Cgpjb25zdCByb290ID0gZmlsZVVSTFRvUGF0aChuZXcgVVJMKCcuLicsIGltcG9ydC5tZXRhLnVybCkpOwpleHBvcnQgYXN5bmMgZnVuY3Rpb24gYnJpZGdlSGFybmVzcyh7IGNvbmZpZyA9IHt9LCBzYXZlZFN0YXRlLCBmaWxlcyA9IHt9LCBnbG9iYWxzID0ge30gfSA9IHt9KSB7CiAgY29uc3QgdGVtcCA9IGZzLm1rZHRlbXBTeW5jKHBhdGguam9pbihvcy50bXBkaXIoKSwgJ3FxLWF1ZGl0LWJyaWRnZS0nKSk7CiAgZnMubWtkaXJTeW5jKHBhdGguam9pbih0ZW1wLCAnc3JjJykpOwogIGZzLm1rZGlyU3luYyhwYXRoLmpvaW4odGVtcCwgJ3N0YXRlJykpOwogIGZzLndyaXRlRmlsZVN5bmMocGF0aC5qb2luKHRlbXAsICdjb25maWcuanNvbicpLCBKU09OLnN0cmluZ2lmeSh7CiAgICBkc2g6IHsgYXV0aFRva2VuOiAnZml4dHVyZS1vbmx5JyB9LCBvd25lclFROiAxMjMsCiAgICBhbGxvdzogeyBwcml2YXRlOiBbJzEyMyddLCBncm91cHM6IFsnNDU2J10gfSwgY29uc29sZVBvcnQ6IDAsCiAgICBjb25zb2xlVG9rZW46ICdmaXh0dXJlLWNvbnNvbGUtdG9rZW4nLCBzbGFuZzogeyBlbmFibGVkOiBmYWxzZSB9LCAuLi5jb25maWcsCiAgfSkpOwogIGlmIChzYXZlZFN0YXRlKSBmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbih0ZW1wLCAnc3RhdGUvc2Vzc2lvbnMuanNvbicpLCBKU09OLnN0cmluZ2lmeShzYXZlZFN0YXRlKSk7CiAgLy8g6aKd5aSW54q25oCB5paH5Lu277yI55So5LqO5rWL6K+VIuWQr+WKqOaXtuivu+WIsOaNn+Wdjy/ml6fniYjmlofku7Yi6L+Z57G76Lev5b6E77yJ44CCCiAgZm9yIChjb25zdCBbcmVsLCBjb250ZW50XSBvZiBPYmplY3QuZW50cmllcyhmaWxlcykpIHsKICAgIGNvbnN0IHRhcmdldCA9IHBhdGguam9pbih0ZW1wLCByZWwpOwogICAgZnMubWtkaXJTeW5jKHBhdGguZGlybmFtZSh0YXJnZXQpLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsKICAgIGZzLndyaXRlRmlsZVN5bmModGFyZ2V0LCB0eXBlb2YgY29udGVudCA9PT0gJ3N0cmluZycgPyBjb250ZW50IDogSlNPTi5zdHJpbmdpZnkoY29udGVudCkpOwogIH0KICBjb25zdCBjYWxscyA9IHsgY3JlYXRlZDogW10sIGFyY2hpdmVkOiBbXSwgc2VudDogW10sIHByb21wdHM6IFtdLCBmb2xsb3dzOiBbXSwgY2FuY2VsbGVkOiBbXSwgaW1hZ2VzOiBbXSwgZmFjZXM6IFtdLCBodHRwOiBbXSB9OwogIC8vIOivremfs+WPkemAgeWcqOahpeaOpemHjOaYryoq55u05o6lIGZldGNoIOe9keWFsyoq77yI5LiO5paH5pysL+ihqOaDheWFseeUqCBzZW5kQ2hhaW7vvIzkvYbopoHoh6rlt7HluKYgcmVjb3JkIOaute+8ie+8jAogIC8vIOaJgOS7pei/memHjOe7mSBWTSDms6jlhaXkuIDkuKrorrDlvZXlnosgZmV0Y2jvvJrml6LkuI3orqnmtYvor5XnnJ/nmoTlj5EgUVEg5raI5oGv77yM5Y+I6IO95pat6KiA5Y+R5Ye655qE5q615YaF5a6544CCCiAgY29uc3QgZmFrZUZldGNoID0gYXN5bmMgKHVybCwgaW5pdCA9IHt9KSA9PiB7CiAgICBjb25zdCBib2R5ID0gKCgpID0+IHsgdHJ5IHsgcmV0dXJuIEpTT04ucGFyc2UoaW5pdC5ib2R5ID8/ICd7fScpOyB9IGNhdGNoIHsgcmV0dXJuIGluaXQuYm9keTsgfSB9KSgpOwogICAgY2FsbHMuaHR0cC5wdXNoKHsgdXJsOiBTdHJpbmcodXJsKSwgYm9keSB9KTsKICAgIGNvbnN0IGFjdGlvbiA9IFN0cmluZyh1cmwpLnNwbGl0KCcvJykucG9wKCk7CiAgICAvLyBmZXRjaF9jdXN0b21fZmFjZV9kZXRhaWzvvJrlkIzmraXmlLbol4/ooajmg4XnmoQgSFRUUCDlhZzlupXot6/lvoTopoHmi7/liLAqKuaVsOe7hCoq77yIV1Mg5aSx6LSl5pe255So77yJ44CCCiAgICBpZiAoYWN0aW9uID09PSAnZmV0Y2hfY3VzdG9tX2ZhY2VfZGV0YWlsJykgewogICAgICByZXR1cm4gewogICAgICAgIG9rOiB0cnVlLAogICAgICAgIHN0YXR1czogMjAwLAogICAgICAgIGpzb246IGFzeW5jICgpID0+ICh7CiAgICAgICAgICBzdGF0dXM6ICdvaycsCiAgICAgICAgICByZXRjb2RlOiAwLAogICAgICAgICAgZGF0YTogW3sgZW1vamlfaWQ6ICdodHRwLWZpeHR1cmUtc3RpY2tlcicsIHJlc0lkOiAnaHR0cC1maXh0dXJlLXN0aWNrZXInLCB1cmw6ICdodHRwczovL3B1YmxpYy5pbnZhbGlkL2h0dHAtc3RpY2tlcicsIG1kNTogJ0FBQkJDQ0RERUVGRjAwMTEyMjMzNDQ1NTY2Nzc4ODk5JywgZGVzYzogJ0hUVFAg5YWc5bqV6KGo5oOFJyB9XQogICAgICAgIH0pCiAgICAgIH07CiAgICB9CiAgICBpZiAoYWN0aW9uID09PSAnZmV0Y2hfcHR0X3RleHQnKSB7CiAgICAgIHJldHVybiB7IG9rOiB0cnVlLCBzdGF0dXM6IDIwMCwganNvbjogYXN5bmMgKCkgPT4gKHsgc3RhdHVzOiAnb2snLCByZXRjb2RlOiAwLCBkYXRhOiB7IHRleHQ6ICdmaXh0dXJlLXRyYW5zY3JpcHQnIH0gfSkgfTsKICAgIH0KICAgIC8vIGdldF9tc2fvvJror63pn7PokL3lnLDmoKHpqoznlKgg4oCU4oCUIOWbnuS4gOS4quW4piByZWNvcmQg5q6155qE5raI5oGv77yM5qih5ouf55yf5a6e572R5YWzCiAgICBpZiAoYWN0aW9uID09PSAnZ2V0X21zZycpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBvazogdHJ1ZSwKICAgICAgICBzdGF0dXM6IDIwMCwKICAgICAgICBqc29uOiBhc3luYyAoKSA9PiAoewogICAgICAgICAgc3RhdHVzOiAnb2snLAogICAgICAgICAgcmV0Y29kZTogMCwKICAgICAgICAgIGRhdGE6IHsgbWVzc2FnZV9pZDogOTAwMSwgbWVzc2FnZTogW3sgdHlwZTogJ3JlY29yZCcsIGRhdGE6IHsgZmlsZTogJ2ZpeHR1cmUtcmVjb3JkLmFtcicsIGR1cmF0aW9uOiAzIH0gfV0gfQogICAgICAgIH0pCiAgICAgIH07CiAgICB9CiAgICByZXR1cm4geyBvazogdHJ1ZSwgc3RhdHVzOiAyMDAsIGpzb246IGFzeW5jICgpID0+ICh7IHN0YXR1czogJ29rJywgcmV0Y29kZTogMCwgZGF0YTogeyBtZXNzYWdlX2lkOiA5MDAxIH0gfSkgfTsKICB9OwogIGNvbnN0IHN1Y2Nlc3MgPSAodmFsdWUpID0+ICh7IHJlc3VsdDogeyBvazogdHJ1ZSwgdmFsdWUgfSB9KTsKICBjb25zdCBhcGkgPSB7CiAgICBldmVudHM6IHsgZm9sbG93OiAoaWQpID0+IGNhbGxzLmZvbGxvd3MucHVzaChpZCkgfSwKICAgIC8vIHNldHRpbmdzLmRlc2NyaWJlIOeahOm7mOiupOahqe+8muayoeaciSBxcS1tb2RlIOWRveWQjeepuumXtCDih5IgcmVmcmVzaE1vZGUoKSDlm57pgIDliLDmnKzlnLAgbW9kZS5qc29u44CCCiAgICAvLyDmtYvor5Xlj6/opobnm5blroPmnaXpqozor4HjgIxEU0gg6K6+572u6YeM55qE56m6IG93bmVyUVEg5LiN5b6X6KaG55uWIGNvbmZpZy5qc29u44CN562J5aWR57qm44CCCiAgICBzZXR0aW5nczogewogICAgICBkZXNjcmliZTogYXN5bmMgKCkgPT4gc3VjY2Vzcyh7IG5hbWVzcGFjZXM6IFtdIH0pLAogICAgICB1cGRhdGU6IGFzeW5jICgpID0+IHN1Y2Nlc3MoeyB1cGRhdGVkOiB0cnVlIH0pCiAgICB9LAogICAgd29ya3NwYWNlOiB7CiAgICAgIGNyZWF0ZTogYXN5bmMgKCkgPT4gc3VjY2Vzcyh7IGNyZWF0ZWQ6IGZhbHNlLCB3b3Jrc3BhY2U6IHsgd29ya3NwYWNlSWQ6ICdmaXh0dXJlLXdvcmtzcGFjZScgfSB9KSwKICAgICAgYXJjaGl2ZVNlc3Npb246IGFzeW5jICh7IHNlc3Npb25JZCB9KSA9PiB7IGNhbGxzLmFyY2hpdmVkLnB1c2goc2Vzc2lvbklkKTsgcmV0dXJuIHN1Y2Nlc3Moe30pOyB9LAogICAgfSwKICAgIHNlc3Npb25zOiB7CiAgICAgIGNyZWF0ZTogYXN5bmMgKHBhcmFtcykgPT4geyBjYWxscy5jcmVhdGVkLnB1c2gocGFyYW1zKTsgcmV0dXJuIHN1Y2Nlc3MoeyBzZXNzaW9uSWQ6IGBmaXh0dXJlLSR7Y2FsbHMuY3JlYXRlZC5sZW5ndGh9YCB9KTsgfSwKICAgICAgc2VsZWN0TW9kZWw6IGFzeW5jICgpID0+IHN1Y2Nlc3MoeyBzZWxlY3RlZDogeyBwcm92aWRlcjogJ2ZpeHR1cmUnLCBtb2RlbDogJ2ZpeHR1cmUnIH0gfSksCiAgICAgIHByb21wdDogYXN5bmMgKHBhcmFtcykgPT4geyBjYWxscy5wcm9tcHRzLnB1c2gocGFyYW1zKTsgcmV0dXJuIHN1Y2Nlc3Moe30pOyB9LAogICAgfSwKICAgIHJlc3BvbmQ6IGFzeW5jICgpID0+IHN1Y2Nlc3Moe30pLAogICAgc3RvcFNlc3Npb25Xb3JrOiBhc3luYyAoc2Vzc2lvbklkKSA9PiB7IGNhbGxzLmNhbmNlbGxlZC5wdXNoKHNlc3Npb25JZCk7IHJldHVybiB7IHJlbW92ZWQ6IDAgfTsgfSwKICAgIGNhbGxVbmFyeTogYXN5bmMgKG1ldGhvZCwgcGFyYW1zKSA9PiB7IGNhbGxzLmNhbmNlbGxlZC5wdXNoKHsgbWV0aG9kLCBwYXJhbXMgfSk7IHJldHVybiBzdWNjZXNzKHsgYWNjZXB0ZWQ6IHRydWUgfSk7IH0sCiAgfTsKICBjbGFzcyBGYWtlQm90IHsKICAgIGFzeW5jIHNlbmRQcml2YXRlTWVzc2FnZShpZCwgdGV4dCkgeyBjYWxscy5zZW50LnB1c2goeyBraW5kOiAncHJpdmF0ZScsIGlkLCB0ZXh0IH0pOyB9CiAgICBhc3luYyBzZW5kR3JvdXBNZXNzYWdlKGlkLCB0ZXh0KSB7IGNhbGxzLnNlbnQucHVzaCh7IGtpbmQ6ICdncm91cCcsIGlkLCB0ZXh0IH0pOyB9CiAgICBhc3luYyBnZXRJbWFnZSh7IGZpbGUgfSkgewogICAgICBjYWxscy5pbWFnZXMucHVzaChmaWxlKTsKICAgICAgLy8gVmFsaWQgMSDDlyAxIFBORywgc3VwcGxpZWQgZW50aXJlbHkgaW4gbWVtb3J5IGJ5IHRoZSBmaXh0dXJlIGdhdGV3YXkuCiAgICAgIHJldHVybiB7IGJhc2U2NDogJ2lWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBRUFBQUFCQ0FRQUFBQzFIQXdDQUFBQUMwbEVRVlI0Mm1QOC94OEFBd01DQU8razNpb0FBQUFBU1VWT1JLNUNZSUk9JyB9OwogICAgfQogICAgYXN5bmMgZmV0Y2hGYWNlRW50aXR5KGlkKSB7IGNhbGxzLmZhY2VzLnB1c2goaWQpOyByZXR1cm4gbnVsbDsgfQogICAgYXN5bmMgcmVxdWVzdChhY3Rpb24sIHBhcmFtcyA9IHt9KSB7CiAgICAgIC8vIOe+pOaIkOWRmOWIl+ihqO+8mnYyIOivu+W3peWFtyBxcV9nZXRfZ3JvdXBfbWVtYmVycyDkvJrnlKjliLDvvIjlkKsgV1Mg5LiN5Y+v55So5pe255qEIEhUVFAg5YWc5bqV6Lev5b6E77yJ44CCCiAgICAgIGlmIChhY3Rpb24gPT09ICdnZXRfZ3JvdXBfbWVtYmVyX2xpc3QnKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIHN0YXR1czogJ29rJywgcmV0Y29kZTogMCwKICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgeyB1c2VyX2lkOiAxMTEsIG5pY2tuYW1lOiAn5bCP5piOJywgY2FyZDogJ+Wwj+aYjicsIHJvbGU6ICdtZW1iZXInIH0sCiAgICAgICAgICAgIHsgdXNlcl9pZDogMjIyLCBuaWNrbmFtZTogJ+i3r+S6uicsIGNhcmQ6ICcnIH0sCiAgICAgICAgICAgIHsgdXNlcl9pZDogMTIzLCBuaWNrbmFtZTogJ+euoeeQhuWRmCcsIGNhcmQ6ICfnvqTkuLsnLCByb2xlOiAnb3duZXInIH0KICAgICAgICAgIF0KICAgICAgICB9OwogICAgICB9CiAgICAgIHJldHVybiB7IHN0YXR1czogJ29rJywgcmV0Y29kZTogMCwgZGF0YTogW3sgZW1vamlfaWQ6ICdmaXh0dXJlLXN0aWNrZXInLCB1cmw6ICdodHRwczovL3B1YmxpYy5pbnZhbGlkL3N0aWNrZXInIH1dIH07CiAgICB9CiAgfQogIGxldCBzb3VyY2UgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKHJvb3QsICdzcmMvYnJpZGdlLmpzJyksICd1dGY4Jyk7CiAgLy8g5Y675o6J6aG25bGCIGltcG9ydO+8iFZNIOmHjOmdoCBjb250ZXh0IOazqOWFpeaPkOS+m+i/meS6m+e7keWumu+8ieOAggogIC8vIOW/hemhu+aMieihjOWkhOeQhu+8mui/meS6myBpbXBvcnQg5pyJKirlpJrooYwqKuWGmeazle+8jOeUqOWNleihjOato+WIme+8iC9eaW1wb3J0W1xzXFNdKj87L2dt77yJ5Lya5ZyoCiAgLy8g56ys5LiA5Liq5YiG5Y+35aSE5YGc5LiL77yM5oqK57Sn6Lef5YW25ZCO55qE5q2j5bi45Luj56CB5LiA6LW35Yig5o6J77yI5pu+5oqKIGBjZmcuc29jaWFsVjIudm9pY2UgPSB74oCmfWAKICAvLyDmlbTmrrXlkJ7mjonvvIzlr7zoh7Tor63pn7Pnm7jlhbPmlq3oqIDlnKjomZrmi5/njq/looPph4zmgoTmgoTlpLHnnJ/vvInjgIIKICBzb3VyY2UgPSBzb3VyY2Uuc3BsaXQoL1xyP1xuLykucmVkdWNlKChhY2MsIGxpbmUpID0+IHsKICAgIGlmIChhY2MuZHJvcHBpbmdJbXBvcnQpIHsKICAgICAgaWYgKC87XHMqJC8udGVzdChsaW5lKSkgYWNjLmRyb3BwaW5nSW1wb3J0ID0gZmFsc2U7CiAgICAgIHJldHVybiBhY2M7CiAgICB9CiAgICBpZiAoL15pbXBvcnRbXHN7Kl0vLnRlc3QobGluZSkgfHwgL15pbXBvcnRccytbJyJdLy50ZXN0KGxpbmUpKSB7CiAgICAgIGlmICghLztccyokLy50ZXN0KGxpbmUpKSBhY2MuZHJvcHBpbmdJbXBvcnQgPSB0cnVlOwogICAgICByZXR1cm4gYWNjOwogICAgfQogICAgYWNjLm91dC5wdXNoKGxpbmUpOwogICAgcmV0dXJuIGFjYzsKICB9LCB7IG91dDogW10sIGRyb3BwaW5nSW1wb3J0OiBmYWxzZSB9KS5vdXQuam9pbignXG4nKTsKICBzb3VyY2UgPSBzb3VyY2UucmVwbGFjZUFsbCgnaW1wb3J0Lm1ldGEudXJsJywgSlNPTi5zdHJpbmdpZnkocGF0aFRvRmlsZVVSTChwYXRoLmpvaW4odGVtcCwgJ3NyYy9icmlkZ2UuanMnKSkuaHJlZikpOwogIHNvdXJjZSA9IHNvdXJjZS5zbGljZSgwLCBzb3VyY2UuaW5kZXhPZigicHJvY2Vzcy5vbignU0lHSU5UJyIpKTsKICBzb3VyY2UgPSBzb3VyY2UucmVwbGFjZSgnICBib3Qub25Qcml2YXRlTWVzc2FnZShhc3luYyAoZXZlbnQpID0+IHsnLCBgCiAgcmV0dXJuIHsKICAgIGVuc3VyZVNlc3Npb24sIGVuc3VyZVNsYW5nTGVhcm5lclNlc3Npb24sIHJlc29sdmVQcmVzZXROYW1lLCBkZWxpdmVyUHJvbXB0LCBkcmFpblByb21wdFF1ZXVlLAogICAgc2VuZFRvUVEsIHNlbmRTdGlja2VyVjIsIGhhbmRsZUluY29taW5nLCBzdGFydENvbnNvbGVTZXJ2ZXIsIGNmZywgc3RhdGUsIGFwaSwgcHJvbXB0UXVldWVzLAogICAgZ2V0U29jaWFsVjJTdGF0ZSwgYXBwZW5kU29jaWFsVjJNZXNzYWdlLCByZWNvcmRTZW50TWVzc2FnZXNWMiwKICAgIGJ1aWxkV2FrZVByb21wdFYyLCBidWlsZFdha2VTbmFwc2hvdFYyLCBzZW5kV2FrZVByb21wdFYyLCBzb2NpYWxWMiwKICAgIHN5bmNTdGlja2VyTGlicmFyeSwgbGlzdFN0aWNrZXJzRm9yVjIsIGdldFN0aWNrZXJJbWFnZURhdGEsCiAgICByZWZyZXNoTW9kZSwgbW9kZUFsbG93ZWQsIHRyYWNrVHVybkV2ZW50LCByZXBsYXlQZW5kaW5nV2FrZVJlYXNvbnNWMiwKICAgIGNvbGxlY3RvcnMsIHNldHVwU2xlZXBUaW1lclYyLAogICAgZ2V0SW5pdGlhbFByb21wdCwgc2V0SW5pdGlhbFByb21wdCwgbG9hZEluaXRpYWxQcm9tcHRzLCBmb3JtYXRJbml0aWFsUHJvbXB0VjIsCiAgICBpbml0aWFsUHJvbXB0cywgaW5pdGlhbFByb21wdE1heENoYXJzLAogICAgZXh0cmFjdE1lZGlhRnJvbVNlZ21lbnRzLCBzZWdtZW50c1RvVGV4dCwgZmV0Y2hPbmVCb3RJbWFnZSwgZmV0Y2hNZWRpYURhdGEsIHJlc29sdmVNZWRpYUxpc3QsCiAgICBlbW9qaUNkbkNhbmRpZGF0ZXMsIGdldEltYWdlRGltZW5zaW9ucywgYWNjZXB0SW1hZ2VCdWZmZXIsIE1BWF9NRURJQV9CWVRFUywgYm90LAogICAgaXNDb252ZXJzYXRpb25CdXN5VjIsIHYyVHVyblN0YXJ0QXQsIHR1cm5MZWFzZU5vdGVkLCBUVVJOX0JVU1lfTEVBU0VfTVMsCiAgICBzZXR0aW5nRnJvbURzaE5hbWVzcGFjZSwgc2VsZklkZW50aXR5VGV4dFYyLCBidWlsZFdha2VSZW1pbmRlclByb21wdFYyLAogICAgZ2V0TW9kZSgpIHsgcmV0dXJuIGN1cnJlbnRNb2RlOyB9LAogICAgc2V0U2VsZklkZW50aXR5KGRpc3BsYXksIGlkKSB7CiAgICAgIHNlbGZEaXNwbGF5TmFtZSA9IFN0cmluZyhkaXNwbGF5ID8/ICcnKTsKICAgICAgc2VsZlVzZXJJZCA9IFN0cmluZyhpZCA/PyAnJyk7CiAgICAgIHNlbGZOaWNrbmFtZSA9IHNlbGZEaXNwbGF5TmFtZS50b0xvd2VyQ2FzZSgpIHx8ICdkZWVwc2Vlayc7CiAgICB9LAogICAgZmx1c2hRdWV1ZSwgcmV0aXJlU2Vzc2lvbiwKICAgIHZvaWNlQ2ZnLCB2b2ljZUxpYnJhcnksIHJlc29sdmVWb2ljZVBhdGhGb3JWMiwgcmVzb2x2ZVZvaWNlUGF0aEZvck9wZXJhdG9yLAogICAgdm9pY2VCdWRnZXRDaGVjaywgc2VuZFZvaWNlVjIsIHNlbmRWb2ljZUZvclYyLCBhc3NlcnRPdXRib3VuZEF1ZGl0T2ssCiAgICBzZXRNb2RlKHZhbHVlKSB7IGN1cnJlbnRNb2RlID0gdmFsdWU7IH0sCiAgICBzZXRSZWFkeSh2YWx1ZSkgeyBkc2hSZWFkeSA9IHZhbHVlOyB9LAogICAgc2V0UHJlc2V0cyh2YWx1ZSkgeyBkc2hQcmVzZXRJZHMgPSB2YWx1ZTsgZHNoRGVmYXVsdFByZXNldCA9ICdzdGFuZGFyZCc7IH0sCiAgICByZXNldEVwb2NoKCkgeyBzZXNzaW9uRXBvY2grKzsgfSwKICB9OwogIGJvdC5vblByaXZhdGVNZXNzYWdlKGFzeW5jIChldmVudCkgPT4ge2ApOwogIGNvbnN0IHRpbWVycyA9IG5ldyBTZXQoKTsKICBjb25zdCBjb250ZXh0ID0gdm0uY3JlYXRlQ29udGV4dCh7CiAgICBmcywgb3MsIHBhdGgsIGh0dHAsIGNyeXB0bywgZmlsZVVSTFRvUGF0aCwgVVJMLCBCdWZmZXIsIEFib3J0U2lnbmFsLCBjb25zb2xlOiB7IGxvZygpIHt9LCBlcnJvcigpIHt9IH0sCiAgICBmZXRjaDogZmFrZUZldGNoLAogICAgLy8g6ZSB5paH5Lu25o6i5rWL55So77yIYnJpZGdlLmpzIOmhtuWxgueahCBjb25zb2xlUG9ydEluVXNl77yJ77ybCiAgICAvLyDlm7rlrprmoanmjonvvJrmtYvor5XkuI3lupTor6XnnJ/ljrsgbmV0c3RhdCDlrr/kuLvmnLrjgIIKICAgIGV4ZWNGaWxlU3luYzogKCkgPT4gJycsCiAgICAvLyBwcm9jZXNzIOahqeimgeW4piBlbnbvvJp2b2ljZS1jb3JlIC8gYnJpZGdlIOS8muivuyBwcm9jZXNzLmVudi5GRk1QRUdfUEFUSOOAgUZGUFJPQkVfUEFUSCDnrYnjgIIKICAgIC8vIOS5i+WJjeWPque7mSBwaWQvcGxhdGZvcm0va2lsbC9leGl077yM5a+86Ie0IGBwcm9jZXNzLmVudi5GRk1QRUdfUEFUSGAg55u05o6l5oqbIFR5cGVFcnJvcuOAggogICAgcHJvY2VzczogeyBwaWQ6IHByb2Nlc3MucGlkLCBwbGF0Zm9ybTogcHJvY2Vzcy5wbGF0Zm9ybSwga2lsbDogcHJvY2Vzcy5raWxsLCBlbnY6IHt9LCBleGl0OiAoY29kZSkgPT4geyB0aHJvdyBuZXcgRXJyb3IoJ3VuZXhwZWN0ZWQgZXhpdCAnICsgY29kZSk7IH0gfSwKICAgIHNldFRpbWVvdXQ6IChmbiwgbXMpID0+IHsgY29uc3QgdGltZXIgPSBzZXRUaW1lb3V0KGZuLCBtcyk7IHRpbWVycy5hZGQodGltZXIpOyByZXR1cm4gdGltZXI7IH0sCiAgICBjbGVhclRpbWVvdXQsIHNldEludGVydmFsOiAoKSA9PiAoeyB1bnJlZigpIHt9IH0pLCBjbGVhckludGVydmFsOiAoKSA9PiB7fSwKICAgIE5vZGVBcGlDbGllbnQ6IGNsYXNzIHsgY29uc3RydWN0b3IoKSB7IHJldHVybiBhcGk7IH0gfSwKICAgIFNub3dMdW1hV2ViU29ja2V0Q2xpZW50OiBGYWtlQm90LCB0ZXh0OiAocykgPT4gcywKICAgIGRpc2NvdmVyRHNoTGF1bmNoVG9rZW46ICgpID0+ICcnLCB1bndyYXAsIGNyZWF0ZVR1cm5Db2xsZWN0b3IsCiAgICAuLi5tYXJrZG93biwgLi4uc2Vuc2l0aXZlLCAuLi53YWl0LCAuLi5zYWZlRmV0Y2gsIC4uLmZvcndhcmQsIC4uLnNsYW5nLCAuLi5zdGlja2VyLAogICAgLi4ubW9kZWxQcmljZXMsIC4uLnRva2VuTGVkZ2VyLCAuLi52b2ljZUxpYiwgLi4uc3RhdGVBY2wsIC4uLnByZXNldFByb21wdCwKICAgIC8vIOahpeaOpeeahOWHuuWbvuWHuuWPo+S8muiwg+W9kuS4gOWMlu+8iOS9k+enry/liqjlm77mir3luKfvvInvvJpWTSDph4zlv4Xpobvog73mi7/liLDov5nlh6DkuKrlh73mlbDjgIIKICAgIG5vcm1hbGl6ZUltYWdlRm9yTW9kZWw6IG1lZGlhTm9ybWFsaXplLm5vcm1hbGl6ZUltYWdlRm9yTW9kZWwsCiAgICBzbmlmZkltYWdlOiBtZWRpYU5vcm1hbGl6ZS5zbmlmZkltYWdlLAogICAgcGxhbk5vcm1hbGl6YXRpb246IG1lZGlhTm9ybWFsaXplLnBsYW5Ob3JtYWxpemF0aW9uLAogICAgcGxhbkFuaW1hdGlvbjogbWVkaWFOb3JtYWxpemUucGxhbkFuaW1hdGlvbiwKICAgIC8vIEFDTCDmlLbntKfkvJogc3Bhd24gaWNhY2xzIOWOu+aUuSoq55yf5a6eKirmlofku7bns7vnu5/vvJvmtYvor5XkuI3or6XlgZrov5nku7bkuovvvIjlkIznkIbop4HkuIvpnaLnmoQKICAgIC8vIGNsZWFudXBUZW1wIC8gcHJvY2Vzc0F1ZGlvVm9sdW1lIOahqe+8ieOAguahqeaIkOaIkOWKn++8jOiuqSBoYXJkZW5TdGF0ZURpckFjbCDotbDmraPluLjliIbmlK/jgIIKICAgIGhhcmRlbkRpcjogKCkgPT4gKHsgb2s6IHRydWUsIGRldGFpbDogJ3N0dWInIH0pLAogICAgLy8g6Z+z6YeP6Z2gIGZmbXBlZ++8m+a1i+ivleeOr+Wig+S4jeivpeecn+i3kSBmZm1wZWfvvIjkuZ/kuI3or6XlnKjmspnnrrHph4wgc3Bhd27vvInjgIIKICAgIC8vIOm7mOiupOahqeaIkCLmjInlgI3mlbDorrDotKbkvYbkuI3ovaznoIEi77yM6LCD55So5pa55Y+v55SoIGdsb2JhbHMg6KaG55uW5p2l5pat6KiA55yf5a6e6KGM5Li644CCCiAgICBwcm9jZXNzQXVkaW9Wb2x1bWU6IGFzeW5jIChmaWxlLCB7IHZvbHVtZSA9IDEsIG5vcm1hbGl6ZSA9IGZhbHNlLCBsb3VkbmVzcyA9ICdub3JtYWwnIH0gPSB7fSkgPT4gewogICAgICBjb25zdCB2ID0gTnVtYmVyKHZvbHVtZSk7CiAgICAgIGNvbnN0IGNoYW5nZWQgPSBub3JtYWxpemUgPT09IHRydWUgfHwgTWF0aC5hYnModiAtIDEpID4gMWUtOTsKICAgICAgcmV0dXJuIHsKICAgICAgICBwYXRoOiBjaGFuZ2VkID8gYCR7ZmlsZX0udm9sYCA6IGZpbGUsCiAgICAgICAgY29udmVydGVkOiBjaGFuZ2VkLAogICAgICAgIGFwcGxpZWQ6IGNoYW5nZWQsCiAgICAgICAgdm9sdW1lOiBub3JtYWxpemUgPyAxIDogdiwKICAgICAgICBsb3VkbmVzczogbm9ybWFsaXplID8gLTE2IDogbnVsbCwKICAgICAgICBtb2RlOiBub3JtYWxpemUgPyAnbG91ZG5vcm0nIDogKGNoYW5nZWQgPyAndm9sdW1lJyA6ICdvcmlnaW5hbCcpLAogICAgICAgIGRldGFpbDogbm9ybWFsaXplID8gYOaZuuiDvemfs+mHj++8iOWTjeW6puW9kuS4gCAke2xvdWRuZXNzID09PSAnbG91ZCcgPyAtMTMgOiBsb3VkbmVzcyA9PT0gJ3F1aWV0JyA/IC0yMCA6IC0xNn0gTFVGU++8iWAKICAgICAgICAgIDogKGNoYW5nZWQgPyBg6Z+z6YePICR7TWF0aC5yb3VuZCh2ICogMTAwKX0lYCA6ICfljp/lp4vpn7Pph48nKQogICAgICB9OwogICAgfSwKICAgIGNsZWFudXBUZW1wOiAoKSA9PiB7fSwKICAgIC4uLmdsb2JhbHMsCiAgfSk7CiAgLy8gRXhlY3V0ZSB0aGUgcHVyZSBtb2RlbCB2aWV3IGluIHRoZSBicmlkZ2UgcmVhbG0uIEl0cyBwbGFpbi1vYmplY3QgY2hlY2tzCiAgLy8gc2hvdWxkIHNlZSB0aGUgc2FtZSBwcm90b3R5cGVzIGFzIHJlYWwgYnJpZGdlIG1lc3NhZ2VzLCBqdXN0IGFzIGluIE5vZGUuCiAgY29uc3QgbW9kZWxWaWV3U291cmNlID0gZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihyb290LCAnc3JjL3FxLW1vZGVsLXZpZXcuanMnKSwgJ3V0ZjgnKS5yZXBsYWNlKC9eZXhwb3J0IC9nbSwgJycpOwogIHZtLnJ1bkluQ29udGV4dChgT2JqZWN0LmFzc2lnbihnbG9iYWxUaGlzLCAoKCkgPT4geyAke21vZGVsVmlld1NvdXJjZX1cbnJldHVybiB7IGNvbXBhY3RNb2RlbE1lc3NhZ2UsIGNvbXBhY3RNb2RlbERhdGEsIHNlcmlhbGl6ZU1vZGVsRGF0YSwgZGVzY3JpYmVBZ2UgfTsgfSkoKSk7YCwgY29udGV4dCk7CiAgdm0ucnVuSW5Db250ZXh0KHNvdXJjZSArICdcbmdsb2JhbFRoaXMuYXVkaXRSZWFkeSA9IG1haW4oKTsnLCBjb250ZXh0KTsKICBjb25zdCBicmlkZ2UgPSBhd2FpdCBjb250ZXh0LmF1ZGl0UmVhZHk7CiAgYnJpZGdlLnNldFByZXNldHMoWydzdGFuZGFyZCcsICdxcS1jaGF0JywgJ3FxLWNoYXQtdjInXSk7CiAgYnJpZGdlLnNldFJlYWR5KHRydWUpOwogIHJldHVybiB7IC4uLmJyaWRnZSwgY2FsbHMsIHRlbXAsIGFzeW5jIGNsb3NlKCkgewogICAgZm9yIChjb25zdCB0aW1lciBvZiB0aW1lcnMpIGNsZWFyVGltZW91dCh0aW1lcik7CiAgICBmcy5ybVN5bmModGVtcCwgeyByZWN1cnNpdmU6IHRydWUsIGZvcmNlOiB0cnVlIH0pOwogIH0gfTsKfQo=
+// Execute the real bridge initialization/functions against temporary files and fake peers.
+// No production config, QQ connection, DSH process, or persistent home is accessed.
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import http from 'node:http';
+import crypto from 'node:crypto';
+import vm from 'node:vm';
+import { execFileSync } from 'node:child_process';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import * as markdown from '../src/md-to-plain.js';
+import * as sensitive from '../src/sensitive.js';
+import * as wait from '../src/v2-wait.js';
+import * as safeFetch from '../src/safe-fetch.js';
+import * as mediaNormalize from '../src/media-normalize.js';
+import * as forward from '../src/forward.js';
+import * as slang from '../src/slang-learner.js';
+import * as sticker from '../src/sticker-lib.js';
+import * as modelPrices from '../src/model-prices.js';
+import * as tokenLedger from '../src/token-ledger.js';
+import * as voiceLib from '../src/send-voice-lib.js';
+import * as presetPrompt from '../src/preset-prompt.js';
+import * as stateAcl from '../src/state-acl.mjs';
+import { unwrap, createTurnCollector } from '../src/dsh-client.js';
+
+const root = fileURLToPath(new URL('..', import.meta.url));
+export async function bridgeHarness({ config = {}, savedState, files = {}, globals = {} } = {}) {
+  const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'qq-audit-bridge-'));
+  fs.mkdirSync(path.join(temp, 'src'));
+  fs.mkdirSync(path.join(temp, 'state'));
+  fs.writeFileSync(path.join(temp, 'config.json'), JSON.stringify({
+    dsh: { authToken: 'fixture-only' }, ownerQQ: 123,
+    allow: { private: ['123'], groups: ['456'] }, consolePort: 0,
+    consoleToken: 'fixture-console-token', slang: { enabled: false }, ...config,
+  }));
+  if (savedState) fs.writeFileSync(path.join(temp, 'state/sessions.json'), JSON.stringify(savedState));
+  // 额外状态文件（用于测试"启动时读到损坏/旧版文件"这类路径）。
+  for (const [rel, content] of Object.entries(files)) {
+    const target = path.join(temp, rel);
+    fs.mkdirSync(path.dirname(target), { recursive: true });
+    fs.writeFileSync(target, typeof content === 'string' ? content : JSON.stringify(content));
+  }
+  const calls = { created: [], archived: [], sent: [], prompts: [], follows: [], cancelled: [], images: [], faces: [], http: [] };
+  // 语音发送在桥接里是**直接 fetch 网关**（与文本/表情共用 sendChain，但要自己带 record 段），
+  // 所以这里给 VM 注入一个记录型 fetch：既不让测试真的发 QQ 消息，又能断言发出的段内容。
+  const fakeFetch = async (url, init = {}) => {
+    const body = (() => { try { return JSON.parse(init.body ?? '{}'); } catch { return init.body; } })();
+    calls.http.push({ url: String(url), body });
+    const action = String(url).split('/').pop();
+    // fetch_custom_face_detail：同步收藏表情的 HTTP 兜底路径要拿到**数组**（WS 失败时用）。
+    if (action === 'fetch_custom_face_detail') {
+      return {
+        ok: true,
+        status: 200,
+        json: async () => ({
+          status: 'ok',
+          retcode: 0,
+          data: [{ emoji_id: 'http-fixture-sticker', resId: 'http-fixture-sticker', url: 'https://public.invalid/http-sticker', md5: 'AABBCCDDEEFF00112233445566778899', desc: 'HTTP 兜底表情' }]
+        })
+      };
+    }
+    if (action === 'fetch_ptt_text') {
+      return { ok: true, status: 200, json: async () => ({ status: 'ok', retcode: 0, data: { text: 'fixture-transcript' } }) };
+    }
+    // get_msg：语音落地校验用 —— 回一个带 record 段的消息，模拟真实网关
+    if (action === 'get_msg') {
+      return {
+        ok: true,
+        status: 200,
+        json: async () => ({
+          status: 'ok',
+          retcode: 0,
+          data: { message_id: 9001, message: [{ type: 'record', data: { file: 'fixture-record.amr', duration: 3 } }] }
+        })
+      };
+    }
+    return { ok: true, status: 200, json: async () => ({ status: 'ok', retcode: 0, data: { message_id: 9001 } }) };
+  };
+  const success = (value) => ({ result: { ok: true, value } });
+  const api = {
+    events: { follow: (id) => calls.follows.push(id) },
+    // settings.describe 的默认桩：没有 qq-mode 命名空间 ⇒ refreshMode() 回退到本地 mode.json。
+    // 测试可覆盖它来验证「DSH 设置里的空 ownerQQ 不得覆盖 config.json」等契约。
+    settings: {
+      describe: async () => success({ namespaces: [] }),
+      update: async () => success({ updated: true })
+    },
+    workspace: {
+      create: async () => success({ created: false, workspace: { workspaceId: 'fixture-workspace' } }),
+      archiveSession: async ({ sessionId }) => { calls.archived.push(sessionId); return success({}); },
+    },
+    sessions: {
+      create: async (params) => { calls.created.push(params); return success({ sessionId: `fixture-${calls.created.length}` }); },
+      selectModel: async () => success({ selected: { provider: 'fixture', model: 'fixture' } }),
+      prompt: async (params) => { calls.prompts.push(params); return success({}); },
+    },
+    respond: async () => success({}),
+    stopSessionWork: async (sessionId) => { calls.cancelled.push(sessionId); return { removed: 0 }; },
+    callUnary: async (method, params) => { calls.cancelled.push({ method, params }); return success({ accepted: true }); },
+  };
+  class FakeBot {
+    async sendPrivateMessage(id, text) { calls.sent.push({ kind: 'private', id, text }); }
+    async sendGroupMessage(id, text) { calls.sent.push({ kind: 'group', id, text }); }
+    async getImage({ file }) {
+      calls.images.push(file);
+      // Valid 1 × 1 PNG, supplied entirely in memory by the fixture gateway.
+      return { base64: 'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+k3ioAAAAASUVORK5CYII=' };
+    }
+    async fetchFaceEntity(id) { calls.faces.push(id); return null; }
+    async request(action, params = {}) {
+      // 群成员列表：v2 读工具 qq_get_group_members 会用到（含 WS 不可用时的 HTTP 兜底路径）。
+      if (action === 'get_group_member_list') {
+        return {
+          status: 'ok', retcode: 0,
+          data: [
+            { user_id: 111, nickname: '小明', card: '小明', role: 'member' },
+            { user_id: 222, nickname: '路人', card: '' },
+            { user_id: 123, nickname: '管理员', card: '群主', role: 'owner' }
+          ]
+        };
+      }
+      return { status: 'ok', retcode: 0, data: [{ emoji_id: 'fixture-sticker', url: 'https://public.invalid/sticker' }] };
+    }
+  }
+  let source = fs.readFileSync(path.join(root, 'src/bridge.js'), 'utf8');
+  // 去掉顶层 import（VM 里靠 context 注入提供这些绑定）。
+  // 必须按行处理：这些 import 有**多行**写法，用单行正则（/^import[\s\S]*?;/gm）会在
+  // 第一个分号处停下，把紧跟其后的正常代码一起删掉（曾把 `cfg.socialV2.voice = {…}`
+  // 整段吞掉，导致语音相关断言在虚拟环境里悄悄失真）。
+  source = source.split(/\r?\n/).reduce((acc, line) => {
+    if (acc.droppingImport) {
+      if (/;\s*$/.test(line)) acc.droppingImport = false;
+      return acc;
+    }
+    if (/^import[\s{*]/.test(line) || /^import\s+['"]/.test(line)) {
+      if (!/;\s*$/.test(line)) acc.droppingImport = true;
+      return acc;
+    }
+    acc.out.push(line);
+    return acc;
+  }, { out: [], droppingImport: false }).out.join('\n');
+  source = source.replaceAll('import.meta.url', JSON.stringify(pathToFileURL(path.join(temp, 'src/bridge.js')).href));
+  source = source.slice(0, source.indexOf("process.on('SIGINT'"));
+  source = source.replace('  bot.onPrivateMessage(async (event) => {', `
+  return {
+    ensureSession, ensureSlangLearnerSession, resolvePresetName, deliverPrompt, drainPromptQueue,
+    sendToQQ, sendStickerV2, handleIncoming, startConsoleServer, cfg, state, api, promptQueues,
+    getSocialV2State, appendSocialV2Message, recordSentMessagesV2,
+    buildWakePromptV2, buildWakeSnapshotV2, sendWakePromptV2, socialV2,
+    syncStickerLibrary, listStickersForV2, getStickerImageData,
+    refreshMode, modeAllowed, trackTurnEvent, replayPendingWakeReasonsV2,
+    collectors, setupSleepTimerV2,
+    getInitialPrompt, setInitialPrompt, loadInitialPrompts, formatInitialPromptV2,
+    initialPrompts, initialPromptMaxChars,
+    extractMediaFromSegments, segmentsToText, fetchOneBotImage, fetchMediaData, resolveMediaList,
+    emojiCdnCandidates, getImageDimensions, acceptImageBuffer, MAX_MEDIA_BYTES, bot,
+    isConversationBusyV2, v2TurnStartAt, turnLeaseNoted, TURN_BUSY_LEASE_MS,
+    settingFromDshNamespace, selfIdentityTextV2, buildWakeReminderPromptV2,
+    getMode() { return currentMode; },
+    setSelfIdentity(display, id) {
+      selfDisplayName = String(display ?? '');
+      selfUserId = String(id ?? '');
+      selfNickname = selfDisplayName.toLowerCase() || 'deepseek';
+    },
+    flushQueue, retireSession,
+    voiceCfg, voiceLibrary, resolveVoicePathForV2, resolveVoicePathForOperator,
+    voiceBudgetCheck, sendVoiceV2, sendVoiceForV2, assertOutboundAuditOk,
+    setMode(value) { currentMode = value; },
+    setReady(value) { dshReady = value; },
+    setPresets(value) { dshPresetIds = value; dshDefaultPreset = 'standard'; },
+    resetEpoch() { sessionEpoch++; },
+  };
+  bot.onPrivateMessage(async (event) => {`);
+  const timers = new Set();
+  const context = vm.createContext({
+    fs, os, path, http, crypto, fileURLToPath, URL, Buffer, AbortSignal, console: { log() {}, error() {} },
+    fetch: fakeFetch,
+    // 锁文件探测用（bridge.js 顶层的 consolePortInUse）；
+    // 固定桩掉：测试不应该真去 netstat 宿主机。
+    execFileSync: () => '',
+    // process 桩要带 env：voice-core / bridge 会读 process.env.FFMPEG_PATH、FFPROBE_PATH 等。
+    // 之前只给 pid/platform/kill/exit，导致 `process.env.FFMPEG_PATH` 直接抛 TypeError。
+    process: { pid: process.pid, platform: process.platform, kill: process.kill, env: {}, exit: (code) => { throw new Error('unexpected exit ' + code); } },
+    setTimeout: (fn, ms) => { const timer = setTimeout(fn, ms); timers.add(timer); return timer; },
+    clearTimeout, setInterval: () => ({ unref() {} }), clearInterval: () => {},
+    NodeApiClient: class { constructor() { return api; } },
+    SnowLumaWebSocketClient: FakeBot, text: (s) => s,
+    discoverDshLaunchToken: () => '', unwrap, createTurnCollector,
+    ...markdown, ...sensitive, ...wait, ...safeFetch, ...forward, ...slang, ...sticker,
+    ...modelPrices, ...tokenLedger, ...voiceLib, ...stateAcl, ...presetPrompt,
+    // 桥接的出图出口会调归一化（体积/动图抽帧）：VM 里必须能拿到这几个函数。
+    normalizeImageForModel: mediaNormalize.normalizeImageForModel,
+    sniffImage: mediaNormalize.sniffImage,
+    planNormalization: mediaNormalize.planNormalization,
+    planAnimation: mediaNormalize.planAnimation,
+    // ACL 收紧会 spawn icacls 去改**真实**文件系统；测试不该做这件事（同理见下面的
+    // cleanupTemp / processAudioVolume 桩）。桩成成功，让 hardenStateDirAcl 走正常分支。
+    hardenDir: () => ({ ok: true, detail: 'stub' }),
+    // 音量靠 ffmpeg；测试环境不该真跑 ffmpeg（也不该在沙箱里 spawn）。
+    // 默认桩成"按倍数记账但不转码"，调用方可用 globals 覆盖来断言真实行为。
+    processAudioVolume: async (file, { volume = 1, normalize = false, loudness = 'normal' } = {}) => {
+      const v = Number(volume);
+      const changed = normalize === true || Math.abs(v - 1) > 1e-9;
+      return {
+        path: changed ? `${file}.vol` : file,
+        converted: changed,
+        applied: changed,
+        volume: normalize ? 1 : v,
+        loudness: normalize ? -16 : null,
+        mode: normalize ? 'loudnorm' : (changed ? 'volume' : 'original'),
+        detail: normalize ? `智能音量（响度归一 ${loudness === 'loud' ? -13 : loudness === 'quiet' ? -20 : -16} LUFS）`
+          : (changed ? `音量 ${Math.round(v * 100)}%` : '原始音量')
+      };
+    },
+    cleanupTemp: () => {},
+    ...globals,
+  });
+  // Execute the pure model view in the bridge realm. Its plain-object checks
+  // should see the same prototypes as real bridge messages, just as in Node.
+  const modelViewSource = fs.readFileSync(path.join(root, 'src/qq-model-view.js'), 'utf8').replace(/^export /gm, '');
+  vm.runInContext(`Object.assign(globalThis, (() => { ${modelViewSource}\nreturn { compactModelMessage, compactModelData, serializeModelData, describeAge }; })());`, context);
+  vm.runInContext(source + '\nglobalThis.auditReady = main();', context);
+  const bridge = await context.auditReady;
+  bridge.setPresets(['standard', 'qq-chat', 'qq-chat-v2']);
+  bridge.setReady(true);
+  return { ...bridge, calls, temp, async close() {
+    for (const timer of timers) clearTimeout(timer);
+    fs.rmSync(temp, { recursive: true, force: true });
+  } };
+}

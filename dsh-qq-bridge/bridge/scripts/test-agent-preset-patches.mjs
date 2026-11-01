@@ -1,1 +1,123 @@
-Ly8g6ZKJ5L2PIERTSCAwLjEuNyBwcmVzZXQg6KOF6YWN55qE44CM6Ziy5ryC56e744CN5aWR57qm77yI57qv56a757q/77yM5LiN6ZyA6KaBIERTSCDlnKjot5HvvInvvJoKLy8gICAxLiBidW5kbGUgcGF0Y2jvvIhwbHVnaW5zL3FxLWFnZW50LXByZXNldHMvcHJlc2V0cy8qLnBhdGNoLnltbO+8ieS4juS7k+W6k+adg+Wogea6kAovLyAgICAgIO+8iGRzaC9hZ2VudC1wcmVzZXRzLzxwcmVzZXQ+L3twcmVzZXQueW1sLGFnZW50LmNvcmRpcy55bWx977yJ6YCQ5a2X5LiA6Ie077ybCi8vICAgMi4gcGF0Y2gg55qE5b2i54q256ym5ZCI5paw5py65Yi277yaaW5zZXJ0IOS4gOadoSBAZGVlcHNlZWstYWkvZHNoLWFnZW50LXByZXNldCDooYzvvIwKLy8gICAgICBjb25maWcg6YeM5bimIGlkL25hbWUvZGVzY3JpcHRpb24vb3JkZXIvcGx1Z2luc++8mwovLyAgIDMuIOWuiOWNq+ihjOWPquiDveeUqOOAjOS7jiBwcm9maWxlIOebruW9leWPr+ino+aekOOAjeeahOW8leeUqOaWueW8j++8iOijuOivtOaYjuespu+8ie+8jAovLyAgICAgIOS4jeWFgeiuuOS7u+S9leebuOWvuS/nu53lr7not6/lvoTlrZDooYzlkI0g4oCU4oCUIOmCo+ato+aYryAwLjEuNyDkuIvpnZnpu5joo4XkuI3kuIrnmoTlnZHvvJsKLy8gICA0LiDlronlhajovrnnlYzvvIhxcS10b29sLXJlc3RyaWN0IOeahCBmYWlsLWNsb3NlZCDnmb3lkI3ljZXvvInkuIDku73lrp7njrDjgIHkuKTkuKogcHJlc2V0IOWFseeUqOOAggppbXBvcnQgYXNzZXJ0IGZyb20gJ25vZGU6YXNzZXJ0L3N0cmljdCc7CmltcG9ydCBmcyBmcm9tICdub2RlOmZzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IHsgZmlsZVVSTFRvUGF0aCwgcGF0aFRvRmlsZVVSTCB9IGZyb20gJ25vZGU6dXJsJzsKaW1wb3J0IHlhbWwgZnJvbSAnanMteWFtbCc7CmltcG9ydCB7CiAgQlVORExFX0RJUiwgR1VBUkRfU1BFQ0lGSUVSLCBQUkVTRVRTLCBSRVBPX1JPT1QsCiAgYnVpbGRQYXRjaGVzLCBwYXRjaEZpbGVGb3IsIHByZXNldFJvd0lkLAp9IGZyb20gJy4vYnVpbGQtYWdlbnQtcHJlc2V0LXBhdGNoZXMubWpzJzsKCmxldCBmYWlsdXJlcyA9IDA7CmZ1bmN0aW9uIG9rKGNvbmQsIGxhYmVsKSB7CiAgaWYgKGNvbmQpIGNvbnNvbGUubG9nKGDinIUgJHtsYWJlbH1gKTsKICBlbHNlIHsgZmFpbHVyZXMgKz0gMTsgY29uc29sZS5lcnJvcihg4p2MICR7bGFiZWx9YCk7IH0KfQoKY29uc3QgcmVhZCA9IChwKSA9PiBmcy5yZWFkRmlsZVN5bmMocCwgJ3V0ZjgnKTsKY29uc3QgbG9hZCA9IChwKSA9PiB5YW1sLmxvYWQocmVhZChwKSk7Cgpjb25zb2xlLmxvZygnIyMgMS4g5Lqn54mp5LiO5rqQ5LiN5ryC56e777yILS1jaGVjayDor63kuYnvvIknKTsKewogIGNvbnN0IHJlc3VsdHMgPSBidWlsZFBhdGNoZXMoeyBjaGVjazogdHJ1ZSwgbG9nOiAoKSA9PiB7fSB9KTsKICBmb3IgKGNvbnN0IHsgZmlsZSwgY2hhbmdlZCB9IG9mIHJlc3VsdHMpIHsKICAgIG9rKCFjaGFuZ2VkLCBgJHtwYXRoLnJlbGF0aXZlKFJFUE9fUk9PVCwgZmlsZSl9IOS4jua6kOS4gOiHtO+8iOS4jeS4gOiHtOivt+i3kSBub2RlIHNjcmlwdHMvYnVpbGQtYWdlbnQtcHJlc2V0LXBhdGNoZXMubWpz77yJYCk7CiAgfQp9Cgpjb25zb2xlLmxvZygnIyMgMi4gcGF0Y2gg5b2i54q256ym5ZCIIERTSCAwLjEuNyDnmoQgcHJlc2V0IOacuuWIticpOwpmb3IgKGNvbnN0IG5hbWUgb2YgUFJFU0VUUykgewogIGNvbnN0IGZpbGUgPSBwYXRjaEZpbGVGb3IobmFtZSk7CiAgb2soZnMuZXhpc3RzU3luYyhmaWxlKSwgYCR7cGF0aC5yZWxhdGl2ZShSRVBPX1JPT1QsIGZpbGUpfSDlrZjlnKhgKTsKICBjb25zdCBkb2MgPSBsb2FkKGZpbGUpOwogIG9rKEFycmF5LmlzQXJyYXkoZG9jKSAmJiBkb2MubGVuZ3RoID09PSAxICYmIEFycmF5LmlzQXJyYXkoZG9jWzBdPy5pbnNlcnQpLCBgJHtuYW1lfTog6aG25bGC5pivIFsgeyBpbnNlcnQ6IFsuLi5dIH0gXWApOwogIGNvbnN0IHJvdyA9IGRvY1swXS5pbnNlcnRbMF07CiAgb2socm93LmlkID09PSBwcmVzZXRSb3dJZChuYW1lKSwgYCR7bmFtZX06IOihjCBpZCA9ICR7cHJlc2V0Um93SWQobmFtZSl977yI6Z2eIHByZXNldCDlkI3vvIzkvr/kuo7mjInooYzlrprkvY3vvIlgKTsKICBvayhyb3cubmFtZSA9PT0gJ0BkZWVwc2Vlay1haS9kc2gtYWdlbnQtcHJlc2V0JywgYCR7bmFtZX06IOihjCBuYW1lID0gQGRlZXBzZWVrLWFpL2RzaC1hZ2VudC1wcmVzZXRgKTsKICBvayhyb3cuY29uZmlnPy5pZCA9PT0gbmFtZSwgYCR7bmFtZX06IGNvbmZpZy5pZCA9ICR7bmFtZX3vvIjmoaXmjqXmjInov5nkuKogaWQg6Kej5p6QIHByZXNldO+8iWApOwogIGNvbnN0IG1ldGEgPSBsb2FkKHBhdGguam9pbihSRVBPX1JPT1QsICdkc2gnLCAnYWdlbnQtcHJlc2V0cycsIG5hbWUsICdwcmVzZXQueW1sJykpOwogIG9rKHJvdy5jb25maWcubmFtZSA9PT0gbWV0YS5uYW1lICYmIHJvdy5jb25maWcuZGVzY3JpcHRpb24gPT09IG1ldGEuZGVzY3JpcHRpb24gJiYgcm93LmNvbmZpZy5vcmRlciA9PT0gbWV0YS5vcmRlciwKICAgIGAke25hbWV9OiBwcmVzZXQueW1sIOeahCBuYW1lL2Rlc2NyaXB0aW9uL29yZGVyIOWOn+agt+W4pui/myBjb25maWdgKTsKICBvayhBcnJheS5pc0FycmF5KHJvdy5jb25maWcucGx1Z2lucykgJiYgcm93LmNvbmZpZy5wbHVnaW5zLmxlbmd0aCA+IDAsIGAke25hbWV9OiBjb25maWcucGx1Z2lucyDpnZ7nqbrvvIjmlrDmnLrliLbph4zlv4XloavvvIlgKTsKCiAgLy8g5LiO5rqQ6KGM5YiX6KGo6YCQ5a2X5a+55q+U77ya5Y+q5YWB6K645a6I5Y2r6KGM55qEIG5hbWUg6KKr5pS55YaZ44CCCiAgY29uc3Qgc291cmNlID0gbG9hZChwYXRoLmpvaW4oUkVQT19ST09ULCAnZHNoJywgJ2FnZW50LXByZXNldHMnLCBuYW1lLCAnYWdlbnQuY29yZGlzLnltbCcpKTsKICBjb25zdCBleHBlY3RlZCA9IHN0cnVjdHVyZWRDbG9uZShzb3VyY2UpOwogIGZvciAoY29uc3QgciBvZiBleHBlY3RlZCkgaWYgKHIubmFtZSA9PT0gJy4vcXEtdG9vbC1yZXN0cmljdC5tanMnKSByLm5hbWUgPSBHVUFSRF9TUEVDSUZJRVI7CiAgYXNzZXJ0LmRlZXBFcXVhbChyb3cuY29uZmlnLnBsdWdpbnMsIGV4cGVjdGVkLCBgJHtuYW1lfTogY29uZmlnLnBsdWdpbnMg5b+F6aG75LiOIGFnZW50LmNvcmRpcy55bWwg5a6M5YWo5LiA6Ie077yI5a6I5Y2r5ZCN6Zmk5aSW77yJYCk7CiAgb2sodHJ1ZSwgYCR7bmFtZX06IGNvbmZpZy5wbHVnaW5zIOS4jiBhZ2VudC5jb3JkaXMueW1sIOmAkOWtl+S4gOiHtO+8iCR7ZXhwZWN0ZWQubGVuZ3RofSDooYzvvIlgKTsKCiAgLy8g5Lq65qC85q2j5paH5piv5Lqn5ZOB5pys5L2T77ya5Y2V54us5YaN6ZKJ5LiA5qyh77yM6Ziy5q2i44CM6aG65omL5pS55YaZL+aIquaWreOAjeOAggogIGNvbnN0IHNyY1BlcnNvbmEgPSBzb3VyY2UuZmluZCgocikgPT4gci5pZCA9PT0gJ3BlcnNvbmEnKTsKICBjb25zdCBwYXRjaFBlcnNvbmEgPSByb3cuY29uZmlnLnBsdWdpbnMuZmluZCgocikgPT4gci5pZCA9PT0gJ3BlcnNvbmEnKTsKICBvayh0eXBlb2Ygc3JjUGVyc29uYT8uY29uZmlnPy5wcmVmaXggPT09ICdzdHJpbmcnICYmIHNyY1BlcnNvbmEuY29uZmlnLnByZWZpeCA9PT0gcGF0Y2hQZXJzb25hPy5jb25maWc/LnByZWZpeCwKICAgIGAke25hbWV9OiBwZXJzb25hLnByZWZpeCDpgJDlrZfkuIDoh7TvvIgke3NyY1BlcnNvbmE/LmNvbmZpZz8ucHJlZml4Py5sZW5ndGggPz8gMH0g5a2X56ym77yJYCk7Cn0KCmNvbnNvbGUubG9nKCcjIyAzLiDlrojljavooYzlvJXnlKjmlrnlvI/vvJrlj6rnlKjjgIxwcm9maWxlIOebruW9leWPr+ino+aekOOAjeeahOijuOivtOaYjuespicpOwpmb3IgKGNvbnN0IG5hbWUgb2YgUFJFU0VUUykgewogIGNvbnN0IHJvdyA9IGxvYWQocGF0Y2hGaWxlRm9yKG5hbWUpKVswXS5pbnNlcnRbMF07CiAgY29uc3QgZ3VhcmQgPSByb3cuY29uZmlnLnBsdWdpbnMuZmluZCgocikgPT4gci5pZCA9PT0gJ3FxLXRvb2wtcmVzdHJpY3QnKTsKICBvayhndWFyZCAhPT0gdW5kZWZpbmVkLCBgJHtuYW1lfTog5pyJIHFxLXRvb2wtcmVzdHJpY3Qg5a6I5Y2r6KGMYCk7CiAgb2soZ3VhcmQ/Lm5hbWUgPT09IEdVQVJEX1NQRUNJRklFUiwgYCR7bmFtZX06IOWuiOWNq+ihjCBuYW1lID0gJHtHVUFSRF9TUEVDSUZJRVJ9YCk7CiAgY29uc3QgYmFkID0gcm93LmNvbmZpZy5wbHVnaW5zLmZpbHRlcigocikgPT4gdHlwZW9mIHIubmFtZSA9PT0gJ3N0cmluZycgJiYgKHIubmFtZS5zdGFydHNXaXRoKCcuJykgfHwgcGF0aC5pc0Fic29sdXRlKHIubmFtZSkpKTsKICBvayhiYWQubGVuZ3RoID09PSAwLCBgJHtuYW1lfTog5rKh5pyJ5Lu75L2V55u45a+5L+e7neWvuei3r+W+hOWtkOihjOWQje+8iDAuMS43IOS4i+S8muaMiSBwcm9maWxlIOebruW9leino+aekOiAjOijheS4jeS4iu+8iSR7YmFkLmxlbmd0aCA/IGDvvJoke2JhZC5tYXAoKHIpID0+IHIubmFtZSkuam9pbignLCAnKX1gIDogJyd9YCk7CiAgY29uc3QgZ3VhcmRGaWxlID0gcGF0aC5qb2luKEJVTkRMRV9ESVIsIEdVQVJEX1NQRUNJRklFUi5zbGljZSgncXEtYWdlbnQtcHJlc2V0cy8nLmxlbmd0aCkpOwogIG9rKGZzLmV4aXN0c1N5bmMoZ3VhcmRGaWxlKSwgYCR7bmFtZX06IOWuiOWNq+WunueOsOWtmOWcqO+8iCR7cGF0aC5yZWxhdGl2ZShSRVBPX1JPT1QsIGd1YXJkRmlsZSl977yJYCk7Cn0KCmNvbnNvbGUubG9nKCcjIyA0LiBidW5kbGUg5aOw5piO5LiO5a6J5YWo6L6555WMJyk7CnsKICBjb25zdCBwa2cgPSBKU09OLnBhcnNlKHJlYWQocGF0aC5qb2luKEJVTkRMRV9ESVIsICdwYWNrYWdlLmpzb24nKSkpOwogIGNvbnN0IHBhdGNoZXMgPSBwa2cuZHNoPy5idW5kbGU/LnBhdGNoOwogIG9rKEFycmF5LmlzQXJyYXkocGF0Y2hlcyksICdxcS1hZ2VudC1wcmVzZXRzIOeahCBkc2guYnVuZGxlLnBhdGNoIOaYr+aVsOe7hO+8iOS4gOS4qiBidW5kbGUg5Y+v5bim5aSa5bGCIHBhdGNo77yJJyk7CiAgZm9yIChjb25zdCBuYW1lIG9mIFBSRVNFVFMpIHsKICAgIGNvbnN0IGRlY2xhcmVkID0gYC4vcHJlc2V0cy8ke25hbWV9LnBhdGNoLnltbGA7CiAgICBvayhwYXRjaGVzPy5pbmNsdWRlcyhkZWNsYXJlZCksIGBidW5kbGUg5YiX5Ye65LqGICR7ZGVjbGFyZWR9YCk7CiAgICBvayhmcy5leGlzdHNTeW5jKHBhdGguam9pbihCVU5ETEVfRElSLCBkZWNsYXJlZCkpLCBgJHtkZWNsYXJlZH0g5a2Y5ZyoYCk7CiAgfQoKICBjb25zdCBjYW5vbmljYWwgPSBwYXRoLmpvaW4oQlVORExFX0RJUiwgJ3FxLXRvb2wtcmVzdHJpY3QubWpzJyk7CiAgY29uc3QgY2Fub25pY2FsVGV4dCA9IHJlYWQoY2Fub25pY2FsKTsKICBmb3IgKGNvbnN0IG5lZWRsZSBvZiBbImNvbnN0IFNBRkVfUFJFRklYRVMiLCAiJ21jcF9fc25vd2x1bWFfXyciLCAiJ21jcF9fd2ViLXNlYXJjaC1zYWZlX18nIiwgJ1NBRkVfRVhBQ1QnLCAncmV0dXJuIGDlt6XlhbcgIiddKSB7CiAgICBvayhjYW5vbmljYWxUZXh0LmluY2x1ZGVzKG5lZWRsZSksIGDmnYPlqIHlrojljavljIXlkKsgJHtuZWVkbGV9YCk7CiAgfQogIC8vIOS4gOS7veWunueOsO+8muS4pOS4qiBwcmVzZXQg55uu5b2V5LiL55qE5ZCM5ZCN5paH5Lu25b+F6aG75pivIHJlLWV4cG9ydCDlo7PvvIzkuJTlr7zlh7rlkIzlkI3miJDlkZjjgIIKICBjb25zdCBjYW5vbmljYWxNb2QgPSBhd2FpdCBpbXBvcnQocGF0aFRvRmlsZVVSTChjYW5vbmljYWwpLmhyZWYpOwogIGZvciAoY29uc3QgbmFtZSBvZiBQUkVTRVRTKSB7CiAgICBjb25zdCBzaGltID0gcGF0aC5qb2luKFJFUE9fUk9PVCwgJ2RzaCcsICdhZ2VudC1wcmVzZXRzJywgbmFtZSwgJ3FxLXRvb2wtcmVzdHJpY3QubWpzJyk7CiAgICBvaygvXmV4cG9ydCBcKiBmcm9tICdcLlwuXC9cLlwuXC9cLlwuXC9wbHVnaW5zXC9xcS1hZ2VudC1wcmVzZXRzXC9xcS10b29sLXJlc3RyaWN0XC5tanMnJC9tLnRlc3QocmVhZChzaGltKS50cmltKCkpLAogICAgICBgJHtuYW1lfS9xcS10b29sLXJlc3RyaWN0Lm1qcyDmmK/mjIflkJHllK/kuIDlrp7njrDnmoQgcmUtZXhwb3J0IOWjs2ApOwogICAgY29uc3Qgc2hpbU1vZCA9IGF3YWl0IGltcG9ydChwYXRoVG9GaWxlVVJMKHNoaW0pLmhyZWYpOwogICAgYXNzZXJ0LmVxdWFsKHNoaW1Nb2QuYXBwbHksIGNhbm9uaWNhbE1vZC5hcHBseSwgYCR7bmFtZX06IOWjs+S4juWunueOsOWcqOWQjOS4gOaooeWdl+WunuS+i+S4imApOwogICAgYXNzZXJ0LmVxdWFsKHNoaW1Nb2QubmFtZSwgJ3FxLXRvb2wtcmVzdHJpY3QnKTsKICAgIGFzc2VydC5kZWVwRXF1YWwoc2hpbU1vZC5pbmplY3QsIFsndG9vbHMnXSk7CiAgfQogIG9rKHRydWUsICdyZS1leHBvcnQg5aOz5LiO5p2D5aiB5a6e546w5a+85Ye65ZCM5LiA5Lu9IGFwcGx5L2luamVjdCcpOwoKICAvLyBmYWlsLWNsb3NlZCDlpI3mo4DvvIjni6znq4vkuo4gdGVzdC1hdWRpdC1zZXR1cC1ndWFyZHMubWpzIOeahOmCo+S7veWBhyBjdHgg5rWL6K+V77yJ44CCCiAgbGV0IGd1YXJkRm47CiAgY29uc3QgcmVzdHJpY3RlZCA9IFtdOwogIGNhbm9uaWNhbE1vZC5hcHBseSh7IHRvb2xzOiB7IHJlc3RyaWN0OiAoeyBkZW55IH0pID0+IHJlc3RyaWN0ZWQucHVzaCguLi5kZW55KSwgZ3VhcmQ6IChmbikgPT4geyBndWFyZEZuID0gZm47IH0gfSB9KTsKICBvayhyZXN0cmljdGVkLmluY2x1ZGVzKCdwd3NoJykgJiYgcmVzdHJpY3RlZC5pbmNsdWRlcygnZGV2X2luc3RhbGxfcGFja2FnZScpLCAncmVzdHJpY3Qg5ZCN5Y2V5ZCr5pys5Zyw5omn6KGM6Z2i5LiO5byA5Y+R5rOo5YWl5Zmo5bel5YW3Jyk7CiAgZm9yIChjb25zdCBuYW1lIG9mIFsnYXNrX3VzZXJfcXVlc3Rpb24nLCAndG9kb193cml0ZScsICdtY3BfX3Nub3dsdW1hX19xcV9zZW5kX21lc3NhZ2UnLCAnbWNwX193ZWItc2VhcmNoLXNhZmVfX3dlYl9mZXRjaCddKSB7CiAgICBhc3NlcnQuZXF1YWwoZ3VhcmRGbih7IG5hbWUgfSksIHVuZGVmaW5lZCwgYOeZveWQjeWNleW6lOaUvuihjCAke25hbWV9YCk7CiAgfQogIG9rKHRydWUsICfnmb3lkI3ljZXmlL7ooYwgUVEgTUNQIOS4juaXoOWus+aooeWei+S+p+W3peWFtycpOwogIGxldCBkZW5pZWRBbGwgPSB0cnVlOwogIGZvciAoY29uc3QgbmFtZSBvZiBbJ2Jhc2gnLCAncmVhZCcsICd3cml0ZScsICdkZXZfZnV0dXJlX3Vua25vd25fdG9vbCcsICdtY3BfX290aGVyX194JywgJycsIG51bGwsIHVuZGVmaW5lZCwgMTIzXSkgewogICAgaWYgKHR5cGVvZiBndWFyZEZuKHsgbmFtZSB9KSAhPT0gJ3N0cmluZycpIGRlbmllZEFsbCA9IGZhbHNlOwogIH0KICBvayhkZW5pZWRBbGwsICfpnZ7ms5Uv5pyq55+lL+epuuW3peWFt+WQjeS4gOW+i+aLkue7ne+8iGZhaWwtY2xvc2Vk77yJJyk7Cn0KCmNvbnNvbGUubG9nKGZhaWx1cmVzID09PSAwID8gJ1xu4pyFIGFnZW50IHByZXNldCBwYXRjaCDlpZHnuqbpgJrov4cnIDogYFxu4p2MICR7ZmFpbHVyZXN9IOmhueWksei0pWApOwpwcm9jZXNzLmV4aXQoZmFpbHVyZXMgPT09IDAgPyAwIDogMSk7Cg==
+// 钉住 DSH 0.1.7 preset 装配的「防漂移」契约（纯离线，不需要 DSH 在跑）：
+//   1. bundle patch（plugins/qq-agent-presets/presets/*.patch.yml）与仓库权威源
+//      （dsh/agent-presets/<preset>/{preset.yml,agent.cordis.yml}）逐字一致；
+//   2. patch 的形状符合新机制：insert 一条 @deepseek-ai/dsh-agent-preset 行，
+//      config 里带 id/name/description/order/plugins；
+//   3. 守卫行只能用「从 profile 目录可解析」的引用方式（裸说明符），
+//      不允许任何相对/绝对路径子行名 —— 那正是 0.1.7 下静默装不上的坑；
+//   4. 安全边界（qq-tool-restrict 的 fail-closed 白名单）一份实现、两个 preset 共用。
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import yaml from 'js-yaml';
+import {
+  BUNDLE_DIR, GUARD_SPECIFIER, PRESETS, REPO_ROOT,
+  buildPatches, patchFileFor, presetRowId,
+} from './build-agent-preset-patches.mjs';
+
+let failures = 0;
+function ok(cond, label) {
+  if (cond) console.log(`✅ ${label}`);
+  else { failures += 1; console.error(`❌ ${label}`); }
+}
+
+const read = (p) => fs.readFileSync(p, 'utf8');
+const load = (p) => yaml.load(read(p));
+
+console.log('## 1. 产物与源不漂移（--check 语义）');
+{
+  const results = buildPatches({ check: true, log: () => {} });
+  for (const { file, changed } of results) {
+    ok(!changed, `${path.relative(REPO_ROOT, file)} 与源一致（不一致请跑 node scripts/build-agent-preset-patches.mjs）`);
+  }
+}
+
+console.log('## 2. patch 形状符合 DSH 0.1.7 的 preset 机制');
+for (const name of PRESETS) {
+  const file = patchFileFor(name);
+  ok(fs.existsSync(file), `${path.relative(REPO_ROOT, file)} 存在`);
+  const doc = load(file);
+  ok(Array.isArray(doc) && doc.length === 1 && Array.isArray(doc[0]?.insert), `${name}: 顶层是 [ { insert: [...] } ]`);
+  const row = doc[0].insert[0];
+  ok(row.id === presetRowId(name), `${name}: 行 id = ${presetRowId(name)}（非 preset 名，便于按行定位）`);
+  ok(row.name === '@deepseek-ai/dsh-agent-preset', `${name}: 行 name = @deepseek-ai/dsh-agent-preset`);
+  ok(row.config?.id === name, `${name}: config.id = ${name}（桥接按这个 id 解析 preset）`);
+  const meta = load(path.join(REPO_ROOT, 'dsh', 'agent-presets', name, 'preset.yml'));
+  ok(row.config.name === meta.name && row.config.description === meta.description && row.config.order === meta.order,
+    `${name}: preset.yml 的 name/description/order 原样带进 config`);
+  ok(Array.isArray(row.config.plugins) && row.config.plugins.length > 0, `${name}: config.plugins 非空（新机制里必填）`);
+
+  // 与源行列表逐字对比：只允许守卫行的 name 被改写。
+  const source = load(path.join(REPO_ROOT, 'dsh', 'agent-presets', name, 'agent.cordis.yml'));
+  const expected = structuredClone(source);
+  for (const r of expected) if (r.name === './qq-tool-restrict.mjs') r.name = GUARD_SPECIFIER;
+  assert.deepEqual(row.config.plugins, expected, `${name}: config.plugins 必须与 agent.cordis.yml 完全一致（守卫名除外）`);
+  ok(true, `${name}: config.plugins 与 agent.cordis.yml 逐字一致（${expected.length} 行）`);
+
+  // 人格正文是产品本体：单独再钉一次，防止「顺手改写/截断」。
+  const srcPersona = source.find((r) => r.id === 'persona');
+  const patchPersona = row.config.plugins.find((r) => r.id === 'persona');
+  ok(typeof srcPersona?.config?.prefix === 'string' && srcPersona.config.prefix === patchPersona?.config?.prefix,
+    `${name}: persona.prefix 逐字一致（${srcPersona?.config?.prefix?.length ?? 0} 字符）`);
+}
+
+console.log('## 3. 守卫行引用方式：只用「profile 目录可解析」的裸说明符');
+for (const name of PRESETS) {
+  const row = load(patchFileFor(name))[0].insert[0];
+  const guard = row.config.plugins.find((r) => r.id === 'qq-tool-restrict');
+  ok(guard !== undefined, `${name}: 有 qq-tool-restrict 守卫行`);
+  ok(guard?.name === GUARD_SPECIFIER, `${name}: 守卫行 name = ${GUARD_SPECIFIER}`);
+  const bad = row.config.plugins.filter((r) => typeof r.name === 'string' && (r.name.startsWith('.') || path.isAbsolute(r.name)));
+  ok(bad.length === 0, `${name}: 没有任何相对/绝对路径子行名（0.1.7 下会按 profile 目录解析而装不上）${bad.length ? `：${bad.map((r) => r.name).join(', ')}` : ''}`);
+  const guardFile = path.join(BUNDLE_DIR, GUARD_SPECIFIER.slice('qq-agent-presets/'.length));
+  ok(fs.existsSync(guardFile), `${name}: 守卫实现存在（${path.relative(REPO_ROOT, guardFile)}）`);
+}
+
+console.log('## 4. bundle 声明与安全边界');
+{
+  const pkg = JSON.parse(read(path.join(BUNDLE_DIR, 'package.json')));
+  const patches = pkg.dsh?.bundle?.patch;
+  ok(Array.isArray(patches), 'qq-agent-presets 的 dsh.bundle.patch 是数组（一个 bundle 可带多层 patch）');
+  for (const name of PRESETS) {
+    const declared = `./presets/${name}.patch.yml`;
+    ok(patches?.includes(declared), `bundle 列出了 ${declared}`);
+    ok(fs.existsSync(path.join(BUNDLE_DIR, declared)), `${declared} 存在`);
+  }
+
+  const canonical = path.join(BUNDLE_DIR, 'qq-tool-restrict.mjs');
+  const canonicalText = read(canonical);
+  for (const needle of ["const SAFE_PREFIXES", "'mcp__snowluma__'", "'mcp__web-search-safe__'", 'SAFE_EXACT', 'return `工具 "']) {
+    ok(canonicalText.includes(needle), `权威守卫包含 ${needle}`);
+  }
+  // 一份实现：两个 preset 目录下的同名文件必须是 re-export 壳，且导出同名成员。
+  const canonicalMod = await import(pathToFileURL(canonical).href);
+  for (const name of PRESETS) {
+    const shim = path.join(REPO_ROOT, 'dsh', 'agent-presets', name, 'qq-tool-restrict.mjs');
+    ok(/^export \* from '\.\.\/\.\.\/\.\.\/plugins\/qq-agent-presets\/qq-tool-restrict\.mjs'$/m.test(read(shim).trim()),
+      `${name}/qq-tool-restrict.mjs 是指向唯一实现的 re-export 壳`);
+    const shimMod = await import(pathToFileURL(shim).href);
+    assert.equal(shimMod.apply, canonicalMod.apply, `${name}: 壳与实现在同一模块实例上`);
+    assert.equal(shimMod.name, 'qq-tool-restrict');
+    assert.deepEqual(shimMod.inject, ['tools']);
+  }
+  ok(true, 're-export 壳与权威实现导出同一份 apply/inject');
+
+  // fail-closed 复检（独立于 test-audit-setup-guards.mjs 的那份假 ctx 测试）。
+  let guardFn;
+  const restricted = [];
+  canonicalMod.apply({ tools: { restrict: ({ deny }) => restricted.push(...deny), guard: (fn) => { guardFn = fn; } } });
+  ok(restricted.includes('pwsh') && restricted.includes('dev_install_package'), 'restrict 名单含本地执行面与开发注入器工具');
+  for (const name of ['ask_user_question', 'todo_write', 'mcp__snowluma__qq_send_message', 'mcp__web-search-safe__web_fetch']) {
+    assert.equal(guardFn({ name }), undefined, `白名单应放行 ${name}`);
+  }
+  ok(true, '白名单放行 QQ MCP 与无害模型侧工具');
+  let deniedAll = true;
+  for (const name of ['bash', 'read', 'write', 'dev_future_unknown_tool', 'mcp__other__x', '', null, undefined, 123]) {
+    if (typeof guardFn({ name }) !== 'string') deniedAll = false;
+  }
+  ok(deniedAll, '非法/未知/空工具名一律拒绝（fail-closed）');
+}
+
+console.log(failures === 0 ? '\n✅ agent preset patch 契约通过' : `\n❌ ${failures} 项失败`);
+process.exit(failures === 0 ? 0 : 1);

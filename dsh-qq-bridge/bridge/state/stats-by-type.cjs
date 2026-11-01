@@ -1,1 +1,40 @@
-Ly8g5Y+v56e75qSN6buY6K6k6Lev5b6E77yIZHNoLXFxLWJyaWRnZe+8ie+8mkJSSURHRV9ESVIgLyBEU0hfSE9NRSDnjq/looPlj5jph4/kvJjlhYgKY29uc3QgQlJJREdFX0RJUiA9IHByb2Nlc3MuZW52LkJSSURHRV9ESVIgfHwgX19kaXJuYW1lOwpjb25zdCBEU0hfSE9NRSA9IHByb2Nlc3MuZW52LkRTSF9IT01FIHx8IChwcm9jZXNzLmVudi5IT01FID8gcHJvY2Vzcy5lbnYuSE9NRSArICIvLmRzaCIgOiAiLiIpOwovLyDliIbnsbvlnovnu5/orqHvvIjoh6rkuIrmrKHmuIXnkIbku6XmnaXvvInvvJoKLy8g6L6T5Ye65LiA6KGMIEpTT07vvJp7Imdyb3VwVG9rZW4iOk4sImdyb3VwVHVybnMiOk4sInByaXZUb2tlbiI6TiwicHJpdlR1cm5zIjpOfQovLyBhdXRvLWNsZWFuIOeUqOWug+WBmuWIhuetlueVpea4heeQhu+8mue+pOiBiuS4peagvO+8iOWwkeaUku+8ie+8jOengeiBiuWuveadvu+8iOWPr+a3seiBiu+8ieOAggpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7CmNvbnN0IHVzYWdlRmlsZSA9IHByb2Nlc3MuYXJndlsyXSB8fCAoQlJJREdFX0RJUiArICcvdG9rZW4tdXNhZ2UuanNvbmwnKTsKY29uc3QgbGFzdENsZWFuRmlsZSA9IHByb2Nlc3MuYXJndlszXSB8fCAoQlJJREdFX0RJUiArICcvLmxhc3QtY2xlYW4nKTsKCmNvbnN0IG91dCA9IHsgZ3JvdXBUb2tlbjogMCwgZ3JvdXBUdXJuczogMCwgcHJpdlRva2VuOiAwLCBwcml2VHVybnM6IDAgfTsKdHJ5IHsKICBsZXQgY3V0b2ZmID0gRGF0ZS5ub3coKSAtIDI0ICogMzYwMCAqIDEwMDA7CiAgdHJ5IHsKICAgIGNvbnN0IHRzID0gTnVtYmVyKGZzLnJlYWRGaWxlU3luYyhsYXN0Q2xlYW5GaWxlLCAndXRmOCcpLnRyaW0oKSk7CiAgICBpZiAoTnVtYmVyLmlzRmluaXRlKHRzKSAmJiB0cyA+IDApIGN1dG9mZiA9IE1hdGgubWF4KGN1dG9mZiwgdHMgKiAxMDAwKTsKICB9IGNhdGNoIHt9CiAgY29uc3QgbGluZXMgPSBmcy5yZWFkRmlsZVN5bmModXNhZ2VGaWxlLCAndXRmOCcpLnRyaW0oKS5zcGxpdCgnXG4nKS5zbGljZSgtNjAwKTsKICBmb3IgKGNvbnN0IGwgb2YgbGluZXMpIHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKGwpOwogICAgICBpZiAoai5rICE9PSAndHVybicpIGNvbnRpbnVlOwogICAgICBjb25zdCBrZXkgPSBTdHJpbmcoai5rZXkgfHwgJycpOwogICAgICBpZiAoIS9eKHByaXZhdGV8Z3JvdXApOi8udGVzdChrZXkpKSBjb250aW51ZTsKICAgICAgaWYgKE51bWJlcihqLnQpIDwgY3V0b2ZmKSBjb250aW51ZTsKICAgICAgY29uc3QgYiA9IGouYiB8fCB7fTsKICAgICAgY29uc3QgdG90YWwgPSAoTnVtYmVyKGIuY2FjaGVNaXNzKSB8fCAwKSArIChOdW1iZXIoYi5jYWNoZUhpdCkgfHwgMCk7CiAgICAgIGNvbnN0IGlzR3JvdXAgPSBrZXkuc3RhcnRzV2l0aCgnZ3JvdXA6Jyk7CiAgICAgIGlmIChpc0dyb3VwKSB7CiAgICAgICAgaWYgKHRvdGFsID4gb3V0Lmdyb3VwVG9rZW4pIG91dC5ncm91cFRva2VuID0gdG90YWw7CiAgICAgICAgb3V0Lmdyb3VwVHVybnMgKz0gMTsKICAgICAgfSBlbHNlIHsKICAgICAgICBpZiAodG90YWwgPiBvdXQucHJpdlRva2VuKSBvdXQucHJpdlRva2VuID0gdG90YWw7CiAgICAgICAgb3V0LnByaXZUdXJucyArPSAxOwogICAgICB9CiAgICB9IGNhdGNoIHt9CiAgfQp9IGNhdGNoIHt9Ci8vIOi+k+WHuiBzaGVsbCDlj6/or7vmoLzlvI/vvIjlhajmlbDlrZfvvIxhdXRvLWNsZWFuIOebtOaOpSBldmFs77yJCmNvbnNvbGUubG9nKGBHUk9VUF9UT0s9JHtvdXQuZ3JvdXBUb2tlbn0gR1JPVVBfVFVSTlM9JHtvdXQuZ3JvdXBUdXJuc30gUFJJVl9UT0s9JHtvdXQucHJpdlRva2VufSBQUklWX1RVUk5TPSR7b3V0LnByaXZUdXJuc31gKTsK
+// 可移植默认路径（dsh-qq-bridge）：BRIDGE_DIR / DSH_HOME 环境变量优先
+const BRIDGE_DIR = process.env.BRIDGE_DIR || __dirname;
+const DSH_HOME = process.env.DSH_HOME || (process.env.HOME ? process.env.HOME + "/.dsh" : ".");
+// 分类型统计（自上次清理以来）：
+// 输出一行 JSON：{"groupToken":N,"groupTurns":N,"privToken":N,"privTurns":N}
+// auto-clean 用它做分策略清理：群聊严格（少攒），私聊宽松（可深聊）。
+const fs = require('fs');
+const usageFile = process.argv[2] || (BRIDGE_DIR + '/token-usage.jsonl');
+const lastCleanFile = process.argv[3] || (BRIDGE_DIR + '/.last-clean');
+
+const out = { groupToken: 0, groupTurns: 0, privToken: 0, privTurns: 0 };
+try {
+  let cutoff = Date.now() - 24 * 3600 * 1000;
+  try {
+    const ts = Number(fs.readFileSync(lastCleanFile, 'utf8').trim());
+    if (Number.isFinite(ts) && ts > 0) cutoff = Math.max(cutoff, ts * 1000);
+  } catch {}
+  const lines = fs.readFileSync(usageFile, 'utf8').trim().split('\n').slice(-600);
+  for (const l of lines) {
+    try {
+      const j = JSON.parse(l);
+      if (j.k !== 'turn') continue;
+      const key = String(j.key || '');
+      if (!/^(private|group):/.test(key)) continue;
+      if (Number(j.t) < cutoff) continue;
+      const b = j.b || {};
+      const total = (Number(b.cacheMiss) || 0) + (Number(b.cacheHit) || 0);
+      const isGroup = key.startsWith('group:');
+      if (isGroup) {
+        if (total > out.groupToken) out.groupToken = total;
+        out.groupTurns += 1;
+      } else {
+        if (total > out.privToken) out.privToken = total;
+        out.privTurns += 1;
+      }
+    } catch {}
+  }
+} catch {}
+// 输出 shell 可读格式（全数字，auto-clean 直接 eval）
+console.log(`GROUP_TOK=${out.groupToken} GROUP_TURNS=${out.groupTurns} PRIV_TOK=${out.privToken} PRIV_TURNS=${out.privTurns}`);

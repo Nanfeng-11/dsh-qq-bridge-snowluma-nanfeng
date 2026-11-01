@@ -1,1 +1,40 @@
-IyEvdXNyL2Jpbi9lbnYgbm9kZQovLyBkc2gtcXEtYnJpZGdlIENMSe+8mnN0YXJ0IC8gc3RhdHVzIC8gYmFja3VwIC8gY2xlYW4KaW1wb3J0IHsgZXhlY1N5bmMsIHNwYXduIH0gZnJvbSAnbm9kZTpjaGlsZF9wcm9jZXNzJzsKaW1wb3J0IHBhdGggZnJvbSAnbm9kZTpwYXRoJzsKaW1wb3J0IGZzIGZyb20gJ25vZGU6ZnMnOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAnbm9kZTp1cmwnOwoKY29uc3QgQlJJREdFX0RJUiA9IHBhdGgucmVzb2x2ZShwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKSwgJy4uJyk7CmNvbnN0IFtjbWQsIC4uLmFyZ3NdID0gcHJvY2Vzcy5hcmd2LnNsaWNlKDIpOwoKZnVuY3Rpb24gcnVuKGMsIG9wdHMgPSB7fSkgewogIHRyeSB7IHJldHVybiBleGVjU3luYyhjLCB7IGN3ZDogQlJJREdFX0RJUiwgc3RkaW86IG9wdHMuc2lsZW50ID8gJ3BpcGUnIDogJ2luaGVyaXQnLCAuLi5vcHRzIH0pOyB9CiAgY2F0Y2ggeyByZXR1cm4gbnVsbDsgfQp9Cgpzd2l0Y2ggKGNtZCB8fCAnc3RhdHVzJykgewogIGNhc2UgJ3N0YXJ0JzoKICAgIGNvbnNvbGUubG9nKCflkK/liqjmoaXmjqXvvIjlrojmiqQgKyDmuIXnkIYgKyDmoaXmjqXmnKzkvZPvvInigKYnKTsKICAgIHNwYXduKCdzaCcsIFtwYXRoLmpvaW4oQlJJREdFX0RJUiwgJ3N0YXJ0dXAuc2gnKV0sIHsgY3dkOiBCUklER0VfRElSLCBzdGRpbzogJ2luaGVyaXQnLCBkZXRhY2hlZDogdHJ1ZSB9KS51bnJlZigpOwogICAgY29uc29sZS5sb2coJ+W3suWQr+WKqOOAguafpeeci+eKtuaAge+8mm5weCBkc2gtcXEtYnJpZGdlIHN0YXR1cycpOwogICAgYnJlYWs7CiAgY2FzZSAnc3RhdHVzJzoKICAgIHJ1bignYmFzaCBwaWRvZi5zaCcsIHsgc2lsZW50OiB0cnVlIH0pOwogICAgdHJ5IHsKICAgICAgY29uc3QgY3QgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKEJSSURHRV9ESVIsICdzdGF0ZS9jb25zb2xlLXRva2VuJyksICd1dGY4JykudHJpbSgpOwogICAgICBjb25zdCBvdXQgPSBleGVjU3luYyhgbm9kZSAtZSAiZmV0Y2goJ2h0dHA6Ly8xMjcuMC4wLjE6MzEwMC9hcGkvc3RhdHVzP3Rva2VuPScrcHJvY2Vzcy5hcmd2WzFdKS50aGVuKHI9PnIuanNvbigpKS50aGVuKGo9PmNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHttb2RlOmoubW9kZSxkc2hSZWFkeTpqLmRzaFJlYWR5LHNub3dsdW1hOmouc25vd2x1bWEmJmouc25vd2x1bWEuY29ubmVjdGVkfSkpKSIgJHtjdH1gLCB7IGN3ZDogQlJJREdFX0RJUiB9KS50b1N0cmluZygpOwogICAgICBjb25zb2xlLmxvZyhvdXQudHJpbSgpKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5sb2coJ+ahpeaOpeacqui/kOihjO+8iOWFiCBucHggZHNoLXFxLWJyaWRnZSBzdGFydO+8iScpOwogICAgfQogICAgYnJlYWs7CiAgY2FzZSAnYmFja3VwJzoKICAgIHJ1bignYmFzaCBwYWNrLXNvdWwuc2gnKTsKICAgIGJyZWFrOwogIGNhc2UgJ2NsZWFuJzoKICAgIGNvbnNvbGUubG9nKCfmuIXnkIbkuIrkuIvmlofnlLEgYXV0by1jbGVhbi5zaCDoh6rliqjmiafooYzvvJvmiYvliqjmuIXljZXkuKrkvJror53or7fnlKjmjqfliLblj7AgL2FwaS9zZXNzaW9uL3Jlc2V044CCJyk7CiAgICBicmVhazsKICBkZWZhdWx0OgogICAgY29uc29sZS5sb2coYOeUqOazlTogZHNoLXFxLWJyaWRnZSA8c3RhcnR8c3RhdHVzfGJhY2t1cHxjbGVhbj5gKTsKfQo=
+#!/usr/bin/env node
+// dsh-qq-bridge CLI：start / status / backup / clean
+import { execSync, spawn } from 'node:child_process';
+import path from 'node:path';
+import fs from 'node:fs';
+import { fileURLToPath } from 'node:url';
+
+const BRIDGE_DIR = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const [cmd, ...args] = process.argv.slice(2);
+
+function run(c, opts = {}) {
+  try { return execSync(c, { cwd: BRIDGE_DIR, stdio: opts.silent ? 'pipe' : 'inherit', ...opts }); }
+  catch { return null; }
+}
+
+switch (cmd || 'status') {
+  case 'start':
+    console.log('启动桥接（守护 + 清理 + 桥接本体）…');
+    spawn('sh', [path.join(BRIDGE_DIR, 'startup.sh')], { cwd: BRIDGE_DIR, stdio: 'inherit', detached: true }).unref();
+    console.log('已启动。查看状态：npx dsh-qq-bridge status');
+    break;
+  case 'status':
+    run('bash pidof.sh', { silent: true });
+    try {
+      const ct = fs.readFileSync(path.join(BRIDGE_DIR, 'state/console-token'), 'utf8').trim();
+      const out = execSync(`node -e "fetch('http://127.0.0.1:3100/api/status?token='+process.argv[1]).then(r=>r.json()).then(j=>console.log(JSON.stringify({mode:j.mode,dshReady:j.dshReady,snowluma:j.snowluma&&j.snowluma.connected})))" ${ct}`, { cwd: BRIDGE_DIR }).toString();
+      console.log(out.trim());
+    } catch (e) {
+      console.log('桥接未运行（先 npx dsh-qq-bridge start）');
+    }
+    break;
+  case 'backup':
+    run('bash pack-soul.sh');
+    break;
+  case 'clean':
+    console.log('清理上下文由 auto-clean.sh 自动执行；手动清单个会话请用控制台 /api/session/reset。');
+    break;
+  default:
+    console.log(`用法: dsh-qq-bridge <start|status|backup|clean>`);
+}

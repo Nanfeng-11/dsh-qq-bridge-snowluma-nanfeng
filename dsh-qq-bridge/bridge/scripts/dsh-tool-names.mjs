@@ -1,1 +1,130 @@
-Ly8gRFNIIOW3peWFt+WQjeaKveWPlu+8mioq5ZSv5LiA5a6e546wKirvvIzkvpsKLy8gICDCtyBgc2NyaXB0cy9zY2FuLWRzaC10b29sLW5hbWVzLm1qc2DvvIjkurrlt6Uv5Y2H57qn5pe25a+56LSm77yM5omT5Y2w5riF5Y2V77yJCi8vICAgwrcgYHNjcmlwdHMvdGVzdC1wcmVzZXQtbG9jYWwtdG9vbHMubWpzYO+8iOeZu+iusOacn+aWreiogO+8jOmYsuaLvOmUmeWBh+WQje+8iQovLyDlhbHlkIzkvb/nlKjjgIIKLy8KLy8g5Li65LuA5LmI6KaB5oq95oiQ5qih5Z2X77ya6L+Z5Lik5aSE6L+H5Y675ZCE5pyJ5LiA5Lu95a6e546w77yM6ICM5rWL6K+V6YKj5Lu95pivKirmqKHns4oqKueahAovLyDvvIhgXGJuYW1lOlxzKlsnIl14WyciXWAg5YWo5paH5Lu25Lmx5omrICsg5Y+q6K6k5bCR5pWw5YyF5ZCN5YmN57yAICsg5Y+q6K+75YyF5qC555uu5b2V55qECi8vIGNvcmRpcy5wYXRjaC55bWzvvInjgILnu5PmnpwgMC4yLjAg5a+56LSm5pe25oqKIDEwIOS4qioq55yf5a6e5a2Y5ZyoKirnmoTlt6XlhbflkI3or6/liKTmiJAKLy8g44CM5YGH5ZCN44CN4oCU4oCUYGRzaC1tY3AtcmVzb3VyY2VzYCDkuI4gYGRzaC1leHBlcmltZW50YWwtdG9vbC1hZ2VudC10ZWFtYCDkuI3ljLnphY3lroMKLy8g55qE5YyF5ZCN55m95ZCN5Y2V77yMYHN1YmFnZW50X2NvZGV4YCDlhpnlnKggYGRzaC13ZWItYXBwL3ByZXNldHMvKi5wYXRjaC55bWxgIOiAjOS4jeaYrwovLyDljIXmoLnjgILor6/liKTmlrnlkJHmmK/ljbHpmannmoTvvJrlroPkvJrpgLzkurrmiornnJ/lkI3lrZfku47lrojljavlkI3ljZXph4zliKDmjonjgIIKLy8KLy8g5oq95Y+W6KeE5YiZ77yI6YO96KaB5rGCKirlsLHov5HplJrlrpoqKu+8jOS4jeaKiiBgc3lzdGVtUHJvbXB0LnNlY3Rpb24oeyBuYW1lOiAndG9vbDpyZWFkJyB9KWAKLy8g6L+Z57G76Z2e5bel5YW35ZCN5b2T5bel5YW377yJ77yaCi8vICAg4pGgIGAucmVnaXN0ZXIoZGVmaW5lVG9vbCh7IOKApiBuYW1lOiAiWCIg4oCmIH0pKWAg4oCU4oCUIERTSCDmiYDmnInlt6XlhbfljIXnmoTms6jlhozlvaLnirYKLy8gICDikaEgYHRvb2xOYW1lOiAiWCJgIC8gYHRvb2xOYW1lOiB6LnN0cmluZygpLmRlZmF1bHQoIlgiKWAg4oCU4oCUIOmFjee9ruWMluW3peWFt+WQjQovLyAgICAgIO+8iGRzaC10b29sLXN1YmFnZW50IOeahCBzdWJhZ2VudCAvIHN1YmFnZW50X2Zvcmsg5bCx5piv6L+Z5qC35aOw5piO55qE77yJCi8vICAg4pGiIFlBTUwgcGF0Y2gg6YeM55qEIGB0b29sTmFtZTogWGAg6KGM77yI5Lu75oSP5bGC57qnICoucGF0Y2gueW1s77yM5ZCrIHByZXNldHMvIOWtkOebruW9le+8iQppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGRzaE1vZHVsZXNEaXIgfSBmcm9tICcuL2RzaC1tb2R1bGVzLm1qcyc7CgovKiog5ZCN5a2X5b2i5oCB77ya5bCP5YaZ5a2X5q+N5byA5aS077yM5YWB6K645LiL5YiS57q/5LiO6L+e5a2X56ym77yM6ZW/5bqm5ZCI55CG44CCICovCmV4cG9ydCBjb25zdCBUT09MX05BTUVfUkUgPSAvXlthLXpdW2EtejAtOV8tXXsxLDQwfSQvOwoKLyoqIERTSCDoh6rluKbljIXmiYDlnKjnm67lvZXvvIhgPG5vZGVfbW9kdWxlcz4vQGRlZXBzZWVrLWFpYO+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gZHNoUGFja2FnZXNEaXIoKSB7CiAgcmV0dXJuIHByb2Nlc3MuZW52LkRTSF9UT09MX1BBQ0tBR0VTIHx8IHBhdGguam9pbihkc2hNb2R1bGVzRGlyKCksICdAZGVlcHNlZWstYWknKTsKfQoKLyoqIOeUqOaIt+WuieijheeahOesrOS4ieaWueaPkuS7tuebruW9le+8iOS5n+S8muazqOWGjOW3peWFt++8mnBsdWdpbi1ndWFyZCAvIOi2hee6p+azqOWFpeWZqOetie+8ieOAgiAqLwpleHBvcnQgZnVuY3Rpb24gZHNoUGx1Z2luRGlycygpIHsKICBjb25zdCBob21lID0gcHJvY2Vzcy5lbnYuRFNIX0hPTUUKICAgIHx8IChwcm9jZXNzLmVudi5VU0VSUFJPRklMRSA/IHBhdGguam9pbihwcm9jZXNzLmVudi5VU0VSUFJPRklMRSwgJy5kc2gnKSA6IG51bGwpOwogIHJldHVybiBbaG9tZSA/IHBhdGguam9pbihob21lLCAncGx1Z2lucycpIDogbnVsbF0uZmlsdGVyKChwKSA9PiBwICYmIGZzLmV4aXN0c1N5bmMocCkpOwp9CgpmdW5jdGlvbiB3YWxrRmlsZXMoZGlyLCBvdXQgPSBbXSwgZGVwdGggPSAwLCBtYXhEZXB0aCA9IDUpIHsKICBsZXQgZW50cmllcyA9IFtdOwogIHRyeSB7IGVudHJpZXMgPSBmcy5yZWFkZGlyU3luYyhkaXIsIHsgd2l0aEZpbGVUeXBlczogdHJ1ZSB9KTsgfSBjYXRjaCB7IHJldHVybiBvdXQ7IH0KICBmb3IgKGNvbnN0IGUgb2YgZW50cmllcykgewogICAgaWYgKGUubmFtZSA9PT0gJ25vZGVfbW9kdWxlcycgfHwgZS5uYW1lID09PSAnLmdpdCcpIGNvbnRpbnVlOwogICAgY29uc3QgZnVsbCA9IHBhdGguam9pbihkaXIsIGUubmFtZSk7CiAgICBpZiAoZS5pc0RpcmVjdG9yeSgpKSB7IGlmIChkZXB0aCA8IG1heERlcHRoKSB3YWxrRmlsZXMoZnVsbCwgb3V0LCBkZXB0aCArIDEsIG1heERlcHRoKTsgfQogICAgZWxzZSBvdXQucHVzaChmdWxsKTsKICB9CiAgcmV0dXJuIG91dDsKfQoKLyoqIOS7juS4gOS4qiBKUy9UUyDmupDmlofku7bph4zmir3lj5blt6XlhbflkI3jgIIgKi8KZnVuY3Rpb24gZXh0cmFjdEZyb21Tb3VyY2UodGV4dCwgc291cmNlLCBhZGQpIHsKICBmb3IgKGNvbnN0IG0gb2YgdGV4dC5tYXRjaEFsbCgvXC5yZWdpc3RlclwoXHMqZGVmaW5lVG9vbFwoXHtbXHNcU117MCw0MDB9P1xibmFtZTpccypbIiddKFteIiddKylbIiddL2cpKSB7CiAgICBhZGQobVsxXSwgc291cmNlKTsKICB9CiAgZm9yIChjb25zdCBtIG9mIHRleHQubWF0Y2hBbGwoL1xidG9vbE5hbWU6XHMqWyInXShbXiInXSspWyInXS9nKSkgYWRkKG1bMV0sIHNvdXJjZSk7CiAgZm9yIChjb25zdCBtIG9mIHRleHQubWF0Y2hBbGwoL1xidG9vbE5hbWU6XHMqW147XG5dKj9cLmRlZmF1bHRcKFxzKlsiJ10oW14iJ10rKVsiJ10vZykpIGFkZChtWzFdLCBzb3VyY2UpOwogIC8vIOeLrOeri+eahOS4gOasoeaAp+W3peWFt+aWh+S7tu+8iGRlZmluZVRvb2wg5LiN5oyC5ZyoIC5yZWdpc3Rlcigg5LiK5pe255qE5YWc5bqV77yJCiAgZm9yIChjb25zdCBtIG9mIHRleHQubWF0Y2hBbGwoL2RlZmluZVRvb2xcKFx7W1xzXFNdezAsMjAwfT9cYm5hbWU6XHMqWyInXShbXiInXSspWyInXS9nKSkgewogICAgYWRkKG1bMV0sIHNvdXJjZSk7CiAgfQp9CgovKiog5LuOIFlBTUwgcGF0Y2gg6YeM5oq95Y+W6YWN572u5YyW55qE5bel5YW35ZCN44CCICovCmZ1bmN0aW9uIGV4dHJhY3RGcm9tUGF0Y2godGV4dCwgc291cmNlLCBhZGQpIHsKICBmb3IgKGNvbnN0IG0gb2YgdGV4dC5tYXRjaEFsbCgvXlxzKig/Oi1ccyopP3Rvb2xOYW1lOlxzKihbXlxzI10rKVxzKiQvZ20pKSB7CiAgICBhZGQobVsxXS5yZXBsYWNlKC9eWyciXXxbJyJdJC9nLCAnJyksIHNvdXJjZSk7CiAgfQp9CgovKioKICog5oq95Y+W5bey5a6J6KOFIERTSO+8iOWPiuWFtuaPkuS7tu+8iemHjOWHuueOsOeahOWFqOmDqOW3peWFt+WQjeOAggogKgogKiBAcGFyYW0gb3B0aW9ucy5wYWNrYWdlc0RpciAtIGBAZGVlcHNlZWstYWlgIOebruW9le+8m+e8uuecgeaMiSB7QGxpbmsgZHNoUGFja2FnZXNEaXJ9IOino+aekOOAggogKiBAcGFyYW0gb3B0aW9ucy5wbHVnaW5EaXJzIC0g56ys5LiJ5pa55o+S5Lu255uu5b2V5YiX6KGo77yb57y655yB5oyJIHtAbGluayBkc2hQbHVnaW5EaXJzfSDop6PmnpDjgIIKICogQHJldHVybnMgYHsgbmFtZXM6IE1hcDxuYW1lLCBTZXQ8c291cmNlPj4sIHBhY2thZ2VzOiBzdHJpbmdbXSB9YOOAggogKiAgICAgICAgICBgcGFja2FnZXNgIOaYr+WunumZheaJq+i/h+eahOWMhS/mj5Lku7blkI3vvIzkvr/kuo7or4rmlq3jgIzkuIDkuKrpg73msqHmiavliLDjgI3jgIIKICovCmV4cG9ydCBmdW5jdGlvbiBjb2xsZWN0RHNoVG9vbE5hbWVzKHsgcGFja2FnZXNEaXIsIHBsdWdpbkRpcnMgfSA9IHt9KSB7CiAgY29uc3QgbmFtZXMgPSBuZXcgTWFwKCk7CiAgY29uc3QgcGFja2FnZXMgPSBbXTsKICBjb25zdCBhZGQgPSAobmFtZSwgc291cmNlKSA9PiB7CiAgICBpZiAoIVRPT0xfTkFNRV9SRS50ZXN0KG5hbWUpKSByZXR1cm47CiAgICBpZiAoIW5hbWVzLmhhcyhuYW1lKSkgbmFtZXMuc2V0KG5hbWUsIG5ldyBTZXQoKSk7CiAgICBuYW1lcy5nZXQobmFtZSkuYWRkKHNvdXJjZSk7CiAgfTsKCiAgY29uc3Qgcm9vdHMgPSBbXTsKICBjb25zdCBwa2dSb290ID0gcGFja2FnZXNEaXIgPz8gZHNoUGFja2FnZXNEaXIoKTsKICBpZiAoZnMuZXhpc3RzU3luYyhwa2dSb290KSkgcm9vdHMucHVzaCh7IGRpcjogcGtnUm9vdCwgZmlsdGVyOiAvXmRzaC0vIH0pOwogIGZvciAoY29uc3QgZGlyIG9mIHBsdWdpbkRpcnMgPz8gZHNoUGx1Z2luRGlycygpKSB7CiAgICAvLyDnlKjmiLfnmoTmj5Lku7bnm67lvZXph4zlhajmmK/mj5Lku7bljIXvvIjlkKsgLmJhay0qIOWkh+S7ve+8jOS5n+S4gOi1t+aJq++8muWkh+S7vemHjOeahOaXp+WQjeWtlwogICAgLy8g5LuN54S26K+05piO6L+Z5Liq5ZCN5a2X5pu+57uP55yf5a6e5a2Y5Zyo77yJ44CCCiAgICByb290cy5wdXNoKHsgZGlyLCBmaWx0ZXI6IG51bGwgfSk7CiAgfQoKICBmb3IgKGNvbnN0IHsgZGlyLCBmaWx0ZXIgfSBvZiByb290cykgewogICAgbGV0IGVudHJpZXMgPSBbXTsKICAgIHRyeSB7IGVudHJpZXMgPSBmcy5yZWFkZGlyU3luYyhkaXIsIHsgd2l0aEZpbGVUeXBlczogdHJ1ZSB9KTsgfSBjYXRjaCB7IGNvbnRpbnVlOyB9CiAgICBmb3IgKGNvbnN0IGUgb2YgZW50cmllcykgewogICAgICBpZiAoIWUuaXNEaXJlY3RvcnkoKSkgY29udGludWU7CiAgICAgIGlmIChmaWx0ZXIgJiYgIWZpbHRlci50ZXN0KGUubmFtZSkpIGNvbnRpbnVlOwogICAgICBjb25zdCBwa2dEaXIgPSBwYXRoLmpvaW4oZGlyLCBlLm5hbWUpOwogICAgICBwYWNrYWdlcy5wdXNoKGUubmFtZSk7CiAgICAgIGZvciAoY29uc3QgZiBvZiB3YWxrRmlsZXMocGtnRGlyKSkgewogICAgICAgIGxldCB0ZXh0ID0gJyc7CiAgICAgICAgdHJ5IHsgdGV4dCA9IGZzLnJlYWRGaWxlU3luYyhmLCAndXRmOCcpOyB9IGNhdGNoIHsgY29udGludWU7IH0KICAgICAgICBpZiAoL1wuKGpzfG1qc3xjanMpJC8udGVzdChmKSB8fCBmLmVuZHNXaXRoKCcuZC50cycpKSBleHRyYWN0RnJvbVNvdXJjZSh0ZXh0LCBlLm5hbWUsIGFkZCk7CiAgICAgICAgZWxzZSBpZiAoL1wucGF0Y2hcLnlhP21sJC8udGVzdChmKSkgZXh0cmFjdEZyb21QYXRjaCh0ZXh0LCBlLm5hbWUsIGFkZCk7CiAgICAgIH0KICAgIH0KICB9CiAgcmV0dXJuIHsgbmFtZXMsIHBhY2thZ2VzIH07Cn0KCi8qKiDkvr/liKnljIXoo4XvvJrlj6ropoHlkI3lrZfpm4blkIjjgIIgKi8KZXhwb3J0IGZ1bmN0aW9uIGRzaFRvb2xOYW1lU2V0KG9wdGlvbnMpIHsKICByZXR1cm4gbmV3IFNldChjb2xsZWN0RHNoVG9vbE5hbWVzKG9wdGlvbnMpLm5hbWVzLmtleXMoKSk7Cn0KCi8qKgogKiDjgIzljbHpmanor63kuYnjgI3liKTlrprvvJrkuI7mnKzlnLDmiafooYwgLyDmlofku7YgLyDov5vnqIsgLyDmtL7nlJ8gYWdlbnQgLyDlrr/kuLvov5DooYzmnJ/nm7jlhbPnmoTlkI3lrZfjgIIKICog5a6I5Y2rKirlv4XpobsqKuimhuebluWug+S7rOOAgue6r+aooeWei+S+p+aXoOWus+W3peWFt+eUsSB7QGxpbmsgU0FGRV9NT0RFTF9UT09MU30g5pi+5byP5o6S6Zmk44CCCiAqCiAqIOi/meaYryoq5Y+R546w55SoKirnmoTlkK/lj5HlvI/vvIjlroHlj6/lpJrmiqXvvIzkurrlt6Xlho3liKTvvInvvIzkuI3mmK/lronlhajovrnnlYzmnKzouqvvvJsKICog6L6555WM5piv5a6I5Y2r55qEIHJlc3RyaWN0IOWQjeWNlSArIOaJp+ihjOacn+eZveWQjeWNleOAggogKi8KZXhwb3J0IGNvbnN0IERBTkdFUl9UT09MX1JFID0gLyhwd3NofGJhc2h8c2hlbGx8ZXhlY3xzcGF3bnxwcm9jZXNzfHRlcm1pbmFsfHB0eXxyZWFkfHdyaXRlfGVkaXR8ZmlsZXxmc198Z2xvYnxncmVwfHBhdGNofHN0cl9yZXBsYWNlfHN1YmFnZW50fGFnZW50X3x0ZWFtbWF0ZXx3b3JrZmxvd3xyYWxwaHxqb2J8c2tpbGx8cHJlc2VudHxnb2FsfHBsYW58dG9kb3xtZW1vcnl8c25hcHNob3R8cm9sbGJhY2t8aW5jaWRlbnR8cGx1Z2lufGNvcmRpc3xkc2hffGRldl98aW1wb3J0fGluc3RhbGx8cmVsb2FkfGluamVjdHxzdGFnZXxjb25maWd8d29ya3NwYWNlfHNlc3Npb258ZXhwb3J0fG9mZmljZXxzbGFzaHxjb21tYW5kfHNjaGVkdWxlfHZvaWNlfHNwZWVjaHx0ZWFtfG1jcF9yZXNvdXJjZSkvOwoKLyoqIOaYjuehruaXoOWus+OAgeWFgeiuuOWHuueOsOWcqOS7v+ecn+S8muivnSBzY2hlbWEg6YeM55qE5qih5Z6L5L6n5bel5YW344CCICovCmV4cG9ydCBjb25zdCBTQUZFX01PREVMX1RPT0xTID0gbmV3IFNldChbJ2Fza191c2VyX3F1ZXN0aW9uJywgJ3RvZG9fd3JpdGUnXSk7Cg==
+// DSH 工具名抽取：**唯一实现**，供
+//   · `scripts/scan-dsh-tool-names.mjs`（人工/升级时对账，打印清单）
+//   · `scripts/test-preset-local-tools.mjs`（登记期断言，防拼错假名）
+// 共同使用。
+//
+// 为什么要抽成模块：这两处过去各有一份实现，而测试那份是**模糊**的
+// （`\bname:\s*['"]x['"]` 全文件乱扫 + 只认少数包名前缀 + 只读包根目录的
+// cordis.patch.yml）。结果 0.2.0 对账时把 10 个**真实存在**的工具名误判成
+// 「假名」——`dsh-mcp-resources` 与 `dsh-experimental-tool-agent-team` 不匹配它
+// 的包名白名单，`subagent_codex` 写在 `dsh-web-app/presets/*.patch.yml` 而不是
+// 包根。误判方向是危险的：它会逼人把真名字从守卫名单里删掉。
+//
+// 抽取规则（都要求**就近锚定**，不把 `systemPrompt.section({ name: 'tool:read' })`
+// 这类非工具名当工具）：
+//   ① `.register(defineTool({ … name: "X" … }))` —— DSH 所有工具包的注册形状
+//   ② `toolName: "X"` / `toolName: z.string().default("X")` —— 配置化工具名
+//      （dsh-tool-subagent 的 subagent / subagent_fork 就是这样声明的）
+//   ③ YAML patch 里的 `toolName: X` 行（任意层级 *.patch.yml，含 presets/ 子目录）
+import fs from 'node:fs';
+import path from 'node:path';
+import { dshModulesDir } from './dsh-modules.mjs';
+
+/** 名字形态：小写字母开头，允许下划线与连字符，长度合理。 */
+export const TOOL_NAME_RE = /^[a-z][a-z0-9_-]{1,40}$/;
+
+/** DSH 自带包所在目录（`<node_modules>/@deepseek-ai`）。 */
+export function dshPackagesDir() {
+  return process.env.DSH_TOOL_PACKAGES || path.join(dshModulesDir(), '@deepseek-ai');
+}
+
+/** 用户安装的第三方插件目录（也会注册工具：plugin-guard / 超级注入器等）。 */
+export function dshPluginDirs() {
+  const home = process.env.DSH_HOME
+    || (process.env.USERPROFILE ? path.join(process.env.USERPROFILE, '.dsh') : null);
+  return [home ? path.join(home, 'plugins') : null].filter((p) => p && fs.existsSync(p));
+}
+
+function walkFiles(dir, out = [], depth = 0, maxDepth = 5) {
+  let entries = [];
+  try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { return out; }
+  for (const e of entries) {
+    if (e.name === 'node_modules' || e.name === '.git') continue;
+    const full = path.join(dir, e.name);
+    if (e.isDirectory()) { if (depth < maxDepth) walkFiles(full, out, depth + 1, maxDepth); }
+    else out.push(full);
+  }
+  return out;
+}
+
+/** 从一个 JS/TS 源文件里抽取工具名。 */
+function extractFromSource(text, source, add) {
+  for (const m of text.matchAll(/\.register\(\s*defineTool\(\{[\s\S]{0,400}?\bname:\s*["']([^"']+)["']/g)) {
+    add(m[1], source);
+  }
+  for (const m of text.matchAll(/\btoolName:\s*["']([^"']+)["']/g)) add(m[1], source);
+  for (const m of text.matchAll(/\btoolName:\s*[^;\n]*?\.default\(\s*["']([^"']+)["']/g)) add(m[1], source);
+  // 独立的一次性工具文件（defineTool 不挂在 .register( 上时的兜底）
+  for (const m of text.matchAll(/defineTool\(\{[\s\S]{0,200}?\bname:\s*["']([^"']+)["']/g)) {
+    add(m[1], source);
+  }
+}
+
+/** 从 YAML patch 里抽取配置化的工具名。 */
+function extractFromPatch(text, source, add) {
+  for (const m of text.matchAll(/^\s*(?:-\s*)?toolName:\s*([^\s#]+)\s*$/gm)) {
+    add(m[1].replace(/^['"]|['"]$/g, ''), source);
+  }
+}
+
+/**
+ * 抽取已安装 DSH（及其插件）里出现的全部工具名。
+ *
+ * @param options.packagesDir - `@deepseek-ai` 目录；缺省按 {@link dshPackagesDir} 解析。
+ * @param options.pluginDirs - 第三方插件目录列表；缺省按 {@link dshPluginDirs} 解析。
+ * @returns `{ names: Map<name, Set<source>>, packages: string[] }`。
+ *          `packages` 是实际扫过的包/插件名，便于诊断「一个都没扫到」。
+ */
+export function collectDshToolNames({ packagesDir, pluginDirs } = {}) {
+  const names = new Map();
+  const packages = [];
+  const add = (name, source) => {
+    if (!TOOL_NAME_RE.test(name)) return;
+    if (!names.has(name)) names.set(name, new Set());
+    names.get(name).add(source);
+  };
+
+  const roots = [];
+  const pkgRoot = packagesDir ?? dshPackagesDir();
+  if (fs.existsSync(pkgRoot)) roots.push({ dir: pkgRoot, filter: /^dsh-/ });
+  for (const dir of pluginDirs ?? dshPluginDirs()) {
+    // 用户的插件目录里全是插件包（含 .bak-* 备份，也一起扫：备份里的旧名字
+    // 仍然说明这个名字曾经真实存在）。
+    roots.push({ dir, filter: null });
+  }
+
+  for (const { dir, filter } of roots) {
+    let entries = [];
+    try { entries = fs.readdirSync(dir, { withFileTypes: true }); } catch { continue; }
+    for (const e of entries) {
+      if (!e.isDirectory()) continue;
+      if (filter && !filter.test(e.name)) continue;
+      const pkgDir = path.join(dir, e.name);
+      packages.push(e.name);
+      for (const f of walkFiles(pkgDir)) {
+        let text = '';
+        try { text = fs.readFileSync(f, 'utf8'); } catch { continue; }
+        if (/\.(js|mjs|cjs)$/.test(f) || f.endsWith('.d.ts')) extractFromSource(text, e.name, add);
+        else if (/\.patch\.ya?ml$/.test(f)) extractFromPatch(text, e.name, add);
+      }
+    }
+  }
+  return { names, packages };
+}
+
+/** 便利包装：只要名字集合。 */
+export function dshToolNameSet(options) {
+  return new Set(collectDshToolNames(options).names.keys());
+}
+
+/**
+ * 「危险语义」判定：与本地执行 / 文件 / 进程 / 派生 agent / 宿主运行期相关的名字。
+ * 守卫**必须**覆盖它们。纯模型侧无害工具由 {@link SAFE_MODEL_TOOLS} 显式排除。
+ *
+ * 这是**发现用**的启发式（宁可多报，人工再判），不是安全边界本身；
+ * 边界是守卫的 restrict 名单 + 执行期白名单。
+ */
+export const DANGER_TOOL_RE = /(pwsh|bash|shell|exec|spawn|process|terminal|pty|read|write|edit|file|fs_|glob|grep|patch|str_replace|subagent|agent_|teammate|workflow|ralph|job|skill|present|goal|plan|todo|memory|snapshot|rollback|incident|plugin|cordis|dsh_|dev_|import|install|reload|inject|stage|config|workspace|session|export|office|slash|command|schedule|voice|speech|team|mcp_resource)/;
+
+/** 明确无害、允许出现在仿真会话 schema 里的模型侧工具。 */
+export const SAFE_MODEL_TOOLS = new Set(['ask_user_question', 'todo_write']);

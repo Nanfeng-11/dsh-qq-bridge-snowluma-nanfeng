@@ -1,1 +1,79 @@
-IyEvc3lzdGVtL2Jpbi9zaAojIHFxLWJyaWRnZSDlkK/liqjlmajvvJrluYLnrYnlkK/liqjmiYDmnInmnI3liqEKCgojIOKUgOKUgCDlj6/np7vmpI3ot6/lvoTmjqLmtYvvvIhkc2gtcXEtYnJpZGdlIOaPkuS7tueUn+aIkO+8jOWLv+WIoO+8ieKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIOeUteiEkSAvIOacjeWKoeWZqCAvIOWuieWNk+mAmueUqO+8muahpeaOpeebruW9leaMieiEmuacrOiHqui6q+S9jee9ruaOqOWvvO+8jG5vZGUg6LWwIFBBVEjvvIwKIyBEU0hfSE9NRSDkvJjlhYjlj5bnjq/looPlj5jph4/vvIzlhbbmrKHmoYzpnaIgRFNIIOe6puWumuebruW9leOAggppZiBbIC16ICIkUE9SVEFCTEVfUEFUSFNfTE9BREVEIiBdOyB0aGVuCiAgUE9SVEFCTEVfUEFUSFNfTE9BREVEPTEKICBTQ1JJUFRfRElSPSIkKGNkICIkKGRpcm5hbWUgIiQwIikiIDI+L2Rldi9udWxsICYmIHB3ZCkiCiAgQlJJREdFX0RJUj0iJHtCUklER0VfRElSOi0kU0NSSVBUX0RJUn0iCiAgTk9ERV9CSU49IiR7Tk9ERV9CSU46LSQoY29tbWFuZCAtdiBub2RlIDI+L2Rldi9udWxsIHx8IGVjaG8gbm9kZSl9IgogIERTSF9IT01FPSIke0RTSF9IT01FOi0kSE9NRS8uZHNofSIKICBleHBvcnQgQlJJREdFX0RJUiBOT0RFX0JJTiBEU0hfSE9NRQpmaQojIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAojIEJSSURHRV9ESVIg5bey55Sx5LiK5pa55Y+v56e75qSN5o6i5rWL6Ieq5Yqo5o6o5a+8CkxPRz0iJEJSSURHRV9ESVIvc3RhdGUvc3RhcnR1cC5sb2ciCgpsb2coKSB7IGVjaG8gIiQoZGF0ZSAnKyVZLSVtLSVkICVIOiVNOiVTJykgJDEiID4+ICIkTE9HIjsgfQoKY2QgIiRCUklER0VfRElSIiAyPi9kZXYvbnVsbCB8fCB7IGxvZyAi4p2MIOebruW9leS4jeWtmOWcqCI7IGV4aXQgMTsgfQoKbG9nICI9PT0g5ZCv5Yqo5qOA5p+lID09PSIKCiMg5o6n5Yi25Y+wIDMxMDAg5piv5ZCm5ZON5bqUCmNvbnNvbGVfb2soKSB7CiAgbm9kZSAtZSAnCmNvbnN0IGh0dHA9cmVxdWlyZSgiaHR0cCIpOwpjb25zdCByPWh0dHAucmVxdWVzdCh7aG9zdDoiMTI3LjAuMC4xIixwb3J0OjMxMDAscGF0aDoiLyIsdGltZW91dDozMDAwfSxyZXM9PntyZXMucmVzdW1lKCk7cHJvY2Vzcy5leGl0KDApfSk7CnIub24oImVycm9yIiwoKT0+cHJvY2Vzcy5leGl0KDEpKTtyLm9uKCJ0aW1lb3V0IiwoKT0+e3IuZGVzdHJveSgpO3Byb2Nlc3MuZXhpdCgxKX0pO3IuZW5kKCk7JyAyPi9kZXYvbnVsbAp9CgpzdGFydF9icmlkZ2UoKSB7CiAgcm0gLWYgc3RhdGUvYnJpZGdlLnN0b3AgMj4vZGV2L251bGwKICBzZXRzaWQgLi9ydW4tYnJpZGdlLnNoID4+IGJyaWRnZS1ydW4ubG9nIDI+JjEgPCAvZGV2L251bGwgJgogIHNsZWVwIDEyCn0KCiMgMS4g5qGl5o6l77yI5omY566h6L+b56iLICsgbm9kZSArIOaOp+WItuWPsOerr+WPoyDkuInph43moKHpqozvvIkKaWYgLi9pc19ydW5uaW5nLnNoICdydW4tYnJpZGdlLnNoJyAmJiAuL2lzX3J1bm5pbmcuc2ggJ3NyYy9icmlkZ2UuanMnICYmIGNvbnNvbGVfb2s7IHRoZW4KICBsb2cgIuKchSDmoaXmjqXlt7LlnKjov5DooYzvvIhQSUQgJCguL3BpZG9mLnNoICdzcmMvYnJpZGdlLmpzJynvvIzmjqfliLblj7DmraPluLjvvIkiCmVsc2UKICBpZiAuL2lzX3J1bm5pbmcuc2ggJ3NyYy9icmlkZ2UuanMnIHx8IC4vaXNfcnVubmluZy5zaCAncnVuLWJyaWRnZS5zaCc7IHRoZW4KICAgIGxvZyAi4pqg77iPIOahpeaOpeeKtuaAgeW8guW4uO+8jOa4heeQhuWQjumHjeWQry4uLiIKICAgIHRvdWNoIHN0YXRlL2JyaWRnZS5zdG9wIDI+L2Rldi9udWxsCiAgICBmb3IgcCBpbiAkKC4vcGlkb2Yuc2ggJ3NyYy9icmlkZ2UuanMnKTsgZG8ga2lsbCAkcCAyPi9kZXYvbnVsbDsgZG9uZQogICAgc2xlZXAgMwogICAgZm9yIHAgaW4gJCguL3BpZG9mLnNoICdzcmMvYnJpZGdlLmpzJykgJCguL3BpZG9mLnNoICdydW4tYnJpZGdlLnNoJyk7IGRvIGtpbGwgLTkgJHAgMj4vZGV2L251bGw7IGRvbmUKICAgIHJtIC1mIHN0YXRlL2JyaWRnZS5zdG9wIDI+L2Rldi9udWxsCiAgICBzbGVlcCAxCiAgZmkKICBzdGFydF9icmlkZ2UKICBpZiAuL2lzX3J1bm5pbmcuc2ggJ3NyYy9icmlkZ2UuanMnOyB0aGVuCiAgICBsb2cgIuKchSDmoaXmjqXlt7LlkK/liqjvvIhQSUQgJCguL3BpZG9mLnNoICdzcmMvYnJpZGdlLmpzJynvvIkiCiAgZWxzZQogICAgbG9nICLinYwg5qGl5o6l5ZCv5Yqo5aSx6LSl77yI6K+m6KeBIGJyaWRnZS1ydW4ubG9n77yJIgogIGZpCmZpCgojIDIuIOa4heeQhuWuiOaKpAppZiAuL2lzX3J1bm5pbmcuc2ggJ2F1dG8tY2xlYW4uc2gnOyB0aGVuCiAgbG9nICLinIUg5riF55CG5a6I5oqk5bey5Zyo6L+Q6KGMIgplbHNlCiAgc2V0c2lkIC4vYXV0by1jbGVhbi5zaCA+IC9kZXYvbnVsbCAyPiYxIDwgL2Rldi9udWxsICYKICBzbGVlcCAyCiAgbG9nICLinIUg5riF55CG5a6I5oqk5bey5ZCv5YqoIgpmaQoKIyAzLiDlt6Hmo4DlrojmiqQKaWYgLi9pc19ydW5uaW5nLnNoICdndWFyZGlhbi5zaCc7IHRoZW4KICBsb2cgIuKchSDlt6Hmo4DlrojmiqTlt7LlnKjov5DooYwiCmVsc2UKICBzZXRzaWQgLi9ndWFyZGlhbi5zaCA+IC9kZXYvbnVsbCAyPiYxIDwgL2Rldi9udWxsICYKICBzbGVlcCAyCiAgbG9nICLinIUg5beh5qOA5a6I5oqk5bey5ZCv5YqoIgpmaQoKbG9nICI9PT0g5ZCv5Yqo5qOA5p+l5a6M5oiQID09PSIK
+#!/system/bin/sh
+# qq-bridge 启动器：幂等启动所有服务
+
+
+# ── 可移植路径探测（dsh-qq-bridge 插件生成，勿删）──────────────────
+# 电脑 / 服务器 / 安卓通用：桥接目录按脚本自身位置推导，node 走 PATH，
+# DSH_HOME 优先取环境变量，其次桌面 DSH 约定目录。
+if [ -z "$PORTABLE_PATHS_LOADED" ]; then
+  PORTABLE_PATHS_LOADED=1
+  SCRIPT_DIR="$(cd "$(dirname "$0")" 2>/dev/null && pwd)"
+  BRIDGE_DIR="${BRIDGE_DIR:-$SCRIPT_DIR}"
+  NODE_BIN="${NODE_BIN:-$(command -v node 2>/dev/null || echo node)}"
+  DSH_HOME="${DSH_HOME:-$HOME/.dsh}"
+  export BRIDGE_DIR NODE_BIN DSH_HOME
+fi
+# ────────────────────────────────────────────────────────────────────
+# BRIDGE_DIR 已由上方可移植探测自动推导
+LOG="$BRIDGE_DIR/state/startup.log"
+
+log() { echo "$(date '+%Y-%m-%d %H:%M:%S') $1" >> "$LOG"; }
+
+cd "$BRIDGE_DIR" 2>/dev/null || { log "❌ 目录不存在"; exit 1; }
+
+log "=== 启动检查 ==="
+
+# 控制台 3100 是否响应
+console_ok() {
+  node -e '
+const http=require("http");
+const r=http.request({host:"127.0.0.1",port:3100,path:"/",timeout:3000},res=>{res.resume();process.exit(0)});
+r.on("error",()=>process.exit(1));r.on("timeout",()=>{r.destroy();process.exit(1)});r.end();' 2>/dev/null
+}
+
+start_bridge() {
+  rm -f state/bridge.stop 2>/dev/null
+  setsid ./run-bridge.sh >> bridge-run.log 2>&1 < /dev/null &
+  sleep 12
+}
+
+# 1. 桥接（托管进程 + node + 控制台端口 三重校验）
+if ./is_running.sh 'run-bridge.sh' && ./is_running.sh 'src/bridge.js' && console_ok; then
+  log "✅ 桥接已在运行（PID $(./pidof.sh 'src/bridge.js')，控制台正常）"
+else
+  if ./is_running.sh 'src/bridge.js' || ./is_running.sh 'run-bridge.sh'; then
+    log "⚠️ 桥接状态异常，清理后重启..."
+    touch state/bridge.stop 2>/dev/null
+    for p in $(./pidof.sh 'src/bridge.js'); do kill $p 2>/dev/null; done
+    sleep 3
+    for p in $(./pidof.sh 'src/bridge.js') $(./pidof.sh 'run-bridge.sh'); do kill -9 $p 2>/dev/null; done
+    rm -f state/bridge.stop 2>/dev/null
+    sleep 1
+  fi
+  start_bridge
+  if ./is_running.sh 'src/bridge.js'; then
+    log "✅ 桥接已启动（PID $(./pidof.sh 'src/bridge.js')）"
+  else
+    log "❌ 桥接启动失败（详见 bridge-run.log）"
+  fi
+fi
+
+# 2. 清理守护
+if ./is_running.sh 'auto-clean.sh'; then
+  log "✅ 清理守护已在运行"
+else
+  setsid ./auto-clean.sh > /dev/null 2>&1 < /dev/null &
+  sleep 2
+  log "✅ 清理守护已启动"
+fi
+
+# 3. 巡检守护
+if ./is_running.sh 'guardian.sh'; then
+  log "✅ 巡检守护已在运行"
+else
+  setsid ./guardian.sh > /dev/null 2>&1 < /dev/null &
+  sleep 2
+  log "✅ 巡检守护已启动"
+fi
+
+log "=== 启动检查完成 ==="

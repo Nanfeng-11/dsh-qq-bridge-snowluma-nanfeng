@@ -1,1 +1,82 @@
-Ly8g56uv5Yiw56uv6aqM6K+B77yacmVtb3RlLm11eCDkuovku7bmtYEgKyB0dXJuIOaUtumbhiArIOW3peWFt+iwg+eUqOS6i+S7tuW9oueKtuOAggovLyDlj6ror7vop4LmtYvvvJrliJvlu7rkuIDkuKrmjqLmtYvkvJror53vvIzms6jlhaXkuIDmnaHnroDljZUgcHJvbXB077yM5omT5Y2w5pS25Yiw55qE5LqL5Lu257G75Z6L5LiO57uT5p6E44CCCmltcG9ydCB7IHJhbmRvbVVVSUQgfSBmcm9tICdub2RlOmNyeXB0byc7CmltcG9ydCB7IHByb2JlQ29va2llLCBwcm9iZVJwYywgcHJvYmVNdXhTb2NrZXQsIHByb2JlV29ya3NwYWNlRGlyIH0gZnJvbSAnLi9wcm9iZS1hdXRoLm1qcyc7CgovLyDpibTmnYPkuI4gUlBDIOW8leWvvOe7n+S4gOi1sCBwcm9iZS1hdXRoLm1qc++8iOaXp+eahOOAjOivuyBndWFyZCDml6Xlv5fmipMgbGF1bmNoIHRva2Vu44CN5ZyoCi8vIERTSCAwLjEuNyDotbflt7LlpLHmlYjvvIzkvJrorqnmjqLpkojkuIDlvosgNDAxIOKAlOKAlCDop4Hor6Xmlofku7blpLTpg6jor7TmmI7vvInjgIIKY29uc3QgY29va2llID0gcHJvYmVDb29raWUoKTsKY29uc3QgcnBjID0gcHJvYmVScGMoY29va2llKTsKCmNvbnN0IFBSRVNFVCA9IHByb2Nlc3MuYXJndlsyXSB8fCAncXEtY2hhdCc7CmNvbnN0IFBST01QVCA9IHByb2Nlc3MuYXJndlszXSB8fCAn5Y+q5Zue5aSN5Lik5Liq5a2X77ya5pS25YiwJzsKCmNvbnN0IGRpciA9IHByb2JlV29ya3NwYWNlRGlyKCdldmVudHMnKTsKY29uc3Qgd3MgPSBhd2FpdCBycGMoJ3dvcmtzcGFjZS9jcmVhdGUnLCB7IHJlcXVlc3Q6IHsgcGF0aDogZGlyIH0gfSk7CmNvbnN0IHdzSWQgPSB3cy52YWx1ZS53b3Jrc3BhY2Uud29ya3NwYWNlSWQ7CmNvbnN0IHNjID0gYXdhaXQgcnBjKCdzZXNzaW9uL2NyZWF0ZScsIHsgcmVxdWVzdDogeyB3b3Jrc3BhY2VJZDogd3NJZCwgYWdlbnRQcmVzZXQ6IFBSRVNFVCB9IH0pOwppZiAoIXNjLm9rKSB7IGNvbnNvbGUuZXJyb3IoYOKdjCBwcmVzZXQgJHtQUkVTRVR9IOaMgui9veWksei0pTogJHtzYy5lcnJvci5jb2RlfTogJHtzYy5lcnJvci5tZXNzYWdlfWApOyBwcm9jZXNzLmV4aXQoMik7IH0KY29uc3Qgc2Vzc2lvbklkID0gc2MudmFsdWUuc2Vzc2lvbklkOwpjb25zb2xlLmxvZyhg4pyFIHNlc3Npb24gY3JlYXRlZCB3aXRoIHByZXNldCAke1BSRVNFVH06ICR7c2Vzc2lvbklkfWApOwoKLy8g5omT5byAIHJlbW90ZS5tdXjvvIxmb2xsb3cg6K+l5Lya6K+d77yM5bm25byA5ZCvICRldmVudHMKY29uc3Qgc29ja2V0ID0gcHJvYmVNdXhTb2NrZXQoY29va2llKTsKY29uc3QgZXZlbnRUeXBlcyA9IG5ldyBNYXAoKTsKbGV0IHN0cmVhbUlkID0gcmFuZG9tVVVJRCgpOwpsZXQgZXZlbnRTdHJlYW1JZCA9IHJhbmRvbVVVSUQoKTsKbGV0IGdvdFRleHQgPSAnJzsKbGV0IHR1cm5FbmQgPSBudWxsOwpjb25zdCBmcmFtZXMgPSBbXTsKCmNvbnN0IGRvbmUgPSBuZXcgUHJvbWlzZSgocmVzb2x2ZSkgPT4gewogIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiByZXNvbHZlKCd0aW1lb3V0JyksIDkwXzAwMCk7CiAgY29uc3QgZmluaXNoID0gKHdoeSkgPT4geyBjbGVhclRpbWVvdXQodGltZXIpOyByZXNvbHZlKHdoeSk7IH07CiAgc29ja2V0LmFkZEV2ZW50TGlzdGVuZXIoJ29wZW4nLCAoKSA9PiB7CiAgICBjb25zb2xlLmxvZygnICAgd3Mgb3BlbjsgZm9sbG93aW5nIHNlc3Npb24gKyAkZXZlbnRzJyk7CiAgICBzb2NrZXQuc2VuZChKU09OLnN0cmluZ2lmeSh7IHR5cGU6ICdvcGVuJywgc3RyZWFtSWQsIGVuZHBvaW50OiAnc2Vzc2lvbi9mb2xsb3cnLCBwYXlsb2FkOiB7IGFyZ3M6IHsgcmVxdWVzdDogeyBhZGRyZXNzOiB7IGtpbmQ6ICdzZXNzaW9uJywgc2Vzc2lvbklkIH0gfSB9IH0gfSkpOwogICAgc29ja2V0LnNlbmQoSlNPTi5zdHJpbmdpZnkoeyB0eXBlOiAnb3BlbicsIHN0cmVhbUlkOiBldmVudFN0cmVhbUlkLCBlbmRwb2ludDogJyRldmVudHMnLCBwYXlsb2FkOiB7IGFyZ3M6IHt9IH0gfSkpOwogICAgLy8g562J5rWB5bu656uL5ZCO5YaNIHByb21wdAogICAgc2V0VGltZW91dChhc3luYyAoKSA9PiB7CiAgICAgIGNvbnN0IHAgPSBhd2FpdCBycGMoJ3Nlc3Npb24vcHJvbXB0JywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZCwgcmVxdWVzdElkOiByYW5kb21VVUlEKCksIG1vZGU6ICdxdWV1ZScsIGNvbnRlbnQ6IFt7IHR5cGU6ICd0ZXh0JywgdGV4dDogUFJPTVBUIH1dIH0gfSk7CiAgICAgIGNvbnNvbGUubG9nKCcgICBwcm9tcHQ6JywgSlNPTi5zdHJpbmdpZnkocCkpOwogICAgfSwgNzAwKTsKICB9KTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignbWVzc2FnZScsIChldikgPT4gewogICAgbGV0IG07IHRyeSB7IG0gPSBKU09OLnBhcnNlKGV2LmRhdGEpOyB9IGNhdGNoIHsgcmV0dXJuOyB9CiAgICBpZiAobS50eXBlID09PSAnZXJyb3InKSB7IGNvbnNvbGUubG9nKCcgICDimqAgc3RyZWFtIGVycm9yOicsIEpTT04uc3RyaW5naWZ5KG0pLnNsaWNlKDAsIDMwMCkpOyByZXR1cm47IH0KICAgIGlmIChtLnR5cGUgPT09ICdlbmQnKSB7IGNvbnNvbGUubG9nKCcgICBzdHJlYW0gZW5kOicsIG0uc3RyZWFtSWQgPT09IGV2ZW50U3RyZWFtSWQgPyAnJGV2ZW50cycgOiAnc2Vzc2lvbicpOyByZXR1cm47IH0KICAgIGlmIChtLnR5cGUgIT09ICdpdGVtJykgcmV0dXJuOwogICAgaWYgKG0uc3RyZWFtSWQgPT09IGV2ZW50U3RyZWFtSWQpIHsKICAgICAgY29uc3QgdiA9IG0udmFsdWU7CiAgICAgIGlmICh2Py50eXBlID09PSAncmVhZHknKSBjb25zb2xlLmxvZygnICAgJGV2ZW50cyByZWFkeSBjbGllbnRJZD0nLCBTdHJpbmcodi5jbGllbnRJZCkuc2xpY2UoMCwgMTIpLCAnaG9zdD0nLCBKU09OLnN0cmluZ2lmeSh2Lmhvc3QpKTsKICAgICAgZWxzZSBmcmFtZXMucHVzaChbJyRldmVudHM6JyArICh2Py50eXBlID8/ICc/JyksIHY/LmV2ZW50ID8/ICcnXSk7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGNvbnN0IHYgPSBtLnZhbHVlOwogICAgaWYgKHY/LnR5cGUgPT09ICdldmVudCcpIHsKICAgICAgY29uc3QgZXQgPSB2LmV2ZW50Py50eXBlID8/ICc/JzsKICAgICAgZXZlbnRUeXBlcy5zZXQoZXQsIChldmVudFR5cGVzLmdldChldCkgPz8gMCkgKyAxKTsKICAgICAgaWYgKGV0ID09PSAnYXNzaXN0YW50L21lc3NhZ2UnKSB7CiAgICAgICAgZm9yIChjb25zdCBiIG9mIHYuZXZlbnQuZGF0YT8ubWVzc2FnZT8uY29udGVudCA/PyBbXSkgaWYgKGI/LnR5cGUgPT09ICd0ZXh0JykgZ290VGV4dCArPSBiLnRleHQ7CiAgICAgIH0KICAgICAgaWYgKGV0ID09PSAndHVybi9lbmQnKSB7IHR1cm5FbmQgPSB2LmV2ZW50LmRhdGE7IGZpbmlzaCgnZG9uZScpOyB9CiAgICAgIGlmIChldCA9PT0gJ3Rvb2wvY2FsbCcgfHwgZXQgPT09ICd0b29sL3Jlc3VsdCcpIGZyYW1lcy5wdXNoKFtldCwgSlNPTi5zdHJpbmdpZnkodi5ldmVudC5kYXRhKS5zbGljZSgwLCAyNjApXSk7CiAgICB9IGVsc2UgaWYgKHY/LnR5cGUgPT09ICdzbmFwc2hvdCcpIGZyYW1lcy5wdXNoKFsnc25hcHNob3QnLCBPYmplY3Qua2V5cyh2KS5qb2luKCcsJyldKTsKICB9KTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignY2xvc2UnLCAoKSA9PiBmaW5pc2goJ2Nsb3NlZCcpKTsKICBzb2NrZXQuYWRkRXZlbnRMaXN0ZW5lcignZXJyb3InLCAoKSA9PiBmaW5pc2goJ2Vycm9yJykpOwp9KTsKCmNvbnN0IHdoeSA9IGF3YWl0IGRvbmU7CmNvbnNvbGUubG9nKGBcbj09PSDnu5PmnpwgKCR7d2h5fSkgPT09YCk7CmNvbnNvbGUubG9nKCdhc3Npc3RhbnQg5paH5pysOicsIEpTT04uc3RyaW5naWZ5KGdvdFRleHQpKTsKY29uc29sZS5sb2coJ3R1cm4vZW5kIGRhdGE6JywgSlNPTi5zdHJpbmdpZnkodHVybkVuZCk/LnNsaWNlKDAsIDMwMCkpOwpjb25zb2xlLmxvZygnXG7kuovku7bnsbvlnovorqHmlbA6Jyk7CmZvciAoY29uc3QgW2ssIG5dIG9mIFsuLi5ldmVudFR5cGVzXS5zb3J0KCkpIGNvbnNvbGUubG9nKGAgICAke2t9IHgke259YCk7CmNvbnNvbGUubG9nKCdcbuWFtuS7luW4pzonKTsKZm9yIChjb25zdCBmIG9mIGZyYW1lcy5zbGljZSgwLCAxMikpIGNvbnNvbGUubG9nKCcgICAnLCBmLmpvaW4oJyB8ICcpKTsKCnRyeSB7IHNvY2tldC5jbG9zZSgpOyB9IGNhdGNoIHt9CmF3YWl0IHJwYygnd29ya3NwYWNlL2FyY2hpdmVTZXNzaW9uJywgeyByZXF1ZXN0OiB7IHNlc3Npb25JZCB9IH0pOwpjb25zb2xlLmxvZygnXG5bY2xlYW51cF0gc2Vzc2lvbiBhcmNoaXZlZCcpOwpwcm9jZXNzLmV4aXQoMCk7Cg==
+// 端到端验证：remote.mux 事件流 + turn 收集 + 工具调用事件形状。
+// 只读观测：创建一个探测会话，注入一条简单 prompt，打印收到的事件类型与结构。
+import { randomUUID } from 'node:crypto';
+import { probeCookie, probeRpc, probeMuxSocket, probeWorkspaceDir } from './probe-auth.mjs';
+
+// 鉴权与 RPC 引导统一走 probe-auth.mjs（旧的「读 guard 日志抓 launch token」在
+// DSH 0.1.7 起已失效，会让探针一律 401 —— 见该文件头部说明）。
+const cookie = probeCookie();
+const rpc = probeRpc(cookie);
+
+const PRESET = process.argv[2] || 'qq-chat';
+const PROMPT = process.argv[3] || '只回复两个字：收到';
+
+const dir = probeWorkspaceDir('events');
+const ws = await rpc('workspace/create', { request: { path: dir } });
+const wsId = ws.value.workspace.workspaceId;
+const sc = await rpc('session/create', { request: { workspaceId: wsId, agentPreset: PRESET } });
+if (!sc.ok) { console.error(`❌ preset ${PRESET} 挂载失败: ${sc.error.code}: ${sc.error.message}`); process.exit(2); }
+const sessionId = sc.value.sessionId;
+console.log(`✅ session created with preset ${PRESET}: ${sessionId}`);
+
+// 打开 remote.mux，follow 该会话，并开启 $events
+const socket = probeMuxSocket(cookie);
+const eventTypes = new Map();
+let streamId = randomUUID();
+let eventStreamId = randomUUID();
+let gotText = '';
+let turnEnd = null;
+const frames = [];
+
+const done = new Promise((resolve) => {
+  const timer = setTimeout(() => resolve('timeout'), 90_000);
+  const finish = (why) => { clearTimeout(timer); resolve(why); };
+  socket.addEventListener('open', () => {
+    console.log('   ws open; following session + $events');
+    socket.send(JSON.stringify({ type: 'open', streamId, endpoint: 'session/follow', payload: { args: { request: { address: { kind: 'session', sessionId } } } } }));
+    socket.send(JSON.stringify({ type: 'open', streamId: eventStreamId, endpoint: '$events', payload: { args: {} } }));
+    // 等流建立后再 prompt
+    setTimeout(async () => {
+      const p = await rpc('session/prompt', { request: { sessionId, requestId: randomUUID(), mode: 'queue', content: [{ type: 'text', text: PROMPT }] } });
+      console.log('   prompt:', JSON.stringify(p));
+    }, 700);
+  });
+  socket.addEventListener('message', (ev) => {
+    let m; try { m = JSON.parse(ev.data); } catch { return; }
+    if (m.type === 'error') { console.log('   ⚠ stream error:', JSON.stringify(m).slice(0, 300)); return; }
+    if (m.type === 'end') { console.log('   stream end:', m.streamId === eventStreamId ? '$events' : 'session'); return; }
+    if (m.type !== 'item') return;
+    if (m.streamId === eventStreamId) {
+      const v = m.value;
+      if (v?.type === 'ready') console.log('   $events ready clientId=', String(v.clientId).slice(0, 12), 'host=', JSON.stringify(v.host));
+      else frames.push(['$events:' + (v?.type ?? '?'), v?.event ?? '']);
+      return;
+    }
+    const v = m.value;
+    if (v?.type === 'event') {
+      const et = v.event?.type ?? '?';
+      eventTypes.set(et, (eventTypes.get(et) ?? 0) + 1);
+      if (et === 'assistant/message') {
+        for (const b of v.event.data?.message?.content ?? []) if (b?.type === 'text') gotText += b.text;
+      }
+      if (et === 'turn/end') { turnEnd = v.event.data; finish('done'); }
+      if (et === 'tool/call' || et === 'tool/result') frames.push([et, JSON.stringify(v.event.data).slice(0, 260)]);
+    } else if (v?.type === 'snapshot') frames.push(['snapshot', Object.keys(v).join(',')]);
+  });
+  socket.addEventListener('close', () => finish('closed'));
+  socket.addEventListener('error', () => finish('error'));
+});
+
+const why = await done;
+console.log(`\n=== 结果 (${why}) ===`);
+console.log('assistant 文本:', JSON.stringify(gotText));
+console.log('turn/end data:', JSON.stringify(turnEnd)?.slice(0, 300));
+console.log('\n事件类型计数:');
+for (const [k, n] of [...eventTypes].sort()) console.log(`   ${k} x${n}`);
+console.log('\n其他帧:');
+for (const f of frames.slice(0, 12)) console.log('   ', f.join(' | '));
+
+try { socket.close(); } catch {}
+await rpc('workspace/archiveSession', { request: { sessionId } });
+console.log('\n[cleanup] session archived');
+process.exit(0);

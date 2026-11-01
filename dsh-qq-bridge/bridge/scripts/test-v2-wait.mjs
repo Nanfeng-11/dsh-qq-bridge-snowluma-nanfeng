@@ -1,1 +1,92 @@
-Ly8g5LqM5Luj4oCc5a+56Z2i5rKh6K+05a6MIC8g57uT5p2f5YmN562J5b6F4oCd6YC76L6R5rWL6K+V44CCCi8vIOmqjOivge+8mgovLyAxLiBsb29rc0xpa2VVbmZpbmlzaGVkIOiDveivhuWIq+W4uOingeKAnOivneivtOS4gOWNiuKAneeahOe7k+Wwvu+8mwovLyAyLiDlt7Lor7TlroznmoTlj6XlrZDkuI3kvJrooqvor6/liKTvvJsKLy8gMy4g6YWN572u5YWB6K64IDV+MTAg5YiG6ZKf55qE6ZW/562J5b6F77yIbWF4TXMgPj0gNjAwMDAw77yJ77ybCi8vIDQuIOaPkOS+m+S6huWPr+eUqOeahOWCrOivneefreWPpeOAggppbXBvcnQgZnMgZnJvbSAnbm9kZTpmcyc7CmltcG9ydCBwYXRoIGZyb20gJ25vZGU6cGF0aCc7CmltcG9ydCB7IGZpbGVVUkxUb1BhdGggfSBmcm9tICdub2RlOnVybCc7CmltcG9ydCB7CiAgbG9va3NMaWtlVW5maW5pc2hlZCwKICBVTkZJTklTSEVEX1BST01QVF9SRVBMSUVTLAogIEVORF9ST1VORF9XQUlUX01JTl9NUywKICBFTkRfUk9VTkRfV0FJVF9NQVhfTVMKfSBmcm9tICcuLi9zcmMvdjItd2FpdC5qcyc7Cgpjb25zdCBfX2Rpcm5hbWUgPSBwYXRoLmRpcm5hbWUoZmlsZVVSTFRvUGF0aChpbXBvcnQubWV0YS51cmwpKTsKY29uc3QgUk9PVCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuLicpOwoKbGV0IGZhaWxlZCA9IDA7CmZ1bmN0aW9uIGFzc2VydChjb25kLCBsYWJlbCkgewogIGlmIChjb25kKSB7CiAgICBjb25zb2xlLmxvZyhg4pyFICR7bGFiZWx9YCk7CiAgfSBlbHNlIHsKICAgIGNvbnNvbGUuZXJyb3IoYOKdjCAke2xhYmVsfWApOwogICAgZmFpbGVkID0gMTsKICB9Cn0KCi8vIDEuIOacquivtOWujOeJueW+gQpjb25zdCB1bmZpbmlzaGVkQ2FzZXMgPSBbCiAgJ+S9oOefpemBkycsCiAgJ+etieS4gOS4iycsCiAgJ+aIkei3n+S9oOiusicsCiAgJ+S9huaYrycsCiAgJ+aJgOS7peivtCcsCiAgJ+eEtuWQjicsCiAgJ+mCo+S4qicsCiAgJ+WwseaYrycsCiAgJ+aIkeaDs+ivtCcsCiAgJ+WvueS6hicsCiAgJ+etieaIkScsCiAgJ+etieetiScsCiAgJ+aIkeeci+eciycsCiAgJ+i/mOaciScsCiAgJ+WGjeivtCcsCiAgJ+S4u+imgeaYrycsCiAgJ+WbnuWktOivtCcsCiAgJ+W+heS8micsCiAgJ+WGjeivtOWQpycsCiAgJ+S9oOWQrOaIkeivtO+8jCcKXTsKZm9yIChjb25zdCB0ZXh0IG9mIHVuZmluaXNoZWRDYXNlcykgewogIGFzc2VydChsb29rc0xpa2VVbmZpbmlzaGVkKHRleHQpID09PSB0cnVlLCBg5pyq6K+05a6M5Yik5a6aIHRydWU6ICR7SlNPTi5zdHJpbmdpZnkodGV4dCl9YCk7Cn0KCi8vIDIuIOW3suivtOWujC/mma7pgJrmtojmga/kuI3lupTor6/liKQKY29uc3QgZmluaXNoZWRDYXNlcyA9IFsKICAnJywKICAn5aW955qEJywKICAn5LuK5aSp5aW957SvJywKICAnQuermeaQnOeMq+i4qeWltuinhumikSDop6PljovkuIDnu50nLAogICfpgqPljrvnnIvot7PkvJ7nrKzkuIDop4bop5Lop4bpopEnLAogICfkvaDlho3or7TkuIDpgY3or5Xor5UnLAogICfvvJ8nLAogICflk6bniZvmibknLAogICfov5nkuYjliLrmv4AnLAogICfkvaDor7TlrozkuobjgIInCl07CmZvciAoY29uc3QgdGV4dCBvZiBmaW5pc2hlZENhc2VzKSB7CiAgYXNzZXJ0KGxvb2tzTGlrZVVuZmluaXNoZWQodGV4dCkgPT09IGZhbHNlLCBg5bey6K+05a6ML+aZrumAmuWIpOWumiBmYWxzZTogJHtKU09OLnN0cmluZ2lmeSh0ZXh0KX1gKTsKfQoKLy8gMy4g6YWN572u5YWB6K646ZW/562J5b6FCnRyeSB7CiAgY29uc3QgY2ZnID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsICdjb25maWcuanNvbicpLCAndXRmOCcpKTsKICBjb25zdCBtYXhNcyA9IE51bWJlcihjZmcuc29jaWFsVjI/LndhaXQ/Lm1heE1zKSB8fCAwOwogIGFzc2VydChtYXhNcyA+PSBFTkRfUk9VTkRfV0FJVF9NQVhfTVMsIGB3YWl0Lm1heE1zPSR7bWF4TXN9ID49IDYwMDAwMGApOwp9IGNhdGNoIChlcnJvcikgewogIGNvbnNvbGUuZXJyb3IoJ+KdjCDor7vlj5YgY29uZmlnLmpzb24g5aSx6LSlOicsIGVycm9yLm1lc3NhZ2UpOwogIGZhaWxlZCA9IDE7Cn0KCi8vIDQuIOWCrOivneefreWPpQphc3NlcnQoQXJyYXkuaXNBcnJheShVTkZJTklTSEVEX1BST01QVF9SRVBMSUVTKSAmJiBVTkZJTklTSEVEX1BST01QVF9SRVBMSUVTLmxlbmd0aCA+IDAsICfmj5Dkvpvlgqzor53nn63lj6UnKTsKYXNzZXJ0KEVORF9ST1VORF9XQUlUX01JTl9NUyA+PSA1ICogNjAgKiAxMDAwICYmIEVORF9ST1VORF9XQUlUX01BWF9NUyA+PSBFTkRfUk9VTkRfV0FJVF9NSU5fTVMsICfnu5PmnZ/liY3nrYnlvoUgNX4xMCDliIbpkp/luLjph4/mraPnoa4nKTsKCmlmIChmYWlsZWQpIHsKICBjb25zb2xlLmVycm9yKCdcbuKdjCDmtYvor5XlpLHotKUnKTsKICBwcm9jZXNzLmV4aXQoMSk7Cn0KY29uc29sZS5sb2coJ1xu8J+OiSDkuozku6PnrYnlvoUv57uT5p2f5Zue5ZCI6YC76L6R5rWL6K+V6YCa6L+HJyk7Cg==
+// 二代“对面没说完 / 结束前等待”逻辑测试。
+// 验证：
+// 1. looksLikeUnfinished 能识别常见“话说一半”的结尾；
+// 2. 已说完的句子不会被误判；
+// 3. 配置允许 5~10 分钟的长等待（maxMs >= 600000）；
+// 4. 提供了可用的催话短句。
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import {
+  looksLikeUnfinished,
+  UNFINISHED_PROMPT_REPLIES,
+  END_ROUND_WAIT_MIN_MS,
+  END_ROUND_WAIT_MAX_MS
+} from '../src/v2-wait.js';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
+
+let failed = 0;
+function assert(cond, label) {
+  if (cond) {
+    console.log(`✅ ${label}`);
+  } else {
+    console.error(`❌ ${label}`);
+    failed = 1;
+  }
+}
+
+// 1. 未说完特征
+const unfinishedCases = [
+  '你知道',
+  '等一下',
+  '我跟你讲',
+  '但是',
+  '所以说',
+  '然后',
+  '那个',
+  '就是',
+  '我想说',
+  '对了',
+  '等我',
+  '等等',
+  '我看看',
+  '还有',
+  '再说',
+  '主要是',
+  '回头说',
+  '待会',
+  '再说吧',
+  '你听我说，'
+];
+for (const text of unfinishedCases) {
+  assert(looksLikeUnfinished(text) === true, `未说完判定 true: ${JSON.stringify(text)}`);
+}
+
+// 2. 已说完/普通消息不应误判
+const finishedCases = [
+  '',
+  '好的',
+  '今天好累',
+  'B站搜猫踩奶视频 解压一绝',
+  '那去看跳伞第一视角视频',
+  '你再说一遍试试',
+  '？',
+  '哦牛批',
+  '这么刺激',
+  '你说完了。'
+];
+for (const text of finishedCases) {
+  assert(looksLikeUnfinished(text) === false, `已说完/普通判定 false: ${JSON.stringify(text)}`);
+}
+
+// 3. 配置允许长等待
+try {
+  const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
+  const maxMs = Number(cfg.socialV2?.wait?.maxMs) || 0;
+  assert(maxMs >= END_ROUND_WAIT_MAX_MS, `wait.maxMs=${maxMs} >= 600000`);
+} catch (error) {
+  console.error('❌ 读取 config.json 失败:', error.message);
+  failed = 1;
+}
+
+// 4. 催话短句
+assert(Array.isArray(UNFINISHED_PROMPT_REPLIES) && UNFINISHED_PROMPT_REPLIES.length > 0, '提供催话短句');
+assert(END_ROUND_WAIT_MIN_MS >= 5 * 60 * 1000 && END_ROUND_WAIT_MAX_MS >= END_ROUND_WAIT_MIN_MS, '结束前等待 5~10 分钟常量正确');
+
+if (failed) {
+  console.error('\n❌ 测试失败');
+  process.exit(1);
+}
+console.log('\n🎉 二代等待/结束回合逻辑测试通过');
